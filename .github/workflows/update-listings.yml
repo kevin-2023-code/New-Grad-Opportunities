@@ -1,0 +1,83 @@
+# The hourly refresh: read the catalog, re-render the lists, commit only when
+# the roles actually changed.
+#
+# Two things about the schedule that are easy to get wrong:
+#
+#   * A scheduled workflow only ever runs from the repository's DEFAULT branch.
+#     Merging this file to a side branch schedules nothing.
+#   * GitHub disables schedules on a repository with 60 days of no activity. This
+#     one commits whenever the listings move, which is its own heartbeat — but a
+#     list that has genuinely stopped changing will eventually be switched off,
+#     and the banner on the Actions tab is the only warning.
+name: Update listings
+
+on:
+  schedule:
+    # Hourly, on the hour. GitHub queues scheduled runs under load, so the real
+    # cadence is "about once an hour" — which is what the README promises.
+    - cron: '0 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    # Re-render as soon as the generator changes, so a layout fix is visible
+    # without waiting for the hour. Deliberately NOT listings.json: that is this
+    # workflow's own output, and triggering on it would be a loop.
+    paths:
+      - '.github/scripts/*.mjs'
+      - '.github/scripts/lib/**'
+      - '.github/scripts/config.json'
+      - '.github/workflows/update-listings.yml'
+
+permissions:
+  contents: write
+
+# One run at a time. Two overlapping runs would race to commit two renderings
+# of two different reads, and the loser would have to be force-pushed away.
+concurrency:
+  group: update-listings
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # The generator has no dependencies, so there is nothing to install and
+      # nothing to audit — but there are tests, and they run before a run is
+      # allowed to rewrite the published list.
+      - name: Test the generator
+        run: node --test .github/scripts/*.test.mjs
+
+      - name: Read the catalog
+        run: node .github/scripts/fetch.mjs
+
+      - name: Render the lists
+        run: node .github/scripts/render.mjs
+
+      - name: Commit what changed
+        run: |
+          set -euo pipefail
+          if git diff --quiet; then
+            echo "No change — the catalog returned the same roles."
+            exit 0
+          fi
+          count=$(node -p "require('./.github/scripts/listings.json').count")
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m "Refresh listings — ${count} roles"
+          # The push can lose a race with a human commit; rebasing onto whatever
+          # landed and retrying is safe because this job's output is derived,
+          # never authored.
+          for attempt in 1 2 3; do
+            if git push; then exit 0; fi
+            sleep $((attempt * 5))
+            git pull --rebase --autostash
+          done
+          echo "Could not push after three attempts." >&2
+          exit 1

@@ -1,0 +1,25 @@
+# The generator's own tests, on every pull request and every push to main.
+#
+# Separate from update-listings.yml because they answer different questions: a
+# failure here means the renderer is wrong, and a failure there means the
+# catalog could not be read. Wiring them together would have the second one
+# reported as the first.
+name: Test
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: node --test .github/scripts/*.test.mjs
