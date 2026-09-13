@@ -3,6 +3,20 @@
 This list is **generated**, not maintained by hand. Nobody types a row into the README, which is
 why there is no "add a job" pull request to make.
 
+## Setting the repository up
+
+The hourly run **commits to this repository**, so GitHub Actions needs permission to write:
+
+> Settings → Actions → General → Workflow permissions → **Read and write permissions** → Save
+
+Without it every run reads the catalog, renders the files, and fails on the push with a 403.
+There is nothing else to configure — the API needs no key, and the generator has no dependencies.
+
+Scheduled workflows run from the repository's **default branch** only, and GitHub switches the
+schedule off after 60 days of no repository activity. This one commits whenever the listings move,
+which is its own heartbeat; the banner on the Actions tab is the only warning if it is ever
+switched off.
+
 ## Something on the list is wrong
 
 Stale role, wrong company, wrong location, a role that is not really entry-level —

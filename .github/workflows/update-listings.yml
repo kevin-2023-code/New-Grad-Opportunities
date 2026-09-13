@@ -16,17 +16,14 @@ on:
     # Hourly, on the hour. GitHub queues scheduled runs under load, so the real
     # cadence is "about once an hour" — which is what the README promises.
     - cron: '0 * * * *'
+  # Run it now, from the Actions tab. This is also how a generator change is
+  # published without waiting for the hour.
+  #
+  # There is deliberately no `push:` trigger. This workflow COMMITS, and the
+  # branch it commits to is the one it ran on — so a push trigger would have it
+  # rewriting whatever branch someone was working on, and would have to name the
+  # default branch, which is a string this file cannot know.
   workflow_dispatch:
-  push:
-    branches: [main]
-    # Re-render as soon as the generator changes, so a layout fix is visible
-    # without waiting for the hour. Deliberately NOT listings.json: that is this
-    # workflow's own output, and triggering on it would be a loop.
-    paths:
-      - '.github/scripts/*.mjs'
-      - '.github/scripts/lib/**'
-      - '.github/scripts/config.json'
-      - '.github/workflows/update-listings.yml'
 
 permissions:
   contents: write
