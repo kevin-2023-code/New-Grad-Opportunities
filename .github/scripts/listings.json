@@ -6,9 +6,195 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-14T13:51:41.080Z",
-  "count": 2187,
+  "fetchedAt": "2026-09-14T19:13:46.441Z",
+  "count": 2219,
   "listings": [
+    {
+      "id": "4ccaf058-95d1-4144-8d89-be2c41350e97",
+      "company": "Capco",
+      "title": "Full Stack Developer",
+      "locations": [
+        "Canada - Toronto"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/capco/jobs/8178768",
+      "url": "https://trueinterview.io/applications/jobs?role=4ccaf058-95d1-4144-8d89-be2c41350e97",
+      "postedAt": "2026-09-14T16:09:49.000Z",
+      "updatedAt": "2026-09-14T16:09:49.000Z"
+    },
+    {
+      "id": "1475dde7-be34-4314-ab74-758bda7df67f",
+      "company": "Nebius",
+      "title": "Network Security Engineer",
+      "locations": [
+        "Remote - Europe"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.nebius.com/?gh_jid=4971845101",
+      "url": "https://trueinterview.io/applications/jobs?role=1475dde7-be34-4314-ab74-758bda7df67f",
+      "postedAt": "2026-09-14T16:03:51.000Z",
+      "updatedAt": "2026-09-14T16:03:51.000Z"
+    },
+    {
+      "id": "709bb092-3886-4428-bf52-d377f6618bfd",
+      "company": "Gymshark",
+      "title": "Mobile Automation Engineer",
+      "locations": [
+        "Solihull, England, United Kingdom",
+        "IQ"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/gymshark/jobs/4975830101",
+      "url": "https://trueinterview.io/applications/jobs?role=709bb092-3886-4428-bf52-d377f6618bfd",
+      "postedAt": "2026-09-14T16:02:57.000Z",
+      "updatedAt": "2026-09-14T16:02:57.000Z"
+    },
+    {
+      "id": "abeb4f36-0dbc-48ae-9291-b3c7410daf51",
+      "company": "Google",
+      "title": "Software Engineer",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/106684387621249734-software-engineer",
+      "url": "https://trueinterview.io/applications/jobs?role=abeb4f36-0dbc-48ae-9291-b3c7410daf51",
+      "postedAt": "2026-09-14T14:33:10.000Z",
+      "updatedAt": "2026-09-14T14:33:10.000Z"
+    },
+    {
+      "id": "406ba9ca-09ad-47ab-9408-a9d51152be94",
+      "company": "Google",
+      "title": "Software Engineer, Early Career, Campus",
+      "locations": [
+        "Mountain View, CA, USA",
+        "Cambridge, MA, USA"
+      ],
+      "cities": [
+        "Mountain View, CA",
+        "Cambridge"
+      ],
+      "countries": [
+        "United States",
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
+      "url": "https://trueinterview.io/applications/jobs?role=406ba9ca-09ad-47ab-9408-a9d51152be94",
+      "postedAt": "2026-09-14T14:33:10.000Z",
+      "updatedAt": "2026-09-14T14:33:10.000Z"
+    },
+    {
+      "id": "26ba748a-507d-4de2-b93a-7f7af44b31e1",
+      "company": "IBM",
+      "title": "ELH Software Engineer / Agent Engineer - EDA - Poughkeepsie 2027",
+      "locations": [
+        "POUGHKEEPSIE, US",
+        "Austin, US"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=132570",
+      "url": "https://trueinterview.io/applications/jobs?role=26ba748a-507d-4de2-b93a-7f7af44b31e1",
+      "postedAt": "2026-09-14T14:33:10.000Z",
+      "updatedAt": "2026-09-14T14:33:10.000Z"
+    },
+    {
+      "id": "653ac5b1-9e68-4c4b-adf1-c221f8154a65",
+      "company": "NetApp",
+      "title": "Entry Level Software Engineer - ANF (Azure NetApp Files)",
+      "locations": [
+        "San Jose, California, United States"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.netapp.com/job/san-jose/entry-level-software-engineer-anf-azure-netapp-files/27600/97615964496",
+      "url": "https://trueinterview.io/applications/jobs?role=653ac5b1-9e68-4c4b-adf1-c221f8154a65",
+      "postedAt": "2026-09-14T14:33:10.000Z",
+      "updatedAt": "2026-09-14T14:33:10.000Z"
+    },
     {
       "id": "3e41a9d5-0692-42ee-8b5a-e197e1d87f36",
       "company": "Autodesk",
@@ -189,6 +375,108 @@
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
     {
+      "id": "1fdac6c1-9328-4899-9f93-232f014d020a",
+      "company": "Cenova",
+      "title": "[Luxe-Retail] / Cloud Data Engineer Confirmé (H/F) PARIS",
+      "locations": [
+        "Neuilly-sur-Seine, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/cenova/jobs/luxe-retail-cloud-data-engineer-confirme-h-f-paris_neuilly-sur-seine_CENOV_Pq0dxrL",
+      "url": "https://trueinterview.io/applications/jobs?role=1fdac6c1-9328-4899-9f93-232f014d020a",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "48acfa3c-0bef-4952-a2ef-162366f1e3a0",
+      "company": "Cenova",
+      "title": "AI Engineer (H/F) – Lille & Paris",
+      "locations": [
+        "Marcq-en-Baroeul, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/cenova/jobs/ai-engineer-h-f-lille-paris_CENOV_NkkXMr7",
+      "url": "https://trueinterview.io/applications/jobs?role=48acfa3c-0bef-4952-a2ef-162366f1e3a0",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "28dd35ae-119a-46da-8eba-4fa55133aba4",
+      "company": "Consensus",
+      "title": "DevOps Engineer",
+      "locations": [
+        "United States, Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "DevOps Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://4dayweek.io/job/devops-engineer-at-consensus-6bf18434",
+      "url": "https://trueinterview.io/applications/jobs?role=28dd35ae-119a-46da-8eba-4fa55133aba4",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "d8ef4941-1e0f-480f-bd76-52306352793d",
+      "company": "Devialet",
+      "title": "Embedded Software Engineer (F/H)",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/devialet/jobs/embedded-software-engineer-f-h_paris",
+      "url": "https://trueinterview.io/applications/jobs?role=d8ef4941-1e0f-480f-bd76-52306352793d",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
       "id": "e7ab7a3e-963c-401d-874a-4bb00e6d8971",
       "company": "DoiT International",
       "title": "Full Stack Engineer - Cloud & SaaS Integrations",
@@ -210,6 +498,158 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/doit-international/jobs/full-stack-engineer-cloud-saas-integrations-9085553332",
       "url": "https://trueinterview.io/applications/jobs?role=e7ab7a3e-963c-401d-874a-4bb00e6d8971",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "c38fc878-1f52-43a8-a31e-643e76f0f6d4",
+      "company": "Entain",
+      "title": "Data Engineer",
+      "locations": [
+        "Gibraltar, Gibraltar"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/entain/jobs/data-engineer_gibraltar",
+      "url": "https://trueinterview.io/applications/jobs?role=c38fc878-1f52-43a8-a31e-643e76f0f6d4",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "cf320dfb-c223-45af-be94-01bb15712327",
+      "company": "FIS Global",
+      "title": "Mainframe Software Engineer I, COBOL",
+      "locations": [
+        "3 Locations"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-GA-ATL-201-STE-900/Mainframe-Software-Engineer-I--COBOL_JR0309079",
+      "url": "https://trueinterview.io/applications/jobs?role=cf320dfb-c223-45af-be94-01bb15712327",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "3d60c342-b82c-4435-afe8-867c6bcba2c0",
+      "company": "Jalasoft",
+      "title": "ML Platform and Inference Engineer - Content Developer",
+      "locations": [
+        "Argentina"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Platform Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/jalasoft/jobs/ml-platform-and-inference-engineer-content-developer",
+      "url": "https://trueinterview.io/applications/jobs?role=3d60c342-b82c-4435-afe8-867c6bcba2c0",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "d20fd9fe-0b28-4d9f-801d-d4d4b5438f13",
+      "company": "Jimini AI",
+      "title": "AI Engineer",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/jimini-ai/jobs/ai-engineer_paris",
+      "url": "https://trueinterview.io/applications/jobs?role=d20fd9fe-0b28-4d9f-801d-d4d4b5438f13",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "bcffdf73-4a50-42ad-9d52-2b68ee13b33c",
+      "company": "Jimini AI",
+      "title": "AI Engineer, LLM (Stagiaire, Alternant)",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/jimini-ai/jobs/machine-learning-intern_paris",
+      "url": "https://trueinterview.io/applications/jobs?role=bcffdf73-4a50-42ad-9d52-2b68ee13b33c",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "0be0050d-3f7a-4934-ba94-16905006d98a",
+      "company": "Jimini AI",
+      "title": "Full Stack Software Engineer",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/jimini-ai/jobs/full-stack-software-engineer_paris",
+      "url": "https://trueinterview.io/applications/jobs?role=0be0050d-3f7a-4934-ba94-16905006d98a",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
@@ -545,6 +985,58 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/vetsez/jobs/data-automation-engineer-remote-opportunity",
       "url": "https://trueinterview.io/applications/jobs?role=bfccc514-a8b3-4098-bfb7-847d513e8189",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "2f958c6f-e754-44c9-8c79-eb1cf32af0b9",
+      "company": "Wise",
+      "title": "Security Engineer",
+      "locations": [
+        "Austin, United States"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://4dayweek.io/job/security-engineer-at-wise-0b6fa6c9",
+      "url": "https://trueinterview.io/applications/jobs?role=2f958c6f-e754-44c9-8c79-eb1cf32af0b9",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "f3b31364-76a6-4656-bd5d-7529d85c29f3",
+      "company": "Workday",
+      "title": "AI Engineer",
+      "locations": [
+        "Canada, BC, Vancouver"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/AI-Engineer_JR-0109305",
+      "url": "https://trueinterview.io/applications/jobs?role=f3b31364-76a6-4656-bd5d-7529d85c29f3",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
@@ -896,6 +1388,31 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/full-circle/jobs/full-stack-developer-ai-first-2902343008",
       "url": "https://trueinterview.io/applications/jobs?role=72bf6860-b6cb-4fea-89bc-cd4d5b1c25e8",
+      "postedAt": "2026-09-13T00:00:00.000Z",
+      "updatedAt": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "id": "7daa0bb2-c2e5-4d3a-9c81-ae548e6505e8",
+      "company": "Hewlett Packard Enterprise",
+      "title": "AI and Machine Learning Engineering Graduate",
+      "locations": [
+        "Durham, North Carolina, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475",
+      "url": "https://trueinterview.io/applications/jobs?role=7daa0bb2-c2e5-4d3a-9c81-ae548e6505e8",
       "postedAt": "2026-09-13T00:00:00.000Z",
       "updatedAt": "2026-09-13T00:00:00.000Z"
     },
@@ -4325,6 +4842,32 @@
       "source": "trueinterview",
       "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Sr-Associate--Generative-AI-Engineer-Emerging-Businesses-Advisory-Bangalore_754119WD",
       "url": "https://trueinterview.io/applications/jobs?role=c73e8e49-c9cb-4017-a9b5-263a024b2950",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
+      "id": "1325810c-9044-45bb-b75e-554c8ac5c5d1",
+      "company": "QUALCOMM",
+      "title": "Machine Learning Engineer, AI Processors (New Grad to Engineer Level)",
+      "locations": [
+        "Markham, ON, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446721063770",
+      "url": "https://trueinterview.io/applications/jobs?role=1325810c-9044-45bb-b75e-554c8ac5c5d1",
       "postedAt": "2026-09-11T00:00:00.000Z",
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
@@ -10752,6 +11295,31 @@
       "updatedAt": "2026-09-09T00:00:00.000Z"
     },
     {
+      "id": "e3d0048f-5ab2-4f7c-83fa-596badb496fc",
+      "company": "Dell",
+      "title": "Software Engineer 1 - IT",
+      "locations": [
+        "TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/298784",
+      "url": "https://trueinterview.io/applications/jobs?role=e3d0048f-5ab2-4f7c-83fa-596badb496fc",
+      "postedAt": "2026-09-09T00:00:00.000Z",
+      "updatedAt": "2026-09-09T00:00:00.000Z"
+    },
+    {
       "id": "8c8639db-5c0d-47fa-81d6-9025d99098d1",
       "company": "Deloitte",
       "title": "AI Engineer / Scientist confirmé F/H",
@@ -11177,6 +11745,56 @@
       "source": "trueinterview",
       "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Harrogate-England-Vocalink/Site-Reliability-Engineer-I---Connex_R-279327",
       "url": "https://trueinterview.io/applications/jobs?role=aeca6c64-d935-452e-b0a3-bfbdcdefff12",
+      "postedAt": "2026-09-09T00:00:00.000Z",
+      "updatedAt": "2026-09-09T00:00:00.000Z"
+    },
+    {
+      "id": "75c9307f-08a1-4e45-9046-43a0af6509de",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "locations": [
+        "Redmond, WA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556985572",
+      "url": "https://trueinterview.io/applications/jobs?role=75c9307f-08a1-4e45-9046-43a0af6509de",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-09T00:00:00.000Z"
+    },
+    {
+      "id": "62a122b2-52e9-43a2-ad0e-1c28cdeb5be2",
+      "company": "Microsoft",
+      "title": "Software Engineer Intune",
+      "locations": [
+        "Redmond, WA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
+      "url": "https://trueinterview.io/applications/jobs?role=62a122b2-52e9-43a2-ad0e-1c28cdeb5be2",
       "postedAt": "2026-09-09T00:00:00.000Z",
       "updatedAt": "2026-09-09T00:00:00.000Z"
     },
@@ -14141,6 +14759,32 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/q4-inc/jobs/information-security-engineer-india",
       "url": "https://trueinterview.io/applications/jobs?role=a977a5f0-7141-4ab3-b0b4-376ef26bd45a",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "f7b1b99a-161a-4c10-aab5-56fa9c618cca",
+      "company": "QUALCOMM",
+      "title": "System AI Engineer, Display (New Grad Level and up)",
+      "locations": [
+        "Markham, ON, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446718599884",
+      "url": "https://trueinterview.io/applications/jobs?role=f7b1b99a-161a-4c10-aab5-56fa9c618cca",
       "postedAt": "2026-09-08T00:00:00.000Z",
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
@@ -18393,6 +19037,62 @@
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
     {
+      "id": "dfd22a77-7242-40bf-bd2e-34d9ff33763e",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026",
+      "url": "https://trueinterview.io/applications/jobs?role=dfd22a77-7242-40bf-bd2e-34d9ff33763e",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "1a757d13-eaad-4116-a0cd-9d95141af491",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Early Career",
+      "locations": [
+        "Newark, New Jersey, USA",
+        "Cambridge, Massachusetts, USA"
+      ],
+      "cities": [
+        "Cambridge"
+      ],
+      "countries": [
+        "United States",
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10529830/software-development-engineer-early-career",
+      "url": "https://trueinterview.io/applications/jobs?role=1a757d13-eaad-4116-a0cd-9d95141af491",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
       "id": "f6e51dbf-5cf5-46b8-bdab-e11cb82d3da7",
       "company": "Ambev",
       "title": "Zé Delivery / Platform Engineer (São Paulo - SP)",
@@ -19369,6 +20069,60 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/meritis/jobs/data-engineer-gcp-h-f_aix-en-provence",
       "url": "https://trueinterview.io/applications/jobs?role=2ccdc039-73e2-49ec-94b9-c0d9473c0e6b",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "7c9c861f-71b6-405e-b1e6-07c31f2a0c2a",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "locations": [
+        "Reston, VA, US",
+        "MD,US",
+        "Redmond, WA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "url": "https://trueinterview.io/applications/jobs?role=7c9c861f-71b6-405e-b1e6-07c31f2a0c2a",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "27237a10-e031-404e-9f39-e848d1d6a79c",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "locations": [
+        "Redmond, WA, US",
+        "Reston, VA, US",
+        "MD,US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "url": "https://trueinterview.io/applications/jobs?role=27237a10-e031-404e-9f39-e848d1d6a79c",
       "postedAt": "2026-09-04T00:00:00.000Z",
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
@@ -34254,6 +35008,31 @@
       "updatedAt": "2026-08-27T00:01:55.000Z"
     },
     {
+      "id": "c48c8cac-e59d-4379-866b-e37ef3a579cf",
+      "company": "Keysight",
+      "title": "R&D Software Engineer, Recent Graduate",
+      "locations": [
+        "US-CA-Santa Rosa-Bldg 4"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54048?lang=en-us",
+      "url": "https://trueinterview.io/applications/jobs?role=c48c8cac-e59d-4379-866b-e37ef3a579cf",
+      "postedAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z"
+    },
+    {
       "id": "20ead24e-ff84-4a37-a176-baf40739fc5d",
       "company": "Spacex",
       "title": "Electrical Engineer, Launch Pad (Starship)",
@@ -36997,6 +37776,31 @@
       "url": "https://trueinterview.io/applications/jobs?role=e886b845-2f54-4d6f-9275-e0bdaf675ede",
       "postedAt": "2026-08-24T17:41:41.000Z",
       "updatedAt": "2026-08-25T00:15:18.000Z"
+    },
+    {
+      "id": "e181a0bd-a2a0-42b3-9e08-ece80af26cd7",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Leo, Early Career - 2026",
+      "locations": [
+        "Redmond, Washington, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026",
+      "url": "https://trueinterview.io/applications/jobs?role=e181a0bd-a2a0-42b3-9e08-ece80af26cd7",
+      "postedAt": "2026-08-25T00:00:00.000Z",
+      "updatedAt": "2026-08-25T00:00:00.000Z"
     },
     {
       "id": "331b932b-c68c-4a81-8b09-8d452c976b27",
@@ -42171,6 +42975,56 @@
       "url": "https://trueinterview.io/applications/jobs?role=31a5d273-33c3-4709-b9b6-b47ba12359ad",
       "postedAt": "2026-08-19T16:03:36.000Z",
       "updatedAt": "2026-08-19T16:03:36.000Z"
+    },
+    {
+      "id": "9540b709-298c-45d2-875d-f75591a16641",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Software Engineering",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893397026205",
+      "url": "https://trueinterview.io/applications/jobs?role=9540b709-298c-45d2-875d-f75591a16641",
+      "postedAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-08-19T00:00:00.000Z"
+    },
+    {
+      "id": "f45eab34-22f9-42ee-af35-6d6427ea6c34",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893397026201",
+      "url": "https://trueinterview.io/applications/jobs?role=f45eab34-22f9-42ee-af35-6d6427ea6c34",
+      "postedAt": "2026-08-19T00:00:00.000Z",
+      "updatedAt": "2026-08-19T00:00:00.000Z"
     },
     {
       "id": "8d2b98e4-75d9-4be4-9ca1-b0b75fa61b8c",
@@ -57377,33 +58231,6 @@
       "url": "https://trueinterview.io/applications/jobs?role=6a5d92c4-9a46-444f-8230-cd11300d78fc",
       "postedAt": "2026-07-26T20:53:26.000Z",
       "updatedAt": "2026-07-26T20:53:26.000Z"
-    },
-    {
-      "id": "0b1da185-0616-4f7f-9832-c1c364c5315f",
-      "company": "Nebius",
-      "title": "Electrical Design Engineer",
-      "locations": [
-        "Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.nebius.com/?gh_jid=4934595101",
-      "url": "https://trueinterview.io/applications/jobs?role=0b1da185-0616-4f7f-9832-c1c364c5315f",
-      "postedAt": "2026-07-26T19:18:44.000Z",
-      "updatedAt": "2026-07-26T19:18:44.000Z"
     },
     {
       "id": "1f17376a-3137-472b-abae-a761690acb3b",
