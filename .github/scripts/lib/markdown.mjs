@@ -26,9 +26,20 @@ function row(job, now, previousCompany) {
     job.company && job.company === previousCompany
       ? '↳'
       : `<strong>${escapeHtml(job.company || '—')}</strong>`;
-  // The role links at the board, where the posting can be ranked against a CV
-  // and tracked; the Apply cell links at the employer's own form. Two links
-  // with two different jobs, rather than one link that has to be both.
+  // The role links at the posting's own page on TrueInterview (`url`, which the
+  // API answers with `/jobs/<id>`: one role, readable without an account, with
+  // the ranking and tracking a click further in); the Apply cell links at the
+  // employer's own form. Two links with two different jobs, rather than one
+  // link that has to be both.
+  //
+  // That distinction is the whole reason the API grew a second URL. `url` used
+  // to be the board deep link `/applications/jobs?role=<id>`, which is
+  // account-only — so a reader clicking a role title here was answered with a
+  // login page instead of the job, and one who was signed in got the whole
+  // board, AI-ranked against their own CV, with this role pinned somewhere in
+  // it. This file does not choose between them: it prints whatever `url` the
+  // catalog published, which is why the fix reached these tables without a
+  // change to the renderer.
   const role = `${link(job.title || 'Untitled role', job.url)}${mark ? ` ${mark}` : ''}`;
   const apply = safeUrl(job.applyUrl) ? link('Apply', job.applyUrl) : '—';
   return [
