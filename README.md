@@ -12,13 +12,13 @@ from the list on the next run instead of wasting your afternoon.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-15 09:57 UTC_
+_Last updated: 2026-09-15 14:53 UTC_
 
 ### Browse 1,449 new-grad roles by category
 
 💻 **[Software Engineering](#-software-engineering)** (892)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (226)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (227)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (141)
 
@@ -26,7 +26,7 @@ _Last updated: 2026-09-15 09:57 UTC_
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (8)
 
-🧰 **[IT & Support](#-it--support)** (82)
+🧰 **[IT & Support](#-it--support)** (81)
 
 ---
 
@@ -199,21 +199,21 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/applications/jobs?role=abeb4f36-0dbc-48ae-9291-b3c7410daf51">Software Engineer</a> 🆕</td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/106684387621249734-software-engineer">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/applications/jobs?role=406ba9ca-09ad-47ab-9408-a9d51152be94">Software Engineer, Early Career, Campus</a> 🆕</td>
 <td>Mountain View, CA<br/>Cambridge</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>NetApp</strong></td>
 <td><a href="https://trueinterview.io/applications/jobs?role=653ac5b1-9e68-4c4b-adf1-c221f8154a65">Entry Level Software Engineer - ANF (Azure NetApp Files)</a> 🆕</td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://careers.netapp.com/job/san-jose/entry-level-software-engineer-anf-azure-netapp-files/27600/97615964496">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Bright Vision Technologies</strong></td>
@@ -2012,7 +2012,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/applications/jobs?role=510f9ca0-da50-41e1-83e5-798fece05692">Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US</a></td>
 <td>Los Angeles, CA<br/>New York, NY<br/>San Francisco, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8163709">Apply</a></td>
-<td align="center">10d</td>
+<td align="center">11d</td>
 </tr>
 <tr>
 <td><strong>Abnormal Security</strong></td>
@@ -6331,6 +6331,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center">0d</td>
 </tr>
 <tr>
+<td><strong>Direct Supply, Inc.</strong></td>
+<td><a href="https://trueinterview.io/applications/jobs?role=56d66351-10e1-4196-be12-f95dfaadb107">AI Engineer</a> 🆕</td>
+<td>United States</td>
+<td align="center"><a href="https://himalayas.app/companies/direct-supply-inc/jobs/ai-engineer-3121053015">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>TrustFlight</strong></td>
 <td><a href="https://trueinterview.io/applications/jobs?role=95a70408-e9e6-4d48-8cd4-a841fbb27636">AI Software Engineer</a> 🆕</td>
 <td>Vancouver, BC</td>
@@ -9942,13 +9949,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/applications/jobs?role=d81bfa7a-ff5b-4560-aa64-71c3cbb2af1f">PLM Engineer - DBA/Infrastructure</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5226855007?gh_jid=5226855007">Apply</a></td>
-<td align="center">14d</td>
-</tr>
-<tr>
-<td><strong>Hadrian Automation</strong></td>
-<td><a href="https://trueinterview.io/applications/jobs?role=036b6ee6-28fc-4ad9-ba4f-8939c7ca119e">Network Engineer</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/574f43c3-9788-4538-8324-b4e005370691/application">Apply</a></td>
 <td align="center">14d</td>
 </tr>
 <tr>

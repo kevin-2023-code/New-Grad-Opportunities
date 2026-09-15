@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-15T09:57:59.546Z",
-  "count": 2294,
+  "fetchedAt": "2026-09-15T14:53:28.093Z",
+  "count": 2301,
   "listings": [
     {
       "id": "13c93d5c-d0c0-4c6d-aab7-85ba54545c9d",
@@ -113,6 +113,33 @@
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
     {
+      "id": "3558bf1a-3945-4f59-b4ba-9cd3373474c5",
+      "company": "Capgemini",
+      "title": "Data Engineer - Stage",
+      "locations": [
+        "Grenoble, France"
+      ],
+      "cities": [
+        "Grenoble"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/capgemini/jobs/data-engineer-stage_grenoble",
+      "url": "https://trueinterview.io/applications/jobs?role=3558bf1a-3945-4f59-b4ba-9cd3373474c5",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
       "id": "61fa78b8-1e6e-430e-a496-51c260df2846",
       "company": "Carrefour",
       "title": "Data Platform Engineer GCP (F/H)",
@@ -161,6 +188,31 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/littlebigcode/jobs/data-engineer-h-f-lyon_lyon",
       "url": "https://trueinterview.io/applications/jobs?role=a4a76b48-943d-4a6f-93aa-87f7da4f8fb3",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "56d66351-10e1-4196-be12-f95dfaadb107",
+      "company": "Direct Supply, Inc.",
+      "title": "AI Engineer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/direct-supply-inc/jobs/ai-engineer-3121053015",
+      "url": "https://trueinterview.io/applications/jobs?role=56d66351-10e1-4196-be12-f95dfaadb107",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -218,6 +270,31 @@
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
     {
+      "id": "9f2be7d7-d4b6-4e7a-b4ec-304328a19124",
+      "company": "Griffin",
+      "title": "Infrastructure Engineer",
+      "locations": [
+        "United Kingdom, Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://4dayweek.io/job/infrastructure-engineer-at-griffin-070b444e",
+      "url": "https://trueinterview.io/applications/jobs?role=9f2be7d7-d4b6-4e7a-b4ec-304328a19124",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
       "id": "44b083db-3eb5-49bf-9498-9208d3b81abf",
       "company": "Invadel",
       "title": "Application Security Engineer (Source Code Review), Contract",
@@ -239,6 +316,60 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/invadel/jobs/application-security-engineer-source-code-review-contract",
       "url": "https://trueinterview.io/applications/jobs?role=44b083db-3eb5-49bf-9498-9208d3b81abf",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "69413399-bfc0-4a60-ab9f-90ed4b19b13a",
+      "company": "Kolecto",
+      "title": "Fullstack Software Engineer (H/F/X)",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/kolecto/jobs/fullstack-software-engineer-h-f-x_paris_KOLEC_Z1qwbdL",
+      "url": "https://trueinterview.io/applications/jobs?role=69413399-bfc0-4a60-ab9f-90ed4b19b13a",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "10792bf9-76c5-4fff-b5d8-145c06e7904c",
+      "company": "Kraaft",
+      "title": "Fullstack Software Engineer",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/kraaft/jobs/fullstack-developer_paris",
+      "url": "https://trueinterview.io/applications/jobs?role=10792bf9-76c5-4fff-b5d8-145c06e7904c",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -266,6 +397,60 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/lendable/jobs/ai-engineer_london_q63tl3yy",
       "url": "https://trueinterview.io/applications/jobs?role=a4efd0f3-c1ac-4815-8245-4863f40626f4",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "708eba20-5844-4c74-91a7-a3bb2dc7acd6",
+      "company": "MARGO",
+      "title": "AI Engineer - Spécialiste AI4Code & Agents IA (H/F)",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/margo/jobs/ai-engineer-specialiste-ai4code-agents-ia-h-f_paris",
+      "url": "https://trueinterview.io/applications/jobs?role=708eba20-5844-4c74-91a7-a3bb2dc7acd6",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "5fa824d5-67bc-4cf5-95c8-e6ed29a2d412",
+      "company": "MARGO",
+      "title": "Software Engineer Full Stack (.NET / React) – Projet From Scratch – / Practice SE MARGO",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/margo/jobs/software-engineer-full-stack-net-react-projet-from-scratch-practice-se-margo_paris",
+      "url": "https://trueinterview.io/applications/jobs?role=5fa824d5-67bc-4cf5-95c8-e6ed29a2d412",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -555,6 +740,56 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/phorest/jobs/software-engineer-marketing_ie_hdp5ybsr",
       "url": "https://trueinterview.io/applications/jobs?role=a91ac8ff-506a-4cbc-bdbc-8c305fe016ce",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "c7e48fb6-fce2-44e9-a849-3213ec316968",
+      "company": "PwC",
+      "title": "IN_Manager_ Full Stack Developer - React_GCC_Advisory_Bangalore",
+      "locations": [
+        "Bengaluru Millenia"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--Full-Stack-Developer---React-GCC-Advisory-Bangalore_746091WD-1",
+      "url": "https://trueinterview.io/applications/jobs?role=c7e48fb6-fce2-44e9-a849-3213ec316968",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "ed0f8ef1-9ff7-41ef-a96d-9d19eef726cc",
+      "company": "Salesforce",
+      "title": "Product Security Engineer",
+      "locations": [
+        "India - Hyderabad"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Product-Security-Engineer_JR355204",
+      "url": "https://trueinterview.io/applications/jobs?role=ed0f8ef1-9ff7-41ef-a96d-9d19eef726cc",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -32919,33 +33154,6 @@
       "updatedAt": "2026-08-31T20:30:59.000Z"
     },
     {
-      "id": "036b6ee6-28fc-4ad9-ba4f-8939c7ca119e",
-      "company": "Hadrian Automation",
-      "title": "Network Engineer",
-      "locations": [
-        "Los Angeles, CA"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/hadrian-automation/574f43c3-9788-4538-8324-b4e005370691/application",
-      "url": "https://trueinterview.io/applications/jobs?role=036b6ee6-28fc-4ad9-ba4f-8939c7ca119e",
-      "postedAt": "2026-08-31T20:26:56.000Z",
-      "updatedAt": "2026-08-31T20:26:56.000Z"
-    },
-    {
       "id": "d36b7039-c53f-494a-9192-f86b16891b39",
       "company": "Duda",
       "title": "Technical Support Engineer",
@@ -46628,31 +46836,6 @@
       "url": "https://trueinterview.io/applications/jobs?role=258bda5e-f4fb-4606-831a-8988067c8c93",
       "postedAt": "2026-08-17T22:27:22.000Z",
       "updatedAt": "2026-08-17T22:27:22.000Z"
-    },
-    {
-      "id": "6ac19d98-1464-4835-8f38-de7c72841489",
-      "company": "Elevenlabs",
-      "title": "Forward Deployed Software Engineer - UAE",
-      "locations": [
-        "UAE"
-      ],
-      "cities": [],
-      "countries": [
-        "United Arab Emirates"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/elevenlabs/fa4fc307-a0fb-47aa-9336-f202f2265440/application",
-      "url": "https://trueinterview.io/applications/jobs?role=6ac19d98-1464-4835-8f38-de7c72841489",
-      "postedAt": "2026-08-17T22:10:03.000Z",
-      "updatedAt": "2026-08-17T22:10:03.000Z"
     },
     {
       "id": "65410301-8482-4f5d-95df-de2fb9ec0b70",

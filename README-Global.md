@@ -12,13 +12,13 @@ from the list on the next run instead of wasting your afternoon.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-15 09:57 UTC_
+_Last updated: 2026-09-15 14:53 UTC_
 
-### Browse 845 new-grad roles by category
+### Browse 852 new-grad roles by category
 
-💻 **[Software Engineering](#-software-engineering)** (488)
+💻 **[Software Engineering](#-software-engineering)** (493)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (253)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (255)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (18)
 
@@ -76,6 +76,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">0d</td>
 </tr>
 <tr>
+<td><strong>Griffin</strong></td>
+<td><a href="https://trueinterview.io/applications/jobs?role=9f2be7d7-d4b6-4e7a-b4ec-304328a19124">Infrastructure Engineer</a> 🆕 🌐</td>
+<td>Remote — United Kingdom</td>
+<td align="center"><a href="https://4dayweek.io/job/infrastructure-engineer-at-griffin-070b444e">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Kolecto</strong></td>
+<td><a href="https://trueinterview.io/applications/jobs?role=69413399-bfc0-4a60-ab9f-90ed4b19b13a">Fullstack Software Engineer (H/F/X)</a> 🆕</td>
+<td>Paris</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/kolecto/jobs/fullstack-software-engineer-h-f-x_paris_KOLEC_Z1qwbdL">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Kraaft</strong></td>
+<td><a href="https://trueinterview.io/applications/jobs?role=10792bf9-76c5-4fff-b5d8-145c06e7904c">Fullstack Software Engineer</a> 🆕</td>
+<td>Paris</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/kraaft/jobs/fullstack-developer_paris">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>MARGO</strong></td>
+<td><a href="https://trueinterview.io/applications/jobs?role=5fa824d5-67bc-4cf5-95c8-e6ed29a2d412">Software Engineer Full Stack (.NET / React) – Projet From Scratch – / Practice SE MARGO</a> 🆕</td>
+<td>Paris</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/margo/jobs/software-engineer-full-stack-net-react-projet-from-scratch-practice-se-margo_paris">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Mastercard</strong></td>
 <td><a href="https://trueinterview.io/applications/jobs?role=19aa9097-44c2-4695-ad70-a6f3c5cbb015">Software Integration Engineer-II</a> 🆕</td>
 <td>Pune</td>
@@ -115,6 +143,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/applications/jobs?role=a91ac8ff-506a-4cbc-bdbc-8c305fe016ce">Software Engineer (Marketing)</a> 🆕 🌐</td>
 <td>Remote — United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/phorest/jobs/software-engineer-marketing_ie_hdp5ybsr">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/applications/jobs?role=c7e48fb6-fce2-44e9-a849-3213ec316968">IN_Manager_ Full Stack Developer - React_GCC_Advisory_Bangalore</a> 🆕</td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--Full-Stack-Developer---React-GCC-Advisory-Bangalore_746091WD-1">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/applications/jobs?role=ed0f8ef1-9ff7-41ef-a96d-9d19eef726cc">Product Security Engineer</a> 🆕</td>
+<td>India - Hyderabad</td>
+<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Product-Security-Engineer_JR355204">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -2550,7 +2592,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </table>
 
 <details>
-<summary>Show 131 more Software Engineering roles posted earlier</summary>
+<summary>Show 130 more Software Engineering roles posted earlier</summary>
 
 <table>
 <thead>
@@ -2909,13 +2951,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Elevenlabs</strong></td>
-<td><a href="https://trueinterview.io/applications/jobs?role=6ac19d98-1464-4835-8f38-de7c72841489">Forward Deployed Software Engineer - UAE</a></td>
-<td>UAE</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/fa4fc307-a0fb-47aa-9336-f202f2265440/application">Apply</a></td>
-<td align="center">28d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/applications/jobs?role=70f199d8-e80b-4b05-bc22-e7a58fb55a1a">Forward Deployed Engineer - Software Engineer - Switzerland</a></td>
 <td>Switzerland</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/8e3de98e-0c2e-4999-90ae-3036ee47df05/application">Apply</a></td>
@@ -3489,6 +3524,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/applications/jobs?role=3558bf1a-3945-4f59-b4ba-9cd3373474c5">Data Engineer - Stage</a> 🆕</td>
+<td>Grenoble</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/capgemini/jobs/data-engineer-stage_grenoble">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Diametral</strong></td>
 <td><a href="https://trueinterview.io/applications/jobs?role=a4a76b48-943d-4a6f-93aa-87f7da4f8fb3">Data engineer H/F Lyon</a> 🆕</td>
 <td>Lyon</td>
@@ -3500,6 +3542,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/applications/jobs?role=a4efd0f3-c1ac-4815-8245-4863f40626f4">AI Engineer</a> 🆕</td>
 <td>London</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/lendable/jobs/ai-engineer_london_q63tl3yy">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>MARGO</strong></td>
+<td><a href="https://trueinterview.io/applications/jobs?role=708eba20-5844-4c74-91a7-a3bb2dc7acd6">AI Engineer - Spécialiste AI4Code &amp; Agents IA (H/F)</a> 🆕</td>
+<td>Paris</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/margo/jobs/ai-engineer-specialiste-ai4code-agents-ia-h-f_paris">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
