@@ -6,9 +6,164 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-15T14:53:28.093Z",
-  "count": 2301,
+  "fetchedAt": "2026-09-15T18:52:11.522Z",
+  "count": 2316,
   "listings": [
+    {
+      "id": "53b46ce3-720c-4017-8807-329721f11eb7",
+      "company": "Isar Aerospace Se",
+      "title": "Working Student IT Helpdesk (m/f/d)",
+      "locations": [
+        "Parsdorf, Bavaria, Germany",
+        "Parsdorf, Germany"
+      ],
+      "cities": [],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4977045101",
+      "url": "https://trueinterview.io/applications/jobs?role=53b46ce3-720c-4017-8807-329721f11eb7",
+      "postedAt": "2026-09-15T16:20:45.000Z",
+      "updatedAt": "2026-09-15T16:20:45.000Z"
+    },
+    {
+      "id": "d44036e0-6739-462b-93cc-ae039d839eb5",
+      "company": "Fanatics Betting & Gaming",
+      "title": "Trader I",
+      "locations": [
+        "Denver, CO, United States",
+        "Denver"
+      ],
+      "cities": [
+        "Denver, CO"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Trader",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/fanaticsfbg/jobs/4392386009",
+      "url": "https://trueinterview.io/applications/jobs?role=d44036e0-6739-462b-93cc-ae039d839eb5",
+      "postedAt": "2026-09-15T16:13:37.000Z",
+      "updatedAt": "2026-09-15T16:13:37.000Z"
+    },
+    {
+      "id": "562872cd-ef96-4676-b5ac-78953311177e",
+      "company": "Pvm, Inc",
+      "title": "Forward Deployed Engineer",
+      "locations": [
+        "Grafenwohr, Germany",
+        "Germany"
+      ],
+      "cities": [],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/pvminc/jobs/5238781007",
+      "url": "https://trueinterview.io/applications/jobs?role=562872cd-ef96-4676-b5ac-78953311177e",
+      "postedAt": "2026-09-15T16:13:23.000Z",
+      "updatedAt": "2026-09-15T16:13:23.000Z"
+    },
+    {
+      "id": "36995b52-d58c-41b2-8b02-54fb113b6cd2",
+      "company": "N Ix",
+      "title": "Trainee AI Engineer",
+      "locations": [
+        "Ukraine"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.n-ix.com/jobs/4975531101?gh_jid=4975531101",
+      "url": "https://trueinterview.io/applications/jobs?role=36995b52-d58c-41b2-8b02-54fb113b6cd2",
+      "postedAt": "2026-09-15T16:00:28.000Z",
+      "updatedAt": "2026-09-15T16:00:28.000Z"
+    },
+    {
+      "id": "04ae89c2-f8dd-4f57-be89-93edfa2c6599",
+      "company": "clickup",
+      "title": "Strategic Solutions Engineer (San Diego)",
+      "locations": [
+        "United States - San Diego Office"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/clickup/db838181-610f-44bc-9813-575457c0da21/application",
+      "url": "https://trueinterview.io/applications/jobs?role=04ae89c2-f8dd-4f57-be89-93edfa2c6599",
+      "postedAt": "2026-09-15T13:49:57.000Z",
+      "updatedAt": "2026-09-15T13:49:57.000Z"
+    },
+    {
+      "id": "8ed13cca-ceb6-4b2d-a996-e64a8cb3c4fa",
+      "company": "Amazon",
+      "title": "Support Engineer I, MLDOPs",
+      "locations": [
+        "IN, TN, Chennai"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10541351/support-engineer-i-mldops",
+      "url": "https://trueinterview.io/applications/jobs?role=8ed13cca-ceb6-4b2d-a996-e64a8cb3c4fa",
+      "postedAt": "2026-09-15T07:00:00.000Z",
+      "updatedAt": "2026-09-15T07:00:00.000Z"
+    },
     {
       "id": "13c93d5c-d0c0-4c6d-aab7-85ba54545c9d",
       "company": "Atlassian",
@@ -109,6 +264,56 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/beanstock/jobs/software-engineer-laravel_paris",
       "url": "https://trueinterview.io/applications/jobs?role=ba553aee-ebbd-4ae9-9d95-538e26010976",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "ce918619-83d3-4a7a-a2a8-9be53023c650",
+      "company": "BMO",
+      "title": "Reporting Automation / AI Developer",
+      "locations": [
+        "2 Locations"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Reporting-Automation---AI-Developer_R260025992",
+      "url": "https://trueinterview.io/applications/jobs?role=ce918619-83d3-4a7a-a2a8-9be53023c650",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "669a5911-a6e3-411c-9666-948dfcd67484",
+      "company": "Canadian Air Transport Security Authority",
+      "title": "Data Engineer",
+      "locations": [
+        "Ottawa (ON)"
+      ],
+      "cities": [
+        "Ottawa, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.jobbank.gc.ca/jobsearch/jobposting/50292216",
+      "url": "https://trueinterview.io/applications/jobs?role=669a5911-a6e3-411c-9666-948dfcd67484",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -295,6 +500,60 @@
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
     {
+      "id": "92ac75f5-8b4d-4fe5-9fd7-48bb31e0024a",
+      "company": "Hedgehog Lab",
+      "title": "Android Developer",
+      "locations": [
+        "Leeds, United Kingdom"
+      ],
+      "cities": [
+        "Leeds"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://4dayweek.io/job/android-developer-at-hedgehog-lab-46f7ba53",
+      "url": "https://trueinterview.io/applications/jobs?role=92ac75f5-8b4d-4fe5-9fd7-48bb31e0024a",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "f070b06f-6341-4aae-8a8f-ada315811e3a",
+      "company": "Hedgehog Lab",
+      "title": "iOS Developer",
+      "locations": [
+        "Manchester, United Kingdom"
+      ],
+      "cities": [
+        "Manchester"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://4dayweek.io/job/ios-developer-at-hedgehog-lab-ec35c6b5",
+      "url": "https://trueinterview.io/applications/jobs?role=f070b06f-6341-4aae-8a8f-ada315811e3a",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
       "id": "44b083db-3eb5-49bf-9498-9208d3b81abf",
       "company": "Invadel",
       "title": "Application Security Engineer (Source Code Review), Contract",
@@ -397,6 +656,31 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/lendable/jobs/ai-engineer_london_q63tl3yy",
       "url": "https://trueinterview.io/applications/jobs?role=a4efd0f3-c1ac-4815-8245-4863f40626f4",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "93620b97-9155-4abc-b868-879f5dc9c406",
+      "company": "ManTech",
+      "title": "Oracle Software Developer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/mantech/jobs/oracle-software-developer-4097269499",
+      "url": "https://trueinterview.io/applications/jobs?role=93620b97-9155-4abc-b868-879f5dc9c406",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -530,6 +814,33 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/mendo-1/jobs/ai-engineer_paris",
       "url": "https://trueinterview.io/applications/jobs?role=e02ad7a8-7f59-4df2-98cf-610472b11423",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "edf95f16-fa4b-4c9b-a078-9bbe9e4239c9",
+      "company": "Mercor",
+      "title": "software developer",
+      "locations": [
+        "Toronto (ON)"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.jobbank.gc.ca/jobsearch/jobposting/50292494",
+      "url": "https://trueinterview.io/applications/jobs?role=edf95f16-fa4b-4c9b-a078-9bbe9e4239c9",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -794,6 +1105,31 @@
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
     {
+      "id": "a680079f-e9d5-4b7e-9708-3d510d30cd39",
+      "company": "Shape It",
+      "title": "Data Engineer",
+      "locations": [
+        "Lille, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/shape-it/jobs/data-engineer_lille_SI_6WrWXb9",
+      "url": "https://trueinterview.io/applications/jobs?role=a680079f-e9d5-4b7e-9708-3d510d30cd39",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
       "id": "528490d0-fd9f-4bcf-8da6-0a82eeb104a3",
       "company": "Spire Global",
       "title": "Software Engineer (Yocto/Linux)",
@@ -815,6 +1151,31 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/spire-global/jobs/software-engineer_singapour_emgwiq2c",
       "url": "https://trueinterview.io/applications/jobs?role=528490d0-fd9f-4bcf-8da6-0a82eeb104a3",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "2c14b2fb-a2ef-4cc8-a970-305ff0ac3f93",
+      "company": "Termgrid Inc.",
+      "title": "Backend Developer - Remote",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/termgrid-inc/jobs/backend-developer-remote",
+      "url": "https://trueinterview.io/applications/jobs?role=2c14b2fb-a2ef-4cc8-a970-305ff0ac3f93",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -867,6 +1228,31 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/vast-data/jobs/top-graduate-software-engineer_new-york_3xwtbdgg",
       "url": "https://trueinterview.io/applications/jobs?role=dc89c1db-9b05-41af-a406-f50916ab2ee7",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "41d56610-7658-43da-a02e-18e816031bb5",
+      "company": "Visuary",
+      "title": "Data Scientist",
+      "locations": [
+        "France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/visuary/jobs/data-scientist-5935190733",
+      "url": "https://trueinterview.io/applications/jobs?role=41d56610-7658-43da-a02e-18e816031bb5",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -20765,33 +21151,6 @@
       "updatedAt": "2026-09-04T18:42:57.000Z"
     },
     {
-      "id": "fa1f6402-a4e4-48c3-a93f-706bd4ffd441",
-      "company": "Ebury",
-      "title": "Business Developer / FX Sales Associate (m/w/d)",
-      "locations": [
-        "Hamburg"
-      ],
-      "cities": [
-        "Hamburg"
-      ],
-      "countries": [
-        "Germany"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "experienced",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/ebury/jobs/4969223101",
-      "url": "https://trueinterview.io/applications/jobs?role=fa1f6402-a4e4-48c3-a93f-706bd4ffd441",
-      "postedAt": "2026-09-04T18:39:56.000Z",
-      "updatedAt": "2026-09-04T18:39:56.000Z"
-    },
-    {
       "id": "4c98a8cc-aac2-4870-af3f-ca4091231746",
       "company": "Computer World Services",
       "title": "Desktop Engineer - Windows",
@@ -33152,6 +33511,33 @@
       "url": "https://trueinterview.io/applications/jobs?role=627e2754-fb80-4061-b745-115810736fe9",
       "postedAt": "2026-08-31T20:30:59.000Z",
       "updatedAt": "2026-08-31T20:30:59.000Z"
+    },
+    {
+      "id": "036b6ee6-28fc-4ad9-ba4f-8939c7ca119e",
+      "company": "Hadrian Automation",
+      "title": "Network Engineer",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/hadrian-automation/574f43c3-9788-4538-8324-b4e005370691/application",
+      "url": "https://trueinterview.io/applications/jobs?role=036b6ee6-28fc-4ad9-ba4f-8939c7ca119e",
+      "postedAt": "2026-08-31T20:26:56.000Z",
+      "updatedAt": "2026-08-31T20:26:56.000Z"
     },
     {
       "id": "d36b7039-c53f-494a-9192-f86b16891b39",
@@ -46838,6 +47224,31 @@
       "updatedAt": "2026-08-17T22:27:22.000Z"
     },
     {
+      "id": "6ac19d98-1464-4835-8f38-de7c72841489",
+      "company": "Elevenlabs",
+      "title": "Forward Deployed Software Engineer - UAE",
+      "locations": [
+        "UAE"
+      ],
+      "cities": [],
+      "countries": [
+        "United Arab Emirates"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/elevenlabs/fa4fc307-a0fb-47aa-9336-f202f2265440/application",
+      "url": "https://trueinterview.io/applications/jobs?role=6ac19d98-1464-4835-8f38-de7c72841489",
+      "postedAt": "2026-08-17T22:10:03.000Z",
+      "updatedAt": "2026-08-17T22:10:03.000Z"
+    },
+    {
       "id": "65410301-8482-4f5d-95df-de2fb9ec0b70",
       "company": "Anduril Industries",
       "title": "Mission Operations Engineer, Connected Warfare",
@@ -50505,32 +50916,6 @@
       "url": "https://trueinterview.io/applications/jobs?role=3f1ccd51-6a6a-4a92-9871-e9a9d05541d3",
       "postedAt": "2026-08-13T16:19:26.000Z",
       "updatedAt": "2026-08-13T16:19:26.000Z"
-    },
-    {
-      "id": "867afcd5-622c-4a65-96cd-ce1abcc90450",
-      "company": "Grvty",
-      "title": "Software Developer (SME)",
-      "locations": [
-        "Chantilly, Virginia, United States",
-        "Chantilly, VA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/grvty/jobs/4368830009",
-      "url": "https://trueinterview.io/applications/jobs?role=867afcd5-622c-4a65-96cd-ce1abcc90450",
-      "postedAt": "2026-08-13T16:18:42.000Z",
-      "updatedAt": "2026-08-13T16:18:42.000Z"
     },
     {
       "id": "1b027f51-0f17-4061-a6ff-258dc024529a",
