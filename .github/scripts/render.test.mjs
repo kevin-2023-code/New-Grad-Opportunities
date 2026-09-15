@@ -49,7 +49,7 @@ function job(over = {}) {
     sponsorship: null,
     source: '1point3acres',
     applyUrl: 'https://jobs.example.com/1',
-    url: 'https://trueinterview.io/applications/jobs?role=1',
+    url: 'https://trueinterview.io/jobs/1',
     postedAt: daysAgo(1),
     updatedAt: daysAgo(1),
     ...over,
