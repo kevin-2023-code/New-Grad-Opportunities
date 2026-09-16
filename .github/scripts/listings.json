@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-16T13:24:01.814Z",
-  "count": 2497,
+  "fetchedAt": "2026-09-16T18:07:06.906Z",
+  "count": 2496,
   "listings": [
     {
       "id": "63ee19f6-cb7e-4abc-8766-2f4ed5f858cf",
@@ -2895,31 +2895,6 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/24x7-direct/jobs/azure-ai-net-developer-7407145222",
       "url": "https://trueinterview.io/jobs/9122bfae-8a0d-46d7-9e35-f32db520131c",
-      "postedAt": "2026-09-15T00:00:00.000Z",
-      "updatedAt": "2026-09-15T00:00:00.000Z"
-    },
-    {
-      "id": "10510dfe-bf88-4497-9036-94111ba25b4f",
-      "company": "AMD",
-      "title": "AI Applications Engineer",
-      "locations": [
-        "US,CA,San Jose"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.amd.com/careers-home/jobs/91544?lang=en-us",
-      "url": "https://trueinterview.io/jobs/10510dfe-bf88-4497-9036-94111ba25b4f",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
