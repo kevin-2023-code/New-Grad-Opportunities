@@ -6,9 +6,1510 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-16T18:07:06.906Z",
-  "count": 2496,
+  "fetchedAt": "2026-09-16T22:02:41.960Z",
+  "count": 2600,
   "listings": [
+    {
+      "id": "c36cba99-f8e9-433c-b552-bddf97b5c20d",
+      "company": "Analog Devices",
+      "title": "1st Shift Quality Engineer",
+      "locations": [
+        "US, MA, Chelmsford, Alpha"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/XMLNAME-1st-Shift-Quality-Engineer_R264743",
+      "url": "https://trueinterview.io/jobs/c36cba99-f8e9-433c-b552-bddf97b5c20d",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "a269cb42-9481-401f-a4ec-c1bf64c7614d",
+      "company": "Analog Devices",
+      "title": "2nd Shift Manufacturing Engineer",
+      "locations": [
+        "US, MA, Chelmsford, Alpha"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/XMLNAME-2nd-Shift-Manufacturing-Engineer_R264835",
+      "url": "https://trueinterview.io/jobs/a269cb42-9481-401f-a4ec-c1bf64c7614d",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "d772451e-6833-4a08-b6a0-15db5ee0c9c3",
+      "company": "Analog Devices",
+      "title": "2nd Shift Manufacturing Test Engineer",
+      "locations": [
+        "US, MA, Chelmsford, Alpha"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/XMLNAME-2nd-Shift-Manufacturing-Test-Engineer_R264834",
+      "url": "https://trueinterview.io/jobs/d772451e-6833-4a08-b6a0-15db5ee0c9c3",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "644b9019-10ac-4165-9348-d06a7845c402",
+      "company": "Analog Devices",
+      "title": "2nd Shift Quality Engineer",
+      "locations": [
+        "US, MA, Chelmsford, Alpha"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/XMLNAME-2nd-Shift-Quality-Engineer_R264741",
+      "url": "https://trueinterview.io/jobs/644b9019-10ac-4165-9348-d06a7845c402",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "5c70d737-45f8-499a-adea-f6125fdabd81",
+      "company": "Analog Devices",
+      "title": "Etch/BE-Cleans Process Engineering Technician (Nights)",
+      "locations": [
+        "US, OR, Beaverton"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Etch-BE-Cleans-Process-Engineering-Technician--Nights-_R264349",
+      "url": "https://trueinterview.io/jobs/5c70d737-45f8-499a-adea-f6125fdabd81",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "7de70944-56d0-42c9-85be-3e3e371f97a6",
+      "company": "Analog Devices",
+      "title": "Process Sustaining Engineer",
+      "locations": [
+        "US, MA, Chelmsford, Alpha"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/Process-Sustaining-Engineer_R264837",
+      "url": "https://trueinterview.io/jobs/7de70944-56d0-42c9-85be-3e3e371f97a6",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "13b7866c-c003-4010-b7b1-5002d52ccbff",
+      "company": "Arm Holdings",
+      "title": "CPU Hardware Verification Software Engineer",
+      "locations": [
+        "Austin"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.arm.com/job/austin/cpu-hardware-verification-software-engineer/33099/100674696784",
+      "url": "https://trueinterview.io/jobs/13b7866c-c003-4010-b7b1-5002d52ccbff",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "c06a7dbf-eaef-4557-87c3-ff3a41a5cb22",
+      "company": "Arm Holdings",
+      "title": "Functional Safety Hardware Engineer",
+      "locations": [
+        "Austin"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.arm.com/job/austin/functional-safety-hardware-engineer/33099/96569126768",
+      "url": "https://trueinterview.io/jobs/c06a7dbf-eaef-4557-87c3-ff3a41a5cb22",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "331f2d95-463c-4b14-b0d9-f2e3a40a6a5f",
+      "company": "Arm Holdings",
+      "title": "Memory Design Engineer",
+      "locations": [
+        "Austin"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.arm.com/job/austin/memory-design-engineer/33099/99370792288",
+      "url": "https://trueinterview.io/jobs/331f2d95-463c-4b14-b0d9-f2e3a40a6a5f",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "ee93273d-095f-4bad-9325-c83e6fa10d9a",
+      "company": "Arm Holdings",
+      "title": "Security IP Design Engineer",
+      "locations": [
+        "Austin"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.arm.com/job/austin/security-ip-design-engineer/33099/98849320128",
+      "url": "https://trueinterview.io/jobs/ee93273d-095f-4bad-9325-c83e6fa10d9a",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "d9cfbe45-f442-4431-95a6-4e01febb94d3",
+      "company": "Broadcom",
+      "title": "Advanced Packaging Development Engineer",
+      "locations": [
+        "USA-CA Irvine Alton Parkway Bldg 2"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/Advanced-Packaging-Development-Engineer_R026099",
+      "url": "https://trueinterview.io/jobs/d9cfbe45-f442-4431-95a6-4e01febb94d3",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "d39708e8-2c71-4619-bfcd-edf6da162f17",
+      "company": "Broadcom",
+      "title": "AI Systems Performance Engineer",
+      "locations": [
+        "USA-CA San Jose Innovation Drive"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/AI-Systems-Performance-Engineer_R025748",
+      "url": "https://trueinterview.io/jobs/d39708e8-2c71-4619-bfcd-edf6da162f17",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "e9190bf1-f0fc-4ee4-bf42-95febfb15e1c",
+      "company": "Broadcom",
+      "title": "Analog Layout Designer",
+      "locations": [
+        "USA-CA Irvine Alton Parkway Bldg 2"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/Analog-Layout-Designer_R025809",
+      "url": "https://trueinterview.io/jobs/e9190bf1-f0fc-4ee4-bf42-95febfb15e1c",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "98fa05cb-0578-4349-be79-bf68506bdb2f",
+      "company": "Broadcom",
+      "title": "ASIC Implementation Engineer",
+      "locations": [
+        "USA-CA San Jose Innovation Drive"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/ASIC-Implementation-Engineer_R025853",
+      "url": "https://trueinterview.io/jobs/98fa05cb-0578-4349-be79-bf68506bdb2f",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "c5daaa03-84d1-48fc-aa65-8036b5025cbc",
+      "company": "Broadcom",
+      "title": "Design Verification Engineer",
+      "locations": [
+        "USA-CA San Jose Innovation Drive"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Design-Verification-Engineer_R025763-1",
+      "url": "https://trueinterview.io/jobs/c5daaa03-84d1-48fc-aa65-8036b5025cbc",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "1b802e5e-3920-49f0-9eb1-05f58df17122",
+      "company": "Broadcom",
+      "title": "Field Applications Engineer",
+      "locations": [
+        "USA-California-San Jose-1320 Ridder Park Drive"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Field-Applications-Engineer_R026113-1",
+      "url": "https://trueinterview.io/jobs/1b802e5e-3920-49f0-9eb1-05f58df17122",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "dd87c1b2-394f-4bfb-ac36-9beef6188ebc",
+      "company": "Broadcom",
+      "title": "Photolithography Process Engineer",
+      "locations": [
+        "USA-Colorado-Fort Collins-4380 Ziegler Road"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Photolithography-Process-Engineer_R026149",
+      "url": "https://trueinterview.io/jobs/dd87c1b2-394f-4bfb-ac36-9beef6188ebc",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "bfeee688-0122-48cb-8e76-a0dfeeb957c0",
+      "company": "Broadcom",
+      "title": "Process and Integration Engineer, Optoelectronics",
+      "locations": [
+        "USA-Pennsylvania-Breinigsville-9999 Hamilton Blvd"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Pennsylvania-Breinigsville-9999-Hamilton-Blvd/Process-and-Integration-Engineer--Optoelectronics_R026344-1",
+      "url": "https://trueinterview.io/jobs/bfeee688-0122-48cb-8e76-a0dfeeb957c0",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "ac28420c-4ac0-4a67-9c82-f1d2f1e61d9b",
+      "company": "Broadcom",
+      "title": "Product Owner",
+      "locations": [
+        "USA-NC-Durham-Swabia Court-Suite 400"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-NC-Durham-Swabia-Court-Suite-400/Product-Owner_R026191-1",
+      "url": "https://trueinterview.io/jobs/ac28420c-4ac0-4a67-9c82-f1d2f1e61d9b",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "10e8c5d3-64dd-4e9c-8043-1dbe82185658",
+      "company": "Broadcom",
+      "title": "R&D Engineer",
+      "locations": [
+        "USA-CA San Jose Innovation Drive"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer_R026269-1",
+      "url": "https://trueinterview.io/jobs/10e8c5d3-64dd-4e9c-8043-1dbe82185658",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "3e77eb0e-d447-4250-acd1-f3dfc11125dd",
+      "company": "Broadcom",
+      "title": "R&D Engineer IC Design",
+      "locations": [
+        "USA-CA San Jose Innovation Drive"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-IC-Design_R024221",
+      "url": "https://trueinterview.io/jobs/3e77eb0e-d447-4250-acd1-f3dfc11125dd",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "723bf67f-92a8-45fd-8d7d-a940fe610f6e",
+      "company": "Broadcom",
+      "title": "Silicon Design and Validation Engineer",
+      "locations": [
+        "USA-California-San Jose-1320 Ridder Park Drive"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Silicon-Design-and-Validation-Engineer_R025787-1",
+      "url": "https://trueinterview.io/jobs/723bf67f-92a8-45fd-8d7d-a940fe610f6e",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "288c3246-6651-40bb-85e5-117e2558f714",
+      "company": "Broadcom",
+      "title": "Silicon Photonics PIC Design Engineer",
+      "locations": [
+        "USA-California-San Jose-1320 Ridder Park Drive"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Silicon-Photonics-PIC-Design-Engineer_R026165",
+      "url": "https://trueinterview.io/jobs/288c3246-6651-40bb-85e5-117e2558f714",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "e154f67e-1fd8-4ef0-81db-c9e62c64be6d",
+      "company": "Broadcom",
+      "title": "Substrate/Package Layout Engineer",
+      "locations": [
+        "USA-California-San Jose-1320 Ridder Park Drive"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Substrate-Package-Layout-Engineer_R025810-1",
+      "url": "https://trueinterview.io/jobs/e154f67e-1fd8-4ef0-81db-c9e62c64be6d",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "d3888ba0-11f6-4753-af7a-4c13c8c1d1fa",
+      "company": "Cisco",
+      "title": "AI LLMOps Engineering Technical Leader",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/AI-LLMOps-Engineering-Technical-Leader_2021611",
+      "url": "https://trueinterview.io/jobs/d3888ba0-11f6-4753-af7a-4c13c8c1d1fa",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "7169b16a-6f90-448e-b177-dcba7a46d3be",
+      "company": "Cisco",
+      "title": "AI Operations Engineering Technical Leader",
+      "locations": [
+        "Milpitas, California, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/AI-Operations-Engineering-Technical-Leader_2020998",
+      "url": "https://trueinterview.io/jobs/7169b16a-6f90-448e-b177-dcba7a46d3be",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "953914ce-d5ee-4dd0-85c1-18388d164e75",
+      "company": "Cisco",
+      "title": "ASIC Design Engineer, STA",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Engineer--STA_2009921-1",
+      "url": "https://trueinterview.io/jobs/953914ce-d5ee-4dd0-85c1-18388d164e75",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "c98dd7f2-6207-4897-9057-77729dc45682",
+      "company": "Cisco",
+      "title": "ASIC Design Verification Engineer",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Verification-Emulation-Engineer_2006884",
+      "url": "https://trueinterview.io/jobs/c98dd7f2-6207-4897-9057-77729dc45682",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "b3a09220-8dc2-4233-9611-cb21814dbdce",
+      "company": "Cisco",
+      "title": "ASIC Design Verification Engineer, Technical Leader",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Verification-Engineer--Technical-Leader_2016782",
+      "url": "https://trueinterview.io/jobs/b3a09220-8dc2-4233-9611-cb21814dbdce",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "132ae638-ff25-4e4a-b8b6-38512954ac08",
+      "company": "Cisco",
+      "title": "ASIC Design Verification Engineering Leader",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Design-Verification-Engineering-Lead---Silicon-One_2014835",
+      "url": "https://trueinterview.io/jobs/132ae638-ff25-4e4a-b8b6-38512954ac08",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "dccd638d-f0a9-4afe-9385-eb11d9708a95",
+      "company": "Cisco",
+      "title": "ASIC Engineer (hybrid) - 2011668",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer--hybrid----2011668_2011668",
+      "url": "https://trueinterview.io/jobs/dccd638d-f0a9-4afe-9385-eb11d9708a95",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "de889c93-3e1a-47de-90fe-f9693a6732b0",
+      "company": "Cisco",
+      "title": "Component Engineer (Hybrid)",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Component-Engineer--Hybrid-_2017739",
+      "url": "https://trueinterview.io/jobs/de889c93-3e1a-47de-90fe-f9693a6732b0",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "fb92c055-4cf2-4a36-ad0a-e0fa04ad7f4a",
+      "company": "Cisco",
+      "title": "Customer Quality Engineer",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Customer-Quality-Engineer_2017491-1",
+      "url": "https://trueinterview.io/jobs/fb92c055-4cf2-4a36-ad0a-e0fa04ad7f4a",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "eed30c54-bcb9-443d-a975-38eeefdb9e5e",
+      "company": "Cisco",
+      "title": "Data Analyst",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Data-Analyst_2019165",
+      "url": "https://trueinterview.io/jobs/eed30c54-bcb9-443d-a975-38eeefdb9e5e",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "649a965c-9a08-4ef9-94b8-4cbcb7c9d8bc",
+      "company": "Cisco",
+      "title": "Data Scientist- Hardware Quality (Hybrid)",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Data-Scientist--Hardware-Quality--Hybrid-_2005431",
+      "url": "https://trueinterview.io/jobs/649a965c-9a08-4ef9-94b8-4cbcb7c9d8bc",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "41a5d029-4cad-4275-b221-346e8a291f54",
+      "company": "Cisco",
+      "title": "Embedded Software Engineering Technical Leader",
+      "locations": [
+        "Milpitas, California, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Embedded-Software-Engineering-Technical-Leader_2007386",
+      "url": "https://trueinterview.io/jobs/41a5d029-4cad-4275-b221-346e8a291f54",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "1a36e271-3be4-4ea4-a8d5-403bfa1185d8",
+      "company": "Cisco",
+      "title": "Executive Assistant, SVP/GM, Engineering (Hybrid)",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Executive-Assistant--SVP-GM--Engineering--Hybrid-_2019385",
+      "url": "https://trueinterview.io/jobs/1a36e271-3be4-4ea4-a8d5-403bfa1185d8",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "49b4267f-e3d8-4154-80b5-9459372e41a2",
+      "company": "Cisco",
+      "title": "Hardware Engineering Technical Leader",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineering-Technical-Leader_2013529",
+      "url": "https://trueinterview.io/jobs/49b4267f-e3d8-4154-80b5-9459372e41a2",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "1890aa32-a3c9-4c3a-b849-233fad08f49c",
+      "company": "Cisco",
+      "title": "Hardware Engineering Technical Leader - Acacia (hybrid)",
+      "locations": [
+        "Maynard, Massachusetts, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Hardware-Engineering-Technical-Leader_2011112",
+      "url": "https://trueinterview.io/jobs/1890aa32-a3c9-4c3a-b849-233fad08f49c",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "29709619-0003-4a30-bff6-ecc497e738e4",
+      "company": "Cisco",
+      "title": "High-Speed SerDes Design Engineer - Acacia (Hybrid)",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Analog-mixed-signal-IC-Design-Engineer---Acacia--Hybrid-_2006009-1",
+      "url": "https://trueinterview.io/jobs/29709619-0003-4a30-bff6-ecc497e738e4",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "4e5dbe09-c4dc-405a-96a4-4e65e37f66c5",
+      "company": "Cisco",
+      "title": "Infrastructure Platform Engineer",
+      "locations": [
+        "Maynard, Massachusetts, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Platform Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Infrastructure-Platform-Engineer_2019245-1",
+      "url": "https://trueinterview.io/jobs/4e5dbe09-c4dc-405a-96a4-4e65e37f66c5",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "959305d1-8e2d-459d-b30b-780e996f0bb7",
+      "company": "Cisco",
+      "title": "Integrated Photonic Test Engineer",
+      "locations": [
+        "Holmdel, New Jersey, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Holmdel-New-Jersey-US/Integrated-Photonic-Test-Engineer_2010752",
+      "url": "https://trueinterview.io/jobs/959305d1-8e2d-459d-b30b-780e996f0bb7",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "1948739e-8a77-42d6-a947-1ff7bb9e17e8",
+      "company": "Cisco",
+      "title": "Leader, Hardware Engineering",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Leader--Hardware-Engineering_2015094-1",
+      "url": "https://trueinterview.io/jobs/1948739e-8a77-42d6-a947-1ff7bb9e17e8",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "3d9db52e-e45c-4fbe-a18c-e5d56f745335",
+      "company": "Cisco",
+      "title": "Mechanical Engineer (Onsite)",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Mechanical-Engineer--Onsite-_2008200-1",
+      "url": "https://trueinterview.io/jobs/3d9db52e-e45c-4fbe-a18c-e5d56f745335",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "e01d35e2-f258-41b7-b89a-3684422437e3",
+      "company": "Cisco",
+      "title": "Photonic Design Verification Test Engineer - Acacia (Onsite)",
+      "locations": [
+        "Holmdel, New Jersey, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Holmdel-New-Jersey-US/Design-Verification-Engineer---Acacia-Networks_2014236",
+      "url": "https://trueinterview.io/jobs/e01d35e2-f258-41b7-b89a-3684422437e3",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "5e7e1c59-aaf2-482f-af1c-ed2cad68663e",
+      "company": "Cisco",
+      "title": "Platform Engineer",
+      "locations": [
+        "RTP, North Carolina, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Platform Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Platform-Engineer_2018583",
+      "url": "https://trueinterview.io/jobs/5e7e1c59-aaf2-482f-af1c-ed2cad68663e",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "70f3f3b0-2207-46e3-b472-65aea577bb00",
+      "company": "Cisco",
+      "title": "Quality Engineering Technical Leader",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Quality-Engineering-Technical-Leader_2016260-1",
+      "url": "https://trueinterview.io/jobs/70f3f3b0-2207-46e3-b472-65aea577bb00",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "ca026030-7452-4358-89e9-9e58eab9e119",
+      "company": "Cisco",
+      "title": "Reliability Engineering Technical Leader",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Reliability-Engineering-Technical-Leader_2017941-1",
+      "url": "https://trueinterview.io/jobs/ca026030-7452-4358-89e9-9e58eab9e119",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "40dfebdd-c630-4594-9f82-480850139529",
+      "company": "Cisco",
+      "title": "Signal & Power Integrity Hardware ASIC Simulation Engineer (Hybrid)",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Packaging-Signal-Power-Integrity-Engineer--Hybrid-_2017676",
+      "url": "https://trueinterview.io/jobs/40dfebdd-c630-4594-9f82-480850139529",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "e5b9e894-735a-4fd5-8f04-e9c1d2292b84",
+      "company": "Cisco",
+      "title": "Software Engineer, Structured Storage",
+      "locations": [
+        "RTP, North Carolina, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer--Structured-Storage_2019277",
+      "url": "https://trueinterview.io/jobs/e5b9e894-735a-4fd5-8f04-e9c1d2292b84",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "1a4c84dd-52ac-4537-a729-bf8d75dc591f",
+      "company": "Cisco",
+      "title": "Software Engineering Technical Leader - Hardware Diagnostic Engineer",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineering-Technical-Leader---Hardware-Diagnostic-Engineer_2019514",
+      "url": "https://trueinterview.io/jobs/1a4c84dd-52ac-4537-a729-bf8d75dc591f",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "c83e5ae5-8efc-4d93-b96d-2a2f821255a0",
+      "company": "Cisco",
+      "title": "Software Engineering Technical Leader, Control Systems - Acacia (Onsite)",
+      "locations": [
+        "Maynard, Massachusetts, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineering-Technical-Leader--Control-Systems---Acacia--Onsite-_2012320",
+      "url": "https://trueinterview.io/jobs/c83e5ae5-8efc-4d93-b96d-2a2f821255a0",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "83ac5807-bf49-45a8-83b0-4100b9680bb8",
+      "company": "Cisco",
+      "title": "Software Engineering Technical Leader, Front-End — Cisco CX Engineering",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineering-Technical-Leader--Front-End---Cisco-CX-Engineering_2021557-1",
+      "url": "https://trueinterview.io/jobs/83ac5807-bf49-45a8-83b0-4100b9680bb8",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "4187c83d-0a0c-497d-94f2-ac5d4a0d86cf",
+      "company": "Cisco",
+      "title": "Solution Test Engineer",
+      "locations": [
+        "RTP, North Carolina, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Solution-Test-Engineer_2021232",
+      "url": "https://trueinterview.io/jobs/4187c83d-0a0c-497d-94f2-ac5d4a0d86cf",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "e5097b65-ec9f-4a1e-92f2-b7d6baae6323",
+      "company": "Cisco",
+      "title": "Solutions Engineer",
+      "locations": [
+        "RTP, North Carolina, US",
+        "Malvern, Pennsylvania, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Solutions-Engineer_2020161",
+      "url": "https://trueinterview.io/jobs/e5097b65-ec9f-4a1e-92f2-b7d6baae6323",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "442e40c3-e334-4ff7-9998-c305d5461868",
+      "company": "Cisco",
+      "title": "Solutions Engineer - US Commercial, Las Vegas",
+      "locations": [
+        "Reno, Nevada, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Reno-Nevada-US/Solutions-Engineer---Global-Enterprise-Sales--Las-Vegas_2020438",
+      "url": "https://trueinterview.io/jobs/442e40c3-e334-4ff7-9998-c305d5461868",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "bfdf12b9-220b-48f3-856e-1419e019ea4e",
+      "company": "Cisco",
+      "title": "Solutions Engineer - US Commercial, San Diego",
+      "locations": [
+        "San Diego, California, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Diego-California-US/Solutions-Engineer---Global-Enterprise-Sales--San-Diego_2020605-1",
+      "url": "https://trueinterview.io/jobs/bfdf12b9-220b-48f3-856e-1419e019ea4e",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "6f5524da-616e-4c4f-bd53-8ea157cb734f",
+      "company": "Cisco",
+      "title": "Thermal Engineering Technical Leader",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Component-Engineering-Technical-Leader_2021008-1",
+      "url": "https://trueinterview.io/jobs/6f5524da-616e-4c4f-bd53-8ea157cb734f",
+      "postedAt": "2026-09-16T21:53:11.000Z",
+      "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
     {
       "id": "63ee19f6-cb7e-4abc-8766-2f4ed5f858cf",
       "company": "Analog Devices",
@@ -2999,6 +4500,31 @@
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
     {
+      "id": "c778511d-203c-4a38-b20c-d5eaa400e948",
+      "company": "Applied Materials",
+      "title": "2027 Global Product Support (GPS) Engineer I Bachelor's (Gloucester, MA) (Open)",
+      "locations": [
+        "Gloucester, MA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318334204",
+      "url": "https://trueinterview.io/jobs/c778511d-203c-4a38-b20c-d5eaa400e948",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
       "id": "ba553aee-ebbd-4ae9-9d95-538e26010976",
       "company": "Beanstock",
       "title": "Software Engineer (Laravel)",
@@ -3149,6 +4675,86 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/carrefour/jobs/data-platform-engineer-gcp-f-h_massy_CARRE_NZ47JV1",
       "url": "https://trueinterview.io/jobs/61fa78b8-1e6e-430e-a496-51c260df2846",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "dd8f59fc-7c68-4c51-a271-265ce1983c12",
+      "company": "Cerebras Systems",
+      "title": "AI Inference Core - Infrastructure SW Engineer",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "experienced",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.ashbyhq.com/cerebras/70f859f8-ea99-42bb-a2ac-ac0d230a2929",
+      "url": "https://trueinterview.io/jobs/dd8f59fc-7c68-4c51-a271-265ce1983c12",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "642877ea-fd6a-41c0-b69f-35219fc4e6e3",
+      "company": "Cerebras Systems",
+      "title": "Software Engineer, Kernel Reliability",
+      "locations": [
+        "United States and Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f",
+      "url": "https://trueinterview.io/jobs/642877ea-fd6a-41c0-b69f-35219fc4e6e3",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "deab80b4-f048-44cc-85b3-1d73ed38f7a6",
+      "company": "Cisco",
+      "title": "Machine Learning Engineering Technical Leader",
+      "locations": [
+        "Seattle, Washington, US"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "experienced",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Seattle-Washington-US/Machine-Learning-Engineering-Technical-Leader_2023913",
+      "url": "https://trueinterview.io/jobs/deab80b4-f048-44cc-85b3-1d73ed38f7a6",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -4569,7 +6175,8 @@
       "company": "Arista Networks",
       "title": "Mechanical NPI Engineer",
       "locations": [
-        "Santa Clara, CA, United States"
+        "Santa Clara, CA, United States",
+        "Santa Clara, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -5480,6 +7087,58 @@
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
     {
+      "id": "e109174d-7cbb-41b7-9d95-8df6466f01c0",
+      "company": "Applied Materials",
+      "title": "Business Intelligence Analyst I, New College Grad- Bachelor's (Santa Clara, CA)",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318196154",
+      "url": "https://trueinterview.io/jobs/e109174d-7cbb-41b7-9d95-8df6466f01c0",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "d1fe3cd7-f5bf-48d3-aea0-93a55baf129e",
+      "company": "Applied Materials",
+      "title": "Industrial Engineer I, New College Grad- Bachelor's (Austin, TX)",
+      "locations": [
+        "Austin, TX, US"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318080611",
+      "url": "https://trueinterview.io/jobs/d1fe3cd7-f5bf-48d3-aea0-93a55baf129e",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
       "id": "3e41a9d5-0692-42ee-8b5a-e197e1d87f36",
       "company": "Autodesk",
       "title": "Machine Learning Engineer (3D Geometry/ Multi-Modal)",
@@ -5512,7 +7171,8 @@
       "title": "Software Engineer",
       "locations": [
         "Ireland",
-        "Birmingham, United Kingdom"
+        "Birmingham, United Kingdom",
+        "San Francisco, CA, USA"
       ],
       "cities": [],
       "countries": [
@@ -5528,7 +7188,7 @@
       "kind": "newgrad",
       "sponsorship": null,
       "source": "trueinterview",
-      "applyUrl": "https://www.welcometothejungle.com/en/companies/autodesk/jobs/software-engineer_ie_zoq2g2pn",
+      "applyUrl": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100611-1",
       "url": "https://trueinterview.io/jobs/ac06440d-7320-4211-8779-d35abe18daec",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
@@ -5684,6 +7344,31 @@
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
     {
+      "id": "edbf8d74-80e7-416b-8f9f-b67ae58c489a",
+      "company": "Broadcom",
+      "title": "Fab Manufacturing Quality Engineer",
+      "locations": [
+        "USA-Colorado-Fort Collins-4380 Ziegler Road"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "experienced",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Fab-Manufacturing-Quality-Engineer_R025543",
+      "url": "https://trueinterview.io/jobs/edbf8d74-80e7-416b-8f9f-b67ae58c489a",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
       "id": "1fdac6c1-9328-4899-9f93-232f014d020a",
       "company": "Cenova",
       "title": "[Luxe-Retail] / Cloud Data Engineer Confirmé (H/F) PARIS",
@@ -5757,6 +7442,81 @@
       "source": "trueinterview",
       "applyUrl": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Data-Application-Developer_2617631",
       "url": "https://trueinterview.io/jobs/29ad7974-b5d6-4034-abe1-a8b7e54c0ca5",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "ed106852-05b3-4816-a047-bcd86cbf6b65",
+      "company": "Cisco",
+      "title": "Leader, Solutions Engineer-US Commercial, Los Angeles",
+      "locations": [
+        "Glendale, California, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "experienced",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Glendale-California-US/Leader--Solutions-Engineer-US-Commercial--Los-Angeles_2023742",
+      "url": "https://trueinterview.io/jobs/ed106852-05b3-4816-a047-bcd86cbf6b65",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "ddf79f43-e7a9-4e8f-b44b-572c756d823f",
+      "company": "Cisco",
+      "title": "Site Reliability Engineer",
+      "locations": [
+        "RTP, North Carolina, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Site Reliability Engineer",
+      "seniority": "new-grad",
+      "level": "experienced",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer_2021549",
+      "url": "https://trueinterview.io/jobs/ddf79f43-e7a9-4e8f-b44b-572c756d823f",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "70438bac-0314-4ebc-aebc-97b6f40f8c3a",
+      "company": "Cisco",
+      "title": "Software Engineer- Simulation Models",
+      "locations": [
+        "Milpitas, California, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer--Simulation-Models_2022348",
+      "url": "https://trueinterview.io/jobs/70438bac-0314-4ebc-aebc-97b6f40f8c3a",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
@@ -6902,6 +8662,33 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/cincinnati-financial/jobs/it-developer-i-v",
       "url": "https://trueinterview.io/jobs/f42c86ce-9f09-4a81-a72e-5aefcc3e2173",
+      "postedAt": "2026-09-13T00:00:00.000Z",
+      "updatedAt": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "id": "3d60d067-faff-4520-bc74-1ebd798a9f74",
+      "company": "Cisco",
+      "title": "ASIC Engineer- CAD",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Engineer_2020819-1",
+      "url": "https://trueinterview.io/jobs/3d60d067-faff-4520-bc74-1ebd798a9f74",
       "postedAt": "2026-09-13T00:00:00.000Z",
       "updatedAt": "2026-09-13T00:00:00.000Z"
     },
@@ -8563,6 +10350,31 @@
       "updatedAt": "2026-09-11T20:57:27.000Z"
     },
     {
+      "id": "f1387a63-dc87-4478-ae95-8571ba0bc753",
+      "company": "Arista Networks",
+      "title": "Software Engineer, EOS Layer 2 and Network Services",
+      "locations": [
+        "Nashua, New Hampshire, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.smartrecruiters.com/AristaNetworks/744000149104754-software-engineer-eos-layer-2-and-network-services",
+      "url": "https://trueinterview.io/jobs/f1387a63-dc87-4478-ae95-8571ba0bc753",
+      "postedAt": "2026-09-11T20:29:27.000Z",
+      "updatedAt": "2026-09-11T20:29:27.000Z"
+    },
+    {
       "id": "9a4ff804-790f-4940-a3ba-c0927c353cea",
       "company": "SHEIN",
       "title": "Digital Designer",
@@ -9469,6 +11281,31 @@
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
     {
+      "id": "60447604-f24c-44ae-ad63-1b2cc8ed5731",
+      "company": "Analog Devices",
+      "title": "Battery Test and Validation Engineer",
+      "locations": [
+        "US, MA, Wilmington"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Battery-Test-and-Validation-Engineer_R266013",
+      "url": "https://trueinterview.io/jobs/60447604-f24c-44ae-ad63-1b2cc8ed5731",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
       "id": "bf28b33c-3baa-43a0-aa42-3e60d019b324",
       "company": "Capgemini",
       "title": "Software Engineer Fullstack",
@@ -9573,6 +11410,33 @@
       "source": "trueinterview",
       "applyUrl": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/SIEM-Security-Engineer_R031342",
       "url": "https://trueinterview.io/jobs/679586bb-64f8-40a5-9680-8c2de61b1f1c",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
+      "id": "88634c35-61b8-46a2-92a3-c6d75bc671cf",
+      "company": "Cisco",
+      "title": "Software QA Engineer(Remote)",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-QA-Engineer-Remote-_2023200",
+      "url": "https://trueinterview.io/jobs/88634c35-61b8-46a2-92a3-c6d75bc671cf",
       "postedAt": "2026-09-11T00:00:00.000Z",
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
@@ -13431,6 +15295,32 @@
       "updatedAt": "2026-09-10T16:21:41.000Z"
     },
     {
+      "id": "b629433a-057c-44c4-92b2-ae1284013b6e",
+      "company": "Arista Networks",
+      "title": "Hardware NPI / Debug Engineer",
+      "locations": [
+        "Santa Clara, CA, United States",
+        "Santa Clara, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.smartrecruiters.com/AristaNetworks/744000148585799-hardware-npi-debug-engineer?oga=true",
+      "url": "https://trueinterview.io/jobs/b629433a-057c-44c4-92b2-ae1284013b6e",
+      "postedAt": "2026-09-09T18:37:32.000Z",
+      "updatedAt": "2026-09-10T16:19:22.000Z"
+    },
+    {
       "id": "8da19596-47a7-492b-a592-75347381ba96",
       "company": "Openai",
       "title": "Mechanical Design Engineer, Motor Design & Prototyping",
@@ -13915,6 +15805,36 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/capgemini/jobs/devops-engineer-confirme-rennes_rennes_CAPGE_4LDA5pJ",
       "url": "https://trueinterview.io/jobs/8232b4a2-c151-4ea5-8acc-02a35bf6cd97",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "updatedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "55e70354-a4a7-48e3-af2b-92bbdb2a90fa",
+      "company": "Cerebras Systems",
+      "title": "Software Engineer - Host and Network IO",
+      "locations": [
+        "Sunnyvale, CA",
+        "Toronto, CAN"
+      ],
+      "cities": [
+        "Sunnyvale, CA",
+        "Toronto, ON"
+      ],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.ashbyhq.com/cerebras/e62f91e4-3079-45aa-87ff-b848b56c54e6",
+      "url": "https://trueinterview.io/jobs/55e70354-a4a7-48e3-af2b-92bbdb2a90fa",
       "postedAt": "2026-09-10T00:00:00.000Z",
       "updatedAt": "2026-09-10T00:00:00.000Z"
     },
@@ -16208,31 +18128,6 @@
       "url": "https://trueinterview.io/jobs/4c99d551-a3ea-4cbb-8d06-973c82368899",
       "postedAt": "2026-09-09T18:42:50.000Z",
       "updatedAt": "2026-09-09T18:42:50.000Z"
-    },
-    {
-      "id": "b629433a-057c-44c4-92b2-ae1284013b6e",
-      "company": "Arista Networks",
-      "title": "Hardware NPI / Debug Engineer",
-      "locations": [
-        "Santa Clara, CA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.smartrecruiters.com/AristaNetworks/744000148585799-hardware-npi-debug-engineer?oga=true",
-      "url": "https://trueinterview.io/jobs/b629433a-057c-44c4-92b2-ae1284013b6e",
-      "postedAt": "2026-09-09T18:37:32.000Z",
-      "updatedAt": "2026-09-09T18:37:32.000Z"
     },
     {
       "id": "1c2067a6-c286-4f36-b7c0-d975689abab7",
@@ -19913,6 +21808,59 @@
       "source": "trueinterview",
       "applyUrl": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Business-Systems-Engineer---AI_JR160709",
       "url": "https://trueinterview.io/jobs/076487ae-fa5e-4796-bd58-fa100ece11eb",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "f2541362-92e2-4b55-8619-6ef3ad0b3da6",
+      "company": "Cerebras Systems",
+      "title": "Network Security Engineer",
+      "locations": [
+        "Sunnyvale, CA",
+        "Remote (US)"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "new-grad",
+      "level": "experienced",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.ashbyhq.com/cerebras/39c1aea3-d6df-4661-872d-082ba11df5fc",
+      "url": "https://trueinterview.io/jobs/f2541362-92e2-4b55-8619-6ef3ad0b3da6",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "57796c31-3d31-490a-9326-367052029372",
+      "company": "Cisco",
+      "title": "Failure Analysis Engineer I (Full-Time) United States",
+      "locations": [
+        "Maynard, Massachusetts, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Failure-Analysis-Engineer_2018947",
+      "url": "https://trueinterview.io/jobs/57796c31-3d31-490a-9326-367052029372",
       "postedAt": "2026-09-08T00:00:00.000Z",
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
@@ -25038,6 +26986,85 @@
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
     {
+      "id": "b1c6efa7-a63c-4fd8-b66e-0ff21b0831e0",
+      "company": "Applied Materials",
+      "title": "Electrical/Radio Frequency Engineer II, New College Grad- Master's (Santa Clara, CA)",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318362299",
+      "url": "https://trueinterview.io/jobs/b1c6efa7-a63c-4fd8-b66e-0ff21b0831e0",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "d318a643-6d61-406c-b859-50df192ebe6f",
+      "company": "Applied Materials",
+      "title": "Manufacturing Engineer I - (E1)",
+      "locations": [
+        "Austin, TX, US"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318195931",
+      "url": "https://trueinterview.io/jobs/d318a643-6d61-406c-b859-50df192ebe6f",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "78d183a9-642f-4947-9fb8-bc460be98df1",
+      "company": "Applied Materials",
+      "title": "Manufacturing Engineer I, New College Grad- Bachelor's (Austin, TX)",
+      "locations": [
+        "Austin, TX, US"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318362273",
+      "url": "https://trueinterview.io/jobs/78d183a9-642f-4947-9fb8-bc460be98df1",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
       "id": "8305427f-707a-473f-91d7-39d030c5ffb5",
       "company": "Arista Networks",
       "title": "Site Reliability Engineer (SRE) - Engineering Productivity",
@@ -28546,6 +30573,33 @@
       "updatedAt": "2026-09-03T00:00:00.000Z"
     },
     {
+      "id": "32dd0189-0e6e-4809-a5cb-27110edd27bb",
+      "company": "Cadence Design Systems",
+      "title": "Software Engineer  (new college grad Dec 2026)",
+      "locations": [
+        "SAN JOSE"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
+      "url": "https://trueinterview.io/jobs/32dd0189-0e6e-4809-a5cb-27110edd27bb",
+      "postedAt": "2026-09-03T00:00:00.000Z",
+      "updatedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
       "id": "53723171-92c5-4c0e-a216-9a147dff86b1",
       "company": "Cafeyn",
       "title": "Back-End Software Engineer (.NET)",
@@ -28598,6 +30652,36 @@
       "updatedAt": "2026-09-03T00:00:00.000Z"
     },
     {
+      "id": "b188f77c-43eb-4e4f-a20e-a6356e19e094",
+      "company": "Cerebras Systems",
+      "title": "ML Systems Integration Engineer",
+      "locations": [
+        "Sunnyvale, CA",
+        "Toronto, CAN"
+      ],
+      "cities": [
+        "Sunnyvale, CA",
+        "Toronto, ON"
+      ],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.ashbyhq.com/cerebras/c35a389c-807e-45fb-bfda-03f6b1361871",
+      "url": "https://trueinterview.io/jobs/b188f77c-43eb-4e4f-a20e-a6356e19e094",
+      "postedAt": "2026-09-03T00:00:00.000Z",
+      "updatedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
       "id": "9573a261-87dc-4994-a649-bccf916e6ea8",
       "company": "Ciena",
       "title": "Platform Software Developer - 2026 New Grads",
@@ -28621,6 +30705,58 @@
       "source": "trueinterview",
       "applyUrl": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Platform-Software-Developer---2026-New-Grads_R031084-1",
       "url": "https://trueinterview.io/jobs/9573a261-87dc-4994-a649-bccf916e6ea8",
+      "postedAt": "2026-09-03T00:00:00.000Z",
+      "updatedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "1af49516-f69f-4d7e-a49b-33f2116f89e2",
+      "company": "Cisco",
+      "title": "Hardware (Power) Engineer",
+      "locations": [
+        "San Jose, California, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware--Power--Engineer_2012254",
+      "url": "https://trueinterview.io/jobs/1af49516-f69f-4d7e-a49b-33f2116f89e2",
+      "postedAt": "2026-09-03T00:00:00.000Z",
+      "updatedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "dcd7539b-18b7-4e4e-ac89-d46389697074",
+      "company": "Cisco",
+      "title": "Photonic Packaging Engineer",
+      "locations": [
+        "Carlsbad, California, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Carlsbad-California-US/Photonic-Packaging-Engineer_2002242",
+      "url": "https://trueinterview.io/jobs/dcd7539b-18b7-4e4e-ac89-d46389697074",
       "postedAt": "2026-09-03T00:00:00.000Z",
       "updatedAt": "2026-09-03T00:00:00.000Z"
     },
@@ -32294,6 +34430,33 @@
       "source": "trueinterview",
       "applyUrl": "https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1",
       "url": "https://trueinterview.io/jobs/75c39006-c32a-413d-a370-766e850cd1f2",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "0eab0c7b-be22-4bf1-9934-ae59f2a571b7",
+      "company": "Cerebras Systems",
+      "title": "Application Security Engineer",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.ashbyhq.com/cerebras/91bc61c1-29db-4a47-817d-30e921064af5",
+      "url": "https://trueinterview.io/jobs/0eab0c7b-be22-4bf1-9934-ae59f2a571b7",
       "postedAt": "2026-09-02T00:00:00.000Z",
       "updatedAt": "2026-09-02T00:00:00.000Z"
     },
@@ -37936,6 +40099,33 @@
       "updatedAt": "2026-08-31T00:00:00.000Z"
     },
     {
+      "id": "4cf648a0-651d-402d-9f30-ce1b9ce58942",
+      "company": "Applied Materials",
+      "title": "Global Supply Chain Rotational Program, Business Intelligence Analyst I, New College Grad- Bachelor's (Austin TX)",
+      "locations": [
+        "Austin, TX, US"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318267068",
+      "url": "https://trueinterview.io/jobs/4cf648a0-651d-402d-9f30-ce1b9ce58942",
+      "postedAt": "2026-08-31T00:00:00.000Z",
+      "updatedAt": "2026-08-31T00:00:00.000Z"
+    },
+    {
       "id": "f65ec092-0374-4926-b8ce-45e80927fbc9",
       "company": "Cisco",
       "title": "Software Engineer Full Stack / Backend I (Full Time) - United States",
@@ -41266,6 +43456,31 @@
       "updatedAt": "2026-08-27T00:00:00.000Z"
     },
     {
+      "id": "356eb619-a05f-4258-84ab-5ebad1587d4f",
+      "company": "Broadcom",
+      "title": "DCIM Semiconductor Equipment Maintenance Technician (Diffusion, CVD, Implant, Milling)(Night Shift)",
+      "locations": [
+        "USA-Colorado-Fort Collins-4380 Ziegler Road"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/DCIM-Semiconductor-Equipment-Maintenance-Technician--Diffusion--CVD--Implant--Milling--Night-Shift-_R026912-1",
+      "url": "https://trueinterview.io/jobs/356eb619-a05f-4258-84ab-5ebad1587d4f",
+      "postedAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z"
+    },
+    {
       "id": "c48c8cac-e59d-4379-866b-e37ef3a579cf",
       "company": "Keysight",
       "title": "R&D Software Engineer, Recent Graduate",
@@ -44163,6 +46378,58 @@
       "updatedAt": "2026-08-25T00:00:00.000Z"
     },
     {
+      "id": "cb08c866-6cbf-4235-8b03-5ab5c0b342f7",
+      "company": "Apple",
+      "title": "Signal and Power Integrity Engineer - SIO Interface",
+      "locations": [
+        "Various Locations within Austin Metro Area",
+        "Various Locations within San Francisco Bay Area",
+        "San Diego"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200679896-0240/signal-and-power-integrity-engineer-sio-interface",
+      "url": "https://trueinterview.io/jobs/cb08c866-6cbf-4235-8b03-5ab5c0b342f7",
+      "postedAt": "2026-08-25T00:00:00.000Z",
+      "updatedAt": "2026-08-25T00:00:00.000Z"
+    },
+    {
+      "id": "45ac575d-9db0-4d81-9189-e5a07b96e647",
+      "company": "Broadcom",
+      "title": "Electrical Hardware & AI Integration Engineer",
+      "locations": [
+        "USA-Colorado-Fort Collins-4380 Ziegler Road"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Electrical-Hardware---AI-Integration-Engineer_R025609",
+      "url": "https://trueinterview.io/jobs/45ac575d-9db0-4d81-9189-e5a07b96e647",
+      "postedAt": "2026-08-25T00:00:00.000Z",
+      "updatedAt": "2026-08-25T00:00:00.000Z"
+    },
+    {
       "id": "331b932b-c68c-4a81-8b09-8d452c976b27",
       "company": "Anduril Industries",
       "title": "System Administrator (Second Shift) - Factory Systems",
@@ -45383,6 +47650,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/91014?lang=en-us",
       "url": "https://trueinterview.io/jobs/5cd0020c-e659-4335-94c9-e8209c5c1488",
+      "postedAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z"
+    },
+    {
+      "id": "f3d5113b-c1cd-4710-841c-1ce942258c48",
+      "company": "Broadcom",
+      "title": "Physical Design Engineer",
+      "locations": [
+        "USA-CA San Jose Innovation Drive"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "experienced",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Physical-Design-Engineer_R026883-1",
+      "url": "https://trueinterview.io/jobs/f3d5113b-c1cd-4710-841c-1ce942258c48",
       "postedAt": "2026-08-24T00:00:00.000Z",
       "updatedAt": "2026-08-24T00:00:00.000Z"
     },
@@ -46951,6 +49243,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/90583?lang=en-us",
       "url": "https://trueinterview.io/jobs/9351a548-25ef-416e-a660-5fa7987c69d2",
+      "postedAt": "2026-08-21T00:00:00.000Z",
+      "updatedAt": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "id": "4d38e8a9-89c8-452d-9973-712cb901259e",
+      "company": "Applied Materials",
+      "title": "DfSafety and Reliability Engineer",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790317927121",
+      "url": "https://trueinterview.io/jobs/4d38e8a9-89c8-452d-9973-712cb901259e",
       "postedAt": "2026-08-21T00:00:00.000Z",
       "updatedAt": "2026-08-21T00:00:00.000Z"
     },
@@ -50973,6 +53290,56 @@
       "updatedAt": "2026-08-18T00:00:00.000Z"
     },
     {
+      "id": "ee647416-c7b1-44cb-acd6-add54dbfc10d",
+      "company": "Broadcom",
+      "title": "Digital Signal Processing and System Validation Engineer",
+      "locations": [
+        "USA-California-San Jose-1320 Ridder Park Drive"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "experienced",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-California-San-Jose-1320-Ridder-Park-Drive/Digital-Signal-Processing-and-System-Validation-Engineer_R025724",
+      "url": "https://trueinterview.io/jobs/ee647416-c7b1-44cb-acd6-add54dbfc10d",
+      "postedAt": "2026-08-18T00:00:00.000Z",
+      "updatedAt": "2026-08-18T00:00:00.000Z"
+    },
+    {
+      "id": "a1c6377a-5e5d-4cba-ab1a-22c72481a381",
+      "company": "Broadcom",
+      "title": "R&D Hardware Engineer",
+      "locations": [
+        "USA-CA San Jose Innovation Drive"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/R-D-Engineer-Hardware-5_R023955",
+      "url": "https://trueinterview.io/jobs/a1c6377a-5e5d-4cba-ab1a-22c72481a381",
+      "postedAt": "2026-08-18T00:00:00.000Z",
+      "updatedAt": "2026-08-18T00:00:00.000Z"
+    },
+    {
       "id": "65ffec22-fd8d-42e2-a3f3-adf5a053f201",
       "company": "Hasbro",
       "title": "Systems Administrator",
@@ -53607,6 +55974,60 @@
       "updatedAt": "2026-08-14T16:07:24.000Z"
     },
     {
+      "id": "ecd7760b-dce4-45c8-ba5d-27cdddfc118b",
+      "company": "AppLovin",
+      "title": "Measurement Data Scientist",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/applovin/jobs/4705264006?gh_jid=4705264006",
+      "url": "https://trueinterview.io/jobs/ecd7760b-dce4-45c8-ba5d-27cdddfc118b",
+      "postedAt": "2026-08-14T00:34:46.000Z",
+      "updatedAt": "2026-08-14T00:34:46.000Z"
+    },
+    {
+      "id": "6d10ed5c-2bfa-4c8c-9137-58154dc3ec24",
+      "company": "AppLovin",
+      "title": "Data Scientist – Analytics",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/applovin/jobs/4705263006?gh_jid=4705263006",
+      "url": "https://trueinterview.io/jobs/6d10ed5c-2bfa-4c8c-9137-58154dc3ec24",
+      "postedAt": "2026-08-14T00:33:27.000Z",
+      "updatedAt": "2026-08-14T00:33:27.000Z"
+    },
+    {
       "id": "9bacf2e3-f4de-4f83-9e58-8c5d114275b2",
       "company": "Adobe",
       "title": "iOS Developer",
@@ -53659,6 +56080,81 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/88522?lang=en-us",
       "url": "https://trueinterview.io/jobs/9c589398-1f3d-48ec-b917-eab97180c291",
+      "postedAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z"
+    },
+    {
+      "id": "df88e9f2-8faf-4558-ad3a-d934f3737302",
+      "company": "Applied Materials",
+      "title": "2027 Engineer Development Rotation Program - Electrical Engineer I New College Grad - BS or MS (Gloucester, MA)",
+      "locations": [
+        "Gloucester, MA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790317704825",
+      "url": "https://trueinterview.io/jobs/df88e9f2-8faf-4558-ad3a-d934f3737302",
+      "postedAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z"
+    },
+    {
+      "id": "df225ad2-942b-44e6-8566-3ec065a8498e",
+      "company": "Applied Materials",
+      "title": "2027 Engineer Development Rotation Program - Mechanical Engineer I New College Grad - BS or MS (Gloucester, MA)",
+      "locations": [
+        "Gloucester, MA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790317704837",
+      "url": "https://trueinterview.io/jobs/df225ad2-942b-44e6-8566-3ec065a8498e",
+      "postedAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z"
+    },
+    {
+      "id": "a27a4ec7-bb1c-4566-9f54-4118754de0ba",
+      "company": "Applied Materials",
+      "title": "2027 Engineer Development Rotation Program - Systems Engineer I New College Grad - BS or MS (Gloucester, MA)",
+      "locations": [
+        "Gloucester, MA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790317704779",
+      "url": "https://trueinterview.io/jobs/a27a4ec7-bb1c-4566-9f54-4118754de0ba",
       "postedAt": "2026-08-14T00:00:00.000Z",
       "updatedAt": "2026-08-14T00:00:00.000Z"
     },
@@ -55025,6 +57521,31 @@
       "url": "https://trueinterview.io/jobs/6ca1d79e-54e4-45bd-8847-946be7aa5d84",
       "postedAt": "2026-08-13T00:01:46.000Z",
       "updatedAt": "2026-08-13T00:01:46.000Z"
+    },
+    {
+      "id": "68ea3424-39bd-43f0-a26f-aa90a70bf9a4",
+      "company": "Broadcom",
+      "title": "Support Engineer - Mainframe",
+      "locations": [
+        "USA-IL Lisle Warrenville Road"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-IL-Lisle-Warrenville-Road/Support-Engineer---Mainframe_R026779",
+      "url": "https://trueinterview.io/jobs/68ea3424-39bd-43f0-a26f-aa90a70bf9a4",
+      "postedAt": "2026-08-13T00:00:00.000Z",
+      "updatedAt": "2026-08-13T00:00:00.000Z"
     },
     {
       "id": "0df39b3f-2f89-401a-8959-109a2db844a6",
@@ -58395,6 +60916,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/89860?lang=en-us",
       "url": "https://trueinterview.io/jobs/fdb3ee6c-32e2-4309-a2c7-6fbba9a5ef16",
+      "postedAt": "2026-08-11T00:00:00.000Z",
+      "updatedAt": "2026-08-11T00:00:00.000Z"
+    },
+    {
+      "id": "070a9c09-211e-44d1-9651-d0bf84dab9da",
+      "company": "Applied Materials",
+      "title": "Software QA Engineer",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790317725049",
+      "url": "https://trueinterview.io/jobs/070a9c09-211e-44d1-9651-d0bf84dab9da",
       "postedAt": "2026-08-11T00:00:00.000Z",
       "updatedAt": "2026-08-11T00:00:00.000Z"
     },
@@ -64805,6 +67351,33 @@
       "updatedAt": "2026-07-31T00:00:00.000Z"
     },
     {
+      "id": "4c4497ab-8901-4837-802d-84aaf1303340",
+      "company": "Astera Labs",
+      "title": "Fabric Modeling and Analysis Engineer for Scale Up Fabric",
+      "locations": [
+        "San Jose, California, United States"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://job-boards.greenhouse.io/asteralabs/jobs/4720171005",
+      "url": "https://trueinterview.io/jobs/4c4497ab-8901-4837-802d-84aaf1303340",
+      "postedAt": "2026-07-30T23:56:16.000Z",
+      "updatedAt": "2026-07-30T23:56:16.000Z"
+    },
+    {
       "id": "b1fc2bb5-d8ce-4e73-a7e6-a7651c4fbef8",
       "company": "Adobe",
       "title": "Full-Stack Engineer",
@@ -64909,6 +67482,52 @@
       "updatedAt": "2026-07-30T00:00:00.000Z"
     },
     {
+      "id": "4af61ef5-bf79-49e7-9f66-1c7f8cf61dee",
+      "company": "Apple",
+      "title": "Data Scientist - Business Strategy, Product Marketing",
+      "locations": [
+        "Cupertino"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200661963-0836/data-scientist-business-strategy-product-marketing",
+      "url": "https://trueinterview.io/jobs/4af61ef5-bf79-49e7-9f66-1c7f8cf61dee",
+      "postedAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "df9ff0dd-6a3d-4ac9-a5e4-63998af5cd9a",
+      "company": "Apple",
+      "title": "Module Reliability Engineer - Imaging and Sensing",
+      "locations": [
+        "Cupertino"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200674882-0836/module-reliability-engineer-imaging-and-sensing",
+      "url": "https://trueinterview.io/jobs/df9ff0dd-6a3d-4ac9-a5e4-63998af5cd9a",
+      "postedAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
       "id": "08b4a9c0-4392-403c-b06d-9e88c28a468d",
       "company": "AMD",
       "title": "Failure Analysis Planner & On-site Engineer",
@@ -64930,6 +67549,33 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/88945?lang=en-us",
       "url": "https://trueinterview.io/jobs/08b4a9c0-4392-403c-b06d-9e88c28a468d",
+      "postedAt": "2026-07-29T00:00:00.000Z",
+      "updatedAt": "2026-07-29T00:00:00.000Z"
+    },
+    {
+      "id": "fdb377b7-8726-4131-82af-96397c58c7f1",
+      "company": "Cerebras Systems",
+      "title": "Systems Debug Engineer- EE",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "experienced",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.ashbyhq.com/cerebras/31def8de-acc5-4db3-9020-1fdfa8e783da",
+      "url": "https://trueinterview.io/jobs/fdb377b7-8726-4131-82af-96397c58c7f1",
       "postedAt": "2026-07-29T00:00:00.000Z",
       "updatedAt": "2026-07-29T00:00:00.000Z"
     },
@@ -65412,6 +68058,60 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/81017?lang=en-us",
       "url": "https://trueinterview.io/jobs/08e0f21a-bc5c-4cfe-b96c-c906924cda76",
+      "postedAt": "2026-07-23T00:00:00.000Z",
+      "updatedAt": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "id": "48c790b9-ab09-483f-9d27-5a133b174ec1",
+      "company": "Cerebras Systems",
+      "title": "Kernel Engineer - New Grad",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e",
+      "url": "https://trueinterview.io/jobs/48c790b9-ab09-483f-9d27-5a133b174ec1",
+      "postedAt": "2026-07-23T00:00:00.000Z",
+      "updatedAt": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "id": "13ee167f-ae6d-4cf7-8cd9-bf868d8e5e8e",
+      "company": "Cerebras Systems",
+      "title": "Software Engineer, Cluster Deployment",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.ashbyhq.com/cerebras/63b9c135-ce5d-4898-8e4d-9422d39e4ca6",
+      "url": "https://trueinterview.io/jobs/13ee167f-ae6d-4cf7-8cd9-bf868d8e5e8e",
       "postedAt": "2026-07-23T00:00:00.000Z",
       "updatedAt": "2026-07-23T00:00:00.000Z"
     },
