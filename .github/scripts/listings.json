@@ -6,9 +6,184 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-16T07:34:43.235Z",
-  "count": 2403,
+  "fetchedAt": "2026-09-16T13:24:01.814Z",
+  "count": 2497,
   "listings": [
+    {
+      "id": "63ee19f6-cb7e-4abc-8766-2f4ed5f858cf",
+      "company": "Analog Devices",
+      "title": "Diff/Wet Process Engineering Technician (Nights)",
+      "locations": [
+        "US, OR, Beaverton"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Diff-Wet-Process-Engineering-Technician--Nights-_R264347",
+      "url": "https://trueinterview.io/jobs/63ee19f6-cb7e-4abc-8766-2f4ed5f858cf",
+      "postedAt": "2026-09-16T09:43:11.000Z",
+      "updatedAt": "2026-09-16T09:43:11.000Z"
+    },
+    {
+      "id": "06c06654-442e-4cb4-8269-c9ec3ac2e26d",
+      "company": "Analog Devices",
+      "title": "Engineer: Embedded Audio Software",
+      "locations": [
+        "US, CA, San Jose, Rio Robles"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Engineer--Embedded-Audio-Software_R263782",
+      "url": "https://trueinterview.io/jobs/06c06654-442e-4cb4-8269-c9ec3ac2e26d",
+      "postedAt": "2026-09-16T09:43:11.000Z",
+      "updatedAt": "2026-09-16T09:43:11.000Z"
+    },
+    {
+      "id": "b87960c0-a021-473c-a332-20b737874012",
+      "company": "Analog Devices",
+      "title": "Integration Engineer",
+      "locations": [
+        "US, OR, Beaverton"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Integration-Engineer_R264224",
+      "url": "https://trueinterview.io/jobs/b87960c0-a021-473c-a332-20b737874012",
+      "postedAt": "2026-09-16T09:43:11.000Z",
+      "updatedAt": "2026-09-16T09:43:11.000Z"
+    },
+    {
+      "id": "9c73b483-1ebd-4350-af71-67b7cadbadf1",
+      "company": "Analog Devices",
+      "title": "Process Engineering Technician (Nights)",
+      "locations": [
+        "US, OR, Beaverton"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Process-Engineering-Technician--Nights-_R264348",
+      "url": "https://trueinterview.io/jobs/9c73b483-1ebd-4350-af71-67b7cadbadf1",
+      "postedAt": "2026-09-16T09:43:11.000Z",
+      "updatedAt": "2026-09-16T09:43:11.000Z"
+    },
+    {
+      "id": "3362f4b4-e8a3-44ef-bf0e-b8de4d4706b3",
+      "company": "Analog Devices",
+      "title": "Product Engineer / Design Evaluation",
+      "locations": [
+        "US, MA, Wilmington"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer---RF-System_R263805",
+      "url": "https://trueinterview.io/jobs/3362f4b4-e8a3-44ef-bf0e-b8de4d4706b3",
+      "postedAt": "2026-09-16T09:43:11.000Z",
+      "updatedAt": "2026-09-16T09:43:11.000Z"
+    },
+    {
+      "id": "643c4c5d-2891-4a00-8585-68a81555179d",
+      "company": "Analog Devices",
+      "title": "System Mechanical & Integration Engineer",
+      "locations": [
+        "US, MA, Wilmington"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/System-Mechanical---Integration-Engineer_R264128",
+      "url": "https://trueinterview.io/jobs/643c4c5d-2891-4a00-8585-68a81555179d",
+      "postedAt": "2026-09-16T09:43:11.000Z",
+      "updatedAt": "2026-09-16T09:43:11.000Z"
+    },
+    {
+      "id": "0607f238-6f97-4f66-8c48-10106c4ce0e3",
+      "company": "Analog Devices",
+      "title": "Systems Integration Engineer – Robotic",
+      "locations": [
+        "US, MA, Wilmington"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Systems-Integration-Engineer---Robotic_R262224",
+      "url": "https://trueinterview.io/jobs/0607f238-6f97-4f66-8c48-10106c4ce0e3",
+      "postedAt": "2026-09-16T09:43:11.000Z",
+      "updatedAt": "2026-09-16T09:43:11.000Z"
+    },
     {
       "id": "8bba2e56-6964-47dd-a457-8b295e0912ad",
       "company": "Kairos Power",
@@ -82,6 +257,52 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/capital-on-tap/jobs/software-engineer_lisbonne_wf5ywwmy",
       "url": "https://trueinterview.io/jobs/4e994435-6f19-448d-a2e4-cf2c8d8ddea4",
+      "postedAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "id": "4c2b5446-1fb0-42eb-92bc-53dbb9883cb8",
+      "company": "Cisco",
+      "title": "AI Software Engineer",
+      "locations": [
+        "2 Locations"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/AI-Software-Engineer_2025798",
+      "url": "https://trueinterview.io/jobs/4c2b5446-1fb0-42eb-92bc-53dbb9883cb8",
+      "postedAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "id": "118a53cd-d7a6-46e5-b0c4-cb84ac83fba6",
+      "company": "Cisco",
+      "title": "Data Engineer",
+      "locations": [
+        "2 Locations"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Data-Engineer_2025792",
+      "url": "https://trueinterview.io/jobs/118a53cd-d7a6-46e5-b0c4-cb84ac83fba6",
       "postedAt": "2026-09-16T00:00:00.000Z",
       "updatedAt": "2026-09-16T00:00:00.000Z"
     },
@@ -167,6 +388,31 @@
       "updatedAt": "2026-09-16T00:00:00.000Z"
     },
     {
+      "id": "bc7263e4-e329-4979-b004-ed37ebd6fa49",
+      "company": "Interrahealth",
+      "title": "AI Security Engineer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/interrahealth/jobs/ai-security-engineer",
+      "url": "https://trueinterview.io/jobs/bc7263e4-e329-4979-b004-ed37ebd6fa49",
+      "postedAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
       "id": "66f7301f-827e-4c29-8384-54cad3204a97",
       "company": "KoboToolbox",
       "title": "Frontend Web Application Developer - Remote",
@@ -215,6 +461,54 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/lemlist/jobs/data-engineer_paris_LEMLI_X3pdlXe",
       "url": "https://trueinterview.io/jobs/64b0fe18-0544-4c73-949b-5f2e90751d1c",
+      "postedAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "id": "e45346ee-c009-449a-8e2d-e2af4578e456",
+      "company": "Magna International",
+      "title": "Full Stack Developer C#/.NET und PHP (m/w/x)",
+      "locations": [
+        "Graz, AT"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://magna.wd3.myworkdayjobs.com/Magna/job/Graz-AT/Full-Stack-Developer-C--NET-und-PHP--m-w-x-_R00261983-6",
+      "url": "https://trueinterview.io/jobs/e45346ee-c009-449a-8e2d-e2af4578e456",
+      "postedAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "id": "9008ab00-4fa6-403f-8c5b-bb0811909b24",
+      "company": "Mastercard",
+      "title": "Cloud Automation Engineer",
+      "locations": [
+        "Copenhagen, Denmark (Arne Jacobsens)"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Copenhagen-Denmark-Arne-Jacobsens/Cloud-Automation-Engineer_R-291016",
+      "url": "https://trueinterview.io/jobs/9008ab00-4fa6-403f-8c5b-bb0811909b24",
       "postedAt": "2026-09-16T00:00:00.000Z",
       "updatedAt": "2026-09-16T00:00:00.000Z"
     },
@@ -753,6 +1047,56 @@
       "updatedAt": "2026-09-16T00:00:00.000Z"
     },
     {
+      "id": "6fe9416d-0c10-4d04-b0c9-b354eaafb7e3",
+      "company": "PAYPLUG",
+      "title": "(Stage) Data AI Engineer",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/payplug/jobs/stage-data-ai-engineer_paris",
+      "url": "https://trueinterview.io/jobs/6fe9416d-0c10-4d04-b0c9-b354eaafb7e3",
+      "postedAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "id": "075b8b95-93cf-4081-851f-3b8a3c838bfc",
+      "company": "PwC",
+      "title": "Płatne praktyki / Cloud Data Engineer",
+      "locations": [
+        "Warszawa"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Patne-praktyki---Cloud-Data-Engineer_752140WD",
+      "url": "https://trueinterview.io/jobs/075b8b95-93cf-4081-851f-3b8a3c838bfc",
+      "postedAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
       "id": "e0bd0846-f694-419d-b549-3cdf48a950bf",
       "company": "Quest Global Technologies",
       "title": "Laravel Developer",
@@ -774,6 +1118,31 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/quest-global-technologies/jobs/laravel-developer-6713783437",
       "url": "https://trueinterview.io/jobs/e0bd0846-f694-419d-b549-3cdf48a950bf",
+      "postedAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "id": "266c0c58-09ec-4830-9d9c-88d6155bc9e9",
+      "company": "Red Canyon Engineering & Software",
+      "title": "Flight Software Engineer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/red-canyon-engineering-software/jobs/flight-software-engineer",
+      "url": "https://trueinterview.io/jobs/266c0c58-09ec-4830-9d9c-88d6155bc9e9",
       "postedAt": "2026-09-16T00:00:00.000Z",
       "updatedAt": "2026-09-16T00:00:00.000Z"
     },
@@ -2526,6 +2895,131 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/24x7-direct/jobs/azure-ai-net-developer-7407145222",
       "url": "https://trueinterview.io/jobs/9122bfae-8a0d-46d7-9e35-f32db520131c",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "10510dfe-bf88-4497-9036-94111ba25b4f",
+      "company": "AMD",
+      "title": "AI Applications Engineer",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91544?lang=en-us",
+      "url": "https://trueinterview.io/jobs/10510dfe-bf88-4497-9036-94111ba25b4f",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "5420fb06-c5c5-45d5-8d98-e94f24ad86d5",
+      "company": "AMD",
+      "title": "C-Simulation Engineer, GPU Modeling",
+      "locations": [
+        "US,FL,Orlando"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91408?lang=en-us",
+      "url": "https://trueinterview.io/jobs/5420fb06-c5c5-45d5-8d98-e94f24ad86d5",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "d5d65879-7b5b-4f9f-a49b-d9ff0be1a308",
+      "company": "AMD",
+      "title": "CPU RTL Power, Clocking, Reset Design Engineer",
+      "locations": [
+        "US,CO,Ft Collins"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91296?lang=en-us",
+      "url": "https://trueinterview.io/jobs/d5d65879-7b5b-4f9f-a49b-d9ff0be1a308",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "dcbe4d42-41ba-4aa5-9f4b-d5137e1ed43a",
+      "company": "AMD",
+      "title": "Field Application Engineer - Midwest",
+      "locations": [
+        "US,IL,Home Office"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/92421?lang=en-us",
+      "url": "https://trueinterview.io/jobs/dcbe4d42-41ba-4aa5-9f4b-d5137e1ed43a",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "bec820ec-e7ef-415f-abe2-f05d00cefe85",
+      "company": "AMD",
+      "title": "Post-Training Platform Infrastructure Engineer",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Platform Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/78472?lang=en-us",
+      "url": "https://trueinterview.io/jobs/bec820ec-e7ef-415f-abe2-f05d00cefe85",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -4984,6 +5478,31 @@
       "url": "https://trueinterview.io/jobs/653ac5b1-9e68-4c4b-adf1-c221f8154a65",
       "postedAt": "2026-09-14T14:33:10.000Z",
       "updatedAt": "2026-09-14T14:33:10.000Z"
+    },
+    {
+      "id": "591bac23-8555-442c-a005-6510153d6447",
+      "company": "AMD",
+      "title": "RTL / Circuit IP Design Engineer",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/87103?lang=en-us",
+      "url": "https://trueinterview.io/jobs/591bac23-8555-442c-a005-6510153d6447",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
     },
     {
       "id": "3e41a9d5-0692-42ee-8b5a-e197e1d87f36",
@@ -8900,6 +9419,81 @@
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
     {
+      "id": "f0c5273a-8504-4271-8a03-a00289da84d6",
+      "company": "AMD",
+      "title": "Compute and Enterprise AI Engineering Operations Leader",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90974?lang=en-us",
+      "url": "https://trueinterview.io/jobs/f0c5273a-8504-4271-8a03-a00289da84d6",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
+      "id": "c99e657a-9786-4d67-bc83-cb1bef392d3e",
+      "company": "AMD",
+      "title": "GPU Software Engineer - GPU Libraries",
+      "locations": [
+        "US,CA,Home Office_Area2"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/88548?lang=en-us",
+      "url": "https://trueinterview.io/jobs/c99e657a-9786-4d67-bc83-cb1bef392d3e",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
+      "id": "0104bd52-89de-4cf1-b1da-03f4b2ede33d",
+      "company": "AMD",
+      "title": "Systems Hardware Development & Validation Engineer",
+      "locations": [
+        "US,CA,Santa Clara"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/89592?lang=en-us",
+      "url": "https://trueinterview.io/jobs/0104bd52-89de-4cf1-b1da-03f4b2ede33d",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
       "id": "bf28b33c-3baa-43a0-aa42-3e60d019b324",
       "company": "Capgemini",
       "title": "Software Engineer Fullstack",
@@ -9937,32 +10531,6 @@
       "source": "trueinterview",
       "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Sr-Associate--Generative-AI-Engineer-Emerging-Businesses-Advisory-Bangalore_754119WD",
       "url": "https://trueinterview.io/jobs/c73e8e49-c9cb-4017-a9b5-263a024b2950",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "1325810c-9044-45bb-b75e-554c8ac5c5d1",
-      "company": "QUALCOMM",
-      "title": "Machine Learning Engineer, AI Processors (New Grad to Engineer Level)",
-      "locations": [
-        "Markham, ON, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States",
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446721063770",
-      "url": "https://trueinterview.io/jobs/1325810c-9044-45bb-b75e-554c8ac5c5d1",
       "postedAt": "2026-09-11T00:00:00.000Z",
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
@@ -12995,6 +13563,106 @@
       "updatedAt": "2026-09-10T00:00:00.000Z"
     },
     {
+      "id": "da8c34da-f463-4426-a0c9-8c7bf9211436",
+      "company": "AMD",
+      "title": "AI Design Automation Engineer",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91814?lang=en-us",
+      "url": "https://trueinterview.io/jobs/da8c34da-f463-4426-a0c9-8c7bf9211436",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "updatedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "93da45df-e41e-4c00-b899-9d392d071b68",
+      "company": "AMD",
+      "title": "ASIC Emulation Engineer",
+      "locations": [
+        "US,CA,Santa Clara"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/92094?lang=en-us",
+      "url": "https://trueinterview.io/jobs/93da45df-e41e-4c00-b899-9d392d071b68",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "updatedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "f228483d-e0d3-4a30-9356-ce74a4327c55",
+      "company": "AMD",
+      "title": "HPC & AI Research Engineer / Software Engineer",
+      "locations": [
+        "US,CA,Santa Clara"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/92045?lang=en-us",
+      "url": "https://trueinterview.io/jobs/f228483d-e0d3-4a30-9356-ce74a4327c55",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "updatedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "f3413a7b-6de4-40fb-82b2-d1a19f69b883",
+      "company": "AMD",
+      "title": "Software Development Engineer — GPU Fleet Management & AI Infrastructure",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/92050?lang=en-us",
+      "url": "https://trueinterview.io/jobs/f3413a7b-6de4-40fb-82b2-d1a19f69b883",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "updatedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
       "id": "30cfe062-020e-4bbb-8689-937663732dc8",
       "company": "Applied Intuition",
       "title": "C++ Embedded Software Engineer (Drone Stack)",
@@ -15955,6 +16623,106 @@
       "updatedAt": "2026-09-09T00:00:00.000Z"
     },
     {
+      "id": "fac0536a-cb9d-4345-837a-441efa890b52",
+      "company": "AMD",
+      "title": "GPU boards Failure Analysis Engineer",
+      "locations": [
+        "US,NJ,Secaucus_Seaview"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91809?lang=en-us",
+      "url": "https://trueinterview.io/jobs/fac0536a-cb9d-4345-837a-441efa890b52",
+      "postedAt": "2026-09-09T00:00:00.000Z",
+      "updatedAt": "2026-09-09T00:00:00.000Z"
+    },
+    {
+      "id": "f6b0b55a-0339-4e30-a82a-c9b0d70e6dc5",
+      "company": "AMD",
+      "title": "HSIO Validation Engineer - Data Center GPU",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/92233?lang=en-us",
+      "url": "https://trueinterview.io/jobs/f6b0b55a-0339-4e30-a82a-c9b0d70e6dc5",
+      "postedAt": "2026-09-09T00:00:00.000Z",
+      "updatedAt": "2026-09-09T00:00:00.000Z"
+    },
+    {
+      "id": "fc3c7eaf-8e4a-42b9-a0ef-47c8249c58be",
+      "company": "AMD",
+      "title": "System Modeling Design Engineer",
+      "locations": [
+        "US,MA,Boxborough"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/92171?lang=en-us",
+      "url": "https://trueinterview.io/jobs/fc3c7eaf-8e4a-42b9-a0ef-47c8249c58be",
+      "postedAt": "2026-09-09T00:00:00.000Z",
+      "updatedAt": "2026-09-09T00:00:00.000Z"
+    },
+    {
+      "id": "42bba09d-1566-496f-a2ef-1a1d6a6b3668",
+      "company": "AMD",
+      "title": "System Modeling Engineer",
+      "locations": [
+        "US,CA,Santa Clara"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/86691?lang=en-us",
+      "url": "https://trueinterview.io/jobs/42bba09d-1566-496f-a2ef-1a1d6a6b3668",
+      "postedAt": "2026-09-09T00:00:00.000Z",
+      "updatedAt": "2026-09-09T00:00:00.000Z"
+    },
+    {
       "id": "42af22c8-4b68-4711-b5d4-74593138ca3a",
       "company": "Astra North Infoteck Inc.",
       "title": "cloud developer",
@@ -16841,31 +17609,6 @@
       "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Harrogate-England-Vocalink/Site-Reliability-Engineer-I---Connex_R-279327",
       "url": "https://trueinterview.io/jobs/aeca6c64-d935-452e-b0a3-bfbdcdefff12",
       "postedAt": "2026-09-09T00:00:00.000Z",
-      "updatedAt": "2026-09-09T00:00:00.000Z"
-    },
-    {
-      "id": "75c9307f-08a1-4e45-9046-43a0af6509de",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "locations": [
-        "Redmond, WA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556985572",
-      "url": "https://trueinterview.io/jobs/75c9307f-08a1-4e45-9046-43a0af6509de",
-      "postedAt": "2026-09-08T00:00:00.000Z",
       "updatedAt": "2026-09-09T00:00:00.000Z"
     },
     {
@@ -18613,34 +19356,6 @@
       "updatedAt": "2026-09-08T18:37:51.000Z"
     },
     {
-      "id": "ab8ad82f-a469-4af2-9282-b78bfa920f79",
-      "company": "Meta",
-      "title": "Research Engineer, AI (University Grad) | Ingénieur de recherche en IA (diplômé universitaire)",
-      "locations": [
-        "Montreal, Canada, CA"
-      ],
-      "cities": [
-        "Montreal, QC"
-      ],
-      "countries": [
-        "United States",
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/1395718268613427/",
-      "url": "https://trueinterview.io/jobs/ab8ad82f-a469-4af2-9282-b78bfa920f79",
-      "postedAt": "2026-09-08T18:17:59.000Z",
-      "updatedAt": "2026-09-08T18:17:59.000Z"
-    },
-    {
       "id": "a374b145-2db8-4f0f-a322-e8a36e9f2632",
       "company": "ZoomInfo",
       "title": "Software Engineer I - Salesforce Support",
@@ -19092,6 +19807,31 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/actinvision/jobs/consultant-microsoft-fabric-databricks-data-engineer-f-h_strasbourg",
       "url": "https://trueinterview.io/jobs/d102432e-4ded-41d2-859f-1cbd3d1ab458",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "eb89daf7-6a17-4551-b5ac-0b8e2c176714",
+      "company": "AMD",
+      "title": "HPC Systems Engineer - AI Workloads",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91909?lang=en-us",
+      "url": "https://trueinterview.io/jobs/eb89daf7-6a17-4551-b5ac-0b8e2c176714",
       "postedAt": "2026-09-08T00:00:00.000Z",
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
@@ -19829,32 +20569,6 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/q4-inc/jobs/information-security-engineer-india",
       "url": "https://trueinterview.io/jobs/a977a5f0-7141-4ab3-b0b4-376ef26bd45a",
-      "postedAt": "2026-09-08T00:00:00.000Z",
-      "updatedAt": "2026-09-08T00:00:00.000Z"
-    },
-    {
-      "id": "f7b1b99a-161a-4c10-aab5-56fa9c618cca",
-      "company": "QUALCOMM",
-      "title": "System AI Engineer, Display (New Grad Level and up)",
-      "locations": [
-        "Markham, ON, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States",
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446718599884",
-      "url": "https://trueinterview.io/jobs/f7b1b99a-161a-4c10-aab5-56fa9c618cca",
       "postedAt": "2026-09-08T00:00:00.000Z",
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
@@ -24115,6 +24829,33 @@
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
     {
+      "id": "f2b9a19b-da44-4c04-9b4b-be0b7198ead5",
+      "company": "Amazon",
+      "title": "Cloud Hardware Development Engineer, AWS - Early Career (2026)",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10530353/cloud-hardware-development-engineer-aws-early-career-2026",
+      "url": "https://trueinterview.io/jobs/f2b9a19b-da44-4c04-9b4b-be0b7198ead5",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
       "id": "dfd22a77-7242-40bf-bd2e-34d9ff33763e",
       "company": "Amazon",
       "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026",
@@ -24192,6 +24933,132 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/ambev/jobs/ze-delivery-platform-engineer-sao-paulo-sp",
       "url": "https://trueinterview.io/jobs/f6e51dbf-5cf5-46b8-bdab-e11cb82d3da7",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "25216524-7708-43be-9c67-9f2361b18f5d",
+      "company": "AMD",
+      "title": "AI Infrastructure Engineer",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/87209?lang=en-us",
+      "url": "https://trueinterview.io/jobs/25216524-7708-43be-9c67-9f2361b18f5d",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "46ab6f2b-0989-4dd4-9c91-d23dcc185882",
+      "company": "AMD",
+      "title": "AI Platform Security Engineer",
+      "locations": [
+        "US,CA,San Diego"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91933?lang=en-us",
+      "url": "https://trueinterview.io/jobs/46ab6f2b-0989-4dd4-9c91-d23dcc185882",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "cdca8694-4b4c-41d4-ae84-521c7fbba1ce",
+      "company": "AMD",
+      "title": "Customer Debug Engineer",
+      "locations": [
+        "US,WA,Seattle"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/92073?lang=en-us",
+      "url": "https://trueinterview.io/jobs/cdca8694-4b4c-41d4-ae84-521c7fbba1ce",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "fb9a62e6-35b7-4bd3-a635-fd17639c2c48",
+      "company": "AMD",
+      "title": "Data Center Engineer",
+      "locations": [
+        "US,TX,Austin",
+        "US,TX,Home Office"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/88872?lang=en-us",
+      "url": "https://trueinterview.io/jobs/fb9a62e6-35b7-4bd3-a635-fd17639c2c48",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "8f57edf6-94a9-41c5-baa8-e2a3aea5b086",
+      "company": "AMD",
+      "title": "SRAM Physical Design Engineer",
+      "locations": [
+        "US,MA,Boxborough"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90109?lang=en-us",
+      "url": "https://trueinterview.io/jobs/8f57edf6-94a9-41c5-baa8-e2a3aea5b086",
       "postedAt": "2026-09-04T00:00:00.000Z",
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
@@ -27500,6 +28367,106 @@
       "updatedAt": "2026-09-03T00:00:00.000Z"
     },
     {
+      "id": "79e35c1b-1dcf-4745-b017-07195f65c531",
+      "company": "AMD",
+      "title": "Audio-Visual Operations Engineer",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91631?lang=en-us",
+      "url": "https://trueinterview.io/jobs/79e35c1b-1dcf-4745-b017-07195f65c531",
+      "postedAt": "2026-09-03T00:00:00.000Z",
+      "updatedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "d0ac331a-6b5f-4c54-a27f-be3170d01d9e",
+      "company": "AMD",
+      "title": "Mechanical Engineer",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/92038?lang=en-us",
+      "url": "https://trueinterview.io/jobs/d0ac331a-6b5f-4c54-a27f-be3170d01d9e",
+      "postedAt": "2026-09-03T00:00:00.000Z",
+      "updatedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "62277e07-87ab-4150-b86e-7dc05e28b4fd",
+      "company": "AMD",
+      "title": "Product Quality & Reliability Engineer",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91560?lang=en-us",
+      "url": "https://trueinterview.io/jobs/62277e07-87ab-4150-b86e-7dc05e28b4fd",
+      "postedAt": "2026-09-03T00:00:00.000Z",
+      "updatedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "29d799ef-cb8f-4fb6-bd7a-a1a49b364aa4",
+      "company": "AMD",
+      "title": "Solution Validation Engineer--FPGA/SoC",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91636?lang=en-us",
+      "url": "https://trueinterview.io/jobs/29d799ef-cb8f-4fb6-bd7a-a1a49b364aa4",
+      "postedAt": "2026-09-03T00:00:00.000Z",
+      "updatedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
       "id": "9303cbe9-0274-4995-ae0d-bd864c004044",
       "company": "Appnovation",
       "title": "Full-Stack AI Engineer",
@@ -30466,32 +31433,6 @@
       "updatedAt": "2026-09-02T18:21:00.000Z"
     },
     {
-      "id": "eed6c80e-d028-4870-b1e1-9761a3a3a7bd",
-      "company": "Assist World",
-      "title": "Shopify Developer",
-      "locations": [
-        "Philippines",
-        "South Africa"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/assist-world/c5897bcd-d3b7-4f60-945a-82826f113038/apply",
-      "url": "https://trueinterview.io/jobs/eed6c80e-d028-4870-b1e1-9761a3a3a7bd",
-      "postedAt": "2026-09-02T18:17:45.000Z",
-      "updatedAt": "2026-09-02T18:17:45.000Z"
-    },
-    {
       "id": "7c3f488d-488b-423d-9a61-caf48428aac8",
       "company": "Ford Motor Company",
       "title": "Manufacturing Process Development Operations Engineer - New Product Programs",
@@ -31172,6 +32113,81 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/airbnb/jobs/machine-learning-engineer-relevance-and-personalization_us_f762vnou",
       "url": "https://trueinterview.io/jobs/e4ec458c-9511-4fe7-90e9-11d9155bd736",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "06e3befe-f132-44a8-a82a-79522d5c4430",
+      "company": "AMD",
+      "title": "Data Scientist - Pricing & Profitability",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91414?lang=en-us",
+      "url": "https://trueinterview.io/jobs/06e3befe-f132-44a8-a82a-79522d5c4430",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "e059e089-dac3-417a-b6eb-91d54fb2418d",
+      "company": "AMD",
+      "title": "Graphics & AI Processor Design Engineer",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91518?lang=en-us",
+      "url": "https://trueinterview.io/jobs/e059e089-dac3-417a-b6eb-91d54fb2418d",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "8902a52d-120d-4466-8ac6-8a7b90a66c66",
+      "company": "AMD",
+      "title": "Interconnect Performance Engineer",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91464?lang=en-us",
+      "url": "https://trueinterview.io/jobs/8902a52d-120d-4466-8ac6-8a7b90a66c66",
       "postedAt": "2026-09-02T00:00:00.000Z",
       "updatedAt": "2026-09-02T00:00:00.000Z"
     },
@@ -35111,6 +36127,83 @@
       "updatedAt": "2026-09-01T00:03:22.000Z"
     },
     {
+      "id": "61e55cf0-27bf-4b05-98b3-e2e400b214f8",
+      "company": "Amazon",
+      "title": "Applied Scientist, Amazon Cryptographic Libraries",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10522632/applied-scientist-amazon-cryptographic-libraries",
+      "url": "https://trueinterview.io/jobs/61e55cf0-27bf-4b05-98b3-e2e400b214f8",
+      "postedAt": "2026-08-31T00:00:00.000Z",
+      "updatedAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "058d83d1-42ab-48a8-a6f4-5b3e347b547d",
+      "company": "AMD",
+      "title": "AI Research Scientist, Reinforcement Learning (LLM) and Post-Training",
+      "locations": [
+        "US,CA,Santa Clara"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91613?lang=en-us",
+      "url": "https://trueinterview.io/jobs/058d83d1-42ab-48a8-a6f4-5b3e347b547d",
+      "postedAt": "2026-09-01T00:00:00.000Z",
+      "updatedAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "69d60072-26b0-4760-a002-24f9633da415",
+      "company": "AMD",
+      "title": "GPU Design Verification Engineer - Shader Core",
+      "locations": [
+        "US,CA,San Diego"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91880?lang=en-us",
+      "url": "https://trueinterview.io/jobs/69d60072-26b0-4760-a002-24f9633da415",
+      "postedAt": "2026-09-01T00:00:00.000Z",
+      "updatedAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
       "id": "2976b404-1020-4612-b0fe-6f0ad49466cb",
       "company": "CENSYS",
       "title": "Systems Engineer",
@@ -36766,6 +37859,106 @@
       "url": "https://trueinterview.io/jobs/da03e3c2-42d3-4c9c-ac45-0f76f77da5b0",
       "postedAt": "2026-08-31T16:05:39.000Z",
       "updatedAt": "2026-08-31T16:05:39.000Z"
+    },
+    {
+      "id": "8c6a7d2e-0830-4e79-a721-2b0b7a67ed71",
+      "company": "AMD",
+      "title": "CPU Core Architecture/RTL Engineer",
+      "locations": [
+        "US,NY,Fishkill"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91498?lang=en-us",
+      "url": "https://trueinterview.io/jobs/8c6a7d2e-0830-4e79-a721-2b0b7a67ed71",
+      "postedAt": "2026-08-31T00:00:00.000Z",
+      "updatedAt": "2026-08-31T00:00:00.000Z"
+    },
+    {
+      "id": "4bda3bec-9ce2-4943-a8ba-98da124ec7cf",
+      "company": "AMD",
+      "title": "CPU Verification Engineer",
+      "locations": [
+        "US,CO,Ft Collins"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91246?lang=en-us",
+      "url": "https://trueinterview.io/jobs/4bda3bec-9ce2-4943-a8ba-98da124ec7cf",
+      "postedAt": "2026-08-31T00:00:00.000Z",
+      "updatedAt": "2026-08-31T00:00:00.000Z"
+    },
+    {
+      "id": "aa839036-2bdf-4c02-a785-58d07a101f69",
+      "company": "AMD",
+      "title": "DFT ATPG Design and Test Engineer",
+      "locations": [
+        "US,CO,Ft Collins"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91297?lang=en-us",
+      "url": "https://trueinterview.io/jobs/aa839036-2bdf-4c02-a785-58d07a101f69",
+      "postedAt": "2026-08-31T00:00:00.000Z",
+      "updatedAt": "2026-08-31T00:00:00.000Z"
+    },
+    {
+      "id": "bd05b996-71c1-4695-ad43-62d795c781b3",
+      "company": "AMD",
+      "title": "Verification Infrastructure Engineer- Testbench Architecture",
+      "locations": [
+        "US,NY,Fishkill"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91502?lang=en-us",
+      "url": "https://trueinterview.io/jobs/bd05b996-71c1-4695-ad43-62d795c781b3",
+      "postedAt": "2026-08-31T00:00:00.000Z",
+      "updatedAt": "2026-08-31T00:00:00.000Z"
     },
     {
       "id": "f65ec092-0374-4926-b8ce-45e80927fbc9",
@@ -38565,6 +39758,31 @@
       "updatedAt": "2026-08-28T00:09:52.000Z"
     },
     {
+      "id": "63e3ca55-a7fe-4e3e-aae4-9979850137aa",
+      "company": "AMD",
+      "title": "GenAI Software Development Engineer",
+      "locations": [
+        "US,CA,Santa Clara"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91612?lang=en-us",
+      "url": "https://trueinterview.io/jobs/63e3ca55-a7fe-4e3e-aae4-9979850137aa",
+      "postedAt": "2026-08-28T00:00:00.000Z",
+      "updatedAt": "2026-08-28T00:00:00.000Z"
+    },
+    {
       "id": "c23d94ba-956b-4ece-bb99-aaa998f8999c",
       "company": "Hewlett Packard Enterprise",
       "title": "Data Science Graduate",
@@ -40023,6 +41241,56 @@
       "updatedAt": "2026-08-27T00:01:55.000Z"
     },
     {
+      "id": "a640fa83-817b-4cc4-9cf5-73e630110be1",
+      "company": "AMD",
+      "title": "P4 Compiler Engineer - DPU",
+      "locations": [
+        "US,CA,Santa Clara"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/87571?lang=en-us",
+      "url": "https://trueinterview.io/jobs/a640fa83-817b-4cc4-9cf5-73e630110be1",
+      "postedAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z"
+    },
+    {
+      "id": "3fde227a-9885-415f-89c2-fda6c349cdd8",
+      "company": "AMD",
+      "title": "Performance Software Development Engineer",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91184?lang=en-us",
+      "url": "https://trueinterview.io/jobs/3fde227a-9885-415f-89c2-fda6c349cdd8",
+      "postedAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z"
+    },
+    {
       "id": "c48c8cac-e59d-4379-866b-e37ef3a579cf",
       "company": "Keysight",
       "title": "R&D Software Engineer, Recent Graduate",
@@ -41375,6 +42643,56 @@
       "url": "https://trueinterview.io/jobs/9df142fa-4f2d-49a0-8982-8fc1391d7107",
       "postedAt": "2026-08-26T00:00:25.000Z",
       "updatedAt": "2026-08-26T00:00:25.000Z"
+    },
+    {
+      "id": "ab89c48f-2184-4f11-b248-3d5988a80965",
+      "company": "AMD",
+      "title": "Hardware Systems Design Engineer - Circuit Board",
+      "locations": [
+        "US,NJ,Secaucus_Meadowlands"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/87118?lang=en-us",
+      "url": "https://trueinterview.io/jobs/ab89c48f-2184-4f11-b248-3d5988a80965",
+      "postedAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "aa804997-7bfa-4598-9da3-5d9dd485d44d",
+      "company": "AMD",
+      "title": "Product Reliability Engineer – HTOL/Burn-In Development (MCC/C-Breez)",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91166?lang=en-us",
+      "url": "https://trueinterview.io/jobs/aa804997-7bfa-4598-9da3-5d9dd485d44d",
+      "postedAt": "2026-08-26T00:00:00.000Z",
+      "updatedAt": "2026-08-26T00:00:00.000Z"
     },
     {
       "id": "64441219-f339-4102-a8a2-1d76084a8cbf",
@@ -42820,6 +44138,31 @@
       "updatedAt": "2026-08-25T00:15:18.000Z"
     },
     {
+      "id": "c0e27bfa-ff06-42a6-b043-c3566d9bd7b7",
+      "company": "Amazon",
+      "title": "Mechanical Engineer, Satellite Hardware",
+      "locations": [
+        "Redmond, Washington, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10513157/mechanical-engineer-satellite-hardware",
+      "url": "https://trueinterview.io/jobs/c0e27bfa-ff06-42a6-b043-c3566d9bd7b7",
+      "postedAt": "2026-08-25T00:00:00.000Z",
+      "updatedAt": "2026-08-25T00:00:00.000Z"
+    },
+    {
       "id": "e181a0bd-a2a0-42b3-9e08-ece80af26cd7",
       "company": "Amazon",
       "title": "Software Development Engineer, Amazon Leo, Early Career - 2026",
@@ -44017,6 +45360,56 @@
       "url": "https://trueinterview.io/jobs/3ae8c86b-c5c0-4ac3-9a0e-af7059ecc7f3",
       "postedAt": "2026-08-24T00:04:11.000Z",
       "updatedAt": "2026-08-24T00:04:11.000Z"
+    },
+    {
+      "id": "9d0830ac-9e11-4c55-bbf7-567a6afdd158",
+      "company": "AMD",
+      "title": "Agentic AI / Data Engineer - DC GPU",
+      "locations": [
+        "US,IN,Home Office"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91076?lang=en-us",
+      "url": "https://trueinterview.io/jobs/9d0830ac-9e11-4c55-bbf7-567a6afdd158",
+      "postedAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z"
+    },
+    {
+      "id": "5cd0020c-e659-4335-94c9-e8209c5c1488",
+      "company": "AMD",
+      "title": "PCB Fabrication Process Engineer",
+      "locations": [
+        "US,CA,Home Office_Area2"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91014?lang=en-us",
+      "url": "https://trueinterview.io/jobs/5cd0020c-e659-4335-94c9-e8209c5c1488",
+      "postedAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z"
     },
     {
       "id": "d3d3cdfb-d15a-4b7e-9d7b-6df581194e9f",
@@ -45562,6 +46955,31 @@
       "updatedAt": "2026-08-21T01:11:25.000Z"
     },
     {
+      "id": "9351a548-25ef-416e-a660-5fa7987c69d2",
+      "company": "AMD",
+      "title": "RTL Design & Integration Engineer",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90583?lang=en-us",
+      "url": "https://trueinterview.io/jobs/9351a548-25ef-416e-a660-5fa7987c69d2",
+      "postedAt": "2026-08-21T00:00:00.000Z",
+      "updatedAt": "2026-08-21T00:00:00.000Z"
+    },
+    {
       "id": "14918b93-537f-4610-8d3b-a34bf1bdebfa",
       "company": "Gitlab",
       "title": "Intermediate Software Engineer, Security Factory: Vulnerability Management",
@@ -46918,6 +48336,106 @@
       "url": "https://trueinterview.io/jobs/ec014430-2db0-4126-b0f3-2676295c7192",
       "postedAt": "2026-08-20T16:09:01.000Z",
       "updatedAt": "2026-08-20T16:09:01.000Z"
+    },
+    {
+      "id": "958ac49e-5db1-4ffb-bd2f-e74fdca2faee",
+      "company": "AMD",
+      "title": "Power Management Systems Engineer",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90873?lang=en-us",
+      "url": "https://trueinterview.io/jobs/958ac49e-5db1-4ffb-bd2f-e74fdca2faee",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "463dec95-cd2b-495f-9b7e-05c0329f67b3",
+      "company": "AMD",
+      "title": "SLT Test Engineer",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/89356?lang=en-us",
+      "url": "https://trueinterview.io/jobs/463dec95-cd2b-495f-9b7e-05c0329f67b3",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "18220039-0b7d-4d51-95f8-25bf9d730eeb",
+      "company": "AMD",
+      "title": "Software Engineer - ML Compilation",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/89971?lang=en-us",
+      "url": "https://trueinterview.io/jobs/18220039-0b7d-4d51-95f8-25bf9d730eeb",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "2aebe92e-1538-4e05-ac8c-b308c7dc4c8d",
+      "company": "AMD",
+      "title": "Software Engineer, Devops Platform Engineering",
+      "locations": [
+        "US,CO,Longmont"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90795?lang=en-us",
+      "url": "https://trueinterview.io/jobs/2aebe92e-1538-4e05-ac8c-b308c7dc4c8d",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
     },
     {
       "id": "329aec31-26b1-46de-a4b8-2c7b9b3919b1",
@@ -49428,6 +50946,58 @@
       "updatedAt": "2026-08-18T00:06:11.000Z"
     },
     {
+      "id": "9fbbf9e9-4506-4109-aef1-95c7c5469cc7",
+      "company": "Amazon",
+      "title": "Brand Designer, Events & Experiential, AWS Advertising & Social Media",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10505544/brand-designer-events-experiential-aws-advertising-social-media",
+      "url": "https://trueinterview.io/jobs/9fbbf9e9-4506-4109-aef1-95c7c5469cc7",
+      "postedAt": "2026-08-18T00:00:00.000Z",
+      "updatedAt": "2026-08-18T00:00:00.000Z"
+    },
+    {
+      "id": "cf7efc3b-5079-4226-b8b1-24506ea5ef78",
+      "company": "AMD",
+      "title": "Packaging Substrate Development Engineer",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90725?lang=en-us",
+      "url": "https://trueinterview.io/jobs/cf7efc3b-5079-4226-b8b1-24506ea5ef78",
+      "postedAt": "2026-08-18T00:00:00.000Z",
+      "updatedAt": "2026-08-18T00:00:00.000Z"
+    },
+    {
       "id": "65ffec22-fd8d-42e2-a3f3-adf5a053f201",
       "company": "Hasbro",
       "title": "Systems Administrator",
@@ -50286,6 +51856,81 @@
       "url": "https://trueinterview.io/jobs/92db2bb7-e13b-4623-bd45-1fb60b01776a",
       "postedAt": "2026-08-17T16:01:13.000Z",
       "updatedAt": "2026-08-17T16:01:13.000Z"
+    },
+    {
+      "id": "f194bd92-733c-4c37-b35c-4bf40048ff8f",
+      "company": "AMD",
+      "title": "AI Systems Engineer - HPC",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/89700?lang=en-us",
+      "url": "https://trueinterview.io/jobs/f194bd92-733c-4c37-b35c-4bf40048ff8f",
+      "postedAt": "2026-08-17T00:00:00.000Z",
+      "updatedAt": "2026-08-17T00:00:00.000Z"
+    },
+    {
+      "id": "3020a6b5-724e-40d0-be42-42dc77549c35",
+      "company": "AMD",
+      "title": "Gen AI Software Development Engineer",
+      "locations": [
+        "US,CA,Santa Clara"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/87926?lang=en-us",
+      "url": "https://trueinterview.io/jobs/3020a6b5-724e-40d0-be42-42dc77549c35",
+      "postedAt": "2026-08-17T00:00:00.000Z",
+      "updatedAt": "2026-08-17T00:00:00.000Z"
+    },
+    {
+      "id": "b8cf52e8-86fc-4bff-943a-e6eb222413d8",
+      "company": "AMD",
+      "title": "Reliability Engineer",
+      "locations": [
+        "US,NJ,Secaucus_Meadowlands"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/89125?lang=en-us",
+      "url": "https://trueinterview.io/jobs/b8cf52e8-86fc-4bff-943a-e6eb222413d8",
+      "postedAt": "2026-08-17T00:00:00.000Z",
+      "updatedAt": "2026-08-17T00:00:00.000Z"
     },
     {
       "id": "90ff5191-a4c4-4b4e-8ff6-a5ce64dc255f",
@@ -51985,6 +53630,62 @@
       "url": "https://trueinterview.io/jobs/5c598313-b115-4946-8b7b-778798f8c865",
       "postedAt": "2026-08-14T16:07:24.000Z",
       "updatedAt": "2026-08-14T16:07:24.000Z"
+    },
+    {
+      "id": "9bacf2e3-f4de-4f83-9e58-8c5d114275b2",
+      "company": "Adobe",
+      "title": "iOS Developer",
+      "locations": [
+        "San Jose, California, United States of America",
+        "Seattle, Washington, United States of America",
+        "San Francisco, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA",
+        "Seattle, WA",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/iOS-Developer_R171231",
+      "url": "https://trueinterview.io/jobs/9bacf2e3-f4de-4f83-9e58-8c5d114275b2",
+      "postedAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z"
+    },
+    {
+      "id": "9c589398-1f3d-48ec-b917-eab97180c291",
+      "company": "AMD",
+      "title": "DFT Engineer",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/88522?lang=en-us",
+      "url": "https://trueinterview.io/jobs/9c589398-1f3d-48ec-b917-eab97180c291",
+      "postedAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z"
     },
     {
       "id": "ce235da8-6cbc-439d-845a-83ef3121932a",
@@ -56698,6 +58399,31 @@
       "updatedAt": "2026-08-11T16:00:42.000Z"
     },
     {
+      "id": "fdb3ee6c-32e2-4309-a2c7-6fbba9a5ef16",
+      "company": "AMD",
+      "title": "SOC Performance Engineer",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/89860?lang=en-us",
+      "url": "https://trueinterview.io/jobs/fdb3ee6c-32e2-4309-a2c7-6fbba9a5ef16",
+      "postedAt": "2026-08-11T00:00:00.000Z",
+      "updatedAt": "2026-08-11T00:00:00.000Z"
+    },
+    {
       "id": "e6a030a9-5f78-4b65-a0bc-415512b24f20",
       "company": "Silhouette",
       "title": "Marketing Graphic Designer",
@@ -57008,6 +58734,31 @@
       "url": "https://trueinterview.io/jobs/ba642483-4e63-4559-88d9-d3fc6a13a956",
       "postedAt": "2026-08-10T16:09:53.000Z",
       "updatedAt": "2026-08-10T16:09:53.000Z"
+    },
+    {
+      "id": "b3748064-60f6-42c8-af0f-c1a9f5a87c68",
+      "company": "AMD",
+      "title": "Mask Layout Designer",
+      "locations": [
+        "US,CO,Ft Collins"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/89566?lang=en-us",
+      "url": "https://trueinterview.io/jobs/b3748064-60f6-42c8-af0f-c1a9f5a87c68",
+      "postedAt": "2026-08-10T00:00:00.000Z",
+      "updatedAt": "2026-08-10T00:00:00.000Z"
     },
     {
       "id": "4f96e400-24e9-4087-9104-338f2e652726",
@@ -57646,6 +59397,31 @@
       "url": "https://trueinterview.io/jobs/865772e2-13cd-48c3-962f-fcdf66f65f6d",
       "postedAt": "2026-08-06T16:16:55.000Z",
       "updatedAt": "2026-08-07T16:05:17.000Z"
+    },
+    {
+      "id": "2c07cde8-7c1c-40d9-9422-a1d1b36c5ea0",
+      "company": "AMD",
+      "title": "Software Development Engineer - Rust, Compilers, and GPU Systems (2)",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/89874?lang=en-us",
+      "url": "https://trueinterview.io/jobs/2c07cde8-7c1c-40d9-9422-a1d1b36c5ea0",
+      "postedAt": "2026-08-07T00:00:00.000Z",
+      "updatedAt": "2026-08-07T00:00:00.000Z"
     },
     {
       "id": "5ea154b3-054c-4879-b279-fa4e82576616",
@@ -62904,6 +64680,360 @@
       "updatedAt": "2026-08-03T21:21:04.000Z"
     },
     {
+      "id": "0215cff6-25a7-4a4f-877f-19c28d7174c5",
+      "company": "Amazon",
+      "title": "Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs",
+      "locations": [
+        "Cupertino, California, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+      "url": "https://trueinterview.io/jobs/0215cff6-25a7-4a4f-877f-19c28d7174c5",
+      "postedAt": "2026-08-03T00:00:00.000Z",
+      "updatedAt": "2026-08-03T00:00:00.000Z"
+    },
+    {
+      "id": "d351de84-e872-4bbb-922d-260a6adcbe68",
+      "company": "AMD",
+      "title": "FPGA Product Planning Engineer",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/88714?lang=en-us",
+      "url": "https://trueinterview.io/jobs/d351de84-e872-4bbb-922d-260a6adcbe68",
+      "postedAt": "2026-08-03T00:00:00.000Z",
+      "updatedAt": "2026-08-03T00:00:00.000Z"
+    },
+    {
+      "id": "abc7a55b-a2c5-444d-a821-e07ae9cf6c0d",
+      "company": "AMD",
+      "title": "Packaging Design Engineer",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/89011?lang=en-us",
+      "url": "https://trueinterview.io/jobs/abc7a55b-a2c5-444d-a821-e07ae9cf6c0d",
+      "postedAt": "2026-08-03T00:00:00.000Z",
+      "updatedAt": "2026-08-03T00:00:00.000Z"
+    },
+    {
+      "id": "18931ebc-27a6-41f8-a24e-a1d7c03e9ee4",
+      "company": "AMD",
+      "title": "Failure Analysis and Reliability Engineer",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/87861?lang=en-us",
+      "url": "https://trueinterview.io/jobs/18931ebc-27a6-41f8-a24e-a1d7c03e9ee4",
+      "postedAt": "2026-08-01T00:00:00.000Z",
+      "updatedAt": "2026-08-01T00:00:00.000Z"
+    },
+    {
+      "id": "4809f06f-55ae-4ebe-9e8b-f273d0a94ef0",
+      "company": "AMD",
+      "title": "AI/ML Silicon Verification Solutions Engineer – Tools",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/88534?lang=en-us",
+      "url": "https://trueinterview.io/jobs/4809f06f-55ae-4ebe-9e8b-f273d0a94ef0",
+      "postedAt": "2026-07-31T00:00:00.000Z",
+      "updatedAt": "2026-07-31T00:00:00.000Z"
+    },
+    {
+      "id": "ab7b7919-18a0-4f5d-9b0e-216cba5a9e4a",
+      "company": "AMD",
+      "title": "Thermal Engineer",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/89057?lang=en-us",
+      "url": "https://trueinterview.io/jobs/ab7b7919-18a0-4f5d-9b0e-216cba5a9e4a",
+      "postedAt": "2026-07-31T00:00:00.000Z",
+      "updatedAt": "2026-07-31T00:00:00.000Z"
+    },
+    {
+      "id": "b1fc2bb5-d8ce-4e73-a7e6-a7651c4fbef8",
+      "company": "Adobe",
+      "title": "Full-Stack Engineer",
+      "locations": [
+        "San Jose, California, United States of America",
+        "San Francisco, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Full-Stack-Engineer_R170948",
+      "url": "https://trueinterview.io/jobs/b1fc2bb5-d8ce-4e73-a7e6-a7651c4fbef8",
+      "postedAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "b7885d5c-c40a-4790-83bb-a3b7ebb860f2",
+      "company": "AMD",
+      "title": "Applied AI Engineer, Top Hardware Priorities",
+      "locations": [
+        "US,CA,Santa Clara"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/87872?lang=en-us",
+      "url": "https://trueinterview.io/jobs/b7885d5c-c40a-4790-83bb-a3b7ebb860f2",
+      "postedAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "6f360fc9-9791-4998-82e7-92aeb8306fd2",
+      "company": "AMD",
+      "title": "Silicon Design Engineer",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/88666?lang=en-us",
+      "url": "https://trueinterview.io/jobs/6f360fc9-9791-4998-82e7-92aeb8306fd2",
+      "postedAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "2b0e15f3-1cdc-4a92-92f5-c0ead5a0e37a",
+      "company": "AMD",
+      "title": "Thermal Engineer-Data Center AI GPU Thermal Design",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/88520?lang=en-us",
+      "url": "https://trueinterview.io/jobs/2b0e15f3-1cdc-4a92-92f5-c0ead5a0e37a",
+      "postedAt": "2026-07-30T00:00:00.000Z",
+      "updatedAt": "2026-07-30T00:00:00.000Z"
+    },
+    {
+      "id": "08b4a9c0-4392-403c-b06d-9e88c28a468d",
+      "company": "AMD",
+      "title": "Failure Analysis Planner & On-site Engineer",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Site Reliability Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/88945?lang=en-us",
+      "url": "https://trueinterview.io/jobs/08b4a9c0-4392-403c-b06d-9e88c28a468d",
+      "postedAt": "2026-07-29T00:00:00.000Z",
+      "updatedAt": "2026-07-29T00:00:00.000Z"
+    },
+    {
+      "id": "b653fd7e-41c0-4055-9163-4b041f17dcbd",
+      "company": "AMD",
+      "title": "AI Engineer, Recursive Self-Improvement for Compute",
+      "locations": [
+        "US,CA,Santa Clara"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/87873?lang=en-us",
+      "url": "https://trueinterview.io/jobs/b653fd7e-41c0-4055-9163-4b041f17dcbd",
+      "postedAt": "2026-07-28T00:00:00.000Z",
+      "updatedAt": "2026-07-28T00:00:00.000Z"
+    },
+    {
+      "id": "5096af59-d399-45c0-827e-d7158b717b75",
+      "company": "AMD",
+      "title": "ML Systems Research Engineer, RL / Inference / Agent Systems",
+      "locations": [
+        "US,CA,Santa Clara"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/88874?lang=en-us",
+      "url": "https://trueinterview.io/jobs/5096af59-d399-45c0-827e-d7158b717b75",
+      "postedAt": "2026-07-28T00:00:00.000Z",
+      "updatedAt": "2026-07-28T00:00:00.000Z"
+    },
+    {
+      "id": "00a444d9-0d4d-4cda-8e08-b1a881576c19",
+      "company": "AMD",
+      "title": "SoC Design Verification Engineer",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/89123?lang=en-us",
+      "url": "https://trueinterview.io/jobs/00a444d9-0d4d-4cda-8e08-b1a881576c19",
+      "postedAt": "2026-07-28T00:00:00.000Z",
+      "updatedAt": "2026-07-28T00:00:00.000Z"
+    },
+    {
       "id": "9e96b19a-6c20-4de2-a46b-5835a053e610",
       "company": "Gdh",
       "title": "Ingeniero de Estimaciones y Costos",
@@ -62955,6 +65085,31 @@
       "url": "https://trueinterview.io/jobs/d1991c83-ae95-4026-9c0f-42e8bd897c75",
       "postedAt": "2026-07-27T16:00:25.000Z",
       "updatedAt": "2026-07-27T16:00:25.000Z"
+    },
+    {
+      "id": "11362165-5b5b-4359-8949-ccb5b9840bcd",
+      "company": "AMD",
+      "title": "Cluster Architecture Documentation & Standards Engineer",
+      "locations": [
+        "US,TX,Home Office"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/88672?lang=en-us",
+      "url": "https://trueinterview.io/jobs/11362165-5b5b-4359-8949-ccb5b9840bcd",
+      "postedAt": "2026-07-27T00:00:00.000Z",
+      "updatedAt": "2026-07-27T00:00:00.000Z"
     },
     {
       "id": "32cc2090-a747-46f9-af14-ff4c60368570",
@@ -63159,6 +65314,206 @@
       "url": "https://trueinterview.io/jobs/12a56e7a-879f-481e-bc0d-9c8c57f0ea52",
       "postedAt": "2026-07-26T17:30:08.000Z",
       "updatedAt": "2026-07-26T17:30:08.000Z"
+    },
+    {
+      "id": "6de20e5d-4b41-4438-9cbb-03d8816e2f6f",
+      "company": "AMD",
+      "title": "High Speed IO Analog Mixed Signal Design Engineer",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/88604?lang=en-us",
+      "url": "https://trueinterview.io/jobs/6de20e5d-4b41-4438-9cbb-03d8816e2f6f",
+      "postedAt": "2026-07-24T00:00:00.000Z",
+      "updatedAt": "2026-07-24T00:00:00.000Z"
+    },
+    {
+      "id": "c75093c7-531e-4575-87c6-06b60e417c23",
+      "company": "Amazon",
+      "title": "Hardware Development Engineer, AI/ML Server Development",
+      "locations": [
+        "Cupertino, California, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10482698/hardware-development-engineer-ai-ml-server-development",
+      "url": "https://trueinterview.io/jobs/c75093c7-531e-4575-87c6-06b60e417c23",
+      "postedAt": "2026-07-23T00:00:00.000Z",
+      "updatedAt": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "id": "19e30ae7-490e-4cc7-b237-8f86f5b67775",
+      "company": "AMD",
+      "title": "Platform / System Debug Validation Engineer",
+      "locations": [
+        "US,TX,Austin_Research Park"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Platform Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/88618?lang=en-us",
+      "url": "https://trueinterview.io/jobs/19e30ae7-490e-4cc7-b237-8f86f5b67775",
+      "postedAt": "2026-07-23T00:00:00.000Z",
+      "updatedAt": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "id": "43d14a53-bebf-42d8-afeb-0effed14b6db",
+      "company": "AMD",
+      "title": "SERDES Firmware Engineer",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/88608?lang=en-us",
+      "url": "https://trueinterview.io/jobs/43d14a53-bebf-42d8-afeb-0effed14b6db",
+      "postedAt": "2026-07-23T00:00:00.000Z",
+      "updatedAt": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "id": "08e0f21a-bc5c-4cfe-b96c-c906924cda76",
+      "company": "AMD",
+      "title": "Virtual Software Modeling Engineer",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/81017?lang=en-us",
+      "url": "https://trueinterview.io/jobs/08e0f21a-bc5c-4cfe-b96c-c906924cda76",
+      "postedAt": "2026-07-23T00:00:00.000Z",
+      "updatedAt": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "id": "17feed51-b0fe-4ae2-838d-025f88c43a67",
+      "company": "AMD",
+      "title": "Failure Analysis & System Validation Engineer",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/88609?lang=en-us",
+      "url": "https://trueinterview.io/jobs/17feed51-b0fe-4ae2-838d-025f88c43a67",
+      "postedAt": "2026-07-22T00:00:00.000Z",
+      "updatedAt": "2026-07-22T00:00:00.000Z"
+    },
+    {
+      "id": "70e0ee74-ea40-4b65-89e5-297484675c04",
+      "company": "AMD",
+      "title": "SoC Design Infrastructure Methodology Implementation Engineer",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/88738?lang=en-us",
+      "url": "https://trueinterview.io/jobs/70e0ee74-ea40-4b65-89e5-297484675c04",
+      "postedAt": "2026-07-21T00:00:00.000Z",
+      "updatedAt": "2026-07-21T00:00:00.000Z"
+    },
+    {
+      "id": "d0535fd7-6e54-40df-92b7-26df7ec7d6ff",
+      "company": "AMD",
+      "title": "AI/HPC Cluster Design Engineer",
+      "locations": [
+        "US,TX,Austin_Research Park"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/88670?lang=en-us",
+      "url": "https://trueinterview.io/jobs/d0535fd7-6e54-40df-92b7-26df7ec7d6ff",
+      "postedAt": "2026-07-20T00:00:00.000Z",
+      "updatedAt": "2026-07-20T00:00:00.000Z"
     }
   ]
 }
