@@ -12,13 +12,13 @@ from the list on the next run instead of wasting your afternoon.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-17 01:16 UTC_
+_Last updated: 2026-09-17 07:32 UTC_
 
-### Browse 950 new-grad roles by category
+### Browse 955 new-grad roles by category
 
-💻 **[Software Engineering](#-software-engineering)** (549)
+💻 **[Software Engineering](#-software-engineering)** (553)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (293)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (294)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (20)
 
@@ -62,10 +62,38 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">0d</td>
 </tr>
 <tr>
+<td><strong>Bjak</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b07977d-c7e3-490e-a853-75b2b9108797">Full Stack Software Engineer - AI Finance Agent</a> 🆕</td>
+<td>India</td>
+<td align="center"><a href="https://himalayas.app/companies/bjak/jobs/full-stack-software-engineer-ai-finance-agent-3508862890">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Chainstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/001b1c4d-8cdb-48a0-9360-03a17bca785f">Infrastructure Engineer (LATAM time zone)</a> 🆕</td>
+<td>Argentina, Brazil, Chile, Colombia, Mexico, Peru</td>
+<td align="center"><a href="https://himalayas.app/companies/chainstack/jobs/infrastructure-engineer-latam-time-zone-8649509760">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Financial Times</strong></td>
 <td><a href="https://trueinterview.io/jobs/04d2020d-5e29-455b-8f9f-c66939cb1b71">Application Security Engineer</a> 🆕</td>
 <td>Sofia, Bulgaria</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/the-financial-times/jobs/cyber-security-engineer_london_pg3knger">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>FIS Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/890e66bc-d70a-4a70-89c8-ae781a7fc371">Connex/ Base24 Developer ( Chennai/ Bangalore/Pune)</a> 🆕</td>
+<td>IND PUNE FL7</td>
+<td align="center"><a href="https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Connex--Base24-Developer---Chennai--Bangalore-Pune-_JR0309426">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2b6cb41-0cc4-4df3-b301-d2b700e8faea">IN_Senior Associate_ Java Backend Developer_GCC_Advisory_Hyderabad</a> 🆕</td>
+<td>Hyderabad - Salarpuria</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Python-GCC-Advisory-Bangalore_746234WD-1">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -3934,6 +3962,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/677facfd-f102-42da-871f-54e8a57c39b8">Graduate Data Engineer</a> 🆕</td>
 <td>London</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/liberis-ltd/jobs/graduate-data-engineer_london">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Mastercard</strong></td>
+<td><a href="https://trueinterview.io/jobs/ded9a0a2-cee1-4b5f-9ff4-b8ea06b93118">AP Data Scientist - Financial Crime</a> 🆕</td>
+<td>Singapore</td>
+<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/AP-Data-Scientist---Financial-Crime_R-291075">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
