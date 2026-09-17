@@ -6,9 +6,115 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-17T13:20:42.576Z",
-  "count": 3246,
+  "fetchedAt": "2026-09-17T18:07:34.596Z",
+  "count": 3273,
   "listings": [
+    {
+      "id": "b66556bf-9a98-40a3-af72-fd5f39dfd4c0",
+      "company": "SpaceX",
+      "title": "Additive Manufacturing Engineer (Raptor)",
+      "locations": [
+        "Hawthorne, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8816517002?gh_jid=8816517002",
+      "url": "https://trueinterview.io/jobs/b66556bf-9a98-40a3-af72-fd5f39dfd4c0",
+      "postedAt": "2026-09-17T17:18:48.000Z",
+      "updatedAt": "2026-09-17T17:18:48.000Z"
+    },
+    {
+      "id": "eab855db-700d-4757-9c50-22bc41ef583e",
+      "company": "Merlin Labs",
+      "title": "Data Loop Pipeline Engineer",
+      "locations": [
+        "Boston"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/merlinlabs/b00bfd34-80cf-481b-9ea9-c00938afd7dd/apply",
+      "url": "https://trueinterview.io/jobs/eab855db-700d-4757-9c50-22bc41ef583e",
+      "postedAt": "2026-09-17T16:21:45.000Z",
+      "updatedAt": "2026-09-17T16:21:45.000Z"
+    },
+    {
+      "id": "0419c208-0f0e-495c-96aa-4d01194af105",
+      "company": "Yuno",
+      "title": "Technical Support",
+      "locations": [
+        "Colombia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/yuno/d8ba76db-1c82-4254-9119-70c2d4d41b7d/apply",
+      "url": "https://trueinterview.io/jobs/0419c208-0f0e-495c-96aa-4d01194af105",
+      "postedAt": "2026-09-17T16:21:29.000Z",
+      "updatedAt": "2026-09-17T16:21:29.000Z"
+    },
+    {
+      "id": "c762f8d2-5897-4973-ab61-ec4e17652a19",
+      "company": "Google",
+      "title": "UX Designer, Search Ads 360",
+      "locations": [
+        "Mountain View, CA, USA",
+        "Seattle, WA, USA"
+      ],
+      "cities": [
+        "Mountain View, CA",
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/138032364998533830-ux-designer-search-ads-360",
+      "url": "https://trueinterview.io/jobs/c762f8d2-5897-4973-ab61-ec4e17652a19",
+      "postedAt": "2026-09-17T14:23:10.000Z",
+      "updatedAt": "2026-09-17T14:23:10.000Z"
+    },
     {
       "id": "78c44d55-9960-4d86-a50b-e5b6772e3d47",
       "company": "Synopsys",
@@ -448,6 +554,54 @@
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
     {
+      "id": "b7250d4a-601c-4a17-8bb5-06d35b06c7f2",
+      "company": "Desjardins",
+      "title": "Data Scientist, Model Validation",
+      "locations": [
+        "2 Locations"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/1-Complexe-Desjardins-Montral/Conseiller-principal-ou-conseillre-principale-en-actuariat--Validation-des-modles_R2608377-1",
+      "url": "https://trueinterview.io/jobs/b7250d4a-601c-4a17-8bb5-06d35b06c7f2",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "43492588-b8bd-4192-b123-4a87848ae206",
+      "company": "ElitevoraSys LLC",
+      "title": "Software Engineer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/elitevorasys-llc/jobs/software-engineer",
+      "url": "https://trueinterview.io/jobs/43492588-b8bd-4192-b123-4a87848ae206",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
       "id": "6ff0e680-f52f-49f9-9481-db15d2250edf",
       "company": "Enumerate",
       "title": "PHP & React Software Engineer",
@@ -469,6 +623,31 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/enumerate/jobs/php-react-software-engineer",
       "url": "https://trueinterview.io/jobs/6ff0e680-f52f-49f9-9481-db15d2250edf",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "d437cb84-ed00-4ab5-ac19-99d392fde196",
+      "company": "eXalt",
+      "title": "DevOps Engineer (H/F)",
+      "locations": [
+        "Bordeaux, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "DevOps Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/exalt/jobs/devops-engineer-h-f_bordeaux",
+      "url": "https://trueinterview.io/jobs/d437cb84-ed00-4ab5-ac19-99d392fde196",
       "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
@@ -596,6 +775,107 @@
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
     {
+      "id": "8ab9ea68-16e4-4d80-841b-f662ed9987c0",
+      "company": "Intel",
+      "title": "Hardware Engineer",
+      "locations": [
+        "US, California, Santa Clara"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Hardware-Engineer_JR0286976",
+      "url": "https://trueinterview.io/jobs/8ab9ea68-16e4-4d80-841b-f662ed9987c0",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "c47dc272-2b22-4d54-999a-a26df40ac4bd",
+      "company": "Intel",
+      "title": "Silicon Photonics Test Engineer",
+      "locations": [
+        "US, California, Santa Clara"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Silicon-Photonics-Test-Engineer_JR0286967",
+      "url": "https://trueinterview.io/jobs/c47dc272-2b22-4d54-999a-a26df40ac4bd",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "a8b02979-5ddd-4e10-950c-6ca7019fb119",
+      "company": "KLA",
+      "title": "Data Scientist - Palantir Developer",
+      "locations": [
+        "Milpitas, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Data-Scientist---Palantir-Developer_2641129",
+      "url": "https://trueinterview.io/jobs/a8b02979-5ddd-4e10-950c-6ca7019fb119",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "d8a5bc18-f01a-4557-a902-5ef3091115e4",
+      "company": "KLA",
+      "title": "Technical Support Engineer|Semiconductor Equipment",
+      "locations": [
+        "Phoenix, AZ",
+        "Chandler, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Technical-Support-Engineer-Semiconductor-Equipment_2640589",
+      "url": "https://trueinterview.io/jobs/d8a5bc18-f01a-4557-a902-5ef3091115e4",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
       "id": "677facfd-f102-42da-871f-54e8a57c39b8",
       "company": "Liberis",
       "title": "Graduate Data Engineer",
@@ -694,6 +974,56 @@
       "source": "trueinterview",
       "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/AP-Data-Scientist---Financial-Crime_R-291075",
       "url": "https://trueinterview.io/jobs/ded9a0a2-cee1-4b5f-9ff4-b8ea06b93118",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "47e53441-498e-4945-be57-eb784a4668e1",
+      "company": "Micron Technology",
+      "title": "DRAM Process Integration Engineer",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/39786384",
+      "url": "https://trueinterview.io/jobs/47e53441-498e-4945-be57-eb784a4668e1",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "b08fb63e-ad3d-4bda-981e-a53bd38cc598",
+      "company": "Micron Technology",
+      "title": "New College Grad - AI Infrastructure & HBM Architecture Engineer",
+      "locations": [
+        "Richardson, TX, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44531589",
+      "url": "https://trueinterview.io/jobs/b08fb63e-ad3d-4bda-981e-a53bd38cc598",
       "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
@@ -829,6 +1159,62 @@
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
     {
+      "id": "626adebf-23a9-4e3e-b3f7-f7e6ba645c47",
+      "company": "Numberly",
+      "title": "Stage - Software Engineer - Backend / Fullstack",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/numberly-1000mercis/jobs/stage-software-engineer-backend-fullstack_paris_NUMBE_zqy9VNN",
+      "url": "https://trueinterview.io/jobs/626adebf-23a9-4e3e-b3f7-f7e6ba645c47",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "c8747296-a8ad-4dab-bf9c-9a26c76c476b",
+      "company": "NVIDIA",
+      "title": "AI Compiler Engineer- New College Grad 2027",
+      "locations": [
+        "Santa Clara, CA, US",
+        "Seattle, WA, US",
+        "PA,US"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893397738658",
+      "url": "https://trueinterview.io/jobs/c8747296-a8ad-4dab-bf9c-9a26c76c476b",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
       "id": "c5b64780-779b-478e-8e2d-6f0d2d340c97",
       "company": "NVIDIA",
       "title": "Developer Technology Engineer, Energy",
@@ -848,6 +1234,31 @@
       "source": "trueinterview",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineer--Energy_JR2018521",
       "url": "https://trueinterview.io/jobs/c5b64780-779b-478e-8e2d-6f0d2d340c97",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "fe8c27ea-9320-4908-b1fd-64b2501cbb64",
+      "company": "NVIDIA",
+      "title": "Software QA Engineer- New College Grad 2026",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893397738668",
+      "url": "https://trueinterview.io/jobs/fe8c27ea-9320-4908-b1fd-64b2501cbb64",
       "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
@@ -1004,6 +1415,29 @@
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
     {
+      "id": "13d43e72-c5d9-4c05-8903-3db4796f659b",
+      "company": "Solution Meriatek Inc",
+      "title": "developer, software",
+      "locations": [
+        "Montréal (QC)"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.jobbank.gc.ca/jobsearch/jobposting/50306111",
+      "url": "https://trueinterview.io/jobs/13d43e72-c5d9-4c05-8903-3db4796f659b",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
       "id": "c013f1ef-15ca-4264-ac37-ca4e1b6e615f",
       "company": "Solventum",
       "title": "Application Security Engineer",
@@ -1048,6 +1482,206 @@
       "source": "trueinterview",
       "applyUrl": "https://weworkremotely.com/remote-jobs/twikey-java-developer",
       "url": "https://trueinterview.io/jobs/78a3d565-c66e-46d9-87bd-b6aebd8624a6",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "22b65450-9c5f-4283-a159-57daeb102565",
+      "company": "Wavestone",
+      "title": "Consultant.e Confirmé.e - Data Platform Engineer (H/F)",
+      "locations": [
+        "Puteaux, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Platform Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/wavestone/jobs/consultant-e-confirme-e-data-platform-engineer-h-f_puteaux",
+      "url": "https://trueinterview.io/jobs/22b65450-9c5f-4283-a159-57daeb102565",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "3c7c7ce1-be25-41fa-a430-9a4180ae742c",
+      "company": "Wavestone",
+      "title": "Consultant·e Agentic & GenAI Engineer – Jeune diplômé·e (H/F)",
+      "locations": [
+        "Puteaux, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/wavestone/jobs/consultant-e-agentic-genai-engineer-jeune-diplome-e-h-f_puteaux",
+      "url": "https://trueinterview.io/jobs/3c7c7ce1-be25-41fa-a430-9a4180ae742c",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "03daa029-6c14-47a8-ad61-7e5a97b67bdb",
+      "company": "Wavestone",
+      "title": "Consultant·e Data et AI Engineer – Jeune diplômé·e (H/F)",
+      "locations": [
+        "Puteaux, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/wavestone/jobs/consultant-e-data-et-ai-engineer-jeune-diplome-e-h-f_puteaux",
+      "url": "https://trueinterview.io/jobs/03daa029-6c14-47a8-ad61-7e5a97b67bdb",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "9bb1ba3f-f1b5-4ef5-b041-2842aeeff65d",
+      "company": "Wavestone",
+      "title": "Consultant·e Machine Learning & AI Engineer – Jeune diplômé·e (H/F)",
+      "locations": [
+        "Puteaux, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/wavestone/jobs/consultant-e-machine-learning-ai-engineer-jeune-diplome-e-h-f_puteaux",
+      "url": "https://trueinterview.io/jobs/9bb1ba3f-f1b5-4ef5-b041-2842aeeff65d",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "b89cc84e-8c64-4884-9616-4cc48e8c3edb",
+      "company": "Wavestone",
+      "title": "Stage de fin d'études - Consultant·e Agentic & GenAI Engineer (H/F)",
+      "locations": [
+        "Puteaux, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/wavestone/jobs/stage-de-fin-d-etudes-consultant-e-agentic-genai-engineer-h-f_puteaux",
+      "url": "https://trueinterview.io/jobs/b89cc84e-8c64-4884-9616-4cc48e8c3edb",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "96580256-99bc-401d-83c7-f5868f28eea7",
+      "company": "Wavestone",
+      "title": "Stage de fin d'études - Consultant·e Data et AI Engineer (H/F)",
+      "locations": [
+        "Puteaux, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/wavestone/jobs/stage-de-fin-d-etudes-consultant-e-data-et-ai-engineer-h-f_puteaux",
+      "url": "https://trueinterview.io/jobs/96580256-99bc-401d-83c7-f5868f28eea7",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "43355b02-2a7c-46b7-95e2-4078839f8d54",
+      "company": "Wavestone",
+      "title": "Stage de fin d'études - Consultant·e Machine Learning & AI Engineer (H/F)",
+      "locations": [
+        "Puteaux, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/wavestone/jobs/stage-de-fin-d-etudes-consultant-e-machine-learning-ai-engineer-h-f_puteaux",
+      "url": "https://trueinterview.io/jobs/43355b02-2a7c-46b7-95e2-4078839f8d54",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "34067f32-4fc1-4e8d-adb2-b40d1724521a",
+      "company": "YAKEEY",
+      "title": "QA Automation Engineer",
+      "locations": [
+        "Casablanca, Morocco"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/yakeey-mea/jobs/senior-qa-automation",
+      "url": "https://trueinterview.io/jobs/34067f32-4fc1-4e8d-adb2-b40d1724521a",
       "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
@@ -8234,29 +8868,6 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/sahar/jobs/software-engineer-blockchain_paris",
       "url": "https://trueinterview.io/jobs/d432be93-28d3-47c5-8f68-9c35ef6a5169",
-      "postedAt": "2026-09-16T00:00:00.000Z",
-      "updatedAt": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "id": "f9770161-8ccf-4877-8251-2391369cd29e",
-      "company": "Salesforce",
-      "title": "Software Engineer, DNS & Cloud Infrastructure",
-      "locations": [
-        "2 Locations"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "trueinterview",
-      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Software-Engineer--DNS---Cloud-Infrastructure_JR357256",
-      "url": "https://trueinterview.io/jobs/f9770161-8ccf-4877-8251-2391369cd29e",
       "postedAt": "2026-09-16T00:00:00.000Z",
       "updatedAt": "2026-09-16T00:00:00.000Z"
     },
@@ -19795,6 +20406,46 @@
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
     {
+      "id": "f2abf24f-358c-4ca6-adbe-713385ebf8b4",
+      "company": "Palo Alto Networks",
+      "title": "Transformation Success Engineer",
+      "locations": [
+        "New York City, United States of America",
+        "Washington DC, United States of America",
+        "Arlington, United States of America",
+        "Nashville, United States of America",
+        "Raleigh, United States of America",
+        "Boston, United States of America",
+        "Atlanta, United States of America",
+        "Miami, Florida",
+        "Dallas, Texas",
+        "Columbus, United States of America",
+        "Springfield, United States of America",
+        "Chicago, United States of America"
+      ],
+      "cities": [
+        "Boston, MA",
+        "Atlanta, GA",
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/New-York-City-United-States-of-America/Transformation-Success-Engineer_JR-019947",
+      "url": "https://trueinterview.io/jobs/f2abf24f-358c-4ca6-adbe-713385ebf8b4",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
       "id": "6a00fd4c-555e-45ec-ada5-c74f7f26a81f",
       "company": "Parsons Corporation",
       "title": "Forensic Software Developer",
@@ -22823,32 +23474,6 @@
       "url": "https://trueinterview.io/jobs/26732c1e-d5d7-47d9-bf1c-524ca15e6a58",
       "postedAt": "2026-09-10T16:21:41.000Z",
       "updatedAt": "2026-09-10T16:21:41.000Z"
-    },
-    {
-      "id": "b629433a-057c-44c4-92b2-ae1284013b6e",
-      "company": "Arista Networks",
-      "title": "Hardware NPI / Debug Engineer",
-      "locations": [
-        "Santa Clara, CA, United States",
-        "Santa Clara, California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.smartrecruiters.com/AristaNetworks/744000148585799-hardware-npi-debug-engineer?oga=true",
-      "url": "https://trueinterview.io/jobs/b629433a-057c-44c4-92b2-ae1284013b6e",
-      "postedAt": "2026-09-09T18:37:32.000Z",
-      "updatedAt": "2026-09-10T16:19:22.000Z"
     },
     {
       "id": "8da19596-47a7-492b-a592-75347381ba96",
@@ -58032,6 +58657,33 @@
       "updatedAt": "2026-08-25T00:15:18.000Z"
     },
     {
+      "id": "9abea28f-a9cf-4136-b650-852d917d0b5e",
+      "company": "Amazon",
+      "title": "Data Engineer I, Fire TV",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10513820/data-engineer-i-fire-tv",
+      "url": "https://trueinterview.io/jobs/9abea28f-a9cf-4136-b650-852d917d0b5e",
+      "postedAt": "2026-08-25T00:00:00.000Z",
+      "updatedAt": "2026-08-25T00:00:00.000Z"
+    },
+    {
       "id": "c0e27bfa-ff06-42a6-b043-c3566d9bd7b7",
       "company": "Amazon",
       "title": "Mechanical Engineer, Satellite Hardware",
@@ -58164,7 +58816,10 @@
       "title": "Cloud Developer",
       "locations": [
         "Houston, Texas",
-        "Durham, North Carolina, United States of America"
+        "Durham, North Carolina, United States of America",
+        "Spring, Texas, United States of America",
+        "Ft. Collins, Colorado, United States of America",
+        "Andover, Massachusetts, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -58282,6 +58937,37 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.nvidia.com/careers/job/893392886848",
       "url": "https://trueinterview.io/jobs/c2e5d822-db43-4d69-ae1a-6f34a4b3eef5",
+      "postedAt": "2026-08-25T00:00:00.000Z",
+      "updatedAt": "2026-08-25T00:00:00.000Z"
+    },
+    {
+      "id": "60f51eeb-1a9f-492a-bdb1-b172e0afc0ba",
+      "company": "Palo Alto Networks",
+      "title": "Solutions Engineer, Endpoint - Central",
+      "locations": [
+        "Chicago, United States of America",
+        "Oklahoma City, United States of America",
+        "Jefferson City, United States of America",
+        "Austin, United States of America"
+      ],
+      "cities": [
+        "Chicago, IL",
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Chicago-United-States-of-America/Solutions-Engineer--Endpoint---Central_JR-020640",
+      "url": "https://trueinterview.io/jobs/60f51eeb-1a9f-492a-bdb1-b172e0afc0ba",
       "postedAt": "2026-08-25T00:00:00.000Z",
       "updatedAt": "2026-08-25T00:00:00.000Z"
     },
@@ -59744,6 +60430,35 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/43351444",
       "url": "https://trueinterview.io/jobs/0cf47723-4e06-4b0a-af60-2000f529c7e8",
+      "postedAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z"
+    },
+    {
+      "id": "1b02abfb-eb5c-4ff0-9749-c48fe53bb44f",
+      "company": "Palo Alto Networks",
+      "title": "Solution Engineer IAM, IGA, SME,  - Central",
+      "locations": [
+        "Chicago, United States of America",
+        "Cleveland, United States of America",
+        "Columbus, United States of America"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Chicago-United-States-of-America/Solution-Engineer-IAM--IGA--SME-----Central_JR-021413",
+      "url": "https://trueinterview.io/jobs/1b02abfb-eb5c-4ff0-9749-c48fe53bb44f",
       "postedAt": "2026-08-24T00:00:00.000Z",
       "updatedAt": "2026-08-24T00:00:00.000Z"
     },
@@ -64689,31 +65404,6 @@
       "updatedAt": "2026-08-19T00:00:00.000Z"
     },
     {
-      "id": "27e9961b-b946-49b5-a94c-030d8fe41344",
-      "company": "NXP Semiconductors",
-      "title": "Package Thermal & Mechanical Simulation Engineer",
-      "locations": [
-        "Austin (Oakhill, Office)"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Package-Thermal---Mechanical-Simulation-Engineer_R-10064555",
-      "url": "https://trueinterview.io/jobs/27e9961b-b946-49b5-a94c-030d8fe41344",
-      "postedAt": "2026-08-19T00:00:00.000Z",
-      "updatedAt": "2026-08-19T00:00:00.000Z"
-    },
-    {
       "id": "1339dab5-ba34-4104-ab4a-151002236bd9",
       "company": "QUALCOMM",
       "title": "DDR Bench Characterization Engineer",
@@ -67686,6 +68376,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/296606",
       "url": "https://trueinterview.io/jobs/dae8f8a3-2b27-410c-a321-54ec97f00f36",
+      "postedAt": "2026-08-17T00:00:00.000Z",
+      "updatedAt": "2026-08-17T00:00:00.000Z"
+    },
+    {
+      "id": "93111598-1f28-4750-b36a-7ba4f8f91305",
+      "company": "Netflix",
+      "title": "Software Engineer (L5) - JavaScript Platform",
+      "locations": [
+        "USA - Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://explore.jobs.netflix.net/careers/job/790317859053",
+      "url": "https://trueinterview.io/jobs/93111598-1f28-4750-b36a-7ba4f8f91305",
       "postedAt": "2026-08-17T00:00:00.000Z",
       "updatedAt": "2026-08-17T00:00:00.000Z"
     },
@@ -75164,7 +75879,27 @@
         "Dallas, Texas, United States of America",
         "Denver, Colorado, United States of America",
         "Durham, North Carolina, United States of America",
-        "Hillsboro, Oregon, United States of America"
+        "Hillsboro, Oregon, United States of America",
+        "Seattle, Washington, US",
+        "Oklahoma City, Oklahoma, US",
+        "Nashville, Tennessee, US",
+        "Phoenix, Arizona, US",
+        "Philadelphia, Pennsylvania, US",
+        "Honolulu, Hawaii, US",
+        "Carlsbad, California, US",
+        "Austin, Texas, US",
+        "Maynard, Massachusetts, US",
+        "Arlington, Virginia, US",
+        "Ashburn, Virginia, US",
+        "Atlanta, Georgia, US",
+        "Tempe, Arizona, US",
+        "Hillsboro, Oregon, US",
+        "Cary, North Carolina, US",
+        "Stamford, Connecticut, US",
+        "McLean, Virginia, US",
+        "Tampa, Florida, US",
+        "Durham, North Carolina, US",
+        "Syracuse, New York, US"
       ],
       "cities": [
         "Seattle, WA",
