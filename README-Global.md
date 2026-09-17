@@ -12,13 +12,13 @@ from the list on the next run instead of wasting your afternoon.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-17 07:32 UTC_
+_Last updated: 2026-09-17 13:20 UTC_
 
 ### Browse 955 new-grad roles by category
 
-💻 **[Software Engineering](#-software-engineering)** (553)
+💻 **[Software Engineering](#-software-engineering)** (552)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (294)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (295)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (20)
 
@@ -76,6 +76,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">0d</td>
 </tr>
 <tr>
+<td><strong>Enumerate</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ff0e680-f52f-49f9-9481-db15d2250edf">PHP &amp; React Software Engineer</a> 🆕</td>
+<td>Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Guatemala, Hait</td>
+<td align="center"><a href="https://himalayas.app/companies/enumerate/jobs/php-react-software-engineer">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Financial Times</strong></td>
 <td><a href="https://trueinterview.io/jobs/04d2020d-5e29-455b-8f9f-c66939cb1b71">Application Security Engineer</a> 🆕</td>
 <td>Sofia, Bulgaria</td>
@@ -84,9 +91,23 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>FIS Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/890e66bc-d70a-4a70-89c8-ae781a7fc371">Connex/ Base24 Developer ( Chennai/ Bangalore/Pune)</a> 🆕</td>
-<td>IND PUNE FL7</td>
-<td align="center"><a href="https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Connex--Base24-Developer---Chennai--Bangalore-Pune-_JR0309426">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/6a3cbf8e-0f26-4b7d-a94c-f55a05add77c">C++ Software Engineer I</a> 🆕</td>
+<td>TUN ARIA 150</td>
+<td align="center"><a href="https://fis.wd5.myworkdayjobs.com/SearchJobs/job/TUN-ARIA-150/C---Software-Engineer-I_JR0309472">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Manulife</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fab814f-7929-4306-9080-c3ca365f7395">Backend Software Engineer</a> 🆕</td>
+<td>Chengdu, Sichuan</td>
+<td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Chengdu-Sichuan/Backend-Software-Engineer_JR26080605">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5b64780-779b-478e-8e2d-6f0d2d340c97">Developer Technology Engineer, Energy</a> 🆕</td>
+<td>6 Locations</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineer--Energy_JR2018521">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -94,6 +115,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e2b6cb41-0cc4-4df3-b301-d2b700e8faea">IN_Senior Associate_ Java Backend Developer_GCC_Advisory_Hyderabad</a> 🆕</td>
 <td>Hyderabad - Salarpuria</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Python-GCC-Advisory-Bangalore_746234WD-1">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Twikey</strong></td>
+<td><a href="https://trueinterview.io/jobs/78a3d565-c66e-46d9-87bd-b6aebd8624a6">Java Developer</a> 🆕</td>
+<td>Anywhere in the World</td>
+<td align="center"><a href="https://weworkremotely.com/remote-jobs/twikey-java-developer">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -171,20 +199,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7db30928-2abb-44d9-87d7-83bd5be9f6e9">Elixir Software Engineer</a> 🆕 🌐</td>
 <td>Remote — United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/driftrock/jobs/elixir-software-engineer_london_opuo5gvp">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td><strong>FIS Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/db205f90-a872-41cc-abe2-c00e2fd9c169">Dot Net Full Stack Developer</a> 🆕</td>
-<td>IND PUNE FL7</td>
-<td align="center"><a href="https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Dot-Net-Full-Stack-Developer_JR0308781">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a080057a-4e8d-4209-80d0-5b21c56f6e83">Java Developer (Java,Springboot,Hibernate)</a> 🆕</td>
-<td>IND BNGL FL2-3 TWR 3</td>
-<td align="center"><a href="https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-BNGL-FL2-3-TWR-3/Java-Developer--Java-Springboot-Hibernate-_JR0309354">Apply</a></td>
 <td align="center">1d</td>
 </tr>
 <tr>
@@ -286,20 +300,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">1d</td>
 </tr>
 <tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/9f319714-5877-48c0-9f24-08d687206902">Software Engineer-Golang/Java/Data Structures/Algorithms</a> 🆕</td>
-<td>Bangalore, India</td>
-<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Software-Engineer-Golang-Java-Data-Structures-Algorithms_R68250">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c568f418-44bd-4eab-98f9-b628d2db8727">Systems Engineer</a> 🆕</td>
-<td>United Kingdom Offsite</td>
-<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/Systems-Engineer_R68202">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
 <td><strong>Nickel</strong></td>
 <td><a href="https://trueinterview.io/jobs/6a85c7d1-cf3e-4575-b606-4c6ad5c704de">Software Engineer F/H</a> 🆕</td>
 <td>Charenton-le-Pont, France</td>
@@ -332,13 +332,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/27f1b2be-8bae-46b6-bdb3-478254bffb28">Cloud Engineer</a> 🆕</td>
 <td>3 Locations</td>
 <td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Cloud-Engineer_JR00127979">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0717d5e0-5581-4249-9478-d3fbdcc95a45">iOS Developer</a> 🆕</td>
-<td>3 Locations</td>
-<td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Montreal-Quebec/iOS-Developer_JR00127923">Apply</a></td>
 <td align="center">1d</td>
 </tr>
 <tr>
@@ -3965,6 +3958,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">0d</td>
 </tr>
 <tr>
+<td><strong>Liora</strong></td>
+<td><a href="https://trueinterview.io/jobs/75ccb17e-8fb8-4d83-a4ae-03cd0d3c1815">Machine Learning Engineer (H/F) / Stage</a> 🆕</td>
+<td>Courbevoie, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/datascientest/jobs/machine-learning-engineer-formateur-h-f-stage_puteaux">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Mastercard</strong></td>
 <td><a href="https://trueinterview.io/jobs/ded9a0a2-cee1-4b5f-9ff4-b8ea06b93118">AP Data Scientist - Financial Crime</a> 🆕</td>
 <td>Singapore</td>
@@ -3979,10 +3979,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">0d</td>
 </tr>
 <tr>
+<td><strong>MP DATA</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d809c5c-98a5-4e7e-85a3-5c92a57328e0">Data Scientist - F/H - Lille</a> 🆕</td>
+<td>Lille, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mp-data/jobs/data-scientist-f-h-lille_lille">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Nabla</strong></td>
 <td><a href="https://trueinterview.io/jobs/6fae4a53-3d27-42cc-9f71-c4a84f80b108">AI/ML Software Engineer</a> 🆕</td>
 <td>Paris</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/nabla/jobs/ai-ml-software-engineer_paris">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Nomadia</strong></td>
+<td><a href="https://trueinterview.io/jobs/08e8b223-7df2-4458-a855-cf3aaa82b03c">Data Engineer (F/H)</a> 🆕</td>
+<td>Paris</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/nomadia/jobs/data-engineer-f-h_paris_NOMAD_7Rma3Rg">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -4091,13 +4105,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">1d</td>
 </tr>
 <tr>
-<td><strong>Moderna</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b1f2893-0e82-4528-94bc-0f4192399d18">Power Platform &amp; AI Engineer</a> 🆕</td>
-<td>Warsaw Poland</td>
-<td align="center"><a href="https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Warsaw---Poland/Power-Platform---AI-Engineer_R19433">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
 <td><strong>PAYPLUG</strong></td>
 <td><a href="https://trueinterview.io/jobs/6fe9416d-0c10-4d04-b0c9-b354eaafb7e3">(Stage) Data AI Engineer</a> 🆕</td>
 <td>Paris</td>
@@ -4109,13 +4116,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2af27c2e-87c0-4a58-ac7a-ccb605b53200">IN_Senior Associate_Generative AI Engineer _Emerging Business_Advisory_Gurgaon</a> 🆕</td>
 <td>Gurugram Novus Tower</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-Novus-Tower/IN-Senior-Associate-Generative-AI-Engineer--Emerging-Business-Advisory-Bangalore_757840WD-2">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/64064445-5373-4685-b66b-25866e654544">Managed Services - AI Solution Developer</a> 🆕</td>
-<td>Kolkata (AC) - Bangalore - RMZ Hebbal</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-AC---Bangalore---RMZ-Hebbal/Managed-Services---AI-Solution-Developer_762478WD-2">Apply</a></td>
 <td align="center">1d</td>
 </tr>
 <tr>
