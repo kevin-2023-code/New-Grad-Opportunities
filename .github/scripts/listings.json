@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-18T20:48:16.067Z",
-  "count": 3375,
+  "fetchedAt": "2026-09-18T23:11:23.561Z",
+  "count": 3376,
   "listings": [
     {
       "id": "f031b695-50cf-4f32-b7c5-121a664b74cf",
@@ -1463,27 +1463,30 @@
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
     {
-      "id": "737bbc56-593c-472a-8220-a02eca720ea6",
+      "id": "f3d81524-7341-4154-9421-721346806508",
       "company": "Cisco",
-      "title": "Test Development Engineer (hybrid) - 2025757",
+      "title": "ASIC Design Verification Eng II Full Time - United States",
       "locations": [
-        "Carlsbad, California, US"
+        "San Jose, California, US",
+        "RTP, North Carolina, US"
       ],
-      "cities": [],
+      "cities": [
+        "San Jose, CA"
+      ],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "new-grad",
       "level": "newgrad",
       "kind": "newgrad",
       "sponsorship": null,
       "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Carlsbad-California-US/Test-Development-Engineer--hybrid----2025757_2025757",
-      "url": "https://trueinterview.io/jobs/737bbc56-593c-472a-8220-a02eca720ea6",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Verification-Eng-II-Full-Time---United-States_2024667",
+      "url": "https://trueinterview.io/jobs/f3d81524-7341-4154-9421-721346806508",
       "postedAt": "2026-09-18T00:00:00.000Z",
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
@@ -1694,6 +1697,61 @@
       "source": "bigtech-careers",
       "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/AI-and-Machine-Learning-Engineer-I-Graduate_1211881",
       "url": "https://trueinterview.io/jobs/26e103d5-4db8-4cda-b0a8-a071a7cf005f",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "f8fea37f-1e8b-46d8-9e77-ce06c6fa6803",
+      "company": "Intel",
+      "title": "Capacity and Capital Planning Engineer - Foundry",
+      "locations": [
+        "US, Arizona, Phoenix",
+        "US, Oregon, Hillsboro",
+        "US, New Mexico, Albuquerque",
+        "US, California, Folsom",
+        "US, California, Santa Clara",
+        "US, Texas, Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Capacity-and-Capital-Planning-Engineer---Foundry_JR0287204-1",
+      "url": "https://trueinterview.io/jobs/f8fea37f-1e8b-46d8-9e77-ce06c6fa6803",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "025f592d-598d-4a4d-9dcd-b9b9fbecd046",
+      "company": "Intesa Sanpaolo",
+      "title": "Apple Systems Engineer",
+      "locations": [
+        "Milano, Italy"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://4dayweek.io/job/apple-systems-engineer-at-intesa-sanpaolo-1c42b2b3",
+      "url": "https://trueinterview.io/jobs/025f592d-598d-4a4d-9dcd-b9b9fbecd046",
       "postedAt": "2026-09-18T00:00:00.000Z",
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
@@ -1956,6 +2014,31 @@
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
     {
+      "id": "21746d00-ad45-4be2-91db-c4bbf23c36c3",
+      "company": "Peraton",
+      "title": "Databricks Data Engineer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/peraton/jobs/databricks-data-engineer-9503577265",
+      "url": "https://trueinterview.io/jobs/21746d00-ad45-4be2-91db-c4bbf23c36c3",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
       "id": "84bd9c78-3fc6-44e9-962a-4d3b85981bb4",
       "company": "PwC",
       "title": "Data Engineer / FCU Technology Team",
@@ -2120,6 +2203,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.qualcomm.com/careers/job/446721009721",
       "url": "https://trueinterview.io/jobs/a4b8c929-9036-41f1-87f9-601c570205e4",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "32a486ab-b6ea-4909-8172-ad1fbb3a69bb",
+      "company": "QUALCOMM",
+      "title": "CPU Physical Design Engineer, San Diego",
+      "locations": [
+        "San Diego, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446721160980",
+      "url": "https://trueinterview.io/jobs/32a486ab-b6ea-4909-8172-ad1fbb3a69bb",
       "postedAt": "2026-09-18T00:00:00.000Z",
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
@@ -11459,32 +11567,6 @@
       "updatedAt": "2026-09-16T00:00:00.000Z"
     },
     {
-      "id": "30896a39-4c10-43a1-a729-18b68bcd77e6",
-      "company": "Intel",
-      "title": "Post-silicon Validation and Debug Engineer",
-      "locations": [
-        "US, Oregon, Hillsboro",
-        "US, California, Folsom"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Post-silicon-Validation-and-Debug-Engineer_JR0284687",
-      "url": "https://trueinterview.io/jobs/30896a39-4c10-43a1-a729-18b68bcd77e6",
-      "postedAt": "2026-09-16T00:00:00.000Z",
-      "updatedAt": "2026-09-16T00:00:00.000Z"
-    },
-    {
       "id": "bc7263e4-e329-4979-b004-ed37ebd6fa49",
       "company": "Interrahealth",
       "title": "AI Security Engineer",
@@ -19441,36 +19523,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Houston-Texas-US/Leader--Solutions-Engineer--Splunk_2021684-1",
       "url": "https://trueinterview.io/jobs/f4c9ca35-e361-461f-a9a3-42bad9b84e43",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "updatedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
-      "id": "e21902d7-d37c-498e-b0be-be41459a7f9c",
-      "company": "Splunk",
-      "title": "Solutions Engineer, Splunk",
-      "locations": [
-        "Dallas, Texas, United States of America",
-        "Austin, Texas, United States of America",
-        "Dallas, Texas, US",
-        "Austin, Texas, US"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Dallas-Texas-US/Solutions-Engineer_2021997-1",
-      "url": "https://trueinterview.io/jobs/e21902d7-d37c-498e-b0be-be41459a7f9c",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
@@ -87853,31 +87905,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/88618?lang=en-us",
       "url": "https://trueinterview.io/jobs/19e30ae7-490e-4cc7-b237-8f86f5b67775",
-      "postedAt": "2026-07-23T00:00:00.000Z",
-      "updatedAt": "2026-07-23T00:00:00.000Z"
-    },
-    {
-      "id": "43d14a53-bebf-42d8-afeb-0effed14b6db",
-      "company": "AMD",
-      "title": "SERDES Firmware Engineer",
-      "locations": [
-        "US,CA,San Jose"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.amd.com/careers-home/jobs/88608?lang=en-us",
-      "url": "https://trueinterview.io/jobs/43d14a53-bebf-42d8-afeb-0effed14b6db",
       "postedAt": "2026-07-23T00:00:00.000Z",
       "updatedAt": "2026-07-23T00:00:00.000Z"
     },
