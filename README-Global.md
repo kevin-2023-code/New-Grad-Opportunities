@@ -12,13 +12,13 @@ from the list on the next run instead of wasting your afternoon.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-18 07:20 UTC_
+_Last updated: 2026-09-18 12:54 UTC_
 
-### Browse 993 new-grad roles by category
+### Browse 1,005 new-grad roles by category
 
-💻 **[Software Engineering](#-software-engineering)** (575)
+💻 **[Software Engineering](#-software-engineering)** (580)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (307)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (314)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (20)
 
@@ -55,6 +55,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">0d</td>
 </tr>
 <tr>
+<td><strong>Adobe</strong></td>
+<td><a href="https://trueinterview.io/jobs/1fe12a8b-c94a-4e2f-aa03-80dbf7dd4347">Data Platform Engineer</a> 🆕</td>
+<td>Bucharest</td>
+<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/59d53c58-fbb3-4b15-90d8-1f0efbbfec0b">Photoshop Developer, GPU/Imaging</a> 🆕</td>
+<td>4 Locations</td>
+<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Photoshop-Developer--GPU-Imaging_R171014">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Bjak</strong></td>
 <td><a href="https://trueinterview.io/jobs/c0bd73dd-cc55-476a-bc14-4be818170f9c">Backend Developer</a> 🆕</td>
 <td>Germany</td>
@@ -66,6 +80,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/655cc256-ecf7-414a-85cb-f146724fe9a6">Backend Software Engineer - AI Finance Agent</a> 🆕</td>
 <td>Hong Kong</td>
 <td align="center"><a href="https://himalayas.app/companies/bjak/jobs/backend-software-engineer-ai-finance-agent-6269102145">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f2a7710-cea8-459b-9839-22f462b0b215">Software Engineer Java/Angular - Agentic IA</a> 🆕</td>
+<td>Issy-les-Moulineaux, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/capgemini/jobs/software-engineer-java-angular-agentic-ia_issy-les-moulineaux_CAPGE_KReQXQJ">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -97,10 +118,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">0d</td>
 </tr>
 <tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/c35370e4-8510-4000-bc35-7a082b3fa69c">IN_Senior Associate_.NET Full Stack Developer_MS Engg_Advisory_Gurgaon</a> 🆕</td>
+<td>Gurugram Downtown 4</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-Downtown-4/IN-Senior-Associate-Automation-QA-Digital-Integration-Advisory-Kolkata_751870WD">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Scalable Capital</strong></td>
 <td><a href="https://trueinterview.io/jobs/2128eb58-4dd4-4f4c-b3a6-52cf82712fd0">AI Platform Engineer</a> 🆕</td>
 <td>Berlin</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/scalable-capital/jobs/ai-platform-engineer_berlin_pi2fsxli">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Theodo</strong></td>
+<td><a href="https://trueinterview.io/jobs/e01b2693-04f2-4c7f-bbd7-71a4f15b4121">Software Engineer Fullstack - Stage de fin d'études Paris - Theodo</a> 🆕</td>
+<td>Paris</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/software-engineer-fullstack-stage-paris-theodo_paris">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -4098,10 +4133,59 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Adobe</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd86f9bf-f073-474e-bd7e-fa71873f4edc">Data Scientist</a> 🆕</td>
+<td>2 Locations</td>
+<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Data-Scientist_R171177-1">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/54415fd9-e496-4308-ae06-9c575be547c5">Machine Learning Engineer - 5</a> 🆕</td>
+<td>Bangalore</td>
+<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer---5_R168703-1">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Bjak</strong></td>
 <td><a href="https://trueinterview.io/jobs/7fb9b617-5ee3-4ce4-acb0-dbaf9a56d546">Applied AI Engineer - AI Finance Agent</a> 🆕</td>
 <td>Taiwan</td>
 <td align="center"><a href="https://himalayas.app/companies/bjak/jobs/applied-ai-engineer-ai-finance-agent-8352750971">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/84bd9c78-3fc6-44e9-962a-4d3b85981bb4">Data Engineer / FCU Technology Team</a> 🆕</td>
+<td>8 Locations</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Senior-Data-Engineer---FCU-Technology-Team_715408WD">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/97a7d6b9-870e-4e73-beac-cad70ef50c5c">Data Scientist</a> 🆕</td>
+<td>2 Locations</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Data-Scientist_753895WD">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5f36610f-480d-427b-ba9a-c8042cb01720">IN_Associate_AI Engineer_GCC_Advisory_Bangalore</a> 🆕</td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate---AWS-Data-Engineer---Data-and-Analytics---Advisory---Bangalore_751159WD-1">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>QUALCOMM</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4b8c929-9036-41f1-87f9-601c570205e4">AI Research Engineer</a> 🆕</td>
+<td>Hanoi, Hanoi, VN<br/>Ho Chi Minh City, Ho Chi Minh City, VN</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446721009721">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>SMG swiss marketplace group (ex Ricardo)</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2b5235e-58d6-4360-8063-91214e26aec5">Data Engineer / Hybrid work</a> 🆕</td>
+<td>Valbonne, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/ricardo-france/jobs/data-engineer-hybrid-work_valbonne">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>

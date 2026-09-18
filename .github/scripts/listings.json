@@ -6,9 +6,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-18T07:20:15.441Z",
-  "count": 3319,
+  "fetchedAt": "2026-09-18T12:54:57.178Z",
+  "count": 3329,
   "listings": [
+    {
+      "id": "26dae050-15b6-47f0-940c-bd0089999ec1",
+      "company": "Arm Holdings",
+      "title": "Applications Engineer",
+      "locations": [
+        "Austin"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.arm.com/job/austin/applications-engineer/33099/97112476448",
+      "url": "https://trueinterview.io/jobs/26dae050-15b6-47f0-940c-bd0089999ec1",
+      "postedAt": "2026-09-18T12:03:11.000Z",
+      "updatedAt": "2026-09-18T12:03:11.000Z"
+    },
     {
       "id": "b5c2ce19-f8f6-4b91-99c9-e78dc4071079",
       "company": "360Learning",
@@ -33,6 +60,152 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/360learning/jobs/software-engineer_paris_360LE_Kgg252N",
       "url": "https://trueinterview.io/jobs/b5c2ce19-f8f6-4b91-99c9-e78dc4071079",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "4d950b8d-5213-4d37-add1-f9a7576fe8d1",
+      "company": "Adobe",
+      "title": "Campaign Experience Developer",
+      "locations": [
+        "San Jose"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Experience-Developer_R168312",
+      "url": "https://trueinterview.io/jobs/4d950b8d-5213-4d37-add1-f9a7576fe8d1",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "1fe12a8b-c94a-4e2f-aa03-80dbf7dd4347",
+      "company": "Adobe",
+      "title": "Data Platform Engineer",
+      "locations": [
+        "Bucharest"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Platform Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536",
+      "url": "https://trueinterview.io/jobs/1fe12a8b-c94a-4e2f-aa03-80dbf7dd4347",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "cd86f9bf-f073-474e-bd7e-fa71873f4edc",
+      "company": "Adobe",
+      "title": "Data Scientist",
+      "locations": [
+        "2 Locations"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Data-Scientist_R171177-1",
+      "url": "https://trueinterview.io/jobs/cd86f9bf-f073-474e-bd7e-fa71873f4edc",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "54415fd9-e496-4308-ae06-9c575be547c5",
+      "company": "Adobe",
+      "title": "Machine Learning Engineer - 5",
+      "locations": [
+        "Bangalore"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Machine-Learning-Engineer---5_R168703-1",
+      "url": "https://trueinterview.io/jobs/54415fd9-e496-4308-ae06-9c575be547c5",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "59d53c58-fbb3-4b15-90d8-1f0efbbfec0b",
+      "company": "Adobe",
+      "title": "Photoshop Developer, GPU/Imaging",
+      "locations": [
+        "4 Locations"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Photoshop-Developer--GPU-Imaging_R171014",
+      "url": "https://trueinterview.io/jobs/59d53c58-fbb3-4b15-90d8-1f0efbbfec0b",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "7ecbd12b-d891-4001-81d9-bf18e9adbfac",
+      "company": "Adobe",
+      "title": "Quality Engineering Developer - Mobile",
+      "locations": [
+        "San Jose"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Quality-Engineering-Developer---Mobile_R171332",
+      "url": "https://trueinterview.io/jobs/7ecbd12b-d891-4001-81d9-bf18e9adbfac",
       "postedAt": "2026-09-18T00:00:00.000Z",
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
@@ -108,6 +281,31 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/bjak/jobs/backend-software-engineer-ai-finance-agent-6269102145",
       "url": "https://trueinterview.io/jobs/655cc256-ecf7-414a-85cb-f146724fe9a6",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "0f2a7710-cea8-459b-9839-22f462b0b215",
+      "company": "Capgemini",
+      "title": "Software Engineer Java/Angular - Agentic IA",
+      "locations": [
+        "Issy-les-Moulineaux, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/capgemini/jobs/software-engineer-java-angular-agentic-ia_issy-les-moulineaux_CAPGE_KReQXQJ",
+      "url": "https://trueinterview.io/jobs/0f2a7710-cea8-459b-9839-22f462b0b215",
       "postedAt": "2026-09-18T00:00:00.000Z",
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
@@ -297,6 +495,126 @@
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
     {
+      "id": "84bd9c78-3fc6-44e9-962a-4d3b85981bb4",
+      "company": "PwC",
+      "title": "Data Engineer / FCU Technology Team",
+      "locations": [
+        "8 Locations"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Senior-Data-Engineer---FCU-Technology-Team_715408WD",
+      "url": "https://trueinterview.io/jobs/84bd9c78-3fc6-44e9-962a-4d3b85981bb4",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "97a7d6b9-870e-4e73-beac-cad70ef50c5c",
+      "company": "PwC",
+      "title": "Data Scientist",
+      "locations": [
+        "2 Locations"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Data-Scientist_753895WD",
+      "url": "https://trueinterview.io/jobs/97a7d6b9-870e-4e73-beac-cad70ef50c5c",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "5f36610f-480d-427b-ba9a-c8042cb01720",
+      "company": "PwC",
+      "title": "IN_Associate_AI Engineer_GCC_Advisory_Bangalore",
+      "locations": [
+        "Bengaluru Millenia"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate---AWS-Data-Engineer---Data-and-Analytics---Advisory---Bangalore_751159WD-1",
+      "url": "https://trueinterview.io/jobs/5f36610f-480d-427b-ba9a-c8042cb01720",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "c35370e4-8510-4000-bc35-7a082b3fa69c",
+      "company": "PwC",
+      "title": "IN_Senior Associate_.NET Full Stack Developer_MS Engg_Advisory_Gurgaon",
+      "locations": [
+        "Gurugram Downtown 4"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-Downtown-4/IN-Senior-Associate-Automation-QA-Digital-Integration-Advisory-Kolkata_751870WD",
+      "url": "https://trueinterview.io/jobs/c35370e4-8510-4000-bc35-7a082b3fa69c",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "a4b8c929-9036-41f1-87f9-601c570205e4",
+      "company": "QUALCOMM",
+      "title": "AI Research Engineer",
+      "locations": [
+        "Hanoi, Hanoi, VN",
+        "Ho Chi Minh City, Ho Chi Minh City, VN"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446721009721",
+      "url": "https://trueinterview.io/jobs/a4b8c929-9036-41f1-87f9-601c570205e4",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
       "id": "85f6c32c-9ba2-40fb-ba74-b45df340bd8e",
       "company": "Reliable Robotics Corporation",
       "title": "Embedded Software Engineer",
@@ -399,6 +717,83 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/scalable-capital/jobs/ai-platform-engineer_berlin_pi2fsxli",
       "url": "https://trueinterview.io/jobs/2128eb58-4dd4-4f4c-b3a6-52cf82712fd0",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "d2b5235e-58d6-4360-8063-91214e26aec5",
+      "company": "SMG swiss marketplace group (ex Ricardo)",
+      "title": "Data Engineer / Hybrid work",
+      "locations": [
+        "Valbonne, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/ricardo-france/jobs/data-engineer-hybrid-work_valbonne",
+      "url": "https://trueinterview.io/jobs/d2b5235e-58d6-4360-8063-91214e26aec5",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "e01b2693-04f2-4c7f-bbd7-71a4f15b4121",
+      "company": "Theodo",
+      "title": "Software Engineer Fullstack - Stage de fin d'études Paris - Theodo",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/theodo/jobs/software-engineer-fullstack-stage-paris-theodo_paris",
+      "url": "https://trueinterview.io/jobs/e01b2693-04f2-4c7f-bbd7-71a4f15b4121",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "276232d4-d20f-4c14-bbdd-8906255b1e1c",
+      "company": "US Acute Care Solutions",
+      "title": "Systems Engineer I",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/us-acute-care-solutions/jobs/systems-engineer-i",
+      "url": "https://trueinterview.io/jobs/276232d4-d20f-4c14-bbdd-8906255b1e1c",
       "postedAt": "2026-09-18T00:00:00.000Z",
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
@@ -6961,31 +7356,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Chicago-Illinois-US/Solutions-Engineer----Commercial--Chicago_2023835",
       "url": "https://trueinterview.io/jobs/24545034-332d-496b-b3cc-3712532b3666",
-      "postedAt": "2026-09-16T22:03:11.000Z",
-      "updatedAt": "2026-09-16T22:03:11.000Z"
-    },
-    {
-      "id": "6d6af763-59f2-4480-af3e-97514dea456b",
-      "company": "Cisco",
-      "title": "Solutions Engineer-US Commercial, Los Angeles",
-      "locations": [
-        "Glendale, California, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Glendale-California-US/Solutions-Engineer-US-Commercial--Los-Angeles_2023319",
-      "url": "https://trueinterview.io/jobs/6d6af763-59f2-4480-af3e-97514dea456b",
       "postedAt": "2026-09-16T22:03:11.000Z",
       "updatedAt": "2026-09-16T22:03:11.000Z"
     },
@@ -14707,36 +15077,6 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/spire-global/jobs/software-engineer_singapour_emgwiq2c",
       "url": "https://trueinterview.io/jobs/528490d0-fd9f-4bcf-8da6-0a82eeb104a3",
-      "postedAt": "2026-09-15T00:00:00.000Z",
-      "updatedAt": "2026-09-15T00:00:00.000Z"
-    },
-    {
-      "id": "3e25819a-40e0-4f55-8eda-4b2361b719ce",
-      "company": "Splunk",
-      "title": "Job Requisition 2021591 Technical Leader - CX Engineering Productivity",
-      "locations": [
-        "San Jose, California, United States of America",
-        "Research Triangle Park, North Carolina, United States of America",
-        "San Jose, California, US",
-        "RTP, North Carolina, US"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Job-Requisition-2021591-Technical-Leader---CX-Engineering-Productivity_2024739",
-      "url": "https://trueinterview.io/jobs/3e25819a-40e0-4f55-8eda-4b2361b719ce",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -33363,31 +33703,6 @@
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
     {
-      "id": "7fca0d9f-d657-4018-979a-281670941691",
-      "company": "QUALCOMM",
-      "title": "Physical Design Engineer - Hod Hasharon",
-      "locations": [
-        "Haifa, Haifa District, IL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720235052",
-      "url": "https://trueinterview.io/jobs/7fca0d9f-d657-4018-979a-281670941691",
-      "postedAt": "2026-09-08T00:00:00.000Z",
-      "updatedAt": "2026-09-08T00:00:00.000Z"
-    },
-    {
       "id": "e5801347-b133-44a7-b319-8f8b806c89ef",
       "company": "Reveleer",
       "title": "Full Stack AI Engineer",
@@ -46186,35 +46501,6 @@
       "source": "trueinterview",
       "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer--Full-Stack_2019274",
       "url": "https://trueinterview.io/jobs/b129791d-ca1c-4c14-934d-a765fcdff68b",
-      "postedAt": "2026-09-02T00:00:00.000Z",
-      "updatedAt": "2026-09-02T00:00:00.000Z"
-    },
-    {
-      "id": "306ab11b-dcdd-40bf-b28a-be0aaf8c5a05",
-      "company": "Cisco",
-      "title": "Solutions Engineer, NeoCloud",
-      "locations": [
-        "San Jose, California, US",
-        "San Francisco, California, US"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Solutions-Engineer_2014816",
-      "url": "https://trueinterview.io/jobs/306ab11b-dcdd-40bf-b28a-be0aaf8c5a05",
       "postedAt": "2026-09-02T00:00:00.000Z",
       "updatedAt": "2026-09-02T00:00:00.000Z"
     },
@@ -71837,37 +72123,6 @@
       "updatedAt": "2026-08-14T00:33:27.000Z"
     },
     {
-      "id": "9bacf2e3-f4de-4f83-9e58-8c5d114275b2",
-      "company": "Adobe",
-      "title": "iOS Developer",
-      "locations": [
-        "San Jose, California, United States of America",
-        "Seattle, Washington, United States of America",
-        "San Francisco, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "Seattle, WA",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Mobile Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/iOS-Developer_R171231",
-      "url": "https://trueinterview.io/jobs/9bacf2e3-f4de-4f83-9e58-8c5d114275b2",
-      "postedAt": "2026-08-14T00:00:00.000Z",
-      "updatedAt": "2026-08-14T00:00:00.000Z"
-    },
-    {
       "id": "9c589398-1f3d-48ec-b917-eab97180c291",
       "company": "AMD",
       "title": "DFT Engineer",
@@ -84917,35 +85172,6 @@
       "url": "https://trueinterview.io/jobs/9bb268e0-96a1-4dd5-9463-5ceb77bf2fe0",
       "postedAt": "2026-07-30T14:07:49.000Z",
       "updatedAt": "2026-07-30T14:07:49.000Z"
-    },
-    {
-      "id": "b1fc2bb5-d8ce-4e73-a7e6-a7651c4fbef8",
-      "company": "Adobe",
-      "title": "Full-Stack Engineer",
-      "locations": [
-        "San Jose, California, United States of America",
-        "San Francisco, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Full-Stack-Engineer_R170948",
-      "url": "https://trueinterview.io/jobs/b1fc2bb5-d8ce-4e73-a7e6-a7651c4fbef8",
-      "postedAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z"
     },
     {
       "id": "b7885d5c-c40a-4790-83bb-a3b7ebb860f2",
