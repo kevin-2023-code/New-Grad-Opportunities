@@ -12,13 +12,13 @@ from the list on the next run instead of wasting your afternoon.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-18 01:13 UTC_
+_Last updated: 2026-09-18 07:20 UTC_
 
-### Browse 989 new-grad roles by category
+### Browse 993 new-grad roles by category
 
-💻 **[Software Engineering](#-software-engineering)** (572)
+💻 **[Software Engineering](#-software-engineering)** (575)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (306)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (307)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (20)
 
@@ -47,6 +47,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>360Learning</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5c2ce19-f8f6-4b91-99c9-e78dc4071079">Software Engineer</a> 🆕 🌐</td>
+<td>Remote — France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/360learning/jobs/software-engineer_paris_360LE_Kgg252N">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Bjak</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0bd73dd-cc55-476a-bc14-4be818170f9c">Backend Developer</a> 🆕</td>
+<td>Germany</td>
+<td align="center"><a href="https://himalayas.app/companies/bjak/jobs/backend-developer-9975672219">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/655cc256-ecf7-414a-85cb-f146724fe9a6">Backend Software Engineer - AI Finance Agent</a> 🆕</td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://himalayas.app/companies/bjak/jobs/backend-software-engineer-ai-finance-agent-6269102145">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>FareHarbor</strong></td>
 <td><a href="https://trueinterview.io/jobs/0813de30-0232-4c06-b4e9-a1db8a271585">Application Security Engineer</a> 🆕</td>
@@ -4076,6 +4097,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bjak</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fb9b617-5ee3-4ce4-acb0-dbaf9a56d546">Applied AI Engineer - AI Finance Agent</a> 🆕</td>
+<td>Taiwan</td>
+<td align="center"><a href="https://himalayas.app/companies/bjak/jobs/applied-ai-engineer-ai-finance-agent-8352750971">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Aily Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/0a6ba213-2908-42f1-a7ba-8a450e78d643">MID AI/ML Engineer</a> 🆕</td>
