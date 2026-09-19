@@ -12,13 +12,13 @@ from the list on the next run instead of wasting your afternoon.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-19 09:22 UTC_
+_Last updated: 2026-09-19 13:51 UTC_
 
-### Browse 1,045 new-grad roles by category
+### Browse 1,049 new-grad roles by category
 
-💻 **[Software Engineering](#-software-engineering)** (606)
+💻 **[Software Engineering](#-software-engineering)** (609)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (327)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (328)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (21)
 
@@ -56,9 +56,23 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Canonical</strong></td>
+<td><a href="https://trueinterview.io/jobs/66536c4f-2f34-4a76-b16f-8ba8158a9375">Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU</a> 🆕</td>
+<td>China, Taiwan</td>
+<td align="center"><a href="https://himalayas.app/companies/canonical/jobs/open-source-networking-software-engineer-tor-switch-smartnic-dpu">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/28d32212-808d-4601-a7fe-83073ca2efa8">Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch</a> 🆕</td>
 <td>—</td>
 <td align="center"><a href="https://himalayas.app/companies/canonical/jobs/software-engineer-data-infrastructure-opensearch-elasticsearch">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>CASA Mental Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0cd078e-ec31-40aa-9828-956393648806">software developer</a> 🆕</td>
+<td>Edmonton (AB)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50321553">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -80,6 +94,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0008784c-510e-40e3-948f-013d41a51057">Software Engineer (Enterprise Experience, Backend)</a> 🆕 🌐</td>
 <td>Remote — Poland</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/coder/jobs/software-engineer-enterprise-experience-backend_warsaw_3hmhf2ol">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Creatio</strong></td>
+<td><a href="https://trueinterview.io/jobs/127e388c-5b5e-45bc-95df-1975da6f9b82">Mobile Developer</a> 🆕</td>
+<td>Ukraine</td>
+<td align="center"><a href="https://himalayas.app/companies/creatio/jobs/mobile-developer-7030873298">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -4326,6 +4347,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/488c7470-ffd5-4a0d-a893-dcc5e19f64b8">Data Engineer (H/F) - CDI</a> 🆕</td>
 <td>Toulouse</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/link-consulting/jobs/data-engineer-h-f-cdi_toulouse">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>SUEZ</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1dcb193-db29-48dc-815c-04773afc837d">Chef de projet Data Engineer - H/F</a> 🆕</td>
+<td>Puteaux, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/suez/jobs/chef-de-projet-data-engineer-h-f_puteaux">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
