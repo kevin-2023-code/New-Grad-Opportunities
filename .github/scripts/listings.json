@@ -6,9 +6,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-19T13:51:36.985Z",
-  "count": 3418,
+  "fetchedAt": "2026-09-19T17:09:26.154Z",
+  "count": 3411,
   "listings": [
+    {
+      "id": "cbe2eb01-5866-4649-ab42-c6845017a9a5",
+      "company": "Spacex",
+      "title": "Electrical Engineer, Battery (Falcon & Dragon)",
+      "locations": [
+        "Hawthorne, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8825367002?gh_jid=8825367002",
+      "url": "https://trueinterview.io/jobs/cbe2eb01-5866-4649-ab42-c6845017a9a5",
+      "postedAt": "2026-09-19T16:00:26.000Z",
+      "updatedAt": "2026-09-19T16:00:26.000Z"
+    },
     {
       "id": "3f8e5241-f4c4-41d9-81f6-0cc1f937a0f3",
       "company": "NetApp",
@@ -94,6 +119,33 @@
       "updatedAt": "2026-09-19T00:13:35.000Z"
     },
     {
+      "id": "3ad819c3-ea15-4283-b59f-4725b5185798",
+      "company": "Binance",
+      "title": "Site Reliability Engineer",
+      "locations": [
+        "Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Site Reliability Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/binance/jobs/site-reliability-engineer",
+      "url": "https://trueinterview.io/jobs/3ad819c3-ea15-4283-b59f-4725b5185798",
+      "postedAt": "2026-09-19T00:00:00.000Z",
+      "updatedAt": "2026-09-19T00:00:00.000Z"
+    },
+    {
       "id": "ab59d30f-60c6-459a-8155-d0ebedc045b3",
       "company": "Bjak",
       "title": "Backend Engineer, AI (Agent Systems)",
@@ -115,6 +167,31 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/bjak/jobs/backend-engineer-ai-agent-systems-5993572595",
       "url": "https://trueinterview.io/jobs/ab59d30f-60c6-459a-8155-d0ebedc045b3",
+      "postedAt": "2026-09-19T00:00:00.000Z",
+      "updatedAt": "2026-09-19T00:00:00.000Z"
+    },
+    {
+      "id": "26a704c0-305b-49c5-955c-9b2b59e9fa8d",
+      "company": "Bright Vision Technologies",
+      "title": "Edge AI Engineer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/bright-vision-technologies/jobs/edge-ai-engineer-194244828",
+      "url": "https://trueinterview.io/jobs/26a704c0-305b-49c5-955c-9b2b59e9fa8d",
       "postedAt": "2026-09-19T00:00:00.000Z",
       "updatedAt": "2026-09-19T00:00:00.000Z"
     },
@@ -161,6 +238,27 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/canonical/jobs/software-engineer-data-infrastructure-opensearch-elasticsearch",
       "url": "https://trueinterview.io/jobs/28d32212-808d-4601-a7fe-83073ca2efa8",
+      "postedAt": "2026-09-19T00:00:00.000Z",
+      "updatedAt": "2026-09-19T00:00:00.000Z"
+    },
+    {
+      "id": "332ea896-af6a-4597-99f3-51f48c076093",
+      "company": "Canonical",
+      "title": "Ubuntu Core Software Engineer",
+      "locations": [],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/canonical/jobs/ubuntu-core-software-engineer",
+      "url": "https://trueinterview.io/jobs/332ea896-af6a-4597-99f3-51f48c076093",
       "postedAt": "2026-09-19T00:00:00.000Z",
       "updatedAt": "2026-09-19T00:00:00.000Z"
     },
@@ -365,6 +463,31 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/endor-labs/jobs/member-of-technical-staff-backend-software-engineer_palo-alto_lkvbpmfj",
       "url": "https://trueinterview.io/jobs/2e2fc098-27c3-4be9-934a-93c61b5eb62d",
+      "postedAt": "2026-09-19T00:00:00.000Z",
+      "updatedAt": "2026-09-19T00:00:00.000Z"
+    },
+    {
+      "id": "8a9ae1a0-417a-4156-9151-ece29fbe5b6a",
+      "company": "Ergomed",
+      "title": "EDC Developer (Medidata RAVE and Zelta v1.0)",
+      "locations": [
+        "United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/ergomed/jobs/edc-developer-medidata-rave-and-zelta-v1-0-8335549873",
+      "url": "https://trueinterview.io/jobs/8a9ae1a0-417a-4156-9151-ece29fbe5b6a",
       "postedAt": "2026-09-19T00:00:00.000Z",
       "updatedAt": "2026-09-19T00:00:00.000Z"
     },
@@ -2654,31 +2777,6 @@
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
     {
-      "id": "ff571168-2e9c-41f2-ba73-cf8048b0a8d6",
-      "company": "Dell",
-      "title": "Materials Research Engineer",
-      "locations": [
-        "TX, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/298859",
-      "url": "https://trueinterview.io/jobs/ff571168-2e9c-41f2-ba73-cf8048b0a8d6",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
       "id": "a0c56fc6-7c2e-417b-be83-202c68d6417a",
       "company": "Dell",
       "title": "Technical Support Engineer – Dell Compute | PowerEdge & Modular (B2B)",
@@ -2848,7 +2946,8 @@
       "company": "Intel",
       "title": "Silicon Photonics Quality & Reliability Engineer",
       "locations": [
-        "US, New Mexico, Albuquerque"
+        "US, New Mexico, Albuquerque",
+        "US, New Mexico, Albuquerque, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -5565,7 +5664,8 @@
       "company": "Cisco",
       "title": "Software Engineer - SRE",
       "locations": [
-        "Milpitas, California, US"
+        "Milpitas, California, US",
+        "Milpitas, California, US, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -5632,31 +5732,6 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/decisionpoint-corporation/jobs/full-stack-developer",
       "url": "https://trueinterview.io/jobs/dc02600c-d9f1-4236-b983-967c8607c1f3",
-      "postedAt": "2026-09-17T00:00:00.000Z",
-      "updatedAt": "2026-09-17T00:00:00.000Z"
-    },
-    {
-      "id": "ad14f050-b657-4f4e-9714-4853de5ca678",
-      "company": "Dell",
-      "title": "Deployment Engineer - Federal Customer",
-      "locations": [
-        "VA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299122",
-      "url": "https://trueinterview.io/jobs/ad14f050-b657-4f4e-9714-4853de5ca678",
       "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
@@ -5878,7 +5953,8 @@
       "company": "Garmin",
       "title": "Aviation Pilot Data Analyst",
       "locations": [
-        "St. Louis, Missouri, United States"
+        "St. Louis, Missouri, United States",
+        "Olathe, Kansas, United States"
       ],
       "cities": [],
       "countries": [
@@ -6031,7 +6107,8 @@
       "company": "Intel",
       "title": "Hardware Engineer",
       "locations": [
-        "US, California, Santa Clara"
+        "US, California, Santa Clara",
+        "US, California, Santa Clara, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -6056,7 +6133,8 @@
       "company": "Intel",
       "title": "Packaging Module Development Engineer",
       "locations": [
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, Arizona, Phoenix, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -6081,7 +6159,8 @@
       "company": "Intel",
       "title": "Silicon Photonics Test Engineer",
       "locations": [
-        "US, California, Santa Clara"
+        "US, California, Santa Clara",
+        "US, California, Santa Clara, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -6789,6 +6868,31 @@
       "applyUrl": "https://careers.qualcomm.com/careers/job/446718710590",
       "url": "https://trueinterview.io/jobs/172aced0-480a-4f15-a140-2ef67f46cc7d",
       "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "32a7e333-95a7-4d9b-953d-1198877724e7",
+      "company": "QUALCOMM",
+      "title": "PCB Designer",
+      "locations": [
+        "San Diego, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446721109663",
+      "url": "https://trueinterview.io/jobs/32a7e333-95a7-4d9b-953d-1198877724e7",
+      "postedAt": "2026-09-16T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
     {
@@ -7899,31 +8003,6 @@
       "updatedAt": "2026-09-16T23:03:11.000Z"
     },
     {
-      "id": "aae72cdd-9fb6-416f-8fb6-bb27f8bbb51a",
-      "company": "Palo Alto Networks",
-      "title": "Principle Manufacturing Engineer",
-      "locations": [
-        "Office - USA - CA - Headquarters"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Principle-Manufacturing-Engineer_JR-017121-1",
-      "url": "https://trueinterview.io/jobs/aae72cdd-9fb6-416f-8fb6-bb27f8bbb51a",
-      "postedAt": "2026-09-16T23:03:11.000Z",
-      "updatedAt": "2026-09-16T23:03:11.000Z"
-    },
-    {
       "id": "8ba44915-bf44-4dc1-a69f-d3708c2fc08f",
       "company": "Palo Alto Networks",
       "title": "Software Engineer",
@@ -8253,7 +8332,9 @@
         "Milpitas, CA",
         "USA-OR-Hillsboro-Beaverton-KLA",
         "Totowa, NJ",
-        "Hillsboro, OR"
+        "Hillsboro, OR",
+        "USA-OR-Hillsboro-Beaverton-KLA, United States of America",
+        "Milpitas, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8382,7 +8463,9 @@
         "Hillsboro, OR",
         "Boise, ID",
         "Phoenix, AZ",
-        "Austin, TX"
+        "Austin, TX",
+        "Phoenix, AZ, United States of America",
+        "Austin, TX, United States of America"
       ],
       "cities": [
         "Austin, TX"
@@ -8415,7 +8498,9 @@
         "Malta, NY",
         "Austin, TX",
         "Richardson, TX",
-        "Chandler, AZ"
+        "Chandler, AZ",
+        "Boise, ID, United States of America",
+        "Malta, NY, United States of America"
       ],
       "cities": [
         "Austin, TX"
@@ -8746,7 +8831,8 @@
       "title": "NPI Product Engineer",
       "locations": [
         "Milpitas, CA",
-        "Totowa, NJ"
+        "Totowa, NJ",
+        "Totowa, NJ, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8873,7 +8959,8 @@
       "title": "Product Engineer",
       "locations": [
         "Ann Arbor, MI",
-        "Milpitas, CA"
+        "Milpitas, CA",
+        "Milpitas, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8974,7 +9061,8 @@
       "title": "Regional Applications Development Engineer",
       "locations": [
         "Milpitas, CA",
-        "Austin, TX"
+        "Austin, TX",
+        "Austin, TX, United States of America"
       ],
       "cities": [
         "Austin, TX"
@@ -9206,7 +9294,8 @@
       "company": "KLA",
       "title": "System Design Engineer",
       "locations": [
-        "Milpitas, CA"
+        "Milpitas, CA",
+        "Milpitas, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9233,7 +9322,8 @@
       "locations": [
         "Westwood, MA",
         "Hillsboro, OR",
-        "Milpitas, CA"
+        "Milpitas, CA",
+        "Milpitas, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9678,7 +9768,8 @@
       "title": "Module Engineer",
       "locations": [
         "US, Oregon, Hillsboro",
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, Arizona, Phoenix, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9855,7 +9946,8 @@
       "company": "Intel",
       "title": "Software Application Development Engineer",
       "locations": [
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, Arizona, Phoenix, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -10455,7 +10547,8 @@
       "company": "Cisco",
       "title": "ASIC Design Verification Engineer",
       "locations": [
-        "San Jose, California, US"
+        "San Jose, California, US",
+        "San Jose, California, US, United States of America"
       ],
       "cities": [
         "San Jose, CA"
@@ -11928,7 +12021,8 @@
       "company": "Analog Devices",
       "title": "Process Engineering Technician (Nights)",
       "locations": [
-        "US, OR, Beaverton"
+        "US, OR, Beaverton",
+        "US, OR, Beaverton, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -12281,7 +12375,8 @@
       "company": "Cisco",
       "title": "ASIC DFT Engineer II Full Time - United States",
       "locations": [
-        "San Jose, California, US"
+        "San Jose, California, US",
+        "San Jose, California, US, United States of America"
       ],
       "cities": [
         "San Jose, CA"
@@ -12416,33 +12511,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Engineer-I--Full-Time----United-States_2025883",
       "url": "https://trueinterview.io/jobs/853749da-6457-479a-beca-9809ba79d079",
-      "postedAt": "2026-09-16T00:00:00.000Z",
-      "updatedAt": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "id": "cd500e69-53a7-4aba-a12d-e2863bafd552",
-      "company": "Dell",
-      "title": "Postgres Database Engineer",
-      "locations": [
-        "Austin, TX, United States"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/297513",
-      "url": "https://trueinterview.io/jobs/cd500e69-53a7-4aba-a12d-e2863bafd552",
       "postedAt": "2026-09-16T00:00:00.000Z",
       "updatedAt": "2026-09-16T00:00:00.000Z"
     },
@@ -12684,7 +12752,8 @@
       "company": "Intel",
       "title": "Back End( BE) Process Integration Engineer",
       "locations": [
-        "US, Oregon, Hillsboro"
+        "US, Oregon, Hillsboro",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -13878,31 +13947,6 @@
       "updatedAt": "2026-09-16T00:00:00.000Z"
     },
     {
-      "id": "32a7e333-95a7-4d9b-953d-1198877724e7",
-      "company": "QUALCOMM",
-      "title": "PCB Designer",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446721109663",
-      "url": "https://trueinterview.io/jobs/32a7e333-95a7-4d9b-953d-1198877724e7",
-      "postedAt": "2026-09-16T00:00:00.000Z",
-      "updatedAt": "2026-09-16T00:00:00.000Z"
-    },
-    {
       "id": "e0bd0846-f694-419d-b549-3cdf48a950bf",
       "company": "Quest Global Technologies",
       "title": "Laravel Developer",
@@ -14009,7 +14053,8 @@
       "company": "Samsung",
       "title": "UX Analyst",
       "locations": [
-        "3245 146th Place SE, Bellevue, WA, USA"
+        "3245 146th Place SE, Bellevue, WA, USA",
+        "3245 146th Place SE, Bellevue, WA, USA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -15409,7 +15454,8 @@
       "company": "Meta",
       "title": "Optical Engineer, Test Automation and Optics NPI",
       "locations": [
-        "Menlo Park, CA, US"
+        "Menlo Park, CA, US",
+        "Menlo Park, CA, United States"
       ],
       "cities": [],
       "countries": [
@@ -15892,7 +15938,10 @@
       "locations": [
         "Hawthorne, CA",
         "Washington, DC",
-        "Redmond, WA"
+        "Redmond, WA",
+        "Redmond, WA, United States",
+        "Washington, DC, United States",
+        "Hawthorne, CA, United States"
       ],
       "cities": [
         "Washington, DC"
@@ -15921,7 +15970,10 @@
       "locations": [
         "Hawthorne, CA",
         "Washington, DC",
-        "Redmond, WA"
+        "Redmond, WA",
+        "Redmond, WA, United States",
+        "Washington, DC, United States",
+        "Hawthorne, CA, United States"
       ],
       "cities": [
         "Washington, DC"
@@ -16436,7 +16488,8 @@
         "USA - New York, NY",
         "USA - Austin, TX",
         "Canada - Toronto",
-        "USA - Redmond, WA"
+        "USA - Redmond, WA",
+        "USA - Sunnyvale, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -16454,31 +16507,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer--Sensor---Mac--Linux--or-Windows--Hybrid-_R30023",
       "url": "https://trueinterview.io/jobs/60c4adc9-0521-4f09-a117-357b18919c36",
-      "postedAt": "2026-09-15T00:00:00.000Z",
-      "updatedAt": "2026-09-15T00:00:00.000Z"
-    },
-    {
-      "id": "1c2ccc57-c8ea-4c8e-9e7b-6abcd71f0cb1",
-      "company": "Dell",
-      "title": "Consultant Machine Learning & Knowledge Graph Engineer",
-      "locations": [
-        "Round Rock, TX, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/293104",
-      "url": "https://trueinterview.io/jobs/1c2ccc57-c8ea-4c8e-9e7b-6abcd71f0cb1",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -16636,6 +16664,31 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/everis/jobs/mobile-software-engineer-growth-experimentation",
       "url": "https://trueinterview.io/jobs/87c8888d-2367-4812-b851-99c2e469cc21",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "f9943f45-5826-4254-a0be-77000ec16f22",
+      "company": "Garmin",
+      "title": "Mechanical Engineer 1",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/20172?lang=en-us",
+      "url": "https://trueinterview.io/jobs/f9943f45-5826-4254-a0be-77000ec16f22",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -17034,10 +17087,13 @@
       "company": "Marvell Technology",
       "title": "CAD Engineer",
       "locations": [
-        "Ho Chi Minh"
+        "Ho Chi Minh",
+        "Ho Chi Minh, Vietnam"
       ],
       "cities": [],
-      "countries": [],
+      "countries": [
+        "Other"
+      ],
       "remote": "onsite",
       "category": "Other",
       "family": "Hardware & Engineering",
@@ -17569,31 +17625,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.qualcomm.com/careers/job/446721106960",
       "url": "https://trueinterview.io/jobs/0b95bb70-9072-468a-b565-114412f04469",
-      "postedAt": "2026-09-15T00:00:00.000Z",
-      "updatedAt": "2026-09-15T00:00:00.000Z"
-    },
-    {
-      "id": "04d50d38-8f0a-4817-aa1f-6222b40c2398",
-      "company": "QUALCOMM",
-      "title": "Software Development Engineer",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446721106667",
-      "url": "https://trueinterview.io/jobs/04d50d38-8f0a-4817-aa1f-6222b40c2398",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -19904,7 +19935,8 @@
       "company": "Intel",
       "title": "Advanced Packaging Quality and Reliability Engineer",
       "locations": [
-        "US, New Mexico, Albuquerque"
+        "US, New Mexico, Albuquerque",
+        "US, New Mexico, Albuquerque, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -19929,7 +19961,8 @@
       "company": "Intel",
       "title": "Process Integration Development Engineer - Defect Metrology",
       "locations": [
-        "US, Oregon, Hillsboro"
+        "US, Oregon, Hillsboro",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -20320,6 +20353,31 @@
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
     {
+      "id": "de16c672-404c-4425-a6a6-522b7ae8f461",
+      "company": "Panasonic",
+      "title": "Software Implementation Engineer",
+      "locations": [
+        "Hoffman Estates, Illinois, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.na.panasonic.com/jobs/51072?lang=en-us",
+      "url": "https://trueinterview.io/jobs/de16c672-404c-4425-a6a6-522b7ae8f461",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
       "id": "2a850c62-3eb1-4072-ba61-4eaa4f15c383",
       "company": "Pavago",
       "title": "Full Stack Engineer",
@@ -20478,7 +20536,8 @@
       "company": "Samsung",
       "title": "Metals DX Engineer",
       "locations": [
-        "1530 FM 973 Taylor, TX, USA"
+        "1530 FM 973 Taylor, TX, USA",
+        "1530 FM 973 Taylor, TX, USA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -20982,7 +21041,8 @@
       "company": "Cisco",
       "title": "ASIC Engineer- CAD",
       "locations": [
-        "San Jose, California, US"
+        "San Jose, California, US",
+        "San Jose, California, US, United States of America"
       ],
       "cities": [
         "San Jose, CA"
@@ -22260,7 +22320,8 @@
       "locations": [
         "Redmond, WA",
         "Hawthorne, CA",
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -22339,7 +22400,9 @@
       "title": "New Graduate Engineer, Security Software (Starshield)",
       "locations": [
         "Washington, DC",
-        "Hawthorne, CA"
+        "Hawthorne, CA",
+        "Washington, DC, United States",
+        "Hawthorne, CA, United States"
       ],
       "cities": [
         "Washington, DC"
@@ -22477,7 +22540,8 @@
       "company": "Spacex",
       "title": "New Graduate Engineer, Power Generation (Starship)",
       "locations": [
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -23574,7 +23638,10 @@
       "locations": [
         "Irvine, CA",
         "Austin, TX",
-        "Palo Alto, CA"
+        "Palo Alto, CA",
+        "Austin, Texas, United States",
+        "Palo Alto - 1200",
+        "Irvine, California, United States"
       ],
       "cities": [
         "Austin, TX",
@@ -23707,7 +23774,8 @@
       "company": "Analog Devices",
       "title": "Battery Test and Validation Engineer",
       "locations": [
-        "US, MA, Wilmington"
+        "US, MA, Wilmington",
+        "US, MA, Wilmington, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -24433,7 +24501,8 @@
       "company": "Intel",
       "title": "Design Verification Engineer",
       "locations": [
-        "US, California, Santa Clara"
+        "US, California, Santa Clara",
+        "US, California, Santa Clara, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -24955,6 +25024,31 @@
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
     {
+      "id": "7283f716-440f-413c-ab61-cea93be4d07b",
+      "company": "NXP Semiconductors",
+      "title": "Entry Level Semiconductor Test Engineer",
+      "locations": [
+        "Chandler (Office), United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/Entry-Level-Semiconductor-Test-Engineer_R-10064969-1",
+      "url": "https://trueinterview.io/jobs/7283f716-440f-413c-ab61-cea93be4d07b",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
       "id": "f2abf24f-358c-4ca6-adbe-713385ebf8b4",
       "company": "Palo Alto Networks",
       "title": "Transformation Success Engineer",
@@ -24991,6 +25085,56 @@
       "source": "bigtech-careers",
       "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/New-York-City-United-States-of-America/Transformation-Success-Engineer_JR-019947",
       "url": "https://trueinterview.io/jobs/f2abf24f-358c-4ca6-adbe-713385ebf8b4",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
+      "id": "e34b0633-d006-4042-ac0b-c228a1110248",
+      "company": "Panasonic",
+      "title": "Clarity PPM System Administrator",
+      "locations": [
+        "Irvine, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.na.panasonic.com/jobs/51121?lang=en-us",
+      "url": "https://trueinterview.io/jobs/e34b0633-d006-4042-ac0b-c228a1110248",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
+      "id": "37d47b55-6cee-4bbb-a458-50ee988b3c1d",
+      "company": "Panasonic",
+      "title": "Quality Engineering Technician I - Formation, Nights B-Shift",
+      "locations": [
+        "Sparks, Nevada, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.na.panasonic.com/jobs/50400?lang=en-us",
+      "url": "https://trueinterview.io/jobs/37d47b55-6cee-4bbb-a458-50ee988b3c1d",
       "postedAt": "2026-09-11T00:00:00.000Z",
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
@@ -28929,6 +29073,31 @@
       "updatedAt": "2026-09-10T00:00:00.000Z"
     },
     {
+      "id": "66ef1cae-68d2-465c-83b2-656be8b96acc",
+      "company": "Garmin",
+      "title": "Component Engineer",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/20128?lang=en-us",
+      "url": "https://trueinterview.io/jobs/66ef1cae-68d2-465c-83b2-656be8b96acc",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "updatedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
       "id": "096da831-df34-4716-a1a3-809c66d53045",
       "company": "Intact Financial",
       "title": "AI Developer I, HK - Winter 2027",
@@ -28983,7 +29152,8 @@
       "company": "Intel",
       "title": "Materials Research Engineer",
       "locations": [
-        "US, Oregon, Hillsboro"
+        "US, Oregon, Hillsboro",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -29008,7 +29178,8 @@
       "company": "Intel",
       "title": "Packaging Research and Development Engineer",
       "locations": [
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, Arizona, Phoenix, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -29033,7 +29204,8 @@
       "company": "Intel",
       "title": "Substrate Quality and Reliability Engineer",
       "locations": [
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, Arizona, Phoenix, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -29540,7 +29712,8 @@
       "company": "NXP Semiconductors",
       "title": "Field Application Engineer – Robotics Networking",
       "locations": [
-        "San Jose (Holger Way)"
+        "San Jose (Holger Way)",
+        "San Jose (Holger Way), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -29640,10 +29813,13 @@
       "company": "Red Hat",
       "title": "Software Engineer",
       "locations": [
-        "Raleigh"
+        "Raleigh",
+        "Raleigh, United States of America"
       ],
       "cities": [],
-      "countries": [],
+      "countries": [
+        "United States"
+      ],
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
@@ -30301,7 +30477,8 @@
       "company": "Meta",
       "title": "Visiting Hardware Engineer",
       "locations": [
-        "Menlo Park, CA, US"
+        "Menlo Park, CA, US",
+        "Menlo Park, CA, United States"
       ],
       "cities": [],
       "countries": [
@@ -31008,7 +31185,8 @@
       "title": "Propulsion Engineer (Falcon Flight Operations)",
       "locations": [
         "Hawthorne, CA",
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -31425,7 +31603,8 @@
       "company": "Meta",
       "title": "EMC Design Engineer (University Grad)",
       "locations": [
-        "Redmond, WA, US"
+        "Redmond, WA, US",
+        "Redmond, WA, United States"
       ],
       "cities": [],
       "countries": [
@@ -31688,7 +31867,8 @@
       "company": "Analog Devices",
       "title": "Tech 3 Process Sustaining Engineer - Night shift",
       "locations": [
-        "US, OR, Beaverton"
+        "US, OR, Beaverton",
+        "US, OR, Beaverton, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -34058,7 +34238,8 @@
       "title": "New Graduate Engineer, Software (Starship)",
       "locations": [
         "Hawthorne, CA",
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -35004,7 +35185,8 @@
       "company": "SpaceX",
       "title": "Structural Test Engineer (Starship)",
       "locations": [
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -35030,7 +35212,8 @@
       "title": "Equipment Reliability Engineer (Starship)",
       "locations": [
         "Starbase, TX",
-        "Bastrop, TX"
+        "Bastrop, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -35365,32 +35548,6 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/delan-associates/jobs/databricks-developer",
       "url": "https://trueinterview.io/jobs/b82158ac-d0f6-44bf-9fb1-a39f96473e68",
-      "postedAt": "2026-09-08T00:00:00.000Z",
-      "updatedAt": "2026-09-08T00:00:00.000Z"
-    },
-    {
-      "id": "8d524f1d-0d5b-4ef6-a85d-be56277d61be",
-      "company": "Dell",
-      "title": "Consultant, Cybersecurity Consulting",
-      "locations": [
-        "Round Rock, TX, United States",
-        "Hopkinton, MA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/296511",
-      "url": "https://trueinterview.io/jobs/8d524f1d-0d5b-4ef6-a85d-be56277d61be",
       "postedAt": "2026-09-08T00:00:00.000Z",
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
@@ -36621,7 +36778,8 @@
       "company": "Spacex",
       "title": "Application Software Engineer, Internal Systems",
       "locations": [
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -36650,7 +36808,8 @@
         "Palo Alto, CA",
         "Hawthorne, CA",
         "Starbase, TX",
-        "Palo Alto - 1530"
+        "Palo Alto - 1530",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -37108,7 +37267,8 @@
       "company": "NXP Semiconductors",
       "title": "Entry Level DFT Design Engineer",
       "locations": [
-        "Austin (Oakhill, Office)"
+        "Austin (Oakhill, Office)",
+        "Austin (Oakhill, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -37133,7 +37293,8 @@
       "company": "NXP Semiconductors",
       "title": "Entry Level Digital Design Engineer",
       "locations": [
-        "Austin (Oakhill, Office)"
+        "Austin (Oakhill, Office)",
+        "Austin (Oakhill, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -37158,7 +37319,8 @@
       "company": "NXP Semiconductors",
       "title": "Entry Level Digital Physical Design Engineer",
       "locations": [
-        "Austin (Oakhill, Office)"
+        "Austin (Oakhill, Office)",
+        "Austin (Oakhill, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -37183,7 +37345,8 @@
       "company": "NXP Semiconductors",
       "title": "Entry Level Digital Validation Engineer",
       "locations": [
-        "Austin (Oakhill, Office)"
+        "Austin (Oakhill, Office)",
+        "Austin (Oakhill, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -37208,7 +37371,8 @@
       "company": "NXP Semiconductors",
       "title": "Entry Level Digital Verification Engineer",
       "locations": [
-        "Austin (Oakhill, Office)"
+        "Austin (Oakhill, Office)",
+        "Austin (Oakhill, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -40099,7 +40263,8 @@
       "company": "SpaceX",
       "title": "GNC Engineer - Embedded Controls (Starlink)",
       "locations": [
-        "Redmond, WA"
+        "Redmond, WA",
+        "Bastrop, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -41216,7 +41381,8 @@
       "title": "Hardware Engineer",
       "locations": [
         "San Jose, California, US",
-        "RTP, North Carolina, US"
+        "RTP, North Carolina, US",
+        "San Jose, California, US, United States of America"
       ],
       "cities": [
         "San Jose, CA"
@@ -44316,7 +44482,8 @@
       "company": "SpaceX",
       "title": "Operations Engineer, Starbase Infrastructure",
       "locations": [
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -44622,7 +44789,8 @@
       "company": "Broadcom",
       "title": "Design Engineer",
       "locations": [
-        "USA-Colorado-Fort Collins-4380 Ziegler Road"
+        "USA-Colorado-Fort Collins-4380 Ziegler Road",
+        "USA-Colorado-Fort Collins-4380 Ziegler Road, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -44784,7 +44952,8 @@
       "company": "Cisco",
       "title": "Photonic Packaging Engineer",
       "locations": [
-        "Carlsbad, California, US"
+        "Carlsbad, California, US",
+        "Carlsbad, California, US, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -45946,7 +46115,8 @@
       "company": "NXP Semiconductors",
       "title": "Field Application Engineer – Radar System",
       "locations": [
-        "Austin (Oakhill, Office)"
+        "Austin (Oakhill, Office)",
+        "Austin (Oakhill, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -47033,7 +47203,8 @@
         "Vandenberg, CA",
         "Redmond, WA",
         "Starbase, TX",
-        "Woodinville, WA"
+        "Woodinville, WA",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -50321,31 +50492,6 @@
       "updatedAt": "2026-09-02T00:00:00.000Z"
     },
     {
-      "id": "d2bbce31-552b-4585-b477-4b2e4b4cbe49",
-      "company": "QUALCOMM",
-      "title": "Baseband Hardware Design Engineer",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720943599",
-      "url": "https://trueinterview.io/jobs/d2bbce31-552b-4585-b477-4b2e4b4cbe49",
-      "postedAt": "2026-09-02T00:00:00.000Z",
-      "updatedAt": "2026-09-02T00:00:00.000Z"
-    },
-    {
       "id": "69326452-9b4a-4a28-979e-c80e46b3cb88",
       "company": "Reddit",
       "title": "Backend Software Engineer (PDP Experience)",
@@ -53061,7 +53207,8 @@
       "title": "Threat Analyst – Machine Learning Operations & Detection Efficacy (Remote)",
       "locations": [
         "Remote, US (Remote)",
-        "USA - Remote"
+        "USA - Remote",
+        "USA - Remote, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -53368,10 +53515,13 @@
       "company": "Red Hat",
       "title": "Data Scientist",
       "locations": [
-        "Raleigh"
+        "Raleigh",
+        "Raleigh, United States of America"
       ],
       "cities": [],
-      "countries": [],
+      "countries": [
+        "United States"
+      ],
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
@@ -53391,7 +53541,8 @@
       "company": "Spacex",
       "title": "Manufacturing Engineer, Supply Chain (Starship)",
       "locations": [
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -55389,7 +55540,8 @@
         "Fulton, Maryland, US",
         "Dallas, Texas, US",
         "Atlanta, Georgia, US",
-        "Hillsboro, Oregon, US"
+        "Hillsboro, Oregon, US",
+        "San Jose, California, US, United States of America"
       ],
       "cities": [
         "San Jose, CA",
@@ -55545,7 +55697,8 @@
       "company": "NXP Semiconductors",
       "title": "Entry Level NVM Reliability Lab Engineer",
       "locations": [
-        "Austin (Oakhill, Office)"
+        "Austin (Oakhill, Office)",
+        "Austin (Oakhill, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -55570,7 +55723,8 @@
       "company": "NXP Semiconductors",
       "title": "Systems & Applications Engineer, Entry Level",
       "locations": [
-        "San Jose (Holger Way)"
+        "San Jose (Holger Way)",
+        "San Jose (Holger Way), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -55672,7 +55826,8 @@
       "company": "SpaceX",
       "title": "Full Stack Engineer, Employee Experience",
       "locations": [
-        "Palo Alto, CA"
+        "Palo Alto, CA",
+        "Palo Alto - 1530"
       ],
       "cities": [
         "Palo Alto, CA"
@@ -56544,7 +56699,8 @@
       "company": "Spacex",
       "title": "Automation & Controls Engineer, Launch Pad (Starship)",
       "locations": [
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -58517,7 +58673,8 @@
       "company": "SpaceX",
       "title": "Propulsion Engineer, Stage Systems (Starship)",
       "locations": [
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -59461,7 +59618,8 @@
       "company": "Broadcom",
       "title": "DCIM Semiconductor Equipment Maintenance Technician (Diffusion, CVD, Implant, Milling)(Night Shift)",
       "locations": [
-        "USA-Colorado-Fort Collins-4380 Ziegler Road"
+        "USA-Colorado-Fort Collins-4380 Ziegler Road",
+        "USA-Colorado-Fort Collins-4380 Ziegler Road, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -59478,31 +59636,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/DCIM-Semiconductor-Equipment-Maintenance-Technician--Diffusion--CVD--Implant--Milling--Night-Shift-_R026912-1",
       "url": "https://trueinterview.io/jobs/356eb619-a05f-4258-84ab-5ebad1587d4f",
-      "postedAt": "2026-08-27T00:00:00.000Z",
-      "updatedAt": "2026-08-27T00:00:00.000Z"
-    },
-    {
-      "id": "d44f6ba0-c284-48c1-aee5-8b96e37579f2",
-      "company": "Coherent Corp.",
-      "title": "Embedded Systems Software & FPGA Programmer",
-      "locations": [
-        "Horseheads, NY, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010466",
-      "url": "https://trueinterview.io/jobs/d44f6ba0-c284-48c1-aee5-8b96e37579f2",
       "postedAt": "2026-08-27T00:00:00.000Z",
       "updatedAt": "2026-08-27T00:00:00.000Z"
     },
@@ -59613,7 +59746,8 @@
       "title": "Electrical Engineer, Launch Pad (Starship)",
       "locations": [
         "Starbase, TX",
-        "Cape Canaveral, FL"
+        "Cape Canaveral, FL",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -61143,31 +61277,6 @@
       "updatedAt": "2026-08-26T00:00:00.000Z"
     },
     {
-      "id": "a51c4727-c3c1-4b7f-9b8e-05e90fb1dfa7",
-      "company": "Coherent Corp.",
-      "title": "Optical Coating Process Engineer",
-      "locations": [
-        "Santa Rosa, CA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014456",
-      "url": "https://trueinterview.io/jobs/a51c4727-c3c1-4b7f-9b8e-05e90fb1dfa7",
-      "postedAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z"
-    },
-    {
       "id": "05f482c6-d206-4fc5-bfa4-caf1faf90451",
       "company": "Hewlett Packard Enterprise",
       "title": "Software Engineer",
@@ -62628,7 +62737,8 @@
       "company": "SpaceX",
       "title": "Full Stack Software Engineer, Data Platform (Starlink)",
       "locations": [
-        "Redmond, WA"
+        "Redmond, WA",
+        "Hawthorne, CA, United States"
       ],
       "cities": [],
       "countries": [
@@ -62784,7 +62894,8 @@
       "company": "SpaceX",
       "title": "Thermal Control and Life Support Hardware Engineer (Crew Starship)",
       "locations": [
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -62971,7 +63082,8 @@
       "company": "Broadcom",
       "title": "Electrical Hardware & AI Integration Engineer",
       "locations": [
-        "USA-Colorado-Fort Collins-4380 Ziegler Road"
+        "USA-Colorado-Fort Collins-4380 Ziegler Road",
+        "USA-Colorado-Fort Collins-4380 Ziegler Road, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -62996,7 +63108,8 @@
       "company": "CrowdStrike",
       "title": "Technical Support Engineer - GovCloud (Remote)",
       "locations": [
-        "USA - Remote, NC"
+        "USA - Remote, NC",
+        "USA - Remote, NC, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -63217,7 +63330,8 @@
         "Indiana - Indianapolis",
         "Virginia - Mclean",
         "Texas - Austin",
-        "California - San Francisco"
+        "California - San Francisco",
+        "Georgia - Atlanta, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -64206,7 +64320,8 @@
       "company": "Spacex",
       "title": "Mechanical Engineer, Infrastructure",
       "locations": [
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -64389,7 +64504,8 @@
       "title": "AMS Verification Engineer (RFIC Engineering)",
       "locations": [
         "Redmond, WA",
-        "Irvine, CA"
+        "Irvine, CA",
+        "Redmond, WA, United States"
       ],
       "cities": [],
       "countries": [
@@ -64642,31 +64758,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Chicago-United-States-of-America/Solution-Engineer-IAM--IGA--SME-----Central_JR-021413",
       "url": "https://trueinterview.io/jobs/1b02abfb-eb5c-4ff0-9749-c48fe53bb44f",
-      "postedAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z"
-    },
-    {
-      "id": "ec21c0ce-f1e9-401a-a8bc-37599da6eb91",
-      "company": "QUALCOMM",
-      "title": "Camera DV Engineer",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720601634",
-      "url": "https://trueinterview.io/jobs/ec21c0ce-f1e9-401a-a8bc-37599da6eb91",
       "postedAt": "2026-08-24T00:00:00.000Z",
       "updatedAt": "2026-08-24T00:00:00.000Z"
     },
@@ -66481,7 +66572,8 @@
       "company": "KLA",
       "title": "NPI Hardware Productization Engineer",
       "locations": [
-        "Milpitas, CA"
+        "Milpitas, CA",
+        "Milpitas, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -66506,7 +66598,8 @@
       "company": "KLA",
       "title": "Product Release Engineer",
       "locations": [
-        "Milpitas, CA"
+        "Milpitas, CA",
+        "Milpitas, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -67311,7 +67404,8 @@
       "company": "Spacex",
       "title": "Electromagnetic Effects Test Engineer (Automotive/Satellite EMC)",
       "locations": [
-        "Hawthorne, CA"
+        "Hawthorne, CA",
+        "Bastrop, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -67965,7 +68059,8 @@
       "company": "SpaceX",
       "title": "New Graduate Engineer, Civil/Structural (Starship)",
       "locations": [
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -68119,7 +68214,8 @@
       "company": "KLA",
       "title": "Customer Engagement Applications Engineer (Capres) – USA",
       "locations": [
-        "Hillsboro, OR"
+        "Hillsboro, OR",
+        "Hillsboro, OR, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -68186,31 +68282,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.qualcomm.com/careers/job/446720352854",
       "url": "https://trueinterview.io/jobs/a080c14a-2775-4c84-bd31-3d5ce89aca34",
-      "postedAt": "2026-08-20T00:00:00.000Z",
-      "updatedAt": "2026-08-20T00:00:00.000Z"
-    },
-    {
-      "id": "9a283693-7e00-481c-987f-cb22086d72eb",
-      "company": "QUALCOMM",
-      "title": "Verification Software Engineer",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720426705",
-      "url": "https://trueinterview.io/jobs/9a283693-7e00-481c-987f-cb22086d72eb",
       "postedAt": "2026-08-20T00:00:00.000Z",
       "updatedAt": "2026-08-20T00:00:00.000Z"
     },
@@ -69055,7 +69126,8 @@
       "company": "Spacex",
       "title": "CAD Drafter",
       "locations": [
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -69291,7 +69363,8 @@
       "company": "SpaceX",
       "title": "Software Engineer, Inference (AI Data Engineering)",
       "locations": [
-        "Palo Alto, CA"
+        "Palo Alto, CA",
+        "Palo Alto - 1530"
       ],
       "cities": [
         "Palo Alto, CA"
@@ -71107,7 +71180,8 @@
       "company": "SpaceX",
       "title": "Propulsion Build Engineer (Starship)",
       "locations": [
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -71285,7 +71359,8 @@
       "company": "Broadcom",
       "title": "R&D Hardware Engineer",
       "locations": [
-        "USA-CA San Jose Innovation Drive"
+        "USA-CA San Jose Innovation Drive",
+        "USA-CA San Jose Innovation Drive, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -72304,7 +72379,8 @@
       "company": "SpaceX",
       "title": "Mechanical Engineer, Mechanisms (Crew Starship)",
       "locations": [
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -72329,7 +72405,8 @@
       "company": "SpaceX",
       "title": "Mechanical Engineer, Cabin Structures (Crew Starship)",
       "locations": [
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -73236,7 +73313,8 @@
       "title": "Supplier Development Engineer (Mechanical Engineering)",
       "locations": [
         "Starbase, TX",
-        "Hawthorne, CA"
+        "Hawthorne, CA",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -74340,7 +74418,10 @@
       "locations": [
         "Palo Alto, CA",
         "Irvine, CA",
-        "Redmond, WA"
+        "Redmond, WA",
+        "Irvine, California, United States",
+        "Palo Alto - 1200",
+        "Redmond, WA, United States"
       ],
       "cities": [
         "Palo Alto, CA"
@@ -76128,7 +76209,8 @@
       "company": "Autodesk",
       "title": "Research Engineer",
       "locations": [
-        "Boston, MA, USA"
+        "Boston, MA, USA",
+        "Boston, MA, USA, United States of America"
       ],
       "cities": [
         "Boston, MA"
@@ -76155,7 +76237,8 @@
       "company": "Broadcom",
       "title": "Support Engineer - Mainframe",
       "locations": [
-        "USA-IL Lisle Warrenville Road"
+        "USA-IL Lisle Warrenville Road",
+        "USA-IL Lisle Warrenville Road, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -76276,31 +76359,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.nvidia.com/careers/job/893395048676",
       "url": "https://trueinterview.io/jobs/38289bb9-5e85-4d21-8a76-ea9a3fc9e9a8",
-      "postedAt": "2026-08-13T00:00:00.000Z",
-      "updatedAt": "2026-08-13T00:00:00.000Z"
-    },
-    {
-      "id": "ff24f3be-006d-44cc-bfca-a2ad067e89c6",
-      "company": "QUALCOMM",
-      "title": "Failure Analysis Engineer - Nanoprobing",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446716542730",
-      "url": "https://trueinterview.io/jobs/ff24f3be-006d-44cc-bfca-a2ad067e89c6",
       "postedAt": "2026-08-13T00:00:00.000Z",
       "updatedAt": "2026-08-13T00:00:00.000Z"
     },
@@ -76794,7 +76852,22 @@
         "Los Lunas, NM, US",
         "Bowling Green, OH, US",
         "Cedar Rapids, IA, US",
-        "DeKalb, IL, US"
+        "DeKalb, IL, US",
+        "Los Lunas, NM, United States",
+        "El Paso, TX, United States",
+        "Bowling Green, OH, United States",
+        "Cedar Rapids, IA, United States",
+        "DeKalb, IL, United States",
+        "Henrico, VA, United States",
+        "Mesa, AZ, United States",
+        "Temple, TX, United States",
+        "Hillsboro, OR, United States",
+        "Prineville, OR, United States",
+        "Garland, TX, United States",
+        "New Albany, OH, United States",
+        "Huntsville, AL, United States",
+        "Eagle Mountain, UT, United States",
+        "Crook County, OR, United States"
       ],
       "cities": [],
       "countries": [
@@ -77737,7 +77810,8 @@
       "title": "Signal Integrity Engineer - Serdes, Satellites (Starlink)",
       "locations": [
         "Redmond, WA",
-        "Palo Alto, CA"
+        "Palo Alto, CA",
+        "Palo Alto - 1200"
       ],
       "cities": [
         "Palo Alto, CA"
@@ -78012,6 +78086,56 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.nvidia.com/careers/job/893396982426",
       "url": "https://trueinterview.io/jobs/02bffdeb-7092-4095-9578-8482ec0d8e48",
+      "postedAt": "2026-08-12T00:00:00.000Z",
+      "updatedAt": "2026-08-12T00:00:00.000Z"
+    },
+    {
+      "id": "a4f7c126-0434-47eb-bd06-1432c8b92481",
+      "company": "Panasonic",
+      "title": "SCADA Engineer I",
+      "locations": [
+        "Sparks, Nevada, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.na.panasonic.com/jobs/50367?lang=en-us",
+      "url": "https://trueinterview.io/jobs/a4f7c126-0434-47eb-bd06-1432c8b92481",
+      "postedAt": "2026-08-12T00:00:00.000Z",
+      "updatedAt": "2026-08-12T00:00:00.000Z"
+    },
+    {
+      "id": "8fa429fc-a211-4dcf-8ff6-8d957e81d152",
+      "company": "Panasonic",
+      "title": "Software Engineer I – Embedded Systems",
+      "locations": [
+        "Irvine, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.na.panasonic.com/jobs/50269?lang=en-us",
+      "url": "https://trueinterview.io/jobs/8fa429fc-a211-4dcf-8ff6-8d957e81d152",
       "postedAt": "2026-08-12T00:00:00.000Z",
       "updatedAt": "2026-08-12T00:00:00.000Z"
     },
@@ -80872,7 +80996,8 @@
         "Redmond, WA",
         "Cape Canaveral, FL",
         "Hawthorne, CA",
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -81163,7 +81288,8 @@
       "company": "SpaceX",
       "title": "Starship Engineer, FOD Control",
       "locations": [
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -81216,7 +81342,8 @@
       "locations": [
         "USA - Sunnyvale, CA",
         "USA - Austin, TX",
-        "USA - Redmond, WA"
+        "USA - Redmond, WA",
+        "USA - Sunnyvale, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -81241,7 +81368,8 @@
       "company": "KLA",
       "title": "Customer Engagement Applications Engineer - SFS",
       "locations": [
-        "Hillsboro, OR"
+        "Hillsboro, OR",
+        "Hillsboro, OR, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -81697,7 +81825,8 @@
         "Austin, TX",
         "Austin - 800",
         "Palo Alto - 1200",
-        "Palo Alto, CA"
+        "Palo Alto, CA",
+        "Austin, Texas, United States"
       ],
       "cities": [
         "Austin, TX",
@@ -83262,7 +83391,8 @@
       "company": "CrowdStrike",
       "title": "AI Research Scientist, Agentic Systems (Remote)",
       "locations": [
-        "USA - Remote"
+        "USA - Remote",
+        "USA - Remote, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -83287,7 +83417,8 @@
       "company": "CrowdStrike",
       "title": "Product Security Engineer, Application Security (Remote)",
       "locations": [
-        "USA - Remote"
+        "USA - Remote",
+        "USA - Remote, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -83342,7 +83473,8 @@
         "Washington - Seattle",
         "Indiana - Indianapolis",
         "Washington - Bellevue",
-        "Texas - Dallas"
+        "Texas - Dallas",
+        "California - San Francisco, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -84885,7 +85017,8 @@
       "company": "SpaceX",
       "title": "Electrical Design Engineer, Satellites Payload (Starlink)",
       "locations": [
-        "Palo Alto, CA"
+        "Palo Alto, CA",
+        "Palo Alto - 1200"
       ],
       "cities": [
         "Palo Alto, CA"
@@ -86594,7 +86727,8 @@
       "company": "KLA",
       "title": "Customer Support Engineer - FaST Products",
       "locations": [
-        "Phoenix, AZ"
+        "Phoenix, AZ",
+        "Phoenix, AZ, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -87489,7 +87623,14 @@
         "McGregor, TX",
         "Vandenberg, CA",
         "Cape Canaveral, FL",
-        "Redmond, WA"
+        "Redmond, WA",
+        "Bastrop, TX, United States",
+        "Cape Canaveral, FL, United States",
+        "McGregor, TX, United States",
+        "Redmond, WA, United States",
+        "Brownsville, TX, United States",
+        "Vandenberg, CA, United States",
+        "Hawthorne, CA, United States"
       ],
       "cities": [],
       "countries": [
@@ -87796,88 +87937,6 @@
       "updatedAt": "2026-07-30T00:00:00.000Z"
     },
     {
-      "id": "c25d966e-ed92-4fa0-b59c-23e5be138c28",
-      "company": "QUALCOMM",
-      "title": "#AI Infrastructure Software Engineer",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720212566",
-      "url": "https://trueinterview.io/jobs/c25d966e-ed92-4fa0-b59c-23e5be138c28",
-      "postedAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z"
-    },
-    {
-      "id": "bb18cce8-b955-4248-8c66-f5d53a068181",
-      "company": "QUALCOMM",
-      "title": "RTL Feasibility Engineer, AI/ML Processors",
-      "locations": [
-        "Austin, TX, US"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446718461178",
-      "url": "https://trueinterview.io/jobs/bb18cce8-b955-4248-8c66-f5d53a068181",
-      "postedAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z"
-    },
-    {
-      "id": "1d061f6b-d601-45e9-8d64-aade18cd4733",
-      "company": "QUALCOMM",
-      "title": "Video Research Engineer (Multiple Levels)",
-      "locations": [
-        "San Diego, CA, US",
-        "Hsinchu, Hsinchu City, TW",
-        "Munich, BY, DE"
-      ],
-      "cities": [
-        "Munich"
-      ],
-      "countries": [
-        "United States",
-        "Germany"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446716320059",
-      "url": "https://trueinterview.io/jobs/1d061f6b-d601-45e9-8d64-aade18cd4733",
-      "postedAt": "2026-07-30T00:00:00.000Z",
-      "updatedAt": "2026-07-30T00:00:00.000Z"
-    },
-    {
       "id": "46068e53-2b51-4128-bd7e-22bf8d862c99",
       "company": "Cloudflare",
       "title": "Software Engineer, Cloudflare Network Interconnect",
@@ -87966,7 +88025,9 @@
       "title": "Software Engineer, Telemetry (Starlink)",
       "locations": [
         "Hawthorne, CA",
-        "Redmond, WA"
+        "Redmond, WA",
+        "Redmond, WA, United States",
+        "Hawthorne, CA, United States"
       ],
       "cities": [],
       "countries": [
@@ -87991,7 +88052,8 @@
       "company": "SpaceX",
       "title": "Software Engineer, Data (Starlink)",
       "locations": [
-        "Hawthorne, CA"
+        "Hawthorne, CA",
+        "Redmond, WA, United States"
       ],
       "cities": [],
       "countries": [
@@ -88016,7 +88078,8 @@
       "company": "SpaceX",
       "title": "Full Stack Software Engineer, Data (Starlink)",
       "locations": [
-        "Redmond, WA"
+        "Redmond, WA",
+        "Hawthorne, CA, United States"
       ],
       "cities": [],
       "countries": [
@@ -88113,31 +88176,6 @@
       "updatedAt": "2026-07-29T00:00:00.000Z"
     },
     {
-      "id": "c220fc31-ca9f-4b76-ac1b-48bb945cd69e",
-      "company": "QUALCOMM",
-      "title": "Computer Vision Engineer",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720178575",
-      "url": "https://trueinterview.io/jobs/c220fc31-ca9f-4b76-ac1b-48bb945cd69e",
-      "postedAt": "2026-07-29T00:00:00.000Z",
-      "updatedAt": "2026-07-29T00:00:00.000Z"
-    },
-    {
       "id": "8bd356ac-d0ce-41d9-8277-8ff17ffb4731",
       "company": "QUALCOMM",
       "title": "Software Engineer - Modem",
@@ -88173,7 +88211,14 @@
         "McGregor, TX",
         "Cape Canaveral, FL",
         "Redmond, WA",
-        "Vandenberg, CA"
+        "Vandenberg, CA",
+        "Bastrop, TX, United States",
+        "Cape Canaveral, FL, United States",
+        "McGregor, TX, United States",
+        "Redmond, WA, United States",
+        "Brownsville, TX, United States",
+        "Vandenberg, CA, United States",
+        "Hawthorne, CA, United States"
       ],
       "cities": [],
       "countries": [
@@ -88411,31 +88456,6 @@
       "updatedAt": "2026-07-28T00:00:00.000Z"
     },
     {
-      "id": "1080e85f-3a2f-4eeb-9dc9-8b39d112f1fa",
-      "company": "QUALCOMM",
-      "title": "#Platform SW Engineer, Automotive",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Platform Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446718852057",
-      "url": "https://trueinterview.io/jobs/1080e85f-3a2f-4eeb-9dc9-8b39d112f1fa",
-      "postedAt": "2026-07-28T00:00:00.000Z",
-      "updatedAt": "2026-07-28T00:00:00.000Z"
-    },
-    {
       "id": "b469c70a-98a0-4079-84db-effb17794150",
       "company": "QUALCOMM",
       "title": "ASIC DTCO, Timing and Technology Engineer",
@@ -88465,7 +88485,8 @@
       "company": "Square",
       "title": "Software Engineer, Reconciliation & Reporting",
       "locations": [
-        "Bay Area, CA, United States of America"
+        "Bay Area, CA, United States of America",
+        "US - CA - SoCal - Remote"
       ],
       "cities": [],
       "countries": [
@@ -88669,7 +88690,8 @@
       "company": "Spacex",
       "title": "Full Stack Software Engineer, Manufacturing",
       "locations": [
-        "Starbase, TX"
+        "Starbase, TX",
+        "Brownsville, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -89594,56 +89616,6 @@
       "url": "https://trueinterview.io/jobs/8eb9b266-244b-4beb-9b6d-6f7a0a115d91",
       "postedAt": "2026-07-22T00:00:00.000Z",
       "updatedAt": "2026-07-22T00:00:00.000Z"
-    },
-    {
-      "id": "eeecc50e-3a45-4345-9578-369aca5c662a",
-      "company": "SpaceX",
-      "title": "Silicon Photonics Design Engineer (RFIC Engineering)",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8642064002?gh_jid=8642064002",
-      "url": "https://trueinterview.io/jobs/eeecc50e-3a45-4345-9578-369aca5c662a",
-      "postedAt": "2026-07-21T16:25:04.000Z",
-      "updatedAt": "2026-07-21T16:25:04.000Z"
-    },
-    {
-      "id": "36d669d1-b686-4c6c-8cb7-4723cde636bf",
-      "company": "SpaceX",
-      "title": "High-Speed Electro-Optical IC Engineer (RFIC Engineering)",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8642065002?gh_jid=8642065002",
-      "url": "https://trueinterview.io/jobs/36d669d1-b686-4c6c-8cb7-4723cde636bf",
-      "postedAt": "2026-07-21T16:24:48.000Z",
-      "updatedAt": "2026-07-21T16:24:48.000Z"
     }
   ]
 }
