@@ -6,9 +6,35 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-19T04:21:00.068Z",
-  "count": 3397,
+  "fetchedAt": "2026-09-19T09:22:00.144Z",
+  "count": 3405,
   "listings": [
+    {
+      "id": "3f8e5241-f4c4-41d9-81f6-0cc1f937a0f3",
+      "company": "NetApp",
+      "title": "Technical Support Engineer",
+      "locations": [
+        "Wichita, Kansas, United States",
+        "Morrisville, North Carolina, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.netapp.com/job/wichita/technical-support-engineer/27600/100842220816",
+      "url": "https://trueinterview.io/jobs/3f8e5241-f4c4-41d9-81f6-0cc1f937a0f3",
+      "postedAt": "2026-09-19T08:23:10.000Z",
+      "updatedAt": "2026-09-19T08:23:10.000Z"
+    },
     {
       "id": "75e6c398-5d2e-4e11-a54f-e14afde5a417",
       "company": "Pallet",
@@ -93,6 +119,27 @@
       "updatedAt": "2026-09-19T00:00:00.000Z"
     },
     {
+      "id": "28d32212-808d-4601-a7fe-83073ca2efa8",
+      "company": "Canonical",
+      "title": "Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch",
+      "locations": [],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/canonical/jobs/software-engineer-data-infrastructure-opensearch-elasticsearch",
+      "url": "https://trueinterview.io/jobs/28d32212-808d-4601-a7fe-83073ca2efa8",
+      "postedAt": "2026-09-19T00:00:00.000Z",
+      "updatedAt": "2026-09-19T00:00:00.000Z"
+    },
+    {
       "id": "8a9e3cad-b573-44ee-b764-3a18b1b91404",
       "company": "ChapsVision",
       "title": "Stage Software Engineer",
@@ -116,6 +163,29 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/chapsvision/jobs/stage-software-engineer_paris",
       "url": "https://trueinterview.io/jobs/8a9e3cad-b573-44ee-b764-3a18b1b91404",
+      "postedAt": "2026-09-19T00:00:00.000Z",
+      "updatedAt": "2026-09-19T00:00:00.000Z"
+    },
+    {
+      "id": "9b1666eb-914a-4204-b3e4-0087f0e86520",
+      "company": "CircleCI",
+      "title": "Software Engineer",
+      "locations": [
+        "Anywhere in the World"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/circleci-software-engineer",
+      "url": "https://trueinterview.io/jobs/9b1666eb-914a-4204-b3e4-0087f0e86520",
       "postedAt": "2026-09-19T00:00:00.000Z",
       "updatedAt": "2026-09-19T00:00:00.000Z"
     },
@@ -172,6 +242,33 @@
       "updatedAt": "2026-09-19T00:00:00.000Z"
     },
     {
+      "id": "6fca024a-e3d0-42ad-b643-a7c84a3074ba",
+      "company": "Dolby",
+      "title": "DVIP QA / Software Engineer in Test",
+      "locations": [
+        "Sunnyvale, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://4dayweek.io/job/dvip-qa-software-engineer-in-test-at-dolby-79e5a57c",
+      "url": "https://trueinterview.io/jobs/6fca024a-e3d0-42ad-b643-a7c84a3074ba",
+      "postedAt": "2026-09-19T00:00:00.000Z",
+      "updatedAt": "2026-09-19T00:00:00.000Z"
+    },
+    {
       "id": "2e2fc098-27c3-4be9-934a-93c61b5eb62d",
       "company": "Endor Labs",
       "title": "Backend Software Engineer",
@@ -195,6 +292,29 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/endor-labs/jobs/member-of-technical-staff-backend-software-engineer_palo-alto_lkvbpmfj",
       "url": "https://trueinterview.io/jobs/2e2fc098-27c3-4be9-934a-93c61b5eb62d",
+      "postedAt": "2026-09-19T00:00:00.000Z",
+      "updatedAt": "2026-09-19T00:00:00.000Z"
+    },
+    {
+      "id": "782d57a3-769a-46ce-85fd-343b69bc222e",
+      "company": "Hex Technologies",
+      "title": "Cloud Security Engineer",
+      "locations": [
+        "Anywhere in the World"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer",
+      "url": "https://trueinterview.io/jobs/782d57a3-769a-46ce-85fd-343b69bc222e",
       "postedAt": "2026-09-19T00:00:00.000Z",
       "updatedAt": "2026-09-19T00:00:00.000Z"
     },
@@ -253,6 +373,31 @@
       "updatedAt": "2026-09-19T00:00:00.000Z"
     },
     {
+      "id": "6ba5a53a-e28c-4ced-912d-9e3546a24043",
+      "company": "K.L. Scott & Associates LLC",
+      "title": "SAP Process Integration (PI) Process Orchestration (PO) Integration Engineer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/k-l-scott-associates-llc/jobs/sap-process-integration-pi-process-orchestration-po-integration-engineer",
+      "url": "https://trueinterview.io/jobs/6ba5a53a-e28c-4ced-912d-9e3546a24043",
+      "postedAt": "2026-09-19T00:00:00.000Z",
+      "updatedAt": "2026-09-19T00:00:00.000Z"
+    },
+    {
       "id": "69bc2b9f-17d3-457d-8c4d-0d67f0755d4b",
       "company": "Leidos",
       "title": "Java Web Application Developer",
@@ -301,6 +446,56 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/link-consulting/jobs/data-engineer-h-f-cdi_toulouse",
       "url": "https://trueinterview.io/jobs/488c7470-ffd5-4a0d-a893-dcc5e19f64b8",
+      "postedAt": "2026-09-19T00:00:00.000Z",
+      "updatedAt": "2026-09-19T00:00:00.000Z"
+    },
+    {
+      "id": "bb4d0853-e5ea-431d-b63e-706245cccb6f",
+      "company": "Lucidya",
+      "title": "Frontend Software Engineer",
+      "locations": [
+        "Riyadh, Saudi Arabia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://4dayweek.io/job/frontend-software-engineer-at-lucidya-8fa81b9b",
+      "url": "https://trueinterview.io/jobs/bb4d0853-e5ea-431d-b63e-706245cccb6f",
+      "postedAt": "2026-09-19T00:00:00.000Z",
+      "updatedAt": "2026-09-19T00:00:00.000Z"
+    },
+    {
+      "id": "0e394468-35ca-49b9-92df-41ad0e3f0ded",
+      "company": "LUZA Group",
+      "title": "BI Developer/Analyst",
+      "locations": [
+        "Portugal"
+      ],
+      "cities": [],
+      "countries": [
+        "Portugal"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/luza-group/jobs/bi-developer-analyst",
+      "url": "https://trueinterview.io/jobs/0e394468-35ca-49b9-92df-41ad0e3f0ded",
       "postedAt": "2026-09-19T00:00:00.000Z",
       "updatedAt": "2026-09-19T00:00:00.000Z"
     },
