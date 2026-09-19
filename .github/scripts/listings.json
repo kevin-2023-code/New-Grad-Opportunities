@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-19T20:28:42.258Z",
-  "count": 3398,
+  "fetchedAt": "2026-09-19T22:52:29.355Z",
+  "count": 3391,
   "listings": [
     {
       "id": "cbe2eb01-5866-4649-ab42-c6845017a9a5",
@@ -717,6 +717,31 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/maintainx/jobs/applied-ai-engineer_us_tp4epqlc",
       "url": "https://trueinterview.io/jobs/bf8ef6dd-aa0d-43ff-82cb-7730369df91e",
+      "postedAt": "2026-09-19T00:00:00.000Z",
+      "updatedAt": "2026-09-19T00:00:00.000Z"
+    },
+    {
+      "id": "51d5223a-a59d-46da-ad96-fd0cdc545693",
+      "company": "Nagarro",
+      "title": "Test Automation Engineer",
+      "locations": [
+        "Romania"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/nagarro/jobs/test-automation-engineer",
+      "url": "https://trueinterview.io/jobs/51d5223a-a59d-46da-ad96-fd0cdc545693",
       "postedAt": "2026-09-19T00:00:00.000Z",
       "updatedAt": "2026-09-19T00:00:00.000Z"
     },
@@ -7757,7 +7782,8 @@
       "company": "Samsung",
       "title": "CVD Process Engineer - Days",
       "locations": [
-        "1530 FM 973 Taylor, TX, USA"
+        "1530 FM 973 Taylor, TX, USA",
+        "1530 FM 973 Taylor, TX, USA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -7782,7 +7808,8 @@
       "company": "Samsung",
       "title": "Diffusion Equipment Engineer - All Shifts",
       "locations": [
-        "1530 FM 973 Taylor, TX, USA"
+        "1530 FM 973 Taylor, TX, USA",
+        "1530 FM 973 Taylor, TX, USA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8012,7 +8039,8 @@
       "title": "Photo Equipment Engineer - Scanner",
       "locations": [
         "1530 FM 973 Taylor, TX, USA",
-        "12100 Samsung Blvd, Austin, TX, USA"
+        "12100 Samsung Blvd, Austin, TX, USA",
+        "1530 FM 973 Taylor, TX, USA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8038,7 +8066,8 @@
       "title": "Photo Equipment Engineer - Spinner",
       "locations": [
         "12100 Samsung Blvd, Austin, TX, USA",
-        "1530 FM 973 Taylor, TX, USA"
+        "1530 FM 973 Taylor, TX, USA",
+        "1530 FM 973 Taylor, TX, USA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8090,7 +8119,8 @@
       "company": "Samsung",
       "title": "Photo Quality Engineer",
       "locations": [
-        "1530 FM 973 Taylor, TX, USA"
+        "1530 FM 973 Taylor, TX, USA",
+        "1530 FM 973 Taylor, TX, USA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8489,7 +8519,8 @@
       "company": "KLA",
       "title": "Algorithm Engineer - Deep Learning",
       "locations": [
-        "Milpitas, CA"
+        "Milpitas, CA",
+        "Milpitas, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8621,7 +8652,8 @@
       "company": "KLA",
       "title": "Customer Engagement Applications Engineer - X Ray Metrology",
       "locations": [
-        "USA-ID-Boise-KLA"
+        "USA-ID-Boise-KLA",
+        "USA-ID-Boise-KLA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8688,7 +8720,8 @@
         "Richardson, TX",
         "Chandler, AZ",
         "Boise, ID, United States of America",
-        "Malta, NY, United States of America"
+        "Malta, NY, United States of America",
+        "Austin, TX, United States of America"
       ],
       "cities": [
         "Austin, TX"
@@ -8715,7 +8748,8 @@
       "company": "KLA",
       "title": "Electrical Manufacturing Design Engineer",
       "locations": [
-        "Milpitas, CA"
+        "Milpitas, CA",
+        "Milpitas, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8765,7 +8799,8 @@
       "company": "KLA",
       "title": "Embedded Software Engineer",
       "locations": [
-        "Milpitas, CA"
+        "Milpitas, CA",
+        "Milpitas, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8891,7 +8926,8 @@
       "company": "KLA",
       "title": "HPC Storage Engineer",
       "locations": [
-        "Ann Arbor, MI"
+        "Ann Arbor, MI",
+        "Ann Arbor, MI, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9050,7 +9086,9 @@
       "title": "Opto-Mechanical Design Engineer",
       "locations": [
         "Ann Arbor, MI",
-        "Milpitas, CA"
+        "Milpitas, CA",
+        "Ann Arbor, MI, United States of America",
+        "Milpitas, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9075,7 +9113,8 @@
       "company": "KLA",
       "title": "Product Applications Development Engineer, MACH Hillsboro/Beaverton",
       "locations": [
-        "Hillsboro, OR"
+        "Hillsboro, OR",
+        "Hillsboro, OR, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9204,7 +9243,8 @@
       "locations": [
         "Milpitas, CA",
         "Austin, TX",
-        "Austin, TX, United States of America"
+        "Austin, TX, United States of America",
+        "Milpitas, CA, United States of America"
       ],
       "cities": [
         "Austin, TX"
@@ -9231,7 +9271,8 @@
       "company": "KLA",
       "title": "Regional Applications Engineer",
       "locations": [
-        "Milpitas, CA"
+        "Milpitas, CA",
+        "Milpitas, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9283,7 +9324,8 @@
       "company": "KLA",
       "title": "Regional Development Applications Engineer",
       "locations": [
-        "Hillsboro, OR"
+        "Hillsboro, OR",
+        "Hillsboro, OR, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9335,7 +9377,9 @@
       "title": "Software Engineer (C++, OOD/OOP, Linux)",
       "locations": [
         "Milpitas, CA",
-        "Austin, TX"
+        "Austin, TX",
+        "Milpitas, CA, United States of America",
+        "Austin, TX, United States of America"
       ],
       "cities": [
         "Austin, TX"
@@ -9760,7 +9804,8 @@
       "company": "Intel",
       "title": "Intel Foundry Module Development Engineer",
       "locations": [
-        "US, Oregon, Hillsboro"
+        "US, Oregon, Hillsboro",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9786,7 +9831,9 @@
       "title": "Manufacturing Engineer",
       "locations": [
         "US, Oregon, Hillsboro",
-        "US, New Mexico, Albuquerque"
+        "US, New Mexico, Albuquerque",
+        "US, Oregon, Hillsboro, United States of America",
+        "US, New Mexico, Albuquerque, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9839,7 +9886,8 @@
       "locations": [
         "US, Oregon, Hillsboro",
         "US, Arizona, Phoenix",
-        "US, Arizona, Phoenix, United States of America"
+        "US, Arizona, Phoenix, United States of America",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9864,7 +9912,8 @@
       "company": "Intel",
       "title": "Ocotillo Technology Fabrication DSIRE (Diffusion) Module Engineer",
       "locations": [
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, Arizona, Phoenix, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9889,7 +9938,8 @@
       "company": "Intel",
       "title": "Package Failure Analysis Engineer",
       "locations": [
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, Arizona, Phoenix, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9966,7 +10016,8 @@
       "company": "Intel",
       "title": "Quantum Computing Measurement Engineer",
       "locations": [
-        "US, Oregon, Hillsboro"
+        "US, Oregon, Hillsboro",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9993,7 +10044,10 @@
       "locations": [
         "US, Texas, Austin",
         "US, California, Folsom",
-        "US, Oregon, Hillsboro"
+        "US, Oregon, Hillsboro",
+        "US, Texas, Austin, United States of America",
+        "US, California, Folsom, United States of America",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -10045,7 +10099,9 @@
       "title": "System Software Engineer",
       "locations": [
         "US, Arizona, Phoenix",
-        "US, Oregon, Hillsboro"
+        "US, Oregon, Hillsboro",
+        "US, Arizona, Phoenix, United States of America",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -10096,7 +10152,8 @@
       "company": "Intel",
       "title": "Yield Development Engineer",
       "locations": [
-        "US, Oregon, Hillsboro"
+        "US, Oregon, Hillsboro",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -10178,7 +10235,8 @@
       "company": "Cisco",
       "title": "Analog/mixed-signal IC Design Engineer - Acacia (Hybrid)",
       "locations": [
-        "San Jose, California, US"
+        "San Jose, California, US",
+        "San Jose, California, US, United States of America"
       ],
       "cities": [
         "San Jose, CA"
@@ -10231,7 +10289,8 @@
       "company": "Cisco",
       "title": "Hardware Engineer - System Board Design (PCB) (Onsite)",
       "locations": [
-        "Milpitas, California, US"
+        "Milpitas, California, US",
+        "Milpitas, California, US, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -10256,7 +10315,8 @@
       "company": "Cisco",
       "title": "Integrated Photonic Test Engineer - Acacia (Hybrid)",
       "locations": [
-        "Holmdel, New Jersey, US"
+        "Holmdel, New Jersey, US",
+        "Holmdel, New Jersey, US, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -10602,7 +10662,8 @@
       "company": "Cisco",
       "title": "ASIC Design Engineer, STA",
       "locations": [
-        "San Jose, California, US"
+        "San Jose, California, US",
+        "San Jose, California, US, United States of America"
       ],
       "cities": [
         "San Jose, CA"
@@ -10685,7 +10746,8 @@
       "company": "Cisco",
       "title": "Integrated Photonic Test Engineer",
       "locations": [
-        "Holmdel, New Jersey, US"
+        "Holmdel, New Jersey, US",
+        "Holmdel, New Jersey, US, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -10710,7 +10772,8 @@
       "company": "Cisco",
       "title": "Photonic Design Verification Test Engineer - Acacia (Onsite)",
       "locations": [
-        "Holmdel, New Jersey, US"
+        "Holmdel, New Jersey, US",
+        "Holmdel, New Jersey, US, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -12055,7 +12118,8 @@
       "company": "Analog Devices",
       "title": "Engineer: Embedded Audio Software",
       "locations": [
-        "US, CA, San Jose, Rio Robles"
+        "US, CA, San Jose, Rio Robles",
+        "US, CA, San Jose, Rio Robles, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -12184,7 +12248,8 @@
       "company": "Analog Devices",
       "title": "Systems Integration Engineer – Robotic",
       "locations": [
-        "US, MA, Wilmington"
+        "US, MA, Wilmington",
+        "US, MA, Wilmington, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -17716,31 +17781,6 @@
       "source": "trueinterview",
       "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--Full-Stack-Developer---React-GCC-Advisory-Bangalore_746091WD-1",
       "url": "https://trueinterview.io/jobs/c7e48fb6-fce2-44e9-a849-3213ec316968",
-      "postedAt": "2026-09-15T00:00:00.000Z",
-      "updatedAt": "2026-09-15T00:00:00.000Z"
-    },
-    {
-      "id": "0b95bb70-9072-468a-b565-114412f04469",
-      "company": "QUALCOMM",
-      "title": "Hardware Engineer",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446721106960",
-      "url": "https://trueinterview.io/jobs/0b95bb70-9072-468a-b565-114412f04469",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -59695,31 +59735,6 @@
       "updatedAt": "2026-08-27T00:00:00.000Z"
     },
     {
-      "id": "e3cf2b92-b4b4-488d-9584-27249d5dd20b",
-      "company": "QUALCOMM",
-      "title": "#Pre-Silicon Validation Engineer",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720593529",
-      "url": "https://trueinterview.io/jobs/e3cf2b92-b4b4-488d-9584-27249d5dd20b",
-      "postedAt": "2026-08-27T00:00:00.000Z",
-      "updatedAt": "2026-08-27T00:00:00.000Z"
-    },
-    {
       "id": "20ead24e-ff84-4a37-a176-baf40739fc5d",
       "company": "Spacex",
       "title": "Electrical Engineer, Launch Pad (Starship)",
@@ -61405,56 +61420,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44121113",
       "url": "https://trueinterview.io/jobs/e30ae350-2d90-4fcd-8cbd-b30532389524",
-      "postedAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z"
-    },
-    {
-      "id": "4fbcec1a-227d-483f-bba1-25acc8110ec5",
-      "company": "QUALCOMM",
-      "title": "SOC Power Architecture Engineer",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446719802797",
-      "url": "https://trueinterview.io/jobs/4fbcec1a-227d-483f-bba1-25acc8110ec5",
-      "postedAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z"
-    },
-    {
-      "id": "e84a5815-1c61-4059-882d-40c093faef9c",
-      "company": "QUALCOMM",
-      "title": "Video DV Engineer",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446719722609",
-      "url": "https://trueinterview.io/jobs/e84a5815-1c61-4059-882d-40c093faef9c",
       "postedAt": "2026-08-26T00:00:00.000Z",
       "updatedAt": "2026-08-26T00:00:00.000Z"
     },
@@ -71373,31 +71338,6 @@
       "updatedAt": "2026-08-18T00:00:00.000Z"
     },
     {
-      "id": "96a86c42-3f47-4780-91a8-e2d7e1519678",
-      "company": "QUALCOMM",
-      "title": "Computer Vision System Engineer",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446718686256",
-      "url": "https://trueinterview.io/jobs/96a86c42-3f47-4780-91a8-e2d7e1519678",
-      "postedAt": "2026-08-18T00:00:00.000Z",
-      "updatedAt": "2026-08-18T00:00:00.000Z"
-    },
-    {
       "id": "65ffec22-fd8d-42e2-a3f3-adf5a053f201",
       "company": "Hasbro",
       "title": "Systems Administrator",
@@ -80324,7 +80264,8 @@
       "title": "product application engineer",
       "locations": [
         "USA-CA Irvine Alton Parkway Bldg 2",
-        "USA-CA San Jose Innovation Drive"
+        "USA-CA San Jose Innovation Drive",
+        "USA-CA Irvine Alton Parkway Bldg 2, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -87877,31 +87818,6 @@
       "updatedAt": "2026-07-29T00:00:00.000Z"
     },
     {
-      "id": "8e56d59c-634b-4468-971b-56657bb7f1a0",
-      "company": "QUALCOMM",
-      "title": "#Embedded Software Engineer - Video Technology",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720174471",
-      "url": "https://trueinterview.io/jobs/8e56d59c-634b-4468-971b-56657bb7f1a0",
-      "postedAt": "2026-07-29T00:00:00.000Z",
-      "updatedAt": "2026-07-29T00:00:00.000Z"
-    },
-    {
       "id": "fcb3dd73-376f-4ac3-91b3-2fc83981578b",
       "company": "SpaceX",
       "title": "Operations Engineer, Applied AI (Application Software)",
@@ -88312,31 +88228,6 @@
       "updatedAt": "2026-07-27T00:00:00.000Z"
     },
     {
-      "id": "2d3c445f-79ec-498c-b0d5-b511c4a75cbd",
-      "company": "QUALCOMM",
-      "title": "#Systems SoC Test Engineer",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446719874307",
-      "url": "https://trueinterview.io/jobs/2d3c445f-79ec-498c-b0d5-b511c4a75cbd",
-      "postedAt": "2026-07-27T00:00:00.000Z",
-      "updatedAt": "2026-07-27T00:00:00.000Z"
-    },
-    {
       "id": "32cc2090-a747-46f9-af14-ff4c60368570",
       "company": "Esri",
       "title": "GIS Solution Engineer - Airports",
@@ -88696,31 +88587,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/Equipment-Engineer-ECHO-Fab_R-10063588",
       "url": "https://trueinterview.io/jobs/046769fd-d07f-4b8f-8aa6-279af8b3b596",
-      "postedAt": "2026-07-24T00:00:00.000Z",
-      "updatedAt": "2026-07-24T00:00:00.000Z"
-    },
-    {
-      "id": "3b48f674-f58c-45fc-9e69-356b050d8337",
-      "company": "QUALCOMM",
-      "title": "Modem Integration & Test Engineer",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446719948366",
-      "url": "https://trueinterview.io/jobs/3b48f674-f58c-45fc-9e69-356b050d8337",
       "postedAt": "2026-07-24T00:00:00.000Z",
       "updatedAt": "2026-07-24T00:00:00.000Z"
     },
