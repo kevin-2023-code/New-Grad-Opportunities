@@ -1,0 +1,39 @@
+name: A role is missing
+description: A real opening that is not on the list.
+title: "[Missing]: company — role"
+labels: ["missing-role"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Two reasons a real role is absent, and both are fixable:
+
+        * **The catalog has not seen it.** The ingest is broad but not exhaustive.
+        * **It was classified out of this list** — read as a full-time role on the internship list,
+          as senior on the new-grad list, or as a non-technical field. Say so below and the
+          classification gets looked at.
+  - type: input
+    id: url
+    attributes:
+      label: The posting URL
+      description: The employer's own application page, not an aggregator.
+      placeholder: https://jobs.example.com/careers/12345
+    validations:
+      required: true
+  - type: input
+    id: company
+    attributes:
+      label: Company
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Job title
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      placeholder: Seattle, WA — or Remote (US)

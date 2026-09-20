@@ -27,16 +27,29 @@ export const CATEGORIES = [
  * The GitHub anchor for a heading, so the index links at its own sections.
  *
  * GitHub's rule, transcribed: lowercase, drop everything that is not a letter,
- * digit, space, hyphen or underscore, then turn the spaces into hyphens. It
- * does NOT trim, which is why a heading that opens with an emoji anchors at a
- * LEADING hyphen (`#-software-engineering`) — the space the emoji leaves behind
- * becomes one. Trimming it here is the one-character mistake that makes every
- * link in the index scroll to the top of the page instead.
+ * digit, COMBINING MARK, space, hyphen or underscore, then turn the spaces into
+ * hyphens. It does NOT trim, which is why a heading that opens with an emoji
+ * anchors at a LEADING hyphen (`#-software-engineering`) — the space the emoji
+ * leaves behind becomes one. Trimming it here is the one-character mistake that
+ * makes every link in the index scroll to the top of the page instead.
+ *
+ * Marks are KEPT because GitHub keeps them, and the one that matters is
+ * invisible. `🗂️` and `🏷️` are an emoji followed by U+FE0F VARIATION
+ * SELECTOR-16 (category Mn); github-slugger strips the emoji and keeps the
+ * selector, so `## 🗂️ By field` really anchors at `#️-by-field` with a leading
+ * character nothing renders. Dropping marks here produced `#-by-field`, and the
+ * two most-used jump links on both filter hubs scrolled to the top of the page.
+ * `📍` and `⚡` carry no selector, so those links worked — which is exactly why
+ * this was invisible by eye.
+ *
+ * Do not "fix" it by deleting the selector from the emoji instead: `🏷` and `☁`
+ * default to TEXT presentation, and the selector is what makes them render as
+ * emoji at all.
  */
 export function anchorOf(heading) {
   return heading
     .toLowerCase()
-    .replace(/[^\p{L}\p{N}\s_-]/gu, '')
+    .replace(/[^\p{L}\p{N}\p{M}\s_-]/gu, '')
     .replace(/\s/g, '-');
 }
 
