@@ -39,8 +39,8 @@ absent, both fixable:
 
 ## Adding a company to the registry
 
-The company filters — [Big Tech](./lists/company/big-tech.md), fintech, quant trading, mid-sized
-tech, startups — are derived from two facts about the **employer**, which no job posting carries:
+The company filters — Big Tech, fintech, quant trading, mid-sized tech, startups, and everything
+else on the [filter hub](./lists/README.md) — are derived from two facts about the **employer**, which no job posting carries:
 what sector it trades in, and how many people work there. Those live in one hand-written file,
 [`lib/company-registry.mjs`](./.github/scripts/lib/company-registry.mjs), keyed by the same slug
 every other surface files a company under.
