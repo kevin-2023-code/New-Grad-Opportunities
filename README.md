@@ -31,7 +31,7 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-20 19:15 UTC_
+_Last updated: 2026-09-20 19:16 UTC_
 
 **2,336 open new-grad roles** from **865 employers** · **552 posted in the last 7 days** · refreshed hourly
 
@@ -2400,7 +2400,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-[All 12 on one page →](lists/field/quantitative-finance.md)
+[Every Quantitative Finance role, both regions →](lists/field/quantitative-finance.md)
 
 ## 🧰 IT & Support
 

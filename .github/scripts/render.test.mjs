@@ -751,3 +751,37 @@ describe('the page cannot argue with itself', () => {
     assert.equal(sections.reduce((total, n) => total + n, 0), 42);
   });
 });
+
+describe('the link out of a section', () => {
+  it('never puts a count on a page this section did not count', () => {
+    // A field page carries BOTH regions; a README section counts one. "All 21
+    // on one page" pointed at a page holding 320, and the two READMEs
+    // advertised the same page as holding 1 and 6.
+    const page = renderListings({
+      jobs: [job({ id: 'a' }), job({ id: 'b' })],
+      now: NOW,
+      featuredDays: 14,
+      noun: 'roles',
+      backToTop: 'x',
+      sourceNote: 'note',
+      caps: { featured: 25, fold: 50 },
+      fieldPathOf: () => 'lists/field/software-engineering.md',
+    });
+    assert.ok(page.includes('both regions →'), page.slice(-400));
+    assert.ok(!/All \d+ on one page/.test(page));
+  });
+
+  it('counts the sample against this section when it is capped', () => {
+    const page = renderListings({
+      jobs: Array.from({ length: 10 }, (_, i) => job({ id: `${i}` })),
+      now: NOW,
+      featuredDays: 14,
+      noun: 'roles',
+      backToTop: 'x',
+      sourceNote: 'note',
+      caps: { featured: 2, fold: 2 },
+      fieldPathOf: () => 'lists/field/software-engineering.md',
+    });
+    assert.ok(page.includes('**Showing 2 of 10.**'));
+  });
+});

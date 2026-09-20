@@ -152,7 +152,12 @@ function renderSection(bucket, { now, featuredDays, backToTop, caps, trackPath }
       '',
     );
   } else if (trackPath) {
-    parts.push(`[All ${count(total)} on one page →](${trackPath})`, '');
+    // No count here. `total` is this FILE's rows — one region — and the page
+    // being linked carries both, so "All 21 on one page" pointed at a page
+    // holding 320. The two READMEs even advertised the same page as holding 1
+    // and 6. The section's own count is correct and is printed above; the link
+    // says what the page is, not how big it is.
+    parts.push(`[Every ${bucket.title} role, both regions →](${trackPath})`, '');
   }
   return parts.join('\n');
 }
