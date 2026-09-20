@@ -129,6 +129,12 @@ export function buildTracks(jobs, { now, minRows = MIN_TRACK_ROWS } = {}) {
       note:
         `Every posting the catalog classified into the ${category.family ?? 'unrecognised'} field. ` +
         'A posting is in exactly one field, so these six pages hold the whole list between them.',
+      // What the HUB prints. The same rule with the name taken out, so a table
+      // of six of these says it once rather than six times — the page itself
+      // still names the field, where naming it is the point.
+      rule:
+        'Every posting the catalog classified into that field. A posting is in exactly one field, ' +
+        'so these pages hold the whole list between them.',
       jobs: rows,
     });
   }
@@ -158,7 +164,7 @@ export function buildTracks(jobs, { now, minRows = MIN_TRACK_ROWS } = {}) {
       title: sector.label,
       blurb: sector.blurb,
       note:
-        `Every employer the company registry files under ${sector.label.toLowerCase()}, at any size. ` +
+        `Every employer the company registry files under ${sector.label}, at any size. ` +
         'The sector is a fact about the company recorded once, never inferred from a job title.',
       jobs: jobs.filter((job) => segmentFor(job).sector === sector.id),
     });
@@ -187,6 +193,9 @@ export function buildTracks(jobs, { now, minRows = MIN_TRACK_ROWS } = {}) {
       note:
         `Every posting the catalog classified as ${role}. Roles it could not place are filed as ` +
         '*Other* and appear on no role page — they are in the README and every other cut.',
+      rule:
+        'Every posting the catalog classified as that role. A posting it could not place is filed ' +
+        'as *Other* and is on no role page — it is in the README and in every other cut.',
       jobs: rows,
     });
   }

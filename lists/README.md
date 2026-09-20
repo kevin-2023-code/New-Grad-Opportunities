@@ -6,7 +6,7 @@ Every cut of the New Grad Opportunities list that has a page of its own. Each on
 
 [← Back to the list](../README.md)
 
-_Last updated: 2026-09-20 19:11 UTC_
+_Last updated: 2026-09-20 19:15 UTC_
 
 > **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 1,010 of the 1,388 employers on this list (84% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
@@ -28,14 +28,16 @@ _Last updated: 2026-09-20 19:11 UTC_
 
 The catalog's six technical fields — the same sections the main list is cut into, with every row rather than a sample.
 
-| Filter | Open roles | What it selects |
-| :-- | --: | :-- |
-| [💻 Software Engineering](field/software-engineering.md) | 2,091 | Every posting the catalog classified into the Software field. A posting is in exactly one field, so these six pages hold the whole list between them. |
-| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 664 | Every posting the catalog classified into the Data & AI field. A posting is in exactly one field, so these six pages hold the whole list between them. |
-| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 320 | Every posting the catalog classified into the Hardware & Engineering field. A posting is in exactly one field, so these six pages hold the whole list between them. |
-| [📱 Product & Design](field/product-and-design.md) | 167 | Every posting the catalog classified into the Product & Design field. A posting is in exactly one field, so these six pages hold the whole list between them. |
-| [🧰 IT & Support](field/it-and-support.md) | 131 | Every posting the catalog classified into the IT & Support field. A posting is in exactly one field, so these six pages hold the whole list between them. |
-| [📈 Quantitative Finance](field/quantitative-finance.md) | 22 | Every posting the catalog classified into the Quantitative Finance field. A posting is in exactly one field, so these six pages hold the whole list between them. |
+_Every posting the catalog classified into that field. A posting is in exactly one field, so these pages hold the whole list between them._
+
+| Filter | Open roles |
+| :-- | --: |
+| [💻 Software Engineering](field/software-engineering.md) | 2,091 |
+| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 664 |
+| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 320 |
+| [📱 Product & Design](field/product-and-design.md) | 167 |
+| [🧰 IT & Support](field/it-and-support.md) | 131 |
+| [📈 Quantitative Finance](field/quantitative-finance.md) | 22 |
 
 ---
 
@@ -47,28 +49,28 @@ Who the employer is: the size cut you were after, or the sector.
 | :-- | --: | :-- |
 | [🏛️ Big Tech](company/big-tech.md) | 663 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
 | [🏗️ Large tech (1,000–9,999)](company/large-tech.md) | 364 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 1,000 and 9,999 people. An employer the registry does not cover is in no size cut at all. |
-| [🔬 Semiconductors & chips](company/semiconductors.md) | 358 | Every employer the company registry files under semiconductors & chips, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🚀 Aerospace & defence](company/aerospace-defense.md) | 314 | Every employer the company registry files under aerospace & defence, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🧠 AI labs & AI infrastructure](company/ai.md) | 291 | Every employer the company registry files under ai labs & ai infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🧾 IT services & consulting](company/it-consulting.md) | 269 | Every employer the company registry files under it services & consulting, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🔬 Semiconductors & chips](company/semiconductors.md) | 358 | Every employer the company registry files under Semiconductors & chips, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🚀 Aerospace & defence](company/aerospace-defense.md) | 314 | Every employer the company registry files under Aerospace & defence, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🧠 AI labs & AI infrastructure](company/ai.md) | 291 | Every employer the company registry files under AI labs & AI infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🧾 IT services & consulting](company/it-consulting.md) | 269 | Every employer the company registry files under IT services & consulting, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🌱 Startups (under 200)](company/startups.md) | 238 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as fewer than 200 people. An employer the registry does not cover is in no size cut at all. |
-| [🖥️ Hardware, devices & networking](company/hardware-devices.md) | 235 | Every employer the company registry files under hardware, devices & networking, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🏢 Enterprise & business software](company/enterprise-saas.md) | 216 | Every employer the company registry files under enterprise & business software, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🖥️ Hardware, devices & networking](company/hardware-devices.md) | 235 | Every employer the company registry files under Hardware, devices & networking, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🏢 Enterprise & business software](company/enterprise-saas.md) | 216 | Every employer the company registry files under Enterprise & business software, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🏤 Mid-sized tech (200–999)](company/mid-size-tech.md) | 182 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 200 and 999 people. An employer the registry does not cover is in no size cut at all. |
-| [☁️ Developer tools, cloud & data infrastructure](company/dev-infra.md) | 159 | Every employer the company registry files under developer tools, cloud & data infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [💳 Fintech, payments & crypto](company/fintech.md) | 153 | Every employer the company registry files under fintech, payments & crypto, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🧬 Health, biotech & medical devices](company/health-bio.md) | 113 | Every employer the company registry files under health, biotech & medical devices, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🚗 Autonomy, automotive & mobility](company/autonomy-mobility.md) | 109 | Every employer the company registry files under autonomy, automotive & mobility, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [💼 Other industries](company/other-industry.md) | 102 | Every employer the company registry files under other industries, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🏦 Banks, insurers & asset managers](company/banking-finance.md) | 92 | Every employer the company registry files under banks, insurers & asset managers, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🔒 Cybersecurity](company/security.md) | 83 | Every employer the company registry files under cybersecurity, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🛒 E-commerce & marketplaces](company/ecommerce-marketplace.md) | 82 | Every employer the company registry files under e-commerce & marketplaces, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [📱 Consumer internet & media](company/consumer-internet.md) | 77 | Every employer the company registry files under consumer internet & media, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [📐 Engineering & architecture firms](company/engineering-services.md) | 71 | Every employer the company registry files under engineering & architecture firms, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [⚡ Energy, climate & industrial](company/energy-industrial.md) | 50 | Every employer the company registry files under energy, climate & industrial, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🏛️ Government, labs & universities](company/public-research.md) | 24 | Every employer the company registry files under government, labs & universities, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [📈 Quant trading & hedge funds](company/quant-trading.md) | 23 | Every employer the company registry files under quant trading & hedge funds, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🎮 Gaming & interactive](company/gaming.md) | 19 | Every employer the company registry files under gaming & interactive, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [☁️ Developer tools, cloud & data infrastructure](company/dev-infra.md) | 159 | Every employer the company registry files under Developer tools, cloud & data infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [💳 Fintech, payments & crypto](company/fintech.md) | 153 | Every employer the company registry files under Fintech, payments & crypto, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🧬 Health, biotech & medical devices](company/health-bio.md) | 113 | Every employer the company registry files under Health, biotech & medical devices, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🚗 Autonomy, automotive & mobility](company/autonomy-mobility.md) | 109 | Every employer the company registry files under Autonomy, automotive & mobility, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [💼 Other industries](company/other-industry.md) | 102 | Every employer the company registry files under Other industries, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🏦 Banks, insurers & asset managers](company/banking-finance.md) | 92 | Every employer the company registry files under Banks, insurers & asset managers, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🔒 Cybersecurity](company/security.md) | 83 | Every employer the company registry files under Cybersecurity, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🛒 E-commerce & marketplaces](company/ecommerce-marketplace.md) | 82 | Every employer the company registry files under E-commerce & marketplaces, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [📱 Consumer internet & media](company/consumer-internet.md) | 77 | Every employer the company registry files under Consumer internet & media, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [📐 Engineering & architecture firms](company/engineering-services.md) | 71 | Every employer the company registry files under Engineering & architecture firms, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [⚡ Energy, climate & industrial](company/energy-industrial.md) | 50 | Every employer the company registry files under Energy, climate & industrial, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🏛️ Government, labs & universities](company/public-research.md) | 24 | Every employer the company registry files under Government, labs & universities, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [📈 Quant trading & hedge funds](company/quant-trading.md) | 23 | Every employer the company registry files under Quant trading & hedge funds, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🎮 Gaming & interactive](company/gaming.md) | 19 | Every employer the company registry files under Gaming & interactive, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 
 ---
 
@@ -76,29 +78,31 @@ Who the employer is: the size cut you were after, or the sector.
 
 The catalog's own role classification, not a keyword search on the title.
 
-| Filter | Open roles | What it selects |
-| :-- | --: | :-- |
-| [Software Engineer](role/software-engineer.md) | 641 | Every posting the catalog classified as Software Engineer. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [AI Engineer](role/ai-engineer.md) | 243 | Every posting the catalog classified as AI Engineer. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [Data Engineer](role/data-engineer.md) | 196 | Every posting the catalog classified as Data Engineer. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [Full-Stack Engineer](role/full-stack-engineer.md) | 100 | Every posting the catalog classified as Full-Stack Engineer. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [Security Engineer](role/security-engineer.md) | 99 | Every posting the catalog classified as Security Engineer. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [Machine Learning Engineer](role/machine-learning-engineer.md) | 88 | Every posting the catalog classified as Machine Learning Engineer. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [Hardware Engineer](role/hardware-engineer.md) | 80 | Every posting the catalog classified as Hardware Engineer. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [Data Scientist](role/data-scientist.md) | 58 | Every posting the catalog classified as Data Scientist. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [Backend Engineer](role/backend-engineer.md) | 57 | Every posting the catalog classified as Backend Engineer. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [DevOps Engineer](role/devops-engineer.md) | 51 | Every posting the catalog classified as DevOps Engineer. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [Platform Engineer](role/platform-engineer.md) | 49 | Every posting the catalog classified as Platform Engineer. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [Research Scientist](role/research-scientist.md) | 45 | Every posting the catalog classified as Research Scientist. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [Site Reliability Engineer](role/site-reliability-engineer.md) | 37 | Every posting the catalog classified as Site Reliability Engineer. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [Data Analyst](role/data-analyst.md) | 34 | Every posting the catalog classified as Data Analyst. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [Mobile Engineer](role/mobile-engineer.md) | 33 | Every posting the catalog classified as Mobile Engineer. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [Frontend Engineer](role/frontend-engineer.md) | 31 | Every posting the catalog classified as Frontend Engineer. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [Embedded Engineer](role/embedded-engineer.md) | 29 | Every posting the catalog classified as Embedded Engineer. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [Product Manager](role/product-manager.md) | 26 | Every posting the catalog classified as Product Manager. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [Quantitative Trader](role/quantitative-trader.md) | 10 | Every posting the catalog classified as Quantitative Trader. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [Quantitative Researcher](role/quantitative-researcher.md) | 7 | Every posting the catalog classified as Quantitative Researcher. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
-| [Quantitative Developer](role/quantitative-developer.md) | 5 | Every posting the catalog classified as Quantitative Developer. Roles it could not place are filed as *Other* and appear on no role page — they are in the README and every other cut. |
+_Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
+
+| Filter | Open roles |
+| :-- | --: |
+| [Software Engineer](role/software-engineer.md) | 641 |
+| [AI Engineer](role/ai-engineer.md) | 243 |
+| [Data Engineer](role/data-engineer.md) | 196 |
+| [Full-Stack Engineer](role/full-stack-engineer.md) | 100 |
+| [Security Engineer](role/security-engineer.md) | 99 |
+| [Machine Learning Engineer](role/machine-learning-engineer.md) | 88 |
+| [Hardware Engineer](role/hardware-engineer.md) | 80 |
+| [Data Scientist](role/data-scientist.md) | 58 |
+| [Backend Engineer](role/backend-engineer.md) | 57 |
+| [DevOps Engineer](role/devops-engineer.md) | 51 |
+| [Platform Engineer](role/platform-engineer.md) | 49 |
+| [Research Scientist](role/research-scientist.md) | 45 |
+| [Site Reliability Engineer](role/site-reliability-engineer.md) | 37 |
+| [Data Analyst](role/data-analyst.md) | 34 |
+| [Mobile Engineer](role/mobile-engineer.md) | 33 |
+| [Frontend Engineer](role/frontend-engineer.md) | 31 |
+| [Embedded Engineer](role/embedded-engineer.md) | 29 |
+| [Product Manager](role/product-manager.md) | 26 |
+| [Quantitative Trader](role/quantitative-trader.md) | 10 |
+| [Quantitative Researcher](role/quantitative-researcher.md) | 7 |
+| [Quantitative Developer](role/quantitative-developer.md) | 5 |
 
 ---
 
@@ -106,42 +110,44 @@ The catalog's own role classification, not a keyword search on the title.
 
 Metro areas the postings actually resolve to.
 
-| Filter | Open roles | What it selects |
-| :-- | --: | :-- |
-| [🌉 SF Bay Area](place/bay-area.md) | 629 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🗽 New York City](place/new-york.md) | 221 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🎸 Austin](place/austin.md) | 180 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🌴 Los Angeles & Orange County](place/los-angeles.md) | 180 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🇫🇷 Paris & France](place/france.md) | 179 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🌲 Seattle & Puget Sound](place/seattle.md) | 145 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🇬🇧 London & the UK](place/uk.md) | 121 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🌧️ Portland & the Pacific Northwest](place/pacific-northwest.md) | 83 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🍁 Toronto, Waterloo & Ottawa](place/toronto.md) | 82 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🎓 Boston & Cambridge](place/boston.md) | 75 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🏛️ Washington DC & Northern Virginia](place/washington-dc.md) | 72 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🌵 Phoenix & Arizona](place/phoenix.md) | 56 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🏔️ Denver, Boulder & Colorado](place/denver-boulder.md) | 49 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🇮🇳 Bengaluru & India](place/india.md) | 48 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🌎 México, Brazil & Latin America](place/latam.md) | 42 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🌬️ Chicago](place/chicago.md) | 41 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🔺 Research Triangle & the Carolinas](place/research-triangle.md) | 36 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🤠 Dallas–Fort Worth](place/dallas-fort-worth.md) | 31 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🇩🇪 Berlin, Munich & Germany](place/germany.md) | 29 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🇪🇸 Madrid, Barcelona & Iberia](place/iberia.md) | 26 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🍑 Atlanta](place/atlanta.md) | 24 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🛢️ Houston, San Antonio & the rest of Texas](place/texas-other.md) | 24 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [⛰️ Vancouver & British Columbia](place/vancouver.md) | 20 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🥐 Montréal & Québec](place/montreal.md) | 18 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🇦🇺 Sydney, Melbourne & Aotearoa](place/anz.md) | 18 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🏖️ San Diego](place/san-diego.md) | 16 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🏜️ Salt Lake City & Utah](place/salt-lake-city.md) | 14 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🇸🇬 Singapore](place/singapore.md) | 13 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🇳🇱 Amsterdam & the Benelux](place/benelux.md) | 10 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🇮🇪 Dublin & Ireland](place/ireland.md) | 10 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🐎 Calgary & the Prairies](place/calgary.md) | 9 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [❄️ Stockholm & the Nordics](place/nordics.md) | 9 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🏰 Warsaw, Kraków & Central Europe](place/poland-cee.md) | 9 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🇰🇷 Seoul & Korea](place/korea.md) | 5 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+_A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page._
+
+| Filter | Open roles |
+| :-- | --: |
+| [🌉 SF Bay Area](place/bay-area.md) | 629 |
+| [🗽 New York City](place/new-york.md) | 221 |
+| [🎸 Austin](place/austin.md) | 180 |
+| [🌴 Los Angeles & Orange County](place/los-angeles.md) | 180 |
+| [🇫🇷 Paris & France](place/france.md) | 179 |
+| [🌲 Seattle & Puget Sound](place/seattle.md) | 145 |
+| [🇬🇧 London & the UK](place/uk.md) | 121 |
+| [🌧️ Portland & the Pacific Northwest](place/pacific-northwest.md) | 83 |
+| [🍁 Toronto, Waterloo & Ottawa](place/toronto.md) | 82 |
+| [🎓 Boston & Cambridge](place/boston.md) | 75 |
+| [🏛️ Washington DC & Northern Virginia](place/washington-dc.md) | 72 |
+| [🌵 Phoenix & Arizona](place/phoenix.md) | 56 |
+| [🏔️ Denver, Boulder & Colorado](place/denver-boulder.md) | 49 |
+| [🇮🇳 Bengaluru & India](place/india.md) | 48 |
+| [🌎 México, Brazil & Latin America](place/latam.md) | 42 |
+| [🌬️ Chicago](place/chicago.md) | 41 |
+| [🔺 Research Triangle & the Carolinas](place/research-triangle.md) | 36 |
+| [🤠 Dallas–Fort Worth](place/dallas-fort-worth.md) | 31 |
+| [🇩🇪 Berlin, Munich & Germany](place/germany.md) | 29 |
+| [🇪🇸 Madrid, Barcelona & Iberia](place/iberia.md) | 26 |
+| [🍑 Atlanta](place/atlanta.md) | 24 |
+| [🛢️ Houston, San Antonio & the rest of Texas](place/texas-other.md) | 24 |
+| [⛰️ Vancouver & British Columbia](place/vancouver.md) | 20 |
+| [🥐 Montréal & Québec](place/montreal.md) | 18 |
+| [🇦🇺 Sydney, Melbourne & Aotearoa](place/anz.md) | 18 |
+| [🏖️ San Diego](place/san-diego.md) | 16 |
+| [🏜️ Salt Lake City & Utah](place/salt-lake-city.md) | 14 |
+| [🇸🇬 Singapore](place/singapore.md) | 13 |
+| [🇳🇱 Amsterdam & the Benelux](place/benelux.md) | 10 |
+| [🇮🇪 Dublin & Ireland](place/ireland.md) | 10 |
+| [🐎 Calgary & the Prairies](place/calgary.md) | 9 |
+| [❄️ Stockholm & the Nordics](place/nordics.md) | 9 |
+| [🏰 Warsaw, Kraków & Central Europe](place/poland-cee.md) | 9 |
+| [🇰🇷 Seoul & Korea](place/korea.md) | 5 |
 
 ---
 

@@ -6,7 +6,7 @@
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
-> Every employer the company registry files under quant trading & hedge funds, at any size. The sector is a fact about the company recorded once, never inferred from a job title.
+> Every employer the company registry files under Quant trading & hedge funds, at any size. The sector is a fact about the company recorded once, never inferred from a job title.
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
 

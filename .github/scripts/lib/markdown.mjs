@@ -482,18 +482,22 @@ export function renderHub({ tracks, now, listName, noun, coverageNote, homeLabel
 
   for (const group of groups) {
     const ordered = [...group.tracks].sort((a, b) => b.jobs.length - a.jobs.length || a.title.localeCompare(b.title));
+    // A rule every filter in the group shares is printed ONCE, above the table.
+    // The version that put it in a column repeated the same sentence down 34
+    // location rows, which is not a table a reader can scan — and it makes the
+    // one group whose rules genuinely differ, company type, look the same as
+    // the ones where they do not.
+    const rules = new Set(ordered.map((track) => track.rule ?? track.note));
+    const shared = rules.size === 1 ? [...rules][0] : null;
+    body.push('---', '', `## ${group.emoji} ${group.title}`, '', group.blurb, '');
+    if (shared) body.push(`_${escapeMarkdown(shared)}_`, '');
     body.push(
-      '---',
-      '',
-      `## ${group.emoji} ${group.title}`,
-      '',
-      `${group.blurb}`,
-      '',
-      '| Filter | Open roles | What it selects |',
-      '| :-- | --: | :-- |',
-      ...ordered.map(
-        (track) =>
-          `| [${trackLabel(track)}](${track.path}.md) | ${count(track.jobs.length)} | ${escapeMarkdown(track.note)} |`,
+      shared ? '| Filter | Open roles |' : '| Filter | Open roles | What it selects |',
+      shared ? '| :-- | --: |' : '| :-- | --: | :-- |',
+      ...ordered.map((track) =>
+        shared
+          ? `| [${trackLabel(track)}](${track.path}.md) | ${count(track.jobs.length)} |`
+          : `| [${trackLabel(track)}](${track.path}.md) | ${count(track.jobs.length)} | ${escapeMarkdown(track.rule ?? track.note)} |`,
       ),
       '',
     );
