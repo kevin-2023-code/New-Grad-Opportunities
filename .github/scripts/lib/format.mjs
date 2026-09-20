@@ -36,6 +36,24 @@ export function safeUrl(value) {
   }
 }
 
+/**
+ * Escapes text bound for MARKDOWN rather than for a table cell.
+ *
+ * A different job from `escapeHtml` and worth its own function: `&` is ordinary
+ * text in Markdown and escaping it writes `&amp;` into a heading nobody asked
+ * for, while `[`, `]` and `|` are the two characters that silently break a link
+ * label and a table row. Escaping the wrong set is how "Semiconductors & chips"
+ * ends up on a page as "Semiconductors &amp;amp; chips".
+ */
+export function escapeMarkdown(value) {
+  return String(value ?? '')
+    .replace(/\\/g, '&#92;')
+    .replace(/\|/g, '&#124;')
+    .replace(/\[/g, '&#91;')
+    .replace(/\]/g, '&#93;')
+    .replace(/</g, '&lt;');
+}
+
 /** A link cell, or the plain escaped text when the URL is unusable. */
 export function link(text, href) {
   const url = safeUrl(href);
@@ -66,12 +84,35 @@ export function ageLabel(days) {
   return `${Math.max(1, Math.floor(days / 30))}mo`;
 }
 
+const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+/**
+ * The Posted cell: an absolute date, or an honest dash.
+ *
+ * Absolute rather than relative on purpose, and for two reasons. A filter page
+ * is a page somebody bookmarks, and `18 Sep` still means something a week later
+ * where `2d` quietly means the wrong thing. And a relative age changes on EVERY
+ * row EVERY day, so a list of 2,000 roles rewrites itself daily whether or not
+ * a single posting moved — which is an hourly commit of pure noise, and a
+ * repository that grows without anybody adding anything.
+ */
+export function postedLabel(iso) {
+  if (typeof iso !== 'string' || iso === '') return '—';
+  const at = Date.parse(iso);
+  if (!Number.isFinite(at)) return '—';
+  const when = new Date(at);
+  return `${when.getUTCDate()} ${MONTHS[when.getUTCMonth()]} ${when.getUTCFullYear()}`;
+}
+
 /** Collapses whitespace and strips the site codes ATS exports leave behind. */
 function tidyLocation(value) {
   return String(value ?? '')
     // "Mountain View (US-MTV-EMF680)" — an internal building code, never a place.
     .replace(/\s*\([A-Z0-9][A-Z0-9\s-]{3,}\)\s*$/, '')
     .replace(/\s+/g, ' ')
+    // `Cary,North Carolina,United States` is one real row: some exports leave no
+    // space after the comma, and the cell reads as one long word on a phone.
+    .replace(/\s*,\s*/g, ', ')
     .trim();
 }
 

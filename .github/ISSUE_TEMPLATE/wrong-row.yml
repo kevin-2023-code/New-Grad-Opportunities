@@ -1,0 +1,43 @@
+name: A row is wrong or stale
+description: A role that is filled, a wrong company, a wrong location, a dead link.
+title: "[Fix]: short description"
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Fix it at the source, not in the table.** These rows come from the TrueInterview job
+        catalog, which also feeds the board, the search and the email digests — so a correction
+        there fixes every surface at once, and a correction typed into the README is overwritten by
+        the next hourly run.
+  - type: input
+    id: row
+    attributes:
+      label: Which row
+      description: Paste the role link from the table, or the company and the job title.
+      placeholder: https://trueinterview.io/jobs/00000000-0000-0000-0000-000000000000
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is wrong
+      options:
+        - The role is closed or filled
+        - Wrong company
+        - Wrong location
+        - Not actually an entry-level / intern role
+        - Wrong field or role classification
+        - The Apply link is broken
+        - Duplicate of another row
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: What it should say
+      description: The exact correction, and how you know.
+      placeholder: The posting 404s on the employer's site as of today.
+    validations:
+      required: true

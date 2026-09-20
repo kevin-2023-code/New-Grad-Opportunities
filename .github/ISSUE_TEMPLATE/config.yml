@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Score these roles against your CV
+    url: https://trueinterview.io/applications/jobs
+    about: The catalog behind this list, with AI fit ranking, CV tailoring and an application tracker.
+  - name: What they ask in the interview
+    url: https://github.com/kevin-2023-code/Tech-Interview-Questions
+    about: Real OA and interview questions, and how each company's loop runs, company by company.
+  - name: How this list is built
+    url: https://github.com/kevin-2023-code/New-Grad-Opportunities/blob/main/CONTRIBUTING.md
+    about: The generator, the filters, and the rules they hold.

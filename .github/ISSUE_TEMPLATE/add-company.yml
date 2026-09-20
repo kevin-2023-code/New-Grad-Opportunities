@@ -1,0 +1,65 @@
+name: Add or fix a company in the registry
+description: An employer missing from the company-type filters, or filed under the wrong one.
+title: "[Company]: name"
+labels: ["registry"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The company filters — Big Tech, fintech, quant trading, mid-sized tech, startups — are
+        derived from two facts about the **employer**, which no job posting carries: its sector and
+        its headcount band. They live in one hand-written file,
+        [`lib/company-registry.mjs`](../blob/main/.github/scripts/lib/company-registry.mjs).
+
+        **If you are not sure, say so rather than guessing.** An employer that is absent appears in
+        every other list exactly as before; one that is *wrong* puts a company on a page somebody
+        chose deliberately. A pull request is welcome and is two lines.
+  - type: input
+    id: company
+    attributes:
+      label: Company, exactly as the list spells it
+      placeholder: Ramp
+    validations:
+      required: true
+  - type: dropdown
+    id: sector
+    attributes:
+      label: Sector
+      description: What the company's primary business is. Leave blank if you are not sure.
+      options:
+        - ai — AI labs & AI infrastructure
+        - consumer-internet — Consumer internet & media
+        - ecommerce-marketplace — E-commerce & marketplaces
+        - dev-infra — Developer tools, cloud & data infrastructure
+        - enterprise-saas — Enterprise & business software
+        - security — Cybersecurity
+        - fintech — Fintech, payments & crypto
+        - quant-trading — Quant trading & hedge funds
+        - banking-finance — Banks, insurers & asset managers
+        - semiconductors — Semiconductors & chips
+        - hardware-devices — Hardware, devices & networking
+        - aerospace-defense — Aerospace & defence
+        - autonomy-mobility — Autonomy, automotive & mobility
+        - gaming — Gaming & interactive
+        - health-bio — Health, biotech & medical devices
+        - energy-industrial — Energy, climate & industrial
+        - engineering-services — Engineering & architecture firms
+        - it-consulting — IT services & consulting
+        - public-research — Government, labs & universities
+        - other-industry — Other industries
+  - type: dropdown
+    id: size
+    attributes:
+      label: Headcount band
+      description: The company as a whole. Leave blank if you are not sure.
+      options:
+        - mega — 10,000+ people
+        - large — 1,000–9,999 people
+        - mid — 200–999 people
+        - startup — under 200 people
+  - type: textarea
+    id: evidence
+    attributes:
+      label: How you know
+      description: A link is ideal — the company's own about page, a filing, a press release.
+      placeholder: Their careers page says "~1,100 people"; they are a payments company.
