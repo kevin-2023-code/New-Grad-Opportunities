@@ -6,9 +6,193 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-19T22:52:29.355Z",
-  "count": 3391,
+  "fetchedAt": "2026-09-20T00:57:17.424Z",
+  "count": 3390,
   "listings": [
+    {
+      "id": "c3ec7966-e5a2-47bd-b0e8-5763269fe081",
+      "company": "Beyond Finance",
+      "title": "DevOps Engineer",
+      "locations": [
+        "Chicago, United States"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "DevOps Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/beyond-finance/jobs/devops-engineer_chicago_rw45qwta",
+      "url": "https://trueinterview.io/jobs/c3ec7966-e5a2-47bd-b0e8-5763269fe081",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
+      "id": "f3caeb45-0bb4-4a05-836c-f0315734c423",
+      "company": "Deepomatic",
+      "title": "DevOps Engineer",
+      "locations": [
+        "Cambridge, United Kingdom"
+      ],
+      "cities": [
+        "Cambridge"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "DevOps Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/deepomatic-1/jobs/devops-engineer_cambridge_2bna2io3",
+      "url": "https://trueinterview.io/jobs/f3caeb45-0bb4-4a05-836c-f0315734c423",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
+      "id": "480e99e2-4cd0-40cd-aadc-1f7ff124c7c9",
+      "company": "Fieldguide",
+      "title": "Software Engineer (Internal Audit, All Levels)",
+      "locations": [
+        "United States, Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/fieldguide/jobs/software-engineer-internal-audit-all-levels_us_3ncm4ed5",
+      "url": "https://trueinterview.io/jobs/480e99e2-4cd0-40cd-aadc-1f7ff124c7c9",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
+      "id": "b20adadc-50a8-4c1c-a376-fa0e209248b1",
+      "company": "Kodiak Robotics",
+      "title": "Software Engineer (UI Tools Infrastructure)",
+      "locations": [
+        "Mountain View, CA, United States"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/kodiak-robotics/jobs/software-engineer-ui-tools-infrastructure_mountain-view-ca_3pzve4lm",
+      "url": "https://trueinterview.io/jobs/b20adadc-50a8-4c1c-a376-fa0e209248b1",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
+      "id": "72adf300-48fb-41f4-94f1-b4a1819918d8",
+      "company": "Pinwheel",
+      "title": "Backend Engineer (Integrations Platform)",
+      "locations": [
+        "York, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/pinwheel/jobs/backend-engineer-integrations-platform_new-york_umbwy7ti",
+      "url": "https://trueinterview.io/jobs/72adf300-48fb-41f4-94f1-b4a1819918d8",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
+      "id": "4285453c-deef-4e4f-8bcd-e85a0d5de0e2",
+      "company": "Veson Nautical",
+      "title": "Site Reliability Engineer (GCP)",
+      "locations": [
+        "Boston, United States"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Site Reliability Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/veson-nautical/jobs/site-reliability-engineer-gcp_boston_2tvapasl",
+      "url": "https://trueinterview.io/jobs/4285453c-deef-4e4f-8bcd-e85a0d5de0e2",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
+      "id": "8140478e-2850-42ca-a0e6-6574d9d9b3e2",
+      "company": "Relativity Space",
+      "title": "Software Engineer I",
+      "locations": [
+        "Long Beach, California, United States",
+        "LB - Wormhole HQ (CA)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/relativity/jobs/8747134002?gh_jid=8747134002",
+      "url": "https://trueinterview.io/jobs/8140478e-2850-42ca-a0e6-6574d9d9b3e2",
+      "postedAt": "2026-09-19T21:00:06.000Z",
+      "updatedAt": "2026-09-19T21:00:06.000Z"
+    },
     {
       "id": "cbe2eb01-5866-4649-ab42-c6845017a9a5",
       "company": "Spacex",
@@ -769,6 +953,31 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/nextdoor-1/jobs/fullstack-software-engineer_san-francisco_yqoxd456",
       "url": "https://trueinterview.io/jobs/b2b26e96-f814-43b3-8aac-ef4120f29fbb",
+      "postedAt": "2026-09-19T00:00:00.000Z",
+      "updatedAt": "2026-09-19T00:00:00.000Z"
+    },
+    {
+      "id": "25d0a244-e37c-4b37-a4d5-dac2c6509e57",
+      "company": "Questronix Corporation",
+      "title": "React Native Developer",
+      "locations": [
+        "Philippines"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/questronix-corporation/jobs/react-native-developer",
+      "url": "https://trueinterview.io/jobs/25d0a244-e37c-4b37-a4d5-dac2c6509e57",
       "postedAt": "2026-09-19T00:00:00.000Z",
       "updatedAt": "2026-09-19T00:00:00.000Z"
     },
@@ -2946,7 +3155,8 @@
         "US, New Mexico, Albuquerque",
         "US, California, Folsom",
         "US, California, Santa Clara",
-        "US, Texas, Austin"
+        "US, Texas, Austin",
+        "US, Arizona, Phoenix, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -7834,7 +8044,8 @@
       "company": "Samsung",
       "title": "Equipment Engineer - Spinner",
       "locations": [
-        "12100 Samsung Blvd, Austin, TX, USA"
+        "12100 Samsung Blvd, Austin, TX, USA",
+        "12100 Samsung Blvd, Austin, TX, USA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8067,7 +8278,8 @@
       "locations": [
         "12100 Samsung Blvd, Austin, TX, USA",
         "1530 FM 973 Taylor, TX, USA",
-        "1530 FM 973 Taylor, TX, USA, United States of America"
+        "1530 FM 973 Taylor, TX, USA, United States of America",
+        "12100 Samsung Blvd, Austin, TX, USA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8094,7 +8306,8 @@
       "locations": [
         "12100 Samsung Blvd, Austin, TX, USA",
         "1530 FM 973 Taylor, TX, USA",
-        "1530 FM 973 Taylor, TX, USA, United States of America"
+        "1530 FM 973 Taylor, TX, USA, United States of America",
+        "12100 Samsung Blvd, Austin, TX, USA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8145,7 +8358,8 @@
       "company": "Samsung",
       "title": "Quality Assurance Engineer: Facilities Services",
       "locations": [
-        "12100 Samsung Blvd, Austin, TX, USA"
+        "12100 Samsung Blvd, Austin, TX, USA",
+        "12100 Samsung Blvd, Austin, TX, USA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8246,7 +8460,8 @@
       "company": "Palo Alto Networks",
       "title": "Technical Data Operations Analyst",
       "locations": [
-        "Office - USA - CA - Headquarters"
+        "Office - USA - CA - Headquarters",
+        "Office - USA - CA - Headquarters, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8550,7 +8765,9 @@
         "Totowa, NJ",
         "Hillsboro, OR",
         "USA-OR-Hillsboro-Beaverton-KLA, United States of America",
-        "Milpitas, CA, United States of America"
+        "Milpitas, CA, United States of America",
+        "Hillsboro, OR, United States of America",
+        "Totowa, NJ, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8602,7 +8819,8 @@
       "company": "KLA",
       "title": "Chemical Product Engineer ( Process|Tool)",
       "locations": [
-        "Totowa, NJ"
+        "Totowa, NJ",
+        "Totowa, NJ, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8721,7 +8939,9 @@
         "Chandler, AZ",
         "Boise, ID, United States of America",
         "Malta, NY, United States of America",
-        "Austin, TX, United States of America"
+        "Austin, TX, United States of America",
+        "Richardson, TX, United States of America",
+        "Chandler, AZ, United States of America"
       ],
       "cities": [
         "Austin, TX"
@@ -8774,7 +8994,8 @@
       "company": "KLA",
       "title": "Electron Beam Product Engineer",
       "locations": [
-        "Ann Arbor, MI"
+        "Ann Arbor, MI",
+        "Ann Arbor, MI, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9008,7 +9229,8 @@
       "locations": [
         "Milpitas, CA",
         "Totowa, NJ",
-        "Totowa, NJ, United States of America"
+        "Totowa, NJ, United States of America",
+        "Milpitas, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9141,7 +9363,8 @@
       "locations": [
         "Ann Arbor, MI",
         "Milpitas, CA",
-        "Milpitas, CA, United States of America"
+        "Milpitas, CA, United States of America",
+        "Ann Arbor, MI, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9166,7 +9389,8 @@
       "company": "KLA",
       "title": "Product Install Engineer - Chemical Analysis",
       "locations": [
-        "Totowa, NJ"
+        "Totowa, NJ",
+        "Totowa, NJ, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9191,7 +9415,8 @@
       "company": "KLA",
       "title": "Product Install Engineer - Chemical Analysis - >80% travel",
       "locations": [
-        "Totowa, NJ"
+        "Totowa, NJ",
+        "Totowa, NJ, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9216,7 +9441,8 @@
       "company": "KLA",
       "title": "Product Installation Engineer - Extensive 90% + Travel Required",
       "locations": [
-        "Chandler, AZ"
+        "Chandler, AZ",
+        "Chandler, AZ, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9297,7 +9523,8 @@
       "company": "KLA",
       "title": "Regional Development Application Engineer - eBeam",
       "locations": [
-        "Austin, TX"
+        "Austin, TX",
+        "Austin, TX, United States of America"
       ],
       "cities": [
         "Austin, TX"
@@ -10798,7 +11025,8 @@
       "company": "Cisco",
       "title": "Signal & Power Integrity Hardware ASIC Simulation Engineer (Hybrid)",
       "locations": [
-        "San Jose, California, US"
+        "San Jose, California, US",
+        "San Jose, California, US, United States of America"
       ],
       "cities": [
         "San Jose, CA"
@@ -12931,7 +13159,8 @@
       "title": "Mfg Systems Software Development Engineer",
       "locations": [
         "US, Oregon, Hillsboro",
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -12960,7 +13189,8 @@
         "US, Oregon, Hillsboro",
         "US, California, Folsom",
         "US, Texas, Austin",
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, California, Santa Clara, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -20146,7 +20376,8 @@
       "locations": [
         "US, Texas, Austin",
         "US, Arizona, Phoenix",
-        "US, Oregon, Hillsboro"
+        "US, Oregon, Hillsboro",
+        "US, Texas, Austin, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -20172,7 +20403,8 @@
       "title": "Software Engineer – Datacenter",
       "locations": [
         "US, California, Santa Clara",
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, California, Santa Clara, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -23933,7 +24165,8 @@
       "title": "Deep Agentic Reasoning Engineer (Lorenz Labs)",
       "locations": [
         "US, CA, San Jose, Rio Robles",
-        "US, MA, Wilmington"
+        "US, MA, Wilmington",
+        "US, CA, San Jose, Rio Robles, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -44615,32 +44848,6 @@
       "updatedAt": "2026-09-03T00:00:00.000Z"
     },
     {
-      "id": "d0ac331a-6b5f-4c54-a27f-be3170d01d9e",
-      "company": "AMD",
-      "title": "Mechanical Engineer",
-      "locations": [
-        "US,CA,San Jose",
-        "San Jose, California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.amd.com/careers-home/jobs/92038?lang=en-us",
-      "url": "https://trueinterview.io/jobs/d0ac331a-6b5f-4c54-a27f-be3170d01d9e",
-      "postedAt": "2026-09-03T00:00:00.000Z",
-      "updatedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
       "id": "62277e07-87ab-4150-b86e-7dc05e28b4fd",
       "company": "AMD",
       "title": "Product Quality & Reliability Engineer",
@@ -45968,33 +46175,6 @@
       "source": "trueinterview",
       "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Elgin-IL/Systems-Engineer---EEC-Si_R64858",
       "url": "https://trueinterview.io/jobs/0e268f95-9417-4f44-b4e3-2d07016f2383",
-      "postedAt": "2026-09-03T00:00:00.000Z",
-      "updatedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "c10a9aa5-c9be-4745-95d1-3677e634a68a",
-      "company": "Muon Space",
-      "title": "Software Engineer (Customer Solutions)",
-      "locations": [
-        "San Jose, United States"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "trueinterview",
-      "applyUrl": "https://www.welcometothejungle.com/en/companies/muon-space/jobs/software-engineer-customer-solutions_san-jose_xqamwd3a",
-      "url": "https://trueinterview.io/jobs/c10a9aa5-c9be-4745-95d1-3677e634a68a",
       "postedAt": "2026-09-03T00:00:00.000Z",
       "updatedAt": "2026-09-03T00:00:00.000Z"
     },
@@ -49131,7 +49311,8 @@
         "Milpitas, California, US",
         "San Francisco, California, US",
         "Fremont, California, US",
-        "Palo Alto, California, US"
+        "Palo Alto, California, US",
+        "San Jose, California, US, United States of America"
       ],
       "cities": [
         "San Jose, CA",
@@ -68112,7 +68293,8 @@
       "title": "Forward Deployed Engineer",
       "locations": [
         "US, CA, San Jose, Rio Robles",
-        "US, MA, Boston"
+        "US, MA, Boston",
+        "US, CA, San Jose, Rio Robles, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -89023,191 +89205,6 @@
       "url": "https://trueinterview.io/jobs/84f80de4-ab58-42fa-860c-24df791bf84c",
       "postedAt": "2026-07-22T04:36:23.000Z",
       "updatedAt": "2026-07-22T04:36:23.000Z"
-    },
-    {
-      "id": "17feed51-b0fe-4ae2-838d-025f88c43a67",
-      "company": "AMD",
-      "title": "Failure Analysis & System Validation Engineer",
-      "locations": [
-        "US,TX,Austin",
-        "Austin, Texas, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.amd.com/careers-home/jobs/88609?lang=en-us",
-      "url": "https://trueinterview.io/jobs/17feed51-b0fe-4ae2-838d-025f88c43a67",
-      "postedAt": "2026-07-22T00:00:00.000Z",
-      "updatedAt": "2026-07-22T00:00:00.000Z"
-    },
-    {
-      "id": "b19919c0-d9a1-41e7-a5f0-edb36c138352",
-      "company": "Fortinet",
-      "title": "Systems Engineer - Georgia",
-      "locations": [
-        "Tbilisi, Georgia"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23612",
-      "url": "https://trueinterview.io/jobs/b19919c0-d9a1-41e7-a5f0-edb36c138352",
-      "postedAt": "2026-07-22T00:00:00.000Z",
-      "updatedAt": "2026-07-22T00:00:00.000Z"
-    },
-    {
-      "id": "7c86f648-e7ce-4d85-813b-e666c4b27ff3",
-      "company": "KLA",
-      "title": "Product Install Engineer - SWIFT-90% Travel",
-      "locations": [
-        "Chandler, AZ",
-        "Hillsboro, OR"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Product-Install-Engineer---SWIFT-90--Travel_2635692-1",
-      "url": "https://trueinterview.io/jobs/7c86f648-e7ce-4d85-813b-e666c4b27ff3",
-      "postedAt": "2026-07-22T00:00:00.000Z",
-      "updatedAt": "2026-07-22T00:00:00.000Z"
-    },
-    {
-      "id": "0ed98087-bbfa-468c-9b05-2fb91c8121b5",
-      "company": "KLA",
-      "title": "Product Installation Engineer - FaST 90%+ Travel required",
-      "locations": [
-        "Chandler, AZ",
-        "Boise, ID",
-        "Richardson, TX",
-        "Hillsboro, OR"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Product-Installation-Engineer---FaST-90---Travel-required_2638888",
-      "url": "https://trueinterview.io/jobs/0ed98087-bbfa-468c-9b05-2fb91c8121b5",
-      "postedAt": "2026-07-22T00:00:00.000Z",
-      "updatedAt": "2026-07-22T00:00:00.000Z"
-    },
-    {
-      "id": "5ef23c35-98fd-4e83-a985-9daf34fe2e77",
-      "company": "NVIDIA",
-      "title": "ASIC Physical Design and Timing Engineer - New College Grad 2026",
-      "locations": [
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.nvidia.com/careers/job/893393381575",
-      "url": "https://trueinterview.io/jobs/5ef23c35-98fd-4e83-a985-9daf34fe2e77",
-      "postedAt": "2026-07-22T00:00:00.000Z",
-      "updatedAt": "2026-07-22T00:00:00.000Z"
-    },
-    {
-      "id": "f6f07eaf-5e58-46ea-9a17-1845210793b8",
-      "company": "NVIDIA",
-      "title": "Software R&D Engineer, VLSI Physical Design - New College Grad 2026",
-      "locations": [
-        "Austin, TX, US",
-        "Santa Clara, CA, US"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.nvidia.com/careers/job/893395449216",
-      "url": "https://trueinterview.io/jobs/f6f07eaf-5e58-46ea-9a17-1845210793b8",
-      "postedAt": "2026-07-22T00:00:00.000Z",
-      "updatedAt": "2026-07-22T00:00:00.000Z"
-    },
-    {
-      "id": "8eb9b266-244b-4beb-9b6d-6f7a0a115d91",
-      "company": "Palantir",
-      "title": "Software Engineer - Edge AI Systems",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.lever.co/palantir/67110929-adea-41c3-851a-8882e222d9e4",
-      "url": "https://trueinterview.io/jobs/8eb9b266-244b-4beb-9b6d-6f7a0a115d91",
-      "postedAt": "2026-07-22T00:00:00.000Z",
-      "updatedAt": "2026-07-22T00:00:00.000Z"
     }
   ]
 }
