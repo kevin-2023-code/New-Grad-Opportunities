@@ -34,7 +34,7 @@ import {
   inSizeCut,
   segmentOf,
 } from './segments.mjs';
-import { METROS, metrosOf } from './places.mjs';
+import { METROS, metroCitiesNote, metrosOf } from './places.mjs';
 import { CATEGORIES } from './select.mjs';
 import { ageInDays } from './format.mjs';
 
@@ -228,7 +228,12 @@ export function buildTracks(jobs, { now, minRows = MIN_TRACK_ROWS } = {}) {
       blurb: '',
       note:
         'A posting is on this page when its location resolves to a city in this metro AND the ' +
-        'row’s country agrees. A posting whose location could not be read is on no location page.',
+        'row’s country agrees. A posting whose location could not be read is on no location page.' +
+        // Naming them is what makes the heading checkable. Without this, a
+        // page called "Portland & the Pacific Northwest" could hold no Puget
+        // Sound city — it did — and the page stated the rule in the abstract
+        // with nothing a reader could test it against.
+        (metroCitiesNote(metro) ? ` ${metroCitiesNote(metro)}` : ''),
       jobs: metroHits.get(metro.id) ?? [],
     });
   }

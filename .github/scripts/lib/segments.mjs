@@ -87,7 +87,7 @@ export const SECTORS = [
   { id: 'public-research', emoji: '🏛️', label: 'Government, research & non-profits', tech: false,
     blurb: 'Agencies, national laboratories, universities, research institutes and charities.' },
   { id: 'other-industry', emoji: '💼', label: 'Other industries', tech: false,
-    blurb: 'A real classification that none of the sectors above covers.' },
+    blurb: 'A real classification that none of the other sectors covers.' },
 ];
 
 const SECTOR_BY_ID = new Map(SECTORS.map((sector) => [sector.id, sector]));

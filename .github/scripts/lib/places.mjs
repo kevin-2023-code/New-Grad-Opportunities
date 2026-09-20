@@ -234,7 +234,15 @@ export const METROS = [
     open: ['salt lake city'],
   },
   {
-    id: 'pacific-northwest', emoji: '🌧️', label: 'Portland & the Pacific Northwest', countries: US,
+    // NOT "& the Pacific Northwest". Seattle, Bellevue and Redmond are the
+    // `seattle` metro two entries up, so a label naming the region claimed a
+    // coverage this list does not have — and on the internship list the page
+    // was majority Boise, with the front page offering it as the only
+    // Northwest-named door. The sibling labels are "<anchors> & <the region
+    // they actually cover>"; this one names its anchors and stops there. The
+    // `id` is deliberately unchanged, so every `place/pacific-northwest.md`
+    // link anybody has shared still resolves.
+    id: 'pacific-northwest', emoji: '🌧️', label: 'Portland, Boise & Spokane', countries: US,
     cities: [['portland', 'OR'], ['hillsboro', 'OR'], ['beaverton', 'OR'], ['eugene', 'OR'],
       ['vancouver', 'WA'], ['spokane', 'WA'], ['boise', 'ID']],
     open: [],
@@ -329,6 +337,64 @@ function tidy(value) {
     .replace(/\s*\([A-Z0-9][A-Z0-9\s-]{3,}\)\s*$/, '')
     .replace(/\s+/g, ' ')
     .trim();
+}
+
+/** How many cities a metro page names before it stops and counts the rest. */
+const METRO_CITIES_SHOWN = 12;
+
+const STATE_SUFFIX = new Map();
+
+/**
+ * The cities a metro page holds, as a reader would name them.
+ *
+ * Every metro page carried one static sentence stating the selection rule in
+ * the abstract — "its location resolves to a city in this metro" — which is
+ * unfalsifiable from the page. So "Portland & the Pacific Northwest" could
+ * exclude every Puget Sound city and nothing on the page revealed it. A metro
+ * that names its cities can be checked against its own label.
+ *
+ * Only for metros that carry a `cities` table: those are the US and Canadian
+ * ones, where an entry is a (city, state) pair and the `open` list beside it
+ * holds anchor cities rather than spellings. The country-wide metros match on
+ * `open` alone, whose entries include second spellings of one city
+ * (`munich`/`münchen`, `warsaw`/`warszawa`) that exist to be matched and not
+ * to be read — and their labels already name the country they cover, so there
+ * is no coverage claim to check.
+ */
+export function metroCities(metro) {
+  if (!(metro.cities ?? []).length) return [];
+  const stateOf = new Map(metro.cities.map(([city, state]) => [city, state]));
+  const seen = new Set();
+  const out = [];
+  // `open` first: those are the anchors a reader recognises (San Francisco,
+  // Seattle), while `cities` runs outward through the suburbs.
+  for (const city of [...(metro.open ?? []), ...metro.cities.map(([city]) => city)]) {
+    const key = city.toLowerCase();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    out.push({ name: city.replace(/\b[a-z]/g, (ch) => ch.toUpperCase()), state: stateOf.get(city) ?? null });
+  }
+  return out;
+}
+
+/**
+ * The sentence a metro page prints under its rule, or nothing at all.
+ *
+ * A metro inside ONE state names it once and drops it from every city; a metro
+ * that straddles several carries it per city, which is the whole point for
+ * `pacific-northwest` — "Vancouver WA" is not Vancouver BC, and the three
+ * states are what shows a reader where this page stops.
+ */
+export function metroCitiesNote(metro) {
+  const cities = metroCities(metro);
+  if (!cities.length) return '';
+  const states = new Set(cities.map((city) => city.state).filter(Boolean));
+  const single = states.size === 1 ? [...states][0] : null;
+  const shown = cities.slice(0, METRO_CITIES_SHOWN);
+  const hidden = cities.length - shown.length;
+  const names = shown.map((city) => (single || !city.state ? city.name : `${city.name} ${city.state}`));
+  const lead = single ? `Cities on this page, all in ${single}` : 'Cities on this page';
+  return `${lead}: ${names.join(', ')}${hidden > 0 ? `, and ${hidden} more` : ''}.`;
 }
 
 /**

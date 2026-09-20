@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**102 open roles.** 59 in the United States & Canada · 43 elsewhere in the world. A real classification that none of the sectors above covers.
+**102 open roles.** 59 in the United States & Canada · 43 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 

@@ -25,7 +25,7 @@
 // is the backstop, and the per-section caps are what actually keep it there.
 
 import { ageInDays, ageLabel, escapeHtml, escapeMarkdown, link, locationLabel, markers, postedLabel, safeUrl } from './format.mjs';
-import { anchorOf, groupByCategory, splitByFreshness } from './select.mjs';
+import { anchorOf, groupByCategory, splitByFreshness, splitByRegion } from './select.mjs';
 import { groupTracks } from './tracks.mjs';
 
 export const BLOCK_START = '<!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->';
@@ -466,6 +466,12 @@ export function renderTrackPages(track, { now, sections, rowsPerPage = ROWS_PER_
   return files;
 }
 
+/** A home label that can head a table column: "the United States & Canada" → "The …". */
+function titleCase(value) {
+  const text = String(value ?? '').trim();
+  return text ? text.slice(0, 1).toUpperCase() + text.slice(1) : text;
+}
+
 /**
  * `lists/README.md` — the hub: every filter, its count, and its rule.
  *
@@ -473,8 +479,22 @@ export function renderTrackPages(track, { now, sections, rowsPerPage = ROWS_PER_
  * engine with no idea what this repository is, so it opens with what the
  * filters ARE before it opens with a table of them.
  */
-export function renderHub({ tracks, now, listName, noun, coverageNote, homeLabel, homePath = 'README.md', globalPath = null }) {
+export function renderHub({
+  tracks,
+  now,
+  listName,
+  noun,
+  coverageNote,
+  homeLabel,
+  homeCountries = [],
+  homePath = 'README.md',
+  globalPath = null,
+}) {
   const groups = groupTracks(tracks);
+  // Every row the list holds, counted once — the denominator each group's
+  // reach is a share of. Taken from the tracks rather than passed in, so it
+  // cannot drift from what is actually on these pages.
+  const total = new Set(tracks.flatMap((track) => track.jobs.map((job) => job.id))).size;
   const body = [
     GENERATED_NOTICE,
     '',
@@ -510,14 +530,46 @@ export function renderHub({ tracks, now, listName, noun, coverageNote, homeLabel
     const rules = new Set(ordered.map((track) => track.rule ?? track.note));
     const shared = rules.size === 1 ? [...rules][0] : null;
     body.push('---', '', `## ${group.emoji} ${group.title}`, '', group.blurb, '');
+    // How much of the list this GROUP reaches, stated the way the company
+    // block already states its registry coverage. Without it, "By role" listed
+    // eleven filters over 194 of 565 rows and a reader adding the column had
+    // no way to tell whether that was most of the list or a third of it — the
+    // rest are classified `Other` and are on no role page at all.
+    //
+    // The UNION of the group's pages, never the column sum: a posting open in
+    // two metros is on both, and a filter that fell below MIN_TRACK_ROWS has
+    // no page to be counted on.
+    const reach = new Set(ordered.flatMap((track) => track.jobs.map((job) => job.id))).size;
+    if (total && reach < total) {
+      body.push(
+        `_Between them these ${count(ordered.length)} ${plural(ordered.length, 'filter', 'filters')} hold ` +
+          `**${count(reach)} of the ${count(total)}** ${escapeMarkdown(noun ?? 'roles')} on this list ` +
+          `(${Math.round((100 * reach) / total)}%). The rest carry no classification this group can file ` +
+          `them under, so they are on the main list and on no page here._`,
+        '',
+      );
+    }
     if (shared) body.push(`_${escapeMarkdown(shared)}_`, '');
+    // TWO count columns, never one. The list READMEs count only their own
+    // region and this page counts every region, so a single "Open roles"
+    // column put 16 on one page and 19 on the other for the same filter — with
+    // nothing here naming its population, which reads as one of them being
+    // wrong rather than as two different questions. Splitting it ties this
+    // page out against both READMEs and against each filter page's own
+    // "N open roles. M in <home> · K elsewhere".
+    const counts = (track) => {
+      const { home } = splitByRegion(track.jobs, homeCountries);
+      return `${count(home.length)} | ${count(track.jobs.length - home.length)}`;
+    };
     body.push(
-      shared ? '| Filter | Open roles |' : '| Filter | Open roles | What it selects |',
-      shared ? '| :-- | --: |' : '| :-- | --: | :-- |',
+      shared
+        ? `| Filter | ${homeLabel ? escapeMarkdown(titleCase(homeLabel)) : 'Home'} | Elsewhere |`
+        : `| Filter | ${homeLabel ? escapeMarkdown(titleCase(homeLabel)) : 'Home'} | Elsewhere | What it selects |`,
+      shared ? '| :-- | --: | --: |' : '| :-- | --: | --: | :-- |',
       ...ordered.map((track) =>
         shared
-          ? `| [${trackLabel(track)}](${track.path}.md) | ${count(track.jobs.length)} |`
-          : `| [${trackLabel(track)}](${track.path}.md) | ${count(track.jobs.length)} | ${escapeMarkdown(track.rule ?? track.note)} |`,
+          ? `| [${trackLabel(track)}](${track.path}.md) | ${counts(track)} |`
+          : `| [${trackLabel(track)}](${track.path}.md) | ${counts(track)} | ${escapeMarkdown(track.rule ?? track.note)} |`,
       ),
       '',
     );

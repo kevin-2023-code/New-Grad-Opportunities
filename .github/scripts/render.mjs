@@ -213,6 +213,7 @@ async function main() {
       listName: config.listName,
       noun: config.noun,
       homeLabel: config.homeLabel,
+      homeCountries: config.homeCountries,
       homePath: config.files.home,
       globalPath: config.files.global ?? null,
       coverageNote:
