@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-20T06:02:16.331Z",
-  "count": 3387,
+  "fetchedAt": "2026-09-20T12:12:26.663Z",
+  "count": 3393,
   "listings": [
     {
       "id": "c3ec7966-e5a2-47bd-b0e8-5763269fe081",
@@ -37,6 +37,56 @@
       "updatedAt": "2026-09-20T00:00:00.000Z"
     },
     {
+      "id": "dc7c337e-4c45-46c8-b009-ccf7b732a141",
+      "company": "Bright Vision Technologies",
+      "title": "CUDA Developer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/bright-vision-technologies/jobs/cuda-developer-4595292117",
+      "url": "https://trueinterview.io/jobs/dc7c337e-4c45-46c8-b009-ccf7b732a141",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
+      "id": "457353c3-9c74-4567-8a5f-74a0869ffc5b",
+      "company": "Bright Vision Technologies",
+      "title": "DevOps Automation Engineer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "DevOps Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/bright-vision-technologies/jobs/devops-automation-engineer-9926312963",
+      "url": "https://trueinterview.io/jobs/457353c3-9c74-4567-8a5f-74a0869ffc5b",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
       "id": "5d185bb5-5a35-4698-9fd8-d0af54a02978",
       "company": "Canonical",
       "title": "Software Engineer - OpenStack",
@@ -59,6 +109,29 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/canonical/jobs/software-engineer-openstack",
       "url": "https://trueinterview.io/jobs/5d185bb5-5a35-4698-9fd8-d0af54a02978",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
+      "id": "c0e042cc-e69c-4f90-8967-ca04ea51183c",
+      "company": "Datadog",
+      "title": "Developer Advocate - Service Management EMEA",
+      "locations": [
+        "Anywhere in the World"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management-emea",
+      "url": "https://trueinterview.io/jobs/c0e042cc-e69c-4f90-8967-ca04ea51183c",
       "postedAt": "2026-09-20T00:00:00.000Z",
       "updatedAt": "2026-09-20T00:00:00.000Z"
     },
@@ -167,6 +240,56 @@
       "updatedAt": "2026-09-20T00:00:00.000Z"
     },
     {
+      "id": "ac02b051-bab0-44e7-8ae9-a1950a8dd02c",
+      "company": "LUZA Group",
+      "title": ".NET Developer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/luza-group/jobs/net-developer",
+      "url": "https://trueinterview.io/jobs/ac02b051-bab0-44e7-8ae9-a1950a8dd02c",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
+      "id": "1e7b95fc-51de-438a-91bb-db15514bf32c",
+      "company": "micro1",
+      "title": "Data Engineer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/micro1/jobs/data-engineer-6703846968",
+      "url": "https://trueinterview.io/jobs/1e7b95fc-51de-438a-91bb-db15514bf32c",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
       "id": "72adf300-48fb-41f4-94f1-b4a1819918d8",
       "company": "Pinwheel",
       "title": "Backend Engineer (Integrations Platform)",
@@ -215,6 +338,31 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/veson-nautical/jobs/site-reliability-engineer-gcp_boston_2tvapasl",
       "url": "https://trueinterview.io/jobs/4285453c-deef-4e4f-8bcd-e85a0d5de0e2",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
+      "id": "479ba2cb-ab43-424c-ade1-e0ce7e44e05e",
+      "company": "ZILLION TECHNOLOGIES, INC",
+      "title": "Camunda Developer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/zillion-technologies-inc/jobs/camunda-developer",
+      "url": "https://trueinterview.io/jobs/479ba2cb-ab43-424c-ade1-e0ce7e44e05e",
       "postedAt": "2026-09-20T00:00:00.000Z",
       "updatedAt": "2026-09-20T00:00:00.000Z"
     },
@@ -8420,7 +8568,8 @@
       "company": "Palo Alto Networks",
       "title": "Academy Systems Engineer",
       "locations": [
-        "Office - USA - TX"
+        "Office - USA - TX",
+        "Office - USA - TX, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8445,7 +8594,8 @@
       "company": "Palo Alto Networks",
       "title": "Software Engineer",
       "locations": [
-        "Office - USA - CA - Headquarters"
+        "Office - USA - CA - Headquarters",
+        "Office - USA - CA - Headquarters, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -22539,7 +22689,8 @@
         "Portland, Oregon, US",
         "Boulder, Colorado, US",
         "Atlanta, Georgia, US",
-        "Chicago, Illinois, US"
+        "Chicago, Illinois, US",
+        "Durham, North Carolina, US, United States of America"
       ],
       "cities": [
         "Atlanta, GA",
@@ -22575,7 +22726,8 @@
         "Denver, Colorado, US",
         "Austin, Texas, US",
         "Boulder, Colorado, US",
-        "Chicago, Illinois, US"
+        "Chicago, Illinois, US",
+        "Denver, Colorado, US, United States of America"
       ],
       "cities": [
         "Denver, CO",
@@ -24353,7 +24505,8 @@
       "locations": [
         "RTP, North Carolina, US",
         "Austin, Texas, US",
-        "Richardson, Texas, US"
+        "Richardson, Texas, US",
+        "RTP, North Carolina, US, United States of America"
       ],
       "cities": [
         "Austin, TX"
@@ -32563,7 +32716,8 @@
       "title": "Fiber Align Engineer",
       "locations": [
         "Holmdel, New Jersey, US",
-        "Allentown, Pennsylvania, US"
+        "Allentown, Pennsylvania, US",
+        "Holmdel, New Jersey, US, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -63290,7 +63444,8 @@
         "Durham, North Carolina, United States of America",
         "Spring, Texas, United States of America",
         "Ft. Collins, Colorado, United States of America",
-        "Andover, Massachusetts, United States of America"
+        "Andover, Massachusetts, United States of America",
+        "Houston, Texas, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -66782,7 +66937,8 @@
       "title": "TEM Analysis Engineer - All Shifts",
       "locations": [
         "1530 FM 973 Taylor, TX, USA",
-        "12100 Samsung Blvd, Austin, TX, USA"
+        "12100 Samsung Blvd, Austin, TX, USA",
+        "1530 FM 973 Taylor, TX, USA, United States of America"
       ],
       "cities": [],
       "countries": [
