@@ -41,56 +41,56 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/b47192c5-1962-478c-bfda-b1ddfb3c60be">Customer Support Engineer</a></td>
-<td>Austin, TX</td>
+<td>Richardson, TX, United States of America<br/>Austin, TX, United States of America<br/>Hillsboro, OR, United States of America<br/>+4 more</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Customer-Support-Engineer_2532992-1">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>E-Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/b54fa385-4d8b-4247-a864-bbe62008b852">SIM Management, 5G Core Engineer</a></td>
-<td>Santa Clara, CA<br/>Arlington, TX</td>
+<td>Arlington, TX<br/>Santa Clara, CA</td>
 <td align="center"><a href="https://jobs.lever.co/espace/cf97ef10-6123-47ff-bf0e-f14e0d37f1fb/apply">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/b71da3d4-d261-466f-adc9-3fce263ce7d5">Python Software Engineer, CX Engineering(Hybrid)</a></td>
-<td>Austin, TX</td>
+<td>Richardson, Texas, US<br/>Austin, TX<br/>RTP, North Carolina, US, United States of America<br/>+1 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer--CX-Engineering_2021701">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Palo Alto Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/f2abf24f-358c-4ca6-adbe-713385ebf8b4">Transformation Success Engineer</a></td>
-<td>Boston, MA<br/>Atlanta, GA<br/>Chicago, IL</td>
+<td>Dallas, Texas, United States of America<br/>Boston, MA<br/>Atlanta, GA<br/>+12 more</td>
 <td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/New-York-City-United-States-of-America/Transformation-Success-Engineer_JR-019947">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/17cdda7b-c574-4e4b-9b5a-98d04baaad9e">Early Career Substation Assistant Electrical Engineer</a></td>
-<td>Overland Park, KS, United States<br/>Fort Worth, TX, United States</td>
+<td>Fort Worth, TX, United States<br/>Overland Park, KS, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95107">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Abacus</strong></td>
 <td><a href="https://trueinterview.io/jobs/13b59a99-ceb8-446c-bb44-61d183d16503">Analyst, Enterprise Service Desk</a></td>
-<td>Chicago, IL<br/>New York, NY</td>
+<td>Frisco, Texas, United States<br/>Chicago, Illinois, United States<br/>New York, NY<br/>+2 more</td>
 <td align="center"><a href="https://abacustechnology.com/about/careers/current-vacancies/?gh_jid=7992006003">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Infineon</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e8a799b-5d5b-4cbd-9ef7-6a69d1e620cc">Graduate - Analog Mixed-Signal Design Verification Engineer</a></td>
-<td>Andover, MA, US<br/>Dallas, TX, US</td>
+<td>Dallas, TX, US<br/>Andover, MA, US</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971876168">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Hippo Insurance</strong></td>
 <td><a href="https://trueinterview.io/jobs/b90134fd-ec5b-46f2-bba5-ec0d8f24f947">Associate Program Manager</a></td>
-<td>Austin, TX</td>
+<td>Dallas, Texas, United States<br/>TX - Dallas<br/>Austin, TX<br/>+5 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/hippo70/jobs/8766919002?gh_jid=8766919002">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -104,21 +104,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/f65ec092-0374-4926-b8ce-45e80927fbc9">Software Engineer Full Stack / Backend I (Full Time) - United States</a></td>
-<td>San Jose, CA<br/>New York, NY<br/>Boston, MA</td>
+<td>Dallas, Texas, US<br/>San Jose, California, US, United States of America<br/>New York, NY<br/>+13 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Full-Time----United-States_2024035">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/7cd6edae-7dd1-4944-b9d2-fdc996c210b4">SoC Physical Verification Engineer, HBM</a></td>
-<td>Folsom, CA, US<br/>Richardson, TX, US</td>
+<td>Richardson, TX, US<br/>Folsom, CA, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43052746">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1734dbe-4d9c-47c7-a44a-c7914fac7119">Forward Deployed Engineer (FDE) — Agentforce Orchestration</a></td>
-<td>Georgia - Atlanta<br/>Illinois - Chicago<br/>New York - New York</td>
+<td>Texas - Dallas<br/>Georgia - Atlanta, United States of America<br/>Illinois - Chicago<br/>+8 more</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Forward-Deployed-Engineer--FDE----Agentforce-Orchestration_JR357427">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
@@ -174,7 +174,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>E-Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/9f4c9246-49b0-4d4c-ab30-4492c091047b">Mission Systems Engineer</a></td>
-<td>Saratoga, CA<br/>Arlington, TX</td>
+<td>Arlington, TX<br/>Saratoga, CA</td>
 <td align="center"><a href="https://jobs.lever.co/espace/2c6f6a13-0133-4d6d-ae35-c6d2a848d618/apply">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
@@ -195,7 +195,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Splunk</strong></td>
 <td><a href="https://trueinterview.io/jobs/2d60fd46-6a00-4ade-9c32-2ffe8c5640ff">Applied AI Scientist</a></td>
-<td>Seattle, WA<br/>Atlanta, GA<br/>Austin, TX</td>
+<td>Dallas, Texas, United States of America<br/>Seattle, Washington, United States of America<br/>Atlanta, GA<br/>+31 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Seattle-Washington-US/Applied-AI-Scientist_2018334">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
@@ -209,7 +209,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/92a0b08f-574d-4274-95c0-2fbd04512841">Software Engineering AMTS (College Grad)</a></td>
-<td>California - San Francisco<br/>California - Palo Alto<br/>Washington - Seattle</td>
+<td>Texas - Dallas<br/>California - San Francisco, United States of America<br/>California - Palo Alto<br/>+3 more</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
@@ -223,14 +223,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Dlr Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/326edc83-949e-48e8-9edf-4cdae1aec310">National Discipline Quality Control Leader (NQC) + Structural Engineer</a></td>
-<td>Austin, TX<br/>Chicago, IL<br/>Denver, CO</td>
+<td>Dallas, Texas, United States<br/>Fort Worth, Texas, United States<br/>Austin, TX<br/>+19 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5380164008">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Forgen</strong></td>
 <td><a href="https://trueinterview.io/jobs/b45513db-ff55-408b-bf3e-a9f9043d1a05">Project Engineer</a></td>
-<td>Baton Rouge, Louisiana<br/>Houston, Texas<br/>Dallas, Texas</td>
+<td>Dallas, Texas<br/>Baton Rouge, Louisiana<br/>Houston, Texas<br/>+2 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/forgen/jobs/5203382007">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>

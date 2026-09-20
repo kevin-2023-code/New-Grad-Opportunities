@@ -34,7 +34,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/f8fea37f-1e8b-46d8-9e77-ce06c6fa6803">Capacity and Capital Planning Engineer - Foundry</a></td>
-<td>US, Arizona, Phoenix<br/>US, Oregon, Hillsboro<br/>US, New Mexico, Albuquerque</td>
+<td>US, Texas, Austin<br/>US, Arizona, Phoenix, United States of America<br/>US, Oregon, Hillsboro<br/>+3 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Capacity-and-Capital-Planning-Engineer---Foundry_JR0287204-1">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -48,7 +48,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Gallatin</strong></td>
 <td><a href="https://trueinterview.io/jobs/a0b1445a-a8b8-4681-aef1-1a585a4eaee5">Machine Learning Operations (MLOps) Engineer</a></td>
-<td>San Francisco, CA<br/>Austin, TX</td>
+<td>Austin, TX<br/>San Francisco, CA<br/>El Segundo, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/gallatin/0be59879-c60a-4c7d-8d8d-cf5205871ef2/application">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
@@ -62,7 +62,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/7e262e0c-cf82-4556-bdb6-8365f4983a61">Embedded Firmware Development Engineer</a></td>
-<td>US, TX, Austin_Research Park<br/>Austin, Texas, United States</td>
+<td>Austin, Texas, United States<br/>US, TX, Austin_Research Park</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/92403?lang=en-us">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
@@ -111,7 +111,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b0cbc02d-1417-4a84-b0ad-fe7abf4febec">Photo Equipment Engineer - Scanner</a></td>
-<td>1530 FM 973 Taylor, TX, USA, United States of America<br/>12100 Samsung Blvd, Austin, TX, USA</td>
+<td>12100 Samsung Blvd, Austin, TX, USA<br/>1530 FM 973 Taylor, TX, USA, United States of America</td>
 <td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Photo-Equipment-Engineer---Scanner_R113924">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -139,42 +139,42 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/059b569d-8225-4369-9c8b-c38c00b5e813">Customer Engagement Applications Engineer (FaST)</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX, United States of America<br/>Hillsboro, OR, United States of America<br/>Boise, ID, United States of America<br/>+1 more</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Customer-Engagement-Engineer--FaST-_2633739">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b47192c5-1962-478c-bfda-b1ddfb3c60be">Customer Support Engineer</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX, United States of America<br/>Hillsboro, OR, United States of America<br/>Denison, TX, United States of America<br/>+4 more</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Customer-Support-Engineer_2532992-1">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/972cd4b5-637e-4a52-aa64-a0ffe1b43eb6">Regional Applications Development Engineer</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX, United States of America<br/>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Regional-Applications-Development-Engineer_2638921-1">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1087a841-25e7-4268-b090-209df5a63cdb">Regional Development Application Engineer - eBeam</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Regional-Development-Application-Engineer---eBeam_2639408">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ebde120f-8f73-4a71-b491-59dcc219378f">Software Engineer (C++, OOD/OOP, Linux)</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX, United States of America<br/>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer--C----OOD-OOP--Linux-_2634818">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/44221136-db79-485a-a735-8ebcca7fc004">Silicon Product Engineer</a></td>
-<td>US, Texas, Austin<br/>US, California, Folsom<br/>US, Oregon, Hillsboro</td>
+<td>US, Texas, Austin, United States of America<br/>US, California, Folsom, United States of America<br/>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Silicon-Product-Engineer_JR0284977">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -202,28 +202,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/576efad4-b09c-4544-a21e-d726a024b188">Hardware Engineer I (Full Time) - United States</a></td>
-<td>San Jose, CA<br/>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, US<br/>San Jose, California, US, United States of America<br/>+2 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Full-Time----United-States_2024649">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4788c0ac-9b22-4dba-be01-5cb5fcea9e41">Leader, Business Intelligence</a></td>
-<td>Atlanta, GA<br/>Toronto, ON<br/>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, US<br/>Atlanta, GA<br/>+4 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Atlanta-Georgia-US/Leader--Business-Intelligence_2023247-1">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1df5c67-9b00-4300-97df-c209b9897db9">Neuromorphic/AI Research Scientist</a></td>
-<td>US, California, Santa Clara<br/>US, Oregon, Hillsboro<br/>US, California, Folsom</td>
+<td>US, Texas, Austin<br/>US, California, Santa Clara, United States of America<br/>US, Oregon, Hillsboro<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Neuromorphic-AI-Research-Scientist_JR0284193">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/a3f963d0-fa11-47e1-b7a8-6b32ec346730">GPU Architecture Engineer - New College Grad 2026</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Santa Clara, CA, US<br/>Durham, NC, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893396498176">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -237,21 +237,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>CrowdStrike</strong></td>
 <td><a href="https://trueinterview.io/jobs/60c4adc9-0521-4f09-a117-357b18919c36">Engineer, Sensor - Mac, Linux, or Windows (Hybrid)</a></td>
-<td>USA - Sunnyvale, CA<br/>USA - New York, NY<br/>USA - Austin, TX</td>
+<td>USA - Austin, TX<br/>USA - Sunnyvale, CA, United States of America<br/>USA - New York, NY<br/>+2 more</td>
 <td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer--Sensor---Mac--Linux--or-Windows--Hybrid-_R30023">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>NXP Semiconductors</strong></td>
 <td><a href="https://trueinterview.io/jobs/b34f71ca-7b83-4f49-8ee3-2b0e00f408ae">Field Application Engineer – Robotics MCU &amp; Motor Control</a></td>
-<td>San Jose (Holger Way)<br/>USA (home based)<br/>Austin (Oakhill, Office)</td>
+<td>Austin (Oakhill, Office)<br/>San Jose (Holger Way), United States of America<br/>USA (home based)</td>
 <td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Holger-Way/Field-Application-Engineer---Robotics-MCU---Motor-Control_R-10063707">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Lambda</strong></td>
 <td><a href="https://trueinterview.io/jobs/c4347207-5785-4188-80e7-c12d1894d23e">Data Center Operations Engineer (Austin)</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX - Data Center</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lambda/a06bbf3e-e148-4396-be41-efe3d5c82d5c/application">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -272,7 +272,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/382d9ff9-d5ea-471a-81f1-182d9574273e">RTL Design Engineer</a></td>
-<td>US, Texas, Austin<br/>US, Arizona, Phoenix<br/>US, Oregon, Hillsboro</td>
+<td>US, Texas, Austin, United States of America<br/>US, Arizona, Phoenix<br/>US, Oregon, Hillsboro</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/RTL-Design-Engineer_JR0287272">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -286,56 +286,56 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Splunk</strong></td>
 <td><a href="https://trueinterview.io/jobs/fcc4ba30-ece3-4a1c-bb03-ffb102ab67af">Content Designer (Remote)</a></td>
-<td>Atlanta, GA<br/>Austin, TX<br/>Chicago, IL</td>
+<td>Austin, TX<br/>Austin, Texas, United States of America<br/>Atlanta, GA<br/>+6 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Durham-North-Carolina-US/Content-Designer--Remote-_2025596">Apply</a></td>
 <td align="center">12 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f31535c5-d968-488e-9e4c-2767d0d5d617">Security Engineer (Remote)</a></td>
-<td>Denver, CO<br/>Austin, TX<br/>Chicago, IL</td>
+<td>Austin, TX<br/>Austin, Texas, United States of America<br/>Denver, Colorado, United States of America<br/>+3 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Denver-Colorado-US/Security-Engineer--Remote-_2025594">Apply</a></td>
 <td align="center">12 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/8f6fd521-cbb5-42e2-b3b7-15cbc9d697be">Rack Integration Operations Engineer</a></td>
-<td>Austin, TX<br/>San Francisco, CA<br/>Seattle, WA (hybrid)</td>
+<td>Austin, TX<br/>San Francisco, CA<br/>Seattle, WA<br/>+2 more (hybrid)</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8196631?gh_jid=8196631">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>DRW</strong></td>
 <td><a href="https://trueinterview.io/jobs/b033f52d-9e85-4436-94fd-6156fd4ae49f">Service Reliability Engineer</a></td>
-<td>Chicago, IL<br/>Austin, TX</td>
+<td>Austin, TX<br/>Chicago, IL</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8167047">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/75f86592-cc86-416e-a88b-6cf15c7af075">IAM Security Engineer</a></td>
-<td>Austin, TX (hybrid)</td>
+<td>Austin, TX<br/>Hybrid</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8157997?gh_jid=8157997">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Kettle</strong></td>
 <td><a href="https://trueinterview.io/jobs/e864d240-5187-4132-9741-7bedf2db2ae4">Production Designer</a> 🌐</td>
-<td>Remote — United States</td>
+<td>Remote — United States<br/>Austin, TX</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/kettle/jobs/8802218002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Upshop</strong></td>
 <td><a href="https://trueinterview.io/jobs/b95423e7-af59-444d-b2b9-95f13307206f">Quality Engineer</a> 🌐</td>
-<td>Remote — United States, Canada</td>
+<td>Remote — United States, Canada<br/>Austin, TX</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/upshop/jobs/5233344007">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/d0180b25-bc7f-47c5-a0d5-5baf036e1e8b">Physical Design Engineer (Silicon Engineering)</a></td>
-<td>Austin, TX<br/>Palo Alto, CA</td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>Palo Alto, CA<br/>+2 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8795576002?gh_jid=8795576002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -349,49 +349,49 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/b71da3d4-d261-466f-adc9-3fce263ce7d5">Python Software Engineer, CX Engineering(Hybrid)</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, US<br/>RTP, North Carolina, US, United States of America<br/>+1 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer--CX-Engineering_2021701">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/0fa2f644-607b-4e9e-bd52-e70fc500eec6">Structural Engineer, R&amp;D</a></td>
-<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA</td>
+<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/0dc859cd-6db8-48d5-97ce-effee7fa57bc/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/152e2c8c-e995-4363-894c-3c108ef1ef5f">Power Electronics Engineer, R&amp;D</a></td>
-<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA</td>
+<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/1aa4a596-3f84-43ec-b6d9-0aae28ae377e/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1c28fbb2-7fcd-4608-8291-6676ea75ce7e">Controls Engineer, R&amp;D</a></td>
-<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA</td>
+<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/9874bcd9-2373-4062-9e04-cdd0a994f0d4/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1f65098e-31f0-4548-bd46-bdf654e2e197">Test Engineer, R&amp;D</a></td>
-<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA</td>
+<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/642d24de-0fad-4dae-bbd6-16b6a1abf69b/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/122b8c32-6c00-4c5c-a60e-05e432aa6712">Fluids / Mechanical Engineer, R&amp;D</a></td>
-<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA</td>
+<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/2d717643-6e6b-4429-be6b-208baa7a627f/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/127fa159-facf-4af2-b44a-e0d21f23e893">Turbomachinery Engineer, R&amp;D</a></td>
-<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA</td>
+<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/45133df1-bf9c-460e-8d76-c143537c3480/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -419,35 +419,35 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/18de7268-67fb-480b-a598-23cb6cf683d9">Decision Engineer, Compute Operations</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>Austin, TX</td>
+<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/1fa894eb-09ce-478f-b440-aae45aa4953e/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b843b5b9-4913-4a7e-a84b-03c322916773">Decision Engineer, Business Operations</a></td>
-<td>San Francisco, CA<br/>New York, NY<br/>Austin, TX</td>
+<td>Austin, TX<br/>San Francisco, CA<br/>New York, NY<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/e2a1dad4-f2dd-4cd6-b19e-c50bcb51fe0d/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/04c1da56-f2a0-4d4c-9b0a-872c6cc62dc1">Decision Engineer, Manufacturing &amp; Supply Chain</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>Austin, TX</td>
+<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/717a792e-bd03-40c3-acf6-48e360a9034b/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9f0be56b-303e-4e6b-a67f-c4e4d9c25e9b">Security Engineer, Threat Intelligence</a> 🌐</td>
-<td>Remote — United States</td>
+<td>Remote — United States<br/>Austin, TX</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/9068a6c7-6278-4aa3-a968-ffc0e2a2a636/application">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/d78b397d-e868-4e89-b51a-d5f18aeae28d">Systems Engineer, Network Protocols &amp; Distributed Systems</a></td>
-<td>Austin, TX<br/>London (hybrid)</td>
+<td>Austin, TX<br/>London, United Kingdom<br/>Hybrid<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8187404?gh_jid=8187404">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -461,14 +461,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/b8ff4937-0cb5-47ba-b51d-668199ccd2db">Equipment Reliability Engineer (Starship)</a></td>
-<td>Starbase, TX<br/>Bastrop, TX<br/>Brownsville, TX, United States</td>
+<td>Bastrop, TX<br/>Starbase, TX<br/>Brownsville, TX, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8783271002?gh_jid=8783271002">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/297b45ff-7d7d-461f-9c81-abbb9ee0a4c0">Full Stack Software Engineer</a></td>
-<td>Bastrop, TX<br/>Palo Alto, CA<br/>Hawthorne, CA</td>
+<td>Bastrop, TX<br/>Palo Alto, CA<br/>Hawthorne, CA<br/>+3 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8785505002?gh_jid=8785505002">Apply</a></td>
 <td align="center">7 Sep 2026</td>
 </tr>
@@ -510,28 +510,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/28bd7656-bd47-4e3b-a6eb-2e35c608fdc1">Systems Engineer - Database Platform</a></td>
-<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA (hybrid)</td>
+<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+2 more (hybrid)</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8158016?gh_jid=8158016">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/090f92bd-3dd1-4a88-a917-254f7ecd2030">GNC Engineer - Embedded Controls (Starlink)</a></td>
-<td>Redmond, WA<br/>Bastrop, TX, United States</td>
+<td>Bastrop, TX, United States<br/>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8784235002?gh_jid=8784235002">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/f5e52704-5c60-4b0f-9018-27b556f92f1b">Detection &amp; Mitigation Engineer</a></td>
-<td>Austin, TX (hybrid)</td>
+<td>Austin, TX<br/>Hybrid</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8170775?gh_jid=8170775">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/fb9a62e6-35b7-4bd3-a635-fd17639c2c48">Data Center Engineer</a></td>
-<td>US, TX, Austin<br/>US, TX, Home Office<br/>Austin, Texas, United States</td>
+<td>US, TX, Austin<br/>Austin, Texas, United States<br/>US, TX, Home Office<br/>+1 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/88872?lang=en-us">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
@@ -552,42 +552,42 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/7f9ff0ca-e651-4584-ba3c-c79020cbbfdd">Data Engineer I (Full-Time) - United States</a></td>
-<td>San Jose, CA<br/>Austin, TX<br/>Atlanta, GA</td>
+<td>Austin, TX<br/>Austin, Texas, US<br/>San Jose, California, US<br/>+3 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Data-Engineer-I--Full-Time----United-States_2024459">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Upside</strong></td>
 <td><a href="https://trueinterview.io/jobs/a92ec711-002e-4e1b-956f-154a4d215a59">Analytics Engineer, Data Platform</a></td>
-<td>New York, NY<br/>Austin, TX<br/>Chicago, IL</td>
+<td>Austin, TX<br/>New York, NY<br/>Chicago, IL<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/upside/022a5c37-643e-4b1c-a85a-aa5ba6600ca3/application">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Self Financial</strong></td>
 <td><a href="https://trueinterview.io/jobs/b927e39e-f72b-4740-a503-4a2bff050528">Associate Software Engineer (UI)</a></td>
-<td>Austin, TX (hybrid)</td>
+<td>Austin, TX<br/>Hybrid</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/selffinancial/jobs/6181750004">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cesiumastro</strong></td>
 <td><a href="https://trueinterview.io/jobs/37eac710-2cb6-4bbd-b4b9-69432426852e">Mechanical Engineer I</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Westminster, CO<br/>El Segundo, CA</td>
 <td align="center"><a href="https://jobs.lever.co/CesiumAstro/ebf75b86-512b-476c-bf66-d0e399a21929/apply">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Nascent</strong></td>
 <td><a href="https://trueinterview.io/jobs/cf2e5fbc-6978-47d3-a420-f23695b5da4a">Network Engineer</a></td>
-<td>Austin, TX<br/>Toronto, ON<br/>Montreal, QC</td>
+<td>Austin, TX<br/>Toronto, ON<br/>Montreal, QC<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/nascent/72958837-1656-4f01-aec0-93855ae98083/application">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Ontic</strong></td>
 <td><a href="https://trueinterview.io/jobs/859d9f6e-22cb-46e0-8f82-fea430342c2f">Associate DevOps Engineer</a> 🌐</td>
-<td>Remote — United States</td>
+<td>Remote — United States<br/>Austin, TX</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/ontic/c4f5bf21-d5a9-488c-9638-631bd58de471/application">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -615,7 +615,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Hippo Insurance</strong></td>
 <td><a href="https://trueinterview.io/jobs/b90134fd-ec5b-46f2-bba5-ec0d8f24f947">Associate Program Manager</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>TX - Austin<br/>+5 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/hippo70/jobs/8766919002?gh_jid=8766919002">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -629,7 +629,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Hyliion</strong></td>
 <td><a href="https://trueinterview.io/jobs/3bbec577-f8c5-432c-ac07-78fdd7068d20">Engineer, Mechanical</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/hyliion/jobs/6179419004">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -643,28 +643,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/435ba80e-a6dd-4dde-b056-17bf72d15083">Software Engineer - Cloud Infrastructure and Devops</a></td>
-<td>San Jose, CA<br/>Austin, TX</td>
+<td>Austin, TX<br/>San Jose, CA<br/>Scottsdale, AZ, US</td>
 <td align="center"><a href="https://paypal.eightfold.ai/careers/job/274920235215">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Neuralink</strong></td>
 <td><a href="https://trueinterview.io/jobs/e01c6176-06cc-4bfb-add5-c4cee49d588f">Quality Engineering Technician</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>Austin - ATX1</td>
 <td align="center"><a href="https://boards.greenhouse.io/neuralink/jobs/7983992003?gh_jid=7983992003">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Hippo Insurance</strong></td>
 <td><a href="https://trueinterview.io/jobs/154118b8-07c0-4783-9414-b01e7e0d7770">Data Analyst</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>TX - Austin</td>
 <td align="center"><a href="https://boards.greenhouse.io/hippo70/jobs/8767349002?gh_jid=8767349002">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/6237a278-9ca5-4e24-8d3f-a0e1d31ee484">Analog Engineer</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Santa Clara<br/>US, Texas, Austin</td>
+<td>US, Texas, Austin<br/>US, Oregon, Hillsboro, United States of America<br/>US, California, Santa Clara<br/>+1 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Analog-Engineer_JR0286203">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
@@ -678,14 +678,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/42ff3a3c-9bf4-4686-9083-c5e99c08ba98">Design Automation Engineer - Neuromorphic Computing</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>US, California, Santa Clara</td>
+<td>US, Texas, Austin<br/>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Design-Automation-Engineer---Neuromorphic-Computing_JR0286772">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/57f477b0-0fd0-4822-b7f6-bfa2e8b7ec1d">Production Engineer, Network</a></td>
-<td>San Francisco, CA<br/>New York, NY<br/>Austin, TX</td>
+<td>Austin, TX<br/>San Francisco, CA<br/>New York, NY<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/80b2d06b-b654-46cf-9f9f-4194862e0dcf/application">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -720,7 +720,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/f65ec092-0374-4926-b8ce-45e80927fbc9">Software Engineer Full Stack / Backend I (Full Time) - United States</a></td>
-<td>San Jose, CA<br/>New York, NY<br/>Boston, MA</td>
+<td>Austin, TX<br/>Austin, Texas, US<br/>San Jose, California, US, United States of America<br/>+13 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Full-Time----United-States_2024035">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -734,7 +734,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Tecovas</strong></td>
 <td><a href="https://trueinterview.io/jobs/5d3eec0f-d423-4a1c-8611-daa965faeafa">Junior Designer, Men's Footwear</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Tecovas HQ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tecovas/jobs/8756968002">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
@@ -748,7 +748,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Gallatin</strong></td>
 <td><a href="https://trueinterview.io/jobs/289e84eb-6d16-4d47-a3ae-5cc8d47bb32a">IT Systems Engineer</a> 🌐</td>
-<td>Remote — United States</td>
+<td>Remote — United States<br/>Austin, TX</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/gallatin/00ae6401-2466-4ae8-b122-37c61bb4d122/application">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
@@ -790,7 +790,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/8deb81ce-c645-4e92-ae32-ad03fd7dec25">Network Hardware Engineer</a></td>
-<td>Austin, TX (hybrid)</td>
+<td>Austin, TX<br/>Hybrid</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8147174?gh_jid=8147174">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
@@ -804,56 +804,56 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Method Financial</strong></td>
 <td><a href="https://trueinterview.io/jobs/200ff4b9-7872-457d-ab5a-91d4a3d66b9e">Design Engineer</a></td>
-<td>New York, NY<br/>Austin, TX</td>
+<td>Austin, TX<br/>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/method/4c0bd39f-d36e-44ec-8ba2-ea0578502df0/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Eos</strong></td>
 <td><a href="https://trueinterview.io/jobs/7521ff8e-5348-47b8-b01f-9804bf5e2680">IT Support Engineer</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://eosits.com/company/careers/?gh_jid=8747454002">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Palo Alto Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/60f51eeb-1a9f-492a-bdb1-b172e0afc0ba">Solutions Engineer, Endpoint - Central</a></td>
-<td>Chicago, IL<br/>Austin, TX</td>
+<td>Austin, TX<br/>Austin, United States of America<br/>Chicago, IL<br/>+3 more</td>
 <td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Chicago-United-States-of-America/Solutions-Engineer--Endpoint---Central_JR-020640">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1734dbe-4d9c-47c7-a44a-c7914fac7119">Forward Deployed Engineer (FDE) — Agentforce Orchestration</a></td>
-<td>Georgia - Atlanta<br/>Illinois - Chicago<br/>New York - New York</td>
+<td>Texas - Austin<br/>Georgia - Atlanta, United States of America<br/>Illinois - Chicago<br/>+8 more</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Forward-Deployed-Engineer--FDE----Agentforce-Orchestration_JR357427">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/974fd1f4-5d25-4c0c-809e-b2e1543d4e0f">AI Security Engineer</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Santa Clara, CA, United States of America</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Security-Engineer_2603452">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/a2c623a5-f73e-446a-91d1-e282dd2f84a1">Software Engineer, Applied AI</a></td>
-<td>San Francisco, CA<br/>New York, NY<br/>Austin, TX</td>
+<td>Austin, TX<br/>San Francisco, CA<br/>New York, NY<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/835e6b2c-bf7a-41e8-a308-71ecf4adad07/application">Apply</a></td>
 <td align="center">22 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Aretum</strong></td>
 <td><a href="https://trueinterview.io/jobs/899319ba-7eb3-40e3-a671-98092bab6a6e">EOG Event Management Triage Engineer</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://jobs.workable.com/view/hLcV2TTy6HmHMEZNdpLNQZ/eog-event-management-triage-engineer-in-austin-at-aretum">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Hyliion</strong></td>
 <td><a href="https://trueinterview.io/jobs/fd3587b9-8e2e-4e99-8663-10d19ff946ea">Metrology Engineer</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/hyliion/jobs/6150403004">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
@@ -867,14 +867,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/9036c3bd-9940-4c8d-94ac-acfe13d0215c">Customer Support Engineer - Nationwide Opportunities - Veterans Make America!</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Malta, NY, United States of America<br/>Phoenix, AZ<br/>+4 more</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Malta-NY/Customer-Support-Engineer--E-_2640005">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Samsung</strong></td>
 <td><a href="https://trueinterview.io/jobs/62d51ab3-2525-46eb-969c-97e2498b92fe">TEM Analysis Engineer - All Shifts</a></td>
-<td>1530 FM 973 Taylor, TX, USA, United States of America<br/>12100 Samsung Blvd, Austin, TX, USA</td>
+<td>12100 Samsung Blvd, Austin, TX, USA<br/>1530 FM 973 Taylor, TX, USA, United States of America</td>
 <td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/TEM-Analysis-Engineer---All-Shifts_R119838">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
@@ -895,7 +895,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/441148a7-2ce9-41a5-abb7-e088e105e321">Electromagnetic Effects Test Engineer (Automotive/Satellite EMC)</a></td>
-<td>Hawthorne, CA<br/>Bastrop, TX, United States</td>
+<td>Bastrop, TX, United States<br/>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8721179002?gh_jid=8721179002">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
@@ -909,7 +909,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SonarSource</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec014430-2db0-4126-b0f3-2676295c7192">Customer Success Engineer - America</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas</td>
 <td align="center"><a href="https://jobs.lever.co/sonarsource/e9b34036-4608-452d-a597-28a3c90cdb36/apply">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
@@ -958,7 +958,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Gyde</strong></td>
 <td><a href="https://trueinterview.io/jobs/3a6bb52f-1f17-47ce-acda-4fc4a60dbfdd">Infrastructure Engineer</a></td>
-<td>Austin, TX (hybrid)</td>
+<td>Austin, TX<br/>Austin, Texas, United States, New York City, New York, United States<br/>Austin - Hybrid<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/gyde/jobs/4373668009">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
@@ -972,14 +972,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Palo Alto Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/1a7061b3-1990-4a93-86d7-4b4a9b3234e4">Solutions Engineer, DevOps - Central</a></td>
-<td>Austin, TX<br/>Chicago, IL</td>
+<td>Austin, TX<br/>Austin, United States of America<br/>Chicago, IL<br/>+3 more</td>
 <td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Austin-United-States-of-America/Solutions-Engineer--DevOps---Central_JR-020639">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/4395c5e0-49ea-470b-b905-017bfbf4c136">New Graduate Engineer, Software  - '26/'27  (Starlink)</a></td>
-<td>Palo Alto, CA</td>
+<td>Bastrop, TX<br/>Palo Alto, CA<br/>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
@@ -993,7 +993,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d6138eb7-1f67-4697-bbba-f9f58f3c6517">New Graduate Engineer, GNC- '26/'27 (Starlink)</a></td>
-<td>Redmond, WA<br/>Bastrop, TX</td>
+<td>Bastrop, TX<br/>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
@@ -1014,7 +1014,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/38289bb9-5e85-4d21-8a76-ea9a3fc9e9a8">ASIC Physical Design Engineer, Netlisting - New College Grad 2026</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893395048676">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
@@ -1049,7 +1049,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Zello</strong></td>
 <td><a href="https://trueinterview.io/jobs/3ce3d8b6-64e1-47ac-9218-96fbbb5a4c73">Escalation Engineer</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/zello/b22b4682-38ff-4ef5-85e4-414ec288619a/application">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
@@ -1070,7 +1070,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/7416d491-c760-4924-b07d-16ca8bdc9ecd">Compute Engineer, Deployment</a> 🌐</td>
-<td>Remote — United States</td>
+<td>Remote — United States<br/>Austin, TX</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/73a25138-e2eb-4490-8fdb-c7b9f4938395/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
@@ -1084,21 +1084,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Splunk</strong></td>
 <td><a href="https://trueinterview.io/jobs/2d60fd46-6a00-4ade-9c32-2ffe8c5640ff">Applied AI Scientist</a></td>
-<td>Seattle, WA<br/>Atlanta, GA<br/>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, United States of America<br/>Seattle, Washington, United States of America<br/>+31 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Seattle-Washington-US/Applied-AI-Scientist_2018334">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/69367a46-43ca-40fd-851d-7414b99705bf">Network Engineer, Design &amp; Engineering</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>Austin, TX</td>
+<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/8fd17643-2fdb-4c61-b76b-454872a44b99/application">Apply</a></td>
 <td align="center">10 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>CrowdStrike</strong></td>
 <td><a href="https://trueinterview.io/jobs/6a766ea9-4eb4-4dea-a7bf-5aa234ccb2c2">Software Engineer - Sensor, MacOS  (Hybrid)</a></td>
-<td>USA - Sunnyvale, CA<br/>USA - Austin, TX<br/>USA - Redmond, WA</td>
+<td>USA - Austin, TX<br/>USA - Sunnyvale, CA, United States of America<br/>USA - Redmond, WA</td>
 <td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Software-Engineer---Sensor--macOS---Hybrid-_R29279">Apply</a></td>
 <td align="center">7 Aug 2026</td>
 </tr>
@@ -1112,21 +1112,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/b2928ac6-8476-4296-87d1-131e3260da30">ASIC/SOC DFT Engineer (Silicon Engineering)</a></td>
-<td>Austin, TX<br/>Palo Alto, CA</td>
+<td>Austin, TX<br/>Austin - 800<br/>Austin, Texas, United States<br/>+2 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8686199002?gh_jid=8686199002">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/20888861-8a70-45c0-9411-90ce1c0b28d6">Software Engineer, Network Firewall</a></td>
-<td>Atlanta, GA<br/>Austin, TX<br/>Denver, CO (hybrid)</td>
+<td>Austin, TX<br/>Atlanta, GA<br/>Denver, Colorado, United States<br/>+3 more (hybrid)</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8106815?gh_jid=8106815">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/3973b60a-9299-4a9c-957c-29b382bcf993">Network Engineer, BMS/EPMS</a> 🌐</td>
-<td>Remote — United States</td>
+<td>Remote — United States<br/>Austin, TX</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/0dffe479-ba72-4007-99e1-46e8d5c70c5c/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
@@ -1147,14 +1147,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Tenstorrent</strong></td>
 <td><a href="https://trueinterview.io/jobs/02d99ad8-b45a-4aeb-bc7e-bb078cb97778">Physical Design Methodology Engineer, AI HW IP</a></td>
-<td>Austin, TX<br/>Toronto, ON</td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>Toronto, Ontario, Canada<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5198608007">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Dlr Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/326edc83-949e-48e8-9edf-4cdae1aec310">National Discipline Quality Control Leader (NQC) + Structural Engineer</a></td>
-<td>Austin, TX<br/>Chicago, IL<br/>Denver, CO</td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>Chicago, Illinois, United States<br/>+19 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5380164008">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
@@ -1168,7 +1168,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/e0c98ea0-e895-4e56-930e-8e1113d1af57">Network Engineer, Wireless</a> 🌐</td>
-<td>Remote — United States</td>
+<td>Remote — United States<br/>Austin, TX</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/567a54e0-b9ce-4fff-ae8a-4edee9d55e85/application">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
@@ -1203,14 +1203,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/30c19a64-9c66-43b4-a329-3779c8dbc34a">Application Software Engineer, Applied AI</a></td>
-<td>Hawthorne, CA<br/>Bastrop, TX<br/>Starbase, TX</td>
+<td>Bastrop, TX<br/>Hawthorne, CA<br/>Starbase, TX<br/>+5 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002">Apply</a></td>
 <td align="center">30 Jul 2026</td>
 </tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/e741ac55-fafc-4c0a-90c8-667e9d2dd190">Software Engineer, Spectrum</a></td>
-<td>Austin, TX<br/>London (hybrid)</td>
+<td>Austin, TX<br/>London, United Kingdom<br/>Hybrid</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8094826?gh_jid=8094826">Apply</a></td>
 <td align="center">30 Jul 2026</td>
 </tr>
@@ -1224,7 +1224,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/61d91880-cdbe-4d7e-a2a1-ed28fdf2ba08">Systems Engineer</a></td>
-<td>Austin, TX<br/>London (hybrid)</td>
+<td>Austin, TX<br/>London, United Kingdom<br/>Hybrid</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8071056?gh_jid=8071056">Apply</a></td>
 <td align="center">30 Jul 2026</td>
 </tr>
@@ -1238,7 +1238,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/46068e53-2b51-4128-bd7e-22bf8d862c99">Software Engineer, Cloudflare Network Interconnect</a></td>
-<td>Austin, TX<br/>London (hybrid)</td>
+<td>Austin, TX<br/>London, United Kingdom<br/>Hybrid<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751">Apply</a></td>
 <td align="center">29 Jul 2026</td>
 </tr>
@@ -1252,7 +1252,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/fcb3dd73-376f-4ac3-91b3-2fc83981578b">Operations Engineer, Applied AI (Application Software)</a></td>
-<td>Hawthorne, CA<br/>Bastrop, TX<br/>Starbase, TX</td>
+<td>Bastrop, TX<br/>Hawthorne, CA<br/>Starbase, TX<br/>+5 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8652229002?gh_jid=8652229002">Apply</a></td>
 <td align="center">28 Jul 2026</td>
 </tr>
@@ -1266,7 +1266,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/19e30ae7-490e-4cc7-b237-8f86f5b67775">Platform / System Debug Validation Engineer</a></td>
-<td>US, TX, Austin_Research Park<br/>Austin, Texas, United States</td>
+<td>Austin, Texas, United States<br/>US, TX, Austin_Research Park</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/88618?lang=en-us">Apply</a></td>
 <td align="center">23 Jul 2026</td>
 </tr>

@@ -50,7 +50,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Beanstock</strong></td>
 <td><a href="https://trueinterview.io/jobs/ba553aee-ebbd-4ae9-9d95-538e26010976">Software Engineer (Laravel)</a> 🌐</td>
-<td>Remote</td>
+<td>Remote<br/>Cairo, Egypt, Remote</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/beanstock/jobs/software-engineer-laravel_paris">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -78,7 +78,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/161de369-3547-44a0-beb8-1b1cec45711b">Data Engineer DBT, GCP &amp; Looker - Nearshore (H/F)</a> 🌐</td>
-<td>Remote</td>
+<td>Remote<br/>Casablanca, Morocco, Remote</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/skiils/jobs/data-engineer-near-shore-bigquery-dbt-looker-h-f">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>

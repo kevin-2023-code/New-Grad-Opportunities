@@ -107,7 +107,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>ChapsVision</strong></td>
 <td><a href="https://trueinterview.io/jobs/8a9e3cad-b573-44ee-b764-3a18b1b91404">Stage Software Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/chapsvision/jobs/stage-software-engineer_paris">Apply</a></td>
 <td align="center">19 Sep 2026</td>
 </tr>
@@ -184,7 +184,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Lloyds</strong></td>
 <td><a href="https://trueinterview.io/jobs/4832fde2-b922-4a91-85e3-9b5a2117319c">Software Engineer</a></td>
-<td>Edinburgh</td>
+<td>Edinburgh, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/lloyds/jobs/software-engineer_edinburgh_y5szdmzv">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -198,14 +198,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Our Future Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/60132f42-3e86-4fee-927d-bd17fbcf69bd">Software Engineer (Typescript &amp; Node)</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/our-future-health/jobs/software-engineer-typescript-node_london_lk4b464e">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Theodo</strong></td>
 <td><a href="https://trueinterview.io/jobs/e01b2693-04f2-4c7f-bbd7-71a4f15b4121">Software Engineer Fullstack - Stage de fin d'études Paris - Theodo</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/software-engineer-fullstack-stage-paris-theodo_paris">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -240,7 +240,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Singlestore</strong></td>
 <td><a href="https://trueinterview.io/jobs/c15db5ea-ebe3-4edd-a78f-6df4fd631cfd">Software Engineer</a></td>
-<td>Hyderabad</td>
+<td>Hyderabad<br/>India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/singlestore/jobs/8212128">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
@@ -282,7 +282,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Numberly</strong></td>
 <td><a href="https://trueinterview.io/jobs/626adebf-23a9-4e3e-b3f7-f7e6ba645c47">Stage - Software Engineer - Backend / Fullstack</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/numberly-1000mercis/jobs/stage-software-engineer-backend-fullstack_paris_NUMBE_zqy9VNN">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
@@ -310,14 +310,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Arista Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/efd88f84-9504-44dd-9e58-f8d554d60d09">Software Engineer Graduate 2026/2027</a></td>
-<td>Dublin</td>
+<td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149958449-software-engineer-graduate-2026-2027?oga=true">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Iterable</strong></td>
 <td><a href="https://trueinterview.io/jobs/0583b68d-ef50-4873-9389-90f0831f45cf">Software Engineer</a></td>
-<td>Lisbon (hybrid)</td>
+<td>Lisbon<br/>Hybrid - Lisbon, Portugal</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/iterable/jobs/8093090">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -359,7 +359,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Mistral AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/8e5f5ef2-17be-4504-9a26-fa51c110f643">Research Software Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/research-software-engineer_paris">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -373,28 +373,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ead6d16e-77f2-4bd5-9be1-a61d1fa7de8d">Software Engineer Network Automation, WAN &amp; Edge</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/software-engineer-network-automation-data-center-fabrics_paris">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9062e4c8-b71d-4f86-a035-578c30f0a42e">Software Engineer, Enterprise Agents</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/software-engineer-enterprise-agents_paris">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0227d431-dc34-45c3-b92c-699d4d8ab161">Software Engineer, Frontend</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/software-engineer-frontend_paris">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9e805e1f-21ba-4ac7-b95c-608af5191354">Software Engineer, New Grad</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/software-engineer-new-grad_paris_MA_Z9wxb6o">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -415,14 +415,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>SAHAR</strong></td>
 <td><a href="https://trueinterview.io/jobs/d432be93-28d3-47c5-8f68-9c35ef6a5169">Software Engineer - Blockchain</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/sahar/jobs/software-engineer-blockchain_paris">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>ZEPLUG</strong></td>
 <td><a href="https://trueinterview.io/jobs/0d235441-1026-4ffe-a2fc-a719cf379600">CDI - Software Engineer - Squad PCA / SIO - H/F</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/zeplug/jobs/cdi-software-engineer-squad-pca-sio-h-f_paris">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -450,21 +450,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>EarnIn</strong></td>
 <td><a href="https://trueinterview.io/jobs/f8c57bd6-70a1-4c78-85f9-6a882b23c3cb">Developer Experience Contractor</a></td>
-<td>Bengaluru</td>
+<td>Bengaluru, India<br/>Bengaluru/Bangalore, India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/earnin/jobs/8204726">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Skelar</strong></td>
 <td><a href="https://trueinterview.io/jobs/2f43340e-6f01-451e-91cf-e095465b8205">Software Engineer (Golang) - RiseGuide</a></td>
-<td>Warsaw</td>
+<td>Warsaw<br/>Kyiv</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skelar/7775b2b7-2d8e-4df0-bcb9-ee54fa43226e/application">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Avoca</strong></td>
 <td><a href="https://trueinterview.io/jobs/8b7e4c46-dc61-478c-8ecd-f7e6a956c8f9">Software Engineer (Product)</a></td>
-<td>Bengaluru</td>
+<td>Bengaluru, India</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/avoca/ec05c135-ab26-437a-8fe9-f7a5c4da08e5/application">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -478,14 +478,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Margo</strong></td>
 <td><a href="https://trueinterview.io/jobs/5fa824d5-67bc-4cf5-95c8-e6ed29a2d412">Software Engineer Full Stack (.NET / React) – Projet From Scratch – / Practice SE MARGO</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/margo/jobs/software-engineer-full-stack-net-react-projet-from-scratch-practice-se-margo_paris">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Mastercard</strong></td>
 <td><a href="https://trueinterview.io/jobs/19aa9097-44c2-4695-ad70-a6f3c5cbb015">Software Integration Engineer-II</a></td>
-<td>Pune</td>
+<td>Pune, India</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Integration-Engineer-II_R-280012-1">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -499,7 +499,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4fc21dc6-9a0a-469e-abec-c7dc85b9b979">Software Engineer, DevEx</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/software-engineer-devex_paris">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -527,14 +527,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Btg Pactual</strong></td>
 <td><a href="https://trueinterview.io/jobs/d9bca1fa-453e-4f2f-b804-9b66de54acfd">Software Engineer Backend |  IT Offshore Platform US</a></td>
-<td>São Paulo</td>
+<td>São Paulo, Brazil<br/>BR - SAO PAULO</td>
 <td align="center"><a href="https://carreiras.btgpactual.com/vagas?gh_jid=6192350004">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Autodesk</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac06440d-7320-4211-8779-d35abe18daec">Software Engineer</a></td>
-<td>Ireland<br/>Birmingham, United Kingdom<br/>San Francisco, CA, USA</td>
+<td>Ireland<br/>Birmingham, United Kingdom<br/>San Francisco, CA, USA, United States of America</td>
 <td align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100611-1">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -555,14 +555,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>STEP Consulting</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4f54259-6e90-4d64-88a8-7f6feb66cb6d">Software Engineer – IA &amp; Systèmes Complexes</a></td>
-<td>Grenoble</td>
+<td>Grenoble, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/step-consulting/jobs/developpeur-python-full-stack_grenoble">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Factset</strong></td>
 <td><a href="https://trueinterview.io/jobs/71e257b9-acda-41bf-a62a-75c0c9150f56">Infrastructure Software Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/factset/jobs/infrastructure-software-engineer_london_xzoge2ah">Apply</a></td>
 <td align="center">13 Sep 2026</td>
 </tr>
@@ -590,7 +590,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Abound</strong></td>
 <td><a href="https://trueinterview.io/jobs/a7f4ed27-8b77-4adb-8c1a-8ecdfafb874f">Python Software Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Abound/221e99b5-a0e9-41be-8210-39b6ad20ece2/application">Apply</a></td>
 <td align="center">12 Sep 2026</td>
 </tr>
@@ -618,7 +618,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Capgemini</strong></td>
 <td><a href="https://trueinterview.io/jobs/bf28b33c-3baa-43a0-aa42-3e60d019b324">Software Engineer Fullstack</a></td>
-<td>Toulouse</td>
+<td>Toulouse, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/capgemini/jobs/software-engineer-fullstack_toulouse_CAPGE_ldG59yW">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -639,14 +639,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Mastercard</strong></td>
 <td><a href="https://trueinterview.io/jobs/a5616901-e13b-4144-8923-765c7b4c340d">Java Software Engineer</a></td>
-<td>Mexico City</td>
+<td>Mexico City, Mexico</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Java-Software-Engineer_R-289283">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Mimecast</strong></td>
 <td><a href="https://trueinterview.io/jobs/3698a399-bead-4cc1-8095-f44d47cfe780">Software Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mimecast/jobs/software-engineer_london_otexmxjl">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -667,7 +667,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Ten10</strong></td>
 <td><a href="https://trueinterview.io/jobs/5446d076-9c3d-4261-a93a-cb8398f0f8d6">Software Developer in Test</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/ten10/jobs/software-developer-in-test_london_2zhhnrqo">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -695,7 +695,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Checkout.com</strong></td>
 <td><a href="https://trueinterview.io/jobs/bd844206-0acd-47c5-bc3a-ece7dd3ed931">Software Engineer I</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/checkout-com-1/jobs/software-engineer-i_paris_usxj4fd2">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -709,7 +709,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Darktrace</strong></td>
 <td><a href="https://trueinterview.io/jobs/1cf17e2b-3ab8-47c9-95ce-a6679628833a">Specialist Software Engineer</a></td>
-<td>Cambridge</td>
+<td>Cambridge, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/darktrace/jobs/specialist-software-engineer_cambridge_vfukulwm">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -751,7 +751,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Thought Machine</strong></td>
 <td><a href="https://trueinterview.io/jobs/bd821335-770a-4999-bdcd-7826c6826ee6">Software Engineer (Infrastructure)</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/thought-machine/jobs/software-engineer-infrastructure_london_brrpwf6o">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -765,14 +765,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Wise</strong></td>
 <td><a href="https://trueinterview.io/jobs/fabcf4d2-8b75-4ec5-a2ac-109ce47cd34f">Software Engineer - Recurring Payin</a></td>
-<td>London</td>
+<td>London, , United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000148615804-software-engineer-recurring-payin?oga=true">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Clearstreet</strong></td>
 <td><a href="https://trueinterview.io/jobs/93a12463-f944-4eff-ae6b-bd383bbd4a85">Software Engineer - Payments Systems</a></td>
-<td>London</td>
+<td>London, UK</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/clearstreet/jobs/8152978">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -807,7 +807,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Code Busters</strong></td>
 <td><a href="https://trueinterview.io/jobs/3ebecedf-4726-498f-8615-f474cc14bce1">Software Engineer Java (H/F)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/code-busters/jobs/software-engineer-java-h-f_paris">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -835,14 +835,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>OVHcloud</strong></td>
 <td><a href="https://trueinterview.io/jobs/3873473e-9741-4b99-ae76-6b27a685de56">Software Engineer Frontend - F/H/N</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/ovh/jobs/software-engineer-frontend-f-h-n_paris">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Padam Mobility</strong></td>
 <td><a href="https://trueinterview.io/jobs/1a261ee7-8601-4c4a-9aa8-e25ababd4122">Stagiaire Software Engineer - Transport Consulting</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/padam/jobs/stagiaire-software-engineer-transport-consulting_paris">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -919,14 +919,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Clearstreet</strong></td>
 <td><a href="https://trueinterview.io/jobs/ad705d91-fac2-4412-982c-d140c1f5bf37">Software Engineer - Front End - Studio (Core)</a></td>
-<td>London</td>
+<td>London, UK</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/clearstreet/jobs/8152992">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>ZoomInfo</strong></td>
 <td><a href="https://trueinterview.io/jobs/a374b145-2db8-4f0f-a322-e8a36e9f2632">Software Engineer I - Salesforce Support</a></td>
-<td>Bengaluru</td>
+<td>Bengaluru, Karnataka, India<br/>Bangalore, India</td>
 <td align="center"><a href="https://www.zoominfo.com/careers?gh_jid=8759684002">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -940,7 +940,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Galadrim</strong></td>
 <td><a href="https://trueinterview.io/jobs/133568fb-d0fe-4631-9690-2053c865a7e2">Software Engineer - Madrid</a></td>
-<td>Madrid</td>
+<td>Madrid, Spain</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/galadrim/jobs/software-engineer-full-stack-madrid_madrid">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -954,7 +954,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Mastercard</strong></td>
 <td><a href="https://trueinterview.io/jobs/c2fe45e6-6463-4b5c-85e6-571ccf3370b9">Software Engineer - 1</a></td>
-<td>Pune</td>
+<td>Pune, India</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---1_R-288516">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -968,7 +968,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Clio</strong></td>
 <td><a href="https://trueinterview.io/jobs/ffe588b2-8781-4899-9d4c-e9a3602078e9">Software Developer</a></td>
-<td>Manchester</td>
+<td>Manchester, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/clio/jobs/software-developer_manchester_isi6sz4b">Apply</a></td>
 <td align="center">6 Sep 2026</td>
 </tr>
@@ -996,7 +996,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Matillion</strong></td>
 <td><a href="https://trueinterview.io/jobs/d080312b-96ba-4b15-ad65-4162b4b5d9d8">Software Engineer</a></td>
-<td>Manchester</td>
+<td>Manchester, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/matillion/jobs/software-engineer_manchester_er3lnphm">Apply</a></td>
 <td align="center">5 Sep 2026</td>
 </tr>
@@ -1052,7 +1052,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Citalid</strong></td>
 <td><a href="https://trueinterview.io/jobs/c2d643bb-ec31-4e1e-acc9-0c01facbdc6f">Software Engineer – Risk Modelling &amp; Data (H/F)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/citalid-cybersecurite-1/jobs/software-engineer-risk-modelling-data-h-f_paris">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
@@ -1073,14 +1073,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Galadrim</strong></td>
 <td><a href="https://trueinterview.io/jobs/29c64727-5487-4a2e-be51-77bd29ebd98c">Product &amp; Software Engineer</a></td>
-<td>Lyon</td>
+<td>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/galadrim/jobs/developpeur-full-stack_paris">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Genomics England</strong></td>
 <td><a href="https://trueinterview.io/jobs/c0410897-e6a8-48ed-b321-29d92c31adfd">Software Engineer - Python</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/software-engineer-python-at-genomics-england-f3c663e3">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
@@ -1136,7 +1136,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Galadrim</strong></td>
 <td><a href="https://trueinterview.io/jobs/a5d5b368-8a7d-49e8-a235-3b907bae1946">Product &amp; Software Engineer - Stage de fin d'études</a></td>
-<td>Lyon</td>
+<td>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/galadrim/jobs/stage-developpeur-full-stack_paris">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -1150,7 +1150,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>GitGuardian</strong></td>
 <td><a href="https://trueinterview.io/jobs/054fc70f-a809-46a5-8231-51c39408d8f6">Software Engineer in Test (QA automation)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/gitguardian/jobs/software-engineer-in-test-qa-automation_paris_GITGU_7Rr3wwl">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -1171,14 +1171,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Mastercard</strong></td>
 <td><a href="https://trueinterview.io/jobs/b06d32f8-1945-4b90-b579-b3e161a7fbb0">Software Engineer - Full Stack</a></td>
-<td>Pune</td>
+<td>Pune, India</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---Full-Stack_R-289575">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/df7eee05-c6c7-4564-a593-2b25322aa17a">Software Engineer - Java Spring Boot</a></td>
-<td>Pune</td>
+<td>Pune, India</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289581">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -1227,7 +1227,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Trustpilot</strong></td>
 <td><a href="https://trueinterview.io/jobs/eb7ab6d9-ab0b-4740-ae79-d0654487b911">Software Engineer (Trust Tech)</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/trustpilot/jobs/software-engineer-trust-tech_london_e54tsvti">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -1241,7 +1241,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Yubico Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/bb5301db-5194-4a9a-876a-0c372122b935">Software Engineer (Cross-Platform Applications)</a></td>
-<td>Stockholm</td>
+<td>Stockholm, Sweden</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/yubico/jobs/4390628009">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -1269,7 +1269,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>ChapsVision</strong></td>
 <td><a href="https://trueinterview.io/jobs/ba4df855-28ba-423c-b9ea-e14daf8057a2">Stage Software Engineer Front-End</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/chapsvision/jobs/stage-software-engineer-front-end_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -1283,7 +1283,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Dashlane</strong></td>
 <td><a href="https://trueinterview.io/jobs/f9bcbe17-241f-4cfd-a86c-53dc9293189e">Software Engineer - Security Features</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/dashlane/jobs/software-engineer-security-features_paris_6zhu3rby">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -1297,14 +1297,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Fairly Made</strong></td>
 <td><a href="https://trueinterview.io/jobs/49ce10f5-c071-421a-9750-71e3875d47ce">Software Engineer - CDI (F/M/X)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/fairly-made/jobs/software-engineer-cdi-f-m-x_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Galadrim</strong></td>
 <td><a href="https://trueinterview.io/jobs/dfd05ea2-943d-4e83-a414-2699a94e4ef3">Software Engineer - Prácticas de fin de máster (Madrid)</a></td>
-<td>Madrid</td>
+<td>Madrid, Spain</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/galadrim/jobs/software-engineer-practicas-de-fin-de-master-madrid_madrid">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -1325,7 +1325,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>OVHcloud</strong></td>
 <td><a href="https://trueinterview.io/jobs/22869a4e-95df-474a-8ee1-98c381bfdb5c">Software Engineer - Network Observability F/H/N</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/ovh/jobs/software-engineer-network-observability-f-h-n_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -1360,14 +1360,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Theodo FinTech</strong></td>
 <td><a href="https://trueinterview.io/jobs/c69f1d39-b0cf-4582-89b6-ec3e165aa37b">Software Engineer Fullstack - CDI Paris - Theodo FinTech</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/sipios/jobs/dev-junior-sipios_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Theodo France</strong></td>
 <td><a href="https://trueinterview.io/jobs/7f9e06f2-3713-4f1e-a4a6-40c9baa62dfa">LeanTech Software Engineer - CDI Paris - Theodo</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/leantech-software-engineer-cdi-paris-theodo_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -1381,70 +1381,70 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ad91d741-06ad-41ca-8b32-c5892dc9cc43">Software Engineer Fullstack - CDI Paris - E-commerce - Theodo</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/software-engineer-fullstack-cdi-paris-e-commerce-theodo_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8c16d007-4c8f-4904-9fdc-fadae26afe48">Software Engineer Fullstack - CDI Paris - Retail - Theodo</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/software-engineer-fullstack-cdi-paris-theodo-retail_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5b65871a-ce9d-4ec2-ad84-0cb52e382365">Software Engineer Fullstack - Secteur financier - CDI Paris - Theodo</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/software-engineer-fullstack-secteur-financier-cdi-paris-theodo_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/31e60fe1-511e-4931-9f6e-e991d1482c55">Software Engineer Fullstack - Secteur Public - CDI Paris - Theodo</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/software-engineer-fullstack-secteur-public-cdi-paris-theodo-govtech_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b2e2e7a9-e459-4d6b-a46b-14d164385145">Software Engineer Fullstack Expérimenté - CDI Paris - Theodo</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/software-engineer-fullstack-experimente-cdi-paris-theodo_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a318af66-da42-4e3f-b982-8f7aca10e64e">Software Engineer Node/React - Theodo Extend - CDI - Paris</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/software-engineer-node-react-theodo-extend-cdi-paris_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Theodo GovTech</strong></td>
 <td><a href="https://trueinterview.io/jobs/3604fa13-283a-4c10-b9ac-23055dcecd50">Software Engineer Fullstack Secteur Public - CDI Paris - Theodo GovTech</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/solona/jobs/software-engineer-fullstack-secteur-public-cdi-paris_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Theodo HealthTech</strong></td>
 <td><a href="https://trueinterview.io/jobs/fe294f7b-d2d4-4a57-913d-4e1e8111d038">Healthcare Software Engineer Fullstack - CDI Paris - Theodo HealthTech</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/hokla/jobs/healthcare-software-engineer-cdi-paris-theodo-healthtech_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b853ce87-3c01-43e6-a199-dea0f075bdac">Software Engineer Fullstack - CDI Paris - Theodo HealthTech</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/hokla/jobs/software-engineer-fullstack-cdi-paris-theodo-healthtech_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Mako</strong></td>
 <td><a href="https://trueinterview.io/jobs/1de4b7f6-e184-43e3-a256-14812299d0f4">Graduate Software Engineer, Sydney</a></td>
-<td>Sydney</td>
+<td>Sydney<br/>Mako Sydney</td>
 <td align="center"><a href="https://www.mako.com/opportunities/job-listing/8654611002?gh_jid=8654611002">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
@@ -1458,7 +1458,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1f425c0-d9ad-4146-b6d7-690ab9643f5d">2027 Software Engineer Program - Full-time - Glasgow &amp; London</a></td>
-<td>London</td>
+<td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774781">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -1486,7 +1486,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Graphcore</strong></td>
 <td><a href="https://trueinterview.io/jobs/f30580a7-881c-454f-b384-8b7abca2a272">Software Engineer - Triton</a></td>
-<td>Bristol</td>
+<td>Bristol, UK<br/>Gdańsk, Pomeranian Voivodeship, Poland<br/>Poland</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8543115002">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
@@ -1591,49 +1591,49 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Govtech</strong></td>
 <td><a href="https://trueinterview.io/jobs/4a054131-f6bd-49ad-aeb0-e11f845bf0b8">Software Engineer - Storage Infrastructure</a></td>
-<td>Singapore</td>
+<td>Singapore<br/>CEP Core Engineering Products</td>
 <td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005734201?gh_jid=4005734201">Apply</a></td>
 <td align="center">16 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7633934e-4012-4ae6-a112-a12433bbd6fa">Software Engineer - Kubernetes Platform</a></td>
-<td>Singapore</td>
+<td>Singapore<br/>CEP Core Engineering Products</td>
 <td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005732201?gh_jid=4005732201">Apply</a></td>
 <td align="center">16 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>1global</strong></td>
 <td><a href="https://trueinterview.io/jobs/0177ef57-fdbd-4640-8e69-3782a6993806">.NET Software Engineer</a></td>
-<td>São Paulo</td>
+<td>São Paulo, State of São Paulo, Brazil</td>
 <td align="center"><a href="https://jobs.workable.com/view/989shBwiBkKHWuyDAZir9E/hybrid-.net-software-engineer-in-s%C3%A3o-paulo-at-1global">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Latamcent</strong></td>
 <td><a href="https://trueinterview.io/jobs/e58ec862-7702-4bef-8d99-c982112b5ff9">InDesign Automation Developer</a></td>
-<td>Brazil<br/>Argentina<br/>Peru</td>
+<td>Brazil<br/>Argentina<br/>Peru<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/latamcent/57d975c5-ebfc-4adb-ab86-9681348ab2ca/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Bet365</strong></td>
 <td><a href="https://trueinterview.io/jobs/c7f87469-5f2e-49bb-ba36-e73ff90b2ec2">Software Developer, Risk and Regulatory</a></td>
-<td>Manchester</td>
+<td>Manchester, England, United Kingdom<br/>Stoke-on-Trent, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000143173629-software-developer-risk-and-regulatory?oga=true">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f9cbca70-a09c-4b2c-af91-d315b0878d03">Software Developer, In-Play</a></td>
-<td>Manchester</td>
+<td>Manchester, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000143168979-software-developer-in-play?oga=true">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/32e5a105-bb57-4762-83bb-46befff01bbe">Software Engineer, GPU Infrastructure- ChatGPT Engineering</a></td>
-<td>London</td>
+<td>London, UK</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/f8b84ae5-743b-41c9-8432-02dff9993d6b/application">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
@@ -1668,21 +1668,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>The Quality Group Gmbh</strong></td>
 <td><a href="https://trueinterview.io/jobs/fa5b157f-bcc8-4637-83fc-d0fbcedd3400">Product Developer Bars (gn) - ESN</a></td>
-<td>Hamburg</td>
+<td>Hamburg<br/>Headquarter Hamburg</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4949188101">Apply</a></td>
 <td align="center">9 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Xsolla</strong></td>
 <td><a href="https://trueinterview.io/jobs/738bbab7-d3d9-4381-bb5f-6de13741eb7d">Developer Evangelist - Integrations</a></td>
-<td>Moscow<br/>Almaty<br/>Armenia</td>
+<td>Moscow<br/>Almaty<br/>Armenia<br/>+5 more</td>
 <td align="center"><a href="https://jobs.lever.co/xsolla/d00d0e70-7c03-4fe9-8ebe-884721476c10/apply">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/42f6a996-5571-4b7a-bda6-c3458480be7a">Developer Evangelist - Community</a></td>
-<td>Moscow<br/>Almaty<br/>Armenia</td>
+<td>Moscow<br/>Almaty<br/>Armenia<br/>+5 more</td>
 <td align="center"><a href="https://jobs.lever.co/xsolla/8c0f5e96-f19f-4d7b-a2a2-a2531e925f02/apply">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>

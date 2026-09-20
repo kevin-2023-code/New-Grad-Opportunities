@@ -76,7 +76,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Wayve</strong></td>
 <td><a href="https://trueinterview.io/jobs/b72a9b63-9677-4923-a670-da62219b0310">Machine Learning Engineer, Performance Tooling</a></td>
-<td>London<br/>Sunnyvale, CA</td>
+<td>London, United Kingdom<br/>Sunnyvale, California USA</td>
 <td align="center"><a href="https://wayve.firststage.co/jobs?gh_jid=8752478002">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -195,7 +195,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Waymo</strong></td>
 <td><a href="https://trueinterview.io/jobs/5adca799-0ca6-4f9b-9a29-2b7cc0576a75">Research Scientist, Map Scalability</a></td>
-<td>Mountain View, CA<br/>San Francisco, CA</td>
+<td>Mountain View, CA, U.S.A<br/>San Francisco, CA, U.S.A<br/>New York City, NY, U.S.A</td>
 <td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8180692">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -237,7 +237,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Zoox</strong></td>
 <td><a href="https://trueinterview.io/jobs/5f1dfd94-ddf7-4466-a913-cc2ddc51eed1">Software Engineer - Collision Avoidance System Metrics</a></td>
-<td>Boston, MA</td>
+<td>Boston, MA<br/>Foster City, CA<br/>San Diego, CA</td>
 <td align="center"><a href="https://jobs.lever.co/zoox/d5d0608a-aa33-43c3-abe2-5ff8b40028d5/apply">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -510,7 +510,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Ford Motor Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/fdceac25-a723-436b-af6f-3af3613128e3">Software Development (Embedded) Engineer</a></td>
-<td>Ottawa, ON</td>
+<td>Ottawa, ON, Canada</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68556">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
@@ -545,7 +545,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Nuro</strong></td>
 <td><a href="https://trueinterview.io/jobs/84ee8fae-a698-4c59-82d0-92daae87353c">Applied AI Researcher, Agent Systems &amp; Evaluation</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, California (HQ)<br/>California - HQ</td>
 <td align="center"><a href="https://nuro.ai/careersitem?gh_jid=7793005">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
@@ -594,7 +594,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0f7c0629-f936-4a0c-b03a-dc111efcd483">Product Security Engineer - QRA</a></td>
-<td>Seattle, WA<br/>Boston, MA</td>
+<td>Seattle, WA<br/>Boston, MA<br/>Foster City, CA<br/>+1 more</td>
 <td align="center"><a href="https://jobs.lever.co/zoox/896f37b9-80b7-4077-a937-e499151ce5f2/apply">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
@@ -676,7 +676,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Padam Mobility</strong></td>
 <td><a href="https://trueinterview.io/jobs/1a261ee7-8601-4c4a-9aa8-e25ababd4122">Stagiaire Software Engineer - Transport Consulting</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/padam/jobs/stagiaire-software-engineer-transport-consulting_paris">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -690,7 +690,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Ford Motor Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/a527de12-77f3-4235-a8a0-a6970360bc3d">AI Engineer</a></td>
-<td>Chennai</td>
+<td>Chennai, Tamil Nadu, India</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70162">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -704,14 +704,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Wayve</strong></td>
 <td><a href="https://trueinterview.io/jobs/89fe788c-e0d9-40cd-bd22-160130881590">DevOps Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/wayve/jobs/devops-engineer_london_lybd4ydv">Apply</a></td>
 <td align="center">6 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Zendar</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed77cc7e-f313-45b6-b682-1a174e00a72c">Machine Learning Engineer (Model Optimization)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/zendar/jobs/machine-learning-engineer-model-optimization_paris_zbkweqje">Apply</a></td>
 <td align="center">6 Sep 2026</td>
 </tr>

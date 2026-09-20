@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cohere</strong></td>
 <td><a href="https://trueinterview.io/jobs/b6e5df89-091b-4c27-b9f3-5ab981d15e7a">Software Engineer, Security</a></td>
-<td>Toronto, ON<br/>San Francisco, CA<br/>New York, NY</td>
+<td>Montreal, QC<br/>Toronto, ON<br/>San Francisco, CA<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0/application">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
@@ -34,7 +34,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/12d7a960-6d59-4bf8-9a03-aa2fba2c9642">ServiceNow Developer</a></td>
-<td>Ottawa, ON<br/>Toronto, ON<br/>Montreal, QC</td>
+<td>Montreal, QC<br/>Ottawa, ON<br/>Toronto, ON</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/6c9c4556-c6c3-40b0-acf2-6bb12d0f2a29/application">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -48,42 +48,42 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Ubisoft Montreal</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c4c423a-0070-4d86-9d8e-11dec8ee279d">Data Developer</a></td>
-<td>Montreal, QC</td>
+<td>Montreal, QC<br/>Montreal, Canada</td>
 <td align="center"><a href="https://4dayweek.io/job/data-developer-at-ubisoft-montreal-dbf41a7f">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Lightspeed Commerce, Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/4d671045-1f6a-4da7-853e-288671f9bc33">Analytics Engineer</a> 🌐</td>
-<td>Remote — Canada</td>
+<td>Remote — Canada<br/>Montreal, QC</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/bebf18c5-3437-4ab3-86db-d065b0611445/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>DiliTrust</strong></td>
 <td><a href="https://trueinterview.io/jobs/a54e23b9-74fa-4895-823e-28b7cdf47866">SRE / DevOps Engineer (Developer background)</a></td>
-<td>Montreal, QC</td>
+<td>Montreal, QC<br/>Montreal, Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/dilitrust/jobs/devops_montreal">Apply</a></td>
 <td align="center">5 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Nascent</strong></td>
 <td><a href="https://trueinterview.io/jobs/cf2e5fbc-6978-47d3-a420-f23695b5da4a">Network Engineer</a></td>
-<td>Austin, TX<br/>Toronto, ON<br/>Montreal, QC</td>
+<td>Montreal, QC<br/>Austin, TX<br/>Toronto, ON<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/nascent/72958837-1656-4f01-aec0-93855ae98083/application">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cohere</strong></td>
 <td><a href="https://trueinterview.io/jobs/eece1264-0ded-4d91-9bd3-f355d5861c48">Forward Deployed Engineer, Infrastructure Specialist (North America)</a></td>
-<td>Toronto, ON<br/>Vancouver, BC<br/>Ottawa, ON</td>
+<td>Montreal, QC<br/>Toronto, ON<br/>Vancouver, BC<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4464f0c8-37e5-4b95-a0cd-b019d44d161d">Forward Deployed Engineer, Agentic Platform (West Coast)</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>Los Angeles, CA</td>
+<td>Montreal, QC<br/>San Francisco, CA<br/>Seattle, WA<br/>+11 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
@@ -104,28 +104,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>DRW</strong></td>
 <td><a href="https://trueinterview.io/jobs/691cec80-def4-43a8-b9f4-d461016d4fbe">Data Analyst</a></td>
-<td>Montreal, QC</td>
+<td>Montreal, QC<br/>Montréal</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8128786">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Qohash</strong></td>
 <td><a href="https://trueinterview.io/jobs/d72f327c-95c3-4c9d-92a2-2a1cca93d3b9">Solutions Engineer, Bilingual (En, Fr)</a> 🌐</td>
-<td>Remote — Canada</td>
+<td>Remote — Canada<br/>Montreal, QC</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/qohash/jobs/4722050005">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Baseten</strong></td>
 <td><a href="https://trueinterview.io/jobs/e891a226-8e52-437a-aa12-4f10182f0dce">Software Engineer - Testing Frameworks</a></td>
-<td>San Francisco, CA<br/>Toronto, ON<br/>New York, NY</td>
+<td>Montreal, QC<br/>San Francisco, CA<br/>Toronto, ON<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/baseten/78028a72-2431-4373-aaec-d6e2c9a1cc7d/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bb5b4596-0a41-4910-a6d2-c03685864742">Software Engineer - Continuous Delivery</a></td>
-<td>San Francisco, CA<br/>Toronto, ON<br/>New York, NY</td>
+<td>Montreal, QC<br/>San Francisco, CA<br/>Toronto, ON<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/baseten/fb886b59-fdc3-4315-a9b3-c49808bcd2ce/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
@@ -139,7 +139,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/7f84677b-93d8-4c15-9551-f63930565aa6">Instructional Designer</a></td>
-<td>Montreal, QC</td>
+<td>Montreal, QC, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92485">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>

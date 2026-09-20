@@ -20,14 +20,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Faire</strong></td>
 <td><a href="https://trueinterview.io/jobs/d7094e37-ac70-4576-99ea-c75940b1e5da">Growth Platform, Marketing Engineer</a></td>
-<td>Toronto, ON<br/>San Francisco, CA</td>
+<td>Toronto, ON<br/>San Francisco, CA<br/>New York City, NY</td>
 <td align="center"><a href="https://boards.greenhouse.io/faire/jobs/8821336002?gh_jid=8821336002">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Dept</strong></td>
 <td><a href="https://trueinterview.io/jobs/044f7672-201f-46c3-8f5e-97c0b2b0ada2">Technical Motion Designer (12 months FTC)</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON<br/>Canada<br/>PCCA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dept/jobs/8214593">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -55,28 +55,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Sprypoint</strong></td>
 <td><a href="https://trueinterview.io/jobs/c650e26a-dd38-4772-aff7-8dfcdb864a34">Product Owner, CIS</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON<br/>Canada<br/>Halifax, Nova Scotia<br/>+5 more</td>
 <td align="center"><a href="https://jobs.lever.co/sprypointservices/729b40fa-9f8a-4802-84b1-9546c8fcf241/apply">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/66756f70-55d0-49f1-bbef-e36750d37166">Structural Technologist / Inspector, Bridges &amp; Civil Structures</a></td>
-<td>Ottawa, ON</td>
+<td>Ottawa, ON, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94553">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cohere</strong></td>
 <td><a href="https://trueinterview.io/jobs/b6e5df89-091b-4c27-b9f3-5ab981d15e7a">Software Engineer, Security</a></td>
-<td>Toronto, ON<br/>San Francisco, CA<br/>New York, NY</td>
+<td>Toronto, ON<br/>San Francisco, CA<br/>New York, NY<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0/application">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Affirm</strong></td>
 <td><a href="https://trueinterview.io/jobs/4becc80e-3eb5-4690-91e1-dba88fa43e67">Frontend Software Engineer (Upfunnel)</a> 🌐</td>
-<td>Remote — Canada</td>
+<td>Remote — Canada<br/>Ottawa, ON</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/affirm/jobs/frontend-software-engineer-upfunnel_ottawa_54yehvwf">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
@@ -104,28 +104,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>BMO</strong></td>
 <td><a href="https://trueinterview.io/jobs/77637bf2-66e0-4998-8a4a-0e4ecf337f5b">Data Engineer</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON, CAN</td>
 <td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Engineer_R260023306-1">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/4788c0ac-9b22-4dba-be01-5cb5fcea9e41">Leader, Business Intelligence</a></td>
-<td>Atlanta, GA<br/>Toronto, ON<br/>Austin, TX</td>
+<td>Toronto, Ontario, Canada<br/>Atlanta, GA<br/>Austin, TX<br/>+4 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Atlanta-Georgia-US/Leader--Business-Intelligence_2023247-1">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>PagerDuty</strong></td>
 <td><a href="https://trueinterview.io/jobs/07074130-395f-438c-9305-c2eedc785bdf">Site Reliability Engineer</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/pagerduty/jobs/site-reliability-engineer_atlanta_snbee5th">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>BMO</strong></td>
 <td><a href="https://trueinterview.io/jobs/3445789b-cd9c-4465-93d4-98c5b55abe40">ServiceNow Developer</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON, CAN</td>
 <td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/ServiceNow-Developer_R260024416">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -139,7 +139,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>CrowdStrike</strong></td>
 <td><a href="https://trueinterview.io/jobs/60c4adc9-0521-4f09-a117-357b18919c36">Engineer, Sensor - Mac, Linux, or Windows (Hybrid)</a></td>
-<td>USA - Sunnyvale, CA<br/>USA - New York, NY<br/>USA - Austin, TX</td>
+<td>Canada - Toronto<br/>USA - Sunnyvale, CA, United States of America<br/>USA - New York, NY<br/>+2 more</td>
 <td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer--Sensor---Mac--Linux--or-Windows--Hybrid-_R30023">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -160,7 +160,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Gdh</strong></td>
 <td><a href="https://trueinterview.io/jobs/cc910b78-c24d-41b6-a22d-6e637df09ef2">Graduate Stormwater Engineering</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON, Canada</td>
 <td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28730">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -181,14 +181,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>MLSE</strong></td>
 <td><a href="https://trueinterview.io/jobs/1206a528-13e1-44c5-affe-860de472bfe2">[C] Full Stack Developer</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, Ontario</td>
 <td align="center"><a href="https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/XMLNAME--C--Full-Stack-Developer_JR0000784-1">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/44a110f4-2da5-45df-8e9c-92eb70d85f06">Data Scientist</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, Ontario</td>
 <td align="center"><a href="https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Data-Scientist_JR0000785">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -202,28 +202,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Affirm</strong></td>
 <td><a href="https://trueinterview.io/jobs/26b3d69f-e73d-45cc-bc80-2893b71a2bec">Software Engineer</a> 🌐</td>
-<td>Remote — Canada</td>
+<td>Remote — Canada<br/>Ottawa, ON</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/affirm/jobs/software-engineer_ottawa_mx3nsuqg">Apply</a></td>
 <td align="center">12 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Numeris</strong></td>
 <td><a href="https://trueinterview.io/jobs/cc405e36-2ace-48a6-aef1-5154dc0e3b9c">Information Security Engineer (Cloud) - Contract</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, Ontario</td>
 <td align="center"><a href="https://jobs.lever.co/numeris/a429a425-dc12-4058-b43d-68c8cea68421/apply">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Upshop</strong></td>
 <td><a href="https://trueinterview.io/jobs/b95423e7-af59-444d-b2b9-95f13307206f">Quality Engineer</a> 🌐</td>
-<td>Remote — United States, Canada</td>
+<td>Remote — United States, Canada<br/>Austin, Texas, United States, Miami, Florida, United States, Mississauga, Ontario, Canada, Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/upshop/jobs/5233344007">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Sophos</strong></td>
 <td><a href="https://trueinterview.io/jobs/d384aae0-3726-4856-94e0-d7f09a11fbec">Software Engineer (Agentic AI)</a> 🌐</td>
-<td>Remote — Canada</td>
+<td>Remote — Canada<br/>Ottawa, ON</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/sophos/jobs/software-engineer-agentic-ai_ottawa_4mxmwuel">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -237,14 +237,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>BMO</strong></td>
 <td><a href="https://trueinterview.io/jobs/91b61b1a-8890-457d-bf14-52faf5e5adea">Associate, Data Engineer</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON, CAN</td>
 <td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Data-Engineer_R250030897">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cerebras Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/55e70354-a4a7-48e3-af2b-92bbdb2a90fa">Software Engineer - Host and Network IO</a></td>
-<td>Sunnyvale, CA<br/>Toronto, ON</td>
+<td>Toronto, ON<br/>Sunnyvale, CA<br/>Toronto, CAN</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cerebras/e62f91e4-3079-45aa-87ff-b848b56c54e6">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -258,7 +258,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Citylitics</strong></td>
 <td><a href="https://trueinterview.io/jobs/2d4af128-af58-40ba-8aa7-20147191c2bc">Full Stack Software Engineer (6 Month Contract)</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/citylitics/jobs/full-stack-software-engineer-6-month-contract_toronto_udr2mxtz">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -279,21 +279,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>OMERS</strong></td>
 <td><a href="https://trueinterview.io/jobs/da1f7428-3bd8-40ed-91c6-78993d02935e">Data Engineer, Data Integration &amp; Performance Platform (12-Month Contract)</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, Ontario</td>
 <td align="center"><a href="https://omers.wd3.myworkdayjobs.com/OMERS_External/job/Toronto-Ontario/Data-Engineer--Data-Integration---Performance-Platform_JR-8417-1">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1733e22b-045f-4766-9e5f-87a1d023447c">Student, AI/ML Engineer (Winter 2027, 8 Months)</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, Ontario</td>
 <td align="center"><a href="https://omers.wd3.myworkdayjobs.com/OMERS_External/job/Toronto-Ontario/Student--AI-ML-Engineer--Winter-2027--8-Months-_JR-8403">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Sun Life</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3fee3a3-20bb-4f17-aab1-3b0f07209e82">ServiceNow Junior Developer</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, Ontario</td>
 <td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/ServiceNow-Junior-Developer_JR00125721">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -307,14 +307,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Affirm</strong></td>
 <td><a href="https://trueinterview.io/jobs/35ba392a-09e2-428c-97dd-a7ce0de058ef">Product Security Engineer</a> 🌐</td>
-<td>Remote — Canada</td>
+<td>Remote — Canada<br/>Ottawa, ON</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/affirm/jobs/product-security-engineer_ottawa_45jsha34">Apply</a></td>
 <td align="center">6 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>7shifts</strong></td>
 <td><a href="https://trueinterview.io/jobs/21fdfb14-f838-43dd-9959-1c1f3dfd5e77">AI Automation Engineer</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/7shifts/jobs/ai-automation-engineer_toronto_le4pcz23">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
@@ -356,21 +356,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Geotab</strong></td>
 <td><a href="https://trueinterview.io/jobs/7c978ee3-9681-4f1e-b14d-af8686bcb6df">Technical Support Specialist - Bilingual Spanish</a></td>
-<td>Waterloo, ON<br/>Atlanta, GA</td>
+<td>Waterloo, Ontario - Canada<br/>Atlanta, GA<br/>Oakville, Ontario - Canada<br/>+5 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/geotab/jobs/5407730008">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/53499dd5-d33a-4811-93af-b36d225d1bd7">Technical Support Specialist - Bilingual Portuguese</a></td>
-<td>Waterloo, ON<br/>Atlanta, GA</td>
+<td>Waterloo, Ontario - Canada<br/>Atlanta, GA<br/>Oakville, Ontario - Canada<br/>+6 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/geotab/jobs/5407740008">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Nascent</strong></td>
 <td><a href="https://trueinterview.io/jobs/cf2e5fbc-6978-47d3-a420-f23695b5da4a">Network Engineer</a></td>
-<td>Austin, TX<br/>Toronto, ON<br/>Montreal, QC</td>
+<td>Toronto, ON<br/>Austin, TX<br/>Montreal, QC<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/nascent/72958837-1656-4f01-aec0-93855ae98083/application">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -384,56 +384,56 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Appnovation</strong></td>
 <td><a href="https://trueinterview.io/jobs/9303cbe9-0274-4995-ae0d-bd864c004044">Full-Stack AI Engineer</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/appnovation/jobs/full-stack-ai-engineer_toronto_2qqotfak">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>BMO</strong></td>
 <td><a href="https://trueinterview.io/jobs/3063b037-2b7b-4576-94fe-a0b9b18004d6">Machine Learning Developer (New or Recent Graduate)</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON, CAN</td>
 <td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cerebras Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/b188f77c-43eb-4e4f-a20e-a6356e19e094">ML Systems Integration Engineer</a></td>
-<td>Sunnyvale, CA<br/>Toronto, ON</td>
+<td>Toronto, ON<br/>Sunnyvale, CA<br/>Toronto, CAN</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cerebras/c35a389c-807e-45fb-bfda-03f6b1361871">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cambio</strong></td>
 <td><a href="https://trueinterview.io/jobs/1fb7fd5c-da31-4968-bc0a-e352e4d5b9f6">Backend Engineer</a></td>
-<td>Waterloo, ON<br/>San Francisco, CA</td>
+<td>Waterloo, ON<br/>San Francisco, CA<br/>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cambio/34400221-9b07-4db9-929b-3441bdf00dd4/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>BlackBerry</strong></td>
 <td><a href="https://trueinterview.io/jobs/75c39006-c32a-413d-a370-766e850cd1f2">QNX Open Source Software Developer (New Graduate/Graduate)</a></td>
-<td>Ottawa, ON</td>
+<td>Ottawa, Ontario</td>
 <td align="center"><a href="https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Clarius Mobile Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/23216bcc-221b-4fbb-bdb5-5b48ed2cd48c">Machine Learning Engineer</a> 🌐</td>
-<td>Remote — Canada</td>
+<td>Remote — Canada<br/>Toronto, ON</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/clarius-mobile-health/jobs/machine-learning-engineer_toronto_wuvfpzjk">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Planet</strong></td>
 <td><a href="https://trueinterview.io/jobs/45e323c4-32c8-4202-83ed-078925735778">Software Engineer (Platform, Mission Systems)</a></td>
-<td>Ottawa, ON</td>
+<td>Ottawa, ON<br/>Ottawa, Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/planet/jobs/software-engineer-platform-mission-systems_ottawa_ck3howk2">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Gore Mutual Insurance</strong></td>
 <td><a href="https://trueinterview.io/jobs/f0873e00-e877-451d-8933-43e242a1544f">Associate Data Engineer</a></td>
-<td>Cambridge<br/>Toronto, ON</td>
+<td>Toronto, Ontario<br/>Cambridge, Ontario, Canada</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/goremutualinsurance/jobs/4709293006">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
@@ -447,35 +447,35 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Sierra</strong></td>
 <td><a href="https://trueinterview.io/jobs/5054d1b7-34f5-4233-95a8-2bfbdcbf3403">Software Engineer, Agent (Spanish speaking)</a></td>
-<td>San Francisco, CA<br/>New York, NY<br/>Toronto, ON</td>
+<td>Toronto, ON<br/>San Francisco, CA<br/>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sierra/1d5cf6f0-feba-46a6-98bc-70a1627a76d0/application">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Cohere</strong></td>
 <td><a href="https://trueinterview.io/jobs/eece1264-0ded-4d91-9bd3-f355d5861c48">Forward Deployed Engineer, Infrastructure Specialist (North America)</a></td>
-<td>Toronto, ON<br/>Vancouver, BC<br/>Ottawa, ON</td>
+<td>Toronto, ON<br/>Ottawa, ON<br/>Vancouver, BC<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4464f0c8-37e5-4b95-a0cd-b019d44d161d">Forward Deployed Engineer, Agentic Platform (West Coast)</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>Los Angeles, CA</td>
+<td>Ottawa, ON<br/>Toronto, ON<br/>San Francisco, CA<br/>+11 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f35f28ee-f690-4b3b-abaa-51ebea4a7a44">Forward Deployed Engineer, Sovereign AI</a></td>
-<td>Ottawa, ON<br/>Vancouver, BC<br/>Toronto, ON</td>
+<td>Ottawa, ON<br/>Toronto, ON<br/>Vancouver, BC<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Cambio</strong></td>
 <td><a href="https://trueinterview.io/jobs/24284f2d-ef25-479e-b8bc-bef5f2ca7190">AI Engineer</a></td>
-<td>Waterloo, ON</td>
+<td>Waterloo, ON<br/>Waterloo- Kitchener Canada<br/>Toronto Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cambio/6533655d-d73d-48cf-9e69-e3380954a66b/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
@@ -496,7 +496,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>ServiceNow</strong></td>
 <td><a href="https://trueinterview.io/jobs/3ccae802-8894-4624-823b-d3e171e892a3">Dir, Sales, Cybersecurity Canada (Armis)</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000144394579-dir-sales-cybersecurity-canada-armis-?oga=true">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
@@ -510,28 +510,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Fullscript</strong></td>
 <td><a href="https://trueinterview.io/jobs/e5527c30-c41a-4daf-b2f5-54c410b22942">Technical Support Specialist</a></td>
-<td>Ottawa, ON<br/>Calgary, AB<br/>Toronto, ON</td>
+<td>Ottawa, ON<br/>Toronto, ON<br/>Calgary, AB<br/>+1 more</td>
 <td align="center"><a href="https://jobs.lever.co/fullscript/a52e4915-8239-4581-8828-84661f070424/apply">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Ford Motor Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/fdceac25-a723-436b-af6f-3af3613128e3">Software Development (Embedded) Engineer</a></td>
-<td>Ottawa, ON</td>
+<td>Ottawa, ON, Canada</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68556">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Gdh</strong></td>
 <td><a href="https://trueinterview.io/jobs/23deab94-6e62-4263-834c-b3034a03e683">Engineering Graduate</a></td>
-<td>Waterloo, ON</td>
+<td>Waterloo, ON, Canada</td>
 <td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27534">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Felix</strong></td>
 <td><a href="https://trueinterview.io/jobs/aaf7d05e-8313-48ad-b1f3-504c4b08e4b3">IT Systems Engineer</a></td>
-<td>Toronto, ON (hybrid)</td>
+<td>Toronto, ON (Hybrid)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/felix/5ed65d14-4f8e-43cc-9515-2698d86cff1e/application">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
@@ -545,42 +545,42 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Baseten</strong></td>
 <td><a href="https://trueinterview.io/jobs/e891a226-8e52-437a-aa12-4f10182f0dce">Software Engineer - Testing Frameworks</a></td>
-<td>San Francisco, CA<br/>Toronto, ON<br/>New York, NY</td>
+<td>Toronto, ON<br/>San Francisco, CA<br/>New York, NY<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/baseten/78028a72-2431-4373-aaec-d6e2c9a1cc7d/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bb5b4596-0a41-4910-a6d2-c03685864742">Software Engineer - Continuous Delivery</a></td>
-<td>San Francisco, CA<br/>Toronto, ON<br/>New York, NY</td>
+<td>Toronto, ON<br/>San Francisco, CA<br/>New York, NY<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/baseten/fb886b59-fdc3-4315-a9b3-c49808bcd2ce/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>ElevenLabs</strong></td>
 <td><a href="https://trueinterview.io/jobs/8aafcc6a-f5a7-4e20-b9cf-728070c1b8ea">Enterprise Solutions Engineer - Canada</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON<br/>Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/0d68b2a2-887e-491c-8b9b-56e8354f75fb/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/7e10e893-10b2-4298-9532-f3559a71a1b4">Mechanical Designer - Buildings systems</a></td>
-<td>Ottawa, ON</td>
+<td>Ottawa, ON, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92586">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Tenstorrent</strong></td>
 <td><a href="https://trueinterview.io/jobs/02d99ad8-b45a-4aeb-bc7e-bb078cb97778">Physical Design Methodology Engineer, AI HW IP</a></td>
-<td>Austin, TX<br/>Toronto, ON</td>
+<td>Toronto, Ontario, Canada<br/>Austin, TX<br/>Austin, Texas, United States<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5198608007">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>CircleCI</strong></td>
 <td><a href="https://trueinterview.io/jobs/a45d4324-15bb-4539-9cb9-f0683c7fbc2e">Associate Analytics Engineer</a> 🌐</td>
-<td>Remote — United States, Canada</td>
+<td>Remote — United States, Canada<br/>Toronto, ON</td>
 <td align="center"><a href="http://www.circleci.com/careers/jobs/8657507002/?gh_jid=8657507002">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>

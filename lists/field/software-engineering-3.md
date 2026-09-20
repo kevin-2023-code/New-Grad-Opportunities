@@ -74,7 +74,7 @@
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/6237a278-9ca5-4e24-8d3f-a0e1d31ee484">Analog Engineer</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Santa Clara<br/>US, Texas, Austin</td>
+<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Santa Clara<br/>US, Texas, Austin<br/>+1 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Analog-Engineer_JR0286203">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
@@ -88,7 +88,7 @@
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/42ff3a3c-9bf4-4686-9083-c5e99c08ba98">Design Automation Engineer - Neuromorphic Computing</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>US, California, Santa Clara</td>
+<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>US, California, Santa Clara<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Design-Automation-Engineer---Neuromorphic-Computing_JR0286772">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
@@ -123,7 +123,7 @@
 <tr>
 <td><strong>Esri</strong></td>
 <td><a href="https://trueinterview.io/jobs/5941a982-a832-4e51-b63a-49e01713e21d">Software Development Engineer I – ArcGIS Hub</a></td>
-<td>Washington, DC</td>
+<td>Washington, DC<br/>Vienna, Virginia, United States<br/>Redlands, CA</td>
 <td align="center"><a href="https://www.esri.com/careers/5225186007?gh_jid=5225186007">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -144,7 +144,7 @@
 <tr>
 <td><strong>Hudson River Trading</strong></td>
 <td><a href="https://trueinterview.io/jobs/1a555ace-fb4a-46e8-bd7d-315efc691351">Design Verification (DV) Engineer - 2027 Grads</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York City</td>
 <td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8167806">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -165,14 +165,14 @@
 <tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/57f477b0-0fd0-4822-b7f6-bfa2e8b7ec1d">Production Engineer, Network</a></td>
-<td>San Francisco, CA<br/>New York, NY<br/>Austin, TX</td>
+<td>San Francisco, CA<br/>New York, NY<br/>Austin, TX<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/80b2d06b-b654-46cf-9f9f-4194862e0dcf/application">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/627e2754-fb80-4061-b745-115810736fe9">Red Team Engineer, Discovery</a></td>
-<td>Washington, DC</td>
+<td>Washington, DC<br/>Washington, District of Columbia, United States<br/>Costa Mesa, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5226723007?gh_jid=5226723007">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -235,7 +235,7 @@
 <tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/32fe8e00-a330-4382-8fd9-7c4e0bea9e1e">Mission Software Engineer - Undersea Reconnaissance &amp; Strike</a></td>
-<td>Washington, DC<br/>Boston, MA</td>
+<td>Washington, DC<br/>Boston, Massachusetts, United States<br/>Washington, District of Columbia, United States<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5226473007?gh_jid=5226473007">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -326,7 +326,7 @@
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/f65ec092-0374-4926-b8ce-45e80927fbc9">Software Engineer Full Stack / Backend I (Full Time) - United States</a></td>
-<td>San Jose, CA<br/>New York, NY<br/>Boston, MA</td>
+<td>San Jose, California, US, United States of America<br/>New York, NY<br/>Boston, Massachusetts, US<br/>+13 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Full-Time----United-States_2024035">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -368,7 +368,7 @@
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/25020078-624c-480c-899d-cd3955fa9e27">Full Stack Engineer, Employee Experience</a></td>
-<td>Palo Alto, CA</td>
+<td>Palo Alto, CA<br/>Palo Alto - 1530</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8763492002?gh_jid=8763492002">Apply</a></td>
 <td align="center">30 Aug 2026</td>
 </tr>
@@ -410,7 +410,7 @@
 <tr>
 <td><strong>Crusoe</strong></td>
 <td><a href="https://trueinterview.io/jobs/9a72a59b-62a7-4645-95ae-98e321246b29">Enablement Engineer</a></td>
-<td>Denver, CO<br/>San Francisco, CA<br/>Sunnyvale, CA</td>
+<td>Denver, CO<br/>San Francisco, CA<br/>Sunnyvale, CA<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/crusoe/1eb50f41-8a4b-4db0-953e-1bee91e3f40e/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
@@ -445,7 +445,7 @@
 <tr>
 <td><strong>Parallel Web Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a73c15a-4bfe-40e9-9ef9-0873c5717e89">Deployed Engineer</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>San Francisco or Palo Alto<br/>New York, New York</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/parallel/bb00e740-3647-4ce8-b6e7-3dcf611f66b6/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
@@ -473,21 +473,21 @@
 <tr>
 <td><strong>Cohere</strong></td>
 <td><a href="https://trueinterview.io/jobs/eece1264-0ded-4d91-9bd3-f355d5861c48">Forward Deployed Engineer, Infrastructure Specialist (North America)</a></td>
-<td>Toronto, ON<br/>Vancouver, BC<br/>Ottawa, ON</td>
+<td>Toronto, ON<br/>Vancouver, BC<br/>Ottawa, ON<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4464f0c8-37e5-4b95-a0cd-b019d44d161d">Forward Deployed Engineer, Agentic Platform (West Coast)</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>Los Angeles, CA</td>
+<td>San Francisco, CA<br/>Seattle, WA<br/>Los Angeles, CA<br/>+11 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Michels Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/4957a925-a41f-4730-a84e-f06a9faab876">Geotechnical Engineer I</a></td>
-<td>Salt Lake City, UT<br/>Milwaukee<br/>Renton, WA</td>
+<td>Salt Lake City, UT<br/>Milwaukee, WI<br/>Renton, WA</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4963669101">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
@@ -599,21 +599,21 @@
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/6a17c887-2b94-4a2d-8200-f735a12be7a0">Cloud Engineer Graduate</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1213628-1">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0b55c324-228f-4b09-93ba-f2389d6c73d7">Firmware Engineer Graduate</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Graduate_1213626-1">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/57002759-43b8-442a-9f71-3e2c9ca7674a">Software Engineer Graduate</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624-1">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
@@ -718,7 +718,7 @@
 <tr>
 <td><strong>Exa</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a2c14cb-f2e6-42b7-8991-55534f6a6646">Security Engineer</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, California</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/exa/c4081592-fa8c-4fed-9041-70c62feee157/application">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
@@ -914,7 +914,7 @@
 <tr>
 <td><strong>Pure Storage</strong></td>
 <td><a href="https://trueinterview.io/jobs/b28e47b5-edc9-4d36-9015-1e5dba94ec14">Associate Systems Engineer</a></td>
-<td>Chicago, IL</td>
+<td>Chicago, Illinois<br/>Raleigh, North Carolina<br/>Salt Lake City, Utah<br/>+3 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8155361">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
@@ -1033,7 +1033,7 @@
 <tr>
 <td><strong>First Resonance</strong></td>
 <td><a href="https://trueinterview.io/jobs/404cb79c-182a-4c4a-ab2e-63b78d00e14d">Forward Deployed Software Engineer (New England Area)</a></td>
-<td>Boston, MA</td>
+<td>Boston, MA<br/>Rhode Island</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/first-resonance/781fe213-4d9d-485a-8d5a-381be633d7c1/application">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
@@ -1054,7 +1054,7 @@
 <tr>
 <td><strong>Celonis</strong></td>
 <td><a href="https://trueinterview.io/jobs/d1d9e0b5-01b2-40c7-8cc4-7b7148b2ef52">Transformation Engineer - Oracle</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>Redwood City, US, California<br/>New York, US, New York</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/7978327003?gh_jid=7978327003">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
@@ -1180,7 +1180,7 @@
 <tr>
 <td><strong>Candid Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/315968a3-3c42-4867-b741-778751fcae02">Security Engineer, GRC</a></td>
-<td>San Francisco, CA<br/>Denver, CO</td>
+<td>San Francisco, CA<br/>Denver, CO<br/>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/candidhealth/0c627953-8164-42f8-a4a3-b625c66dead2/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
@@ -1208,7 +1208,7 @@
 <tr>
 <td><strong>Checkr</strong></td>
 <td><a href="https://trueinterview.io/jobs/c0fd02a7-d791-4690-81c3-84cefeaa7dba">Solutions Engineer</a></td>
-<td>Denver, CO<br/>San Francisco, CA</td>
+<td>Denver, Colorado, United States<br/>San Francisco, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/checkr/jobs/8154536">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
@@ -1264,7 +1264,7 @@
 <tr>
 <td><strong>Accenture Federal Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1095263-20a0-4d8d-9b20-55f9fe00d684">Mulesoft Developer</a></td>
-<td>Washington, DC</td>
+<td>Washington, DC<br/>Arlington, VA</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4707773006?gh_jid=4707773006">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
@@ -1292,7 +1292,7 @@
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/799bbf4d-9dc5-4464-99a5-99ebccb6d4cc">Cloud Developer</a></td>
-<td>Houston, Texas<br/>Durham, North Carolina, United States of America<br/>Spring, Texas, United States of America</td>
+<td>Houston, Texas, United States of America<br/>Durham, North Carolina, United States of America<br/>Spring, Texas, United States of America<br/>+2 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas/Cloud-Developer_1212916">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
@@ -1320,14 +1320,14 @@
 <tr>
 <td><strong>Palo Alto Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/60f51eeb-1a9f-492a-bdb1-b172e0afc0ba">Solutions Engineer, Endpoint - Central</a></td>
-<td>Chicago, IL<br/>Austin, TX</td>
+<td>Chicago, IL<br/>Austin, TX<br/>Chicago, United States of America<br/>+3 more</td>
 <td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Chicago-United-States-of-America/Solutions-Engineer--Endpoint---Central_JR-020640">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1734dbe-4d9c-47c7-a44a-c7914fac7119">Forward Deployed Engineer (FDE) — Agentforce Orchestration</a></td>
-<td>Georgia - Atlanta<br/>Illinois - Chicago<br/>New York - New York</td>
+<td>Georgia - Atlanta, United States of America<br/>Illinois - Chicago<br/>New York - New York<br/>+8 more</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Forward-Deployed-Engineer--FDE----Agentforce-Orchestration_JR357427">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
@@ -1397,7 +1397,7 @@
 <tr>
 <td><strong>Cargurus</strong></td>
 <td><a href="https://trueinterview.io/jobs/c376796f-4bcb-4efb-9fce-b7d3a6bbf36c">Application Security Engineer I</a></td>
-<td>Boston, MA</td>
+<td>Boston, Massachusetts, United States<br/>Boston (1001 Boylston Street)</td>
 <td align="center"><a href="https://careers.cargurus.com/us/en/job/8050976?gh_jid=8050976">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
@@ -1453,7 +1453,7 @@
 <tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/974fd1f4-5d25-4c0c-809e-b2e1543d4e0f">AI Security Engineer</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Santa Clara, CA, United States of America</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Security-Engineer_2603452">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
@@ -1474,7 +1474,7 @@
 <tr>
 <td><strong>Palo Alto Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/1b02abfb-eb5c-4ff0-9749-c48fe53bb44f">Solution Engineer IAM, IGA, SME,  - Central</a></td>
-<td>Chicago, IL</td>
+<td>Chicago, IL<br/>Chicago, United States of America<br/>Cleveland, United States of America<br/>+1 more</td>
 <td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Chicago-United-States-of-America/Solution-Engineer-IAM--IGA--SME-----Central_JR-021413">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
@@ -1530,7 +1530,7 @@
 <tr>
 <td><strong>Twitch</strong></td>
 <td><a href="https://trueinterview.io/jobs/231f3e53-f6e5-4b9e-9871-a6e7d2d82431">Software Development Engineer, Security Platform</a></td>
-<td>Seattle, WA<br/>San Francisco, CA</td>
+<td>Seattle, WA<br/>San Francisco, CA<br/>Irvine, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8739185002">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
@@ -1551,7 +1551,7 @@
 <tr>
 <td><strong>Aretum</strong></td>
 <td><a href="https://trueinterview.io/jobs/899319ba-7eb3-40e3-a671-98092bab6a6e">EOG Event Management Triage Engineer</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://jobs.workable.com/view/hLcV2TTy6HmHMEZNdpLNQZ/eog-event-management-triage-engineer-in-austin-at-aretum">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
@@ -1628,7 +1628,7 @@
 <tr>
 <td><strong>Hyliion</strong></td>
 <td><a href="https://trueinterview.io/jobs/fd3587b9-8e2e-4e99-8663-10d19ff946ea">Metrology Engineer</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/hyliion/jobs/6150403004">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
@@ -1712,14 +1712,14 @@
 <tr>
 <td><strong>Infineon</strong></td>
 <td><a href="https://trueinterview.io/jobs/16566502-b2e3-432f-9b3e-3d2fbd97a9de">Graduate - Validation Engineer</a></td>
-<td>San Jose, CA</td>
+<td>San Jose, CA<br/>CA, US</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971064687">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/9036c3bd-9940-4c8d-94ac-acfe13d0215c">Customer Support Engineer - Nationwide Opportunities - Veterans Make America!</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Malta, NY, United States of America<br/>Phoenix, AZ<br/>+4 more</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Malta-NY/Customer-Support-Engineer--E-_2640005">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
@@ -1908,7 +1908,7 @@
 <tr>
 <td><strong>SonarSource</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec014430-2db0-4126-b0f3-2676295c7192">Customer Success Engineer - America</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas</td>
 <td align="center"><a href="https://jobs.lever.co/sonarsource/e9b34036-4608-452d-a597-28a3c90cdb36/apply">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
@@ -2062,14 +2062,14 @@
 <tr>
 <td><strong>ServiceNow</strong></td>
 <td><a href="https://trueinterview.io/jobs/3ccae802-8894-4624-823b-d3e171e892a3">Dir, Sales, Cybersecurity Canada (Armis)</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000144394579-dir-sales-cybersecurity-canada-armis-?oga=true">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Egis Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/11aa94fc-081c-4cef-ab3d-49e7a44653cb">Junior Engineer, Bridges - Engineer in Training</a></td>
-<td>Calgary, AB</td>
+<td>Calgary, AB, Canada</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000144388219-junior-engineer-bridges-engineer-in-training?oga=true">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
@@ -2209,14 +2209,14 @@
 <tr>
 <td><strong>Anthropic</strong></td>
 <td><a href="https://trueinterview.io/jobs/77fe4366-bd73-4832-b52a-28f75a576b31">Front End Engineer, Marketing</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, CA<br/>New York City, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5386971008">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>xAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/ebdcb208-66af-4eac-b48e-3a3a3a06c7e0">OSP Engineer</a></td>
-<td>Memphis, Tennessee<br/>Southaven, Mississippi<br/>Memphis, TN</td>
+<td>Memphis, Tennessee<br/>Southaven, Mississippi<br/>Memphis, TN<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5215570007">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
@@ -2328,7 +2328,7 @@
 <tr>
 <td><strong>Accenture Federal Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/812d8f7b-44ed-4d14-9aae-631bd5fea2ad">OneFM Oracle Fusion Cloud Developer</a></td>
-<td>Washington, DC</td>
+<td>Washington, DC<br/>Arlington, VA</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4706300006?gh_jid=4706300006">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
@@ -2356,7 +2356,7 @@
 <tr>
 <td><strong>Gyde</strong></td>
 <td><a href="https://trueinterview.io/jobs/3a6bb52f-1f17-47ce-acda-4fc4a60dbfdd">Infrastructure Engineer</a></td>
-<td>Austin, TX (hybrid)</td>
+<td>Austin, TX<br/>Austin, Texas, United States, New York City, New York, United States<br/>Austin - Hybrid<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/gyde/jobs/4373668009">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
@@ -2419,7 +2419,7 @@
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/d1f2ac8b-a1f1-48e2-b26e-540d3cecd5c9">HPC Dev Ops Engineer</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Santa Clara<br/>US, Arizona, Phoenix</td>
+<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Santa Clara<br/>US, Arizona, Phoenix</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/HPC-Dev-Ops-Engineer_JR0286201">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
@@ -2433,7 +2433,7 @@
 <tr>
 <td><strong>Palo Alto Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/1a7061b3-1990-4a93-86d7-4b4a9b3234e4">Solutions Engineer, DevOps - Central</a></td>
-<td>Austin, TX<br/>Chicago, IL</td>
+<td>Austin, TX<br/>Chicago, IL<br/>Austin, United States of America<br/>+3 more</td>
 <td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Austin-United-States-of-America/Solutions-Engineer--DevOps---Central_JR-020639">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
@@ -2503,7 +2503,7 @@
 <tr>
 <td><strong>Watershed</strong></td>
 <td><a href="https://trueinterview.io/jobs/c0bfd1fe-3fa8-4851-80ab-2e5447abf03a">GTM engineer</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, CA<br/>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/watershed/00f1ba3f-67ba-48cb-8e88-1eacc2ebb9f7/application">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
@@ -2601,7 +2601,7 @@
 <tr>
 <td><strong>Flow Engineering</strong></td>
 <td><a href="https://trueinterview.io/jobs/4b75420d-e624-47ce-8bcc-7b47693a4b03">Software Engineer - Early Career</a> 🛂</td>
-<td>San Francisco, CA</td>
+<td>San Francisco, CA<br/>SF</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5/application">Apply</a></td>
 <td align="center">15 Aug 2026</td>
 </tr>
@@ -2622,7 +2622,7 @@
 <tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/ce186936-fe26-43fb-b081-9d5908442428">Software Engineer, Compute Infrastructure</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>London</td>
+<td>San Francisco, CA<br/>Seattle, WA<br/>London, UK<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/ca300a6d-a2a7-4580-aad7-323fbdfee7b1/application">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
@@ -2643,7 +2643,7 @@
 <tr>
 <td><strong>Accorhotel</strong></td>
 <td><a href="https://trueinterview.io/jobs/47184294-9583-44b9-a02f-f24f9c8d27d7">Overnight Shift Engineer - Full Time</a></td>
-<td>Vancouver, BC</td>
+<td>Vancouver, BC, Canada</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AccorHotel/744000143608224-overnight-shift-engineer-full-time?oga=true">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
@@ -2727,7 +2727,7 @@
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/4395c5e0-49ea-470b-b905-017bfbf4c136">New Graduate Engineer, Software  - '26/'27  (Starlink)</a></td>
-<td>Palo Alto, CA</td>
+<td>Palo Alto, CA<br/>Redmond, WA<br/>Bastrop, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
@@ -2797,7 +2797,7 @@
 <tr>
 <td><strong>Palantir</strong></td>
 <td><a href="https://trueinterview.io/jobs/5e5a057f-7acd-4160-bed2-47d85229bac6">Offensive Security Engineer</a></td>
-<td>Washington, DC<br/>New York, NY</td>
+<td>Washington, DC<br/>New York, NY<br/>Washington, D.C.</td>
 <td align="center"><a href="https://jobs.lever.co/palantir/5614a901-ef96-4b9c-928d-4a9c338c8aad">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
@@ -2811,7 +2811,7 @@
 <tr>
 <td><strong>Snowflake</strong></td>
 <td><a href="https://trueinterview.io/jobs/fe2afb15-3e0a-4b2c-b00d-6439a482c8ec">Solution Engineer, Enterprise Acquisition</a></td>
-<td>US-NY-New York<br/>US-TN-Remote<br/>Nashville, TN</td>
+<td>US-NY-New York<br/>US-TN-Remote<br/>Nashville, TN<br/>+4 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/snowflake/b93dd7ef-bb2b-4cc5-aef6-19576a7157fb/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>

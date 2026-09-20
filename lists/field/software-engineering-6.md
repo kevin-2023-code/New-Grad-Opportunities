@@ -34,14 +34,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Wpp</strong></td>
 <td><a href="https://trueinterview.io/jobs/71da6ab1-017b-46e2-ad6c-05670c970b1f">Power Platform Support Engineer</a></td>
-<td>Mexico City</td>
+<td>Mexico City, Mexico City, Mexico</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/wpp/jobs/8487083002">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Avertium</strong></td>
 <td><a href="https://trueinterview.io/jobs/a051ee63-5f58-442e-867b-a2d7bfc60cfc">CyberSecurity Engineer | LogRhythm</a></td>
-<td>Guadalajara</td>
+<td>Guadalajara, Mexico</td>
 <td align="center"><a href="https://jobs.lever.co/avertium/b8eed3c9-a43e-4683-9201-b8cfc78fd218/apply">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
@@ -55,14 +55,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>The Exploration Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/4a36a6e7-9188-4f41-966f-12398c77cff2">Feed System Functional Engineer</a></td>
-<td>Munich</td>
+<td>Munich, Germany<br/>Bordeaux, France</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/f9da148f-3ae8-447a-91d9-232a72df84ea/application">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Gdh</strong></td>
 <td><a href="https://trueinterview.io/jobs/0e1cab42-3a62-4f3c-b849-d461b8e7a3e1">Graduate Highways and Public Realm Design Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28220">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
@@ -146,21 +146,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Govtech</strong></td>
 <td><a href="https://trueinterview.io/jobs/4a054131-f6bd-49ad-aeb0-e11f845bf0b8">Software Engineer - Storage Infrastructure</a></td>
-<td>Singapore</td>
+<td>Singapore<br/>CEP Core Engineering Products</td>
 <td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005734201?gh_jid=4005734201">Apply</a></td>
 <td align="center">16 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7633934e-4012-4ae6-a112-a12433bbd6fa">Software Engineer - Kubernetes Platform</a></td>
-<td>Singapore</td>
+<td>Singapore<br/>CEP Core Engineering Products</td>
 <td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005732201?gh_jid=4005732201">Apply</a></td>
 <td align="center">16 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e3848a0a-7eab-4b94-83e1-56c9cd489d96">Cybersecurity Engineer</a></td>
-<td>Singapore</td>
+<td>Singapore<br/>CEP Core Engineering Products</td>
 <td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005720201?gh_jid=4005720201">Apply</a></td>
 <td align="center">16 Aug 2026</td>
 </tr>
@@ -174,7 +174,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Dkb Code Factory</strong></td>
 <td><a href="https://trueinterview.io/jobs/6845053b-53f1-4e66-909d-e2d87f18ed7d">QA Engineer</a></td>
-<td>Valencia</td>
+<td>Valencia, Spain</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dkbcodefactory/jobs/7821469003">Apply</a></td>
 <td align="center">15 Aug 2026</td>
 </tr>
@@ -223,7 +223,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>1global</strong></td>
 <td><a href="https://trueinterview.io/jobs/0177ef57-fdbd-4640-8e69-3782a6993806">.NET Software Engineer</a></td>
-<td>São Paulo</td>
+<td>São Paulo, State of São Paulo, Brazil</td>
 <td align="center"><a href="https://jobs.workable.com/view/989shBwiBkKHWuyDAZir9E/hybrid-.net-software-engineer-in-s%C3%A3o-paulo-at-1global">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
@@ -244,7 +244,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Canva</strong></td>
 <td><a href="https://trueinterview.io/jobs/9b272123-9c3d-40cc-a64a-8d9454294e3b">Frontend Engineer - Product Features</a></td>
-<td>Sydney</td>
+<td>Sydney, NSW, Australia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Canva/6000000001313514-frontend-engineer-product-features-?oga=true">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
@@ -265,7 +265,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Latamcent</strong></td>
 <td><a href="https://trueinterview.io/jobs/e58ec862-7702-4bef-8d99-c982112b5ff9">InDesign Automation Developer</a></td>
-<td>Brazil<br/>Argentina<br/>Peru</td>
+<td>Brazil<br/>Argentina<br/>Peru<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/latamcent/57d975c5-ebfc-4adb-ab86-9681348ab2ca/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
@@ -293,7 +293,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Anaplan</strong></td>
 <td><a href="https://trueinterview.io/jobs/2401fa71-8edd-4535-9f74-2bd097bbf0a6">Engineer I</a></td>
-<td>Gurugram</td>
+<td>Gurugram - Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/anaplan/jobs/8636271002">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
@@ -314,35 +314,35 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>ElevenLabs</strong></td>
 <td><a href="https://trueinterview.io/jobs/5a09aff4-a869-4755-ab12-6e7b70781830">Martech Engineer</a></td>
-<td>London</td>
+<td>London<br/>Spain<br/>Poland<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/b6b6aca9-e9bc-4a6c-955d-60adbbe56d51/application">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Welo Global</strong></td>
 <td><a href="https://trueinterview.io/jobs/9d31d7a3-f783-4bc0-894b-6b2645052334">Hydrus Audio Engineer</a></td>
-<td>Mexico<br/>Argentina<br/>Colombia</td>
+<td>Mexico<br/>Argentina<br/>Colombia<br/>+4 more</td>
 <td align="center"><a href="https://jobs.lever.co/weloglobal/16ed5d35-efd9-49da-8eb5-fc17f454cc28/apply">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Bet365</strong></td>
 <td><a href="https://trueinterview.io/jobs/c7f87469-5f2e-49bb-ba36-e73ff90b2ec2">Software Developer, Risk and Regulatory</a></td>
-<td>Manchester</td>
+<td>Manchester, England, United Kingdom<br/>Stoke-on-Trent, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000143173629-software-developer-risk-and-regulatory?oga=true">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b9225d28-488c-48b9-ba03-87496e455c1a">Cloud Engineer (On-Premise and Cloud Operations)</a></td>
-<td>Manchester</td>
+<td>Manchester, England, United Kingdom<br/>Stoke-on-Trent, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000143172369-cloud-engineer-on-premise-and-cloud-operations-?oga=true">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f9cbca70-a09c-4b2c-af91-d315b0878d03">Software Developer, In-Play</a></td>
-<td>Manchester</td>
+<td>Manchester, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000143168979-software-developer-in-play?oga=true">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
@@ -356,14 +356,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/32e5a105-bb57-4762-83bb-46befff01bbe">Software Engineer, GPU Infrastructure- ChatGPT Engineering</a></td>
-<td>London</td>
+<td>London, UK</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/f8b84ae5-743b-41c9-8432-02dff9993d6b/application">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Extreme Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/cb22bcdb-3979-415f-ba63-de9393eefeaf">ASSOCIATE SW SYSTEMS ENGINEER -10320</a></td>
-<td>Chennai</td>
+<td>Chennai, India</td>
 <td align="center"><a href="https://jobs.lever.co/extremenetworks/8b82c64d-32db-42bc-9070-c80a491d7534/apply">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
@@ -384,7 +384,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>360dialog Gmbh</strong></td>
 <td><a href="https://trueinterview.io/jobs/4bfc6c25-bfc8-418c-896b-488e97247612">Infrastructure Engineer | Remote</a></td>
-<td>Portugal<br/>Romania<br/>Argentina</td>
+<td>Portugal<br/>Romania<br/>Argentina<br/>+2 more</td>
 <td align="center"><a href="https://jobs.workable.com/view/rBDL3THA7JXWJTFZATTGNb/infrastructure-engineer-%7C-remote-in-portugal-at-360dialog-gmbh">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
@@ -433,7 +433,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>The Quality Group Gmbh</strong></td>
 <td><a href="https://trueinterview.io/jobs/fa5b157f-bcc8-4637-83fc-d0fbcedd3400">Product Developer Bars (gn) - ESN</a></td>
-<td>Hamburg</td>
+<td>Hamburg<br/>Headquarter Hamburg</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4949188101">Apply</a></td>
 <td align="center">9 Aug 2026</td>
 </tr>
@@ -447,14 +447,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Xsolla</strong></td>
 <td><a href="https://trueinterview.io/jobs/738bbab7-d3d9-4381-bb5f-6de13741eb7d">Developer Evangelist - Integrations</a></td>
-<td>Moscow<br/>Almaty<br/>Armenia</td>
+<td>Moscow<br/>Almaty<br/>Armenia<br/>+5 more</td>
 <td align="center"><a href="https://jobs.lever.co/xsolla/d00d0e70-7c03-4fe9-8ebe-884721476c10/apply">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/42f6a996-5571-4b7a-bda6-c3458480be7a">Developer Evangelist - Community</a></td>
-<td>Moscow<br/>Almaty<br/>Armenia</td>
+<td>Moscow<br/>Almaty<br/>Armenia<br/>+5 more</td>
 <td align="center"><a href="https://jobs.lever.co/xsolla/8c0f5e96-f19f-4d7b-a2a2-a2531e925f02/apply">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
@@ -510,7 +510,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>N26</strong></td>
 <td><a href="https://trueinterview.io/jobs/2e6bfbb7-8346-4a91-b58e-89f3bcbb7c16">iOS Engineer</a></td>
-<td>Berlin<br/>Barcelona</td>
+<td>Berlin, Barcelona<br/>Barcelona</td>
 <td align="center"><a href="https://n26.com/en-eu/careers/positions/8108409?gh_jid=8108409">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
@@ -580,7 +580,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Docker</strong></td>
 <td><a href="https://trueinterview.io/jobs/b6af3f20-5f65-4379-ba6b-0d48004651e6">Customer Experience Engineer, CXE-T (EMEA)</a></td>
-<td>England<br/>Portugal<br/>Spain</td>
+<td>England<br/>Portugal<br/>Spain<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/docker/4bda5b22-8cd9-49a8-8ba3-8fc456eea2bd/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
@@ -594,7 +594,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/f412b76d-10ac-4145-801a-6656f6aeb555">Field Security Specialist (Cyber Security Solutions Engineer)</a></td>
-<td>Dublin</td>
+<td>Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/8ee5d640-de2c-4004-8857-210ef8ec3177/application">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>

@@ -94,14 +94,45 @@ describe('cells', () => {
     assert.equal(locationLabel(job({ remote: 'remote', countries: ['Other'], cities: [] })), 'Remote');
   });
 
-  it('prefers canonical cities, then the posting, then the country', () => {
-    assert.equal(locationLabel(job({ cities: ['Mountain View, CA'] })), 'Mountain View, CA');
+  it('lists canonical cities and the posting together, then the country', () => {
+    assert.equal(
+      locationLabel(job({ cities: ['Mountain View, CA'], locations: ['Mountain View, CA'] })),
+      'Mountain View, CA',
+    );
     assert.equal(
       locationLabel(job({ cities: [], locations: ['Milano, Italy'], countries: ['Other'] })),
       'Milano, Italy',
     );
     assert.equal(locationLabel(job({ cities: [], locations: [], countries: ['Japan'] })), 'Japan');
     assert.equal(locationLabel(job({ cities: [], locations: [], countries: [] })), '—');
+  });
+
+  it('never lets the canonical cities hide a place the posting listed', () => {
+    // `cities` is the pipeline's resolution and it is a SUBSET: a real row
+    // carries cities ['New York, NY'] against locations ['Menlo Park, CA',
+    // 'New York, NY']. While `cities` shadowed `locations`, Menlo Park was
+    // unprintable anywhere — including on the Bay Area page the row was placed
+    // on BY Menlo Park, which is what made that page look broken.
+    assert.equal(
+      locationLabel(job({ cities: ['New York, NY'], locations: ['Menlo Park, CA', 'New York, NY'] })),
+      'New York, NY<br/>Menlo Park, CA',
+    );
+  });
+
+  it('puts the city that earned the row its page first, and says what it cut', () => {
+    const wide = job({
+      cities: ['Austin, TX'],
+      locations: ['Austin, TX', 'Santa Clara, CA', 'Boulder, CO', 'Reston, VA'],
+      countries: ['United States'],
+    });
+    // No metro named: the posting's own order, and the cap is visible.
+    assert.equal(locationLabel(wide), 'Austin, TX<br/>Santa Clara, CA<br/>Boulder, CO<br/>+1 more');
+    // On the Denver page, the place that put it there leads. Without this the
+    // row read "Austin, TX" under the heading "Denver, Boulder & Colorado".
+    assert.match(locationLabel(wide, 'denver-boulder'), /^Boulder, CO/);
+    // And the sort is STABLE, so a row already naming the right city is
+    // byte-identical to what it printed before.
+    assert.equal(locationLabel(wide, 'austin'), locationLabel(wide));
   });
 
   it('prints one place once, whichever way the ATS spelled it', () => {
@@ -121,7 +152,7 @@ describe('cells', () => {
       'Hybrid (UK)',
     );
     assert.equal(
-      locationLabel(job({ remote: 'hybrid', cities: ['Dublin'], countries: ['Ireland'] })),
+      locationLabel(job({ remote: 'hybrid', cities: ['Dublin'], locations: ['Dublin'], countries: ['Ireland'] })),
       'Dublin (hybrid)',
     );
   });
@@ -138,6 +169,22 @@ describe('selection', () => {
   it('anchors a heading the way GitHub does, leading hyphen and all', () => {
     assert.equal(anchorOf('💻 Software Engineering'), '-software-engineering');
     assert.equal(anchorOf('🤖 Data, AI & Machine Learning'), '-data-ai--machine-learning');
+  });
+
+  it('keeps the invisible variation selector, because GitHub keeps it', () => {
+    // Checked against github-slugger itself. An emoji that carries U+FE0F
+    // loses the emoji and KEEPS the selector, so the anchor opens with a
+    // character nothing renders. Dropping it here made the two most-used jump
+    // links on the filter hub scroll to the top of the page, and no round-trip
+    // assertion can see it: the generator would have been wrong on both sides.
+    assert.equal(anchorOf('🗂️ By field'), '️-by-field');
+    assert.equal(anchorOf('🏷️ By company type'), '️-by-company-type');
+    // The same headings WITHOUT a selector, which is why this went unnoticed.
+    assert.equal(anchorOf('📍 By location'), '-by-location');
+    assert.equal(anchorOf('⚡ Quick filters'), '-quick-filters');
+    // A zero-width joiner is stripped, unlike the selector — do not assume the
+    // invisible characters behave alike.
+    assert.equal(anchorOf('🧑‍💻 By role'), '-by-role');
   });
 
   it('folds two rows that lead to the same application form', () => {

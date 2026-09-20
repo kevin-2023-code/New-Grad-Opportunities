@@ -219,6 +219,10 @@ export function buildTracks(jobs, { now, minRows = MIN_TRACK_ROWS } = {}) {
       id: `place-${metro.id}`,
       path: `place/${metro.id}`,
       group: 'place',
+      // The one track kind whose ROWS need to know which page they are on:
+      // the Location cell prints three of a row's places and has to lead with
+      // the one that put it here. See `locationLabel`.
+      metroId: metro.id,
       emoji: metro.emoji,
       title: metro.label,
       blurb: '',

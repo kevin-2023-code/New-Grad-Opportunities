@@ -415,28 +415,52 @@ function placedBy(metro, read) {
  * the country is the guard that keeps Cambridge, MA out of the London list. It
  * is a row we cannot place, not a row that is nowhere.
  */
-export function metrosOf(job) {
+/**
+ * Whether THIS string is in one of the metro's countries.
+ *
+ * Per string, not per row. The row's `countries` is the union over every
+ * location it carries, so a row open in Paris (France) and Paris, TX had one
+ * location supplying the country and the other supplying the city — and
+ * `Paris, TX` was published on the Paris & France page. A string that names
+ * no country of its own can only be resolved when the ROW names exactly one;
+ * with two, the honest answer is that we cannot tell which this is.
+ */
+function inCountryFor(job, metro, read) {
+  if (read.countries.size) return metro.countries.some((country) => read.countries.has(country));
   const rowCountries = new Set((job.countries ?? []).filter((country) => country && country !== 'Other'));
+  if (rowCountries.size === 1) return metro.countries.some((country) => rowCountries.has(country));
+  return false;
+}
+
+/**
+ * Does THIS one location string put the row on THIS metro's page?
+ *
+ * The Location cell prints at most three of a row's places, and the cell is
+ * the only evidence a reader has that the filter worked. When the string that
+ * earned the row its place on the page is not among the three, the page shows
+ * a role in Austin under the heading "Denver, Boulder & Colorado" and the only
+ * available conclusion is that the filter is broken.
+ *
+ * So the cell asks THIS — the same test `metrosOf` applied — rather than a
+ * second opinion about what counts as being in a metro. A predicate written
+ * again in the rendering layer would disagree the first time either one moved,
+ * and the disagreement would look exactly like this bug.
+ */
+export function placesOn(job, metroId, value) {
+  const metro = METROS.find((entry) => entry.id === metroId);
+  if (!metro) return false;
+  const read = readLocation(value);
+  if (!read.parts.length) return false;
+  return inCountryFor(job, metro, read) && placedBy(metro, read);
+}
+
+export function metrosOf(job) {
   const reads = [...(job.cities ?? []), ...(job.locations ?? [])]
     .map((value) => readLocation(value))
     .filter((read) => read.parts.length);
   if (!reads.length) return [];
 
-  /**
-   * Whether THIS string is in one of the metro's countries.
-   *
-   * Per string, not per row. The row's `countries` is the union over every
-   * location it carries, so a row open in Paris (France) and Paris, TX had one
-   * location supplying the country and the other supplying the city — and
-   * `Paris, TX` was published on the Paris & France page. A string that names
-   * no country of its own can only be resolved when the ROW names exactly one;
-   * with two, the honest answer is that we cannot tell which this is.
-   */
-  const inCountry = (metro, read) => {
-    if (read.countries.size) return metro.countries.some((country) => read.countries.has(country));
-    if (rowCountries.size === 1) return metro.countries.some((country) => rowCountries.has(country));
-    return false;
-  };
+  const inCountry = (metro, read) => inCountryFor(job, metro, read);
 
   const hits = [];
   for (const metro of METROS) {

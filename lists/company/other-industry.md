@@ -20,14 +20,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Viz Media</strong></td>
 <td><a href="https://trueinterview.io/jobs/5439edcb-4320-4ffc-8ff3-9c045180e48d">Print Designer (Temporary, 3-month term)</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, California, United States<br/>San Francisco HQ</td>
 <td align="center"><a href="https://www.viz.com/company-jobs?gh_jid=5240003007">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Schimenti Construction Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/0a901211-c289-4e03-8238-b40b6f54bcc9">Project Engineer</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>Rye Brook, New York, United States<br/>Rye Brook, NY<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schimenticonstructioncompany/jobs/6195158004">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -48,35 +48,35 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Genius Sports</strong></td>
 <td><a href="https://trueinterview.io/jobs/6a02f296-f4a0-4177-9a83-3a8a50a87a30">Software Engineer, Fan Engagement</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York, New York, United States<br/>New York City, USA</td>
 <td align="center"><a href="https://boards.greenhouse.io/geniussports/jobs/7992799003?gh_jid=7992799003">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>MLSE</strong></td>
 <td><a href="https://trueinterview.io/jobs/1206a528-13e1-44c5-affe-860de472bfe2">[C] Full Stack Developer</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, Ontario</td>
 <td align="center"><a href="https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/XMLNAME--C--Full-Stack-Developer_JR0000784-1">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/44a110f4-2da5-45df-8e9c-92eb70d85f06">Data Scientist</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, Ontario</td>
 <td align="center"><a href="https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Data-Scientist_JR0000785">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Numeris</strong></td>
 <td><a href="https://trueinterview.io/jobs/cc405e36-2ace-48a6-aef1-5154dc0e3b9c">Information Security Engineer (Cloud) - Contract</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, Ontario</td>
 <td align="center"><a href="https://jobs.lever.co/numeris/a429a425-dc12-4058-b43d-68c8cea68421/apply">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Perry Ellis International</strong></td>
 <td><a href="https://trueinterview.io/jobs/718148cb-9e53-4c0e-baa4-5ca1a335a3d7">Assistant Technical Designer</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York, New York, United States<br/>052-NY-Hippodrome 8th Floor</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/perryellisinternational/jobs/4712415006">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -104,7 +104,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Michels Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/f8ade16e-e28b-4807-9ac4-1adde0122c33">Project Engineer - Michels Energy Solutions Inc</a></td>
-<td>Waco, TX<br/>Brownsville, WI Corporate Office<br/>Pembroke, NH</td>
+<td>Waco, TX<br/>Brownsville, WI Corporate Office<br/>Pembroke, NH<br/>+5 more</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4972414101">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -195,7 +195,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Gt's Living Foods</strong></td>
 <td><a href="https://trueinterview.io/jobs/7a802c38-3015-4a4a-9148-11a87bac6f59">Help Desk Technician I</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, CA - Vernon, CA</td>
 <td align="center"><a href="https://gtslivingfoods.com/pages/job-board?gh_jid=4706557006">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
@@ -209,7 +209,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Bet365</strong></td>
 <td><a href="https://trueinterview.io/jobs/d5f11407-6931-448a-9afe-6890c63363e5">Software Engineer - DTS</a></td>
-<td>Denver, CO</td>
+<td>Denver, Colorado, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000146814888-software-engineer-dts?oga=true">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
@@ -237,7 +237,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Michels Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/4957a925-a41f-4730-a84e-f06a9faab876">Geotechnical Engineer I</a></td>
-<td>Salt Lake City, UT<br/>Milwaukee<br/>Renton, WA</td>
+<td>Salt Lake City, UT<br/>Milwaukee, WI<br/>Renton, WA</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4963669101">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
@@ -279,7 +279,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Bet365</strong></td>
 <td><a href="https://trueinterview.io/jobs/bd87a630-fb7c-48d6-94eb-74a84c4b8117">Python Data Analyst (Fraud and Risk)</a></td>
-<td>Denver, CO</td>
+<td>Denver, Colorado, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000145352460-python-data-analyst-fraud-and-risk-?oga=true">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
@@ -293,7 +293,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Monks</strong></td>
 <td><a href="https://trueinterview.io/jobs/68c78262-a41a-410e-8049-938b9f1bf1b1">Designer - Social &amp; Brand</a></td>
-<td>Vancouver, BC</td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Canada</td>
 <td align="center"><a href="https://www.monks.com/careers/6148884004/job?gh_jid=6148884004">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
@@ -342,7 +342,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Accorhotel</strong></td>
 <td><a href="https://trueinterview.io/jobs/47184294-9583-44b9-a02f-f24f9c8d27d7">Overnight Shift Engineer - Full Time</a></td>
-<td>Vancouver, BC</td>
+<td>Vancouver, BC, Canada</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AccorHotel/744000143608224-overnight-shift-engineer-full-time?oga=true">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
@@ -426,7 +426,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Monumental Sports &amp; Entertainment</strong></td>
 <td><a href="https://trueinterview.io/jobs/a0915c77-898c-483b-a41f-57395a551def">Basketball Data Analyst (Mystics)</a></td>
-<td>Washington, DC</td>
+<td>Washington, DC 20032<br/>MedStar Health Performance Center (MHPC/ESA)</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/monumentalsports/jobs/5167643007">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
@@ -452,7 +452,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Monks</strong></td>
 <td><a href="https://trueinterview.io/jobs/4b00652a-9a96-4d96-b2ef-990f0b953ff7">AI Artist / Multimedia Designer</a></td>
-<td>Mexico City</td>
+<td>Mexico City<br/>Argentina</td>
 <td align="center"><a href="https://www.monks.com/careers/6180167004/job?gh_jid=6180167004">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
@@ -522,7 +522,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Ipsos</strong></td>
 <td><a href="https://trueinterview.io/jobs/52bf8ebe-2859-4dcb-b327-93b231e57543">Data Engineer BI (Power BI)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/ipsos/jobs/data-engineer-bi-power-bi_paris">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -585,7 +585,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Keolis</strong></td>
 <td><a href="https://trueinterview.io/jobs/d3ce8a57-3d90-4fd0-82fa-1d377b12d50f">Data Engineer F/H/X</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/keolis-/jobs/data-engineer-f-h-x_paris_KEOLI_eow2LW0">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
@@ -641,14 +641,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d3d3cdfb-d15a-4b7e-9d7b-6df581194e9f">Multimedia Designer</a></td>
-<td>São Paulo</td>
+<td>São Paulo<br/>Brazil</td>
 <td align="center"><a href="https://www.monks.com/careers/6119141004/job?gh_jid=6119141004">Apply</a></td>
 <td align="center">23 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Wpp</strong></td>
 <td><a href="https://trueinterview.io/jobs/71da6ab1-017b-46e2-ad6c-05670c970b1f">Power Platform Support Engineer</a></td>
-<td>Mexico City</td>
+<td>Mexico City, Mexico City, Mexico</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/wpp/jobs/8487083002">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
@@ -669,35 +669,35 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Monks</strong></td>
 <td><a href="https://trueinterview.io/jobs/2eae831e-eb96-48a7-b1ef-2a2cbacdc03c">AI Automation Engineer (Remote - India)</a></td>
-<td>Mumbai</td>
+<td>Mumbai<br/>India</td>
 <td align="center"><a href="https://www.monks.com/careers/6128673004/job?gh_jid=6128673004">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>1global</strong></td>
 <td><a href="https://trueinterview.io/jobs/0177ef57-fdbd-4640-8e69-3782a6993806">.NET Software Engineer</a></td>
-<td>São Paulo</td>
+<td>São Paulo, State of São Paulo, Brazil</td>
 <td align="center"><a href="https://jobs.workable.com/view/989shBwiBkKHWuyDAZir9E/hybrid-.net-software-engineer-in-s%C3%A3o-paulo-at-1global">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Bet365</strong></td>
 <td><a href="https://trueinterview.io/jobs/c7f87469-5f2e-49bb-ba36-e73ff90b2ec2">Software Developer, Risk and Regulatory</a></td>
-<td>Manchester</td>
+<td>Manchester, England, United Kingdom<br/>Stoke-on-Trent, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000143173629-software-developer-risk-and-regulatory?oga=true">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b9225d28-488c-48b9-ba03-87496e455c1a">Cloud Engineer (On-Premise and Cloud Operations)</a></td>
-<td>Manchester</td>
+<td>Manchester, England, United Kingdom<br/>Stoke-on-Trent, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000143172369-cloud-engineer-on-premise-and-cloud-operations-?oga=true">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f9cbca70-a09c-4b2c-af91-d315b0878d03">Software Developer, In-Play</a></td>
-<td>Manchester</td>
+<td>Manchester, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000143168979-software-developer-in-play?oga=true">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
@@ -711,14 +711,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>The Quality Group Gmbh</strong></td>
 <td><a href="https://trueinterview.io/jobs/fa5b157f-bcc8-4637-83fc-d0fbcedd3400">Product Developer Bars (gn) - ESN</a></td>
-<td>Hamburg</td>
+<td>Hamburg<br/>Headquarter Hamburg</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4949188101">Apply</a></td>
 <td align="center">9 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Wpp Production</strong></td>
 <td><a href="https://trueinterview.io/jobs/b68e5d4a-5a63-475f-a9e4-0fbddb72b0d4">E-commerce Photographer - WPP Production Melbourne</a></td>
-<td>Melbourne</td>
+<td>Melbourne, Australia</td>
 <td align="center"><a href="https://www.wppproduction.com/careers/jobs/6121015004?gh_jid=6121015004">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>

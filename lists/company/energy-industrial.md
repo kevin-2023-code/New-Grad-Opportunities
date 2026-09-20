@@ -111,7 +111,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Hyliion</strong></td>
 <td><a href="https://trueinterview.io/jobs/3bbec577-f8c5-432c-ac07-78fdd7068d20">Engineer, Mechanical</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/hyliion/jobs/6179419004">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -139,7 +139,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Altalink</strong></td>
 <td><a href="https://trueinterview.io/jobs/ba26133b-0842-43ed-80cc-bbbe4a35a707">Commercial Development Engineer</a></td>
-<td>Calgary, AB</td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
 <td align="center"><a href="https://jobs.workable.com/view/xbKabfTJTFCmaiQQFBPRTG/commercial-development-engineer-in-calgary-at-altalink">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
@@ -167,7 +167,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Hyliion</strong></td>
 <td><a href="https://trueinterview.io/jobs/fd3587b9-8e2e-4e99-8663-10d19ff946ea">Metrology Engineer</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/hyliion/jobs/6150403004">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
@@ -209,7 +209,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>The Nuclear Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/039cc754-c139-45db-bbaa-7d611e4e4a23">Engineering One - Nuclear</a></td>
-<td>Washington, DC</td>
+<td>Washington, DC<br/>Columbia, SC or Washington, DC<br/>Columbia, South Carolina<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5389735008">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
@@ -230,7 +230,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>The Nuclear Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/9658a3c4-7996-431f-8394-15882f5d32c0">Platform &amp; AI Pre-Engineer</a> 🛂</td>
-<td>Washington, DC</td>
+<td>Washington, DC<br/>Washington, D.C.</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5386220008">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
@@ -251,7 +251,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Albireo Energy</strong></td>
 <td><a href="https://trueinterview.io/jobs/19c54cbc-3106-4b07-b063-7775c83a1f82">Junior Engineer</a></td>
-<td>Denver, CO</td>
+<td>Denver, Colorado, United States</td>
 <td align="center"><a href="https://jobs.workable.com/view/uHiBtCCcQNsrtdPVLRjJuc/junior-engineer-in-denver-at-albireo-energy">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
@@ -265,7 +265,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Lunar Energy</strong></td>
 <td><a href="https://trueinterview.io/jobs/c13b372e-7236-4adc-8bc4-e0ce40e2a663">IT Support Technician</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>HQ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/lunarenergy/jobs/6140237004">Apply</a></td>
 <td align="center">10 Aug 2026</td>
 </tr>
@@ -279,14 +279,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Redwood Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/24330c4a-7570-4d11-8a21-8ac5aaec5ae0">Battery Software Integration Engineer</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/redwoodmaterials/jobs/6139225004?gh_jid=6139225004">Apply</a></td>
 <td align="center">7 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Altalink</strong></td>
 <td><a href="https://trueinterview.io/jobs/9535ad1d-e5fd-4ca2-bac6-55e8bab7584c">Telecom Lifecycle Engineer</a></td>
-<td>Calgary, AB</td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
 <td align="center"><a href="https://jobs.workable.com/view/dj5g1EpQb9xsvWnb7HYnGC/telecom-lifecycle-engineer-in-calgary-at-altalink">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
@@ -340,14 +340,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>ZEPLUG</strong></td>
 <td><a href="https://trueinterview.io/jobs/0d235441-1026-4ffe-a2fc-a719cf379600">CDI - Software Engineer - Squad PCA / SIO - H/F</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/zeplug/jobs/cdi-software-engineer-squad-pca-sio-h-f_paris">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Tibber</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e1c7b5a-32dd-43bf-9b44-d2db45046ab1">Backend Engineer</a></td>
-<td>Stockholm</td>
+<td>Stockholm, Sweden</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/tibber/jobs/backend-engineer_berlin_kosnvakn">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -368,7 +368,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Zeeco</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7815730-7bf3-4c88-8547-6c28084f6c21">Instrumentation &amp; Controls Engineer - FEED &amp; Detail Engineering</a></td>
-<td>Mumbai</td>
+<td>Mumbai, Maharashtra</td>
 <td align="center"><a href="https://jobs.lever.co/zeeco/5a936e93-1071-46ee-8083-82999bc7f5b2/apply">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>

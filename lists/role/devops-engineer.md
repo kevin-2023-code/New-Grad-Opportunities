@@ -76,7 +76,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>DiliTrust</strong></td>
 <td><a href="https://trueinterview.io/jobs/a54e23b9-74fa-4895-823e-28b7cdf47866">SRE / DevOps Engineer (Developer background)</a></td>
-<td>Montreal, QC</td>
+<td>Montreal, QC<br/>Montreal, Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/dilitrust/jobs/devops_montreal">Apply</a></td>
 <td align="center">5 Sep 2026</td>
 </tr>
@@ -158,7 +158,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Deepomatic</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3caeb45-0bb4-4a05-836c-f0315734c423">DevOps Engineer</a></td>
-<td>Cambridge</td>
+<td>Cambridge, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/deepomatic-1/jobs/devops-engineer_cambridge_2bna2io3">Apply</a></td>
 <td align="center">20 Sep 2026</td>
 </tr>
@@ -207,7 +207,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>dLocal</strong></td>
 <td><a href="https://trueinterview.io/jobs/b764a747-a739-4dfc-8d73-1a196c2c3378">DevOps Engineer (CI/CD)</a></td>
-<td>Barcelona</td>
+<td>Barcelona, Spain</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/dlocal/jobs/devops-engineer-ci-cd_madrid_7gilchvy">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -221,14 +221,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Lloyds</strong></td>
 <td><a href="https://trueinterview.io/jobs/b53c6325-a67d-4051-ad27-dc6cee581452">DevOps Engineer</a></td>
-<td>Edinburgh</td>
+<td>Edinburgh, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/lloyds/jobs/devops-engineer_edinburgh_oiygctyi">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d10a06b1-c0a6-42b7-b8fe-d9b2eb804641">Google Cloud Network DevOps Engineer</a></td>
-<td>Manchester</td>
+<td>Manchester, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/lloyds/jobs/google-cloud-network-devops-engineer_manchester_g6dkhebz">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -263,7 +263,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Eridanis</strong></td>
 <td><a href="https://trueinterview.io/jobs/059233dc-4a88-4390-9c6b-eec443e4da1d">DevOps Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/eridanis/jobs/devops-engineer_paris">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -291,7 +291,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Zinc Work</strong></td>
 <td><a href="https://trueinterview.io/jobs/09787d14-b93d-4af4-acb5-ff4830161ee5">DevOps Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/zinc-work/jobs/devops-engineer_london_isdczfqj">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -333,7 +333,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Wayve</strong></td>
 <td><a href="https://trueinterview.io/jobs/89fe788c-e0d9-40cd-bd22-160130881590">DevOps Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/wayve/jobs/devops-engineer_london_lybd4ydv">Apply</a></td>
 <td align="center">6 Sep 2026</td>
 </tr>
@@ -382,7 +382,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Theodo Cloud</strong></td>
 <td><a href="https://trueinterview.io/jobs/4a3b6cc1-5271-4de1-9bb2-137fb76adeae">DevOps Engineer - CDI Paris - Theodo Cloud</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo-cloud/jobs/devops-engineer-cdi-paris-theodo-cloud_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>

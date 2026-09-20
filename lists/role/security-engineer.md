@@ -27,7 +27,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Figure</strong></td>
 <td><a href="https://trueinterview.io/jobs/9a2ff1f3-67cd-493f-b18d-022c218f3202">Security Engineer, Enterprise Security</a></td>
-<td>San Jose, CA</td>
+<td>San Jose, CA<br/>HQ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4714390006">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
@@ -104,14 +104,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Splunk</strong></td>
 <td><a href="https://trueinterview.io/jobs/f31535c5-d968-488e-9e4c-2767d0d5d617">Security Engineer (Remote)</a></td>
-<td>Denver, CO<br/>Austin, TX<br/>Chicago, IL</td>
+<td>Denver, Colorado, United States of America<br/>Austin, TX<br/>Chicago, Illinois, United States of America<br/>+3 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Denver-Colorado-US/Security-Engineer--Remote-_2025594">Apply</a></td>
 <td align="center">12 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Numeris</strong></td>
 <td><a href="https://trueinterview.io/jobs/cc405e36-2ace-48a6-aef1-5154dc0e3b9c">Information Security Engineer (Cloud) - Contract</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, Ontario</td>
 <td align="center"><a href="https://jobs.lever.co/numeris/a429a425-dc12-4058-b43d-68c8cea68421/apply">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -125,7 +125,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/75f86592-cc86-416e-a88b-6cf15c7af075">IAM Security Engineer</a></td>
-<td>Austin, TX (hybrid)</td>
+<td>Austin, TX<br/>Hybrid</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8157997?gh_jid=8157997">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -167,7 +167,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Writer</strong></td>
 <td><a href="https://trueinterview.io/jobs/9fbacf69-0c73-49be-a731-177f6b694cd5">Security engineer, detection and response</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>London</td>
+<td>San Francisco, CA<br/>Seattle, WA<br/>London, UK<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/writer/52b3bf22-7f09-4b9d-9d62-ab9f218a4c66/application">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
@@ -286,7 +286,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Exa</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a2c14cb-f2e6-42b7-8991-55534f6a6646">Security Engineer</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, California</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/exa/c4081592-fa8c-4fed-9041-70c62feee157/application">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
@@ -307,7 +307,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Candid Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/315968a3-3c42-4867-b741-778751fcae02">Security Engineer, GRC</a></td>
-<td>San Francisco, CA<br/>Denver, CO</td>
+<td>San Francisco, CA<br/>Denver, CO<br/>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/candidhealth/0c627953-8164-42f8-a4a3-b625c66dead2/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
@@ -321,14 +321,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cargurus</strong></td>
 <td><a href="https://trueinterview.io/jobs/c376796f-4bcb-4efb-9fce-b7d3a6bbf36c">Application Security Engineer I</a></td>
-<td>Boston, MA</td>
+<td>Boston, Massachusetts, United States<br/>Boston (1001 Boylston Street)</td>
 <td align="center"><a href="https://careers.cargurus.com/us/en/job/8050976?gh_jid=8050976">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/974fd1f4-5d25-4c0c-809e-b2e1543d4e0f">AI Security Engineer</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Santa Clara, CA, United States of America</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Security-Engineer_2603452">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
@@ -356,7 +356,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>ServiceNow</strong></td>
 <td><a href="https://trueinterview.io/jobs/3ccae802-8894-4624-823b-d3e171e892a3">Dir, Sales, Cybersecurity Canada (Armis)</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000144394579-dir-sales-cybersecurity-canada-armis-?oga=true">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
@@ -384,7 +384,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Palantir</strong></td>
 <td><a href="https://trueinterview.io/jobs/5e5a057f-7acd-4160-bed2-47d85229bac6">Offensive Security Engineer</a></td>
-<td>Washington, DC<br/>New York, NY</td>
+<td>Washington, DC<br/>New York, NY<br/>Washington, D.C.</td>
 <td align="center"><a href="https://jobs.lever.co/palantir/5614a901-ef96-4b9c-928d-4a9c338c8aad">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
@@ -454,7 +454,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Zoox</strong></td>
 <td><a href="https://trueinterview.io/jobs/0f7c0629-f936-4a0c-b03a-dc111efcd483">Product Security Engineer - QRA</a></td>
-<td>Seattle, WA<br/>Boston, MA</td>
+<td>Seattle, WA<br/>Boston, MA<br/>Foster City, CA<br/>+1 more</td>
 <td align="center"><a href="https://jobs.lever.co/zoox/896f37b9-80b7-4077-a937-e499151ce5f2/apply">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
@@ -475,14 +475,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Guidepoint Security</strong></td>
 <td><a href="https://trueinterview.io/jobs/d1991c83-ae95-4026-9c0f-42e8bd897c75">Security Engineer (Denver, CO) - Heartland (Remote)</a></td>
-<td>Denver, CO</td>
+<td>Denver, CO<br/>Heartland</td>
 <td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6123662004?gh_jid=6123662004">Apply</a></td>
 <td align="center">27 Jul 2026</td>
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/c4632dc1-f735-4449-a016-6981c72cf8c4">Product Security Incident Response Engineer</a></td>
-<td>Ireland, Limerick<br/>Spain, Valencia, Cortes Valencianas<br/>United Kingdom, Edinburgh, SC, Freer</td>
+<td>Ireland, Limerick, United Kingdom<br/>Spain, Valencia, Cortes Valencianas<br/>United Kingdom, Edinburgh, SC, Freer</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Product-Security-Incident-Response-Engineer_R263880-1">Apply</a></td>
 <td align="center">24 Jul 2026</td>
 </tr>
@@ -515,7 +515,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>FareHarbor</strong></td>
 <td><a href="https://trueinterview.io/jobs/0813de30-0232-4c06-b4e9-a1db8a271585">Application Security Engineer</a></td>
-<td>Amsterdam</td>
+<td>Amsterdam, Netherlands</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/fareharbor/jobs/application-security-engineer_amsterdam_xcvlzhyc">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -529,7 +529,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Mistral AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/3c830bbe-d708-4708-9ca3-f67c970cfd82">Software Engineer, CyberSecurity</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-use-case-software-engineer-harness_paris_MA_PDZz1k2">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -578,21 +578,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Firmus Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/b15b7e41-546f-42f3-b92b-be7ba1f0e974">Security Engineer, Application</a></td>
-<td>Sydney</td>
+<td>Sydney, New South Wales, Australia<br/>Australia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/firmus/jobs/5417463008">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Knowbe4</strong></td>
 <td><a href="https://trueinterview.io/jobs/d1d85bc6-04e5-4ea4-8c7f-b723429a4cc1">Product Security Engineer (Position located in Brazil)</a></td>
-<td>São Paulo</td>
+<td>São Paulo, Brazil</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8790880002">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Awin</strong></td>
 <td><a href="https://trueinterview.io/jobs/5c9d7c81-27a8-46d7-948a-ce91db8d2a59">Application Security Engineer</a></td>
-<td>Berlin</td>
+<td>Berlin, Germany</td>
 <td align="center"><a href="https://4dayweek.io/job/application-security-engineer-at-awin-7b5039da">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -613,7 +613,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
 <td><a href="https://trueinterview.io/jobs/9663035c-b766-43d0-904e-ff7f6fd17606">Associate Security Engineer</a></td>
-<td>Dublin</td>
+<td>Dublin, Ireland</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788300">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
@@ -627,14 +627,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Talon.One</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b0f9bac-115d-43e2-88e1-b3cb9478f5dc">Product &amp; AI Security Engineer</a></td>
-<td>Berlin</td>
+<td>Berlin, Germany</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/talon-one/jobs/product-ai-security-engineer_berlin_nm4jewba">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Avertium</strong></td>
 <td><a href="https://trueinterview.io/jobs/def3f5b8-3cae-4371-96bf-fef2c22377c6">CyberSecurity Analyst</a></td>
-<td>Guadalajara</td>
+<td>Guadalajara, Mexico</td>
 <td align="center"><a href="https://jobs.lever.co/avertium/4f16c74c-5168-46ea-abd1-abb9163999a0/apply">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -648,14 +648,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/058507f2-386f-469b-93df-3a8c401b57d7">Cloud Security Engineer</a></td>
-<td>Tokyo</td>
+<td>Tokyo, Tokyo Prefecture, Japan</td>
 <td align="center"><a href="https://paypal.wd1.myworkdayjobs.com/jobs/job/Tokyo-Tokyo-Prefecture-Japan/Cloud-Security-Engineer_R0137326">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>UTA</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed7d1783-d726-48ed-91fe-27c306571e99">Security Engineer (Product Security)</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/uta/jobs/security-engineer-product-security_london_uvqcom37">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -676,21 +676,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Brave</strong></td>
 <td><a href="https://trueinterview.io/jobs/64e0b0f7-034e-4894-9257-d2aa57e9e3c2">AI Security Researcher/Research Engineer</a></td>
-<td>London</td>
+<td>London, England<br/>Brave London</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/brave/jobs/8165845">Apply</a></td>
 <td align="center">29 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Avertium</strong></td>
 <td><a href="https://trueinterview.io/jobs/a051ee63-5f58-442e-867b-a2d7bfc60cfc">CyberSecurity Engineer | LogRhythm</a></td>
-<td>Guadalajara</td>
+<td>Guadalajara, Mexico</td>
 <td align="center"><a href="https://jobs.lever.co/avertium/b8eed3c9-a43e-4683-9201-b8cfc78fd218/apply">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Govtech</strong></td>
 <td><a href="https://trueinterview.io/jobs/e3848a0a-7eab-4b94-83e1-56c9cd489d96">Cybersecurity Engineer</a></td>
-<td>Singapore</td>
+<td>Singapore<br/>CEP Core Engineering Products</td>
 <td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005720201?gh_jid=4005720201">Apply</a></td>
 <td align="center">16 Aug 2026</td>
 </tr>
@@ -711,7 +711,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/f412b76d-10ac-4145-801a-6656f6aeb555">Field Security Specialist (Cyber Security Solutions Engineer)</a></td>
-<td>Dublin</td>
+<td>Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/8ee5d640-de2c-4004-8857-210ef8ec3177/application">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>

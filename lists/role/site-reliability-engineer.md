@@ -41,21 +41,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/8a0f4bdd-aa2a-429d-884f-06070f8c1285">Site Reliability Engineer</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8209331">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>PagerDuty</strong></td>
 <td><a href="https://trueinterview.io/jobs/07074130-395f-438c-9305-c2eedc785bdf">Site Reliability Engineer</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/pagerduty/jobs/site-reliability-engineer_atlanta_snbee5th">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Erg</strong></td>
 <td><a href="https://trueinterview.io/jobs/dec8fc29-023b-43a1-a2b4-6a2ec6c6aeb6">On-site Environmental Scientist, Engineer, and Technical Specialist</a></td>
-<td>Morrisville, NC<br/>Chapel Hill, NC<br/>Durham, NC</td>
+<td>Morrisville, NC<br/>Chapel Hill, NC<br/>Durham, NC<br/>+1 more</td>
 <td align="center"><a href="https://jobs.lever.co/erg/a3a475aa-be18-440c-9bc8-000200aeb963/apply">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -69,7 +69,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/101de011-2c46-4cfa-b27e-fb3ddead14da">Site Reliability Engineer, AI Infrastructure (Starshield)</a></td>
-<td>Washington, DC</td>
+<td>Washington, DC<br/>Hawthorne, CA<br/>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8807493002?gh_jid=8807493002">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -118,7 +118,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cognition</strong></td>
 <td><a href="https://trueinterview.io/jobs/b8e47c7f-437c-4a51-b791-b706064de4ba">Site Reliability Engineer</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, CA<br/>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cognition/d50d94b0-60c8-4dae-9c36-234f072ee4e3/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
@@ -186,7 +186,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Mistral AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/42268aac-26dd-4c44-ae79-7752d803f632">Site Reliability Engineer, Mistral Cloud</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/site-reliability-engineer-mistral-cloud_paris">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -214,7 +214,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>C6 Bank</strong></td>
 <td><a href="https://trueinterview.io/jobs/04fc076f-5a9a-41f1-9e12-37f1e3f83042">SRE | Site Reliability Engineering</a></td>
-<td>São Paulo</td>
+<td>São Paulo, Brazil<br/>C6 Bank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4732405005">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -235,7 +235,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Newton's Tree</strong></td>
 <td><a href="https://trueinterview.io/jobs/2ca7a1de-db55-4dee-975f-be2e0d2c881d">Newton's Tree / Forward Deployed Engineer, Site Reliability Engineer / London, UK / HYBRID / Full-Time /</a></td>
-<td>London</td>
+<td>London, UK</td>
 <td align="center"><a href="https://www.newtonstree.ai/">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -256,7 +256,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Lloyds</strong></td>
 <td><a href="https://trueinterview.io/jobs/639135fa-ecfb-4cab-ae30-ef04cbf416ac">Site Reliability Engineer</a></td>
-<td>Manchester</td>
+<td>Manchester, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/lloyds/jobs/site-reliability-engineer_manchester_mnxeca27">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -277,7 +277,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>OVHcloud</strong></td>
 <td><a href="https://trueinterview.io/jobs/8f2d929d-e288-4313-aa09-3b6ad69b0148">Techlead Site Reliability Engineer - Data Platform H/F/N</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/ovh/jobs/techlead-site-reliability-engineer-data-platform_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>

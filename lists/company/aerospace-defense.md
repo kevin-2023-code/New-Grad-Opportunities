@@ -34,7 +34,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/883f2771-5845-4eea-84c2-ab89d596f696">Firmware Engineer, Manufacturing Test</a></td>
-<td>Atlanta, GA</td>
+<td>Atlanta, GA<br/>Atlanta, Georgia, United States<br/>Costa Mesa, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5243033007?gh_jid=5243033007">Apply</a></td>
 <td align="center">19 Sep 2026</td>
 </tr>
@@ -174,7 +174,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Onebrief</strong></td>
 <td><a href="https://trueinterview.io/jobs/e8a90c07-6b9f-477b-ae03-e2bffec7c20a">Outcome Engineer - Seattle, WA</a></td>
-<td>Seattle, WA</td>
+<td>Seattle, WA<br/>Salt Lake City, Utah<br/>Orlando, Florida</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/onebrief/418a8af0-000e-4283-8799-2426a9a7ac4d/application">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -279,14 +279,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/94e7a6be-1688-4587-9742-86919312a301">Network Engineer, AI Infrastructure (Starshield)</a></td>
-<td>Washington, DC</td>
+<td>Washington, DC<br/>Hawthorne, CA<br/>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8808150002?gh_jid=8808150002">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/101de011-2c46-4cfa-b27e-fb3ddead14da">Site Reliability Engineer, AI Infrastructure (Starshield)</a></td>
-<td>Washington, DC</td>
+<td>Washington, DC<br/>Hawthorne, CA<br/>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8807493002?gh_jid=8807493002">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -314,14 +314,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/fddeba72-d9ce-481c-a8eb-c285d918f272">Materials Engineer, Metals (Starlink)</a></td>
-<td>Redmond, WA<br/>Hawthorne, CA<br/>Starbase, TX</td>
+<td>Redmond, WA<br/>Hawthorne, CA<br/>Starbase, TX<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8795738002?gh_jid=8795738002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9ee03071-f787-4df5-97b3-ec040f29de81">New Graduate Engineer, Security Software (Starshield)</a></td>
-<td>Washington, DC</td>
+<td>Washington, DC<br/>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -363,7 +363,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d0180b25-bc7f-47c5-a0d5-5baf036e1e8b">Physical Design Engineer (Silicon Engineering)</a></td>
-<td>Austin, TX<br/>Palo Alto, CA</td>
+<td>Austin, TX<br/>Palo Alto, CA<br/>Irvine, California, United States<br/>+2 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8795576002?gh_jid=8795576002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -531,7 +531,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/297b45ff-7d7d-461f-9c81-abbb9ee0a4c0">Full Stack Software Engineer</a></td>
-<td>Bastrop, TX<br/>Palo Alto, CA<br/>Hawthorne, CA</td>
+<td>Bastrop, TX<br/>Palo Alto, CA<br/>Hawthorne, CA<br/>+3 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8785505002?gh_jid=8785505002">Apply</a></td>
 <td align="center">7 Sep 2026</td>
 </tr>
@@ -615,7 +615,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cesiumastro</strong></td>
 <td><a href="https://trueinterview.io/jobs/37eac710-2cb6-4bbd-b4b9-69432426852e">Mechanical Engineer I</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Westminster, CO<br/>El Segundo, CA</td>
 <td align="center"><a href="https://jobs.lever.co/CesiumAstro/ebf75b86-512b-476c-bf66-d0e399a21929/apply">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -643,7 +643,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/7203ba94-ee86-4081-b508-5fe6abbf8c71">Integration &amp; Test Engineer (Falcon)</a></td>
-<td>Vandenberg, CA<br/>Redmond, WA<br/>Starbase, TX</td>
+<td>Vandenberg, CA<br/>Redmond, WA<br/>Starbase, TX<br/>+2 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8771149002?gh_jid=8771149002">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -734,7 +734,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/627e2754-fb80-4061-b745-115810736fe9">Red Team Engineer, Discovery</a></td>
-<td>Washington, DC</td>
+<td>Washington, DC<br/>Washington, District of Columbia, United States<br/>Costa Mesa, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5226723007?gh_jid=5226723007">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -755,7 +755,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/32fe8e00-a330-4382-8fd9-7c4e0bea9e1e">Mission Software Engineer - Undersea Reconnaissance &amp; Strike</a></td>
-<td>Washington, DC<br/>Boston, MA</td>
+<td>Washington, DC<br/>Boston, Massachusetts, United States<br/>Washington, District of Columbia, United States<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5226473007?gh_jid=5226473007">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -818,7 +818,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/25020078-624c-480c-899d-cd3955fa9e27">Full Stack Engineer, Employee Experience</a></td>
-<td>Palo Alto, CA</td>
+<td>Palo Alto, CA<br/>Palo Alto - 1530</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8763492002?gh_jid=8763492002">Apply</a></td>
 <td align="center">30 Aug 2026</td>
 </tr>
@@ -909,7 +909,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>True Anomaly</strong></td>
 <td><a href="https://trueinterview.io/jobs/16272782-9bce-4295-bf01-a2b92ad5f9eb">Data Engineer 1</a> 🛂</td>
-<td>Denver, CO</td>
+<td>Denver, CO or Long Beach, CA<br/>Long Beach, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
@@ -1203,7 +1203,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/87b30a31-f82e-4580-bc1f-4f3286ab72a4">Software Engineer, Inference (AI Data Engineering)</a></td>
-<td>Palo Alto, CA</td>
+<td>Palo Alto, CA<br/>Palo Alto - 1530</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
@@ -1420,7 +1420,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/4395c5e0-49ea-470b-b905-017bfbf4c136">New Graduate Engineer, Software  - '26/'27  (Starlink)</a></td>
-<td>Palo Alto, CA</td>
+<td>Palo Alto, CA<br/>Redmond, WA<br/>Bastrop, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
@@ -1441,7 +1441,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/efb85f89-d0a9-4ee6-bae9-9324c6422156">New Graduate Engineer, Silicon Engineering</a></td>
-<td>Palo Alto, CA</td>
+<td>Palo Alto, CA<br/>Irvine, California, United States<br/>Redmond, WA<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
@@ -1525,7 +1525,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/e93718cf-a18d-4065-842e-e1fe1dcde802">Software Engineer, Developer Platform</a></td>
-<td>Boston, MA<br/>Seattle, WA</td>
+<td>Boston, Massachusetts, United States<br/>Seattle, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5210930007?gh_jid=5210930007">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
@@ -1567,7 +1567,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/05baa9a5-5325-488b-8a9e-e85e07d715c8">Signal Integrity Engineer - Serdes, Satellites (Starlink)</a></td>
-<td>Palo Alto, CA</td>
+<td>Palo Alto, CA<br/>Redmond, WA<br/>Palo Alto - 1200</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8698729002?gh_jid=8698729002">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
@@ -1672,7 +1672,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c66e4962-a1de-4857-a8a0-9cad3f923691">Automation &amp; Controls Engineer (Starlink)</a></td>
-<td>Redmond, WA<br/>Cape Canaveral, FL<br/>Hawthorne, CA</td>
+<td>Redmond, WA<br/>Cape Canaveral, FL<br/>Hawthorne, CA<br/>+2 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8676957002?gh_jid=8676957002">Apply</a></td>
 <td align="center">7 Aug 2026</td>
 </tr>
@@ -1693,7 +1693,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b2928ac6-8476-4296-87d1-131e3260da30">ASIC/SOC DFT Engineer (Silicon Engineering)</a></td>
-<td>Austin, TX<br/>Palo Alto, CA</td>
+<td>Austin, TX<br/>Palo Alto, CA<br/>Austin - 800<br/>+2 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8686199002?gh_jid=8686199002">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
@@ -1770,7 +1770,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bf69c3a2-ae1d-48f2-949a-619c74aa3452">Electrical Design Engineer, Satellites Payload (Starlink)</a></td>
-<td>Palo Alto, CA</td>
+<td>Palo Alto, CA<br/>Palo Alto - 1200</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8682184002?gh_jid=8682184002">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
@@ -1917,7 +1917,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/30c19a64-9c66-43b4-a329-3779c8dbc34a">Application Software Engineer, Applied AI</a></td>
-<td>Hawthorne, CA<br/>Bastrop, TX<br/>Starbase, TX</td>
+<td>Hawthorne, CA<br/>Bastrop, TX<br/>Starbase, TX<br/>+5 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002">Apply</a></td>
 <td align="center">30 Jul 2026</td>
 </tr>
@@ -1980,7 +1980,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fcb3dd73-376f-4ac3-91b3-2fc83981578b">Operations Engineer, Applied AI (Application Software)</a></td>
-<td>Hawthorne, CA<br/>Bastrop, TX<br/>Starbase, TX</td>
+<td>Hawthorne, CA<br/>Bastrop, TX<br/>Starbase, TX<br/>+5 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8652229002?gh_jid=8652229002">Apply</a></td>
 <td align="center">28 Jul 2026</td>
 </tr>
@@ -2090,7 +2090,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>The Exploration Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/1008d0a2-481b-4a84-835b-777bfb284791">AI and Computer Vision Engineer</a></td>
-<td>Munich</td>
+<td>Munich, Germany</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/d1ce1340-576f-4189-a586-70effdb86b45/application">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -2111,7 +2111,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/9d549d1f-fcff-487d-bcb2-d0f8907972bc">IT Administrator, APAC</a></td>
-<td>Sydney</td>
+<td>Sydney, New South Wales, Australia<br/>Sydney, AUS</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5234138007?gh_jid=5234138007">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -2139,7 +2139,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Rocket Lab Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/613cacaa-56bc-47ed-89b2-aac9d6e9e1fd">GNC Engineer I - Electron</a></td>
-<td>Auckland</td>
+<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7978902003">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
@@ -2174,7 +2174,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>The Exploration Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/4a36a6e7-9188-4f41-966f-12398c77cff2">Feed System Functional Engineer</a></td>
-<td>Munich</td>
+<td>Munich, Germany<br/>Bordeaux, France</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/f9da148f-3ae8-447a-91d9-232a72df84ea/application">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
@@ -2195,14 +2195,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Rocket Lab Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/674c96e5-4c2f-4a24-9f86-7c3b6d2e13b0">Manufacturing Engineer - Nightshift</a></td>
-<td>Auckland</td>
+<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7825201003">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d1be0c92-802d-41cd-9854-1a7f7da62319">Manufacturing Engineer</a></td>
-<td>Auckland</td>
+<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7825132003">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>

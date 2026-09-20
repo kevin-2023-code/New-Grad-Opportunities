@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>DRW</strong></td>
 <td><a href="https://trueinterview.io/jobs/7f11abc0-479c-43b8-9a5e-3948c186ecba">Data Analyst, Stewardship</a> 🌐</td>
-<td>Remote — United States</td>
+<td>Remote — United States<br/>Chicago, Houston, Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8189730">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
@@ -76,56 +76,56 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Esri</strong></td>
 <td><a href="https://trueinterview.io/jobs/710436be-93da-4d81-8093-6e1153115378">GIS Solution Engineer – Global Alliances &amp; Partners</a></td>
-<td>Washington, DC</td>
+<td>San Antonio, TX<br/>Washington, DC<br/>Vienna, Virginia, United States<br/>+2 more</td>
 <td align="center"><a href="https://www.esri.com/careers/5227575007?gh_jid=5227575007">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Mariana Minerals</strong></td>
 <td><a href="https://trueinterview.io/jobs/40678754-7fa5-43fa-aab5-261e4845d058">Full Stack Software Engineer</a></td>
-<td>San Francisco HQ<br/>Houston, TX<br/>Ann Arbor, MI</td>
+<td>Houston, TX<br/>San Francisco HQ<br/>Ann Arbor, MI</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/marianaminerals/eebc7048-02a3-42ba-80b7-04b8a997e50a/application">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/6a17c887-2b94-4a2d-8200-f735a12be7a0">Cloud Engineer Graduate</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Spring, Texas, United States of America<br/>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1213628-1">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c23d94ba-956b-4ece-bb99-aaa998f8999c">Data Science Graduate</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Spring, Texas, United States of America<br/>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1213631-1">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0b55c324-228f-4b09-93ba-f2389d6c73d7">Firmware Engineer Graduate</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Spring, Texas, United States of America<br/>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Graduate_1213626-1">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b01d45b3-f180-49f4-bb9f-a7d16cac5aff">Product Management Graduate (Master's/MBA)</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Spring, Texas, United States of America<br/>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/57002759-43b8-442a-9f71-3e2c9ca7674a">Software Engineer Graduate</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Spring, Texas, United States of America<br/>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624-1">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Defense Unicorns</strong></td>
 <td><a href="https://trueinterview.io/jobs/7c38986c-5982-4696-802d-b5059ac0285c">Platform Engineer</a> 🌐</td>
-<td>Remote — United States</td>
+<td>Remote — United States<br/>San Antonio, Texas</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/defenseunicorns/jobs/5223131007">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
@@ -146,7 +146,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/799bbf4d-9dc5-4464-99a5-99ebccb6d4cc">Cloud Developer</a></td>
-<td>Houston, Texas<br/>Durham, North Carolina, United States of America<br/>Spring, Texas, United States of America</td>
+<td>Houston, Texas, United States of America<br/>Spring, Texas, United States of America<br/>Durham, North Carolina, United States of America<br/>+2 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas/Cloud-Developer_1212916">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
@@ -160,28 +160,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/952f14f1-1a80-4c62-b7a2-1d29cd61674d">Data Center Production Operations Engineer</a></td>
-<td>Henrico, VA, US<br/>Mesa, AZ, US<br/>Temple, TX, US</td>
+<td>El Paso, TX, US<br/>Henrico, VA, US<br/>Mesa, AZ, US<br/>+12 more</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1626919348826835/">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Sunsource</strong></td>
 <td><a href="https://trueinterview.io/jobs/4be76e12-8112-49ce-b2eb-367292b5ae7d">Technical Specialist - Hydraulic Systems Designer</a></td>
-<td>Grand Prairie, TX 75050<br/>Houston, TX 77028</td>
+<td>Houston, TX 77028<br/>Grand Prairie, TX 75050</td>
 <td align="center"><a href="https://jobs.lever.co/sunsrce/52e838a5-b19a-4ad0-8b21-89f9a5c8a58a/apply">Apply</a></td>
 <td align="center">10 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Dlr Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/326edc83-949e-48e8-9edf-4cdae1aec310">National Discipline Quality Control Leader (NQC) + Structural Engineer</a></td>
-<td>Austin, TX<br/>Chicago, IL<br/>Denver, CO</td>
+<td>Houston, Texas, United States<br/>Austin, TX<br/>Chicago, Illinois, United States<br/>+19 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5380164008">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Forgen</strong></td>
 <td><a href="https://trueinterview.io/jobs/b45513db-ff55-408b-bf3e-a9f9043d1a05">Project Engineer</a></td>
-<td>Baton Rouge, Louisiana<br/>Houston, Texas<br/>Dallas, Texas</td>
+<td>Houston, Texas<br/>Baton Rouge, Louisiana<br/>Dallas, Texas<br/>+2 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/forgen/jobs/5203382007">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>

@@ -69,7 +69,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Match Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/23ff743f-8fe9-4787-b458-7b8ed8c10c5e">AI Product Engineer</a></td>
-<td>Vancouver, BC</td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia</td>
 <td align="center"><a href="https://jobs.lever.co/matchgroup/69396299-e587-4063-aef6-0ce2fd66e9ee/apply">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -83,7 +83,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Stripe</strong></td>
 <td><a href="https://trueinterview.io/jobs/9e3b4740-0aab-4386-9526-434a8718ff5b">Software Engineer, Early Career — Immediate Start</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, CA<br/>San Francisco, Seattle, New York<br/>Toronto<br/>+1 more</td>
 <td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8212508">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
@@ -146,7 +146,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Snap</strong></td>
 <td><a href="https://trueinterview.io/jobs/cb93252d-9f74-4ecb-a12f-378a2ed8b227">Electrical Engineer</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, California</td>
 <td align="center"><a href="https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Electrical-Engineer_H226EE1">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -216,7 +216,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>PagerDuty</strong></td>
 <td><a href="https://trueinterview.io/jobs/07074130-395f-438c-9305-c2eedc785bdf">Site Reliability Engineer</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/pagerduty/jobs/site-reliability-engineer_atlanta_snbee5th">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -237,7 +237,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Anthropic</strong></td>
 <td><a href="https://trueinterview.io/jobs/9bf11005-d494-49e5-8201-d8156f0260cc">Salesforce Developer, Partnerships</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, CA<br/>New York City, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5420994008">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -384,14 +384,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Splunk</strong></td>
 <td><a href="https://trueinterview.io/jobs/fcc4ba30-ece3-4a1c-bb03-ffb102ab67af">Content Designer (Remote)</a></td>
-<td>Atlanta, GA<br/>Austin, TX<br/>Chicago, IL</td>
+<td>Atlanta, GA<br/>Austin, TX<br/>Chicago, Illinois, United States of America<br/>+6 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Durham-North-Carolina-US/Content-Designer--Remote-_2025596">Apply</a></td>
 <td align="center">12 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f31535c5-d968-488e-9e4c-2767d0d5d617">Security Engineer (Remote)</a></td>
-<td>Denver, CO<br/>Austin, TX<br/>Chicago, IL</td>
+<td>Denver, Colorado, United States of America<br/>Austin, TX<br/>Chicago, Illinois, United States of America<br/>+3 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Denver-Colorado-US/Security-Engineer--Remote-_2025594">Apply</a></td>
 <td align="center">12 Sep 2026</td>
 </tr>
@@ -405,7 +405,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/8f6fd521-cbb5-42e2-b3b7-15cbc9d697be">Rack Integration Operations Engineer</a></td>
-<td>Austin, TX<br/>San Francisco, CA<br/>Seattle, WA (hybrid)</td>
+<td>Austin, TX<br/>San Francisco, CA<br/>Seattle, WA<br/>+2 more (hybrid)</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8196631?gh_jid=8196631">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -426,7 +426,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/75f86592-cc86-416e-a88b-6cf15c7af075">IAM Security Engineer</a></td>
-<td>Austin, TX (hybrid)</td>
+<td>Austin, TX<br/>Hybrid</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8157997?gh_jid=8157997">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -468,7 +468,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Snap Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/7b484075-f27d-4dc5-adc7-3b59e0e2b901">Software Engineer (ML Infrastructure, Content Retrieval Platform, Level 4)</a></td>
-<td>Palo Alto, CA</td>
+<td>Palo Alto, CA<br/>Santa Monica, United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/snap-inc/jobs/software-engineer-ml-infrastructure-content-retrieval-platform-level-4_palo-alto_qsabhmzy">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -482,7 +482,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Ubisoft Montreal</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c4c423a-0070-4d86-9d8e-11dec8ee279d">Data Developer</a></td>
-<td>Montreal, QC</td>
+<td>Montreal, QC<br/>Montreal, Canada</td>
 <td align="center"><a href="https://4dayweek.io/job/data-developer-at-ubisoft-montreal-dbf41a7f">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -510,14 +510,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>StubHub</strong></td>
 <td><a href="https://trueinterview.io/jobs/9d216624-02fe-45e0-8d15-2a16f6193219">Associate Product Manager - Paid Search</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4973720101">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Roku</strong></td>
 <td><a href="https://trueinterview.io/jobs/42981395-2bb6-4bb3-a5a5-0285ff3228a4">Design Engineer, UX Product</a></td>
-<td>San Jose, CA</td>
+<td>San Jose, California</td>
 <td align="center"><a href="https://www.weareroku.com/jobs/8189529?gh_jid=8189529">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -531,7 +531,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/66a3fd26-b50a-4d1c-807e-2a44168677d9">Partner Applied AI Engineer</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, CA<br/>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/552396f4-dc83-43de-9230-6301e5f461bd/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -545,7 +545,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Match Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/006e4d57-4d83-4e77-9839-c76d6cfd6a4b">Data Scientist, Marketing Analytics</a></td>
-<td>New York, NY<br/>Los Angeles, CA</td>
+<td>New York, NY<br/>Los Angeles, California<br/>New York, New York</td>
 <td align="center"><a href="https://jobs.lever.co/matchgroup/d28a3de6-cd04-483a-9aed-5ba1d2f8c57c/apply">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -601,7 +601,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Anthropic</strong></td>
 <td><a href="https://trueinterview.io/jobs/f6370ac1-a36f-4aba-8cf6-aaa19383a013">Performance Engineer, Inference Engine</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, CA<br/>New York City, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5418323008">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -622,7 +622,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>StubHub</strong></td>
 <td><a href="https://trueinterview.io/jobs/d0f6f98f-3258-4c2a-a96d-200d46149d84">Software Engineer I - Platform Engineer - Core Compute Platform</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4967177101">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -650,7 +650,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/d78b397d-e868-4e89-b51a-d5f18aeae28d">Systems Engineer, Network Protocols &amp; Distributed Systems</a></td>
-<td>Austin, TX<br/>London (hybrid)</td>
+<td>Austin, TX<br/>London, United Kingdom<br/>Hybrid<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8187404?gh_jid=8187404">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -776,21 +776,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/28bd7656-bd47-4e3b-a6eb-2e35c608fdc1">Systems Engineer - Database Platform</a></td>
-<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA (hybrid)</td>
+<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+2 more (hybrid)</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8158016?gh_jid=8158016">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>National Information Solutions Cooperative (nisc</strong></td>
 <td><a href="https://trueinterview.io/jobs/a35a4414-2621-497a-b7e2-e093fbfb0234">Cloud Networking &amp; Infrastructure Developer</a></td>
-<td>Atlanta, GA</td>
+<td>Atlanta, GA<br/>Any NISC Location<br/>Cedar Rapids, IA<br/>+2 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/nisc/jobs/8180685">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/f5e52704-5c60-4b0f-9018-27b556f92f1b">Detection &amp; Mitigation Engineer</a></td>
-<td>Austin, TX (hybrid)</td>
+<td>Austin, TX<br/>Hybrid</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8170775?gh_jid=8170775">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
@@ -804,21 +804,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Geotab</strong></td>
 <td><a href="https://trueinterview.io/jobs/43890c15-1c8c-406c-ab18-238f7eebbd16">Technical Support Specialist</a></td>
-<td>Atlanta, GA</td>
+<td>Atlanta, GA<br/>Atlanta, Georgia - USA<br/>Detroit, Michigan - USA<br/>+3 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/geotab/jobs/5407716008">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7c978ee3-9681-4f1e-b14d-af8686bcb6df">Technical Support Specialist - Bilingual Spanish</a></td>
-<td>Waterloo, ON<br/>Atlanta, GA</td>
+<td>Waterloo, Ontario - Canada<br/>Atlanta, GA<br/>Oakville, Ontario - Canada<br/>+5 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/geotab/jobs/5407730008">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/53499dd5-d33a-4811-93af-b36d225d1bd7">Technical Support Specialist - Bilingual Portuguese</a></td>
-<td>Waterloo, ON<br/>Atlanta, GA</td>
+<td>Waterloo, Ontario - Canada<br/>Atlanta, GA<br/>Oakville, Ontario - Canada<br/>+6 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/geotab/jobs/5407740008">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -867,7 +867,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Braze</strong></td>
 <td><a href="https://trueinterview.io/jobs/bc9600e0-3336-4dbf-b214-ee32327edad6">People Data Analyst</a></td>
-<td>Chicago, IL</td>
+<td>Chicago, IL<br/>New York City</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/braze/jobs/8128296">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -909,7 +909,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/257539eb-808e-4c81-b46d-1683fcfed99c">Product Engineer, Ona</a></td>
-<td>San Francisco, CA<br/>London</td>
+<td>San Francisco, CA<br/>London, UK</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/c442eab0-b8b4-40f6-b0f2-0fc91aea294a/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -937,7 +937,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>BlackBerry</strong></td>
 <td><a href="https://trueinterview.io/jobs/75c39006-c32a-413d-a370-766e850cd1f2">QNX Open Source Software Developer (New Graduate/Graduate)</a></td>
-<td>Ottawa, ON</td>
+<td>Ottawa, Ontario</td>
 <td align="center"><a href="https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -993,21 +993,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Figma</strong></td>
 <td><a href="https://trueinterview.io/jobs/ca9f839d-6894-4d4e-a0a3-4f9b3ed78221">Designer Advocate</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, CA • New York, NY • United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6176134004?gh_jid=6176134004">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Onetrust</strong></td>
 <td><a href="https://trueinterview.io/jobs/d88d1565-c669-4941-ba95-724361a03889">Software Engineer</a></td>
-<td>Atlanta, GA</td>
+<td>Atlanta, GA<br/>Atlanta, Georgia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/onetrust/jobs/8167257">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Esri</strong></td>
 <td><a href="https://trueinterview.io/jobs/710436be-93da-4d81-8093-6e1153115378">GIS Solution Engineer – Global Alliances &amp; Partners</a></td>
-<td>Washington, DC</td>
+<td>Washington, DC<br/>Vienna, Virginia, United States<br/>Philadelphia, PA<br/>+2 more</td>
 <td align="center"><a href="https://www.esri.com/careers/5227575007?gh_jid=5227575007">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
@@ -1042,7 +1042,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Esri</strong></td>
 <td><a href="https://trueinterview.io/jobs/5941a982-a832-4e51-b63a-49e01713e21d">Software Development Engineer I – ArcGIS Hub</a></td>
-<td>Washington, DC</td>
+<td>Washington, DC<br/>Vienna, Virginia, United States<br/>Redlands, CA</td>
 <td align="center"><a href="https://www.esri.com/careers/5225186007?gh_jid=5225186007">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -1105,7 +1105,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b28e47b5-edc9-4d36-9015-1e5dba94ec14">Associate Systems Engineer</a></td>
-<td>Chicago, IL</td>
+<td>Chicago, Illinois<br/>Raleigh, North Carolina<br/>Salt Lake City, Utah<br/>+3 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8155361">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
@@ -1133,21 +1133,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Anthropic</strong></td>
 <td><a href="https://trueinterview.io/jobs/67b24b1a-9c07-4a7b-a116-d34e692735cc">Product Designer, Core Apps</a></td>
-<td>San Francisco, CA<br/>Seattle, WA</td>
+<td>San Francisco, CA<br/>Seattle, WA<br/>New York City, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5392054008">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Celonis</strong></td>
 <td><a href="https://trueinterview.io/jobs/d1d9e0b5-01b2-40c7-8cc4-7b7148b2ef52">Transformation Engineer - Oracle</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>Redwood City, US, California<br/>New York, US, New York</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/7978327003?gh_jid=7978327003">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/8deb81ce-c645-4e92-ae32-ad03fd7dec25">Network Hardware Engineer</a></td>
-<td>Austin, TX (hybrid)</td>
+<td>Austin, TX<br/>Hybrid</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8147174?gh_jid=8147174">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
@@ -1182,7 +1182,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Anthropic</strong></td>
 <td><a href="https://trueinterview.io/jobs/27e13a5b-8395-490f-8c0f-9602bf5d1385">Applied AI Engineer, Beneficial Deployments (Life Sciences)</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, CA<br/>New York City, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5021015008">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
@@ -1217,7 +1217,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cargurus</strong></td>
 <td><a href="https://trueinterview.io/jobs/c376796f-4bcb-4efb-9fce-b7d3a6bbf36c">Application Security Engineer I</a></td>
-<td>Boston, MA</td>
+<td>Boston, Massachusetts, United States<br/>Boston (1001 Boylston Street)</td>
 <td align="center"><a href="https://careers.cargurus.com/us/en/job/8050976?gh_jid=8050976">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
@@ -1231,7 +1231,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/974fd1f4-5d25-4c0c-809e-b2e1543d4e0f">AI Security Engineer</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Santa Clara, CA, United States of America</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Security-Engineer_2603452">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
@@ -1273,7 +1273,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Twitch</strong></td>
 <td><a href="https://trueinterview.io/jobs/231f3e53-f6e5-4b9e-9871-a6e7d2d82431">Software Development Engineer, Security Platform</a></td>
-<td>Seattle, WA<br/>San Francisco, CA</td>
+<td>Seattle, WA<br/>San Francisco, CA<br/>Irvine, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8739185002">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
@@ -1343,7 +1343,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>xAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/fa473890-47ca-411d-ade9-ec47aaafa2a3">Human Data - Business Operations Analyst</a></td>
-<td>Palo Alto, CA</td>
+<td>Palo Alto, California</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5216863007">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
@@ -1371,14 +1371,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Anthropic</strong></td>
 <td><a href="https://trueinterview.io/jobs/77fe4366-bd73-4832-b52a-28f75a576b31">Front End Engineer, Marketing</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, CA<br/>New York City, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5386971008">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>xAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/ebdcb208-66af-4eac-b48e-3a3a3a06c7e0">OSP Engineer</a></td>
-<td>Memphis, Tennessee<br/>Southaven, Mississippi<br/>Memphis, TN</td>
+<td>Memphis, Tennessee<br/>Southaven, Mississippi<br/>Memphis, TN<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5215570007">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
@@ -1420,21 +1420,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Ramp</strong></td>
 <td><a href="https://trueinterview.io/jobs/7b9c9369-38d9-40d5-ab89-f0628e4793ab">Product Operations | AI Revenue Systems</a></td>
-<td>New York, NY</td>
+<td>New York, NY (HQ)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/ramp/4e9886c1-134b-4cc7-9bcf-eb56bd0ca71f/application">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Figma</strong></td>
 <td><a href="https://trueinterview.io/jobs/9e0f3232-34ad-455b-8c5b-78292284ba7a">Brand Designer,  Product Launches</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, CA • New York, NY • United States<br/>Canada</td>
 <td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6131079004?gh_jid=6131079004">Apply</a></td>
 <td align="center">15 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/ce186936-fe26-43fb-b081-9d5908442428">Software Engineer, Compute Infrastructure</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>London</td>
+<td>San Francisco, CA<br/>Seattle, WA<br/>London, UK<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/ca300a6d-a2a7-4580-aad7-323fbdfee7b1/application">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
@@ -1511,14 +1511,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Palantir</strong></td>
 <td><a href="https://trueinterview.io/jobs/5e5a057f-7acd-4160-bed2-47d85229bac6">Offensive Security Engineer</a></td>
-<td>Washington, DC<br/>New York, NY</td>
+<td>Washington, DC<br/>New York, NY<br/>Washington, D.C.</td>
 <td align="center"><a href="https://jobs.lever.co/palantir/5614a901-ef96-4b9c-928d-4a9c338c8aad">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Snowflake</strong></td>
 <td><a href="https://trueinterview.io/jobs/fe2afb15-3e0a-4b2c-b00d-6439a482c8ec">Solution Engineer, Enterprise Acquisition</a></td>
-<td>US-NY-New York<br/>US-TN-Remote<br/>Nashville, TN</td>
+<td>US-NY-New York<br/>US-TN-Remote<br/>Nashville, TN<br/>+4 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/snowflake/b93dd7ef-bb2b-4cc5-aef6-19576a7157fb/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
@@ -1532,7 +1532,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Robinhood</strong></td>
 <td><a href="https://trueinterview.io/jobs/8d263187-81db-4239-8877-94a606ff5fcd">Software Engineer, Proactive Capabilities</a></td>
-<td>Bellevue, WA</td>
+<td>Bellevue, WA<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8067604?t=gh_src=&amp;gh_jid=8067604">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
@@ -1567,14 +1567,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Anthropic</strong></td>
 <td><a href="https://trueinterview.io/jobs/e3e9156c-8db1-4c6f-81d5-a03e3ac87c09">Software Engineer, Infrastructure, Interpretability</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, CA<br/>New York City, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5388612008">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Okx</strong></td>
 <td><a href="https://trueinterview.io/jobs/21d7d415-65f1-4a5c-8e0b-066ed9770921">Software Engineer, Mobile</a></td>
-<td>San Jose, CA</td>
+<td>San Jose, California, United States<br/>San Jose, United States (US)</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/okx/jobs/7786383003">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
@@ -1609,7 +1609,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>xAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/e5b9555c-6bc8-4d68-91c8-2eb84e75322a">Software Engineer - Data Center</a></td>
-<td>Memphis, Tennessee<br/>Southaven, Mississippi<br/>Memphis, TN</td>
+<td>Memphis, Tennessee<br/>Southaven, Mississippi<br/>Memphis, TN<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5209858007">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
@@ -1623,7 +1623,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Splunk</strong></td>
 <td><a href="https://trueinterview.io/jobs/2d60fd46-6a00-4ade-9c32-2ffe8c5640ff">Applied AI Scientist</a></td>
-<td>Seattle, WA<br/>Atlanta, GA<br/>Austin, TX</td>
+<td>Seattle, Washington, United States of America<br/>Atlanta, GA<br/>Austin, TX<br/>+31 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Seattle-Washington-US/Applied-AI-Scientist_2018334">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
@@ -1672,7 +1672,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/20888861-8a70-45c0-9411-90ce1c0b28d6">Software Engineer, Network Firewall</a></td>
-<td>Atlanta, GA<br/>Austin, TX<br/>Denver, CO (hybrid)</td>
+<td>Atlanta, GA<br/>Austin, TX<br/>Denver, Colorado, United States<br/>+3 more (hybrid)</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8106815?gh_jid=8106815">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
@@ -1714,7 +1714,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Chime</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3fba2e1-06fd-4cb1-94c4-8152172aef06">Product Designer</a></td>
-<td>New York, NY<br/>San Francisco, CA</td>
+<td>New York, NY<br/>San Francisco, CA<br/>San Francisco Office</td>
 <td align="center"><a href="https://boards.greenhouse.io/chime/jobs/8525323002?gh_jid=8525323002">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
@@ -1798,21 +1798,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/e741ac55-fafc-4c0a-90c8-667e9d2dd190">Software Engineer, Spectrum</a></td>
-<td>Austin, TX<br/>London (hybrid)</td>
+<td>Austin, TX<br/>London, United Kingdom<br/>Hybrid</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8094826?gh_jid=8094826">Apply</a></td>
 <td align="center">30 Jul 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/61d91880-cdbe-4d7e-a2a1-ed28fdf2ba08">Systems Engineer</a></td>
-<td>Austin, TX<br/>London (hybrid)</td>
+<td>Austin, TX<br/>London, United Kingdom<br/>Hybrid</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8071056?gh_jid=8071056">Apply</a></td>
 <td align="center">30 Jul 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/46068e53-2b51-4128-bd7e-22bf8d862c99">Software Engineer, Cloudflare Network Interconnect</a></td>
-<td>Austin, TX<br/>London (hybrid)</td>
+<td>Austin, TX<br/>London, United Kingdom<br/>Hybrid<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751">Apply</a></td>
 <td align="center">29 Jul 2026</td>
 </tr>
@@ -1894,14 +1894,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>C6 Bank</strong></td>
 <td><a href="https://trueinterview.io/jobs/e74f33be-0671-4339-8251-c46d545112c6">Pessoa Desenvolvedora IOS |  Core Business Products Engineering</a></td>
-<td>São Paulo</td>
+<td>São Paulo, Brazil<br/>C6 Bank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4734634005">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Arista Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/efd88f84-9504-44dd-9e58-f8d554d60d09">Software Engineer Graduate 2026/2027</a></td>
-<td>Dublin</td>
+<td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149958449-software-engineer-graduate-2026-2027?oga=true">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -1943,7 +1943,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/835f46fc-11e8-4219-bd6f-0901bce807ae">Applied AI Engineer, Government, International</a></td>
-<td>London</td>
+<td>London, UK</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/6c01266f-6ddb-42d1-a529-84736ae8587a/application">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -1964,14 +1964,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Personio</strong></td>
 <td><a href="https://trueinterview.io/jobs/b7526eed-50a6-4277-ad95-170f47db92cd">AI Engineer (d/f/m) - Internal AI</a></td>
-<td>Berlin</td>
+<td>Berlin, Germany</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/personio/jobs/ai-engineer-d-f-m_berlin">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Adyen</strong></td>
 <td><a href="https://trueinterview.io/jobs/9f1ba48e-2e55-4987-ba81-d0fd484c3477">Machine Learning Engineer</a></td>
-<td>Amsterdam</td>
+<td>Amsterdam, Netherlands</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/adyen-1/jobs/machine-learning-engineer_amsterdam_hm64hxaz">Apply</a></td>
 <td align="center">12 Sep 2026</td>
 </tr>
@@ -1992,7 +1992,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Adyen</strong></td>
 <td><a href="https://trueinterview.io/jobs/14b05a48-297c-4f51-b79f-138726ab6f6b">Data Engineer</a></td>
-<td>Amsterdam</td>
+<td>Amsterdam, Netherlands</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/adyen-1/jobs/data-engineer_amsterdam_u6p3yqzp">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -2013,7 +2013,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Mimecast</strong></td>
 <td><a href="https://trueinterview.io/jobs/3698a399-bead-4cc1-8095-f44d47cfe780">Software Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mimecast/jobs/software-engineer_london_otexmxjl">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -2041,14 +2041,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Checkout.com</strong></td>
 <td><a href="https://trueinterview.io/jobs/bd844206-0acd-47c5-bc3a-ece7dd3ed931">Software Engineer I</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/checkout-com-1/jobs/software-engineer-i_paris_usxj4fd2">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Darktrace</strong></td>
 <td><a href="https://trueinterview.io/jobs/1cf17e2b-3ab8-47c9-95ce-a6679628833a">Specialist Software Engineer</a></td>
-<td>Cambridge</td>
+<td>Cambridge, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/darktrace/jobs/specialist-software-engineer_cambridge_vfukulwm">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -2076,28 +2076,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Trainline</strong></td>
 <td><a href="https://trueinterview.io/jobs/3a719eeb-cadb-42c1-8a9f-c7ac7129827d">Embedded Data Engineer - ML</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/trainline-1/jobs/embedded-data-engineer-ml_london_vw47yogw">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Wise</strong></td>
 <td><a href="https://trueinterview.io/jobs/fabcf4d2-8b75-4ec5-a2ac-109ce47cd34f">Software Engineer - Recurring Payin</a></td>
-<td>London</td>
+<td>London, , United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000148615804-software-engineer-recurring-payin?oga=true">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Knowbe4</strong></td>
 <td><a href="https://trueinterview.io/jobs/d1d85bc6-04e5-4ea4-8c7f-b723429a4cc1">Product Security Engineer (Position located in Brazil)</a></td>
-<td>São Paulo</td>
+<td>São Paulo, Brazil</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8790880002">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>C6 Bank</strong></td>
 <td><a href="https://trueinterview.io/jobs/04fc076f-5a9a-41f1-9e12-37f1e3f83042">SRE | Site Reliability Engineering</a></td>
-<td>São Paulo</td>
+<td>São Paulo, Brazil<br/>C6 Bank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4732405005">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -2125,7 +2125,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>OVHcloud</strong></td>
 <td><a href="https://trueinterview.io/jobs/3873473e-9741-4b99-ae76-6b27a685de56">Software Engineer Frontend - F/H/N</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/ovh/jobs/software-engineer-frontend-f-h-n_paris">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -2139,21 +2139,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Wise</strong></td>
 <td><a href="https://trueinterview.io/jobs/0218a714-a506-46ee-965b-2ab512d718fb">Backend Engineer - Product Eligibility</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/wise-1/jobs/backend-engineer-product-eligibility_london">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>C6 Bank</strong></td>
 <td><a href="https://trueinterview.io/jobs/5a54c4cd-bf1c-40a6-a7ca-27639bd70784">Pessoa Auxiliar | Product Designer | Vaga Afirmativa para Pessoas com Deficiência</a></td>
-<td>São Paulo</td>
+<td>São Paulo, Brazil<br/>C6 Bank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4730451005">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>ZoomInfo</strong></td>
 <td><a href="https://trueinterview.io/jobs/a374b145-2db8-4f0f-a322-e8a36e9f2632">Software Engineer I - Salesforce Support</a></td>
-<td>Bengaluru</td>
+<td>Bengaluru, Karnataka, India<br/>Bangalore, India</td>
 <td align="center"><a href="https://www.zoominfo.com/careers?gh_jid=8759684002">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -2167,7 +2167,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Awin</strong></td>
 <td><a href="https://trueinterview.io/jobs/5c9d7c81-27a8-46d7-948a-ce91db8d2a59">Application Security Engineer</a></td>
-<td>Berlin</td>
+<td>Berlin, Germany</td>
 <td align="center"><a href="https://4dayweek.io/job/application-security-engineer-at-awin-7b5039da">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -2195,21 +2195,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>N26</strong></td>
 <td><a href="https://trueinterview.io/jobs/43f3d37e-250b-420a-8c18-908129df596b">Junior Android Engineer - Payments</a></td>
-<td>Berlin</td>
+<td>Berlin, Barcelona</td>
 <td align="center"><a href="https://n26.com/en-eu/careers/positions/8163941?gh_jid=8163941">Apply</a></td>
 <td align="center">7 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Clio</strong></td>
 <td><a href="https://trueinterview.io/jobs/ffe588b2-8781-4899-9d4c-e9a3602078e9">Software Developer</a></td>
-<td>Manchester</td>
+<td>Manchester, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/clio/jobs/software-developer_manchester_isi6sz4b">Apply</a></td>
 <td align="center">6 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Intapp</strong></td>
 <td><a href="https://trueinterview.io/jobs/b57ddb1b-e1e6-4f53-9d15-1d364602507d">Solution Engineer (Integration Engineer)</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/intapp/jobs/solution-engineer-integration-engineer_london_eoinnvv6">Apply</a></td>
 <td align="center">6 Sep 2026</td>
 </tr>
@@ -2223,7 +2223,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Starling</strong></td>
 <td><a href="https://trueinterview.io/jobs/71f3cbf4-0267-4016-8cbe-4110e53804a0">Software Engineer (ML Projects)</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/starling/jobs/software-engineer-ml-projects_london_sqlmmyls">Apply</a></td>
 <td align="center">5 Sep 2026</td>
 </tr>
@@ -2272,28 +2272,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Leboncoin</strong></td>
 <td><a href="https://trueinterview.io/jobs/165d843a-a041-45e6-bc86-eb9e0707994d">Backend engineer Squad Real Estate Maps (F/N/H)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/leboncoin/jobs/backend-engineer-squad-real-estate-maps-f-n-h_paris">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a554c849-3ba2-4d22-a3a2-ae844658c8c7">Data engineer (F/N/H)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/leboncoin/jobs/data-engineer-f-n-h_paris_LEBON_OAoq3xY">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Trustpilot</strong></td>
 <td><a href="https://trueinterview.io/jobs/eb7ab6d9-ab0b-4740-ae79-d0654487b911">Software Engineer (Trust Tech)</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/trustpilot/jobs/software-engineer-trust-tech_london_e54tsvti">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Wise</strong></td>
 <td><a href="https://trueinterview.io/jobs/414b3cd6-45b5-4ba7-81f3-b09843c1819f">Backend Engineer - Account Sharing</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/wise-1/jobs/senior-software-engineer-i-account-management_london">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -2342,14 +2342,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>OVHcloud</strong></td>
 <td><a href="https://trueinterview.io/jobs/2ebbc3f7-1a96-4200-8ba4-c335e00de3c4">AI Infrastructure Engineer - Inference, Serving, Training &amp; Data de production H/F/N</a></td>
-<td>Lyon</td>
+<td>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/ovh/jobs/ai-infrastructure-engineer-inference-serving-training-data-de-production-h-f-n_lyon">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/22869a4e-95df-474a-8ee1-98c381bfdb5c">Software Engineer - Network Observability F/H/N</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/ovh/jobs/software-engineer-network-observability-f-h-n_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -2377,7 +2377,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8f2d929d-e288-4313-aa09-3b6ad69b0148">Techlead Site Reliability Engineer - Data Platform H/F/N</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/ovh/jobs/techlead-site-reliability-engineer-data-platform_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -2391,7 +2391,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Thg</strong></td>
 <td><a href="https://trueinterview.io/jobs/57b326b8-e84c-47ff-ab08-bc8c249f9ec4">Assistant Garment Technologist - MP Activewear</a></td>
-<td>Manchester</td>
+<td>Manchester<br/>UK, Manchester</td>
 <td align="center"><a href="https://www.thg.com/talent/job-search?gh_jid=4963426101">Apply</a></td>
 <td align="center">29 Aug 2026</td>
 </tr>
@@ -2405,21 +2405,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ecde9ce-9246-4875-8778-4441127e0e4a">Technical Support Engineer</a></td>
-<td>Sydney</td>
+<td>Sydney, Australia<br/>Sydney Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5223282007">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Wise</strong></td>
 <td><a href="https://trueinterview.io/jobs/05a86aae-aeb6-4211-851a-5181f0157290">Backend Engineer - Contacts Team</a></td>
-<td>London</td>
+<td>London, , United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000145791020-backend-engineer-contacts-team?oga=true">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Box</strong></td>
 <td><a href="https://trueinterview.io/jobs/8f4e432e-9ffc-47e2-8e59-cac386d6bd9b">Solutions Engineer (Enterprise)</a></td>
-<td>Osaka</td>
+<td>Osaka, Japan<br/>Osaka Coworking Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/boxinc/jobs/8157979">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
@@ -2468,7 +2468,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Knowbe4</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac050882-21d0-4f4b-b577-9c7ae9e5fcce">Analytics Engineer(Position located in Bengaluru, India)</a></td>
-<td>Bengaluru</td>
+<td>Bengaluru, India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8721151002">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
@@ -2489,7 +2489,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Canva</strong></td>
 <td><a href="https://trueinterview.io/jobs/9b272123-9c3d-40cc-a64a-8d9454294e3b">Frontend Engineer - Product Features</a></td>
-<td>Sydney</td>
+<td>Sydney, NSW, Australia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Canva/6000000001313514-frontend-engineer-product-features-?oga=true">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
@@ -2510,21 +2510,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Anaplan</strong></td>
 <td><a href="https://trueinterview.io/jobs/2401fa71-8edd-4535-9f74-2bd097bbf0a6">Engineer I</a></td>
-<td>Gurugram</td>
+<td>Gurugram - Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/anaplan/jobs/8636271002">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/32e5a105-bb57-4762-83bb-46befff01bbe">Software Engineer, GPU Infrastructure- ChatGPT Engineering</a></td>
-<td>London</td>
+<td>London, UK</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/f8b84ae5-743b-41c9-8432-02dff9993d6b/application">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Extreme Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/cb22bcdb-3979-415f-ba63-de9393eefeaf">ASSOCIATE SW SYSTEMS ENGINEER -10320</a></td>
-<td>Chennai</td>
+<td>Chennai, India</td>
 <td align="center"><a href="https://jobs.lever.co/extremenetworks/8b82c64d-32db-42bc-9070-c80a491d7534/apply">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
@@ -2538,21 +2538,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Xsolla</strong></td>
 <td><a href="https://trueinterview.io/jobs/738bbab7-d3d9-4381-bb5f-6de13741eb7d">Developer Evangelist - Integrations</a></td>
-<td>Moscow<br/>Almaty<br/>Armenia</td>
+<td>Moscow<br/>Almaty<br/>Armenia<br/>+5 more</td>
 <td align="center"><a href="https://jobs.lever.co/xsolla/d00d0e70-7c03-4fe9-8ebe-884721476c10/apply">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/42f6a996-5571-4b7a-bda6-c3458480be7a">Developer Evangelist - Community</a></td>
-<td>Moscow<br/>Almaty<br/>Armenia</td>
+<td>Moscow<br/>Almaty<br/>Armenia<br/>+5 more</td>
 <td align="center"><a href="https://jobs.lever.co/xsolla/8c0f5e96-f19f-4d7b-a2a2-a2531e925f02/apply">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>N26</strong></td>
 <td><a href="https://trueinterview.io/jobs/2e6bfbb7-8346-4a91-b58e-89f3bcbb7c16">iOS Engineer</a></td>
-<td>Berlin<br/>Barcelona</td>
+<td>Berlin, Barcelona<br/>Barcelona</td>
 <td align="center"><a href="https://n26.com/en-eu/careers/positions/8108409?gh_jid=8108409">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
@@ -2587,14 +2587,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Awin</strong></td>
 <td><a href="https://trueinterview.io/jobs/03206fef-60e0-48b2-9487-853314818998">IT Support Technician (f/m/d)</a></td>
-<td>São Paulo</td>
+<td>São Paulo, São Paulo, Brazil<br/>Sao Paulo</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/awin/jobs/7826687003">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/f412b76d-10ac-4145-801a-6656f6aeb555">Field Security Specialist (Cyber Security Solutions Engineer)</a></td>
-<td>Dublin</td>
+<td>Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/8ee5d640-de2c-4004-8857-210ef8ec3177/application">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>

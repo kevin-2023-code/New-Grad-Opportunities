@@ -90,7 +90,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>CrowdStrike</strong></td>
 <td><a href="https://trueinterview.io/jobs/60c4adc9-0521-4f09-a117-357b18919c36">Engineer, Sensor - Mac, Linux, or Windows (Hybrid)</a></td>
-<td>USA - Sunnyvale, CA<br/>USA - New York, NY<br/>USA - Austin, TX</td>
+<td>USA - Sunnyvale, CA, United States of America<br/>USA - New York, NY<br/>USA - Austin, TX<br/>+2 more</td>
 <td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer--Sensor---Mac--Linux--or-Windows--Hybrid-_R30023">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -111,7 +111,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Palo Alto Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/f2abf24f-358c-4ca6-adbe-713385ebf8b4">Transformation Success Engineer</a></td>
-<td>Boston, MA<br/>Atlanta, GA<br/>Chicago, IL</td>
+<td>Boston, MA<br/>Atlanta, GA<br/>Chicago, IL<br/>+12 more</td>
 <td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/New-York-City-United-States-of-America/Transformation-Success-Engineer_JR-019947">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -230,7 +230,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>BlackBerry</strong></td>
 <td><a href="https://trueinterview.io/jobs/75c39006-c32a-413d-a370-766e850cd1f2">QNX Open Source Software Developer (New Graduate/Graduate)</a></td>
-<td>Ottawa, ON</td>
+<td>Ottawa, Ontario</td>
 <td align="center"><a href="https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -300,7 +300,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Palo Alto Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/60f51eeb-1a9f-492a-bdb1-b172e0afc0ba">Solutions Engineer, Endpoint - Central</a></td>
-<td>Chicago, IL<br/>Austin, TX</td>
+<td>Chicago, IL<br/>Austin, TX<br/>Chicago, United States of America<br/>+3 more</td>
 <td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Chicago-United-States-of-America/Solutions-Engineer--Endpoint---Central_JR-020640">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
@@ -314,7 +314,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Palo Alto Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/1b02abfb-eb5c-4ff0-9749-c48fe53bb44f">Solution Engineer IAM, IGA, SME,  - Central</a></td>
-<td>Chicago, IL</td>
+<td>Chicago, IL<br/>Chicago, United States of America<br/>Cleveland, United States of America<br/>+1 more</td>
 <td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Chicago-United-States-of-America/Solution-Engineer-IAM--IGA--SME-----Central_JR-021413">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
@@ -363,7 +363,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Palo Alto Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/1a7061b3-1990-4a93-86d7-4b4a9b3234e4">Solutions Engineer, DevOps - Central</a></td>
-<td>Austin, TX<br/>Chicago, IL</td>
+<td>Austin, TX<br/>Chicago, IL<br/>Austin, United States of America<br/>+3 more</td>
 <td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Austin-United-States-of-America/Solutions-Engineer--DevOps---Central_JR-020639">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
@@ -426,7 +426,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>CrowdStrike</strong></td>
 <td><a href="https://trueinterview.io/jobs/6a766ea9-4eb4-4dea-a7bf-5aa234ccb2c2">Software Engineer - Sensor, MacOS  (Hybrid)</a></td>
-<td>USA - Sunnyvale, CA<br/>USA - Austin, TX<br/>USA - Redmond, WA</td>
+<td>USA - Sunnyvale, CA, United States of America<br/>USA - Austin, TX<br/>USA - Redmond, WA</td>
 <td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Software-Engineer---Sensor--macOS---Hybrid-_R29279">Apply</a></td>
 <td align="center">7 Aug 2026</td>
 </tr>
@@ -475,7 +475,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Guidepoint Security</strong></td>
 <td><a href="https://trueinterview.io/jobs/d1991c83-ae95-4026-9c0f-42e8bd897c75">Security Engineer (Denver, CO) - Heartland (Remote)</a></td>
-<td>Denver, CO</td>
+<td>Denver, CO<br/>Heartland</td>
 <td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6123662004?gh_jid=6123662004">Apply</a></td>
 <td align="center">27 Jul 2026</td>
 </tr>
@@ -515,14 +515,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Mimecast</strong></td>
 <td><a href="https://trueinterview.io/jobs/3698a399-bead-4cc1-8095-f44d47cfe780">Software Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mimecast/jobs/software-engineer_london_otexmxjl">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Darktrace</strong></td>
 <td><a href="https://trueinterview.io/jobs/1cf17e2b-3ab8-47c9-95ce-a6679628833a">Specialist Software Engineer</a></td>
-<td>Cambridge</td>
+<td>Cambridge, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/darktrace/jobs/specialist-software-engineer_cambridge_vfukulwm">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -536,7 +536,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Knowbe4</strong></td>
 <td><a href="https://trueinterview.io/jobs/d1d85bc6-04e5-4ea4-8c7f-b723429a4cc1">Product Security Engineer (Position located in Brazil)</a></td>
-<td>São Paulo</td>
+<td>São Paulo, Brazil</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8790880002">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -557,35 +557,35 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Citalid</strong></td>
 <td><a href="https://trueinterview.io/jobs/c2d643bb-ec31-4e1e-acc9-0c01facbdc6f">Software Engineer – Risk Modelling &amp; Data (H/F)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/citalid-cybersecurite-1/jobs/software-engineer-risk-modelling-data-h-f_paris">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Avertium</strong></td>
 <td><a href="https://trueinterview.io/jobs/def3f5b8-3cae-4371-96bf-fef2c22377c6">CyberSecurity Analyst</a></td>
-<td>Guadalajara</td>
+<td>Guadalajara, Mexico</td>
 <td align="center"><a href="https://jobs.lever.co/avertium/4f16c74c-5168-46ea-abd1-abb9163999a0/apply">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>GitGuardian</strong></td>
 <td><a href="https://trueinterview.io/jobs/300e3fe4-fd97-44e8-b4c9-08f3c82312c8">AI Software Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/gitguardian/jobs/ai-software-engineer_paris">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/054fc70f-a809-46a5-8231-51c39408d8f6">Software Engineer in Test (QA automation)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/gitguardian/jobs/software-engineer-in-test-qa-automation_paris_GITGU_7Rr3wwl">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Yubico Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/bb5301db-5194-4a9a-876a-0c372122b935">Software Engineer (Cross-Platform Applications)</a></td>
-<td>Stockholm</td>
+<td>Stockholm, Sweden</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/yubico/jobs/4390628009">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -599,7 +599,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Dashlane</strong></td>
 <td><a href="https://trueinterview.io/jobs/f9bcbe17-241f-4cfd-a86c-53dc9293189e">Software Engineer - Security Features</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/dashlane/jobs/software-engineer-security-features_paris_6zhu3rby">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -620,35 +620,35 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Fortinet</strong></td>
 <td><a href="https://trueinterview.io/jobs/5daf3470-2ffb-4970-8168-2c79ee79042d">Inside Systems Engineer - Paris, France</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23956">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3b3bf525-5868-4792-9ebb-e975dee4068b">Consulting Systems Engineer</a></td>
-<td>São Paulo</td>
+<td>São Paulo, SP, Brazil<br/>Ecuador<br/>Peru</td>
 <td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23907">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ecde9ce-9246-4875-8778-4441127e0e4a">Technical Support Engineer</a></td>
-<td>Sydney</td>
+<td>Sydney, Australia<br/>Sydney Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5223282007">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Avertium</strong></td>
 <td><a href="https://trueinterview.io/jobs/a051ee63-5f58-442e-867b-a2d7bfc60cfc">CyberSecurity Engineer | LogRhythm</a></td>
-<td>Guadalajara</td>
+<td>Guadalajara, Mexico</td>
 <td align="center"><a href="https://jobs.lever.co/avertium/b8eed3c9-a43e-4683-9201-b8cfc78fd218/apply">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Knowbe4</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac050882-21d0-4f4b-b577-9c7ae9e5fcce">Analytics Engineer(Position located in Bengaluru, India)</a></td>
-<td>Bengaluru</td>
+<td>Bengaluru, India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8721151002">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>

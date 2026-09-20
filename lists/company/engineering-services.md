@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/66756f70-55d0-49f1-bbef-e36750d37166">Structural Technologist / Inspector, Bridges &amp; Civil Structures</a></td>
-<td>Ottawa, ON</td>
+<td>Ottawa, ON, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94553">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
@@ -62,7 +62,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Benesch</strong></td>
 <td><a href="https://trueinterview.io/jobs/b591b664-7024-4b35-8536-30551b9947d5">Railroad Civil/Track Designer I</a></td>
-<td>Milwaukee, WI<br/>Naperville, IL<br/>Omaha, NE</td>
+<td>Milwaukee, WI<br/>Naperville, IL<br/>Omaha, NE<br/>+6 more</td>
 <td align="center"><a href="https://www.benesch.com/job-openings/5240254007?gh_jid=5240254007">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -104,7 +104,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Morrison Maierle</strong></td>
 <td><a href="https://trueinterview.io/jobs/67930382-ee86-4735-b981-103c74983a0d">CAD Technician</a></td>
-<td>Washington, DC</td>
+<td>Washington, DC<br/>Spokane</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4402901009">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -286,7 +286,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Foth</strong></td>
 <td><a href="https://trueinterview.io/jobs/334efd44-b5ce-40eb-af0c-02f6f0554ac7">Process Engineer</a></td>
-<td>Atlanta, GA</td>
+<td>Atlanta, GA<br/>Green Bay, Wisconsin<br/>Cincinnati, Ohio<br/>+3 more</td>
 <td align="center"><a href="https://jobs.lever.co/foth/e19dfe89-19ee-440c-9e7d-fae89dc955b4/apply">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
@@ -342,7 +342,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Egis Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/11aa94fc-081c-4cef-ab3d-49e7a44653cb">Junior Engineer, Bridges - Engineer in Training</a></td>
-<td>Calgary, AB</td>
+<td>Calgary, AB, Canada</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000144388219-junior-engineer-bridges-engineer-in-training?oga=true">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
@@ -412,14 +412,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7f84677b-93d8-4c15-9551-f63930565aa6">Instructional Designer</a></td>
-<td>Montreal, QC</td>
+<td>Montreal, QC, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92485">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7e10e893-10b2-4298-9532-f3559a71a1b4">Mechanical Designer - Buildings systems</a></td>
-<td>Ottawa, ON</td>
+<td>Ottawa, ON, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92586">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
@@ -433,7 +433,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Dlr Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/326edc83-949e-48e8-9edf-4cdae1aec310">National Discipline Quality Control Leader (NQC) + Structural Engineer</a></td>
-<td>Austin, TX<br/>Chicago, IL<br/>Denver, CO</td>
+<td>Austin, TX<br/>Chicago, Illinois, United States<br/>Denver, Colorado, United States<br/>+19 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5380164008">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
@@ -452,7 +452,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Jensen Hughes</strong></td>
 <td><a href="https://trueinterview.io/jobs/12b32e3a-25c7-47d7-9a85-7f81f42ea8ee">Graduate - LAB Fire Testing Engineer</a></td>
-<td>Melbourne</td>
+<td>Melbourne, Victoria, Australia<br/>Warrington Fire - Melbourne Lab</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5417816008">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -466,7 +466,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Jensen Hughes</strong></td>
 <td><a href="https://trueinterview.io/jobs/9de7dcd0-330e-4bae-b2a0-9aa8dcb1c44d">Fire Protection Design Engineer</a></td>
-<td>Seoul</td>
+<td>Seoul, Seoul, South Korea</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5417465008">Apply</a></td>
 <td align="center">6 Sep 2026</td>
 </tr>
@@ -480,7 +480,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Woolpert</strong></td>
 <td><a href="https://trueinterview.io/jobs/11cfd80a-1eed-48ad-8691-8200b6e4568c">Interior Designer</a></td>
-<td>Sydney</td>
+<td>Sydney, Australia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/woolpert/jobs/4386323009">Apply</a></td>
 <td align="center">30 Aug 2026</td>
 </tr>
@@ -501,7 +501,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Egis Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/0cc2732a-1520-4dac-8ba8-e098c15dfcc2">Building Surveyor (Glasgow or Edinburgh)</a></td>
-<td>Edinburgh</td>
+<td>Edinburgh, Scotland, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000144151639-building-surveyor-glasgow-or-edinburgh-?oga=true">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
@@ -515,14 +515,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/459c2f43-3c63-42e6-8475-84586f77bbee">Associate Structural Engineer - Underground Structures &amp; Asset Rehabilitation</a></td>
-<td>Sydney</td>
+<td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92959">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Egis Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/6e112585-ab0c-493c-bf13-60ec2617d18a">Trainee / Apprentice Building Surveyor</a></td>
-<td>London<br/>Edinburgh</td>
+<td>London, England, United Kingdom<br/>Edinburgh, Scotland, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000141758409-trainee-apprentice-building-surveyor?oga=true">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>

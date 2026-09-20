@@ -6,15 +6,15 @@ Every cut of the New Grad Opportunities list that has a page of its own. Each on
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-09-20 19:42 UTC_
+_Last updated: 2026-09-20 20:09 UTC_
 
 > **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 1,012 of the 1,388 employers on this list (83% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
-🗂️ **[By field](#-by-field)** — The catalog's six technical fields — the same sections the main list is cut into, with every row rather than a sample. (6 filters)
+🗂️ **[By field](#️-by-field)** — The catalog's six technical fields — the same sections the main list is cut into, with every row rather than a sample. (6 filters)
 
-🏷️ **[By company type](#-by-company-type)** — Who the employer is: the size cut you were after, or the sector. (24 filters)
+🏷️ **[By company type](#️-by-company-type)** — Who the employer is: the size cut you were after, or the sector. (24 filters)
 
 🧑‍💻 **[By role](#-by-role)** — The catalog's own role classification, not a keyword search on the title. (21 filters)
 

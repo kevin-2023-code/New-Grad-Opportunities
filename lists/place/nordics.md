@@ -22,7 +22,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Tibber</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e1c7b5a-32dd-43bf-9b44-d2db45046ab1">Backend Engineer</a></td>
-<td>Stockholm</td>
+<td>Stockholm, Sweden</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/tibber/jobs/backend-engineer_berlin_kosnvakn">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -36,7 +36,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Yubico Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/bb5301db-5194-4a9a-876a-0c372122b935">Software Engineer (Cross-Platform Applications)</a></td>
-<td>Stockholm</td>
+<td>Stockholm, Sweden</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/yubico/jobs/4390628009">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -57,14 +57,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Hm</strong></td>
 <td><a href="https://trueinterview.io/jobs/b82be8fb-f024-4ad3-850c-ff2e66a770b5">Data Analyst</a></td>
-<td>Stockholm</td>
+<td>Stockholm, Stockholms län, Sweden</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/HMGroup/744000139873329-data-analyst?oga=true">Apply</a></td>
 <td align="center">26 Jul 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6a5d92c4-9a46-444f-8230-cd11300d78fc">Data Scientist</a></td>
-<td>Stockholm</td>
+<td>Stockholm, Stockholms län, Sweden</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/HMGroup/744000139873269-data-scientist?oga=true">Apply</a></td>
 <td align="center">26 Jul 2026</td>
 </tr>

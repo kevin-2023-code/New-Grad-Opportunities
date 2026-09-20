@@ -123,7 +123,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>C6 Bank</strong></td>
 <td><a href="https://trueinterview.io/jobs/e74f33be-0671-4339-8251-c46d545112c6">Pessoa Desenvolvedora IOS |  Core Business Products Engineering</a></td>
-<td>São Paulo</td>
+<td>São Paulo, Brazil<br/>C6 Bank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4734634005">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -144,14 +144,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Hedgehog Lab</strong></td>
 <td><a href="https://trueinterview.io/jobs/92ac75f5-8b4d-4fe5-9fd7-48bb31e0024a">Android Developer</a></td>
-<td>Leeds</td>
+<td>Leeds, United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/android-developer-at-hedgehog-lab-46f7ba53">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f070b06f-6341-4aae-8a8f-ada315811e3a">iOS Developer</a></td>
-<td>Manchester</td>
+<td>Manchester, United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/ios-developer-at-hedgehog-lab-ec35c6b5">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -200,14 +200,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>N26</strong></td>
 <td><a href="https://trueinterview.io/jobs/43f3d37e-250b-420a-8c18-908129df596b">Junior Android Engineer - Payments</a></td>
-<td>Berlin</td>
+<td>Berlin, Barcelona</td>
 <td align="center"><a href="https://n26.com/en-eu/careers/positions/8163941?gh_jid=8163941">Apply</a></td>
 <td align="center">7 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Booking.com</strong></td>
 <td><a href="https://trueinterview.io/jobs/443095fd-9b5d-47f0-b803-f4a8bca8d058">iOS Software Engineer (Tech Enablement, Accommodations)</a></td>
-<td>Amsterdam</td>
+<td>Amsterdam, Netherlands</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/booking-com/jobs/ios-software-engineer-tech-enablement-accommodations_amsterdam_624dtezi">Apply</a></td>
 <td align="center">6 Sep 2026</td>
 </tr>
@@ -235,7 +235,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Theodo France</strong></td>
 <td><a href="https://trueinterview.io/jobs/80f647d8-e0e3-4c1d-af2c-19472c06300d">Mobile Software Engineer - CDI Paris - Theodo Apps</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/mobile-software-engineer-cdi-paris-theodo-apps_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -256,7 +256,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>N26</strong></td>
 <td><a href="https://trueinterview.io/jobs/2e6bfbb7-8346-4a91-b58e-89f3bcbb7c16">iOS Engineer</a></td>
-<td>Berlin<br/>Barcelona</td>
+<td>Berlin, Barcelona<br/>Barcelona</td>
 <td align="center"><a href="https://n26.com/en-eu/careers/positions/8108409?gh_jid=8108409">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>

@@ -125,7 +125,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Anthropic</strong></td>
 <td><a href="https://trueinterview.io/jobs/77fe4366-bd73-4832-b52a-28f75a576b31">Front End Engineer, Marketing</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, CA<br/>New York City, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5386971008">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
@@ -179,7 +179,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Kolecto</strong></td>
 <td><a href="https://trueinterview.io/jobs/af51f66d-50e7-47c6-baf7-b8ed9809abee">Front-End Software Engineer (H/F/X)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/kolecto/jobs/front-end-software-engineer-h-f-x_paris">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -193,7 +193,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Vintage Cash Cow</strong></td>
 <td><a href="https://trueinterview.io/jobs/8b1c1621-16b3-4457-a502-a2f170ce1fe5">Frontend Software Engineer</a></td>
-<td>Leeds</td>
+<td>Leeds, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/vintage-cash-cow/jobs/frontend-software-engineer_leeds_nrteom7s">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -242,7 +242,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Canva</strong></td>
 <td><a href="https://trueinterview.io/jobs/9b272123-9c3d-40cc-a64a-8d9454294e3b">Frontend Engineer - Product Features</a></td>
-<td>Sydney</td>
+<td>Sydney, NSW, Australia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Canva/6000000001313514-frontend-engineer-product-features-?oga=true">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>

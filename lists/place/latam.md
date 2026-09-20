@@ -22,7 +22,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Sezzle</strong></td>
 <td><a href="https://trueinterview.io/jobs/1296de0d-4d36-4597-b0ad-1cfc929cf85c">Practicante en Product Management</a> 🌐</td>
-<td>Remote</td>
+<td>Remote<br/>Bogota, Colombia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/7998737003">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
@@ -36,14 +36,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Monks</strong></td>
 <td><a href="https://trueinterview.io/jobs/4b00652a-9a96-4d96-b2ef-990f0b953ff7">AI Artist / Multimedia Designer</a></td>
-<td>Mexico City</td>
+<td>Mexico City<br/>Argentina</td>
 <td align="center"><a href="https://www.monks.com/careers/6180167004/job?gh_jid=6180167004">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>C6 Bank</strong></td>
 <td><a href="https://trueinterview.io/jobs/e74f33be-0671-4339-8251-c46d545112c6">Pessoa Desenvolvedora IOS |  Core Business Products Engineering</a></td>
-<td>São Paulo</td>
+<td>São Paulo, Brazil<br/>C6 Bank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4734634005">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -71,7 +71,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Btg Pactual</strong></td>
 <td><a href="https://trueinterview.io/jobs/d9bca1fa-453e-4f2f-b804-9b66de54acfd">Software Engineer Backend |  IT Offshore Platform US</a></td>
-<td>São Paulo</td>
+<td>São Paulo, Brazil<br/>BR - SAO PAULO</td>
 <td align="center"><a href="https://carreiras.btgpactual.com/vagas?gh_jid=6192350004">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -85,14 +85,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Orion Innovation</strong></td>
 <td><a href="https://trueinterview.io/jobs/4a670045-ca54-457a-93b1-5e8abeee3171">Cloud Deployment Engineer - HÍBRIDO CDMX</a></td>
-<td>Mexico City</td>
+<td>Mexico City, Mexico City, Mexico</td>
 <td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4712591006">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Mastercard</strong></td>
 <td><a href="https://trueinterview.io/jobs/a5616901-e13b-4144-8923-765c7b4c340d">Java Software Engineer</a></td>
-<td>Mexico City</td>
+<td>Mexico City, Mexico</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Java-Software-Engineer_R-289283">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -120,21 +120,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Knowbe4</strong></td>
 <td><a href="https://trueinterview.io/jobs/d1d85bc6-04e5-4ea4-8c7f-b723429a4cc1">Product Security Engineer (Position located in Brazil)</a></td>
-<td>São Paulo</td>
+<td>São Paulo, Brazil</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8790880002">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>C6 Bank</strong></td>
 <td><a href="https://trueinterview.io/jobs/04fc076f-5a9a-41f1-9e12-37f1e3f83042">SRE | Site Reliability Engineering</a></td>
-<td>São Paulo</td>
+<td>São Paulo, Brazil<br/>C6 Bank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4732405005">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5a54c4cd-bf1c-40a6-a7ca-27639bd70784">Pessoa Auxiliar | Product Designer | Vaga Afirmativa para Pessoas com Deficiência</a></td>
-<td>São Paulo</td>
+<td>São Paulo, Brazil<br/>C6 Bank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4730451005">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -162,7 +162,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Avertium</strong></td>
 <td><a href="https://trueinterview.io/jobs/def3f5b8-3cae-4371-96bf-fef2c22377c6">CyberSecurity Analyst</a></td>
-<td>Guadalajara</td>
+<td>Guadalajara, Mexico</td>
 <td align="center"><a href="https://jobs.lever.co/avertium/4f16c74c-5168-46ea-abd1-abb9163999a0/apply">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -232,21 +232,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Assetwatch, Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e3f10e3-cb32-4cad-aad0-8e2ccba69848">Condition Monitoring Engineer</a></td>
-<td>Monterrey<br/>Mexico City</td>
+<td>Monterrey, Mexico<br/>Mexico City, Mexico</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/assetwatch/jobs/4728615005">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Peek</strong></td>
 <td><a href="https://trueinterview.io/jobs/2005a285-e58f-4f9b-8b22-2c6840940c08">Data Analyst – Analytics and AI</a></td>
-<td>Mexico City<br/>Monterrey<br/>Guadalajara</td>
+<td>Mexico City<br/>Monterrey<br/>Guadalajara<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/peek/cc80104d-5aef-45cc-829e-e619f9a5704e/application">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Fortinet</strong></td>
 <td><a href="https://trueinterview.io/jobs/3b3bf525-5868-4792-9ebb-e975dee4068b">Consulting Systems Engineer</a></td>
-<td>São Paulo</td>
+<td>São Paulo, SP, Brazil<br/>Ecuador<br/>Peru</td>
 <td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23907">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
@@ -260,14 +260,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Percona</strong></td>
 <td><a href="https://trueinterview.io/jobs/d48b5725-2d24-4a7b-96a7-dbd3f476d820">Jr. Service Desk Agent</a></td>
-<td>Mexico City</td>
+<td>Mexico City<br/>Sao Paulo<br/>Buenos Aires<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/percona/87c0e390-193c-4808-94e0-8f0f7d3720ba/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Monks</strong></td>
 <td><a href="https://trueinterview.io/jobs/d3d3cdfb-d15a-4b7e-9d7b-6df581194e9f">Multimedia Designer</a></td>
-<td>São Paulo</td>
+<td>São Paulo<br/>Brazil</td>
 <td align="center"><a href="https://www.monks.com/careers/6119141004/job?gh_jid=6119141004">Apply</a></td>
 <td align="center">23 Aug 2026</td>
 </tr>
@@ -288,14 +288,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Wpp</strong></td>
 <td><a href="https://trueinterview.io/jobs/71da6ab1-017b-46e2-ad6c-05670c970b1f">Power Platform Support Engineer</a></td>
-<td>Mexico City</td>
+<td>Mexico City, Mexico City, Mexico</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/wpp/jobs/8487083002">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Avertium</strong></td>
 <td><a href="https://trueinterview.io/jobs/a051ee63-5f58-442e-867b-a2d7bfc60cfc">CyberSecurity Engineer | LogRhythm</a></td>
-<td>Guadalajara</td>
+<td>Guadalajara, Mexico</td>
 <td align="center"><a href="https://jobs.lever.co/avertium/b8eed3c9-a43e-4683-9201-b8cfc78fd218/apply">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
@@ -330,7 +330,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>1global</strong></td>
 <td><a href="https://trueinterview.io/jobs/0177ef57-fdbd-4640-8e69-3782a6993806">.NET Software Engineer</a></td>
-<td>São Paulo</td>
+<td>São Paulo, State of São Paulo, Brazil</td>
 <td align="center"><a href="https://jobs.workable.com/view/989shBwiBkKHWuyDAZir9E/hybrid-.net-software-engineer-in-s%C3%A3o-paulo-at-1global">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
@@ -344,7 +344,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Welo Global</strong></td>
 <td><a href="https://trueinterview.io/jobs/9d31d7a3-f783-4bc0-894b-6b2645052334">Hydrus Audio Engineer</a></td>
-<td>Mexico<br/>Argentina<br/>Colombia</td>
+<td>Santiago, Chile<br/>Montevideo, Uruguay<br/>Mexico<br/>+4 more</td>
 <td align="center"><a href="https://jobs.lever.co/weloglobal/16ed5d35-efd9-49da-8eb5-fc17f454cc28/apply">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
@@ -379,7 +379,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Awin</strong></td>
 <td><a href="https://trueinterview.io/jobs/03206fef-60e0-48b2-9487-853314818998">IT Support Technician (f/m/d)</a></td>
-<td>São Paulo</td>
+<td>São Paulo, São Paulo, Brazil<br/>Sao Paulo</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/awin/jobs/7826687003">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>

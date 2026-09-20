@@ -125,14 +125,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cambio</strong></td>
 <td><a href="https://trueinterview.io/jobs/1fb7fd5c-da31-4968-bc0a-e352e4d5b9f6">Backend Engineer</a></td>
-<td>Waterloo, ON<br/>San Francisco, CA</td>
+<td>Waterloo, ON<br/>San Francisco, CA<br/>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cambio/34400221-9b07-4db9-929b-3441bdf00dd4/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Appnovation</strong></td>
 <td><a href="https://trueinterview.io/jobs/5381862f-e089-4ff5-9ee1-4d604f725d0c">Backend Developer (.NET)</a></td>
-<td>Vancouver, BC</td>
+<td>Vancouver, BC<br/>Vancouver, Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/appnovation/jobs/backend-developer-net_vancouver_hkamxcye">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -221,7 +221,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Nabla</strong></td>
 <td><a href="https://trueinterview.io/jobs/32ef1606-0186-47c7-a1a7-a7a8a698e23c">Backend engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/nabla/jobs/backend-engineer_paris">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -249,7 +249,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Vizzia</strong></td>
 <td><a href="https://trueinterview.io/jobs/11daae9a-9e41-4b2c-942a-1a1329dfd0fe">Backend Software Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/vizzia/jobs/backend-software-engineer_paris">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -263,7 +263,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Tibber</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e1c7b5a-32dd-43bf-9b44-d2db45046ab1">Backend Engineer</a></td>
-<td>Stockholm</td>
+<td>Stockholm, Sweden</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/tibber/jobs/backend-engineer_berlin_kosnvakn">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -312,14 +312,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Valtech</strong></td>
 <td><a href="https://trueinterview.io/jobs/20b46222-07b1-492b-9c52-86daacba767e">Backend Elixir Developer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/valtech/jobs/backend-elixir-developer_paris">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Wise</strong></td>
 <td><a href="https://trueinterview.io/jobs/0218a714-a506-46ee-965b-2ab512d718fb">Backend Engineer - Product Eligibility</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/wise-1/jobs/backend-engineer-product-eligibility_london">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -333,7 +333,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>WeWard</strong></td>
 <td><a href="https://trueinterview.io/jobs/46d1d203-e18f-4fd1-ad26-09538c6cd10a">Backend Engineer — Monetization Squad (Apprenticeship)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/weward/jobs/backend-engineer-monetization-squad-apprenticeship_paris">Apply</a></td>
 <td align="center">5 Sep 2026</td>
 </tr>
@@ -347,14 +347,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Leboncoin</strong></td>
 <td><a href="https://trueinterview.io/jobs/165d843a-a041-45e6-bc86-eb9e0707994d">Backend engineer Squad Real Estate Maps (F/N/H)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/leboncoin/jobs/backend-engineer-squad-real-estate-maps-f-n-h_paris">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Wise</strong></td>
 <td><a href="https://trueinterview.io/jobs/414b3cd6-45b5-4ba7-81f3-b09843c1819f">Backend Engineer - Account Sharing</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/wise-1/jobs/senior-software-engineer-i-account-management_london">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -403,7 +403,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Wise</strong></td>
 <td><a href="https://trueinterview.io/jobs/05a86aae-aeb6-4211-851a-5181f0157290">Backend Engineer - Contacts Team</a></td>
-<td>London</td>
+<td>London, , United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000145791020-backend-engineer-contacts-team?oga=true">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>

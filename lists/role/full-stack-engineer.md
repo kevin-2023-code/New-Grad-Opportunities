@@ -76,7 +76,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>MLSE</strong></td>
 <td><a href="https://trueinterview.io/jobs/1206a528-13e1-44c5-affe-860de472bfe2">[C] Full Stack Developer</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, Ontario</td>
 <td align="center"><a href="https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/XMLNAME--C--Full-Stack-Developer_JR0000784-1">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -139,7 +139,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Citylitics</strong></td>
 <td><a href="https://trueinterview.io/jobs/2d4af128-af58-40ba-8aa7-20147191c2bc">Full Stack Software Engineer (6 Month Contract)</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/citylitics/jobs/full-stack-software-engineer-6-month-contract_toronto_udr2mxtz">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -174,7 +174,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/297b45ff-7d7d-461f-9c81-abbb9ee0a4c0">Full Stack Software Engineer</a></td>
-<td>Bastrop, TX<br/>Palo Alto, CA<br/>Hawthorne, CA</td>
+<td>Bastrop, TX<br/>Palo Alto, CA<br/>Hawthorne, CA<br/>+3 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8785505002?gh_jid=8785505002">Apply</a></td>
 <td align="center">7 Sep 2026</td>
 </tr>
@@ -244,7 +244,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/25020078-624c-480c-899d-cd3955fa9e27">Full Stack Engineer, Employee Experience</a></td>
-<td>Palo Alto, CA</td>
+<td>Palo Alto, CA<br/>Palo Alto - 1530</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8763492002?gh_jid=8763492002">Apply</a></td>
 <td align="center">30 Aug 2026</td>
 </tr>
@@ -342,7 +342,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Samba TV</strong></td>
 <td><a href="https://trueinterview.io/jobs/1adb28ce-1ac8-47f0-81c8-1b5123e0cc48">Fullstack Software Engineer</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, California</td>
 <td align="center"><a href="https://jobs.lever.co/sambatv/8607b6ab-5488-41f4-a82b-58636df788f6/apply">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
@@ -389,7 +389,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Scaleway</strong></td>
 <td><a href="https://trueinterview.io/jobs/287bc29e-292f-4564-82a0-7093f788384e">Full Stack Software Engineer (Python / React)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/scaleway/jobs/software-engineer-hardware-development_paris_SCALE_QlqA6yk">Apply</a></td>
 <td align="center">19 Sep 2026</td>
 </tr>
@@ -459,21 +459,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Mistral AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/e85e7db0-0924-4082-a52a-23c8805a310e">Applied AI, Fullstack Software Engineer, South Korea</a></td>
-<td>Seoul</td>
+<td>Seoul, South Korea</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-engineer-fullstack_seoul_MA_LxR9QLy">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Kolecto</strong></td>
 <td><a href="https://trueinterview.io/jobs/69413399-bfc0-4a60-ab9f-90ed4b19b13a">Fullstack Software Engineer (H/F/X)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/kolecto/jobs/fullstack-software-engineer-h-f-x_paris_KOLEC_Z1qwbdL">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Kraaft</strong></td>
 <td><a href="https://trueinterview.io/jobs/10792bf9-76c5-4fff-b5d8-145c06e7904c">Fullstack Software Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/kraaft/jobs/fullstack-developer_paris">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -501,7 +501,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Jimini AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/0be0050d-3f7a-4934-ba94-16905006d98a">Full Stack Software Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/jimini-ai/jobs/full-stack-software-engineer_paris">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -522,14 +522,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Capital on Tap</strong></td>
 <td><a href="https://trueinterview.io/jobs/83570c3d-dafa-4adb-aa13-53e1368cf02c">Full Stack Software Engineer</a></td>
-<td>Porto</td>
+<td>Porto, Portugal</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/capital-on-tap/jobs/full-stack-software-engineer_porto_ovszr5g7">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>GlassFlow</strong></td>
 <td><a href="https://trueinterview.io/jobs/f730ee6d-efc3-4af0-9899-8822186ee922">Full Stack Engineer</a></td>
-<td>Berlin</td>
+<td>Berlin, Germany</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/glassflow/jobs/full-stack-engineer_berlin_wgqb43ym">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -550,7 +550,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Code Busters</strong></td>
 <td><a href="https://trueinterview.io/jobs/d335cc99-c33a-4f8f-b771-962a6339a53c">Code Busters - Full Stack Engineer (dominante Front End) - Practice Web (H/F)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/code-busters/jobs/full-stack-engineer-dominante-front-end-practice-web-h-f-cb_paris">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -599,28 +599,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>DiliTrust</strong></td>
 <td><a href="https://trueinterview.io/jobs/0cf53dd7-b254-4c7f-9deb-6d6681372c63">FullStack Software Engineer (Node.js / Vue.js)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/dilitrust/jobs/fullstack-software-engineer-node-js-vue-js_paris_DILIT_0MraDbQ">Apply</a></td>
 <td align="center">5 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Faculty</strong></td>
 <td><a href="https://trueinterview.io/jobs/523b69e7-9bd9-4952-a8df-2e5ee06eddb1">Full Stack Software Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/faculty/jobs/full-stack-software-engineer_london_uhtfyuuy">Apply</a></td>
 <td align="center">5 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Hook</strong></td>
 <td><a href="https://trueinterview.io/jobs/c76026a0-99cc-4cbf-8b3c-c3df04eabbb4">Backend / Fullstack Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/hook-2/jobs/backend-fullstack-engineer_london_zcxwkc2c">Apply</a></td>
 <td align="center">5 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Thought Machine</strong></td>
 <td><a href="https://trueinterview.io/jobs/a880b3eb-7af6-422f-9cb4-8fb9c863b6f5">Full Stack Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/thought-machine/jobs/full-stack-engineer_london_42uryd7k">Apply</a></td>
 <td align="center">5 Sep 2026</td>
 </tr>
@@ -690,14 +690,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Arundo Re</strong></td>
 <td><a href="https://trueinterview.io/jobs/8d53f4a3-8669-4c4f-b538-2b0733cae258">Full Stack Software Engineer (H/F)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/arundo-re/jobs/full-stack-software-engineer-h-f_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Enthuse</strong></td>
 <td><a href="https://trueinterview.io/jobs/9f520e7c-f3b2-4705-a54b-cacf510d78ba">Mid Fullstack Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/enthuse/jobs/mid-fullstack-engineer_london_cxhpapuf">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>

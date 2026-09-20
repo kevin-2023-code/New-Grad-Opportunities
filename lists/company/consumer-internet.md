@@ -34,7 +34,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Match Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/23ff743f-8fe9-4787-b458-7b8ed8c10c5e">AI Product Engineer</a></td>
-<td>Vancouver, BC</td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia</td>
 <td align="center"><a href="https://jobs.lever.co/matchgroup/69396299-e587-4063-aef6-0ce2fd66e9ee/apply">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -83,7 +83,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Snap</strong></td>
 <td><a href="https://trueinterview.io/jobs/cb93252d-9f74-4ecb-a12f-378a2ed8b227">Electrical Engineer</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, California</td>
 <td align="center"><a href="https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Electrical-Engineer_H226EE1">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -195,7 +195,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/406ba9ca-09ad-47ab-9408-a9d51152be94">Software Engineer, Early Career, Campus</a></td>
-<td>Mountain View, CA<br/>Cambridge</td>
+<td>Mountain View, CA<br/>Cambridge, MA, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -216,7 +216,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Snap Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/7b484075-f27d-4dc5-adc7-3b59e0e2b901">Software Engineer (ML Infrastructure, Content Retrieval Platform, Level 4)</a></td>
-<td>Palo Alto, CA</td>
+<td>Palo Alto, CA<br/>Santa Monica, United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/snap-inc/jobs/software-engineer-ml-infrastructure-content-retrieval-platform-level-4_palo-alto_qsabhmzy">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -244,7 +244,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Roku</strong></td>
 <td><a href="https://trueinterview.io/jobs/42981395-2bb6-4bb3-a5a5-0285ff3228a4">Design Engineer, UX Product</a></td>
-<td>San Jose, CA</td>
+<td>San Jose, California</td>
 <td align="center"><a href="https://www.weareroku.com/jobs/8189529?gh_jid=8189529">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -258,7 +258,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Match Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/006e4d57-4d83-4e77-9839-c76d6cfd6a4b">Data Scientist, Marketing Analytics</a></td>
-<td>New York, NY<br/>Los Angeles, CA</td>
+<td>New York, NY<br/>Los Angeles, California<br/>New York, New York</td>
 <td align="center"><a href="https://jobs.lever.co/matchgroup/d28a3de6-cd04-483a-9aed-5ba1d2f8c57c/apply">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -300,7 +300,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b8d6120-b59e-4844-a2d1-b2410b405abc">Software Engineer, GenAI Frameworks</a></td>
-<td>Bellevue, WA<br/>New York, NY</td>
+<td>Bellevue, WA<br/>New York, NY<br/>Menlo Park, CA, US</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1521526709883215/">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -370,7 +370,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Twitch</strong></td>
 <td><a href="https://trueinterview.io/jobs/231f3e53-f6e5-4b9e-9871-a6e7d2d82431">Software Development Engineer, Security Platform</a></td>
-<td>Seattle, WA<br/>San Francisco, CA</td>
+<td>Seattle, WA<br/>San Francisco, CA<br/>Irvine, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8739185002">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
@@ -405,7 +405,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/44f3e8b5-620f-43aa-bece-c0645d07a9f6">Compiler Engineer, MTIA Software (Technical Leadership)</a></td>
-<td>Bellevue, WA<br/>New York, NY</td>
+<td>Bellevue, WA<br/>New York, NY<br/>Menlo Park, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1618611489618646/">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
@@ -433,14 +433,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/952f14f1-1a80-4c62-b7a2-1d29cd61674d">Data Center Production Operations Engineer</a></td>
-<td>Henrico, VA, US<br/>Mesa, AZ, US<br/>Temple, TX, US</td>
+<td>Henrico, VA, US<br/>Mesa, AZ, US<br/>Temple, TX, US<br/>+12 more</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1626919348826835/">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Zello</strong></td>
 <td><a href="https://trueinterview.io/jobs/3ce3d8b6-64e1-47ac-9218-96fbbb5a4c73">Escalation Engineer</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/zello/b22b4682-38ff-4ef5-85e4-414ec288619a/application">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
@@ -550,7 +550,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>WeWard</strong></td>
 <td><a href="https://trueinterview.io/jobs/46d1d203-e18f-4fd1-ad26-09538c6cd10a">Backend Engineer — Monetization Squad (Apprenticeship)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/weward/jobs/backend-engineer-monetization-squad-apprenticeship_paris">Apply</a></td>
 <td align="center">5 Sep 2026</td>
 </tr>
@@ -564,14 +564,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Trustpilot</strong></td>
 <td><a href="https://trueinterview.io/jobs/eb7ab6d9-ab0b-4740-ae79-d0654487b911">Software Engineer (Trust Tech)</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/trustpilot/jobs/software-engineer-trust-tech_london_e54tsvti">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Brave</strong></td>
 <td><a href="https://trueinterview.io/jobs/64e0b0f7-034e-4894-9257-d2aa57e9e3c2">AI Security Researcher/Research Engineer</a></td>
-<td>London</td>
+<td>London, England<br/>Brave London</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/brave/jobs/8165845">Apply</a></td>
 <td align="center">29 Aug 2026</td>
 </tr>

@@ -10,6 +10,8 @@
 // first checking the scheme. A `javascript:` "apply" URL in a README is a
 // supply-chain bug with a hyperlink on it.
 
+import { placesOn } from './places.mjs';
+
 /** HTML-escapes text bound for a table cell. */
 export function escapeHtml(value) {
   return String(value ?? '')
@@ -162,27 +164,88 @@ function namedCountries(job) {
 const MAX_LOCATIONS = 3;
 
 /**
+ * Does this DISPLAY string place the row on this metro's page?
+ *
+ * Only ever used to ORDER the cell, never to decide membership — which is why
+ * it may be looser than `placesOn` without changing which page anything lands
+ * on. The looseness it needs is one shape: a posting that writes its office as
+ * `Bellevue, WA (Hybrid)` parses as the parts `Bellevue` and `WA (Hybrid)`, so
+ * the state never matches and the string that earned the row its page reads as
+ * placing nowhere. It was first in the cell by luck; a fourth-listed one would
+ * not have been.
+ */
+function onThisPage(job, metroId, value) {
+  if (placesOn(job, metroId, value)) return true;
+  const bare = value.replace(/\s*\([^()]*\)\s*$/, '').trim();
+  return bare !== value && bare.length > 0 && placesOn(job, metroId, bare);
+}
+
+
+/**
  * The Location cell.
  *
  * Canonical cities first (the pipeline's own, already deduped), then the
  * posting's raw strings, then the country. A remote role says so first,
  * because "Remote" is the fact a reader scanning the column is looking for and
  * the city underneath it is usually just where the team sits.
+ *
+ * ── `metroId`, and why the cell has to know which page it is on ─────────────
+ *
+ * `metrosOf` reads EVERY location a row carries; this cell printed at most
+ * three, chosen without reference to the page. So a row could be placed on the
+ * Denver page by its Boulder office and print "Austin, TX" — and 126 of 625
+ * rows on the internship metro pages did exactly that (218 of 2,496 on the
+ * new-grad list), 21 of the 30 rows on `place/denver-boulder.md` among them. A
+ * filter page whose rows name no city of that page reads as broken, and there
+ * was nothing on the page to say otherwise.
+ *
+ * Two separate causes, which is why fixing the cap alone would not have done
+ * it. The obvious one is the three-place cap. The bigger one was that
+ * `job.cities` SHADOWED `job.locations` whenever it was non-empty, so a row
+ * whose canonical city list held only "New York, NY" printed that on the Bay
+ * Area page while "Menlo Park, CA" — the string that placed it there — sat in
+ * `locations`, unconsulted, in a two-element list nothing had truncated.
+ *
+ * So the candidates are the UNION of both, and when the caller says which
+ * metro's page this is, the places that earned the row its spot are sorted to
+ * the front. The sort is STABLE, so a row already naming the right city prints
+ * exactly the bytes it printed before. Passing no `metroId` — the README, the
+ * field, role and company pages, where there is no metro to sort by — keeps
+ * the posting's own order.
  */
-export function locationLabel(job) {
+export function locationLabel(job, metroId) {
   // Every piece is escaped BEFORE it is joined, never after: the `<br/>` this
   // cell puts between two offices is the one tag it means, and escaping the
   // finished string would print it. This was the one cell in the table that
   // interpolated a scraped string into HTML untouched — a posting whose
   // location closed the table and opened an `<h1>` rendered exactly that.
   const countries = namedCountries(job).map(escapeHtml);
+  // The canonical cities first, then the posting's own strings — the union,
+  // never one OR the other. `distinctLocations` already folds a looser
+  // spelling into a more specific one, so "Austin, TX" in `cities` and
+  // "Austin, TX, US" in `locations` still cost one slot.
+  const candidates = distinctLocations([...(job.cities ?? []), ...(job.locations ?? [])], Infinity);
+  const here = metroId ? candidates.filter((value) => onThisPage(job, metroId, value)) : [];
+
   if (job.remote === 'remote') {
-    return countries.length ? `Remote — ${countries.slice(0, MAX_LOCATIONS).join(', ')}` : 'Remote';
+    const scope = countries.length ? `Remote — ${countries.slice(0, MAX_LOCATIONS).join(', ')}` : 'Remote';
+    // On a metro page, "Remote — United States" is true and answers the wrong
+    // question: the row is on THIS page because the posting names an office
+    // here, and without saying which, the filter looks like it fired at
+    // random. Five rows read exactly that way. The country scope stays first —
+    // "Remote" is still the fact a reader scanning the column wants — and the
+    // office follows it.
+    return here.length ? `${scope}<br/>${escapeHtml(here[0])}` : scope;
   }
-  const cities = distinctLocations(job.cities, MAX_LOCATIONS).map(escapeHtml);
-  const places = cities.length ? cities : distinctLocations(job.locations, MAX_LOCATIONS).map(escapeHtml);
+
+  const ordered = here.length
+    ? [...here, ...candidates.filter((value) => !here.includes(value))]
+    : candidates;
+  const places = ordered.slice(0, MAX_LOCATIONS).map(escapeHtml);
   if (!places.length) return countries.length ? countries.slice(0, MAX_LOCATIONS).join(', ') : '—';
-  const label = places.join('<br/>');
+  // A cap nobody can see is a cell that quietly claims to be the whole answer.
+  const hidden = ordered.length - places.length;
+  const label = places.join('<br/>') + (hidden > 0 ? `<br/>+${hidden} more` : '');
   // Only say "hybrid" if the posting has not already said it. A real row reads
   // `Hybrid (UK)`, and appending the classifier's own verdict to it produced
   // "Hybrid (UK) (hybrid)" — the kind of thing that makes a generated list look

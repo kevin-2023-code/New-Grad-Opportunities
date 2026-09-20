@@ -22,7 +22,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Coder</strong></td>
 <td><a href="https://trueinterview.io/jobs/0008784c-510e-40e3-948f-013d41a51057">Software Engineer (Enterprise Experience, Backend)</a> 🌐</td>
-<td>Remote — Poland</td>
+<td>Remote — Poland<br/>Warsaw, Poland, Remote</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/coder/jobs/software-engineer-enterprise-experience-backend_warsaw_3hmhf2ol">Apply</a></td>
 <td align="center">19 Sep 2026</td>
 </tr>
@@ -43,21 +43,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Skelar</strong></td>
 <td><a href="https://trueinterview.io/jobs/2f43340e-6f01-451e-91cf-e095465b8205">Software Engineer (Golang) - RiseGuide</a></td>
-<td>Warsaw</td>
+<td>Warsaw<br/>Kyiv</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skelar/7775b2b7-2d8e-4df0-bcb9-ee54fa43226e/application">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Corsearch</strong></td>
 <td><a href="https://trueinterview.io/jobs/dd9e5466-cc78-4c9e-bcfc-88a532b8dfa6">Machine Learning Engineer</a> 🌐</td>
-<td>Remote</td>
+<td>Remote<br/>Bucharest, Romania, Remote</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/corsearch/jobs/machine-learning-engineer_amsterdam_4msjmjpz">Apply</a></td>
 <td align="center">12 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Unity</strong></td>
 <td><a href="https://trueinterview.io/jobs/e2343bc9-cefe-490e-bdf8-f05628664c01">Software Engineer (Web Platform)</a> 🌐</td>
-<td>Remote</td>
+<td>Remote<br/>Vilnius, Lithuania, Remote</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/unity/jobs/software-engineer-web-platform_vilnius_44gnqwx6">Apply</a></td>
 <td align="center">12 Sep 2026</td>
 </tr>
@@ -113,7 +113,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Graphcore</strong></td>
 <td><a href="https://trueinterview.io/jobs/f30580a7-881c-454f-b384-8b7abca2a272">Software Engineer - Triton</a></td>
-<td>Bristol</td>
+<td>Gdańsk, Pomeranian Voivodeship, Poland<br/>Bristol, UK<br/>Poland</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8543115002">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>

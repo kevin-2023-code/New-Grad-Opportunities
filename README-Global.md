@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-20 19:42 UTC_
+_Last updated: 2026-09-20 20:13 UTC_
 
 **1,060 open new-grad roles** from **626 employers** · **296 posted in the last 7 days** · refreshed hourly
 
@@ -89,7 +89,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Deepomatic</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3caeb45-0bb4-4a05-836c-f0315734c423">DevOps Engineer</a> 🆕</td>
-<td>Cambridge</td>
+<td>Cambridge, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/deepomatic-1/jobs/devops-engineer_cambridge_2bna2io3">Apply</a></td>
 <td align="center">0d</td>
 </tr>
@@ -159,7 +159,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>ChapsVision</strong></td>
 <td><a href="https://trueinterview.io/jobs/8a9e3cad-b573-44ee-b764-3a18b1b91404">Stage Software Engineer</a> 🆕</td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/chapsvision/jobs/stage-software-engineer_paris">Apply</a></td>
 <td align="center">1d</td>
 </tr>
@@ -229,7 +229,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Scaleway</strong></td>
 <td><a href="https://trueinterview.io/jobs/287bc29e-292f-4564-82a0-7093f788384e">Full Stack Software Engineer (Python / React)</a> 🆕</td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/scaleway/jobs/software-engineer-hardware-development_paris_SCALE_QlqA6yk">Apply</a></td>
 <td align="center">1d</td>
 </tr>
@@ -245,7 +245,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f031b695-50cf-4f32-b7c5-121a664b74cf">Forward Deployed Engineer, Managed Services</a> 🆕</td>
 <td>India</td>
 <td align="center"><a href="https://jobs.lever.co/outreach/13e953ce-8527-436c-be6c-55d3b659dd60/apply">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Fueled</strong></td>
@@ -282,7 +282,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>DiliTrust</strong></td>
 <td><a href="https://trueinterview.io/jobs/0cf53dd7-b254-4c7f-9deb-6d6681372c63">FullStack Software Engineer (Node.js / Vue.js)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/dilitrust/jobs/fullstack-software-engineer-node-js-vue-js_paris_DILIT_0MraDbQ">Apply</a></td>
 <td align="center">15d</td>
 </tr>
@@ -310,21 +310,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Faculty</strong></td>
 <td><a href="https://trueinterview.io/jobs/523b69e7-9bd9-4952-a8df-2e5ee06eddb1">Full Stack Software Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/faculty/jobs/full-stack-software-engineer_london_uhtfyuuy">Apply</a></td>
 <td align="center">15d</td>
 </tr>
 <tr>
 <td><strong>Hook</strong></td>
 <td><a href="https://trueinterview.io/jobs/c76026a0-99cc-4cbf-8b3c-c3df04eabbb4">Backend / Fullstack Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/hook-2/jobs/backend-fullstack-engineer_london_zcxwkc2c">Apply</a></td>
 <td align="center">15d</td>
 </tr>
 <tr>
 <td><strong>Lendable</strong></td>
 <td><a href="https://trueinterview.io/jobs/1ecc8caf-554c-402a-8475-388713adc72d">Data Platform Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/lendable/jobs/data-platform-engineer_london_z2vvv5mv">Apply</a></td>
 <td align="center">15d</td>
 </tr>
@@ -338,7 +338,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Matillion</strong></td>
 <td><a href="https://trueinterview.io/jobs/d080312b-96ba-4b15-ad65-4162b4b5d9d8">Software Engineer</a></td>
-<td>Manchester</td>
+<td>Manchester, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/matillion/jobs/software-engineer_manchester_er3lnphm">Apply</a></td>
 <td align="center">15d</td>
 </tr>
@@ -359,14 +359,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Speechmatics</strong></td>
 <td><a href="https://trueinterview.io/jobs/6f313013-9780-457e-ac39-6a50b8648411">ML Data &amp; Platform Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/speechmatics/jobs/ml-data-platform-engineer_london_5vethdpp">Apply</a></td>
 <td align="center">15d</td>
 </tr>
 <tr>
 <td><strong>Thought Machine</strong></td>
 <td><a href="https://trueinterview.io/jobs/a880b3eb-7af6-422f-9cb4-8fb9c863b6f5">Full Stack Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/thought-machine/jobs/full-stack-engineer_london_42uryd7k">Apply</a></td>
 <td align="center">15d</td>
 </tr>
@@ -380,7 +380,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>WeWard</strong></td>
 <td><a href="https://trueinterview.io/jobs/46d1d203-e18f-4fd1-ad26-09538c6cd10a">Backend Engineer — Monetization Squad (Apprenticeship)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/weward/jobs/backend-engineer-monetization-squad-apprenticeship_paris">Apply</a></td>
 <td align="center">15d</td>
 </tr>
@@ -422,7 +422,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Zeeco</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7815730-7bf3-4c88-8547-6c28084f6c21">Instrumentation &amp; Controls Engineer - FEED &amp; Detail Engineering</a></td>
-<td>Mumbai</td>
+<td>Mumbai, Maharashtra</td>
 <td align="center"><a href="https://jobs.lever.co/zeeco/5a936e93-1071-46ee-8083-82999bc7f5b2/apply">Apply</a></td>
 <td align="center">16d</td>
 </tr>
@@ -450,14 +450,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
 <td><a href="https://trueinterview.io/jobs/9663035c-b766-43d0-904e-ff7f6fd17606">Associate Security Engineer</a></td>
-<td>Dublin</td>
+<td>Dublin, Ireland</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788300">Apply</a></td>
 <td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Rocket Lab Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/613cacaa-56bc-47ed-89b2-aac9d6e9e1fd">GNC Engineer I - Electron</a></td>
-<td>Auckland</td>
+<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7978902003">Apply</a></td>
 <td align="center">16d</td>
 </tr>
@@ -485,7 +485,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Citalid</strong></td>
 <td><a href="https://trueinterview.io/jobs/c2d643bb-ec31-4e1e-acc9-0c01facbdc6f">Software Engineer – Risk Modelling &amp; Data (H/F)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/citalid-cybersecurite-1/jobs/software-engineer-risk-modelling-data-h-f_paris">Apply</a></td>
 <td align="center">16d</td>
 </tr>
@@ -520,14 +520,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Galadrim</strong></td>
 <td><a href="https://trueinterview.io/jobs/29c64727-5487-4a2e-be51-77bd29ebd98c">Product &amp; Software Engineer</a></td>
-<td>Lyon</td>
+<td>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/galadrim/jobs/developpeur-full-stack_paris">Apply</a></td>
 <td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Genomics England</strong></td>
 <td><a href="https://trueinterview.io/jobs/c0410897-e6a8-48ed-b321-29d92c31adfd">Software Engineer - Python</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/software-engineer-python-at-genomics-england-f3c663e3">Apply</a></td>
 <td align="center">16d</td>
 </tr>
@@ -597,7 +597,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Talon.One</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b0f9bac-115d-43e2-88e1-b3cb9478f5dc">Product &amp; AI Security Engineer</a></td>
-<td>Berlin</td>
+<td>Berlin, Germany</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/talon-one/jobs/product-ai-security-engineer_berlin_nm4jewba">Apply</a></td>
 <td align="center">16d</td>
 </tr>
@@ -655,14 +655,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>ILLUIN Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/4b1a361f-ac7e-42ed-b841-c6540d867dcf">Applied AI Engineer (F/H)</a> 🆕</td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/illuin-tech/jobs/data-scientist_la-defense">Apply</a></td>
 <td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Link Consulting</strong></td>
 <td><a href="https://trueinterview.io/jobs/488c7470-ffd5-4a0d-a893-dcc5e19f64b8">Data Engineer (H/F) - CDI</a> 🆕</td>
-<td>Toulouse</td>
+<td>Toulouse, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/link-consulting/jobs/data-engineer-h-f-cdi_toulouse">Apply</a></td>
 <td align="center">1d</td>
 </tr>
@@ -753,7 +753,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Padoa</strong></td>
 <td><a href="https://trueinterview.io/jobs/07e73711-aa7e-46ab-9e2c-f35c9b13a4dc">Data Engineer Freelance (6 mois) F/H</a> 🆕</td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/padoa/jobs/data-engineer-freelance-6-mois-f-h_paris">Apply</a></td>
 <td align="center">2d</td>
 </tr>
@@ -827,7 +827,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Booking.com</strong></td>
 <td><a href="https://trueinterview.io/jobs/d15a68b9-4481-44e8-a7ac-10f80a4d390e">SAP Data Engineer (FinTech)</a></td>
-<td>Amsterdam</td>
+<td>Amsterdam, Netherlands</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/booking-com/jobs/sap-data-engineer-fintech_amsterdam_uw5tchpu">Apply</a></td>
 <td align="center">15d</td>
 </tr>
@@ -841,7 +841,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>DiliTrust</strong></td>
 <td><a href="https://trueinterview.io/jobs/66998a6e-497f-4a48-9163-7edcee24438a">Software Engineer - AI Platform (Frontend)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/dilitrust/jobs/software-engineer-ai-platform_paris">Apply</a></td>
 <td align="center">15d</td>
 </tr>
@@ -855,28 +855,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Link Consulting</strong></td>
 <td><a href="https://trueinterview.io/jobs/04070311-3b59-43fb-bfd6-a5b3031d4213">Data Engineer (H/F)</a></td>
-<td>Toulouse</td>
+<td>Toulouse, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/link-consulting/jobs/data-engineer-h-f_toulouse_LC_x9OYDZY">Apply</a></td>
 <td align="center">15d</td>
 </tr>
 <tr>
 <td><strong>Modjo</strong></td>
 <td><a href="https://trueinterview.io/jobs/4ff48d97-7ffe-4273-ba74-03a74b56633b">AI Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/modjo/jobs/ai-engineer_paris">Apply</a></td>
 <td align="center">15d</td>
 </tr>
 <tr>
 <td><strong>Starling</strong></td>
 <td><a href="https://trueinterview.io/jobs/71f3cbf4-0267-4016-8cbe-4110e53804a0">Software Engineer (ML Projects)</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/starling/jobs/software-engineer-ml-projects_london_sqlmmyls">Apply</a></td>
 <td align="center">15d</td>
 </tr>
 <tr>
 <td><strong>Supermetrics</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a1d6963-7498-4015-accb-000a96313be9">Agentic AI Engineer</a></td>
-<td>Dublin</td>
+<td>Dublin, Ireland</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/supermetrics/jobs/agentic-ai-engineer_dublin_z7sww5cj">Apply</a></td>
 <td align="center">15d</td>
 </tr>
@@ -897,14 +897,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Frazier &amp; Deeter</strong></td>
 <td><a href="https://trueinterview.io/jobs/3511d3dc-4041-461f-90ec-a1c838b3e352">Full Stack AI Engineer (India-based)</a></td>
-<td>Hyderabad</td>
+<td>Hyderabad<br/>India</td>
 <td align="center"><a href="https://www.frazierdeeter.com/careers/openings/apply/7986994003?gh_jid=7986994003">Apply</a></td>
 <td align="center">16d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6d05d243-8a5c-43b3-ada0-a9f9d26471c2">AI Enablement Engineer (India-based)</a></td>
-<td>Hyderabad</td>
+<td>Hyderabad<br/>India</td>
 <td align="center"><a href="https://www.frazierdeeter.com/careers/openings/apply/7986980003?gh_jid=7986980003">Apply</a></td>
 <td align="center">16d</td>
 </tr>
@@ -925,35 +925,35 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>ADVANCED SCHEMA</strong></td>
 <td><a href="https://trueinterview.io/jobs/912236a2-91a1-4e06-b6e0-3b099c638127">Data Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/advanced-schema/jobs/data-engineer_paris_AS_ex537XV">Apply</a></td>
 <td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Bial-X</strong></td>
 <td><a href="https://trueinterview.io/jobs/361600a2-6d36-4e6a-815b-e141d1dedf95">Data Engineer Databricks - Lyon</a></td>
-<td>Lyon</td>
+<td>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/bial-x/jobs/data-engineer-databricks">Apply</a></td>
 <td align="center">16d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e231b02f-5231-4292-b07b-372c50e0df0c">Data Engineer Databricks - Paris</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/bial-x/jobs/data-engineer-databricks-strasbourg_strasbourg">Apply</a></td>
 <td align="center">16d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f691d403-084b-496f-b67c-48f80e81adbd">Data Engineer Fabric - Lyon</a></td>
-<td>Lyon</td>
+<td>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/bial-x/jobs/data-engineer-fabric-lyon">Apply</a></td>
 <td align="center">16d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e4514fd5-3818-4cfb-8f0f-1e87c35c60e6">Data Engineer Fabric - Paris</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/bial-x/jobs/data-engineer-fabric-paris_paris">Apply</a></td>
 <td align="center">16d</td>
 </tr>
@@ -967,21 +967,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>CGI</strong></td>
 <td><a href="https://trueinterview.io/jobs/30f7857b-f7a9-4ef4-aebc-872301a8905e">Data Engineer QlikSense AWS F/H</a></td>
-<td>Lyon</td>
+<td>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/cgi/jobs/data-engineer-qlicksense-aws-f-h_lyon">Apply</a></td>
 <td align="center">16d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/011ac918-520b-4e44-afc0-9e2a4c956b3b">Data Engineer Snowflake F/H</a></td>
-<td>Lyon</td>
+<td>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/cgi/jobs/data-engineer-snowflake-f-h_lyon">Apply</a></td>
 <td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>ChapsVision</strong></td>
 <td><a href="https://trueinterview.io/jobs/5f9dda76-1521-42b1-8c66-1e09e6489fcc">Automation and Agentic AI Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/chapsvision/jobs/automation-and-agentic-ai-engineer_paris">Apply</a></td>
 <td align="center">16d</td>
 </tr>
@@ -995,14 +995,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Doctrine</strong></td>
 <td><a href="https://trueinterview.io/jobs/16389d8b-c148-46f4-82ab-d9d66bd3bf28">Confirmed Machine Learning Engineer (Productivity)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/doctrine/jobs/confirmed-senior-machine-learning-engineer-productivity_paris">Apply</a></td>
 <td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Edumapper</strong></td>
 <td><a href="https://trueinterview.io/jobs/d123edc7-6f9b-4fbd-9ded-1458e6f2d0c6">Data engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/edumapper/jobs/data-engineer_paris_EDUMA_rYyaZpZ">Apply</a></td>
 <td align="center">16d</td>
 </tr>
@@ -1030,14 +1030,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Keolis</strong></td>
 <td><a href="https://trueinterview.io/jobs/d3ce8a57-3d90-4fd0-82fa-1d377b12d50f">Data Engineer F/H/X</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/keolis-/jobs/data-engineer-f-h-x_paris_KEOLI_eow2LW0">Apply</a></td>
 <td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Matawan</strong></td>
 <td><a href="https://trueinterview.io/jobs/31477736-ca92-4a02-9c66-653c925e9f36">Data Engineer</a></td>
-<td>Lyon</td>
+<td>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/matawan/jobs/data-engineer_lyon">Apply</a></td>
 <td align="center">16d</td>
 </tr>
@@ -1058,7 +1058,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Open</strong></td>
 <td><a href="https://trueinterview.io/jobs/2107455d-cbef-45a0-bdc6-45ad5aaacc92">Data Engineer confirmé H/F</a></td>
-<td>Toulouse</td>
+<td>Toulouse, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/open/jobs/data-engineer-confirme-h-f_toulouse">Apply</a></td>
 <td align="center">16d</td>
 </tr>
@@ -1128,14 +1128,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Agent</strong></td>
 <td><a href="https://trueinterview.io/jobs/5dcb5d37-f769-4bdc-96c4-e834321584f1">Product Data Analyst (Academic Background)</a></td>
-<td>Mexico<br/>Brazil<br/>Colombia</td>
+<td>Mexico<br/>Brazil<br/>Colombia<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/agent/232e0bca-2618-4aec-be56-28e265adefc6/application">Apply</a></td>
 <td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>9fin</strong></td>
 <td><a href="https://trueinterview.io/jobs/0a3a0684-0b46-4e0d-b6c4-63ae28b74e1b">AI Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/9fin/72764c55-33d0-4f03-bb39-f8ca8af5eb16/application">Apply</a></td>
 <td align="center">17d</td>
 </tr>
@@ -1156,14 +1156,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Galadrim</strong></td>
 <td><a href="https://trueinterview.io/jobs/8a7f4004-b04d-4f2f-bdf1-1ab71791ddc4">AI Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/galadrim/jobs/ingenieur-ia_paris">Apply</a></td>
 <td align="center">17d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3ef3b18f-e7be-4b4e-be32-bdf15ef2a1cb">AI Engineer - Stage de fin d'études</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/galadrim/jobs/ingenieur-ia-stage-de-fin-d-etudes_paris">Apply</a></td>
 <td align="center">17d</td>
 </tr>
@@ -1207,7 +1207,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Gdh</strong></td>
 <td><a href="https://trueinterview.io/jobs/c15d5aa4-e85c-4725-8e36-4dac369c5ea2">Mechanical Engineer - Water, Expression of Interest</a></td>
-<td>Auckland</td>
+<td>AUCKLAND, New Zealand</td>
 <td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/22234">Apply</a></td>
 <td align="center">10d</td>
 </tr>
@@ -1253,14 +1253,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Egis Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/0cc2732a-1520-4dac-8ba8-e098c15dfcc2">Building Surveyor (Glasgow or Edinburgh)</a></td>
-<td>Edinburgh</td>
+<td>Edinburgh, Scotland, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000144151639-building-surveyor-glasgow-or-edinburgh-?oga=true">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/459c2f43-3c63-42e6-8475-84586f77bbee">Associate Structural Engineer - Underground Structures &amp; Asset Rehabilitation</a></td>
-<td>Sydney</td>
+<td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92959">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
@@ -1281,7 +1281,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Amax</strong></td>
 <td><a href="https://trueinterview.io/jobs/9d3edc55-31b3-4272-9163-fc64081db781">Hardware Solutions Engineer</a></td>
-<td>Cork<br/>Galway<br/>Dublin</td>
+<td>Cork, County Cork, Ireland<br/>Galway, County Galway, Ireland<br/>Dublin, County Dublin, Ireland<br/>+1 more</td>
 <td align="center"><a href="https://jobs.workable.com/view/3d12W627af3NLofw2A2qed/hardware-solutions-engineer-in-cork-at-amax">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
@@ -1295,14 +1295,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Rocket Lab Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/674c96e5-4c2f-4a24-9f86-7c3b6d2e13b0">Manufacturing Engineer - Nightshift</a></td>
-<td>Auckland</td>
+<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7825201003">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d1be0c92-802d-41cd-9854-1a7f7da62319">Manufacturing Engineer</a></td>
-<td>Auckland</td>
+<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7825132003">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
@@ -1316,7 +1316,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Egis Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/6e112585-ab0c-493c-bf13-60ec2617d18a">Trainee / Apprentice Building Surveyor</a></td>
-<td>London<br/>Edinburgh</td>
+<td>London, England, United Kingdom<br/>Edinburgh, Scotland, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000141758409-trainee-apprentice-building-surveyor?oga=true">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
@@ -1367,7 +1367,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Monks</strong></td>
 <td><a href="https://trueinterview.io/jobs/4b00652a-9a96-4d96-b2ef-990f0b953ff7">AI Artist / Multimedia Designer</a> 🆕</td>
-<td>Mexico City</td>
+<td>Mexico City<br/>Argentina</td>
 <td align="center"><a href="https://www.monks.com/careers/6180167004/job?gh_jid=6180167004">Apply</a></td>
 <td align="center">3d</td>
 </tr>
@@ -1397,7 +1397,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/bff2ae6a-5887-434f-b31d-efcdbd236c2a">Jr. Motion Designer</a></td>
 <td>Mexico City</td>
 <td align="center"><a href="https://www.monks.com/careers/6150551004/job?gh_jid=6150551004">Apply</a></td>
-<td align="center">10d</td>
+<td align="center">11d</td>
 </tr>
 <tr>
 <td><strong>New Zealand Trade And Enterprise</strong></td>
@@ -1409,14 +1409,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>C6 Bank</strong></td>
 <td><a href="https://trueinterview.io/jobs/5a54c4cd-bf1c-40a6-a7ca-27639bd70784">Pessoa Auxiliar | Product Designer | Vaga Afirmativa para Pessoas com Deficiência</a></td>
-<td>São Paulo</td>
+<td>São Paulo, Brazil<br/>C6 Bank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4730451005">Apply</a></td>
-<td align="center">11d</td>
+<td align="center">12d</td>
 </tr>
 <tr>
 <td><strong>Skydropx Frenet</strong></td>
 <td><a href="https://trueinterview.io/jobs/7c7ef0c9-ca12-4312-894a-5aa0b7e325f8">UX Writer (Portugués-Español)</a></td>
-<td>Colombia<br/>Venezuela<br/>Panamá</td>
+<td>Colombia<br/>Venezuela<br/>Panamá<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydropx/957406c3-e58a-4d73-b39a-6c180859cf57/application">Apply</a></td>
 <td align="center">12d</td>
 </tr>
@@ -1504,7 +1504,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Woolpert</strong></td>
 <td><a href="https://trueinterview.io/jobs/11cfd80a-1eed-48ad-8691-8200b6e4568c">Interior Designer</a></td>
-<td>Sydney</td>
+<td>Sydney, Australia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/woolpert/jobs/4386323009">Apply</a></td>
 <td align="center">20d</td>
 </tr>
@@ -1513,7 +1513,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/49cb7d58-3173-4ee4-be3d-502074176d8c">Learning Experience Designer</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/wikimedia/jobs/8136610">Apply</a></td>
-<td align="center">23d</td>
+<td align="center">24d</td>
 </tr>
 <tr>
 <td><strong>Highlevel</strong></td>
@@ -1539,7 +1539,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Monks</strong></td>
 <td><a href="https://trueinterview.io/jobs/d3d3cdfb-d15a-4b7e-9d7b-6df581194e9f">Multimedia Designer</a></td>
-<td>São Paulo</td>
+<td>São Paulo<br/>Brazil</td>
 <td align="center"><a href="https://www.monks.com/careers/6119141004/job?gh_jid=6119141004">Apply</a></td>
 <td align="center">27d</td>
 </tr>
@@ -1609,7 +1609,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Wpp Production</strong></td>
 <td><a href="https://trueinterview.io/jobs/b68e5d4a-5a63-475f-a9e4-0fbddb72b0d4">E-commerce Photographer - WPP Production Melbourne</a></td>
-<td>Melbourne</td>
+<td>Melbourne, Australia</td>
 <td align="center"><a href="https://www.wppproduction.com/careers/jobs/6121015004?gh_jid=6121015004">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
@@ -1734,21 +1734,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
 <td><a href="https://trueinterview.io/jobs/c470c016-aa68-4003-a1a9-cf4c2c3e3796">2027 Quantitative Research - Risk and Treasury - Off-Cycle - Associate – London</a></td>
-<td>London</td>
+<td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776873">Apply</a></td>
 <td align="center">19d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ead908be-267f-4d8d-8ab8-14c478112083">2027 Quantitative Research - Risk and Treasury - Off-Cycle – Analyst – Paris</a></td>
-<td>Paris<br/>London</td>
+<td>Paris, Paris, France<br/>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776890">Apply</a></td>
 <td align="center">19d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0f0f59ce-612a-4f3b-b357-61a4189b1a61">2027 Quantitative Research – Asset Management - Off-Cycle - London</a></td>
-<td>London</td>
+<td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776770">Apply</a></td>
 <td align="center">19d</td>
 </tr>
@@ -1808,12 +1808,12 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a4cbcb04-9368-4305-954f-5fa810309041">L1 Technical Support Agent (Spanish and English Speaking)</a></td>
 <td>LATAM</td>
 <td align="center"><a href="https://jobs.lever.co/canarytechnologies/6911aa00-dae1-458d-963d-779302f512ec/apply">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/9d549d1f-fcff-487d-bcb2-d0f8907972bc">IT Administrator, APAC</a></td>
-<td>Sydney</td>
+<td>Sydney, New South Wales, Australia<br/>Sydney, AUS</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5234138007?gh_jid=5234138007">Apply</a></td>
 <td align="center">10d</td>
 </tr>
@@ -1889,19 +1889,19 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/88a882ad-099a-48e3-88e3-f07e65b3d098">Junior Systems Administrator</a></td>
 <td>Quantico VA</td>
 <td align="center"><a href="https://jobs.lever.co/pingwind/b0dca662-2862-4b35-bbc5-d7a7405883d5/apply">Apply</a></td>
-<td align="center">18d</td>
+<td align="center">19d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/586bcf20-7459-4384-9b87-4705538dc874">Intermediate Help Desk Technician</a></td>
 <td>Quantico VA</td>
 <td align="center"><a href="https://jobs.lever.co/pingwind/0a0fdacf-8c43-4ae1-ba67-4e8d7cd129dd/apply">Apply</a></td>
-<td align="center">18d</td>
+<td align="center">19d</td>
 </tr>
 <tr>
 <td><strong>Truveta</strong></td>
 <td><a href="https://trueinterview.io/jobs/e8a2ba54-ae77-45b8-9424-3bb318cb8136">IT Administrator</a></td>
-<td>Hyderabad</td>
+<td>Hyderabad, India<br/>India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/truveta/jobs/6178427004">Apply</a></td>
 <td align="center">19d</td>
 </tr>
@@ -1924,7 +1924,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2e99a9f0-0f38-4a32-a7f5-17972d41bd97">Technical Support Engineer, Associate</a></td>
 <td>LATAM</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/devsavant/8b0416ec-50dc-4670-9651-d0010bc9197a/application">Apply</a></td>
-<td align="center">19d</td>
+<td align="center">20d</td>
 </tr>
 <tr>
 <td><strong>Apply Digital</strong></td>
@@ -1943,14 +1943,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Docebo</strong></td>
 <td><a href="https://trueinterview.io/jobs/35fbdad8-c772-4eed-8c0c-40b6b0771a22">Technical Support Analyst, Tier 1 (French Speaking)</a></td>
-<td>London</td>
+<td>London, UK</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/docebo/2d9c9b48-245a-4a4b-a24f-89c84d9a9238/application">Apply</a></td>
 <td align="center">23d</td>
 </tr>
 <tr>
 <td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ecde9ce-9246-4875-8778-4441127e0e4a">Technical Support Engineer</a></td>
-<td>Sydney</td>
+<td>Sydney, Australia<br/>Sydney Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5223282007">Apply</a></td>
 <td align="center">24d</td>
 </tr>
@@ -1964,7 +1964,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Percona</strong></td>
 <td><a href="https://trueinterview.io/jobs/d48b5725-2d24-4a7b-96a7-dbd3f476d820">Jr. Service Desk Agent</a></td>
-<td>Mexico City</td>
+<td>Mexico City<br/>South America<br/>Sao Paulo<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/percona/87c0e390-193c-4808-94e0-8f0f7d3720ba/application">Apply</a></td>
 <td align="center">27d</td>
 </tr>
@@ -2048,7 +2048,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Awin</strong></td>
 <td><a href="https://trueinterview.io/jobs/03206fef-60e0-48b2-9487-853314818998">IT Support Technician (f/m/d)</a></td>
-<td>São Paulo</td>
+<td>São Paulo, São Paulo, Brazil<br/>Sao Paulo</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/awin/jobs/7826687003">Apply</a></td>
 <td align="center">1mo</td>
 </tr>

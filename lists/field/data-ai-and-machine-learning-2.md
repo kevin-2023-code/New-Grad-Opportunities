@@ -20,7 +20,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Sopra Steria</strong></td>
 <td><a href="https://trueinterview.io/jobs/618461bc-50e9-4992-881c-548b9c039538">Stage - Data Engineer - Aeroline - Toulouse</a></td>
-<td>Toulouse</td>
+<td>Toulouse, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/sopra-steria/jobs/stage-data-engineer-aeroline-toulouse_toulouse_SS_xxN0g01">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -48,7 +48,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>The Exploration Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/1008d0a2-481b-4a84-835b-777bfb284791">AI and Computer Vision Engineer</a></td>
-<td>Munich</td>
+<td>Munich, Germany</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/d1ce1340-576f-4189-a586-70effdb86b45/application">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -69,14 +69,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Capgemini</strong></td>
 <td><a href="https://trueinterview.io/jobs/3558bf1a-3945-4f59-b4ba-9cd3373474c5">Data Engineer - Stage</a></td>
-<td>Grenoble</td>
+<td>Grenoble, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/capgemini/jobs/data-engineer-stage_grenoble">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Diametral</strong></td>
 <td><a href="https://trueinterview.io/jobs/a4a76b48-943d-4a6f-93aa-87f7da4f8fb3">Data engineer H/F Lyon</a></td>
-<td>Lyon</td>
+<td>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/littlebigcode/jobs/data-engineer-h-f-lyon_lyon">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -97,14 +97,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Lendable</strong></td>
 <td><a href="https://trueinterview.io/jobs/a4efd0f3-c1ac-4815-8245-4863f40626f4">AI Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/lendable/jobs/ai-engineer_london_q63tl3yy">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Margo</strong></td>
 <td><a href="https://trueinterview.io/jobs/708eba20-5844-4c74-91a7-a3bb2dc7acd6">AI Engineer - Spécialiste AI4Code &amp; Agents IA (H/F)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/margo/jobs/ai-engineer-specialiste-ai4code-agents-ia-h-f_paris">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -118,28 +118,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Mendo</strong></td>
 <td><a href="https://trueinterview.io/jobs/e02ad7a8-7f59-4df2-98cf-610472b11423">AI Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mendo-1/jobs/ai-engineer_paris">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Mistral AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/98650697-f7d6-4e97-b9e2-e0ed32f08ab8">Applied AI Engineer, Fullstack Software Engineer - EMEA</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-engineer-fullstack-software-engineer-emea_paris_MA_RAlPKym">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Modjo</strong></td>
 <td><a href="https://trueinterview.io/jobs/c7235272-3b56-498c-a8cc-f851fea25486">Machine Learning Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/modjo/jobs/machine-learning-engineer_paris_MODJO_VRr03Wk">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>NEXTON</strong></td>
 <td><a href="https://trueinterview.io/jobs/d225ea9a-3837-462b-a113-4e02870cbbab">Data Engineer H/F</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/nexton-consulting/jobs/data-engineer-h-f_paris_NEXTO_Zwm5o2q">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -153,7 +153,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/835f46fc-11e8-4219-bd6f-0901bce807ae">Applied AI Engineer, Government, International</a></td>
-<td>London</td>
+<td>London, UK</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/6c01266f-6ddb-42d1-a529-84736ae8587a/application">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -167,7 +167,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Autodesk</strong></td>
 <td><a href="https://trueinterview.io/jobs/3e41a9d5-0692-42ee-8b5a-e197e1d87f36">Machine Learning Engineer (3D Geometry/ Multi-Modal)</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/autodesk/jobs/machine-learning-engineer-3d-geometry-multi-modal_london_o4fxgya7">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -230,14 +230,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Jimini AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/d20fd9fe-0b28-4d9f-801d-d4d4b5438f13">AI Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/jimini-ai/jobs/ai-engineer_paris">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bcffdf73-4a50-42ad-9d52-2b68ee13b33c">AI Engineer, LLM (Stagiaire, Alternant)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/jimini-ai/jobs/machine-learning-intern_paris">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -251,21 +251,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Kiiro</strong></td>
 <td><a href="https://trueinterview.io/jobs/d850baf3-6ae5-4488-9a34-13afc83b0f61">Data Engineer / Ingénieur.e - Confirmé.e - Hybride - CDI</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/kiiro/jobs/data-engineer-hybride-cdi">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Personio</strong></td>
 <td><a href="https://trueinterview.io/jobs/b7526eed-50a6-4277-ad95-170f47db92cd">AI Engineer (d/f/m) - Internal AI</a></td>
-<td>Berlin</td>
+<td>Berlin, Germany</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/personio/jobs/ai-engineer-d-f-m_berlin">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Polynom</strong></td>
 <td><a href="https://trueinterview.io/jobs/38adaeec-9d11-4780-9af1-2e21c41aab1b">Forward Deployed AI Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/polynom/jobs/forward-deployed-ai-engineer">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -300,7 +300,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Kingfisher</strong></td>
 <td><a href="https://trueinterview.io/jobs/af42e037-f204-4942-88ce-4073443456d8">Machine Learning Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/kingfisher-france/jobs/machine-learning-engineer_london_KINGF_r78YbAd">Apply</a></td>
 <td align="center">13 Sep 2026</td>
 </tr>
@@ -314,7 +314,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Adyen</strong></td>
 <td><a href="https://trueinterview.io/jobs/9f1ba48e-2e55-4987-ba81-d0fd484c3477">Machine Learning Engineer</a></td>
-<td>Amsterdam</td>
+<td>Amsterdam, Netherlands</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/adyen-1/jobs/machine-learning-engineer_amsterdam_hm64hxaz">Apply</a></td>
 <td align="center">12 Sep 2026</td>
 </tr>
@@ -328,7 +328,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>ChapsVision</strong></td>
 <td><a href="https://trueinterview.io/jobs/158a18be-4b40-47f2-99c2-bb657d16298c">Alternance Data Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/chapsvision/jobs/alternance-data-engineer_paris">Apply</a></td>
 <td align="center">12 Sep 2026</td>
 </tr>
@@ -363,14 +363,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Mistral AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/0624ddda-eed2-4c25-a308-6720eb93f692">Applied AI Engineer, AI for Mistral</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-engineer-ai-for-mistral_paris">Apply</a></td>
 <td align="center">12 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Raisin</strong></td>
 <td><a href="https://trueinterview.io/jobs/f4947ec6-9b95-4fbf-90f1-4413c51e501f">AI Engineer</a></td>
-<td>Berlin</td>
+<td>Berlin, Germany</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/raisin/jobs/ai-engineer_berlin_wlmpy2an">Apply</a></td>
 <td align="center">12 Sep 2026</td>
 </tr>
@@ -384,14 +384,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Adyen</strong></td>
 <td><a href="https://trueinterview.io/jobs/14b05a48-297c-4f51-b79f-138726ab6f6b">Data Engineer</a></td>
-<td>Amsterdam</td>
+<td>Amsterdam, Netherlands</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/adyen-1/jobs/data-engineer_amsterdam_u6p3yqzp">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Capital on Tap</strong></td>
 <td><a href="https://trueinterview.io/jobs/21a678b0-eaa1-482d-a5b9-98b724fda041">Data Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/capital-on-tap/jobs/data-engineer_london_ezupb7ki">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -405,7 +405,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Gigaton</strong></td>
 <td><a href="https://trueinterview.io/jobs/3e24b169-c86b-430b-95f3-17eb8d99256e">Machine Learning Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/machine-learning-engineer-at-gigaton-48b2fb4d">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -433,14 +433,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Moonfare</strong></td>
 <td><a href="https://trueinterview.io/jobs/7e65e861-817c-4659-b91e-ed6c74684474">Data Engineer</a></td>
-<td>Berlin</td>
+<td>Berlin, Germany</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/moonfare/jobs/data-engineer_berlin_3vopu6zo">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>NEXTON</strong></td>
 <td><a href="https://trueinterview.io/jobs/9950aa3c-40be-4deb-971c-3d61fa9a4de0">Dev/Data engineer DataLake (IP) H/F</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/nexton-consulting/jobs/dev-data-engineer-datalake-ip-h-f_paris">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -461,7 +461,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>The Product Crew</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e4283ad-f69f-44ec-bc39-1eabc6a75e6f">Data Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/the-product-crew/jobs/data-engineer-senior-data-engineer_paris">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -552,7 +552,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Trainline</strong></td>
 <td><a href="https://trueinterview.io/jobs/3a719eeb-cadb-42c1-8a9f-c7ac7129827d">Embedded Data Engineer - ML</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/trainline-1/jobs/embedded-data-engineer-ml_london_vw47yogw">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -566,7 +566,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Webnet</strong></td>
 <td><a href="https://trueinterview.io/jobs/057f35d0-49e8-4624-b776-ee8875166fdf">Data Engineer BI – Microsoft Azure / Power BI (H/F) - Paris</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/webnet/jobs/data-engineer-bi-microsoft-azure-power-bi-h-f-paris_paris">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -615,7 +615,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d05099e6-b36e-46d2-832d-fe7479c6d9c0">Data Engineer Spark/Scala - Services Financiers F/H</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/cgi/jobs/data-engineer-spark-scala-services-financiers-f-h_paris">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -636,7 +636,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Deloitte</strong></td>
 <td><a href="https://trueinterview.io/jobs/8c8639db-5c0d-47fa-81d6-9025d99098d1">AI Engineer / Scientist confirmé F/H</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/deloitte/jobs/ai-engineer-scientist-confirme-f-h_paris_DELOI_DOkw9Xo">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -650,21 +650,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>GlassFlow</strong></td>
 <td><a href="https://trueinterview.io/jobs/abc6b4fb-9838-458d-97b4-35a14ca0dc16">AI Engineer</a></td>
-<td>Berlin</td>
+<td>Berlin, Germany</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/glassflow/jobs/ai-engineer_berlin_xw7xjuhc">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Healx</strong></td>
 <td><a href="https://trueinterview.io/jobs/7baad923-1e7b-4bac-a932-102de6ac8bb4">AI Engineer (Agentic Systems)</a></td>
-<td>Cambridge</td>
+<td>Cambridge, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/healx/jobs/ai-engineer-agentic-systems_cambridge_rjnujxez">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Ipsos</strong></td>
 <td><a href="https://trueinterview.io/jobs/52bf8ebe-2859-4dcb-b327-93b231e57543">Data Engineer BI (Power BI)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/ipsos/jobs/data-engineer-bi-power-bi_paris">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -748,42 +748,42 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Ford Motor Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/a527de12-77f3-4235-a8a0-a6970360bc3d">AI Engineer</a></td>
-<td>Chennai</td>
+<td>Chennai, Tamil Nadu, India</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70162">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>5 Degrés</strong></td>
 <td><a href="https://trueinterview.io/jobs/a183e722-c682-42ce-b725-449c79e86d2b">AI Engineer (H/F)</a></td>
-<td>Toulouse</td>
+<td>Toulouse, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/5-degres/jobs/ai-engineer-h-f_toulouse">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3231b68b-7b8a-4268-a42d-e7f2aff389b0">Data Engineer (H/F)</a></td>
-<td>Toulouse</td>
+<td>Toulouse, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/5-degres/jobs/data-engineer-h-f_toulouse_5D_KAjdoQ2">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>ActinVision</strong></td>
 <td><a href="https://trueinterview.io/jobs/d102432e-4ded-41d2-859f-1cbd3d1ab458">CONSULTANT.E MICROSOFT FABRIC / DATABRICKS - Data Engineer(F/H)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/actinvision/jobs/consultant-microsoft-fabric-databricks-data-engineer-f-h_strasbourg">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Datatorii</strong></td>
 <td><a href="https://trueinterview.io/jobs/f4a38dd9-558a-419b-b39c-d1f82502f11d">Data Engineer confirmé(e) (H/F)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/datatorii/jobs/data-engineer-h-f_paris">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ff3f1b41-9e56-4211-a348-8adad772aa66">Data Engineer Databricks</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/datatorii/jobs/data-engineer-databricks_paris">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -804,7 +804,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Joko</strong></td>
 <td><a href="https://trueinterview.io/jobs/64d71aad-0e91-4810-b504-83972607e50d">Data Engineer</a></td>
-<td>Barcelona</td>
+<td>Barcelona, Spain</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/joko/jobs/data-engineer_paris_JOKO_K6yZbxR">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -853,7 +853,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Zenika</strong></td>
 <td><a href="https://trueinterview.io/jobs/5bb25fc5-963e-4678-8451-78cd63671b4f">Consultant AI Software Engineer SDLC (F/H/X)</a></td>
-<td>Lyon</td>
+<td>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/zenika/jobs/consultant-ai-software-engineer-sdlc-f-h-x_lyon">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -874,14 +874,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cabf04ba-8cd1-4050-8d94-b1f06b5eec61">Data Engineer - Cloud GCP F/H</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/zenika/jobs/data-engineer-cloud-gcp-f-h_paris">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f1e7acef-f0cd-4bb8-a6fa-bd5bc1bdfdb8">Data Engineer - PySpark/Python (F/H/X)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/zenika/jobs/data-engineer-pyspark-python-f-h-x_paris">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -923,7 +923,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Zendar</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed77cc7e-f313-45b6-b682-1a174e00a72c">Machine Learning Engineer (Model Optimization)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/zendar/jobs/machine-learning-engineer-model-optimization_paris_zbkweqje">Apply</a></td>
 <td align="center">6 Sep 2026</td>
 </tr>
@@ -937,7 +937,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Booking.com</strong></td>
 <td><a href="https://trueinterview.io/jobs/d15a68b9-4481-44e8-a7ac-10f80a4d390e">SAP Data Engineer (FinTech)</a></td>
-<td>Amsterdam</td>
+<td>Amsterdam, Netherlands</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/booking-com/jobs/sap-data-engineer-fintech_amsterdam_uw5tchpu">Apply</a></td>
 <td align="center">5 Sep 2026</td>
 </tr>
@@ -951,7 +951,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>DiliTrust</strong></td>
 <td><a href="https://trueinterview.io/jobs/66998a6e-497f-4a48-9163-7edcee24438a">Software Engineer - AI Platform (Frontend)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/dilitrust/jobs/software-engineer-ai-platform_paris">Apply</a></td>
 <td align="center">5 Sep 2026</td>
 </tr>
@@ -965,28 +965,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Link Consulting</strong></td>
 <td><a href="https://trueinterview.io/jobs/04070311-3b59-43fb-bfd6-a5b3031d4213">Data Engineer (H/F)</a></td>
-<td>Toulouse</td>
+<td>Toulouse, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/link-consulting/jobs/data-engineer-h-f_toulouse_LC_x9OYDZY">Apply</a></td>
 <td align="center">5 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Modjo</strong></td>
 <td><a href="https://trueinterview.io/jobs/4ff48d97-7ffe-4273-ba74-03a74b56633b">AI Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/modjo/jobs/ai-engineer_paris">Apply</a></td>
 <td align="center">5 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Starling</strong></td>
 <td><a href="https://trueinterview.io/jobs/71f3cbf4-0267-4016-8cbe-4110e53804a0">Software Engineer (ML Projects)</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/starling/jobs/software-engineer-ml-projects_london_sqlmmyls">Apply</a></td>
 <td align="center">5 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Supermetrics</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a1d6963-7498-4015-accb-000a96313be9">Agentic AI Engineer</a></td>
-<td>Dublin</td>
+<td>Dublin, Ireland</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/supermetrics/jobs/agentic-ai-engineer_dublin_z7sww5cj">Apply</a></td>
 <td align="center">5 Sep 2026</td>
 </tr>
@@ -1007,14 +1007,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Frazier &amp; Deeter</strong></td>
 <td><a href="https://trueinterview.io/jobs/3511d3dc-4041-461f-90ec-a1c838b3e352">Full Stack AI Engineer (India-based)</a></td>
-<td>Hyderabad</td>
+<td>Hyderabad<br/>India</td>
 <td align="center"><a href="https://www.frazierdeeter.com/careers/openings/apply/7986994003?gh_jid=7986994003">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6d05d243-8a5c-43b3-ada0-a9f9d26471c2">AI Enablement Engineer (India-based)</a></td>
-<td>Hyderabad</td>
+<td>Hyderabad<br/>India</td>
 <td align="center"><a href="https://www.frazierdeeter.com/careers/openings/apply/7986980003?gh_jid=7986980003">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
@@ -1035,35 +1035,35 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>ADVANCED SCHEMA</strong></td>
 <td><a href="https://trueinterview.io/jobs/912236a2-91a1-4e06-b6e0-3b099c638127">Data Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/advanced-schema/jobs/data-engineer_paris_AS_ex537XV">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Bial-X</strong></td>
 <td><a href="https://trueinterview.io/jobs/361600a2-6d36-4e6a-815b-e141d1dedf95">Data Engineer Databricks - Lyon</a></td>
-<td>Lyon</td>
+<td>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/bial-x/jobs/data-engineer-databricks">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e231b02f-5231-4292-b07b-372c50e0df0c">Data Engineer Databricks - Paris</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/bial-x/jobs/data-engineer-databricks-strasbourg_strasbourg">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f691d403-084b-496f-b67c-48f80e81adbd">Data Engineer Fabric - Lyon</a></td>
-<td>Lyon</td>
+<td>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/bial-x/jobs/data-engineer-fabric-lyon">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e4514fd5-3818-4cfb-8f0f-1e87c35c60e6">Data Engineer Fabric - Paris</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/bial-x/jobs/data-engineer-fabric-paris_paris">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
@@ -1077,21 +1077,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>CGI</strong></td>
 <td><a href="https://trueinterview.io/jobs/30f7857b-f7a9-4ef4-aebc-872301a8905e">Data Engineer QlikSense AWS F/H</a></td>
-<td>Lyon</td>
+<td>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/cgi/jobs/data-engineer-qlicksense-aws-f-h_lyon">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/011ac918-520b-4e44-afc0-9e2a4c956b3b">Data Engineer Snowflake F/H</a></td>
-<td>Lyon</td>
+<td>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/cgi/jobs/data-engineer-snowflake-f-h_lyon">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>ChapsVision</strong></td>
 <td><a href="https://trueinterview.io/jobs/5f9dda76-1521-42b1-8c66-1e09e6489fcc">Automation and Agentic AI Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/chapsvision/jobs/automation-and-agentic-ai-engineer_paris">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
@@ -1105,14 +1105,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Doctrine</strong></td>
 <td><a href="https://trueinterview.io/jobs/16389d8b-c148-46f4-82ab-d9d66bd3bf28">Confirmed Machine Learning Engineer (Productivity)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/doctrine/jobs/confirmed-senior-machine-learning-engineer-productivity_paris">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Edumapper</strong></td>
 <td><a href="https://trueinterview.io/jobs/d123edc7-6f9b-4fbd-9ded-1458e6f2d0c6">Data engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/edumapper/jobs/data-engineer_paris_EDUMA_rYyaZpZ">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
@@ -1140,14 +1140,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Keolis</strong></td>
 <td><a href="https://trueinterview.io/jobs/d3ce8a57-3d90-4fd0-82fa-1d377b12d50f">Data Engineer F/H/X</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/keolis-/jobs/data-engineer-f-h-x_paris_KEOLI_eow2LW0">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Matawan</strong></td>
 <td><a href="https://trueinterview.io/jobs/31477736-ca92-4a02-9c66-653c925e9f36">Data Engineer</a></td>
-<td>Lyon</td>
+<td>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/matawan/jobs/data-engineer_lyon">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
@@ -1168,7 +1168,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Open</strong></td>
 <td><a href="https://trueinterview.io/jobs/2107455d-cbef-45a0-bdc6-45ad5aaacc92">Data Engineer confirmé H/F</a></td>
-<td>Toulouse</td>
+<td>Toulouse, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/open/jobs/data-engineer-confirme-h-f_toulouse">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
@@ -1238,14 +1238,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Agent</strong></td>
 <td><a href="https://trueinterview.io/jobs/5dcb5d37-f769-4bdc-96c4-e834321584f1">Product Data Analyst (Academic Background)</a></td>
-<td>Mexico<br/>Brazil<br/>Colombia</td>
+<td>Mexico<br/>Brazil<br/>Colombia<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/agent/232e0bca-2618-4aec-be56-28e265adefc6/application">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>9fin</strong></td>
 <td><a href="https://trueinterview.io/jobs/0a3a0684-0b46-4e0d-b6c4-63ae28b74e1b">AI Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/9fin/72764c55-33d0-4f03-bb39-f8ca8af5eb16/application">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -1266,28 +1266,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Galadrim</strong></td>
 <td><a href="https://trueinterview.io/jobs/8a7f4004-b04d-4f2f-bdf1-1ab71791ddc4">AI Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/galadrim/jobs/ingenieur-ia_paris">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3ef3b18f-e7be-4b4e-be32-bdf15ef2a1cb">AI Engineer - Stage de fin d'études</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/galadrim/jobs/ingenieur-ia-stage-de-fin-d-etudes_paris">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>GitGuardian</strong></td>
 <td><a href="https://trueinterview.io/jobs/300e3fe4-fd97-44e8-b4c9-08f3c82312c8">AI Software Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/gitguardian/jobs/ai-software-engineer_paris">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Groupe Kanbios</strong></td>
 <td><a href="https://trueinterview.io/jobs/37241416-8e6c-4eac-9d19-3b8330faca20">Consultant.e Data engineer confirmé.e</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/kanbios/jobs/consultant-e-data-engineer-confirme-e_paris">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -1301,7 +1301,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Leboncoin</strong></td>
 <td><a href="https://trueinterview.io/jobs/a554c849-3ba2-4d22-a3a2-ae844658c8c7">Data engineer (F/N/H)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/leboncoin/jobs/data-engineer-f-n-h_paris_LEBON_OAoq3xY">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -1315,14 +1315,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>NTT DATA</strong></td>
 <td><a href="https://trueinterview.io/jobs/bd8fb134-4383-4f91-95f5-d87242a53692">QE AI Engineer (Python)</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/ntt-ltd/jobs/qe-ai-engineer_london">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/75dfd741-3d20-4a3c-9c94-10737aebd579">Snowflake Data Engineer</a></td>
-<td>London</td>
+<td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/ntt-ltd/jobs/snowflake-data-engineer_london">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -1343,7 +1343,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Scaleway</strong></td>
 <td><a href="https://trueinterview.io/jobs/339d578a-62f7-4639-b558-22c0578462c1">AI Engineer</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/scaleway/jobs/ai-engineer_paris">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -1357,14 +1357,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Thélio</strong></td>
 <td><a href="https://trueinterview.io/jobs/7b719cc2-1907-4be4-a612-f4d8161362b2">Consultant Data Engineer &amp; Analytics Confirmé (F/H)</a></td>
-<td>Toulouse</td>
+<td>Toulouse, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/thelio/jobs/consultant-data-bi-confirme-h-f_toulouse_THLIO_mD3wd87">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/db62a9c4-d104-4b7e-b7ca-0d8dd74caf11">ML Engineer / MLOps (H/F)</a></td>
-<td>Lyon</td>
+<td>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/thelio/jobs/ml-engineer-mlops-h-f_lyon">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -1420,7 +1420,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Ekimetrics</strong></td>
 <td><a href="https://trueinterview.io/jobs/22b1c90c-76e9-4622-b8a8-b210f8d059f1">Stage Data Engineer (H/F/N) - 2026-2027</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/ekimetrics/jobs/stage-data-engineer-h-f-n-2026-2027_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -1455,7 +1455,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Mastercard</strong></td>
 <td><a href="https://trueinterview.io/jobs/9c377537-67b2-4a30-8e82-0934d34c11b8">Data Scientist I</a></td>
-<td>Pune</td>
+<td>Pune, India</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Data-Scientist-I_R-278159">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -1476,14 +1476,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Mozza</strong></td>
 <td><a href="https://trueinterview.io/jobs/a6d47bf1-c09a-4aad-8683-a3db5290a36a">Tech Builder (AI software engineer)</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mozza-1/jobs/tech-lead-full-stack-genai_paris_MOZZA_RKxoxVo">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>OVHcloud</strong></td>
 <td><a href="https://trueinterview.io/jobs/2ebbc3f7-1a96-4200-8ba4-c335e00de3c4">AI Infrastructure Engineer - Inference, Serving, Training &amp; Data de production H/F/N</a></td>
-<td>Lyon</td>
+<td>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/ovh/jobs/ai-infrastructure-engineer-inference-serving-training-data-de-production-h-f-n_lyon">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -1518,35 +1518,35 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Theodo FinTech</strong></td>
 <td><a href="https://trueinterview.io/jobs/7a8d06ff-743e-4acd-8df2-f7cdd647448e">AI-Native Software Engineer - CDI Paris - Theodo Fintech</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/sipios/jobs/ai-native-software-engineer-cdi-paris-theodo-fintech_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Theodo France</strong></td>
 <td><a href="https://trueinterview.io/jobs/32763da2-71a2-479c-8420-63726cbad54b">AI-Native Software Engineer - CDI Paris - Theodo</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/ai-native-software-engineer-cdi-paris-theodo_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a6ac5017-0ed3-48f8-b7b1-00762adda14f">LLM Powered Software Engineer - CDI Paris - Theodo</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/ai-engineer-theodo-france-cdi-paris_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4da944da-409d-4602-be68-edb6aea69b9d">Software Engineer Fullstack AI-Modernisation - CDI Paris - Theodo</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/software-engineer-fullstack-ai-modernisation-cdi-paris-theodo_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Theodo HealthTech</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3fe165f-ed33-4638-aae8-409a9e2aa10f">AI-Native Software Engineer - CDI Paris - Theodo Healthtech</a></td>
-<td>Paris</td>
+<td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/hokla/jobs/ai-native-software-engineer-cdi-paris-theodo-healthtech_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -1560,7 +1560,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
 <td><a href="https://trueinterview.io/jobs/bdc58b68-047f-4b96-98d0-16ad95416cb1">2027 Data &amp; AI - Full Time Analyst - London, Glasgow</a></td>
-<td>London</td>
+<td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774755">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -1602,7 +1602,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Serverfarm</strong></td>
 <td><a href="https://trueinterview.io/jobs/87ae7ab0-c1e3-435d-9b47-230994dae3f6">Junior Data Center Shift Engineer</a></td>
-<td>Amsterdam</td>
+<td>Amsterdam<br/>AMS1</td>
 <td align="center"><a href="https://jobs.lever.co/serverfarm/acbcb1c3-0a33-4fcf-8083-215a7ed6d184/apply">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
@@ -1623,7 +1623,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Peek</strong></td>
 <td><a href="https://trueinterview.io/jobs/2005a285-e58f-4f9b-8b22-2c6840940c08">Data Analyst – Analytics and AI</a></td>
-<td>Mexico City<br/>Monterrey<br/>Guadalajara</td>
+<td>Mexico City<br/>Monterrey<br/>Guadalajara<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/peek/cc80104d-5aef-45cc-829e-e619f9a5704e/application">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
@@ -1679,7 +1679,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Phizenix</strong></td>
 <td><a href="https://trueinterview.io/jobs/0d5b18ba-ba10-432b-aaa0-3cab4ec342d3">LLM / Agentic Evaluation Rig Engineer</a></td>
-<td>Hyderabad (hybrid)</td>
+<td>Hyderabad, India (Hybrid)<br/>Phizenix</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/phizenix/jobs/5398766008">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
@@ -1735,7 +1735,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Knowbe4</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac050882-21d0-4f4b-b577-9c7ae9e5fcce">Analytics Engineer(Position located in Bengaluru, India)</a></td>
-<td>Bengaluru</td>
+<td>Bengaluru, India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8721151002">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
@@ -1763,7 +1763,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Monks</strong></td>
 <td><a href="https://trueinterview.io/jobs/2eae831e-eb96-48a7-b1ef-2a2cbacdc03c">AI Automation Engineer (Remote - India)</a></td>
-<td>Mumbai</td>
+<td>Mumbai<br/>India</td>
 <td align="center"><a href="https://www.monks.com/careers/6128673004/job?gh_jid=6128673004">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
@@ -1812,14 +1812,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Truelogic</strong></td>
 <td><a href="https://trueinterview.io/jobs/eb832ac0-fb3a-4088-b4a9-6a48806346bb">Data QA Engineer – Enterprise Data | DR</a></td>
-<td>Mexico City<br/>São Paulo</td>
+<td>Mexico City<br/>São Paulo<br/>Santo Domingo<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/truelogic/486754ce-da04-4fa3-b712-bece86805de0/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Skydropx Frenet</strong></td>
 <td><a href="https://trueinterview.io/jobs/90ec46a6-46e7-451d-b29f-6ceb95bb82a9">Data Analyst</a></td>
-<td>Colombia<br/>Venezuela<br/>Panamá</td>
+<td>Colombia<br/>Venezuela<br/>Panamá<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydropx/03857582-7532-401f-bad9-61d187b87f36/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
@@ -1840,7 +1840,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Serverfarm</strong></td>
 <td><a href="https://trueinterview.io/jobs/387318eb-9174-4e85-8ac6-a230fec6c9ff">Data Center Day Engineer</a></td>
-<td>Amsterdam</td>
+<td>Amsterdam<br/>AMS1</td>
 <td align="center"><a href="https://jobs.lever.co/serverfarm/0282a653-191d-4684-bccc-8bf8ddb256a9/apply">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
@@ -1854,14 +1854,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Hm</strong></td>
 <td><a href="https://trueinterview.io/jobs/b82be8fb-f024-4ad3-850c-ff2e66a770b5">Data Analyst</a></td>
-<td>Stockholm</td>
+<td>Stockholm, Stockholms län, Sweden</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/HMGroup/744000139873329-data-analyst?oga=true">Apply</a></td>
 <td align="center">26 Jul 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6a5d92c4-9a46-444f-8230-cd11300d78fc">Data Scientist</a></td>
-<td>Stockholm</td>
+<td>Stockholm, Stockholms län, Sweden</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/HMGroup/744000139873269-data-scientist?oga=true">Apply</a></td>
 <td align="center">26 Jul 2026</td>
 </tr>
