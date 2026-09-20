@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**663 open roles.** 602 in the United States & Canada · 61 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**662 open roles.** 601 in the United States & Canada · 61 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1316,13 +1316,6 @@
 <td>Los Gatos, California, United States of America</td>
 <td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317562867">Apply</a></td>
 <td align="center">28 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>Square</strong></td>
-<td><a href="https://trueinterview.io/jobs/c5007a14-4fbc-4a39-b654-165bcff6980d">Software Engineer, Reconciliation &amp; Reporting</a></td>
-<td>Bay Area, CA, United States of America<br/>US - CA - SoCal - Remote</td>
-<td align="center"><a href="http://block.xyz/careers/jobs/5369941008?gh_jid=5369941008">Apply</a></td>
-<td align="center">27 Jul 2026</td>
 </tr>
 <tr>
 <td><strong>AMD</strong></td>

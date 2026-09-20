@@ -785,3 +785,35 @@ describe('the link out of a section', () => {
     assert.ok(page.includes('**Showing 2 of 10.**'));
   });
 });
+
+describe('the clock on its own is not a change', () => {
+  it('reads a spelled-out state, and still keeps the capital out of Puget Sound', () => {
+    const at = (loc) => metrosOf({ countries: ['United States'], locations: [loc], cities: [] });
+    assert.deepEqual(at('Renton, Washington, United States'), ['seattle']);
+    assert.deepEqual(at('Bellevue, Washington, USA'), ['seattle']);
+    assert.deepEqual(at('Washington, DC'), ['washington-dc']);
+    assert.deepEqual(at('Washington, District of Columbia'), ['washington-dc']);
+  });
+
+  it('does not count an age cell ticking over as a change worth committing', () => {
+    // On 2,336 rows about one in twenty-four ticks every hour, so without this
+    // almost every hourly run commits a README in which nothing happened.
+    // Aged so that a day's passing crosses none of the boundaries that DO say
+    // something — the 3-day 🆕 marker, the 7-day "posted this week" count, the
+    // 14-day fold — leaving the age cell as the only difference.
+    const jobs = [job({ id: 'a', updatedAt: daysAgo(10) }), job({ id: 'b', updatedAt: daysAgo(40) })];
+    const render = (now) =>
+      renderListings({ jobs, now, featuredDays: 14, noun: 'roles', backToTop: 'x', sourceNote: 'note' });
+    const today = render(NOW);
+    const tomorrow = render(NOW + 86_400_000);
+    assert.notEqual(today, tomorrow);
+    assert.equal(changedBeyondTimestamp(today, tomorrow), false);
+  });
+
+  it('still counts a role arriving or leaving as a change', () => {
+    const base = [job({ id: 'a', updatedAt: daysAgo(3) })];
+    const render = (jobs) =>
+      renderListings({ jobs, now: NOW, featuredDays: 14, noun: 'roles', backToTop: 'x', sourceNote: 'note' });
+    assert.equal(changedBeyondTimestamp(render(base), render([...base, job({ id: 'b', company: 'Globex' })])), true);
+  });
+});

@@ -288,15 +288,21 @@ export function readLocation(value) {
   if (!text) return { parts: [], states: new Set() };
   const parts = text.split(/[,/]|\s+[–—-]\s+/).map((part) => part.trim()).filter(Boolean);
   const states = new Set();
+  const named = [];
   for (const part of parts) {
     const upper = part.toUpperCase();
     if (upper.length === 2 && STATE_CODES.has(upper)) states.add(upper);
-    const named = STATE_ALIASES.get(part);
-    // `washington` is a state name AND a city name, and the city is in DC. Only
-    // the full name in a comma-part of its own is read as the state, and that
-    // one is excluded — so `Washington, DC` keeps its DC and `Redmond, WA`
-    // keeps its WA.
-    if (named && part !== 'washington') states.add(named);
+    const full = STATE_ALIASES.get(part);
+    if (full) named.push(full);
+  }
+  // `washington` is a state name AND a city name, and the city is in DC. Read
+  // in order rather than skipped: the string that also names DC is the capital
+  // (`Washington, DC`), and every other one is the state — which is what makes
+  // `Renton, Washington, United States` resolve to WA. Skipping it outright
+  // dropped every Puget Sound posting that spelled its state out.
+  for (const state of named) {
+    if (state === 'WA' && states.has('DC')) continue;
+    states.add(state);
   }
   return { parts, states };
 }
