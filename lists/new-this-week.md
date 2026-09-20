@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**849 open roles.** 553 in the United States & Canada · 296 elsewhere in the world. Everything the employers put up this week.
+**853 open roles.** 557 in the United States & Canada · 296 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hark</strong></td>
+<td><a href="https://trueinterview.io/jobs/4657050b-0b90-4295-a4af-62b9b5d20733">Audio DSP Deployment Engineer</a></td>
+<td>San Jose, CA<br/>Hark</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/hark/jobs/4412392009">Apply</a></td>
+<td align="center">20 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Eagle</strong></td>
+<td><a href="https://trueinterview.io/jobs/123c3e47-c539-474b-8916-25f2a0b0acd1">Design Engineer</a></td>
+<td>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/eagle/b5dd7b60-24d5-4053-a753-463cf7140822/application">Apply</a></td>
+<td align="center">20 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/36983473-06da-461d-8498-e44eeadc0717">2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA</a></td>
@@ -45,6 +59,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/457353c3-9c74-4567-8a5f-74a0869ffc5b">DevOps Automation Engineer</a></td>
 <td>United States</td>
 <td align="center"><a href="https://himalayas.app/companies/bright-vision-technologies/jobs/devops-automation-engineer-9926312963">Apply</a></td>
+<td align="center">20 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7b9d7f4c-054c-4593-a3a4-f9a8ef4a1f5a">Golang Developer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://himalayas.app/companies/bright-vision-technologies/jobs/golang-developer-3375929091">Apply</a></td>
+<td align="center">20 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ecb19df3-213f-4ad8-94ff-6acb861113e0">Semiconductor Software Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://himalayas.app/companies/bright-vision-technologies/jobs/semiconductor-software-engineer-6249934554">Apply</a></td>
 <td align="center">20 Sep 2026</td>
 </tr>
 <tr>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7cf0f804-0286-499a-adbd-2df43be1475e">Dynamics Engineer (Falcon &amp; Dragon)</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8806124002?gh_jid=8806124002">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Vercel</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f8e7262-ac1f-43e0-b03a-68a9cfe4bd62">Design Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/vercel/jobs/6129441004">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Singlestore</strong></td>
-<td><a href="https://trueinterview.io/jobs/24c0b07c-ab73-4767-a98a-57716a9ffb63">Software Engineer-New Grad 2027</a></td>
-<td>San Francisco, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/singlestore/jobs/8205427">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cursor</strong></td>
-<td><a href="https://trueinterview.io/jobs/a90a5e99-8569-4021-89de-1ed539172155">Software Engineer, RL Data</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cursor/9a175381-45e2-42b6-bd64-6c84532365f9/application">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Wyetech</strong></td>
-<td><a href="https://trueinterview.io/jobs/12be786d-af36-49e8-89ab-6722b2a29110">Software Engineer 0/1</a></td>
-<td>Ft. Meade, Maryland</td>
-<td align="center"><a href="https://jobs.lever.co/wyetechllc/636a5fb4-0967-491d-9993-b8a44a47e832/apply">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 </tbody>

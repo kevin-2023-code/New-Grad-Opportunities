@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**208 open roles.**
+**209 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Eagle</strong></td>
+<td><a href="https://trueinterview.io/jobs/123c3e47-c539-474b-8916-25f2a0b0acd1">Design Engineer</a></td>
+<td>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/eagle/b5dd7b60-24d5-4053-a753-463cf7140822/application">Apply</a></td>
+<td align="center">20 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Pallet</strong></td>
 <td><a href="https://trueinterview.io/jobs/75e6c398-5d2e-4e11-a54f-e14afde5a417">Software Engineer, Agent Delivery</a></td>

@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**618 open roles.** 617 in the United States & Canada · 1 elsewhere in the world.
+**619 open roles.** 618 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Parafin</strong></td>
+<td><a href="https://trueinterview.io/jobs/7179f8fb-20b4-4ef6-bf5c-7a80c16bd7e2">Partner Engineer, Scaled Support</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/parafin/f73af03e-d559-4142-b143-9f3b5696fb5d/application">Apply</a></td>
+<td align="center">25 Aug 2026</td>
+</tr>
 <tr>
 <td><strong>Candid Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/315968a3-3c42-4867-b741-778751fcae02">Security Engineer, GRC</a></td>

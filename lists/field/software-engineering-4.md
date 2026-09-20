@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,093 open roles.** 1,475 in the United States & Canada · 618 elsewhere in the world.
+**2,096 open roles.** 1,478 in the United States & Canada · 618 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Palantir</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e5a057f-7acd-4160-bed2-47d85229bac6">Offensive Security Engineer</a></td>
+<td>Washington, DC<br/>New York, NY<br/>Washington, D.C.</td>
+<td align="center"><a href="https://jobs.lever.co/palantir/5614a901-ef96-4b9c-928d-4a9c338c8aad">Apply</a></td>
+<td align="center">14 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/jobs/648de1e8-1e70-4214-acbe-9d2078dedc79">Software Engineering MTS</a></td>
+<td>California - San Francisco, United States of America</td>
+<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR353585">Apply</a></td>
+<td align="center">14 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Snowflake</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe2afb15-3e0a-4b2c-b00d-6439a482c8ec">Solution Engineer, Enterprise Acquisition</a></td>
+<td>US-NY-New York<br/>US-TN-Remote<br/>Nashville, TN<br/>+4 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/b93dd7ef-bb2b-4cc5-aef6-19576a7157fb/application">Apply</a></td>
+<td align="center">13 Aug 2026</td>
+</tr>
 <tr>
 <td><strong>E-Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/9f4c9246-49b0-4d4c-ab30-4492c091047b">Mission Systems Engineer</a></td>
@@ -2804,27 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d1878be5-b566-4298-82f8-a00be691d04a">Engineering Coordinator</a></td>
 <td>Campinas, São Paulo, Brazil<br/>Campinas, Brazil</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8810220002">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Skelar</strong></td>
-<td><a href="https://trueinterview.io/jobs/2f43340e-6f01-451e-91cf-e095465b8205">Software Engineer (Golang) - RiseGuide</a></td>
-<td>Warsaw<br/>Kyiv</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skelar/7775b2b7-2d8e-4df0-bcb9-ee54fa43226e/application">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Aeva</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e4d588a-9351-4761-a398-d0b045e20c96">Optical Aligner and Test Engineer - Bangalore, India</a></td>
-<td>Bangalore</td>
-<td align="center"><a href="https://jobs.lever.co/aeva/29f58209-5cc2-4a05-8cb3-5b1f637cc096/apply">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Avoca</strong></td>
-<td><a href="https://trueinterview.io/jobs/8b7e4c46-dc61-478c-8ecd-f7e6a956c8f9">Software Engineer (Product)</a></td>
-<td>Bengaluru, India</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/avoca/ec05c135-ab26-437a-8fe9-f7a5c4da08e5/application">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 </tbody>

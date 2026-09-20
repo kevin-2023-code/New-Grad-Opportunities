@@ -6,9 +6,62 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-20T19:21:10.011Z",
-  "count": 3397,
+  "listingsChangedAt": "2026-09-20T22:21:14.567Z",
+  "count": 3401,
   "listings": [
+    {
+      "id": "4657050b-0b90-4295-a4af-62b9b5d20733",
+      "company": "Hark",
+      "title": "Audio DSP Deployment Engineer",
+      "locations": [
+        "San Jose",
+        "Hark"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/hark/jobs/4412392009",
+      "url": "https://trueinterview.io/jobs/4657050b-0b90-4295-a4af-62b9b5d20733",
+      "postedAt": "2026-09-20T19:20:19.000Z",
+      "updatedAt": "2026-09-20T19:20:19.000Z"
+    },
+    {
+      "id": "123c3e47-c539-474b-8916-25f2a0b0acd1",
+      "company": "Eagle",
+      "title": "Design Engineer",
+      "locations": [
+        "New York City"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/eagle/b5dd7b60-24d5-4053-a753-463cf7140822/application",
+      "url": "https://trueinterview.io/jobs/123c3e47-c539-474b-8916-25f2a0b0acd1",
+      "postedAt": "2026-09-20T17:07:56.000Z",
+      "updatedAt": "2026-09-20T17:07:56.000Z"
+    },
     {
       "id": "36983473-06da-461d-8498-e44eeadc0717",
       "company": "Applied Materials",
@@ -133,6 +186,56 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/bright-vision-technologies/jobs/devops-automation-engineer-9926312963",
       "url": "https://trueinterview.io/jobs/457353c3-9c74-4567-8a5f-74a0869ffc5b",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
+      "id": "7b9d7f4c-054c-4593-a3a4-f9a8ef4a1f5a",
+      "company": "Bright Vision Technologies",
+      "title": "Golang Developer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/bright-vision-technologies/jobs/golang-developer-3375929091",
+      "url": "https://trueinterview.io/jobs/7b9d7f4c-054c-4593-a3a4-f9a8ef4a1f5a",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
+      "id": "ecb19df3-213f-4ad8-94ff-6acb861113e0",
+      "company": "Bright Vision Technologies",
+      "title": "Semiconductor Software Engineer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/bright-vision-technologies/jobs/semiconductor-software-engineer-6249934554",
+      "url": "https://trueinterview.io/jobs/ecb19df3-213f-4ad8-94ff-6acb861113e0",
       "postedAt": "2026-09-20T00:00:00.000Z",
       "updatedAt": "2026-09-20T00:00:00.000Z"
     },

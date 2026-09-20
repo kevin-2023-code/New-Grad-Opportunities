@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**643 open roles.** 405 in the United States & Canada · 238 elsewhere in the world.
+**644 open roles.** 406 in the United States & Canada · 238 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -31,6 +31,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dc7c337e-4c45-46c8-b009-ccf7b732a141">CUDA Developer</a></td>
 <td>United States</td>
 <td align="center"><a href="https://himalayas.app/companies/bright-vision-technologies/jobs/cuda-developer-4595292117">Apply</a></td>
+<td align="center">20 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7b9d7f4c-054c-4593-a3a4-f9a8ef4a1f5a">Golang Developer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://himalayas.app/companies/bright-vision-technologies/jobs/golang-developer-3375929091">Apply</a></td>
 <td align="center">20 Sep 2026</td>
 </tr>
 <tr>
@@ -2811,13 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19266?lang=en-us">Apply</a></td>
 <td align="center">30 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/46068e53-2b51-4128-bd7e-22bf8d862c99">Software Engineer, Cloudflare Network Interconnect</a></td>
-<td>Austin, TX<br/>London, United Kingdom<br/>Hybrid<br/>+1 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751">Apply</a></td>
-<td align="center">29 Jul 2026</td>
 </tr>
 </tbody>
 </table>

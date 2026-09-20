@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**80 open roles.** 78 in the United States & Canada · 2 elsewhere in the world.
+**81 open roles.** 79 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bright Vision Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecb19df3-213f-4ad8-94ff-6acb861113e0">Semiconductor Software Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://himalayas.app/companies/bright-vision-technologies/jobs/semiconductor-software-engineer-6249934554">Apply</a></td>
+<td align="center">20 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/8403f79e-26cf-4cdd-af47-7d84924e4ab4">Hardware Dev. Engineer I (Electrical), One Materials Handling System (OMHS)</a></td>

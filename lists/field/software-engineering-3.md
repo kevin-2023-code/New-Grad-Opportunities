@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,093 open roles.** 1,475 in the United States & Canada · 618 elsewhere in the world.
+**2,096 open roles.** 1,478 in the United States & Canada · 618 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,28 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Field AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/b49a4f5c-1ce7-4e17-bea1-28fe8fa5b5b3">Field Application Engineer - Sterling, VA - Temporary Part Time</a></td>
+<td>Sterling, VA</td>
+<td align="center"><a href="https://jobs.lever.co/field-ai/034be341-94c1-49d4-be5a-5d9d20c53091/apply">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Rune Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/02aaca36-94f9-4af3-8ad3-63a27ebdb2f7">Backend Software Engineer - Distribution</a></td>
+<td>Rosslyn, VA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/runetech/0348a7e2-d1e6-4a46-a623-17d22be3d170/application">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/819619cf-e25e-491e-9189-71f8bdc230bb">Aviation Development Engineer, Networking (Starlink)</a></td>
+<td>Woodinville, WA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8731929002?gh_jid=8731929002">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/186a9489-6c12-41b7-9cb4-09da89a37d4c">Full Stack Engineer, Flight Software</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8769729002?gh_jid=8769729002">Apply</a></td>
@@ -2793,27 +2814,6 @@
 <td>Saxonburg, PA, United States</td>
 <td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2013936">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Palantir</strong></td>
-<td><a href="https://trueinterview.io/jobs/5e5a057f-7acd-4160-bed2-47d85229bac6">Offensive Security Engineer</a></td>
-<td>Washington, DC<br/>New York, NY<br/>Washington, D.C.</td>
-<td align="center"><a href="https://jobs.lever.co/palantir/5614a901-ef96-4b9c-928d-4a9c338c8aad">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Salesforce</strong></td>
-<td><a href="https://trueinterview.io/jobs/648de1e8-1e70-4214-acbe-9d2078dedc79">Software Engineering MTS</a></td>
-<td>California - San Francisco, United States of America</td>
-<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR353585">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Snowflake</strong></td>
-<td><a href="https://trueinterview.io/jobs/fe2afb15-3e0a-4b2c-b00d-6439a482c8ec">Solution Engineer, Enterprise Acquisition</a></td>
-<td>US-NY-New York<br/>US-TN-Remote<br/>Nashville, TN<br/>+4 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/b93dd7ef-bb2b-4cc5-aef6-19576a7157fb/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>

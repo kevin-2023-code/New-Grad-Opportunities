@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**643 open roles.** 405 in the United States & Canada · 238 elsewhere in the world.
+**644 open roles.** 406 in the United States & Canada · 238 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/46068e53-2b51-4128-bd7e-22bf8d862c99">Software Engineer, Cloudflare Network Interconnect</a></td>
+<td>Austin, TX<br/>London, United Kingdom<br/>Hybrid<br/>+1 more</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751">Apply</a></td>
+<td align="center">29 Jul 2026</td>
+</tr>
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/251d188f-03bc-47ed-9eb1-2a7d7c517f80">Software Engineer, Telemetry (Starlink)</a></td>

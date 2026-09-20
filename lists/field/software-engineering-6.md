@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,093 open roles.** 1,475 in the United States & Canada · 618 elsewhere in the world.
+**2,096 open roles.** 1,478 in the United States & Canada · 618 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Owner.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/3891e55c-cad9-49df-ab6c-ae4edf5592bd">Data Platform Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/owner/cc6453a3-6cfe-4a4a-9bab-9dd170cb8c6c/application">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Voltus</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf00bf95-2ef5-421f-9b18-4925c213003e">Project Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.lever.co/voltus/58a0d4db-bae6-4649-9628-aa5d44072ceb/apply">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Prefect</strong></td>
+<td><a href="https://trueinterview.io/jobs/a302b166-1006-4e65-82a1-9acbfd5805e2">Developer Relations Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/prefect/2ea26851-744d-4693-bd79-43d25d0d7d96/application">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
 <tr>
 <td><strong>Field AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/991692fb-58e7-4aa0-803c-7c649398e9a4">Field Application Engineer - Temporary Part Time - London, UK</a></td>

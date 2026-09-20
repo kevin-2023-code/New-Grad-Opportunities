@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,093 open roles.** 1,475 in the United States & Canada · 618 elsewhere in the world.
+**2,096 open roles.** 1,478 in the United States & Canada · 618 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Skelar</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f43340e-6f01-451e-91cf-e095465b8205">Software Engineer (Golang) - RiseGuide</a></td>
+<td>Warsaw<br/>Kyiv</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skelar/7775b2b7-2d8e-4df0-bcb9-ee54fa43226e/application">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Aeva</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e4d588a-9351-4761-a398-d0b045e20c96">Optical Aligner and Test Engineer - Bangalore, India</a></td>
+<td>Bangalore</td>
+<td align="center"><a href="https://jobs.lever.co/aeva/29f58209-5cc2-4a05-8cb3-5b1f637cc096/apply">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Avoca</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b7e4c46-dc61-478c-8ecd-f7e6a956c8f9">Software Engineer (Product)</a></td>
+<td>Bengaluru, India</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/avoca/ec05c135-ab26-437a-8fe9-f7a5c4da08e5/application">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Pvm, Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/562872cd-ef96-4676-b5ac-78953311177e">Forward Deployed Engineer</a></td>
@@ -2794,27 +2815,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c0699e53-666f-488e-ac60-0f733c215cdf">Intermediate Kotlin Developer</a></td>
 <td>Campinas, São Paulo, Brazil<br/>Campinas, Brazil</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8734536002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Owner.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/3891e55c-cad9-49df-ab6c-ae4edf5592bd">Data Platform Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/owner/cc6453a3-6cfe-4a4a-9bab-9dd170cb8c6c/application">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Voltus</strong></td>
-<td><a href="https://trueinterview.io/jobs/cf00bf95-2ef5-421f-9b18-4925c213003e">Project Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/voltus/58a0d4db-bae6-4649-9628-aa5d44072ceb/apply">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Prefect</strong></td>
-<td><a href="https://trueinterview.io/jobs/a302b166-1006-4e65-82a1-9acbfd5805e2">Developer Relations Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/prefect/2ea26851-744d-4693-bd79-43d25d0d7d96/application">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 </tbody>

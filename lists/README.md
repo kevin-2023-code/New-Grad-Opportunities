@@ -6,9 +6,9 @@ Every cut of the New Grad Opportunities list that has a page of its own. Each on
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-09-20 20:18 UTC_
+_Last updated: 2026-09-20 22:21 UTC_
 
-> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 1,012 of the 1,388 employers on this list (83% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
+> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 1,012 of the 1,389 employers on this list (83% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
@@ -32,9 +32,9 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [💻 Software Engineering](field/software-engineering.md) | 1,475 | 618 |
+| [💻 Software Engineering](field/software-engineering.md) | 1,478 | 618 |
 | [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 334 | 330 |
-| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 299 | 21 |
+| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 300 | 21 |
 | [📱 Product & Design](field/product-and-design.md) | 124 | 43 |
 | [🧰 IT & Support](field/it-and-support.md) | 93 | 38 |
 | [📈 Quantitative Finance](field/quantitative-finance.md) | 12 | 10 |
@@ -45,7 +45,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 24 filters hold **2,829 of the 3,397** new-grad roles on this list (83%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 24 filters hold **2,829 of the 3,401** new-grad roles on this list (83%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -80,19 +80,19 @@ _Between them these 24 filters hold **2,829 of the 3,397** new-grad roles on thi
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 21 filters hold **1,921 of the 3,397** new-grad roles on this list (57%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 21 filters hold **1,923 of the 3,401** new-grad roles on this list (57%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [Software Engineer](role/software-engineer.md) | 405 | 238 |
+| [Software Engineer](role/software-engineer.md) | 406 | 238 |
 | [AI Engineer](role/ai-engineer.md) | 124 | 119 |
 | [Data Engineer](role/data-engineer.md) | 64 | 132 |
 | [Full-Stack Engineer](role/full-stack-engineer.md) | 51 | 49 |
 | [Security Engineer](role/security-engineer.md) | 67 | 32 |
 | [Machine Learning Engineer](role/machine-learning-engineer.md) | 57 | 31 |
-| [Hardware Engineer](role/hardware-engineer.md) | 78 | 2 |
+| [Hardware Engineer](role/hardware-engineer.md) | 79 | 2 |
 | [Data Scientist](role/data-scientist.md) | 31 | 27 |
 | [Backend Engineer](role/backend-engineer.md) | 23 | 34 |
 | [DevOps Engineer](role/devops-engineer.md) | 18 | 33 |
@@ -114,12 +114,12 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 35 filters hold **2,029 of the 3,397** new-grad roles on this list (60%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 35 filters hold **2,031 of the 3,401** new-grad roles on this list (60%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🌉 SF Bay Area](place/bay-area.md) | 617 | 1 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
-| [🗽 New York City](place/new-york.md) | 208 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: New York City, Nyc, Manhattan, Brooklyn, Long Island City, Jersey City, Hoboken, New York NY, Queens NY, Newark NJ, Stamford CT. |
+| [🌉 SF Bay Area](place/bay-area.md) | 618 | 1 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
+| [🗽 New York City](place/new-york.md) | 209 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: New York City, Nyc, Manhattan, Brooklyn, Long Island City, Jersey City, Hoboken, New York NY, Queens NY, Newark NJ, Stamford CT. |
 | [🎸 Austin](place/austin.md) | 180 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Austin, Pflugerville, Round Rock, Cedar Park, Bastrop, Georgetown. |
 | [🌴 Los Angeles & Orange County](place/los-angeles.md) | 180 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: Los Angeles, Santa Monica, El Segundo, Culver City, Hawthorne, Van Nuys, Marina Del Rey, Playa Vista, Pasadena, Burbank, Torrance, Long Beach, and 6 more. |
 | [🇫🇷 Paris & France](place/france.md) | 0 | 178 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
@@ -160,11 +160,11 @@ _Between them these 35 filters hold **2,029 of the 3,397** new-grad roles on thi
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **1,137 of the 3,397** new-grad roles on this list (33%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **1,141 of the 3,401** new-grad roles on this list (34%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 553 | 296 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 557 | 296 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 | [🌐 Remote](remote.md) | 226 | 120 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
 
 ---

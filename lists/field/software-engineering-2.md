@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,093 open roles.** 1,475 in the United States & Canada · 618 elsewhere in the world.
+**2,096 open roles.** 1,478 in the United States & Canada · 618 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ad4b5e2-df2e-4a6a-805a-f9b549c696e4">Hardware Engineering Technical Leader (hybrid) - 2014270</a></td>
+<td>San Jose, California, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineering-Technical-Leader--onsite----2014270_2014270">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b71da3d4-d261-466f-adc9-3fce263ce7d5">Python Software Engineer, CX Engineering(Hybrid)</a></td>
+<td>Austin, TX<br/>RTP, North Carolina, US, United States of America<br/>Austin, Texas, US<br/>+1 more</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer--CX-Engineering_2021701">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/88634c35-61b8-46a2-92a3-c6d75bc671cf">Software QA Engineer(Remote)</a></td>
+<td>San Jose, California, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-QA-Engineer-Remote-_2023200">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Coherent Corp.</strong></td>
 <td><a href="https://trueinterview.io/jobs/2192b189-b881-4e04-af4e-409a0a3f9f74">Equipment Engineer</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/710436be-93da-4d81-8093-6e1153115378">GIS Solution Engineer – Global Alliances &amp; Partners</a></td>
 <td>Washington, DC<br/>Vienna, Virginia, United States<br/>Philadelphia, PA<br/>+2 more</td>
 <td align="center"><a href="https://www.esri.com/careers/5227575007?gh_jid=5227575007">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/b49a4f5c-1ce7-4e17-bea1-28fe8fa5b5b3">Field Application Engineer - Sterling, VA - Temporary Part Time</a></td>
-<td>Sterling, VA</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/034be341-94c1-49d4-be5a-5d9d20c53091/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rune Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/02aaca36-94f9-4af3-8ad3-63a27ebdb2f7">Backend Software Engineer - Distribution</a></td>
-<td>Rosslyn, VA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/runetech/0348a7e2-d1e6-4a46-a623-17d22be3d170/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/819619cf-e25e-491e-9189-71f8bdc230bb">Aviation Development Engineer, Networking (Starlink)</a></td>
-<td>Woodinville, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8731929002?gh_jid=8731929002">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 </tbody>
