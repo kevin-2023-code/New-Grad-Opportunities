@@ -721,3 +721,33 @@ describe('who is posting this week', () => {
     assert.ok(!page(jobs).includes('Posting the most this week'));
   });
 });
+
+describe('the page cannot argue with itself', () => {
+  it('counts the headline and the index over the same rows', () => {
+    // The bug this exists for: the headline was computed by the caller from the
+    // whole region and the index by the renderer from a capped slice, so the
+    // page opened with "2,336 open roles" three lines above "Browse 1,500
+    // roles by field".
+    const jobs = [
+      ...Array.from({ length: 30 }, (_, i) => job({ id: `s${i}`, family: 'Software' })),
+      ...Array.from({ length: 12 }, (_, i) => job({ id: `d${i}`, family: 'Data & AI' })),
+    ];
+    const page = renderListings({
+      jobs,
+      now: NOW,
+      featuredDays: 14,
+      noun: 'roles',
+      backToTop: 'x',
+      sourceNote: 'note',
+      caps: { featured: 5, fold: 5 },
+    });
+    const headline = /\*\*([\d,]+) open roles\*\*/.exec(page);
+    const index = /### Browse ([\d,]+) roles by field/.exec(page);
+    assert.ok(headline && index, page.slice(0, 300));
+    assert.equal(headline[1], index[1]);
+    assert.equal(headline[1], '42');
+    // And the per-field counts sum to it, however few rows each section prints.
+    const sections = [...page.matchAll(/\*\*\[[^\]]+\]\(#[^)]+\)\*\* \((\d+)\)/g)].map((m) => Number(m[1]));
+    assert.equal(sections.reduce((total, n) => total + n, 0), 42);
+  });
+});

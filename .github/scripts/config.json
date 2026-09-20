@@ -13,7 +13,6 @@
   ],
   "homeLabel": "the United States & Canada",
   "featuredDays": 14,
-  "maxRowsPerFile": 1500,
   "readmeRowsPerSection": {
     "featured": 25,
     "fold": 50

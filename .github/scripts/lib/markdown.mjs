@@ -158,6 +158,32 @@ function renderSection(bucket, { now, featuredDays, backToTop, caps, trackPath }
 }
 
 /**
+ * The one-line summary above the index.
+ *
+ * Built from the SAME array the index below it counts, rather than passed in.
+ * The version that took it as an argument had the caller compute it from the
+ * uncapped list and the index compute its own from a capped one, so the page
+ * opened with "2,336 open roles" three lines above "Browse 1,500 roles by
+ * field". Two readers of one number is the whole bug; one reader cannot have it.
+ */
+function renderHeadline(jobs, now, noun, freshDays) {
+  const employers = new Set();
+  let fresh = 0;
+  for (const job of jobs) {
+    const name = job.companyLabel || job.company;
+    if (name) employers.add(name);
+    const age = ageInDays(job.updatedAt, now);
+    if (age !== null && age <= freshDays) fresh += 1;
+  }
+  return (
+    `**${count(jobs.length)} open ${noun}** from **${count(employers.size)} ` +
+    `${plural(employers.size, 'employer', 'employers')}**` +
+    (fresh ? ` · **${count(fresh)} posted in the last ${freshDays} days**` : '') +
+    ' · refreshed hourly'
+  );
+}
+
+/**
  * Who put the most roles up this week, in this file's region.
  *
  * The one block on the page that answers "where should I look TODAY". It is a
@@ -269,7 +295,6 @@ export function renderListings({
   tracks = [],
   caps = { featured: 25, fold: 50 },
   fieldPathOf = () => null,
-  headline = '',
   scope = null,
   freshDays = 7,
 }) {
@@ -288,7 +313,7 @@ export function renderListings({
     return parts.join('\n');
   }
 
-  if (headline) parts.push(headline, '');
+  parts.push(renderHeadline(jobs, now, noun, freshDays), '');
   parts.push(renderFieldIndex(buckets, jobs.length, noun));
   const hiring = renderHiringNow(jobs, now, freshDays);
   if (hiring) parts.push('---', '', hiring);
