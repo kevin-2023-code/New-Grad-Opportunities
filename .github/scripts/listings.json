@@ -6,9 +6,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-20T12:12:26.663Z",
-  "count": 3393,
+  "fetchedAt": "2026-09-20T16:45:40.633Z",
+  "count": 3395,
   "listings": [
+    {
+      "id": "e22c2b55-ed88-44e2-940c-1a6676ddb8de",
+      "company": "ARKHO",
+      "title": "Data Engineer",
+      "locations": [
+        "Colombia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/arkho/jobs/data-engineer-3083682709",
+      "url": "https://trueinterview.io/jobs/e22c2b55-ed88-44e2-940c-1a6676ddb8de",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
     {
       "id": "c3ec7966-e5a2-47bd-b0e8-5763269fe081",
       "company": "Beyond Finance",
@@ -265,6 +290,31 @@
       "updatedAt": "2026-09-20T00:00:00.000Z"
     },
     {
+      "id": "cefd367a-dcb7-4718-a1ef-4b843bac25f6",
+      "company": "mercor",
+      "title": "AI/ML Engineer - Fully Remote / Upto $85/hr",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/mercor/jobs/ai-ml-engineer-fully-remote-upto-85-hr",
+      "url": "https://trueinterview.io/jobs/cefd367a-dcb7-4718-a1ef-4b843bac25f6",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
       "id": "1e7b95fc-51de-438a-91bb-db15514bf32c",
       "company": "micro1",
       "title": "Data Engineer",
@@ -290,6 +340,31 @@
       "updatedAt": "2026-09-20T00:00:00.000Z"
     },
     {
+      "id": "3bdedb14-ccfb-487e-918a-237be8ebb843",
+      "company": "Pavago",
+      "title": "Mobile App Developer - (iOS/Android)",
+      "locations": [
+        "Mexico"
+      ],
+      "cities": [],
+      "countries": [
+        "Mexico"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/pavago/jobs/mobile-app-developer-ios-android-2748061178",
+      "url": "https://trueinterview.io/jobs/3bdedb14-ccfb-487e-918a-237be8ebb843",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
       "id": "72adf300-48fb-41f4-94f1-b4a1819918d8",
       "company": "Pinwheel",
       "title": "Backend Engineer (Integrations Platform)",
@@ -311,6 +386,31 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/pinwheel/jobs/backend-engineer-integrations-platform_new-york_umbwy7ti",
       "url": "https://trueinterview.io/jobs/72adf300-48fb-41f4-94f1-b4a1819918d8",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
+      "id": "ccb054e4-3bbb-4028-a2e3-a1f45003e08f",
+      "company": "Relay",
+      "title": "Frontend Developer (React, TypeScript)",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/relay-cc/jobs/frontend-developer-react-typescript-3169762534",
+      "url": "https://trueinterview.io/jobs/ccb054e4-3bbb-4028-a2e3-a1f45003e08f",
       "postedAt": "2026-09-20T00:00:00.000Z",
       "updatedAt": "2026-09-20T00:00:00.000Z"
     },
@@ -1464,31 +1564,6 @@
       "url": "https://trueinterview.io/jobs/c18d3c07-2ee7-41af-ba9e-293bedc0b4e1",
       "postedAt": "2026-09-18T21:40:47.000Z",
       "updatedAt": "2026-09-18T21:40:47.000Z"
-    },
-    {
-      "id": "845a8fac-0b0c-44b1-ad9f-ed001f5a296d",
-      "company": "Smile Digital Health",
-      "title": "Software Engineer, AI/ML",
-      "locations": [
-        "Remote, Canada"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "remote",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/smiledigitalhealth/fb00a330-686f-45dc-bb8a-072589d07484/apply",
-      "url": "https://trueinterview.io/jobs/845a8fac-0b0c-44b1-ad9f-ed001f5a296d",
-      "postedAt": "2026-09-18T21:35:41.000Z",
-      "updatedAt": "2026-09-18T21:35:41.000Z"
     },
     {
       "id": "d7094e37-ac70-4576-99ea-c75940b1e5da",
@@ -25609,7 +25684,8 @@
         "Dallas, Texas",
         "Columbus, United States of America",
         "Springfield, United States of America",
-        "Chicago, United States of America"
+        "Chicago, United States of America",
+        "Dallas, Texas, United States of America"
       ],
       "cities": [
         "Boston, MA",
@@ -80182,7 +80258,8 @@
         "McLean, Virginia, US",
         "Tampa, Florida, US",
         "Durham, North Carolina, US",
-        "Syracuse, New York, US"
+        "Syracuse, New York, US",
+        "Seattle, Washington, US, United States of America"
       ],
       "cities": [
         "Seattle, WA",
@@ -89295,31 +89372,6 @@
       "url": "https://trueinterview.io/jobs/cb2d40ad-d09e-4f6e-be70-ad86379c98c3",
       "postedAt": "2026-07-22T22:29:47.000Z",
       "updatedAt": "2026-07-22T22:29:47.000Z"
-    },
-    {
-      "id": "f2eb2e78-ce35-4506-9b9e-e68f8a846aa6",
-      "company": "SpaceX",
-      "title": "Materials Engineer, AI Satellites (Starmind)",
-      "locations": [
-        "Bastrop, TX"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8645074002?gh_jid=8645074002",
-      "url": "https://trueinterview.io/jobs/f2eb2e78-ce35-4506-9b9e-e68f8a846aa6",
-      "postedAt": "2026-07-22T15:12:35.000Z",
-      "updatedAt": "2026-07-22T15:12:35.000Z"
     }
   ]
 }
