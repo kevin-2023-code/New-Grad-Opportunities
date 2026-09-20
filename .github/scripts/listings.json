@@ -6,9 +6,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-20T16:45:40.633Z",
-  "count": 3395,
+  "fetchedAt": "2026-09-20T19:21:10.011Z",
+  "count": 3397,
   "listings": [
+    {
+      "id": "36983473-06da-461d-8498-e44eeadc0717",
+      "company": "Applied Materials",
+      "title": "2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA",
+      "locations": [
+        "Gloucester, MA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790317913273",
+      "url": "https://trueinterview.io/jobs/36983473-06da-461d-8498-e44eeadc0717",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
     {
       "id": "e22c2b55-ed88-44e2-940c-1a6676ddb8de",
       "company": "ARKHO",
@@ -184,6 +209,31 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/deepomatic-1/jobs/devops-engineer_cambridge_2bna2io3",
       "url": "https://trueinterview.io/jobs/f3caeb45-0bb4-4a05-836c-f0315734c423",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
+      "id": "fbb69b5d-65d2-4e22-98c0-a2564aa3339a",
+      "company": "Dev.Pro",
+      "title": "Software Engineer (Node.js) Career Opportunities at Dev.Pro - 01",
+      "locations": [
+        "Brazil"
+      ],
+      "cities": [],
+      "countries": [
+        "Brazil"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/dev-pro/jobs/software-engineer-node-js-career-opportunities-at-dev-pro-01",
+      "url": "https://trueinterview.io/jobs/fbb69b5d-65d2-4e22-98c0-a2564aa3339a",
       "postedAt": "2026-09-20T00:00:00.000Z",
       "updatedAt": "2026-09-20T00:00:00.000Z"
     },
