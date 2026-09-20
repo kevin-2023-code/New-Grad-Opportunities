@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**662 open roles.** 601 in the United States & Canada · 61 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**663 open roles.** 602 in the United States & Canada · 61 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Red Hat</strong></td>
+<td><a href="https://trueinterview.io/jobs/f57ac0ac-425f-4977-8500-9103623589de">Data Scientist</a></td>
+<td>Raleigh, United States of America</td>
+<td align="center"><a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Data-Scientist_R-059044">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/4bda3bec-9ce2-4943-a8ba-98da124ec7cf">CPU Verification Engineer</a></td>

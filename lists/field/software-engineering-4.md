@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,091 open roles.** 1,474 in the United States & Canada · 617 elsewhere in the world.
+**2,093 open roles.** 1,475 in the United States & Canada · 618 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>E-Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f4c9246-49b0-4d4c-ab30-4492c091047b">Mission Systems Engineer</a></td>
+<td>Saratoga, CA<br/>Arlington, TX</td>
+<td align="center"><a href="https://jobs.lever.co/espace/2c6f6a13-0133-4d6d-ae35-c6d2a848d618/apply">Apply</a></td>
+<td align="center">13 Aug 2026</td>
+</tr>
 <tr>
 <td><strong>Robinhood</strong></td>
 <td><a href="https://trueinterview.io/jobs/8d263187-81db-4239-8877-94a606ff5fcd">Software Engineer, Proactive Capabilities</a></td>
@@ -1960,6 +1967,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">20 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Dev.Pro</strong></td>
+<td><a href="https://trueinterview.io/jobs/fbb69b5d-65d2-4e22-98c0-a2564aa3339a">Software Engineer (Node.js) Career Opportunities at Dev.Pro - 01</a></td>
+<td>Brazil</td>
+<td align="center"><a href="https://himalayas.app/companies/dev-pro/jobs/software-engineer-node-js-career-opportunities-at-dev-pro-01">Apply</a></td>
+<td align="center">20 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Pavago</strong></td>
 <td><a href="https://trueinterview.io/jobs/3bdedb14-ccfb-487e-918a-237be8ebb843">Mobile App Developer - (iOS/Android)</a></td>
 <td>Mexico</td>
@@ -2811,20 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8b7e4c46-dc61-478c-8ecd-f7e6a956c8f9">Software Engineer (Product)</a></td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/avoca/ec05c135-ab26-437a-8fe9-f7a5c4da08e5/application">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Pvm, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/562872cd-ef96-4676-b5ac-78953311177e">Forward Deployed Engineer</a></td>
-<td>Grafenwohr, Germany<br/>Germany</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pvminc/jobs/5238781007">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Beanstock</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba553aee-ebbd-4ae9-9d95-538e26010976">Software Engineer (Laravel)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/beanstock/jobs/software-engineer-laravel_paris">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 </tbody>

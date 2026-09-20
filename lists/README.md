@@ -6,9 +6,9 @@ Every cut of the New Grad Opportunities list that has a page of its own. Each on
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-09-20 19:32 UTC_
+_Last updated: 2026-09-20 19:42 UTC_
 
-> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 1,012 of the 1,387 employers on this list (83% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
+> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 1,012 of the 1,388 employers on this list (83% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
@@ -32,7 +32,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 | Filter | Open roles |
 | :-- | --: |
-| [💻 Software Engineering](field/software-engineering.md) | 2,091 |
+| [💻 Software Engineering](field/software-engineering.md) | 2,093 |
 | [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 664 |
 | [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 320 |
 | [📱 Product & Design](field/product-and-design.md) | 167 |
@@ -47,8 +47,8 @@ Who the employer is: the size cut you were after, or the sector.
 
 | Filter | Open roles | What it selects |
 | :-- | --: | :-- |
-| [🏛️ Big Tech](company/big-tech.md) | 662 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
-| [🔬 Semiconductors & chips](company/semiconductors.md) | 378 | Every employer the company registry files under Semiconductors & chips, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🏛️ Big Tech](company/big-tech.md) | 663 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
+| [🔬 Semiconductors & chips](company/semiconductors.md) | 379 | Every employer the company registry files under Semiconductors & chips, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🏗️ Large tech (1,000–9,999)](company/large-tech.md) | 368 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 1,000 and 9,999 people. An employer the registry does not cover is in no size cut at all. |
 | [🚀 Aerospace & defence](company/aerospace-defense.md) | 314 | Every employer the company registry files under Aerospace & defence, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🧠 AI labs & AI infrastructure](company/ai.md) | 297 | Every employer the company registry files under AI labs & AI infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
@@ -82,7 +82,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 | Filter | Open roles |
 | :-- | --: |
-| [Software Engineer](role/software-engineer.md) | 641 |
+| [Software Engineer](role/software-engineer.md) | 643 |
 | [AI Engineer](role/ai-engineer.md) | 243 |
 | [Data Engineer](role/data-engineer.md) | 196 |
 | [Full-Stack Engineer](role/full-stack-engineer.md) | 100 |
@@ -158,7 +158,7 @@ The two cuts that are about the posting rather than the employer.
 
 | Filter | Open roles | What it selects |
 | :-- | --: | :-- |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 847 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 849 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 | [🌐 Remote](remote.md) | 346 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
 
 ---

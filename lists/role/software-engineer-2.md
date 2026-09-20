@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**641 open roles.** 404 in the United States & Canada · 237 elsewhere in the world.
+**643 open roles.** 405 in the United States & Canada · 238 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/251d188f-03bc-47ed-9eb1-2a7d7c517f80">Software Engineer, Telemetry (Starlink)</a></td>
+<td>Hawthorne, CA<br/>Redmond, WA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8631930002?gh_jid=8631930002">Apply</a></td>
+<td align="center">29 Jul 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8aca2983-97a5-4688-b517-abe526969d18">Software Engineer, Data (Starlink)</a></td>
 <td>Hawthorne, CA<br/>Redmond, WA, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8631217002?gh_jid=8631217002">Apply</a></td>
@@ -60,6 +67,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c0e042cc-e69c-4f90-8967-ca04ea51183c">Developer Advocate - Service Management EMEA</a></td>
 <td>Anywhere in the World</td>
 <td align="center"><a href="https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management-emea">Apply</a></td>
+<td align="center">20 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Dev.Pro</strong></td>
+<td><a href="https://trueinterview.io/jobs/fbb69b5d-65d2-4e22-98c0-a2564aa3339a">Software Engineer (Node.js) Career Opportunities at Dev.Pro - 01</a></td>
+<td>Brazil</td>
+<td align="center"><a href="https://himalayas.app/companies/dev-pro/jobs/software-engineer-node-js-career-opportunities-at-dev-pro-01">Apply</a></td>
 <td align="center">20 Sep 2026</td>
 </tr>
 <tr>

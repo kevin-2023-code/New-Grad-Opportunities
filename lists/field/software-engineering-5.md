@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,091 open roles.** 1,474 in the United States & Canada · 617 elsewhere in the world.
+**2,093 open roles.** 1,475 in the United States & Canada · 618 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Pvm, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/562872cd-ef96-4676-b5ac-78953311177e">Forward Deployed Engineer</a></td>
+<td>Grafenwohr, Germany<br/>Germany</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/pvminc/jobs/5238781007">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Beanstock</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba553aee-ebbd-4ae9-9d95-538e26010976">Software Engineer (Laravel)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/beanstock/jobs/software-engineer-laravel_paris">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Carrefour</strong></td>
 <td><a href="https://trueinterview.io/jobs/61fa78b8-1e6e-430e-a496-51c260df2846">Data Platform Engineer GCP (F/H)</a></td>
@@ -2802,20 +2816,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/prefect/2ea26851-744d-4693-bd79-43d25d0d7d96/application">Apply</a></td>
 <td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/991692fb-58e7-4aa0-803c-7c649398e9a4">Field Application Engineer - Temporary Part Time - London, UK</a></td>
-<td>Manchester</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/b005b49c-7d99-4622-8166-0304a3ba470e/apply">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/244fa1d5-a042-4295-bb06-5961727483dd">Field Application Engineer - Temporary Part Time - Manchester, UK</a></td>
-<td>Manchester</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/4bff79b4-4bc6-461f-876e-7f4917ba8716/apply">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,091 open roles.** 1,474 in the United States & Canada · 617 elsewhere in the world.
+**2,093 open roles.** 1,475 in the United States & Canada · 618 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Coherent Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/2192b189-b881-4e04-af4e-409a0a3f9f74">Equipment Engineer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014729">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/dae24bef-c069-4617-a170-4cc8057f77a5">R&amp;D Machining Engineer</a></td>
 <td>Newark, DE, United States</td>
 <td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014516">Apply</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/819619cf-e25e-491e-9189-71f8bdc230bb">Aviation Development Engineer, Networking (Starlink)</a></td>
 <td>Woodinville, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8731929002?gh_jid=8731929002">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/186a9489-6c12-41b7-9cb4-09da89a37d4c">Full Stack Engineer, Flight Software</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8769729002?gh_jid=8769729002">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 </tbody>

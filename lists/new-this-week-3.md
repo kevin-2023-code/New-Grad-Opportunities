@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**847 open roles.** 552 in the United States & Canada · 295 elsewhere in the world. Everything the employers put up this week.
+**849 open roles.** 553 in the United States & Canada · 296 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Disher</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea70ca2e-5536-4b55-bd00-efe1e6616a45">Global Solution Design Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.lever.co/disher/ceca1b7e-bec6-4374-9c0e-634fb5bd3b35/apply">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ashby</strong></td>
+<td><a href="https://trueinterview.io/jobs/95c07bf3-9ed7-4384-a288-e47ed8750789">Product Support Engineer - EMEA</a></td>
+<td>United Kingdom<br/>Belgium<br/>Italy</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/ashby/2d03f0fe-2f3c-4c8e-9b89-7c6a35f9e7a4/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Rain</strong></td>
 <td><a href="https://trueinterview.io/jobs/26de1b56-27ae-4040-93d0-05df953e0f83">Site Reliability Engineer</a> 🌐</td>
