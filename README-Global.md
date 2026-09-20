@@ -12,13 +12,13 @@ from the list on the next run instead of wasting your afternoon.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-20 00:57 UTC_
+_Last updated: 2026-09-20 06:02 UTC_
 
-### Browse 1,054 new-grad roles by category
+### Browse 1,055 new-grad roles by category
 
 💻 **[Software Engineering](#-software-engineering)** (615)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (327)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (328)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (21)
 
@@ -4377,6 +4377,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Graphcore</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a8fb0a2-4ac0-4c62-864c-374f000f3504">Data Engineer</a> 🆕</td>
+<td>United Kingdom</td>
+<td align="center"><a href="https://himalayas.app/companies/graphcore/jobs/data-engineer">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>ILLUIN Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/4b1a361f-ac7e-42ed-b841-c6540d867dcf">Applied AI Engineer (F/H)</a> 🆕</td>

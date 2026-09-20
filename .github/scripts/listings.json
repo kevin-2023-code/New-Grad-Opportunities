@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-20T00:57:17.424Z",
-  "count": 3390,
+  "fetchedAt": "2026-09-20T06:02:16.331Z",
+  "count": 3387,
   "listings": [
     {
       "id": "c3ec7966-e5a2-47bd-b0e8-5763269fe081",
@@ -33,6 +33,32 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/beyond-finance/jobs/devops-engineer_chicago_rw45qwta",
       "url": "https://trueinterview.io/jobs/c3ec7966-e5a2-47bd-b0e8-5763269fe081",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
+      "id": "5d185bb5-5a35-4698-9fd8-d0af54a02978",
+      "company": "Canonical",
+      "title": "Software Engineer - OpenStack",
+      "locations": [
+        "United Kingdom, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States",
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/canonical/jobs/software-engineer-openstack",
+      "url": "https://trueinterview.io/jobs/5d185bb5-5a35-4698-9fd8-d0af54a02978",
       "postedAt": "2026-09-20T00:00:00.000Z",
       "updatedAt": "2026-09-20T00:00:00.000Z"
     },
@@ -85,6 +111,31 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/fieldguide/jobs/software-engineer-internal-audit-all-levels_us_3ncm4ed5",
       "url": "https://trueinterview.io/jobs/480e99e2-4cd0-40cd-aadc-1f7ff124c7c9",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
+      "id": "1a8fb0a2-4ac0-4c62-864c-374f000f3504",
+      "company": "Graphcore",
+      "title": "Data Engineer",
+      "locations": [
+        "United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/graphcore/jobs/data-engineer",
+      "url": "https://trueinterview.io/jobs/1a8fb0a2-4ac0-4c62-864c-374f000f3504",
       "postedAt": "2026-09-20T00:00:00.000Z",
       "updatedAt": "2026-09-20T00:00:00.000Z"
     },
@@ -2938,7 +2989,8 @@
       "title": "ASIC Design Verification Eng II Full Time - United States",
       "locations": [
         "San Jose, California, US",
-        "RTP, North Carolina, US"
+        "RTP, North Carolina, US",
+        "San Jose, California, US, United States of America"
       ],
       "cities": [
         "San Jose, CA"
@@ -5667,31 +5719,6 @@
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
     {
-      "id": "f0567bf7-e04f-49a5-a66b-cefeb9921f21",
-      "company": "Applied Materials",
-      "title": "EHS Safety Engineer New College Grad (Bachelors - Santa Clara, CA)",
-      "locations": [
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318276222",
-      "url": "https://trueinterview.io/jobs/f0567bf7-e04f-49a5-a66b-cefeb9921f21",
-      "postedAt": "2026-09-17T00:00:00.000Z",
-      "updatedAt": "2026-09-17T00:00:00.000Z"
-    },
-    {
       "id": "3cb9d7a3-8261-4838-98f9-c5ef7c0f916b",
       "company": "Array Labs",
       "title": "Software Engineer (Satellite Modeling and Tasking)",
@@ -6568,32 +6595,6 @@
       "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Quality-Engineer_2638595",
       "url": "https://trueinterview.io/jobs/1bbae287-1f4e-4c47-81d5-6a09bff522b5",
       "postedAt": "2026-09-16T22:33:11.000Z",
-      "updatedAt": "2026-09-17T00:00:00.000Z"
-    },
-    {
-      "id": "d8a5bc18-f01a-4557-a902-5ef3091115e4",
-      "company": "KLA",
-      "title": "Technical Support Engineer|Semiconductor Equipment",
-      "locations": [
-        "Phoenix, AZ",
-        "Chandler, AZ"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Technical-Support-Engineer-Semiconductor-Equipment_2640589",
-      "url": "https://trueinterview.io/jobs/d8a5bc18-f01a-4557-a902-5ef3091115e4",
-      "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
     {
@@ -7915,7 +7916,8 @@
       "company": "Samsung",
       "title": "Electrical Engineer",
       "locations": [
-        "12100 Samsung Blvd, Austin, TX, USA"
+        "12100 Samsung Blvd, Austin, TX, USA",
+        "12100 Samsung Blvd, Austin, TX, USA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -7967,7 +7969,8 @@
       "company": "Samsung",
       "title": "Commissioning Engineer",
       "locations": [
-        "12100 Samsung Blvd, Austin, TX, USA"
+        "12100 Samsung Blvd, Austin, TX, USA",
+        "12100 Samsung Blvd, Austin, TX, USA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8071,7 +8074,9 @@
       "title": "Etch Process Engineer - Days",
       "locations": [
         "12100 Samsung Blvd, Austin, TX, USA",
-        "1530 FM 973 Taylor, TX, USA"
+        "1530 FM 973 Taylor, TX, USA",
+        "12100 Samsung Blvd, Austin, TX, USA, United States of America",
+        "1530 FM 973 Taylor, TX, USA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8097,7 +8102,9 @@
       "title": "Etch Process Engineer - Nights",
       "locations": [
         "12100 Samsung Blvd, Austin, TX, USA",
-        "1530 FM 973 Taylor, TX, USA"
+        "1530 FM 973 Taylor, TX, USA",
+        "12100 Samsung Blvd, Austin, TX, USA, United States of America",
+        "1530 FM 973 Taylor, TX, USA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8122,7 +8129,8 @@
       "company": "Samsung",
       "title": "Metals Equipment Engineer",
       "locations": [
-        "1530 FM 973 Taylor, TX, USA"
+        "1530 FM 973 Taylor, TX, USA",
+        "1530 FM 973 Taylor, TX, USA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8173,7 +8181,8 @@
       "company": "Samsung",
       "title": "Metrology Equipment Engineer",
       "locations": [
-        "12100 Samsung Blvd, Austin, TX, USA"
+        "12100 Samsung Blvd, Austin, TX, USA",
+        "12100 Samsung Blvd, Austin, TX, USA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8198,7 +8207,8 @@
       "company": "Samsung",
       "title": "Metrology Equipment Engineer - Day",
       "locations": [
-        "1530 FM 973 Taylor, TX, USA"
+        "1530 FM 973 Taylor, TX, USA",
+        "1530 FM 973 Taylor, TX, USA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8794,7 +8804,8 @@
       "locations": [
         "Milpitas, CA",
         "Hillsboro, OR",
-        "Hillsboro, OR, United States of America"
+        "Hillsboro, OR, United States of America",
+        "Milpitas, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8845,7 +8856,8 @@
       "company": "KLA",
       "title": "Customer Engagement Applications Engineer - SWIFT",
       "locations": [
-        "Hillsboro, OR"
+        "Hillsboro, OR",
+        "Hillsboro, OR, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8941,7 +8953,9 @@
         "Malta, NY, United States of America",
         "Austin, TX, United States of America",
         "Richardson, TX, United States of America",
-        "Chandler, AZ, United States of America"
+        "Chandler, AZ, United States of America",
+        "Denison, TX, United States of America",
+        "Hillsboro, OR, United States of America"
       ],
       "cities": [
         "Austin, TX"
@@ -9046,7 +9060,8 @@
       "company": "KLA",
       "title": "Engineering Change Order (ECO) Analyst (Enovia|PLM|ERP|MES|SAP)",
       "locations": [
-        "Milpitas, CA"
+        "Milpitas, CA",
+        "Milpitas, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9071,7 +9086,8 @@
       "company": "KLA",
       "title": "High Performance Compute (HPC) Software Engineer – HPC SW Systems",
       "locations": [
-        "Ann Arbor, MI"
+        "Ann Arbor, MI",
+        "Ann Arbor, MI, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9096,7 +9112,8 @@
       "company": "KLA",
       "title": "HPC Hardware Engineer",
       "locations": [
-        "Milpitas, CA"
+        "Milpitas, CA",
+        "Milpitas, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9257,7 +9274,8 @@
       "locations": [
         "Milpitas, CA",
         "Totowa, NJ",
-        "Totowa, NJ, United States of America"
+        "Totowa, NJ, United States of America",
+        "Milpitas, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9282,7 +9300,8 @@
       "company": "KLA",
       "title": "Optics Research Scientist",
       "locations": [
-        "Milpitas, CA"
+        "Milpitas, CA",
+        "Milpitas, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9662,7 +9681,9 @@
         "Westwood, MA",
         "Hillsboro, OR",
         "Milpitas, CA",
-        "Milpitas, CA, United States of America"
+        "Milpitas, CA, United States of America",
+        "Westwood, MA, United States of America",
+        "Hillsboro, OR, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -12842,7 +12863,9 @@
         "RTP, North Carolina, US",
         "Toronto, Ontario, Canada",
         "Austin, Texas, US",
-        "Boston, Massachusetts, US"
+        "Boston, Massachusetts, US",
+        "Atlanta, Georgia, US, United States of America",
+        "RTP, North Carolina, US, United States of America"
       ],
       "cities": [
         "Atlanta, GA",
@@ -13319,7 +13342,8 @@
       "locations": [
         "Chandler, AZ",
         "Boise, ID",
-        "Hillsboro, OR"
+        "Hillsboro, OR",
+        "Chandler, AZ, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -24897,7 +24921,8 @@
         "US, California, Folsom",
         "US, Oregon, Hillsboro",
         "US, California, Santa Clara",
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, California, Folsom, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -29771,33 +29796,6 @@
       "updatedAt": "2026-09-10T00:00:00.000Z"
     },
     {
-      "id": "181ae179-6e7e-430a-98d8-fad39669f7ac",
-      "company": "KLA",
-      "title": "RF & Plasma Technologist",
-      "locations": [
-        "Newport, United Kingdom",
-        "USA-CA-Milpitas-Bldg8-TrainingRoom"
-      ],
-      "cities": [],
-      "countries": [
-        "United Kingdom",
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Newport-United-Kingdom/RF---Plasma-Technologist_2640129",
-      "url": "https://trueinterview.io/jobs/181ae179-6e7e-430a-98d8-fad39669f7ac",
-      "postedAt": "2026-09-10T00:00:00.000Z",
-      "updatedAt": "2026-09-10T00:00:00.000Z"
-    },
-    {
       "id": "1d8db94c-39ea-4358-b1bd-c254c214910e",
       "company": "Lam Research",
       "title": "Technical Game Designer 1",
@@ -33152,7 +33150,8 @@
       "title": "Semiconductor Packaging Research Engineer",
       "locations": [
         "US, Arizona, Phoenix",
-        "US, Oregon, Hillsboro"
+        "US, Oregon, Hillsboro",
+        "US, Arizona, Phoenix, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -53535,7 +53534,8 @@
         "US, Oregon, Hillsboro",
         "US, California, Santa Clara",
         "US, Texas, Austin",
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -53590,7 +53590,8 @@
         "US, California, Folsom",
         "US, California, Santa Clara",
         "US, Texas, Austin",
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -63315,7 +63316,8 @@
       "title": "Product Install Engineer - SWIFT - Extensive 90% + Travel Required",
       "locations": [
         "Chandler, AZ",
-        "Hillsboro, OR"
+        "Hillsboro, OR",
+        "Chandler, AZ, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -66674,7 +66676,8 @@
         "Denison, TX",
         "Hillsboro, OR",
         "Boise, ID",
-        "Totowa, NJ"
+        "Totowa, NJ",
+        "Malta, NY, United States of America"
       ],
       "cities": [
         "Austin, TX"
@@ -71417,7 +71420,8 @@
       "locations": [
         "US, Oregon, Hillsboro",
         "US, California, Santa Clara",
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -74611,7 +74615,8 @@
       "title": "RF/Microwave Amplifier MMIC Design Engineer",
       "locations": [
         "US, MA, Chelmsford, Elizabeth",
-        "US, NC, Durham"
+        "US, NC, Durham",
+        "US, MA, Chelmsford, Elizabeth, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -78021,31 +78026,6 @@
       "updatedAt": "2026-08-12T01:23:40.000Z"
     },
     {
-      "id": "b502d81e-b1f6-4dd5-b742-f5135f0eb136",
-      "company": "Micron Technology",
-      "title": "DRAM Device & Process Modeling Engineer",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/41159836",
-      "url": "https://trueinterview.io/jobs/b502d81e-b1f6-4dd5-b742-f5135f0eb136",
-      "postedAt": "2026-08-12T00:00:00.000Z",
-      "updatedAt": "2026-08-12T00:00:00.000Z"
-    },
-    {
       "id": "02bffdeb-7092-4095-9578-8482ec0d8e48",
       "company": "NVIDIA",
       "title": "Interposer Design Engineer",
@@ -81275,7 +81255,8 @@
       "locations": [
         "Phoenix, AZ",
         "Taylor, TX",
-        "Hillsboro, OR"
+        "Hillsboro, OR",
+        "Phoenix, AZ, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -86551,7 +86532,9 @@
       "locations": [
         "US, California, Santa Clara",
         "US, Arizona, Phoenix",
-        "US, Oregon, Hillsboro"
+        "US, Oregon, Hillsboro",
+        "US, California, Santa Clara, United States of America",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -88697,7 +88680,8 @@
       "locations": [
         "Ireland, Limerick",
         "Spain, Valencia, Cortes Valencianas",
-        "United Kingdom, Edinburgh, SC, Freer"
+        "United Kingdom, Edinburgh, SC, Freer",
+        "Ireland, Limerick, United Kingdom"
       ],
       "cities": [],
       "countries": [
@@ -89180,31 +89164,6 @@
       "url": "https://trueinterview.io/jobs/f2eb2e78-ce35-4506-9b9e-e68f8a846aa6",
       "postedAt": "2026-07-22T15:12:35.000Z",
       "updatedAt": "2026-07-22T15:12:35.000Z"
-    },
-    {
-      "id": "84f80de4-ab58-42fa-860c-24df791bf84c",
-      "company": "SpaceX",
-      "title": "Government Project Engineer",
-      "locations": [
-        "Hawthorne, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8643863002?gh_jid=8643863002",
-      "url": "https://trueinterview.io/jobs/84f80de4-ab58-42fa-860c-24df791bf84c",
-      "postedAt": "2026-07-22T04:36:23.000Z",
-      "updatedAt": "2026-07-22T04:36:23.000Z"
     }
   ]
 }
