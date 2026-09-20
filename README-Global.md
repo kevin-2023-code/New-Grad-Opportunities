@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-20 19:28 UTC_
+_Last updated: 2026-09-20 19:32 UTC_
 
 **1,059 open new-grad roles** from **625 employers** · **295 posted in the last 7 days** · refreshed hourly
 
@@ -42,7 +42,7 @@ _Last updated: 2026-09-20 19:28 UTC_
 
 **Mistral AI** 20 &nbsp;·&nbsp; **PwC** 10 &nbsp;·&nbsp; **Amazon** 8 &nbsp;·&nbsp; **Bjak** 7 &nbsp;·&nbsp; **Wavestone** 7 &nbsp;·&nbsp; **Adobe** 4 &nbsp;·&nbsp; **Mastercard** 4 &nbsp;·&nbsp; **Sopra Steria** 4 &nbsp;·&nbsp; **Canonical** 3 &nbsp;·&nbsp; **Jimini AI** 3 &nbsp;·&nbsp; **Pavago** 3 &nbsp;·&nbsp; **360Learning** 2
 
-<sub>Employers with more than one role posted in the last 7 days, in this list. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 39 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -54,7 +54,7 @@ _Counts are new-grad roles in the rest of the world. Each page carries every reg
 
 🧑‍💻 **By role** — [Software Engineer (237)](lists/role/software-engineer.md) · [Data Engineer (132)](lists/role/data-engineer.md) · [AI Engineer (119)](lists/role/ai-engineer.md) · [Full-Stack Engineer (49)](lists/role/full-stack-engineer.md) · [Backend Engineer (34)](lists/role/backend-engineer.md) · [DevOps Engineer (33)](lists/role/devops-engineer.md) · [Security Engineer (32)](lists/role/security-engineer.md) · [Machine Learning Engineer (31)](lists/role/machine-learning-engineer.md) · [Data Scientist (27)](lists/role/data-scientist.md) · [Platform Engineer (24)](lists/role/platform-engineer.md) · [+11 more →](lists/README.md)
 
-📍 **By location** — [🇫🇷 Paris & France (178)](lists/place/france.md) · [🇬🇧 London & the UK (98)](lists/place/uk.md) · [🇮🇳 Bengaluru & India (46)](lists/place/india.md) · [🌎 México, Brazil & Latin America (42)](lists/place/latam.md) · [🇩🇪 Berlin, Munich & Germany (27)](lists/place/germany.md) · [🇪🇸 Madrid, Barcelona & Iberia (22)](lists/place/iberia.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (18)](lists/place/anz.md) · [🇸🇬 Singapore (11)](lists/place/singapore.md) · [🇳🇱 Amsterdam & the Benelux (10)](lists/place/benelux.md) · [🏰 Warsaw, Kraków & Central Europe (9)](lists/place/poland-cee.md) · [+3 more →](lists/README.md)
+📍 **By location** — [🇫🇷 Paris & France (178)](lists/place/france.md) · [🇬🇧 London & the UK (94)](lists/place/uk.md) · [🌎 México, Brazil & Latin America (53)](lists/place/latam.md) · [🇮🇳 Bengaluru & India (35)](lists/place/india.md) · [🇩🇪 Berlin, Munich & Germany (22)](lists/place/germany.md) · [🇪🇸 Madrid, Barcelona & Iberia (20)](lists/place/iberia.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (17)](lists/place/anz.md) · [🏰 Warsaw, Kraków & Central Europe (16)](lists/place/poland-cee.md) · [🌍 Dubai, Cairo, Lagos & Africa (11)](lists/place/mena-africa.md) · [🇸🇬 Singapore (11)](lists/place/singapore.md) · [+5 more →](lists/README.md)
 
 ⚡ **Quick filters** — [🆕 Posted in the last 7 days (295)](lists/new-this-week.md) · [🌐 Remote (120)](lists/remote.md)
 
@@ -906,7 +906,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6d05d243-8a5c-43b3-ada0-a9f9d26471c2">AI Enablement Engineer (India-based)</a></td>
 <td>Hyderabad</td>
 <td align="center"><a href="https://www.frazierdeeter.com/careers/openings/apply/7986980003?gh_jid=7986980003">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Invisible Agency</strong></td>
@@ -1373,10 +1373,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Gorjana</strong></td>
-<td><a href="https://trueinterview.io/jobs/9eb53f78-071c-474d-a558-66eb8d629973">Graphic Designer</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/9eb53f78-071c-474d-a558-66eb8d629973">Graphic Designer</a></td>
 <td>Hybrid<br/>HQ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/gorjana/jobs/8815247002">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Blueprint Technologies</strong></td>

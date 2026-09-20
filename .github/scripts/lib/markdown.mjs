@@ -209,18 +209,25 @@ function renderHiringNow(jobs, now, days, limit = 12) {
     if (!name) continue;
     counts.set(name, (counts.get(name) ?? 0) + 1);
   }
-  const ranked = [...counts.entries()]
-    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+  const qualifying = [...counts.entries()]
     .filter(([, n]) => n > 1)
-    .slice(0, limit);
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+  const ranked = qualifying.slice(0, limit);
   if (ranked.length < 3) return '';
+  // The caption names the SIZE of the set as well as the rule that made it.
+  // Stating only the rule — "employers with more than one role this week" —
+  // reads as the whole list, and on this snapshot it was 12 of 52.
+  const scope =
+    qualifying.length > ranked.length
+      ? `The ${count(ranked.length)} employers with the most roles posted in the last ${days} days, ` +
+        `of ${count(qualifying.length)} with more than one.`
+      : `Every employer with more than one role posted in the last ${days} days, in this list.`;
   return [
     `### 🔥 Posting the most this week`,
     '',
     ranked.map(([name, n]) => `**${escapeMarkdown(name)}** ${n}`).join(' &nbsp;·&nbsp; '),
     '',
-    `<sub>Employers with more than one role posted in the last ${days} days, in this list. A count of ` +
-      'open roles, not a ranking of employers.</sub>',
+    `<sub>${scope} A count of open roles, not a ranking of employers.</sub>`,
     '',
   ].join('\n');
 }
@@ -461,7 +468,7 @@ export function renderTrackPages(track, { now, sections, rowsPerPage = ROWS_PER_
  * engine with no idea what this repository is, so it opens with what the
  * filters ARE before it opens with a table of them.
  */
-export function renderHub({ tracks, now, listName, noun, coverageNote, homeLabel }) {
+export function renderHub({ tracks, now, listName, noun, coverageNote, homeLabel, homePath = 'README.md', globalPath = null }) {
   const groups = groupTracks(tracks);
   const body = [
     GENERATED_NOTICE,
@@ -472,7 +479,7 @@ export function renderHub({ tracks, now, listName, noun, coverageNote, homeLabel
       'Each one says exactly what it selects — these are filters over facts already on the ' +
       'row, never a hand-picked list of roles somebody liked.',
     '',
-    '[← Back to the list](../README.md)',
+    `[← The list](../${homePath})` + (globalPath ? ` · [← The worldwide list](../${globalPath})` : ''),
     '',
     updatedLine(now),
     '',
@@ -516,9 +523,11 @@ export function renderHub({ tracks, now, listName, noun, coverageNote, homeLabel
     '',
     '## How a filter is built',
     '',
-    `Every row on every page above is the same row you would find in [the main list](../README.md) — ` +
-      `these pages are cuts, not a second catalog. A filter page carries **both regions**: roles in ` +
-      `${escapeMarkdown(homeLabel)} first, then everywhere else, under their own headings.`,
+    `Every row on every page above is the same row you would find in the main lists — these pages are ` +
+      `cuts, not a second catalog. A filter page carries **both regions**: roles in ` +
+      `${escapeMarkdown(homeLabel)} first (from [${homePath}](../${homePath}))` +
+      (globalPath ? `, then everywhere else (from [${globalPath}](../${globalPath}))` : ', then everywhere else') +
+      `, under their own headings.`,
     '',
     `A filter with fewer than 5 open ${noun} does not get a page at all. It would appear for an hour ` +
       'and vanish on the next run, and every link anyone had shared with it would break.',

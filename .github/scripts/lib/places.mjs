@@ -15,10 +15,17 @@
 //
 // Two guards, and a row has to clear both:
 //
-//   1. **The country.** Every metro names the countries it can possibly be in,
-//      checked against the row's own resolved `countries`. That is what keeps
-//      Cambridge, MA out of the London list without either list having to know
-//      the other exists.
+//   1. **The country, resolved on the SAME STRING as the city.** Every metro
+//      names the countries it can be in; a location string says which country
+//      it is in by naming one, or by naming a state or province. That is what
+//      keeps Cambridge, MA out of the London list without either list having to
+//      know the other exists. Checking the country against the ROW instead —
+//      which is the union over every location it carries — let one location
+//      supply the country while a different one supplied the city, and
+//      published `Paris, TX` on the Paris & France page. A string that names no
+//      country of its own is resolved from the row only when the row names
+//      exactly one; with two, we cannot tell which this is, and say so by
+//      placing it nowhere.
 //   2. **The state, where the city name is ambiguous.** `cities` are
 //      `[city, state]` pairs and both have to appear in the same location
 //      string. `open` is the per-metro list of names distinctive enough to
@@ -50,6 +57,54 @@ const STATE_ALIASES = new Map(Object.entries({
 }));
 
 const STATE_CODES = new Set([...STATE_ALIASES.values()]);
+
+/** The provinces, so a state code can say which COUNTRY a string is in. */
+const PROVINCE_CODES = new Set(['ON', 'QC', 'BC', 'AB', 'NS', 'MB', 'SK']);
+
+/**
+ * Country names as an ATS writes them, mapped to the catalog's own spelling.
+ *
+ * Deliberately no two-letter codes: `CA` is California far more often than it
+ * is Canada, and `IN` is Indiana. A state or province code says which country
+ * a string is in on its own, which is what covers the US and Canadian rows
+ * that name no country at all.
+ */
+const COUNTRY_TOKENS = new Map(Object.entries({
+  'usa': 'United States', 'u.s.': 'United States', 'u.s.a.': 'United States',
+  'united states': 'United States', 'united states of america': 'United States',
+  'canada': 'Canada',
+  'uk': 'United Kingdom', 'u.k.': 'United Kingdom', 'united kingdom': 'United Kingdom',
+  'england': 'United Kingdom', 'scotland': 'United Kingdom', 'wales': 'United Kingdom',
+  'northern ireland': 'United Kingdom', 'great britain': 'United Kingdom',
+  'france': 'France', 'germany': 'Germany', 'deutschland': 'Germany',
+  'ireland': 'Ireland', 'netherlands': 'Netherlands', 'the netherlands': 'Netherlands',
+  'belgium': 'Belgium', 'luxembourg': 'Luxembourg', 'switzerland': 'Switzerland',
+  'spain': 'Spain', 'españa': 'Spain', 'portugal': 'Portugal',
+  'sweden': 'Sweden', 'denmark': 'Denmark', 'norway': 'Norway', 'finland': 'Finland',
+  'iceland': 'Iceland', 'poland': 'Poland', 'czechia': 'Czechia', 'czech republic': 'Czechia',
+  'romania': 'Romania', 'hungary': 'Hungary', 'bulgaria': 'Bulgaria',
+  'estonia': 'Estonia', 'lithuania': 'Lithuania', 'latvia': 'Latvia',
+  'india': 'India', 'singapore': 'Singapore', 'japan': 'Japan',
+  'china': 'China', 'taiwan': 'Taiwan', 'hong kong': 'Hong Kong',
+  'south korea': 'South Korea', 'korea': 'South Korea',
+  'australia': 'Australia', 'new zealand': 'New Zealand', 'israel': 'Israel',
+  'mexico': 'Mexico', 'méxico': 'Mexico', 'brazil': 'Brazil', 'brasil': 'Brazil',
+  'argentina': 'Argentina', 'colombia': 'Colombia', 'chile': 'Chile', 'peru': 'Peru',
+  'uruguay': 'Uruguay', 'costa rica': 'Costa Rica',
+  'united arab emirates': 'United Arab Emirates', 'uae': 'United Arab Emirates',
+  'saudi arabia': 'Saudi Arabia', 'egypt': 'Egypt', 'nigeria': 'Nigeria',
+  'kenya': 'Kenya', 'south africa': 'South Africa', 'morocco': 'Morocco',
+  'ghana': 'Ghana', 'türkiye': 'Türkiye', 'turkey': 'Turkey',
+}));
+
+/**
+ * Parts that may follow a city name and still mean that city.
+ *
+ * Without this list the prefix rule accepts any string that merely STARTS with
+ * a city name, and a Californian shelter called the Bristol Hotel was
+ * published on the London & the UK page.
+ */
+const SITE_WORDS = new Set(['office', 'offices', 'hq', 'headquarters', 'campus', 'site', 'area', 'metro', 'region']);
 
 const US = ['United States'];
 const CA = ['Canada'];
@@ -285,36 +340,68 @@ function tidy(value) {
  */
 export function readLocation(value) {
   const text = tidy(value).toLowerCase();
-  if (!text) return { parts: [], states: new Set() };
+  if (!text) return { parts: [], states: [], countries: new Set() };
   const parts = text.split(/[,/]|\s+[–—-]\s+/).map((part) => part.trim()).filter(Boolean);
-  const states = new Set();
+  const codes = new Set();
   const named = [];
-  for (const part of parts) {
+  const countries = new Set();
+  parts.forEach((part, index) => {
     const upper = part.toUpperCase();
-    if (upper.length === 2 && STATE_CODES.has(upper)) states.add(upper);
+    if (upper.length === 2 && STATE_CODES.has(upper)) codes.add(`${upper}:${index}`);
     const full = STATE_ALIASES.get(part);
-    if (full) named.push(full);
-  }
+    if (full) named.push({ code: full, index });
+    const country = COUNTRY_TOKENS.get(part);
+    if (country) countries.add(country);
+  });
   // `washington` is a state name AND a city name, and the city is in DC. Read
   // in order rather than skipped: the string that also names DC is the capital
   // (`Washington, DC`), and every other one is the state — which is what makes
   // `Renton, Washington, United States` resolve to WA. Skipping it outright
   // dropped every Puget Sound posting that spelled its state out.
+  const hasDc = [...codes].some((entry) => entry.startsWith('DC:'));
+  const states = [...codes].map((entry) => ({ code: entry.slice(0, 2), index: Number(entry.slice(3)) }));
   for (const state of named) {
-    if (state === 'WA' && states.has('DC')) continue;
-    states.add(state);
+    if (state.code === 'WA' && hasDc) continue;
+    states.push(state);
   }
-  return { parts, states };
+  // A state or a province says which country the string is in, which is how a
+  // row that names no country at all still resolves.
+  for (const state of states) {
+    countries.add(PROVINCE_CODES.has(state.code) ? 'Canada' : 'United States');
+  }
+  return { parts, states, countries };
 }
 
-/** True when one comma-part IS this city, or opens with it. */
-function hasPart(parts, city) {
-  return parts.some((part) => part === city || part.startsWith(`${city} `) || part.startsWith(`${city}(`));
+/** Whether one comma-part names this city. */
+function partIsCity(part, city) {
+  if (part === city) return true;
+  // `Austin (Ed Bluestein, Office)` and `Mountain View (US-MTV-EMF680)`.
+  if (part.startsWith(`${city} (`) || part.startsWith(`${city}(`)) return true;
+  // `San Francisco Office` — but NOT `Bristol Hotel Emergency Shelter office`,
+  // which is a building in California and was published under London & the UK.
+  return part.startsWith(`${city} `) && SITE_WORDS.has(part.slice(city.length + 1));
+}
+
+/** Every part index that names this city. */
+function cityIndexes(parts, city) {
+  const found = [];
+  parts.forEach((part, index) => {
+    if (partIsCity(part, city)) found.push(index);
+  });
+  return found;
 }
 
 function placedBy(metro, read) {
-  if ((metro.open ?? []).some((city) => hasPart(read.parts, city))) return true;
-  return (metro.cities ?? []).some(([city, state]) => hasPart(read.parts, city) && read.states.has(state));
+  if ((metro.open ?? []).some((city) => cityIndexes(read.parts, city).length > 0)) return true;
+  return (metro.cities ?? []).some(([city, state]) =>
+    cityIndexes(read.parts, city).some((index) =>
+      // The city and the state have to be DIFFERENT parts of the string. `New
+      // York` is both a city and a state name, so one token satisfied both
+      // halves of `['new york', 'NY']` and filed `Malta, New York` in the New
+      // York City metro.
+      read.states.some((entry) => entry.code === state && entry.index !== index),
+    ),
+  );
 }
 
 /**
@@ -329,15 +416,31 @@ function placedBy(metro, read) {
  * is a row we cannot place, not a row that is nowhere.
  */
 export function metrosOf(job) {
-  const countries = new Set((job.countries ?? []).filter(Boolean));
+  const rowCountries = new Set((job.countries ?? []).filter((country) => country && country !== 'Other'));
   const reads = [...(job.cities ?? []), ...(job.locations ?? [])]
     .map((value) => readLocation(value))
     .filter((read) => read.parts.length);
   if (!reads.length) return [];
+
+  /**
+   * Whether THIS string is in one of the metro's countries.
+   *
+   * Per string, not per row. The row's `countries` is the union over every
+   * location it carries, so a row open in Paris (France) and Paris, TX had one
+   * location supplying the country and the other supplying the city — and
+   * `Paris, TX` was published on the Paris & France page. A string that names
+   * no country of its own can only be resolved when the ROW names exactly one;
+   * with two, the honest answer is that we cannot tell which this is.
+   */
+  const inCountry = (metro, read) => {
+    if (read.countries.size) return metro.countries.some((country) => read.countries.has(country));
+    if (rowCountries.size === 1) return metro.countries.some((country) => rowCountries.has(country));
+    return false;
+  };
+
   const hits = [];
   for (const metro of METROS) {
-    if (!metro.countries.some((country) => countries.has(country))) continue;
-    if (reads.some((read) => placedBy(metro, read))) hits.push(metro.id);
+    if (reads.some((read) => inCountry(metro, read) && placedBy(metro, read))) hits.push(metro.id);
   }
   return hits;
 }

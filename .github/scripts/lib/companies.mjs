@@ -141,8 +141,9 @@ export function companyLabel(company) {
  *
  * Derived from the LABEL rather than the raw string, so the alias table above
  * collapses two spellings onto one key for free. `&` becomes ` and ` before the
- * rest is stripped, which is why `Ci&t` and `Ci and T` do not become the same
- * key by accident and `H&M` does not become `h-m`.
+ * rest is stripped, so `Ci&t`, `CI&T` and `Ci and T` all collapse onto one key
+ * — which is the point, they are one employer — and `H&M` becomes `h-and-m`
+ * rather than the `h-m` a bare strip would produce.
  */
 export function companyKey(company) {
   return companyLabel(company)

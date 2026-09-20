@@ -112,8 +112,8 @@ Five things to know before changing the generator:
    is worse than a list an hour out of date — it tells a reader the jobs are gone.
 4. **Nothing is written until every byte budget passes.** GitHub stops rendering a Markdown file at
    512,000 bytes and prints a truncation notice instead of the rest — this list published a
-   554,638-byte README once, and its bottom third was simply not drawn. `render.mjs` renders
-   everything in memory, checks the budgets, and only then writes.
+   554,638-byte README once, and its bottom third was simply not drawn for anybody. `render.mjs`
+   renders everything in memory, checks the budgets, and only then writes.
 5. **A filter must say what it selects.** Every track carries a `note` that is printed on its page
    and in the hub table. A filter without one is an opinion with a table under it.
 

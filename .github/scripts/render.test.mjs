@@ -405,14 +405,39 @@ describe('the company registry', () => {
 describe('placing a posting', () => {
   const at = (locations, countries = ['United States']) => job({ cities: [], locations, countries });
 
+  const statesOf = (value) => new Set(readLocation(value).states.map((entry) => entry.code));
+
   it('reads a state out of every spelling an ATS exports', () => {
-    assert.ok(readLocation('US,CA,San Jose').states.has('CA'));
-    assert.ok(readLocation('Santa Clara, CA, US').states.has('CA'));
-    assert.ok(readLocation('Spring, Texas, United States of America').states.has('TX'));
-    assert.ok(readLocation('Washington, DC').states.has('DC'));
+    assert.ok(statesOf('US,CA,San Jose').has('CA'));
+    assert.ok(statesOf('Santa Clara, CA, US').has('CA'));
+    assert.ok(statesOf('Spring, Texas, United States of America').has('TX'));
+    assert.ok(statesOf('Washington, DC').has('DC'));
     // `Washington` alone is the city in DC far more often than the state, and
     // reading it as WA would put the capital in Puget Sound.
-    assert.ok(!readLocation('Washington, DC').states.has('WA'));
+    assert.ok(!statesOf('Washington, DC').has('WA'));
+  });
+
+  it('resolves the country on the string that named the city', () => {
+    // One location supplied the country and another the city, so a row open in
+    // Paris (France) and Paris, TX put the Texas one on the France page.
+    const bothParises = { countries: ['United States', 'France'], cities: [], locations: ['Paris, TX'] };
+    assert.deepEqual(metrosOf(bothParises), []);
+    assert.deepEqual(metrosOf({ countries: ['France'], cities: [], locations: ['Paris, France'] }), ['france']);
+    // A bare city on a row that names ONE country is still placeable.
+    assert.deepEqual(metrosOf({ countries: ['France'], cities: [], locations: ['Paris'] }), ['france']);
+  });
+
+  it('does not let a state name stand in for the city of the same name', () => {
+    assert.deepEqual(metrosOf(at(['Malta, New York'])), []);
+    assert.deepEqual(metrosOf(at(['New York, NY'])), ['new-york']);
+    assert.deepEqual(metrosOf(at(['New York, New York'])), ['new-york']);
+  });
+
+  it('refuses a building that merely starts with a city name', () => {
+    // A Californian shelter called the Bristol Hotel was published under
+    // London & the UK.
+    assert.deepEqual(metrosOf(at(['Bristol Hotel Emergency Shelter office'])), []);
+    assert.deepEqual(metrosOf(at(['San Francisco Office'])), ['bay-area']);
   });
 
   it('refuses the city name that is in two states', () => {

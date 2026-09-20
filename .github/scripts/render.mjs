@@ -211,11 +211,16 @@ async function main() {
       listName: config.listName,
       noun: config.noun,
       homeLabel: config.homeLabel,
+      homePath: config.files.home,
+      globalPath: config.files.global ?? null,
       coverageNote:
         `**What the company filters cover.** The sector and headcount of an employer are recorded in a ` +
         `hand-written registry, and it covers ${cover.companiesClassified.toLocaleString('en-US')} of the ` +
         `${cover.companies.toLocaleString('en-US')} employers on this list ` +
-        `(${Math.round((100 * cover.rowsClassified) / Math.max(1, cover.rows))}% of the roles). An employer it ` +
+        (cover.rows
+          ? `(${Math.round((100 * cover.rowsClassified) / cover.rows)}% of the roles). `
+          : '. ') +
+        `An employer it ` +
         `does not cover appears in the main list and in every field, role and location filter exactly as ` +
         `before — it is simply in no company-type filter, because guessing a sector from a company's name is ` +
         `how a reader ends up with the wrong list. ` +
@@ -229,19 +234,6 @@ async function main() {
     ['home', home],
     ['global', elsewhere],
   ]) {
-    // Counted off the "posted this week" FILTER rather than recomputed here.
-    // Two clocks in one file disagree at the boundary — a whole-days age and a
-    // milliseconds one differ by up to a day — and the two numbers land three
-    // lines apart on the same page.
-    const freshTrack = tracks.find((track) => track.id === 'new-this-week');
-    const inScope = new Set(jobs);
-    const fresh = freshTrack ? freshTrack.jobs.filter((job) => inScope.has(job)).length : 0;
-    const employers = new Set(jobs.map((job) => job.companyLabel).filter(Boolean)).size;
-    const headline =
-      `**${jobs.length.toLocaleString('en-US')} open ${config.noun}** from ` +
-      `**${employers.toLocaleString('en-US')} employers**` +
-      (fresh ? ` · **${fresh.toLocaleString('en-US')} posted in the last ${NEW_THIS_WEEK_DAYS} days**` : '') +
-      ` · refreshed hourly`;
     const path = join(ROOT, config.files[scope]);
     readmes.push(await renderReadme(path, (backToTop) =>
       renderListings({
@@ -255,7 +247,6 @@ async function main() {
         featuredDays: config.featuredDays,
         noun: config.noun,
         backToTop,
-        headline,
         freshDays: NEW_THIS_WEEK_DAYS,
         caps,
         tracks,

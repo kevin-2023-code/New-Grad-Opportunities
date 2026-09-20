@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**42 open roles.**
+**53 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sezzle</strong></td>
+<td><a href="https://trueinterview.io/jobs/1296de0d-4d36-4597-b0ad-1cfc929cf85c">Practicante en Product Management</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/7998737003">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Capco</strong></td>
 <td><a href="https://trueinterview.io/jobs/767d2128-d650-494b-8fd3-5496a8acc235">QA Engineer - COM INGLÊS - Remoto</a></td>
@@ -69,6 +76,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Blend360</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a3b5094-1559-45c3-a7da-e2b67efc8c06">AI Engineer</a></td>
+<td>Bogotá, Bogota, Colombia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Blend360/744000149078761-ai-engineer?oga=true">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Orion Innovation</strong></td>
 <td><a href="https://trueinterview.io/jobs/4a670045-ca54-457a-93b1-5e8abeee3171">Cloud Deployment Engineer - HÍBRIDO CDMX</a></td>
 <td>Mexico City</td>
@@ -81,6 +95,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Java-Software-Engineer_R-289283">Apply</a></td>
 <td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Alarm</strong></td>
+<td><a href="https://trueinterview.io/jobs/06525c99-c298-40d0-ae25-492b78645924">Technical Support Associate</a></td>
+<td>Bogotá, Bogotá, Colombia<br/>Bogota, Colombia</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/alarmcom/jobs/8786018002">Apply</a></td>
+<td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Monks</strong></td>
@@ -118,6 +139,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Kaizen Gaming</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e4855e9-4339-403c-a483-7db1910ffc17">Junior Pre Event Trader, Basketball</a></td>
+<td>Bogotá, Colombia<br/>Colombia</td>
+<td align="center"><a href="https://careers.kaizengaming.com/job-details/7981555003?gh_jid=7981555003">Apply</a></td>
+<td align="center">7 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Experian</strong></td>
+<td><a href="https://trueinterview.io/jobs/efc2fe2a-43f5-44cf-ae2a-fabedf43e921">Product owner</a></td>
+<td>Bogotá, , Colombia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000147975259-product-owner?oga=true">Apply</a></td>
+<td align="center">7 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Monks</strong></td>
 <td><a href="https://trueinterview.io/jobs/2179f06c-e9c5-447c-b043-fbef722c5305">Jr. Digital Designer</a></td>
 <td>Mexico City</td>
@@ -139,11 +174,32 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Spin Careers</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e36b5a7-588b-417b-b3e1-3599ede2b84b">IC3 - Infra Engineer - SRE</a></td>
+<td>Ciudad de México, México<br/>NETPAY S.A.P.I DE C.V</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/spin/jobs/4728319005">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/16244bc4-8e16-493b-9df7-daf02cedb380">Codex Deployment Engineer</a></td>
 <td>São Paulo</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/c8d3feee-2b6a-4ef7-b8c0-90bbd1381c1f/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Genius Sports</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee740f65-0c04-4073-9049-49a5926272b3">Full Time Tennis Trader</a></td>
+<td>Medellín, Antioquia, Colombia<br/>Medellin, Colombia</td>
+<td align="center"><a href="https://boards.greenhouse.io/geniussports/jobs/7983846003?gh_jid=7983846003">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/347545e2-54fc-446c-a217-079c1fb4349a">Streaming Technical Support Analyst</a></td>
+<td>Medellín, Antioquia, Colombia<br/>Medellin, Colombia</td>
+<td align="center"><a href="https://boards.greenhouse.io/geniussports/jobs/7983804003?gh_jid=7983804003">Apply</a></td>
+<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Bees</strong></td>
@@ -258,6 +314,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Thoughtworks</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa762f2c-d14a-4cf2-81bf-d39bf7f1470b">Infrastructure Engineer focused on Observability and GCP</a></td>
+<td>Santiago, Chile<br/>Chile, Chile</td>
+<td align="center"><a href="https://www.thoughtworks.com/careers/jobs/8131779?gh_jid=8131779">Apply</a></td>
+<td align="center">16 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/97b7ab0d-0de2-4c0c-adb5-7b2fcafcf11c">Applied AI Engineer, Digital Natives</a></td>
 <td>São Paulo</td>
@@ -293,10 +356,17 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Truelogic</strong></td>
-<td><a href="https://trueinterview.io/jobs/eb832ac0-fb3a-4088-b4a9-6a48806346bb">Data QA Engineer – Enterprise Data | DR</a></td>
-<td>Mexico City<br/>São Paulo</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/truelogic/486754ce-da04-4fa3-b712-bece86805de0/application">Apply</a></td>
+<td><strong>Cobre</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb0ea56b-0fe1-40ca-b42a-80e1b3b5abae">Trader Posición Propia</a></td>
+<td>Ciudad de México, México<br/>México</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/cobre/jobs/4363684009">Apply</a></td>
+<td align="center">11 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Monks</strong></td>
+<td><a href="https://trueinterview.io/jobs/3491e5f9-b376-4a05-ae82-e8779544018a">Art Designer | Always On &amp; Social Content</a></td>
+<td>Bogotá, Bogotá, Colombia</td>
+<td align="center"><a href="https://www.monks.com/careers/6135622004/job?gh_jid=6135622004">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>
@@ -312,6 +382,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/awin/jobs/7826687003">Apply</a></td>
 <td align="center">4 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Gdh</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e96b19a-6c20-4de2-a46b-5835a053e610">Ingeniero de Estimaciones y Costos</a></td>
+<td>SANTIAGO, METROPOLITANA DE SANTIAGO, Chile</td>
+<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27783">Apply</a></td>
+<td align="center">27 Jul 2026</td>
 </tr>
 </tbody>
 </table>

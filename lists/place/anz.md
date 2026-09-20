@@ -2,7 +2,7 @@
 
 # 🇦🇺 Sydney, Melbourne & Aotearoa
 
-**18 open roles.**
+**17 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -137,13 +137,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Auckland</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7825132003">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>New Era Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff4b3f47-adf3-45ae-8e53-b22a2b257fae">Support Engineer</a></td>
-<td>Perth<br/>Australia-New Zealand</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/neweratech/jobs/8657940002">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>

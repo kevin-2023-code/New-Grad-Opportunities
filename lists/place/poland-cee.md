@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**9 open roles.**
+**16 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -27,11 +27,46 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">19 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Financial Times</strong></td>
+<td><a href="https://trueinterview.io/jobs/04d2020d-5e29-455b-8f9f-c66939cb1b71">Application Security Engineer</a></td>
+<td>Sofia, Bulgaria</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/the-financial-times/jobs/cyber-security-engineer_london_pg3knger">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Onoff</strong></td>
+<td><a href="https://trueinterview.io/jobs/7dde398b-6e79-45de-a2cd-b9ab27477e4e">Fullstack Software Engineer - Romania</a></td>
+<td>Bucharest, Romania</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/onoff-telecom/jobs/fullstack-software-engineer-romania_bucharest">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Skelar</strong></td>
 <td><a href="https://trueinterview.io/jobs/2f43340e-6f01-451e-91cf-e095465b8205">Software Engineer (Golang) - RiseGuide</a></td>
 <td>Warsaw</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skelar/7775b2b7-2d8e-4df0-bcb9-ee54fa43226e/application">Apply</a></td>
 <td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Corsearch</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd9e5466-cc78-4c9e-bcfc-88a532b8dfa6">Machine Learning Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/corsearch/jobs/machine-learning-engineer_amsterdam_4msjmjpz">Apply</a></td>
+<td align="center">12 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Unity</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2343bc9-cefe-490e-bdf8-f05628664c01">Software Engineer (Web Platform)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/unity/jobs/software-engineer-web-platform_vilnius_44gnqwx6">Apply</a></td>
+<td align="center">12 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Wise</strong></td>
+<td><a href="https://trueinterview.io/jobs/37167235-b468-4856-8552-7e48afccaee3">Software Engineer - ERP Developer (Microsoft BC)</a></td>
+<td>Tallinn, Estonia</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wise-1/jobs/software-engineer-microsoft-business-central-specialist_tallin_WISE_WxZNeLY">Apply</a></td>
+<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Motorola Solutions</strong></td>
@@ -46,6 +81,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Kraków</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Krakw/Conversational-AI-Developer_760232WD">Apply</a></td>
 <td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/28349f48-e110-4354-b455-7e6c73f1acd4">Technical Support Specialist - French speaking</a></td>
+<td>Budapest, Hungary</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8180697/apply/?gh_jid=8180697">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c6a5e4bd-a36f-4200-9c88-9f68fbb99efc">Technical Support Specialist - German speaking</a></td>
+<td>Budapest, Hungary</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8180700/apply/?gh_jid=8180700">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Wise</strong></td>
+<td><a href="https://trueinterview.io/jobs/b39e0102-036d-411e-a0f0-044db847e68a">Fullstack Engineer</a></td>
+<td>Tallinn, Estonia</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wise-1/jobs/fullstack-engineer_tallin">Apply</a></td>
+<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Motorola Solutions</strong></td>
@@ -74,13 +130,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>PL, Warsaw</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10491333/software-development-engineer-amazon">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Grammarly</strong></td>
-<td><a href="https://trueinterview.io/jobs/12a56e7a-879f-481e-bc0d-9c8c57f0ea52">System Engineer</a></td>
-<td>Hub - Warsaw<br/>Hub - Berlin</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/21d40098-b367-4fca-a0e5-b43572455101/application">Apply</a></td>
-<td align="center">26 Jul 2026</td>
 </tr>
 </tbody>
 </table>

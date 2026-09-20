@@ -4,9 +4,9 @@
 
 Every cut of the New Grad Opportunities list that has a page of its own. Each one says exactly what it selects — these are filters over facts already on the row, never a hand-picked list of roles somebody liked.
 
-[← Back to the list](../README.md)
+[← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-09-20 19:28 UTC_
+_Last updated: 2026-09-20 19:32 UTC_
 
 > **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 1,012 of the 1,387 employers on this list (83% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
@@ -18,7 +18,7 @@ _Last updated: 2026-09-20 19:28 UTC_
 
 🧑‍💻 **[By role](#-by-role)** — The catalog's own role classification, not a keyword search on the title. (21 filters)
 
-📍 **[By location](#-by-location)** — Metro areas the postings actually resolve to. (34 filters)
+📍 **[By location](#-by-location)** — Metro areas the postings actually resolve to. (35 filters)
 
 ⚡ **[Quick filters](#-quick-filters)** — The two cuts that are about the posting rather than the employer. (2 filters)
 
@@ -114,40 +114,41 @@ _A posting is on this page when its location resolves to a city in this metro AN
 
 | Filter | Open roles |
 | :-- | --: |
-| [🌉 SF Bay Area](place/bay-area.md) | 629 |
-| [🗽 New York City](place/new-york.md) | 221 |
+| [🌉 SF Bay Area](place/bay-area.md) | 618 |
+| [🗽 New York City](place/new-york.md) | 208 |
 | [🎸 Austin](place/austin.md) | 180 |
 | [🌴 Los Angeles & Orange County](place/los-angeles.md) | 180 |
-| [🇫🇷 Paris & France](place/france.md) | 179 |
+| [🇫🇷 Paris & France](place/france.md) | 178 |
 | [🌲 Seattle & Puget Sound](place/seattle.md) | 146 |
-| [🇬🇧 London & the UK](place/uk.md) | 121 |
+| [🇬🇧 London & the UK](place/uk.md) | 106 |
 | [🌧️ Portland & the Pacific Northwest](place/pacific-northwest.md) | 83 |
-| [🍁 Toronto, Waterloo & Ottawa](place/toronto.md) | 82 |
+| [🍁 Toronto, Waterloo & Ottawa](place/toronto.md) | 81 |
 | [🎓 Boston & Cambridge](place/boston.md) | 75 |
-| [🏛️ Washington DC & Northern Virginia](place/washington-dc.md) | 72 |
+| [🏛️ Washington DC & Northern Virginia](place/washington-dc.md) | 71 |
 | [🌵 Phoenix & Arizona](place/phoenix.md) | 56 |
+| [🌎 México, Brazil & Latin America](place/latam.md) | 53 |
 | [🏔️ Denver, Boulder & Colorado](place/denver-boulder.md) | 49 |
-| [🇮🇳 Bengaluru & India](place/india.md) | 48 |
-| [🌎 México, Brazil & Latin America](place/latam.md) | 42 |
 | [🌬️ Chicago](place/chicago.md) | 41 |
 | [🔺 Research Triangle & the Carolinas](place/research-triangle.md) | 36 |
+| [🇮🇳 Bengaluru & India](place/india.md) | 35 |
 | [🤠 Dallas–Fort Worth](place/dallas-fort-worth.md) | 31 |
-| [🇩🇪 Berlin, Munich & Germany](place/germany.md) | 29 |
-| [🇪🇸 Madrid, Barcelona & Iberia](place/iberia.md) | 26 |
 | [🍑 Atlanta](place/atlanta.md) | 24 |
 | [🛢️ Houston, San Antonio & the rest of Texas](place/texas-other.md) | 24 |
-| [⛰️ Vancouver & British Columbia](place/vancouver.md) | 20 |
+| [🇩🇪 Berlin, Munich & Germany](place/germany.md) | 23 |
+| [🇪🇸 Madrid, Barcelona & Iberia](place/iberia.md) | 23 |
+| [⛰️ Vancouver & British Columbia](place/vancouver.md) | 19 |
 | [🥐 Montréal & Québec](place/montreal.md) | 18 |
-| [🇦🇺 Sydney, Melbourne & Aotearoa](place/anz.md) | 18 |
+| [🇦🇺 Sydney, Melbourne & Aotearoa](place/anz.md) | 17 |
 | [🏖️ San Diego](place/san-diego.md) | 16 |
-| [🏜️ Salt Lake City & Utah](place/salt-lake-city.md) | 14 |
+| [🏰 Warsaw, Kraków & Central Europe](place/poland-cee.md) | 16 |
+| [🏜️ Salt Lake City & Utah](place/salt-lake-city.md) | 13 |
 | [🇸🇬 Singapore](place/singapore.md) | 13 |
-| [🇳🇱 Amsterdam & the Benelux](place/benelux.md) | 10 |
+| [🌍 Dubai, Cairo, Lagos & Africa](place/mena-africa.md) | 11 |
 | [🇮🇪 Dublin & Ireland](place/ireland.md) | 10 |
+| [🇳🇱 Amsterdam & the Benelux](place/benelux.md) | 9 |
 | [🐎 Calgary & the Prairies](place/calgary.md) | 9 |
-| [❄️ Stockholm & the Nordics](place/nordics.md) | 9 |
-| [🏰 Warsaw, Kraków & Central Europe](place/poland-cee.md) | 9 |
-| [🇰🇷 Seoul & Korea](place/korea.md) | 5 |
+| [🏮 Beijing, Shanghai, Taipei & Hong Kong](place/greater-china.md) | 7 |
+| [❄️ Stockholm & the Nordics](place/nordics.md) | 7 |
 
 ---
 
@@ -164,6 +165,6 @@ The two cuts that are about the posting rather than the employer.
 
 ## How a filter is built
 
-Every row on every page above is the same row you would find in [the main list](../README.md) — these pages are cuts, not a second catalog. A filter page carries **both regions**: roles in the United States & Canada first, then everywhere else, under their own headings.
+Every row on every page above is the same row you would find in the main lists — these pages are cuts, not a second catalog. A filter page carries **both regions**: roles in the United States & Canada first (from [README.md](../README.md)), then everywhere else (from [README-Global.md](../README-Global.md)), under their own headings.
 
 A filter with fewer than 5 open new-grad roles does not get a page at all. It would appear for an hour and vanish on the next run, and every link anyone had shared with it would break.
