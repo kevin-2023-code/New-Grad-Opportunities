@@ -31,9 +31,9 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-20 19:21 UTC_
+_Last updated: 2026-09-20 19:28 UTC_
 
-**2,336 open new-grad roles** from **865 employers** · **552 posted in the last 7 days** · refreshed hourly
+**2,336 open new-grad roles** from **864 employers** · **552 posted in the last 7 days** · refreshed hourly
 
 ### Browse 2,336 new-grad roles by field
 
@@ -63,7 +63,7 @@ _Last updated: 2026-09-20 19:21 UTC_
 
 _Counts are new-grad roles in the United States & Canada. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (601)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (369)](lists/company/semiconductors.md) · [🚀 Aerospace & defence (293)](lists/company/aerospace-defense.md) · [🏗️ Large tech (1,000–9,999) (258)](lists/company/large-tech.md) · [🧠 AI labs & AI infrastructure (224)](lists/company/ai.md) · [🖥️ Hardware, devices & networking (187)](lists/company/hardware-devices.md) · [🌱 Startups (under 200) (172)](lists/company/startups.md) · [🏢 Enterprise & business software (132)](lists/company/enterprise-saas.md) · [🏤 Mid-sized tech (200–999) (106)](lists/company/mid-size-tech.md) · [🧬 Health, biotech & medical devices (90)](lists/company/health-bio.md) · [+14 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (601)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (369)](lists/company/semiconductors.md) · [🚀 Aerospace & defence (293)](lists/company/aerospace-defense.md) · [🏗️ Large tech (1,000–9,999) (258)](lists/company/large-tech.md) · [🧠 AI labs & AI infrastructure (224)](lists/company/ai.md) · [🖥️ Hardware, devices & networking (187)](lists/company/hardware-devices.md) · [🌱 Startups (under 200) (172)](lists/company/startups.md) · [🏢 Enterprise & business software (132)](lists/company/enterprise-saas.md) · [🏤 Mid-sized tech (200–999) (106)](lists/company/mid-size-tech.md) · [🚗 Autonomy, automotive & mobility (88)](lists/company/autonomy-mobility.md) · [+14 more →](lists/README.md)
 
 🧑‍💻 **By role** — [Software Engineer (404)](lists/role/software-engineer.md) · [AI Engineer (124)](lists/role/ai-engineer.md) · [Hardware Engineer (78)](lists/role/hardware-engineer.md) · [Security Engineer (67)](lists/role/security-engineer.md) · [Data Engineer (64)](lists/role/data-engineer.md) · [Machine Learning Engineer (57)](lists/role/machine-learning-engineer.md) · [Full-Stack Engineer (51)](lists/role/full-stack-engineer.md) · [Research Scientist (41)](lists/role/research-scientist.md) · [Data Scientist (31)](lists/role/data-scientist.md) · [Embedded Engineer (26)](lists/role/embedded-engineer.md) · [+11 more →](lists/README.md)
 
@@ -451,7 +451,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/8ae23c77-1389-48b8-84ef-b7a6ae684b11">Software Engineer, II - Data Engineering</a></td>
 <td>Ann Arbor, MI, Blacksburg, Va<br/>Blacksburg, VA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/torcrobotics/jobs/8649374002">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Reveal Technology</strong></td>
@@ -684,7 +684,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/ef1bfc80-ceee-41db-9439-8d557fa9eac5">Applied Data &amp; Software Engineer</a> 🆕</td>
 <td>Arlington, VA</td>
 <td align="center"><a href="https://jobs.lever.co/agile-defense/9328b001-f353-4b63-8384-8a5f5e36aa57/apply">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Campfire</strong></td>
@@ -1048,7 +1048,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center">17d</td>
 </tr>
 <tr>
-<td><strong>Chicagotrading</strong></td>
+<td><strong>Chicago Trading</strong></td>
 <td><a href="https://trueinterview.io/jobs/722d9255-f579-4837-8775-2439cdfbe79c">AI Engineer</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/chicagotrading/jobs/4730408005">Apply</a></td>
@@ -1143,7 +1143,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/969d1895-8151-417d-b3a7-a02a0a7c9f05">Jr. Federal AI Engineer</a></td>
 <td>Ft. Belvoir, VA - Secret clearance required<br/>M9 Solutions</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/m9solutions/jobs/5227236007">Apply</a></td>
-<td align="center">18d</td>
+<td align="center">19d</td>
 </tr>
 <tr>
 <td><strong>Gore Mutual Insurance</strong></td>
@@ -1250,7 +1250,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/16077854-d632-42d5-8355-d264ea296061">Early Professional Structural Engineer-Boston</a> 🆕</td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95578">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>
@@ -1590,7 +1590,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/655bdf91-d9e5-485f-a8cd-e8f33a1e6dde">Intermediate Professional, Structural Engineering</a></td>
 <td>Denver, CO</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94434">Apply</a></td>
-<td align="center">18d</td>
+<td align="center">19d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -2301,7 +2301,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </thead>
 <tbody>
 <tr>
-<td><strong>Chicagotrading</strong></td>
+<td><strong>Chicago Trading</strong></td>
 <td><a href="https://trueinterview.io/jobs/e036a8f8-20bc-48da-a9db-c796247dde8b">Quant Developer - Research Engineering</a> 🆕</td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/chicagotrading/jobs/4624603005">Apply</a></td>
@@ -2531,7 +2531,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center">10d</td>
 </tr>
 <tr>
-<td><strong>Verkada Inc.</strong></td>
+<td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/f1c82569-2ef7-4fd4-aa9f-c5a1bf77b12b">Technical Support Engineer - University Graduate 2027</a></td>
 <td>San Mateo, CA United States<br/>Bay-HQ office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5121488007">Apply</a></td>

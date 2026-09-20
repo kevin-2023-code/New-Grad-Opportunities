@@ -83,7 +83,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">30 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Verkada Inc.</strong></td>
+<td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ecde9ce-9246-4875-8778-4441127e0e4a">Technical Support Engineer</a></td>
 <td>Sydney</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5223282007">Apply</a></td>

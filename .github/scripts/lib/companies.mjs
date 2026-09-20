@@ -100,6 +100,14 @@ export const COMPANY_LABELS = new Map(Object.entries({
   'amd': 'AMD',
   'kla': 'KLA',
   'nxp semiconductors': 'NXP Semiconductors',
+  // One employer reaching the catalog under a legal name and a trading name.
+  // Only where the two are plainly the same company: an entry here MERGES two
+  // rows of the list into one, so it is the alias table's one irreversible
+  // edit and is not the place to be clever about suffixes in general.
+  'chicagotrading': 'Chicago Trading',
+  'verkada inc.': 'Verkada',
+  'verkada inc': 'Verkada',
+  'valon mortgage': 'Valon',
 }));
 
 /** Title-cases a slug-shaped name, keeping known acronyms uppercase. */

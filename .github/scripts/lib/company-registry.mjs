@@ -28,7 +28,7 @@
 // the question bank (`scripts/company_registry.py` in Tech-Interview-Questions).
 // A company's sector must not depend on which repository you read it in.
 //
-// 1,103 employers, 1,099 with a sector and 781 with a headcount band.
+// 1,099 employers, 1,095 with a sector and 780 with a headcount band.
 
 export const COMPANY_SEGMENTS = {
 
@@ -65,7 +65,7 @@ export const COMPANY_SEGMENTS = {
   'airbnb': { sector: 'ecommerce-marketplace', size: 'large' },
   'airtable': { sector: 'enterprise-saas', size: 'mid' },
   'airwallex': { sector: 'fintech', size: 'large' },
-  'akuna-capital': { sector: 'quant-trading', size: null },
+  'akuna-capital': { sector: 'quant-trading', size: 'mid' },
   'albireo-energy': { sector: 'energy-industrial', size: null },
   'alertmedia': { sector: 'enterprise-saas', size: 'mid' },
   'algaecal': { sector: null, size: 'startup' },
@@ -215,7 +215,6 @@ export const COMPANY_SEGMENTS = {
   'checkout-com': { sector: 'fintech', size: 'large' },
   'checkr': { sector: 'enterprise-saas', size: null },
   'chicago-trading': { sector: 'quant-trading', size: 'mid' },
-  'chicagotrading': { sector: 'quant-trading', size: 'mid' },
   'chime': { sector: 'fintech', size: 'large' },
   'ci-and-t': { sector: 'it-consulting', size: 'large' },
   'cibc': { sector: 'banking-finance', size: 'mega' },
@@ -851,7 +850,6 @@ export const COMPANY_SEGMENTS = {
   'rogo': { sector: 'ai', size: 'startup' },
   'rokt': { sector: 'enterprise-saas', size: 'mid' },
   'roku': { sector: 'consumer-internet', size: 'large' },
-  'roshal-health': { sector: 'health-bio', size: null },
   'rover': { sector: 'ecommerce-marketplace', size: null },
   'rubrik': { sector: 'security', size: 'large' },
   'rundoo': { sector: 'enterprise-saas', size: 'startup' },
@@ -1050,7 +1048,6 @@ export const COMPANY_SEGMENTS = {
   'valdes-architecture-and-engineering': { sector: 'engineering-services', size: null },
   'valmont-industries-inc': { sector: 'energy-industrial', size: 'mega' },
   'valon': { sector: 'fintech', size: null },
-  'valon-mortgage': { sector: 'fintech', size: null },
   'valtech': { sector: 'it-consulting', size: 'large' },
   'vanta': { sector: 'security', size: 'mid' },
   'vapi': { sector: 'ai', size: 'startup' },
@@ -1060,7 +1057,6 @@ export const COMPANY_SEGMENTS = {
   'vendavo': { sector: 'enterprise-saas', size: 'mid' },
   'vercel': { sector: 'dev-infra', size: 'mid' },
   'verkada': { sector: 'security', size: 'large' },
-  'verkada-inc': { sector: 'security', size: 'large' },
   'versa-networks': { sector: 'security', size: null },
   'veson-nautical': { sector: 'enterprise-saas', size: 'mid' },
   'vetsez': { sector: 'it-consulting', size: null },

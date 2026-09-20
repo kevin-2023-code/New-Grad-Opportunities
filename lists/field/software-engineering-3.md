@@ -1479,7 +1479,7 @@
 <td align="center">23 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Verkada Inc.</strong></td>
+<td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/0ce5f6d8-bcb7-4032-80cd-1e1c374b588c">GRC Engineer</a></td>
 <td>San Mateo, CA United States<br/>Bay-HQ office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5219548007">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**115 open roles.** 90 in the United States & Canada · 25 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**93 open roles.** 71 in the United States & Canada · 22 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -128,104 +128,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/tebra/jobs/software-engineer_new-york_rmgdtaoz">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Roshal Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/5473f6f6-2d95-4d30-b4cc-1d6573c47c1a">Ultrasound Technologist - Rapid City, SD</a></td>
-<td>Rapid City, SD<br/>Rapid City, South Dakota</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/76c75da6-b1dc-4f2e-9994-bec2242196e6/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4bd57c55-8108-4b13-b5a8-52bc9a77e17e">Echo Technologist - PRN - Yuma</a></td>
-<td>Yuma, AZ</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/be226803-b2a9-4124-89f0-991703c34a75/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2fd89a2c-672b-4eca-91c8-105018c2fb54">Ultrasound Technologist - PRN - San Antonio</a></td>
-<td>San Antonio, TX</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/4112ea46-5cd2-47cf-b843-51fe8c2f2cc3/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/77f66f82-f11d-46c7-b833-0995db99aaa5">Ultrasound Technologist - PRN - Buda, TX</a></td>
-<td>Buda, TX</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/640867c0-8e2d-4514-a417-4d6648bbd24a/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1b34d776-80a7-401c-8c41-f070bcd007de">Ultrasound Technologist - PRN - Bee Cave TX</a></td>
-<td>Bee Cave, TX</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/91ffa189-9484-4c30-ae57-dd2ace19a9ab/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/49de998f-eebc-4089-b623-e669ef148d5e">Ultrasound Technologist - PRN - Bastrop TX</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/f25dc848-3e6f-4891-a4c3-5528b05e53be/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/77932e67-ea05-4cb2-af88-0bd2c7b681ee">CT Technologist - PRN - Austin, TX</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/a1a2ecda-defb-4500-a069-6b22bb87817a/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a989ee16-fd3c-4a0e-926f-c1d93597b164">Ultrasound Technologist - PRN - Texas City TX</a></td>
-<td>Texas City, TX</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/a3443a9d-6c67-45c3-9262-08b4ec94446c/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/21732f5e-658c-409d-9892-3ea5af4fcae0">Ultrasound Technologist - PRN - Rockwall, TX</a></td>
-<td>Rockwall, TX</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/2bcfe4e5-a671-4c47-9c3e-8456db0aa50d/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cf69280a-e93e-4688-a75a-85e187b2b77b">Ultrasound Technologist - PRN - Paris, TX</a></td>
-<td>Paris</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/7d5d092b-82a2-47bd-889d-5e9c96bd911d/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7d3639fa-1fc2-41eb-987d-261c9515b809">Ultrasound Technologist - PRN - Garland, TX</a></td>
-<td>Rockwall, TX</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/21611299-756d-4c7d-b1fb-3324b62e418c/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0599c866-0c21-4792-ba6e-a8400b5a4fd9">Ultrasound Technologist - Omaha, NE</a></td>
-<td>Omaha, NE</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/e606ad4e-378f-4223-8805-ecdfd4adb352/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3d303089-d3f0-4c91-95ae-7d903af02b36">Ultrasound Technologist - PRN - Tampa FL</a></td>
-<td>Tampa, FL</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/aece7d0f-dc03-4342-85cb-bc70a7e64e4a/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1afa04d3-13b9-4a78-bb99-2809b02dd0c7">Ultrasound Technologist - Ocala, FL</a></td>
-<td>Ocala, FL</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/53e52fcc-dfbc-4ac1-b324-2f041b6ce0dd/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Intuitive Surgical</strong></td>
@@ -410,27 +312,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Roshal Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/234fca76-1718-4153-aab6-b36370f353eb">Ultrasound Technologist - Ocala, FL - PRN</a></td>
-<td>Ocala, FL</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/ea977a78-8665-4702-b62a-e3a00c1f7acd/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5236c170-8417-4077-8ae6-13e9a2a7ddad">CT Technologist - PRN - Venice FL</a></td>
-<td>Venice, FL<br/>Port Charlotte, FL</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/4adead77-f19e-437a-9690-d3d957a53c2e/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7a3e097d-1389-4cc2-964f-c46048204f42">CT Technologist - PRN - Port Charlotte FL</a></td>
-<td>Port Charlotte, FL</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/022c81ab-e3d1-4e77-ac41-c3943f84fd8c/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>AbbVie</strong></td>
 <td><a href="https://trueinterview.io/jobs/64da7b66-4f5d-489e-bba6-8c3d5a9f19e0">AI Engineering Analyst (Hybrid)</a></td>
 <td>South San Francisco, CA, United States<br/>North Chicago, IL, United States</td>
@@ -571,20 +452,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Roshal Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/7962a889-819d-4306-aec8-6fd712a7cfdb">CT Technologist - Full-time - Plano, TX</a></td>
-<td>Plano, TX</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/9ca85c57-a743-4364-a6b5-f5ff73ca5af8/apply">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4a0bcbfd-17ae-4fd6-84af-08f77060e84c">Ultrasound Technologist - PRN - Kingwood, TX</a></td>
-<td>Kingwood, TX<br/>North Houston, TX</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/7febebd4-2306-4a5a-91f6-f8e920ea4855/apply">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>AbbVie</strong></td>
 <td><a href="https://trueinterview.io/jobs/416c5c05-d5cd-4447-bc2e-56343d4df450">Associate Software Engineer 1</a> 🛂</td>
 <td>North Chicago, IL, United States</td>
@@ -714,27 +581,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>AU - HQ - NSW</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/eucalyptus/jobs/4732611005">Apply</a></td>
 <td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Roshal Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b61b65e-b20c-46e3-9760-e5ed93421422">Ultrasound Technologist Traveler - *SIGN ON BONUS*</a></td>
-<td>Anywhere</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/e3063d8f-4852-4dfc-9f8a-6c46f121ba22/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/24119f2d-0e4c-47a2-aad3-b1462b7249e1">Ultrasound Technologist - Midwest Traveler - More time for the things you love!</a></td>
-<td>Anywhere</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/36ab51ac-d886-4f66-bdbb-3dc9fb216d26/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3a985a16-0af2-4cc1-a2bf-1582221e23be">CT Technologist - Travel - United States - More Time for what you love!</a></td>
-<td>Anywhere</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/7cbb38c9-dfe5-483a-a6ca-c24d55126d5d/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Iambic Therapeutics</strong></td>

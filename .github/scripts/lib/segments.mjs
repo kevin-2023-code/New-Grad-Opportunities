@@ -26,10 +26,10 @@
 // registry carries an entry only where the employer was actually recognised;
 // everything else answers `{ sector: null, size: null }`, appears in every
 // other list exactly as before, and is counted on the hub page as coverage. A
-// sector guessed from a company's NAME is the expensive failure here: "Fable
-// Security" is not a security company, "Roshal Health" is a staffing agency,
-// and a reader who filters to Fintech and gets neither has lost the reason to
-// trust any of the other filters.
+// sector guessed from a company's NAME is the expensive failure here: a company
+// called "Fable Security" need not sell security and one with "Health" in its
+// name need not be in healthcare, and a reader who filters to Fintech and finds
+// a staffing agency has lost the reason to trust any of the other filters.
 
 import { companyKey } from './companies.mjs';
 import { COMPANY_SEGMENTS } from './company-registry.mjs';
@@ -80,8 +80,12 @@ export const SECTORS = [
     blurb: 'Civil, structural and environmental engineering and AEC consultancies.' },
   { id: 'it-consulting', emoji: '🧾', label: 'IT services & consulting', tech: false,
     blurb: 'Systems integrators, management consultancies, outsourcing and staffing.' },
-  { id: 'public-research', emoji: '🏛️', label: 'Government, labs & universities', tech: false,
-    blurb: 'Agencies, national laboratories, universities and research institutes.' },
+  // Named for what it actually holds. "Government, labs & universities" put a
+  // homelessness charity under a label that reads as *research*, while a
+  // non-profit school chain landed in Other industries — two charities, two
+  // sectors, and a reader sees that as arbitrary.
+  { id: 'public-research', emoji: '🏛️', label: 'Government, research & non-profits', tech: false,
+    blurb: 'Agencies, national laboratories, universities, research institutes and charities.' },
   { id: 'other-industry', emoji: '💼', label: 'Other industries', tech: false,
     blurb: 'A real classification that none of the sectors above covers.' },
 ];

@@ -1399,7 +1399,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Valon Mortgage</strong></td>
+<td><strong>Valon</strong></td>
 <td><a href="https://trueinterview.io/jobs/389b4060-8ad3-474e-a3c1-513a0735a124">Software Engineer (New Grad)</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/valon-mortgage/jobs/software-engineer-new-grad_new-york_i5mc6jei">Apply</a></td>
@@ -1756,7 +1756,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Verkada Inc.</strong></td>
+<td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/f1c82569-2ef7-4fd4-aa9f-c5a1bf77b12b">Technical Support Engineer - University Graduate 2027</a></td>
 <td>San Mateo, CA United States<br/>Bay-HQ office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5121488007">Apply</a></td>
