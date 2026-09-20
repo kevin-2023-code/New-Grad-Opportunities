@@ -1614,7 +1614,7 @@
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/16e3a701-ed0d-4112-a1aa-2deaec3ebd6f">Physical Design Engineer</a></td>
-<td>Tel Aviv-Yafo, Tel Aviv District, IL<br/>ב"ש, South District, IL</td>
+<td>Tel Aviv-Yafo, Tel Aviv District, IL<br/>ב&quot;ש, South District, IL</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893396811049">Apply</a></td>
 <td align="center">31 Jul 2026</td>
 </tr>
@@ -2753,7 +2753,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Esri</strong></td>
 <td><a href="https://trueinterview.io/jobs/a04cb953-9d63-499c-bb37-d9cd2e18abbc">Software Development Engineer – Test Automation Infrastructure (SDET)</a></td>
-<td>New Delhi, Delhi, India<br/>New Delhi R&D Center</td>
+<td>New Delhi, Delhi, India<br/>New Delhi R&amp;D Center</td>
 <td align="center"><a href="https://www.esri.com/careers/5205062007?gh_jid=5205062007">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>

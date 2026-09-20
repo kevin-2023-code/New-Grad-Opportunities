@@ -842,3 +842,38 @@ describe('the clock on its own is not a change', () => {
     assert.equal(changedBeyondTimestamp(render(base), render([...base, job({ id: 'b', company: 'Globex' })])), true);
   });
 });
+
+describe('what a hostile or broken catalog can do', () => {
+  it('escapes a location that tries to close the table', () => {
+    // The one cell that interpolated a scraped string into HTML untouched.
+    const table = renderTable(
+      [job({ locations: ['</td></tr></table><h1>OWNED</h1><table><tr><td>Austin, TX'], cities: [] })],
+      NOW,
+    );
+    assert.ok(!table.includes('<h1>'), table.slice(0, 300));
+    assert.ok(table.includes('&lt;h1&gt;'));
+    // …while the one tag this cell means still works.
+    assert.ok(renderTable([job({ cities: ['Austin, TX', 'Seattle, WA'] })], NOW).includes('<br/>'));
+  });
+
+  it('refuses to give two roles the same page, or a page with no name', () => {
+    const rows = (n, role) => Array.from({ length: n }, (_, i) => job({ id: `${role}-${i}`, role }));
+    const tracks = buildTracks(
+      [...rows(12, 'C++ Engineer'), ...rows(8, 'C Engineer'), ...rows(9, '工程师')],
+      { now: NOW },
+    );
+    const paths = tracks.filter((track) => track.group === 'role').map((track) => track.path);
+    assert.deepEqual(paths, ['role/c-engineer']);
+    // The larger of the colliding pair is the one kept, so the page a reader
+    // was linked to still holds what its name says.
+    const kept = tracks.find((track) => track.path === 'role/c-engineer');
+    assert.equal(kept.jobs.length, 12);
+    assert.equal(kept.title, 'C++ Engineer');
+  });
+
+  it('counts an employer with an unkeyable name in both halves of the coverage sentence', () => {
+    const cover = coverage([job({ company: '楽天' }), job({ company: 'Google' })]);
+    assert.equal(cover.rows, 2);
+    assert.equal(cover.companies, 2);
+  });
+});

@@ -181,7 +181,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Infisical</strong></td>
 <td><a href="https://trueinterview.io/jobs/97b2f9fd-82b6-43f6-885a-b523f1f105dc">Design Engineer, Site</a></td>
-<td>United States & Canada</td>
+<td>United States &amp; Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/infisical/558d171f-9730-47d6-8d35-1026c2c3e316/application">Apply</a></td>
 <td align="center">7 Sep 2026</td>
 </tr>

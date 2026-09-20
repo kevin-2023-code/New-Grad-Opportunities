@@ -182,10 +182,19 @@ export function buildTracks(jobs, { now, minRows = MIN_TRACK_ROWS } = {}) {
     byRole.get(role).push(job);
   }
   const roles = [...byRole.entries()].sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0]));
+  // Two roles can slugify alike (`C++ Engineer` and `C Engineer` both give
+  // `c-engineer`) and a role with no ASCII letters slugifies to nothing at all,
+  // which wrote `lists/role/.md`. The first of each slug wins — it is the
+  // larger, since the list is sorted by size — and the rest are dropped rather
+  // than silently overwriting a page a reader was linked to.
+  const takenPaths = new Set();
   for (const [role, rows] of roles) {
+    const slug = slugify(role);
+    if (!slug || takenPaths.has(slug)) continue;
+    takenPaths.add(slug);
     push({
-      id: `role-${slugify(role)}`,
-      path: `role/${slugify(role)}`,
+      id: `role-${slug}`,
+      path: `role/${slug}`,
       group: 'role',
       emoji: '•',
       title: role,

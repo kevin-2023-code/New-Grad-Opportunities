@@ -422,7 +422,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Esri</strong></td>
 <td><a href="https://trueinterview.io/jobs/a04cb953-9d63-499c-bb37-d9cd2e18abbc">Software Development Engineer – Test Automation Infrastructure (SDET)</a></td>
-<td>New Delhi, Delhi, India<br/>New Delhi R&D Center</td>
+<td>New Delhi, Delhi, India<br/>New Delhi R&amp;D Center</td>
 <td align="center"><a href="https://www.esri.com/careers/5205062007?gh_jid=5205062007">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -1465,7 +1465,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>The City Of Fort Worth</strong></td>
 <td><a href="https://trueinterview.io/jobs/c2d2e49a-8da3-494c-b1aa-611bc3764de1">Recreation Programmer</a></td>
-<td>Park & Recreation<br/>None</td>
+<td>Park &amp; Recreation<br/>None</td>
 <td align="center"><a href="https://boards.greenhouse.io/cityoffortworth/jobs/7979753003?gh_jid=7979753003">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>

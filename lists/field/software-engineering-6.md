@@ -356,7 +356,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Xero</strong></td>
 <td><a href="https://trueinterview.io/jobs/ea2215fd-66bc-4d4a-8ea9-20523b3a2555">Prinicipal Engineer</a></td>
-<td>NZ: Auckland: Xero 4 (96 St Georges Bay Rd, Level 2 & 3)</td>
+<td>NZ: Auckland: Xero 4 (96 St Georges Bay Rd, Level 2 &amp; 3)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/xero/8dd95e1d-5376-41a7-a8b1-4dc88f392134/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>

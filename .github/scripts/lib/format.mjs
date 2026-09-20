@@ -170,12 +170,17 @@ const MAX_LOCATIONS = 3;
  * the city underneath it is usually just where the team sits.
  */
 export function locationLabel(job) {
-  const countries = namedCountries(job);
+  // Every piece is escaped BEFORE it is joined, never after: the `<br/>` this
+  // cell puts between two offices is the one tag it means, and escaping the
+  // finished string would print it. This was the one cell in the table that
+  // interpolated a scraped string into HTML untouched — a posting whose
+  // location closed the table and opened an `<h1>` rendered exactly that.
+  const countries = namedCountries(job).map(escapeHtml);
   if (job.remote === 'remote') {
     return countries.length ? `Remote — ${countries.slice(0, MAX_LOCATIONS).join(', ')}` : 'Remote';
   }
-  const cities = distinctLocations(job.cities, MAX_LOCATIONS);
-  const places = cities.length ? cities : distinctLocations(job.locations, MAX_LOCATIONS);
+  const cities = distinctLocations(job.cities, MAX_LOCATIONS).map(escapeHtml);
+  const places = cities.length ? cities : distinctLocations(job.locations, MAX_LOCATIONS).map(escapeHtml);
   if (!places.length) return countries.length ? countries.slice(0, MAX_LOCATIONS).join(', ') : '—';
   const label = places.join('<br/>');
   // Only say "hybrid" if the posting has not already said it. A real row reads

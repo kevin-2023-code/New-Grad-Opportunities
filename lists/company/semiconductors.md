@@ -2197,7 +2197,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/dfb44e36-e96b-4dcd-89f5-3366e77c0a00">Firmware Engineer</a></td>
-<td>ב"ש, South District, IL</td>
+<td>ב&quot;ש, South District, IL</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893396869001">Apply</a></td>
 <td align="center">16 Aug 2026</td>
 </tr>
@@ -2442,7 +2442,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/16e3a701-ed0d-4112-a1aa-2deaec3ebd6f">Physical Design Engineer</a></td>
-<td>Tel Aviv-Yafo, Tel Aviv District, IL<br/>ב"ש, South District, IL</td>
+<td>Tel Aviv-Yafo, Tel Aviv District, IL<br/>ב&quot;ש, South District, IL</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893396811049">Apply</a></td>
 <td align="center">31 Jul 2026</td>
 </tr>

@@ -2580,7 +2580,7 @@
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/dfb44e36-e96b-4dcd-89f5-3366e77c0a00">Firmware Engineer</a></td>
-<td>ב"ש, South District, IL</td>
+<td>ב&quot;ש, South District, IL</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893396869001">Apply</a></td>
 <td align="center">16 Aug 2026</td>
 </tr>

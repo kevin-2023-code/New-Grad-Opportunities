@@ -148,7 +148,9 @@ async function main() {
   // The scaffold committed with a fresh repository, before anything has read
   // the catalog. Rendering it would publish "nothing matched" — a statement
   // about the job market — over a file that has simply never been filled.
-  if (!data.fetchedAt) {
+  // `fetchedAt` is the field this file carried before the stamp was narrowed to
+  // "when the rows last moved"; either one means the file has been filled.
+  if (!data.listingsChangedAt && !data.fetchedAt) {
     throw new Error('listings.json has never been filled. Run `node .github/scripts/fetch.mjs` first.');
   }
   const now = Date.now();

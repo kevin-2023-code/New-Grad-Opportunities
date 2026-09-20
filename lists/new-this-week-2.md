@@ -2424,7 +2424,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Esri</strong></td>
 <td><a href="https://trueinterview.io/jobs/a04cb953-9d63-499c-bb37-d9cd2e18abbc">Software Development Engineer – Test Automation Infrastructure (SDET)</a></td>
-<td>New Delhi, Delhi, India<br/>New Delhi R&D Center</td>
+<td>New Delhi, Delhi, India<br/>New Delhi R&amp;D Center</td>
 <td align="center"><a href="https://www.esri.com/careers/5205062007?gh_jid=5205062007">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>

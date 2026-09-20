@@ -164,7 +164,10 @@ export function coverage(jobs) {
   const companies = new Map();
   let rowsClassified = 0;
   for (const job of jobs) {
-    const key = companyKey(job.company);
+    // An employer whose name has no ASCII alphanumerics at all keys to the
+    // empty string. Skipping it left its ROWS in the percentage and its name
+    // out of the employer count, so one sentence carried two populations.
+    const key = companyKey(job.company) || String(job.company ?? '').trim();
     if (!key) continue;
     const segment = segmentOf(job.company);
     if (segment.sector) rowsClassified += 1;

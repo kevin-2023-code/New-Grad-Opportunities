@@ -1700,7 +1700,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Getnet</strong></td>
 <td><a href="https://trueinterview.io/jobs/bcd23ea3-3a99-45ce-9671-8b42c6fb569d">Automation &amp; AI Engineer – Global Platform Finance Team</a></td>
-<td>Brazil - São Paulo/SP<br/>Getnet T&O Brazil</td>
+<td>Brazil - São Paulo/SP<br/>Getnet T&amp;O Brazil</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/getnet/jobs/4955618101">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>

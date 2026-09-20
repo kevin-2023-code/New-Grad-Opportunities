@@ -1595,7 +1595,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Hut 8</strong></td>
 <td><a href="https://trueinterview.io/jobs/f1fb1135-330e-486c-bccf-3cb35e6f31e3">Electrical Engineer</a></td>
-<td>St. Francisville, LA & Corpus Christi, TX</td>
+<td>St. Francisville, LA &amp; Corpus Christi, TX</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/hut8/jobs/5395784008">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>

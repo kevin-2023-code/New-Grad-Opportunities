@@ -1929,7 +1929,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Esri</strong></td>
 <td><a href="https://trueinterview.io/jobs/a04cb953-9d63-499c-bb37-d9cd2e18abbc">Software Development Engineer – Test Automation Infrastructure (SDET)</a></td>
-<td>New Delhi, Delhi, India<br/>New Delhi R&D Center</td>
+<td>New Delhi, Delhi, India<br/>New Delhi R&amp;D Center</td>
 <td align="center"><a href="https://www.esri.com/careers/5205062007?gh_jid=5205062007">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -2454,7 +2454,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Getnet</strong></td>
 <td><a href="https://trueinterview.io/jobs/bcd23ea3-3a99-45ce-9671-8b42c6fb569d">Automation &amp; AI Engineer – Global Platform Finance Team</a></td>
-<td>Brazil - São Paulo/SP<br/>Getnet T&O Brazil</td>
+<td>Brazil - São Paulo/SP<br/>Getnet T&amp;O Brazil</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/getnet/jobs/4955618101">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
@@ -2531,7 +2531,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Xero</strong></td>
 <td><a href="https://trueinterview.io/jobs/ea2215fd-66bc-4d4a-8ea9-20523b3a2555">Prinicipal Engineer</a></td>
-<td>NZ: Auckland: Xero 4 (96 St Georges Bay Rd, Level 2 & 3)</td>
+<td>NZ: Auckland: Xero 4 (96 St Georges Bay Rd, Level 2 &amp; 3)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/xero/8dd95e1d-5376-41a7-a8b1-4dc88f392134/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
