@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**37 open roles.** 21 in the United States & Canada · 16 elsewhere in the world.
+**36 open roles.** 20 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -156,13 +156,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8649729002?gh_jid=8649729002">Apply</a></td>
 <td align="center">24 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3976c01a-6cf5-4710-bfd2-6f07a0797662">Software Engineer, Site Reliability Engineering (Application Software)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8647095002?gh_jid=8647095002">Apply</a></td>
-<td align="center">23 Jul 2026</td>
 </tr>
 </tbody>
 </table>

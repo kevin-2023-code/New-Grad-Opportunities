@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**179 open roles.**
+**177 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1254,20 +1254,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fbe0c26a-6dc2-4d44-8d39-6fe893f74d39">Supplier Development Engineer, Materials &amp; Special Processes (Falcon &amp; Dragon)</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8644020002?gh_jid=8644020002">Apply</a></td>
-<td align="center">23 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fb48904c-5142-40a1-bb59-005223afc326">Development Test Engineer, Battery (Starship Electronics)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8647452002?gh_jid=8647452002">Apply</a></td>
-<td align="center">23 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3976c01a-6cf5-4710-bfd2-6f07a0797662">Software Engineer, Site Reliability Engineering (Application Software)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8647095002?gh_jid=8647095002">Apply</a></td>
 <td align="center">23 Jul 2026</td>
 </tr>
 </tbody>

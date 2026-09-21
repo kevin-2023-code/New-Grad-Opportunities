@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**667 open roles.** 335 in the United States & Canada · 332 elsewhere in the world.
+**669 open roles.** 336 in the United States & Canada · 333 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,7 +18,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>PAYPLUG</strong></td>
+<td><a href="https://trueinterview.io/jobs/6fe9416d-0c10-4d04-b0c9-b354eaafb7e3">(Stage) Data AI Engineer</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/payplug/jobs/stage-data-ai-engineer_paris">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/2af27c2e-87c0-4a58-ac7a-ccb605b53200">IN_Senior Associate_Generative AI Engineer _Emerging Business_Advisory_Gurgaon</a></td>
+<td>Gurugram Novus Tower</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-Novus-Tower/IN-Senior-Associate-Generative-AI-Engineer--Emerging-Business-Advisory-Bangalore_757840WD-2">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/075b8b95-93cf-4081-851f-3b8a3c838bfc">Płatne praktyki / Cloud Data Engineer</a></td>
 <td>Warszawa</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Patne-praktyki---Cloud-Data-Engineer_752140WD">Apply</a></td>

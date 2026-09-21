@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**81 open roles.** 46 in the United States & Canada · 35 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**80 open roles.** 45 in the United States & Canada · 35 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -331,13 +331,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Cupertino, California, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs">Apply</a></td>
 <td align="center">3 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/70b034f6-6de5-415d-92f0-81bc5bcb2bd4">Flight Test Engineer, DoorDash Air</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8082005">Apply</a></td>
-<td align="center">23 Jul 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**251 open roles.** 172 in the United States & Canada · 79 elsewhere in the world. Early-stage technology companies.
+**252 open roles.** 172 in the United States & Canada · 80 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1238,6 +1238,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6f696e1d-6d25-4feb-aeb5-5dc0039628f5">Power Apps Developer- Remote (Egyptians Preferred)</a></td>
 <td>Egypt</td>
 <td align="center"><a href="https://himalayas.app/companies/deepsource-io/jobs/power-apps-developer-remote-egyptians-preferred">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Micro1</strong></td>
+<td><a href="https://trueinterview.io/jobs/115351b1-4b16-46c1-bc44-89fd5d2449c0">Backend Security Engineer</a></td>
+<td>—</td>
+<td align="center"><a href="https://himalayas.app/companies/micro1/jobs/backend-security-engineer">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**245 open roles.** 126 in the United States & Canada · 119 elsewhere in the world.
+**247 open roles.** 127 in the United States & Canada · 120 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bright Vision Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/68ee7b70-ceb3-477b-8e89-684da10275fd">AI Learning Systems Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://himalayas.app/companies/bright-vision-technologies/jobs/ai-learning-systems-engineer-2611888472">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Bloomberg</strong></td>
 <td><a href="https://trueinterview.io/jobs/59e88137-9b0a-497f-a906-c49f62a462bf">Quant Researcher - Agentic AI CTO Office</a></td>
@@ -911,6 +918,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>EWOR GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/881676fd-64a1-49ab-84d7-145d36ed6817">AI Research Lab AI/ML Engineer (100 % remote) (m/f/d)</a></td>
+<td>—</td>
+<td align="center"><a href="https://himalayas.app/companies/ewor-gmbh/jobs/ai-research-lab-ai-ml-engineer-100-remote-m-f-d">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Innovamat</strong></td>
 <td><a href="https://trueinterview.io/jobs/6eec8e55-8d82-49ba-a841-7c113cc4aba2">AI Engineer (Marketing Systems)</a></td>

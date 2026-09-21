@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,098 open roles.** 1,476 in the United States & Canada · 622 elsewhere in the world.
+**2,104 open roles.** 1,480 in the United States & Canada · 624 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SupportYourApp</strong></td>
+<td><a href="https://trueinterview.io/jobs/77f83695-e422-4798-913e-abce4901ce0c">(fluent Ukrainian) DevOps Engineer (Global)</a></td>
+<td>Ukraine</td>
+<td align="center"><a href="https://himalayas.app/companies/supportyourapp/jobs/fluent-ukrainian-devops-engineer-global-4840606541">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WalkMe</strong></td>
+<td><a href="https://trueinterview.io/jobs/84def301-ad0d-43f5-8cd6-4b97cbd52ff2">DevOps Engineer</a></td>
+<td>York, United Kingdom</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/walkme/jobs/devops-engineer_new-york_lwrqpekm">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>ZEPLUG</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d235441-1026-4ffe-a2fc-a719cf379600">CDI - Software Engineer - Squad PCA / SIO - H/F</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/zeplug/jobs/cdi-software-engineer-squad-pca-sio-h-f_paris">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Conduit</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e707e1f-7449-4327-8c91-7da6b273a7b5">Software Engineer, Control Plane</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/conduit/5e599120-22ec-46c8-b933-6c833139d59f/application">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Esri</strong></td>
+<td><a href="https://trueinterview.io/jobs/a04cb953-9d63-499c-bb37-d9cd2e18abbc">Software Development Engineer – Test Automation Infrastructure (SDET)</a></td>
+<td>New Delhi, Delhi, India<br/>New Delhi R&amp;D Center</td>
+<td align="center"><a href="https://www.esri.com/careers/5205062007?gh_jid=5205062007">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Defense Unicorns</strong></td>
+<td><a href="https://trueinterview.io/jobs/dca50e0a-9576-428f-b00a-a8869b6f11dc">IT Systems &amp; Security Engineer (CedD225)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/defenseunicorns/jobs/5239161007">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Tako</strong></td>
 <td><a href="https://trueinterview.io/jobs/a34f0906-2c30-42e3-97bc-4fe310fc3e15">Software Engineer (Afirmativa para Mulheres)</a></td>
@@ -2774,48 +2816,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cursor/1d6dbbb2-a5af-41a6-a70a-ca97690d9313/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Delart</strong></td>
-<td><a href="https://trueinterview.io/jobs/e67dd4fe-46df-4fc7-b505-1de71402ba0f">Board Support Package (BSP) Firmware Engineer</a></td>
-<td>New Territories, Hong Kong<br/>Direct</td>
-<td align="center"><a href="https://boards.greenhouse.io/delartech/jobs/4726814005?gh_jid=4726814005">Apply</a></td>
-<td align="center">23 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Mem0</strong></td>
-<td><a href="https://trueinterview.io/jobs/440c5a2b-e1ea-4e5f-846b-50f016ac5d16">Backend Engineer</a></td>
-<td>India</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/mem0/74a4c176-4bbe-4bf7-b471-06573dba05a1/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Blue Coding</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8c30b61-59cf-4b05-92a1-2c8c26c897d7">QA Automation Engineer (A)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/bluecoding/6dafb81b-8786-4d90-b6ff-233d5bc58775/apply">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Pluribus Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/fdae3c98-7465-4ab4-8786-dfed6d08c832">Evergreen: Associate Software Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://pluribusdigital.com/join/openings?gh_jid=7931434003">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>The Browser Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c0da6c9-459f-4f99-9a10-0ca59b4fa670">Full Stack Software Engineer, Dia Enterprise</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/The%20Browser%20Company/8f66fbf3-9ec5-43a2-968a-5ac030492562/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Caribou</strong></td>
-<td><a href="https://trueinterview.io/jobs/cba095e9-9fa5-4043-bfce-afe35175031d">Product Engineer</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/caribou/95869cef-0efc-418a-a98c-6d7ae1a16d29/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/e306be7b-3119-41b0-b40b-265540c4979f">Server Platform Design Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92701?lang=en-us">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/564f7b4e-8a79-4840-98f3-22cd30ac4f4e">Software Engineer, Manufacturing</a></td>
 <td>Bastrop, TX</td>
@@ -148,13 +155,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/059b569d-8225-4369-9c8b-c38c00b5e813">Customer Engagement Applications Engineer (FaST)</a></td>
 <td>Austin, TX, United States of America<br/>Hillsboro, OR, United States of America<br/>Boise, ID, United States of America<br/>+1 more</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Customer-Engagement-Engineer--FaST-_2633739">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b47192c5-1962-478c-bfda-b1ddfb3c60be">Customer Support Engineer</a></td>
-<td>Austin, TX, United States of America<br/>Hillsboro, OR, United States of America<br/>Denison, TX, United States of America<br/>+4 more</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Customer-Support-Engineer_2532992-1">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

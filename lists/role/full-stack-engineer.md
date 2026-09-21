@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**101 open roles.** 51 in the United States & Canada · 50 elsewhere in the world.
+**102 open roles.** 51 in the United States & Canada · 51 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -391,6 +391,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a2cf54af-0776-4884-bd42-bb28021677a6">Fullstack Engineer</a> 🌐</td>
 <td>Remote — France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/bump-charge/jobs/fullstack-engineer">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Corpex</strong></td>
+<td><a href="https://trueinterview.io/jobs/d94c411a-93c0-4883-8bdf-8710618b1be2">full stack developer</a></td>
+<td>Mississauga (ON)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50331573">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>

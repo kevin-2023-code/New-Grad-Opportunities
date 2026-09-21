@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**156 open roles.** 81 in the United States & Canada · 75 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**157 open roles.** 82 in the United States & Canada · 75 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Snowflake</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2b379d0-463d-4bb2-990e-91531102abdc">Account Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/eb4ef48f-7322-481c-984a-a81b2e8460e1">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Canonical</strong></td>
 <td><a href="https://trueinterview.io/jobs/5d185bb5-5a35-4698-9fd8-d0af54a02978">Software Engineer - OpenStack</a></td>

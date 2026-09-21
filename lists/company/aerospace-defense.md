@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**315 open roles.** 294 in the United States & Canada · 21 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**313 open roles.** 292 in the United States & Canada · 21 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2059,20 +2059,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/86d674b1-27f5-4ab7-9017-4a5177545e39">Structures Design Engineer (Starship)</a></td>
 <td>Starbase, TX<br/>Brownsville, TX, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8493176002?gh_jid=8493176002">Apply</a></td>
-<td align="center">23 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fb48904c-5142-40a1-bb59-005223afc326">Development Test Engineer, Battery (Starship Electronics)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8647452002?gh_jid=8647452002">Apply</a></td>
-<td align="center">23 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3976c01a-6cf5-4710-bfd2-6f07a0797662">Software Engineer, Site Reliability Engineering (Application Software)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8647095002?gh_jid=8647095002">Apply</a></td>
 <td align="center">23 Jul 2026</td>
 </tr>
 </tbody>

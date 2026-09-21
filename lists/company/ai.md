@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**297 open roles.** 224 in the United States & Canada · 73 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**299 open roles.** 225 in the United States & Canada · 74 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>xAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea69230c-6c2d-41a0-b1a3-1456d1144df6">Fluids Engineer (Power Generation) - Memphis</a></td>
+<td>Southaven, MS<br/>Memphis, TN</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5243284007">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Micro1</strong></td>
 <td><a href="https://trueinterview.io/jobs/1e7b95fc-51de-438a-91bb-db15514bf32c">Data Engineer</a></td>
@@ -1597,6 +1604,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Micro1</strong></td>
+<td><a href="https://trueinterview.io/jobs/115351b1-4b16-46c1-bc44-89fd5d2449c0">Backend Security Engineer</a></td>
+<td>—</td>
+<td align="center"><a href="https://himalayas.app/companies/micro1/jobs/backend-security-engineer">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Deepomatic</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3caeb45-0bb4-4a05-836c-f0315734c423">DevOps Engineer</a></td>

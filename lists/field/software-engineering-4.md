@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,098 open roles.** 1,476 in the United States & Canada · 622 elsewhere in the world.
+**2,104 open roles.** 1,480 in the United States & Canada · 624 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,55 @@
 <tbody>
 <tr>
 <td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ca7ea70-2481-4c6f-bcba-759e87bea6f1">Test Engineer, Powertrain Components (Starship)</a></td>
+<td>Hawthorne, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8716126002?gh_jid=8716126002">Apply</a></td>
+<td align="center">14 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/8777a643-3973-4641-b54d-3585a9f8b0cd">Scientific Technical Engineer - PDS&amp;T CMC</a></td>
+<td>North Chicago, IL, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014609206-scientific-technical-engineer-pds-t-cmc?oga=true">Apply</a></td>
+<td align="center">14 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/5495725f-adf5-4d0f-9029-0fc9ff63fa70">Technologist, Hardware Development Engineering</a></td>
+<td>Roseville, CA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000143588524-technologist-hardware-development-engineering-?oga=true">Apply</a></td>
+<td align="center">14 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>New York Iso</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a4e71c6-a67c-46d8-afe8-16e985ffe5c6">Planning Engineer, Generation Integration</a></td>
+<td>Rensselaer, New York, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/nyiso/jobs/5212628007">Apply</a></td>
+<td align="center">14 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/4395c5e0-49ea-470b-b905-017bfbf4c136">New Graduate Engineer, Software  - '26/'27  (Starlink)</a></td>
+<td>Palo Alto, CA<br/>Redmond, WA<br/>Bastrop, TX</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002">Apply</a></td>
+<td align="center">14 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/47a988ff-1c79-4d30-968d-c9bb004b62f9">New Graduate Engineer, Mechanical - '26/'27 (Starlink)</a></td>
+<td>Bastrop, TX<br/>Redmond, WA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696952002?gh_jid=8696952002">Apply</a></td>
+<td align="center">14 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d6138eb7-1f67-4697-bbba-f9f58f3c6517">New Graduate Engineer, GNC- '26/'27 (Starlink)</a></td>
+<td>Redmond, WA<br/>Bastrop, TX</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002">Apply</a></td>
+<td align="center">14 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1ccadf3b-dae9-47bf-a7b1-4d437ef6a983">New Graduate Engineer, Electrical - '26/'27 (Starlink)</a></td>
 <td>Bastrop, TX<br/>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002">Apply</a></td>
@@ -1926,27 +1975,6 @@
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8493176002?gh_jid=8493176002">Apply</a></td>
 <td align="center">23 Jul 2026</td>
 </tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/70b034f6-6de5-415d-92f0-81bc5bcb2bd4">Flight Test Engineer, DoorDash Air</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8082005">Apply</a></td>
-<td align="center">23 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/fb48904c-5142-40a1-bb59-005223afc326">Development Test Engineer, Battery (Starship Electronics)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8647452002?gh_jid=8647452002">Apply</a></td>
-<td align="center">23 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3976c01a-6cf5-4710-bfd2-6f07a0797662">Software Engineer, Site Reliability Engineering (Application Software)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8647095002?gh_jid=8647095002">Apply</a></td>
-<td align="center">23 Jul 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1974,6 +2002,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Corpex</strong></td>
+<td><a href="https://trueinterview.io/jobs/d94c411a-93c0-4883-8bdf-8710618b1be2">full stack developer</a></td>
+<td>Mississauga (ON)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50331573">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>DeepSource</strong></td>
 <td><a href="https://trueinterview.io/jobs/6f696e1d-6d25-4feb-aeb5-5dc0039628f5">Power Apps Developer- Remote (Egyptians Preferred)</a></td>
 <td>Egypt</td>
@@ -1985,6 +2020,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/95629244-8fea-4720-8052-ab49aaaac642">Ruby Developer – Full-Time / Remote / Lebanon</a></td>
 <td>Lebanon</td>
 <td align="center"><a href="https://himalayas.app/companies/jobs-for-humanity/jobs/ruby-developer-full-time-remote-lebanon">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Micro1</strong></td>
+<td><a href="https://trueinterview.io/jobs/115351b1-4b16-46c1-bc44-89fd5d2449c0">Backend Security Engineer</a></td>
+<td>—</td>
+<td align="center"><a href="https://himalayas.app/companies/micro1/jobs/backend-security-engineer">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -2784,48 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>3 Locations</td>
 <td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Cloud-Engineer_JR00127979">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SupportYourApp</strong></td>
-<td><a href="https://trueinterview.io/jobs/77f83695-e422-4798-913e-abce4901ce0c">(fluent Ukrainian) DevOps Engineer (Global)</a></td>
-<td>Ukraine</td>
-<td align="center"><a href="https://himalayas.app/companies/supportyourapp/jobs/fluent-ukrainian-devops-engineer-global-4840606541">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WalkMe</strong></td>
-<td><a href="https://trueinterview.io/jobs/84def301-ad0d-43f5-8cd6-4b97cbd52ff2">DevOps Engineer</a></td>
-<td>York, United Kingdom</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/walkme/jobs/devops-engineer_new-york_lwrqpekm">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>ZEPLUG</strong></td>
-<td><a href="https://trueinterview.io/jobs/0d235441-1026-4ffe-a2fc-a719cf379600">CDI - Software Engineer - Squad PCA / SIO - H/F</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/zeplug/jobs/cdi-software-engineer-squad-pca-sio-h-f_paris">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Conduit</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e707e1f-7449-4327-8c91-7da6b273a7b5">Software Engineer, Control Plane</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/conduit/5e599120-22ec-46c8-b933-6c833139d59f/application">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Esri</strong></td>
-<td><a href="https://trueinterview.io/jobs/a04cb953-9d63-499c-bb37-d9cd2e18abbc">Software Development Engineer – Test Automation Infrastructure (SDET)</a></td>
-<td>New Delhi, Delhi, India<br/>New Delhi R&amp;D Center</td>
-<td align="center"><a href="https://www.esri.com/careers/5205062007?gh_jid=5205062007">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Defense Unicorns</strong></td>
-<td><a href="https://trueinterview.io/jobs/dca50e0a-9576-428f-b00a-a8869b6f11dc">IT Systems &amp; Security Engineer (CedD225)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/defenseunicorns/jobs/5239161007">Apply</a></td>
-<td align="center">15 Sep 2026</td>
 </tr>
 </tbody>
 </table>
