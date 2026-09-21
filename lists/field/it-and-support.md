@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**131 open roles.** 93 in the United States & Canada · 38 elsewhere in the world.
+**132 open roles.** 94 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Quicknode</strong></td>
+<td><a href="https://trueinterview.io/jobs/919c8662-90dc-432f-a050-545c69916c45">Technical Support Engineer</a></td>
+<td>Portugal</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/quicknode/4f986c94-5c3a-461a-952a-cc46dfd42a4d/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>NetApp</strong></td>
 <td><a href="https://trueinterview.io/jobs/3f8e5241-f4c4-41d9-81f6-0cc1f937a0f3">Technical Support Engineer</a></td>

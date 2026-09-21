@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**79 open roles.** 69 in the United States & Canada · 10 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**78 open roles.** 68 in the United States & Canada · 10 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -71,13 +71,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bf5d0865-a3c7-4478-ae56-8853ed32c6bc">Research Scientist, Generative Audio</a></td>
 <td>New York, NY<br/>Seoul</td>
 <td align="center"><a href="https://www.lifeatspotify.com/jobs/research-scientist-generative-audio">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cb6daef6-20a8-4b6c-a399-7631fb0269b5">Research Scientist, Personalization</a></td>
-<td>Boston, MA<br/>New York, NY</td>
-<td align="center"><a href="https://www.lifeatspotify.com/jobs/research-scientist-personalization">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

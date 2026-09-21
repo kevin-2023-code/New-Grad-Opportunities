@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**180 open roles.**
+**181 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -31,6 +31,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/dca65987-ce25-4c5c-97ac-62b6a335a65a">Data Engineer Luxurynsight</a></td>
 <td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/luxurynsight/jobs/data-engineer-luxurynsight_paris">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>MARSO Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b7c3e8b-b256-4cbd-b653-1ea572bb6cb7">Software Engineer Full Stack H/F</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/marso-robotics/jobs/software-engineer-h-f_paris">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>

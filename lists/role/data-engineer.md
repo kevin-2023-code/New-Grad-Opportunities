@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**199 open roles.** 64 in the United States & Canada · 135 elsewhere in the world.
+**203 open roles.** 65 in the United States & Canada · 138 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Lambda</strong></td>
+<td><a href="https://trueinterview.io/jobs/54b93c62-93b2-41cb-9fe7-c18baac0d4ae">Data Center Operations System Engineer (Kansas City)</a></td>
+<td>Kansas City, MO - Data Center</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lambda/8a668aed-3028-400a-900a-89b64b7ffa4e/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>BMO</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2faa1ab-3502-48d5-96cb-20acb907e82d">Intermediate Data Engineer</a></td>
+<td>Toronto, ON, CAN</td>
+<td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Intermediate-Data-Engineer_R260025484">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Micro1</strong></td>
 <td><a href="https://trueinterview.io/jobs/1e7b95fc-51de-438a-91bb-db15514bf32c">Data Engineer</a></td>
@@ -340,13 +354,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/9abea28f-a9cf-4136-b650-852d917d0b5e">Data Engineer I, Fire TV</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10513820/data-engineer-i-fire-tv">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/9d0830ac-9e11-4c55-bbf7-567a6afdd158">Agentic AI / Data Engineer - DC GPU</a></td>
 <td>US, IN, Home Office<br/>Indiana, United States</td>
@@ -478,6 +485,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Devsavant Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4f735e0-6097-4af2-b3d0-a5004f60c8ca">Data Analytics Engineer</a></td>
+<td>LATAM</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/devsavant/7a0d6969-1032-4c9b-8eed-524cf581c5da/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Civils de la Défense - Ministère des Armées et des Anciens combattants</strong></td>
+<td><a href="https://trueinterview.io/jobs/0dad0ca2-2cb6-442f-9138-244769537a0b">DATA ENGINEER</a></td>
+<td>Saint-Mandé, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/ministere-des-armees-fr/jobs/data-engineer_saint-mande">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>eXalt</strong></td>
 <td><a href="https://trueinterview.io/jobs/0e16fa7a-5321-499e-8f74-608c0bfe5683">Data engineer Azure Databricks</a></td>
 <td>Brussels, Belgium</td>
@@ -489,6 +510,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/dca65987-ce25-4c5c-97ac-62b6a335a65a">Data Engineer Luxurynsight</a></td>
 <td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/luxurynsight/jobs/data-engineer-luxurynsight_paris">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Stime</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5886fb1-f421-46e7-9c42-34c1de8576b4">Data Engineer (Databricks /Azure)</a></td>
+<td>Châtillon, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/stime/jobs/data-engineer-databricks-azure_chatillon">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>

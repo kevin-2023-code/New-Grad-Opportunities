@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**94 open roles.** 42 in the United States & Canada · 52 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**94 open roles.** 43 in the United States & Canada · 51 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BMO</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2faa1ab-3502-48d5-96cb-20acb907e82d">Intermediate Data Engineer</a></td>
+<td>Toronto, ON, CAN</td>
+<td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Intermediate-Data-Engineer_R260025484">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Bloomberg</strong></td>
 <td><a href="https://trueinterview.io/jobs/59e88137-9b0a-497f-a906-c49f62a462bf">Quant Researcher - Agentic AI CTO Office</a></td>
@@ -324,6 +331,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Btg Pactual</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5f69370-55f9-4c2f-8785-e56dfc02566e">Software Engineer - CROSS ASSET SERVICES</a></td>
+<td>São Paulo<br/>BR - SAO PAULO</td>
+<td align="center"><a href="https://carreiras.btgpactual.com/vagas?gh_jid=6185522004">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Intesa Sanpaolo</strong></td>
 <td><a href="https://trueinterview.io/jobs/025f592d-598d-4a4d-9dcd-b9b9fbecd046">Apple Systems Engineer</a></td>
 <td>Milano, Italy</td>
@@ -388,24 +402,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Mastercard</strong></td>
-<td><a href="https://trueinterview.io/jobs/6108d10a-c51d-466f-93e6-c2871c0cea13">Data Scientist (Data Visualisation)</a></td>
-<td>Gurgaon, India</td>
-<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Data-Scientist--Data-Visualisation-_R-288306">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/19aa9097-44c2-4695-ad70-a6f3c5cbb015">Software Integration Engineer-II</a></td>
 <td>Pune, India</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Integration-Engineer-II_R-280012-1">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Btg Pactual</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9bca1fa-453e-4f2f-b804-9b66de54acfd">Software Engineer Backend |  IT Offshore Platform US</a></td>
-<td>São Paulo, Brazil<br/>BR - SAO PAULO</td>
-<td align="center"><a href="https://carreiras.btgpactual.com/vagas?gh_jid=6192350004">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>BPCE Solutions informatiques</strong></td>

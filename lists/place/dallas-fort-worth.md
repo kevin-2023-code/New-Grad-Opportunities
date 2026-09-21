@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**30 open roles.**
+**31 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Brunswick Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/0dae74ca-54ea-4d32-a053-a33cfaeecb68">AI Engineer</a></td>
+<td>Dallas, Texas, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/brunswickgroup/jobs/8821383002">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>T1 Energy</strong></td>
 <td><a href="https://trueinterview.io/jobs/0214cfc9-c6d6-455f-8953-cbf25fed17bf">IT Software Development Engineer</a></td>

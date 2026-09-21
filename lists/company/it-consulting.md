@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/26927344-4757-4ee5-820c-3428ff77bf3c">ServiceNow Developer</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4715250006?gh_jid=4715250006">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Dine Development Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b052564-7664-4208-9573-af43f602384e">Power Apps Developer</a></td>
 <td>United States</td>
@@ -281,13 +288,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a2bd6809-291c-466e-aa11-e5a92bff9395">Forward Deployed AI Engineer</a></td>
 <td>Washington, DC<br/>Arlington, VA</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4710292006?gh_jid=4710292006">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/50f0be72-2b13-4efe-991c-4205cdaf741a">Cyber Engineer</a></td>
-<td>Suffolk, VA</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4708915006?gh_jid=4708915006">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>

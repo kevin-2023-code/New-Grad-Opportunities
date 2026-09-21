@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**146 open roles.**
+**144 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -92,13 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c762f8d2-5897-4973-ab61-ec4e17652a19">UX Designer, Search Ads 360</a></td>
 <td>Seattle, WA<br/>Mountain View, CA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/138032364998533830-ux-designer-search-ads-360">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/c8747296-a8ad-4dab-bf9c-9a26c76c476b">AI Compiler Engineer- New College Grad 2027</a></td>
-<td>Seattle, WA<br/>Santa Clara, CA, US<br/>PA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397738658">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -551,13 +544,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/9abea28f-a9cf-4136-b650-852d917d0b5e">Data Engineer I, Fire TV</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10513820/data-engineer-i-fire-tv">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c0e27bfa-ff06-42a6-b043-c3566d9bd7b7">Mechanical Engineer, Satellite Hardware</a></td>
 <td>Redmond, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10513157/mechanical-engineer-satellite-hardware">Apply</a></td>

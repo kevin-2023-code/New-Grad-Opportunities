@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**74 open roles.**
+**75 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ZoomInfo</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8218c78-a554-481d-a18c-08e2df9f9ed7">Machine Learning Engineer</a> 🌐</td>
+<td>Remote — United States, Canada<br/>Waltham, Massachusetts, United States</td>
+<td align="center"><a href="https://www.zoominfo.com/careers?gh_jid=8769474002">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/8df9d535-431b-4a4e-a16d-1c3c5123fe31">Embedded Systems Applications Engineer</a></td>
+<td>US, MA, Wilmington, United States of America</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Embedded-Systems-Applications-Engineer_R265602">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Veson Nautical</strong></td>
 <td><a href="https://trueinterview.io/jobs/4285453c-deef-4e4f-8bcd-e85a0d5de0e2">Site Reliability Engineer (GCP)</a></td>
@@ -65,13 +79,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Leominster, MA, US</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971993995">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Spotify</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb6daef6-20a8-4b6c-a399-7631fb0269b5">Research Scientist, Personalization</a></td>
-<td>Boston, MA<br/>New York, NY</td>
-<td align="center"><a href="https://www.lifeatspotify.com/jobs/research-scientist-personalization">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>

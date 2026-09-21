@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**57 open roles.** 31 in the United States & Canada · 26 elsewhere in the world.
+**56 open roles.** 31 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -287,13 +287,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Lille, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mp-data/jobs/data-scientist-f-h-lille_lille">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mastercard</strong></td>
-<td><a href="https://trueinterview.io/jobs/6108d10a-c51d-466f-93e6-c2871c0cea13">Data Scientist (Data Visualisation)</a></td>
-<td>Gurgaon, India</td>
-<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Data-Scientist--Data-Visualisation-_R-288306">Apply</a></td>
-<td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Visuary</strong></td>

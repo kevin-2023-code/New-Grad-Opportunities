@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**211 open roles.**
+**212 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Gyde</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca030dfa-2bb2-427d-ae20-774d3db14bab">AI Engineer</a></td>
+<td>Austin, Texas, United States, New York, New York, United States<br/>Austin, TX<br/>Austin - Hybrid<br/>+1 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gyde/jobs/4413465009">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Highbeam</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b949f40-9334-4564-9d4d-b49aee04cfa0">Brand Designer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/highbeam/e16ff992-5857-43ee-87a9-8a0db6dc49b9/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Bloomberg</strong></td>
 <td><a href="https://trueinterview.io/jobs/59e88137-9b0a-497f-a906-c49f62a462bf">Quant Researcher - Agentic AI CTO Office</a></td>
@@ -120,13 +134,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bf5d0865-a3c7-4478-ae56-8853ed32c6bc">Research Scientist, Generative Audio</a></td>
 <td>New York, NY<br/>Seoul</td>
 <td align="center"><a href="https://www.lifeatspotify.com/jobs/research-scientist-generative-audio">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cb6daef6-20a8-4b6c-a399-7631fb0269b5">Research Scientist, Personalization</a></td>
-<td>New York, NY<br/>Boston, MA</td>
-<td align="center"><a href="https://www.lifeatspotify.com/jobs/research-scientist-personalization">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**191 open roles.** 104 in the United States & Canada · 87 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**193 open roles.** 106 in the United States & Canada · 87 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Lambda</strong></td>
+<td><a href="https://trueinterview.io/jobs/54b93c62-93b2-41cb-9fe7-c18baac0d4ae">Data Center Operations System Engineer (Kansas City)</a></td>
+<td>Kansas City, MO - Data Center</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lambda/8a668aed-3028-400a-900a-89b64b7ffa4e/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cerebras Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/37a1a52b-e39c-4653-8a17-03e9074cd6b9">AI Datacenter Infra engineer</a> 🌐</td>
+<td>Remote — Canada, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cerebras/3a943706-87b4-4a0f-b1ac-70d1ff3d00e2">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Veson Nautical</strong></td>
 <td><a href="https://trueinterview.io/jobs/4285453c-deef-4e4f-8bcd-e85a0d5de0e2">Site Reliability Engineer (GCP)</a></td>

@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**317 open roles.** 296 in the United States & Canada · 21 elsewhere in the world.
+**319 open roles.** 298 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,45 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Dialog</strong></td>
+<td><a href="https://trueinterview.io/jobs/4254340a-4893-4a28-9220-1c2b2a3980db">Intermediate Electrical Engineer</a></td>
+<td>Calgary, AB</td>
+<td align="center"><a href="https://jobs.lever.co/dialogdesign/ed91084f-712f-4f1b-a267-5e88e5af7e0c/apply">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/5cc2515c-25bb-4a5c-88d3-7d42803b6b53">Wet Process Engineer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000150773089-wet-process-engineer?oga=true">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/70135ed4-cc61-4596-884d-a294ea548e9c">ASIC Physical Design Engineer</a></td>
+<td>San Jose, California, US, United States of America<br/>Austin, TX<br/>Austin, Texas, US<br/>+1 more</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Physical-Design-Engineer_2015743-1">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/43f45040-1156-4a18-8559-3c4ca8f71878">Manufacturing Quality and Reliability Engineer</a></td>
 <td>US, New Mexico, Albuquerque, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/Manufacturing-Quality-and-Reliability-Engineer_JR0287353">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ed60482-cc6e-48a2-a7ea-0fe10b3f3fd2">New College Grad - Shift Manufacturing Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44430434">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5bc5cbd-7ac6-4f5e-8c9d-cd70b68fdcb8">Critical Environment Electrical Engineer</a></td>
+<td>Cheyenne, WY, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557001976">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -330,13 +365,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f78d680b-4759-420c-a8fd-7ec9c7b6f775">Intermediate Professional, Electrical Engineering</a></td>
 <td>Lisle, IL, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95540">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a5076df-460b-4300-ae75-ad34af870a11">Mechanical Engineer, HVAC &amp; Controls (Facilities Infrastructure)</a></td>
-<td>Vandenberg, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8815268002?gh_jid=8815268002">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -1089,13 +1117,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5099827d-6775-45b4-92a1-a29693ebc3b1">New College Grad - Shift Process Engineer ID1</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/39688071">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/cd83d26c-ec58-4dc0-90dc-93db2e8fb413">Manufacturing Engineer, Supply Chain (Starship)</a></td>
 <td>Starbase, TX<br/>Brownsville, TX, United States</td>
@@ -1191,13 +1212,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0e3b2570-6490-4bca-93cf-e0e9bbcfeeea">Early Professional, Structural Engineering</a></td>
 <td>Billings, MT, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94285">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Acorn Product Development, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/31a9cd7e-a3ec-4485-80da-56b0e12c9943">Mechanical Engineer-Milpitas</a></td>
-<td>Milpitas, California, United States</td>
-<td align="center"><a href="https://jobs.workable.com/view/hsMRyQwoSZ9Q6hfXuC24M2/hybrid-mechanical-engineer-milpitas-in-milpitas-at-acorn-product-development%2C-inc.">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>

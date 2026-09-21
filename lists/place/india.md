@@ -2,7 +2,7 @@
 
 # 🇮🇳 Bengaluru & India
 
-**35 open roles.**
+**33 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -77,13 +77,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Mastercard</strong></td>
-<td><a href="https://trueinterview.io/jobs/6108d10a-c51d-466f-93e6-c2871c0cea13">Data Scientist (Data Visualisation)</a></td>
-<td>Gurgaon, India</td>
-<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Data-Scientist--Data-Visualisation-_R-288306">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/19aa9097-44c2-4695-ad70-a6f3c5cbb015">Software Integration Engineer-II</a></td>
 <td>Pune, India</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Integration-Engineer-II_R-280012-1">Apply</a></td>
@@ -116,13 +109,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Pune</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Pune/IN-Senior-Associate-GE4CX-Conversational-AI-Developer-GCC-Advisory-Bangalore_753912WD">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>ZoomInfo</strong></td>
-<td><a href="https://trueinterview.io/jobs/a374b145-2db8-4f0f-a322-e8a36e9f2632">Software Engineer I - Salesforce Support</a></td>
-<td>Bengaluru, Karnataka, India<br/>Bangalore, India</td>
-<td align="center"><a href="https://www.zoominfo.com/careers?gh_jid=8759684002">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Ford Motor Company</strong></td>

@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**655 open roles.** 597 in the United States & Canada · 58 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**657 open roles.** 599 in the United States & Canada · 58 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,10 +16,45 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/61e55cf0-27bf-4b05-98b3-e2e400b214f8">Applied Scientist, Amazon Cryptographic Libraries</a></td>
+<td>Seattle, Washington, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10522632/applied-scientist-amazon-cryptographic-libraries">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/058d83d1-42ab-48a8-a6f4-5b3e347b547d">AI Research Scientist, Reinforcement Learning (LLM) and Post-Training</a></td>
+<td>US, CA, Santa Clara<br/>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91613?lang=en-us">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/69d60072-26b0-4760-a002-24f9633da415">GPU Design Verification Engineer - Shader Core</a></td>
+<td>US, CA, San Diego<br/>San Diego, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91880?lang=en-us">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>CrowdStrike</strong></td>
+<td><a href="https://trueinterview.io/jobs/cefcf42d-cff5-4e83-9383-5a1569c3cb03">Threat Analyst – Machine Learning Operations &amp; Detection Efficacy (Remote)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Threat-Analyst--Machine-Learning-Operations---Detection-Efficacy--Remote-_R29964">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/0bda4a4e-5dcc-40b5-83b0-4b01a8c68ec3">Aircraft Systems Engineer -HIRF &amp; Lightning Testing</a></td>
+<td>Salem, Oregon, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/19747?lang=en-us">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/09df77c2-0163-4714-b2e5-13068fd4b98b">CPU Circuit Memory Design Engineer</a></td>
-<td>US, Texas, Austin, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Circuit-Memory-Design-Engineer_JR0286868">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/6237a278-9ca5-4e24-8d3f-a0e1d31ee484">Analog Engineer</a></td>
+<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Santa Clara<br/>US, Texas, Austin<br/>+1 more</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Analog-Engineer_JR0286203">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
@@ -41,13 +76,6 @@
 <td><a href="https://trueinterview.io/jobs/7027a32e-fe5a-48f5-a428-92c7dde6cb79">New College Grad - ATE Process Engineer ID1</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/38571652">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5099827d-6775-45b4-92a1-a29693ebc3b1">New College Grad - Shift Process Engineer ID1</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/39688071">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
@@ -423,13 +451,6 @@
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/9abea28f-a9cf-4136-b650-852d917d0b5e">Data Engineer I, Fire TV</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10513820/data-engineer-i-fire-tv">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c0e27bfa-ff06-42a6-b043-c3566d9bd7b7">Mechanical Engineer, Satellite Hardware</a></td>
 <td>Redmond, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10513157/mechanical-engineer-satellite-hardware">Apply</a></td>
@@ -1357,13 +1378,6 @@
 <td><a href="https://trueinterview.io/jobs/74cdd544-9096-4832-ae3d-dbc8dbd9c51d">Automation Engineer</a></td>
 <td>Wilsonville, OR, United States</td>
 <td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2013416">Apply</a></td>
-<td align="center">27 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a4f69bf-b698-4e17-b4c7-38828b2621ba">Shift Equipment Engineer ID1</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/39687950">Apply</a></td>
 <td align="center">27 Jul 2026</td>
 </tr>
 <tr>

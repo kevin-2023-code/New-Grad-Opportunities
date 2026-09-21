@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**212 open roles.** 131 in the United States & Canada · 81 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**213 open roles.** 133 in the United States & Canada · 80 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ZoomInfo</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8218c78-a554-481d-a18c-08e2df9f9ed7">Machine Learning Engineer</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://www.zoominfo.com/careers?gh_jid=8769474002">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5bc5cbd-7ac6-4f5e-8c9d-cd70b68fdcb8">Critical Environment Electrical Engineer</a></td>
+<td>Cheyenne, WY, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557001976">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Fieldguide</strong></td>
 <td><a href="https://trueinterview.io/jobs/480e99e2-4cd0-40cd-aadc-1f7ff124c7c9">Software Engineer (Internal Audit, All Levels)</a> 🌐</td>
@@ -1246,13 +1260,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Spain</td>
 <td align="center"><a href="https://himalayas.app/companies/unit4/jobs/servicenow-developer-5341107650">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>ZoomInfo</strong></td>
-<td><a href="https://trueinterview.io/jobs/a374b145-2db8-4f0f-a322-e8a36e9f2632">Software Engineer I - Salesforce Support</a></td>
-<td>Bengaluru, Karnataka, India<br/>Bangalore, India</td>
-<td align="center"><a href="https://www.zoominfo.com/careers?gh_jid=8759684002">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Awin</strong></td>

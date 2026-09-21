@@ -18,6 +18,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f648879-e075-463e-bc7a-da3bdea168fe">Electrical Integration Engineer (Starlink Aviation)</a></td>
+<td>Woodinville, WA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8828678002?gh_jid=8828678002">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Rocket Lab Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c7dfbdd-5d3a-4766-8cfe-90a6dca03392">Spacecraft Propulsion Components Engineer I</a></td>
+<td>Long Beach, CA<br/>RL Headquarters</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/8001348003">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/d65bab50-152e-4108-8f76-45dac2de5a41">Software Engineer - Surface Dominance</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5244194007?gh_jid=5244194007">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Array Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/1808e4ab-5267-48d9-992d-aaee1baa1637">Embedded Software Engineer</a></td>
 <td>Redwood City, United States</td>
@@ -169,13 +190,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b54fa385-4d8b-4247-a864-bbe62008b852">SIM Management, 5G Core Engineer</a></td>
 <td>Santa Clara, CA<br/>Arlington, TX</td>
 <td align="center"><a href="https://jobs.lever.co/espace/cf97ef10-6123-47ff-bf0e-f14e0d37f1fb/apply">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a5076df-460b-4300-ae75-ad34af870a11">Mechanical Engineer, HVAC &amp; Controls (Facilities Infrastructure)</a></td>
-<td>Vandenberg, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8815268002?gh_jid=8815268002">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -2046,20 +2060,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Memphis, TN</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8648213002?gh_jid=8648213002">Apply</a></td>
 <td align="center">24 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fbe0c26a-6dc2-4d44-8d39-6fe893f74d39">Supplier Development Engineer, Materials &amp; Special Processes (Falcon &amp; Dragon)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8644020002?gh_jid=8644020002">Apply</a></td>
-<td align="center">23 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/86d674b1-27f5-4ab7-9017-4a5177545e39">Structures Design Engineer (Starship)</a></td>
-<td>Starbase, TX<br/>Brownsville, TX, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8493176002?gh_jid=8493176002">Apply</a></td>
-<td align="center">23 Jul 2026</td>
 </tr>
 </tbody>
 </table>

@@ -20,6 +20,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Btg Pactual</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5f69370-55f9-4c2f-8785-e56dfc02566e">Software Engineer - CROSS ASSET SERVICES</a></td>
+<td>São Paulo<br/>BR - SAO PAULO</td>
+<td align="center"><a href="https://carreiras.btgpactual.com/vagas?gh_jid=6185522004">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Sezzle</strong></td>
 <td><a href="https://trueinterview.io/jobs/1296de0d-4d36-4597-b0ad-1cfc929cf85c">Practicante en Product Management</a> 🌐</td>
 <td>Remote<br/>Bogota, Colombia</td>
@@ -67,13 +74,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Campinas, São Paulo, Brazil<br/>Campinas, Brazil</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8810220002">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Btg Pactual</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9bca1fa-453e-4f2f-b804-9b66de54acfd">Software Engineer Backend |  IT Offshore Platform US</a></td>
-<td>São Paulo, Brazil<br/>BR - SAO PAULO</td>
-<td align="center"><a href="https://carreiras.btgpactual.com/vagas?gh_jid=6192350004">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Blend360</strong></td>

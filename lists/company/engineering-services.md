@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**71 open roles.** 60 in the United States & Canada · 11 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**73 open roles.** 62 in the United States & Canada · 11 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,7 +18,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Dialog</strong></td>
+<td><a href="https://trueinterview.io/jobs/4254340a-4893-4a28-9220-1c2b2a3980db">Intermediate Electrical Engineer</a></td>
+<td>Calgary, AB</td>
+<td align="center"><a href="https://jobs.lever.co/dialogdesign/ed91084f-712f-4f1b-a267-5e88e5af7e0c/apply">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/4909f7d6-d160-46f8-a607-1cf2724fa2ce">Water Resources Engineering- Summer 2027</a></td>
+<td>Raleigh, NC, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95776">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/66756f70-55d0-49f1-bbef-e36750d37166">Structural Technologist / Inspector, Bridges &amp; Civil Structures</a></td>
 <td>Ottawa, ON, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94553">Apply</a></td>

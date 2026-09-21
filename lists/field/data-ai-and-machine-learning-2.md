@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**669 open roles.** 336 in the United States & Canada · 333 elsewhere in the world.
+**678 open roles.** 340 in the United States & Canada · 338 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,76 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>eXalt</strong></td>
+<td><a href="https://trueinterview.io/jobs/23125e61-f41f-413c-8328-fe22fd36362b">AI engineer</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/exalt/jobs/ai-engineer_paris">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Francis Crick</strong></td>
+<td><a href="https://trueinterview.io/jobs/4800a4f6-7066-4301-910b-3e6683d4074d">Software Engineer (Machine Learning)</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/francis-crick/jobs/software-engineer-machine-learning_london_b2vjnynh">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intact Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/f26be470-3934-4b80-83be-61003837f46a">AI Developer</a></td>
+<td>Hong Kong Science Park, HK</td>
+<td align="center"><a href="https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Hong-Kong-Science-Park-HK/AI-Developer_R155263">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lemlist</strong></td>
+<td><a href="https://trueinterview.io/jobs/64b0fe18-0544-4c73-949b-5f2e90751d1c">Data Engineer</a> 🌐</td>
+<td>Remote — France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/lemlist/jobs/data-engineer_paris_LEMLI_X3pdlXe">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/58cd77af-3591-46ff-b1f7-153d0163a80a">AI Engineer, Product</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/ai-engineer-product_paris_MA_WraML2z">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/311628fa-c2dc-420a-b3b4-3592a172b8cb">Applied AI Engineer, CyberSecurity</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-engineer-cybersecurity_paris_MA_dZk2ZZx">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a5ce6324-6a26-4ed3-91bd-53b8d416ac60">Applied AI Engineer, ML Infrastructure Engineer / Devops - EMEA</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-engineer-ml-infrastructure-engineer-devops-emea_paris">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/962fb1e0-9747-4f96-983d-e932e4f3d363">Applied AI, Forward Deployed Machine Learning Engineer - EMEA</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-forward-deployed-machine-learning-engineer-emea_paris">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b6ac6570-049a-4ffb-a19f-31ca829f36de">Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-forward-deployed-machine-learning-engineer-critical-and-sovereign-institutions-emea_paris_MA_wjz4xro">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/af7df6f3-3f25-4944-8671-11792c1dec06">Applied AI, Machine Learning Engineer, South Korea</a></td>
+<td>Seoul, South Korea</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-engineer_seoul">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>PAYPLUG</strong></td>
 <td><a href="https://trueinterview.io/jobs/6fe9416d-0c10-4d04-b0c9-b354eaafb7e3">(Stage) Data AI Engineer</a></td>
@@ -148,13 +218,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/708eba20-5844-4c74-91a7-a3bb2dc7acd6">AI Engineer - Spécialiste AI4Code &amp; Agents IA (H/F)</a></td>
 <td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/margo/jobs/ai-engineer-specialiste-ai4code-agents-ia-h-f_paris">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mastercard</strong></td>
-<td><a href="https://trueinterview.io/jobs/6108d10a-c51d-466f-93e6-c2871c0cea13">Data Scientist (Data Visualisation)</a></td>
-<td>Gurgaon, India</td>
-<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Data-Scientist--Data-Visualisation-_R-288306">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>

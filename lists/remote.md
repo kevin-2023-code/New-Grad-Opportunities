@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**348 open roles.** 227 in the United States & Canada · 121 elsewhere in the world. Postings the pipeline classified as remote.
+**351 open roles.** 229 in the United States & Canada · 122 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Eplus Technology, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/81a0e355-5c87-4686-8367-94aae1861d1e">On Demand Services Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/eplusinc/jobs/4408215009">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>ZoomInfo</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8218c78-a554-481d-a18c-08e2df9f9ed7">Machine Learning Engineer</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://www.zoominfo.com/careers?gh_jid=8769474002">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cerebras Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/37a1a52b-e39c-4653-8a17-03e9074cd6b9">AI Datacenter Infra engineer</a> 🌐</td>
+<td>Remote — Canada, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cerebras/3a943706-87b4-4a0f-b1ac-70d1ff3d00e2">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Snowflake</strong></td>
 <td><a href="https://trueinterview.io/jobs/b2b379d0-463d-4bb2-990e-91531102abdc">Account Engineer</a> 🌐</td>
@@ -120,13 +141,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4becc80e-3eb5-4690-91e1-dba88fa43e67">Frontend Software Engineer (Upfunnel)</a> 🌐</td>
 <td>Remote — Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/affirm/jobs/frontend-software-engineer-upfunnel_ottawa_54yehvwf">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Blend</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b0b4f77-d76b-4b27-af80-426c97ba6d75">Software Engineer (Platform Foundation)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/blend-2/jobs/software-engineer-platform-foundation_us_gggirenu">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -1619,6 +1633,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Shopify</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7ae4f21-4449-41b0-84c0-2191140bcdef">Developer Support Specialist, PST &amp; EST</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://www.shopify.com/careers/developer-support-specialist-pst-est_88865df0-0622-4687-b8e1-a03b64918e5e">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cribl</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2283058-5949-46bd-87f4-95db0ba99fbf">Solutions Engineer, Singapore</a> 🌐</td>
+<td>Remote — Singapore</td>
+<td align="center"><a href="https://cribl.io/job-detail/?gh_jid=5746407004">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Bump</strong></td>
 <td><a href="https://trueinterview.io/jobs/a2cf54af-0776-4884-bd42-bb28021677a6">Fullstack Engineer</a> 🌐</td>
 <td>Remote — France</td>
@@ -2051,13 +2079,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote — Spain</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/galadrim/jobs/software-engineer-freelance-madrid_madrid">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cribl</strong></td>
-<td><a href="https://trueinterview.io/jobs/adfb78d4-4ce0-4128-9fa5-30c9631ccd69">Solutions Engineer, Japan</a> 🌐</td>
-<td>Remote — Japan</td>
-<td align="center"><a href="https://cribl.io/job-detail/?gh_jid=6179246004">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Supabase</strong></td>

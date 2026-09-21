@@ -604,6 +604,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Cribl</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2283058-5949-46bd-87f4-95db0ba99fbf">Solutions Engineer, Singapore</a> 🌐</td>
+<td>Remote — Singapore</td>
+<td align="center"><a href="https://cribl.io/job-detail/?gh_jid=5746407004">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>DeepSource</strong></td>
 <td><a href="https://trueinterview.io/jobs/6f696e1d-6d25-4feb-aeb5-5dc0039628f5">Power Apps Developer- Remote (Egyptians Preferred)</a></td>
 <td>Egypt</td>
@@ -854,13 +861,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/scaleway/jobs/ai-engineer_paris">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cribl</strong></td>
-<td><a href="https://trueinterview.io/jobs/adfb78d4-4ce0-4128-9fa5-30c9631ccd69">Solutions Engineer, Japan</a> 🌐</td>
-<td>Remote — Japan</td>
-<td align="center"><a href="https://cribl.io/job-detail/?gh_jid=6179246004">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Resend</strong></td>
