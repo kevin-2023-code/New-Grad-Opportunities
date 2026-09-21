@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**57 open roles.** 23 in the United States & Canada · 34 elsewhere in the world.
+**58 open roles.** 23 in the United States & Canada · 35 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -190,6 +190,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Rollee</strong></td>
+<td><a href="https://trueinterview.io/jobs/a65fee74-57e2-4652-8c9d-de4f56194bdd">Backend Engineer - Coverage Team</a></td>
+<td>Argentina</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/rollee-1/jobs/backend-engineer-coverage-team_ar_7gddgapz">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Pinwheel</strong></td>
 <td><a href="https://trueinterview.io/jobs/72adf300-48fb-41f4-94f1-b4a1819918d8">Backend Engineer (Integrations Platform)</a></td>

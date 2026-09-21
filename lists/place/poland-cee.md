@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**16 open roles.**
+**15 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -102,13 +102,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Tallinn, Estonia</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/wise-1/jobs/fullstack-engineer_tallin">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1cad3af-3c9a-4393-8bbf-e774cbbf331a">Java Software Engineer (Junior/Mid)</a></td>
-<td>Krakow, Poland</td>
-<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Senior-Java-Software-Engineer_R66992">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Graphcore</strong></td>

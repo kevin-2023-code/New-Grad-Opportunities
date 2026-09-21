@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**664 open roles.** 335 in the United States & Canada · 329 elsewhere in the world.
+**667 open roles.** 335 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/075b8b95-93cf-4081-851f-3b8a3c838bfc">Płatne praktyki / Cloud Data Engineer</a></td>
+<td>Warszawa</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Patne-praktyki---Cloud-Data-Engineer_752140WD">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Shape It</strong></td>
+<td><a href="https://trueinterview.io/jobs/a680079f-e9d5-4b7e-9708-3d510d30cd39">Data Engineer (Spark)</a></td>
+<td>Lille, France<br/>Lyon, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/shape-it/jobs/data-engineer_lille_SI_6WrWXb9">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Skaleet</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8582d38-84ce-4f1a-82b4-4cc7f58f92a4">AI Engineer H/F</a></td>
+<td>Boulogne-Billancourt, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/skaleet/jobs/ai-ml-engineer-h-f_boulogne-billancourt">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Skiils</strong></td>
 <td><a href="https://trueinterview.io/jobs/17f15304-4fec-492a-bb92-e4e98ee5ee0a">AI Engineer H/F</a></td>

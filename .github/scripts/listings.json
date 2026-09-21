@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-21T06:12:11.631Z",
-  "count": 3401,
+  "listingsChangedAt": "2026-09-21T13:53:52.945Z",
+  "count": 3403,
   "listings": [
     {
       "id": "93bbf6e3-0172-477e-9ffb-954dfaee9697",
@@ -112,6 +112,31 @@
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
     {
+      "id": "a2cf54af-0776-4884-bd42-bb28021677a6",
+      "company": "Bump",
+      "title": "Fullstack Engineer",
+      "locations": [
+        "Bordeaux, France, Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/bump-charge/jobs/fullstack-engineer",
+      "url": "https://trueinterview.io/jobs/a2cf54af-0776-4884-bd42-bb28021677a6",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
       "id": "6f696e1d-6d25-4feb-aeb5-5dc0039628f5",
       "company": "DeepSource",
       "title": "Power Apps Developer- Remote (Egyptians Preferred)",
@@ -133,6 +158,31 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/deepsource-io/jobs/power-apps-developer-remote-egyptians-preferred",
       "url": "https://trueinterview.io/jobs/6f696e1d-6d25-4feb-aeb5-5dc0039628f5",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "0e16fa7a-5321-499e-8f74-608c0bfe5683",
+      "company": "eXalt",
+      "title": "Data engineer Azure Databricks",
+      "locations": [
+        "Brussels, Belgium"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/exalt/jobs/data-engineer-azure-databricks_bruxelles",
+      "url": "https://trueinterview.io/jobs/0e16fa7a-5321-499e-8f74-608c0bfe5683",
       "postedAt": "2026-09-21T00:00:00.000Z",
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
@@ -162,6 +212,58 @@
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
     {
+      "id": "95629244-8fea-4720-8052-ab49aaaac642",
+      "company": "Jobs for Humanity",
+      "title": "Ruby Developer – Full-Time / Remote / Lebanon",
+      "locations": [
+        "Lebanon"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/jobs-for-humanity/jobs/ruby-developer-full-time-remote-lebanon",
+      "url": "https://trueinterview.io/jobs/95629244-8fea-4720-8052-ab49aaaac642",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "dca65987-ce25-4c5c-97ac-62b6a335a65a",
+      "company": "Luxurynsight",
+      "title": "Data Engineer Luxurynsight",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/luxurynsight/jobs/data-engineer-luxurynsight_paris",
+      "url": "https://trueinterview.io/jobs/dca65987-ce25-4c5c-97ac-62b6a335a65a",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
       "id": "10846fb5-4fae-4338-b685-53f7ffa4a66c",
       "company": "NVIDIA",
       "title": "System Software Engineer - CUDA Chips",
@@ -183,6 +285,56 @@
       "source": "trueinterview",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---CUDA-Chips_JR2026249-1",
       "url": "https://trueinterview.io/jobs/10846fb5-4fae-4338-b685-53f7ffa4a66c",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "a65fee74-57e2-4652-8c9d-de4f56194bdd",
+      "company": "Rollee",
+      "title": "Backend Engineer - Coverage Team",
+      "locations": [
+        "Argentina"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/rollee-1/jobs/backend-engineer-coverage-team_ar_7gddgapz",
+      "url": "https://trueinterview.io/jobs/a65fee74-57e2-4652-8c9d-de4f56194bdd",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "cff742bd-c75b-4aff-8ed0-8c30f12155ca",
+      "company": "Webnet",
+      "title": "Data Engineer Scala/Apark H/F - Boulogne",
+      "locations": [
+        "Sèvres, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/webnet/jobs/data-engineer-scala-apark-h-f-boulogne_sevres",
+      "url": "https://trueinterview.io/jobs/cff742bd-c75b-4aff-8ed0-8c30f12155ca",
       "postedAt": "2026-09-21T00:00:00.000Z",
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
@@ -26222,31 +26374,6 @@
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
     {
-      "id": "37d47b55-6cee-4bbb-a458-50ee988b3c1d",
-      "company": "Panasonic",
-      "title": "Quality Engineering Technician I - Formation, Nights B-Shift",
-      "locations": [
-        "Sparks, Nevada, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.na.panasonic.com/jobs/50400?lang=en-us",
-      "url": "https://trueinterview.io/jobs/37d47b55-6cee-4bbb-a458-50ee988b3c1d",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
       "id": "6a00fd4c-555e-45ec-ada5-c74f7f26a81f",
       "company": "Parsons Corporation",
       "title": "Forensic Software Developer",
@@ -30248,32 +30375,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Materials-Research-Engineer_JR0286901",
       "url": "https://trueinterview.io/jobs/7e1af309-e593-4fcf-9afd-21a0111e2bd7",
-      "postedAt": "2026-09-10T00:00:00.000Z",
-      "updatedAt": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "id": "1f515b06-6102-46a1-b3e4-07539c4cecc5",
-      "company": "Intel",
-      "title": "Packaging Research and Development Engineer",
-      "locations": [
-        "US, Arizona, Phoenix",
-        "US, Arizona, Phoenix, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Research-and-Development-Engineer_JR0286710",
-      "url": "https://trueinterview.io/jobs/1f515b06-6102-46a1-b3e4-07539c4cecc5",
       "postedAt": "2026-09-10T00:00:00.000Z",
       "updatedAt": "2026-09-10T00:00:00.000Z"
     },
@@ -36900,29 +37001,6 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/lexisnexis/jobs/content-developer-education-legal-regulatory",
       "url": "https://trueinterview.io/jobs/8008b720-a152-493e-8ed0-0f5d820f5c3a",
-      "postedAt": "2026-09-08T00:00:00.000Z",
-      "updatedAt": "2026-09-08T00:00:00.000Z"
-    },
-    {
-      "id": "43393e94-c448-4602-b553-bcc4df030b38",
-      "company": "Magna International",
-      "title": "Automation Engineer (OT)",
-      "locations": [
-        "Golcuk, TR"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "trueinterview",
-      "applyUrl": "https://magna.wd3.myworkdayjobs.com/Magna/job/Golcuk-TR/Automation-Engineer--OT-_R00260633-1",
-      "url": "https://trueinterview.io/jobs/43393e94-c448-4602-b553-bcc4df030b38",
       "postedAt": "2026-09-08T00:00:00.000Z",
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
@@ -46787,31 +46865,6 @@
       "source": "trueinterview",
       "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Developer-Relations-Engineer---Ecosystem---Product-Operations_R65242",
       "url": "https://trueinterview.io/jobs/87e149ef-58e8-484c-be62-50e54bc0b0e7",
-      "postedAt": "2026-09-03T00:00:00.000Z",
-      "updatedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "c1cad3af-3c9a-4393-8bbf-e774cbbf331a",
-      "company": "Motorola Solutions",
-      "title": "Java Software Engineer (Junior/Mid)",
-      "locations": [
-        "Krakow, Poland"
-      ],
-      "cities": [],
-      "countries": [
-        "Poland"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "trueinterview",
-      "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Senior-Java-Software-Engineer_R66992",
-      "url": "https://trueinterview.io/jobs/c1cad3af-3c9a-4393-8bbf-e774cbbf331a",
       "postedAt": "2026-09-03T00:00:00.000Z",
       "updatedAt": "2026-09-03T00:00:00.000Z"
     },

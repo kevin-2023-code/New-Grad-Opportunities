@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**110 open roles.** 89 in the United States & Canada · 21 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**109 open roles.** 89 in the United States & Canada · 20 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -699,13 +699,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a527de12-77f3-4235-a8a0-a6970360bc3d">AI Engineer</a></td>
 <td>Chennai, Tamil Nadu, India</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70162">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Magna International</strong></td>
-<td><a href="https://trueinterview.io/jobs/43393e94-c448-4602-b553-bcc4df030b38">Automation Engineer (OT)</a></td>
-<td>Golcuk, TR</td>
-<td align="center"><a href="https://magna.wd3.myworkdayjobs.com/Magna/job/Golcuk-TR/Automation-Engineer--OT-_R00260633-1">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>

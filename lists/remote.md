@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**346 open roles.** 226 in the United States & Canada · 120 elsewhere in the world. Postings the pipeline classified as remote.
+**347 open roles.** 226 in the United States & Canada · 121 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1611,6 +1611,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bump</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2cf54af-0776-4884-bd42-bb28021677a6">Fullstack Engineer</a> 🌐</td>
+<td>Remote — France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/bump-charge/jobs/fullstack-engineer">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Coder</strong></td>
 <td><a href="https://trueinterview.io/jobs/0008784c-510e-40e3-948f-013d41a51057">Software Engineer (Enterprise Experience, Backend)</a> 🌐</td>
