@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**155 open roles.** 81 in the United States & Canada · 74 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**156 open roles.** 81 in the United States & Canada · 75 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -596,6 +596,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DeepSource</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f696e1d-6d25-4feb-aeb5-5dc0039628f5">Power Apps Developer- Remote (Egyptians Preferred)</a></td>
+<td>Egypt</td>
+<td align="center"><a href="https://himalayas.app/companies/deepsource-io/jobs/power-apps-developer-remote-egyptians-preferred">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Datadog</strong></td>
 <td><a href="https://trueinterview.io/jobs/c0e042cc-e69c-4f90-8967-ca04ea51183c">Developer Advocate - Service Management EMEA</a></td>

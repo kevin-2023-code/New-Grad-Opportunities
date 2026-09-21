@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**665 open roles.** 335 in the United States & Canada · 330 elsewhere in the world.
+**664 open roles.** 335 in the United States & Canada · 329 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2538,13 +2538,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>QUALCOMM</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4b8c929-9036-41f1-87f9-601c570205e4">AI Research Engineer</a></td>
-<td>Hanoi, Hanoi, VN<br/>Ho Chi Minh City, Ho Chi Minh City, VN</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446721009721">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>SMG swiss marketplace group (ex Ricardo)</strong></td>
 <td><a href="https://trueinterview.io/jobs/d2b5235e-58d6-4360-8063-91214e26aec5">Data Engineer / Hybrid work</a></td>
 <td>Valbonne, France</td>
@@ -2829,6 +2822,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a680079f-e9d5-4b7e-9708-3d510d30cd39">Data Engineer (Spark)</a></td>
 <td>Lille, France<br/>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/shape-it/jobs/data-engineer_lille_SI_6WrWXb9">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Skaleet</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8582d38-84ce-4f1a-82b4-4cc7f58f92a4">AI Engineer H/F</a></td>
+<td>Boulogne-Billancourt, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/skaleet/jobs/ai-ml-engineer-h-f_boulogne-billancourt">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 </tbody>

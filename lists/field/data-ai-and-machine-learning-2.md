@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**665 open roles.** 335 in the United States & Canada · 330 elsewhere in the world.
+**664 open roles.** 335 in the United States & Canada · 329 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Skaleet</strong></td>
-<td><a href="https://trueinterview.io/jobs/c8582d38-84ce-4f1a-82b4-4cc7f58f92a4">AI Engineer H/F</a></td>
-<td>Boulogne-Billancourt, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/skaleet/jobs/ai-ml-engineer-h-f_boulogne-billancourt">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Skiils</strong></td>
 <td><a href="https://trueinterview.io/jobs/17f15304-4fec-492a-bb92-e4e98ee5ee0a">AI Engineer H/F</a></td>

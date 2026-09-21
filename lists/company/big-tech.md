@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**660 open roles.** 600 in the United States & Canada · 60 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**656 open roles.** 597 in the United States & Canada · 59 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,13 +25,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, CA, Santa Clara</td>
 <td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---CUDA-Chips_JR2026249-1">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/31bc5cf5-b214-49d9-8648-8805bad27266">Trust and Safety Analyst, Developer Experience and Ecosystem Programs</a></td>
-<td>Atlanta, GA<br/>Austin, TX</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/128322892419998406-trust-and-safety-analyst-developer-experience-and-ecosystem-programs">Apply</a></td>
-<td align="center">20 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Applied Materials</strong></td>
@@ -2190,13 +2183,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/57796c31-3d31-490a-9326-367052029372">Failure Analysis Engineer I (Full-Time) United States</a></td>
-<td>Maynard, Massachusetts, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Failure-Analysis-Engineer_2018947">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Garmin</strong></td>
 <td><a href="https://trueinterview.io/jobs/47c8344b-c217-428b-892c-a7dbbf0b66f7">Software Engineer 1 (Android)</a></td>
 <td>Yarmouth, Maine, United States<br/>Olathe, Kansas, United States</td>
@@ -2817,6 +2803,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/09df77c2-0163-4714-b2e5-13068fd4b98b">CPU Circuit Memory Design Engineer</a></td>
 <td>US, Texas, Austin, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Circuit-Memory-Design-Engineer_JR0286868">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/42ff3a3c-9bf4-4686-9083-c5e99c08ba98">Design Automation Engineer - Neuromorphic Computing</a></td>
+<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>US, California, Santa Clara<br/>+2 more</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Design-Automation-Engineer---Neuromorphic-Computing_JR0286772">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cb4eda85-7f9d-4027-9088-90f0b6203516">Package Assembly Process Development Integration Engineer</a></td>
+<td>US, Arizona, Phoenix, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Package-Assembly-Process-Development-Integration-Engineer_JR0286724">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 </tbody>

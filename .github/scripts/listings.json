@@ -6,9 +6,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-21T00:59:07.223Z",
-  "count": 3402,
+  "listingsChangedAt": "2026-09-21T06:12:11.631Z",
+  "count": 3401,
   "listings": [
+    {
+      "id": "93bbf6e3-0172-477e-9ffb-954dfaee9697",
+      "company": "Alten Calsoft Labs",
+      "title": "C++ Developer - Automotive - Remote Opportunity",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/alten-calsoft-labs/jobs/c-developer-automotive-remote-opportunity",
+      "url": "https://trueinterview.io/jobs/93bbf6e3-0172-477e-9ffb-954dfaee9697",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
     {
       "id": "1808e4ab-5267-48d9-992d-aaee1baa1637",
       "company": "Array Labs",
@@ -58,6 +83,56 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/astranis/jobs/software-engineer-vehicle-test_san-francisco_uceux6gx",
       "url": "https://trueinterview.io/jobs/1cac34ff-5467-43b0-8489-89dc7e423ad8",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "ffe9ac13-2670-4bbb-af0f-acfc5b15e456",
+      "company": "Bjak",
+      "title": "iOS Software Engineer",
+      "locations": [
+        "Portugal"
+      ],
+      "cities": [],
+      "countries": [
+        "Portugal"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/bjak/jobs/ios-software-engineer-614455308",
+      "url": "https://trueinterview.io/jobs/ffe9ac13-2670-4bbb-af0f-acfc5b15e456",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "6f696e1d-6d25-4feb-aeb5-5dc0039628f5",
+      "company": "DeepSource",
+      "title": "Power Apps Developer- Remote (Egyptians Preferred)",
+      "locations": [
+        "Egypt"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/deepsource-io/jobs/power-apps-developer-remote-egyptians-preferred",
+      "url": "https://trueinterview.io/jobs/6f696e1d-6d25-4feb-aeb5-5dc0039628f5",
       "postedAt": "2026-09-21T00:00:00.000Z",
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
@@ -162,35 +237,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://bloomberg.avature.net/careers/JobDetail/Technical-Trainer-Software-Engineering/20510",
       "url": "https://trueinterview.io/jobs/f3e12709-20a8-4686-b124-6ed207309db3",
-      "postedAt": "2026-09-20T23:53:10.000Z",
-      "updatedAt": "2026-09-20T23:53:10.000Z"
-    },
-    {
-      "id": "31bc5cf5-b214-49d9-8648-8805bad27266",
-      "company": "Google",
-      "title": "Trust and Safety Analyst, Developer Experience and Ecosystem Programs",
-      "locations": [
-        "Atlanta, GA, USA",
-        "Austin, TX, USA"
-      ],
-      "cities": [
-        "Atlanta, GA",
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/128322892419998406-trust-and-safety-analyst-developer-experience-and-ecosystem-programs",
-      "url": "https://trueinterview.io/jobs/31bc5cf5-b214-49d9-8648-8805bad27266",
       "postedAt": "2026-09-20T23:53:10.000Z",
       "updatedAt": "2026-09-20T23:53:10.000Z"
     },
@@ -4365,30 +4411,6 @@
       "source": "trueinterview",
       "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Azure-Data-Engineering--D-A-Advisory-Noida_750292WD-1",
       "url": "https://trueinterview.io/jobs/9e615124-2849-4da6-aade-a96da8b5e048",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "a4b8c929-9036-41f1-87f9-601c570205e4",
-      "company": "QUALCOMM",
-      "title": "AI Research Engineer",
-      "locations": [
-        "Hanoi, Hanoi, VN",
-        "Ho Chi Minh City, Ho Chi Minh City, VN"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446721009721",
-      "url": "https://trueinterview.io/jobs/a4b8c929-9036-41f1-87f9-601c570205e4",
       "postedAt": "2026-09-18T00:00:00.000Z",
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
@@ -36397,32 +36419,6 @@
       "source": "trueinterview",
       "applyUrl": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Business-Systems-Engineer---AI_JR160709",
       "url": "https://trueinterview.io/jobs/076487ae-fa5e-4796-bd58-fa100ece11eb",
-      "postedAt": "2026-09-08T00:00:00.000Z",
-      "updatedAt": "2026-09-08T00:00:00.000Z"
-    },
-    {
-      "id": "57796c31-3d31-490a-9326-367052029372",
-      "company": "Cisco",
-      "title": "Failure Analysis Engineer I (Full-Time) United States",
-      "locations": [
-        "Maynard, Massachusetts, US",
-        "Maynard, Massachusetts, US, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Failure-Analysis-Engineer_2018947",
-      "url": "https://trueinterview.io/jobs/57796c31-3d31-490a-9326-367052029372",
       "postedAt": "2026-09-08T00:00:00.000Z",
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
@@ -75511,32 +75507,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.lever.co/palantir/5614a901-ef96-4b9c-928d-4a9c338c8aad",
       "url": "https://trueinterview.io/jobs/5e5a057f-7acd-4160-bed2-47d85229bac6",
-      "postedAt": "2026-08-14T00:00:00.000Z",
-      "updatedAt": "2026-08-14T00:00:00.000Z"
-    },
-    {
-      "id": "648de1e8-1e70-4214-acbe-9d2078dedc79",
-      "company": "Salesforce",
-      "title": "Software Engineering MTS",
-      "locations": [
-        "California - San Francisco",
-        "California - San Francisco, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR353585",
-      "url": "https://trueinterview.io/jobs/648de1e8-1e70-4214-acbe-9d2078dedc79",
       "postedAt": "2026-08-14T00:00:00.000Z",
       "updatedAt": "2026-08-14T00:00:00.000Z"
     },

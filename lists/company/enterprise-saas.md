@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**213 open roles.** 132 in the United States & Canada · 81 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**212 open roles.** 131 in the United States & Canada · 81 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -785,13 +785,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5e5a057f-7acd-4160-bed2-47d85229bac6">Offensive Security Engineer</a></td>
 <td>Washington, DC<br/>New York, NY<br/>Washington, D.C.</td>
 <td align="center"><a href="https://jobs.lever.co/palantir/5614a901-ef96-4b9c-928d-4a9c338c8aad">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Salesforce</strong></td>
-<td><a href="https://trueinterview.io/jobs/648de1e8-1e70-4214-acbe-9d2078dedc79">Software Engineering MTS</a></td>
-<td>California - San Francisco, United States of America</td>
-<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR353585">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**617 open roles.** 616 in the United States & Canada · 1 elsewhere in the world.
+**616 open roles.** 615 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -741,13 +741,6 @@
 <td><a href="https://trueinterview.io/jobs/dbe68add-9e00-4ff5-bfaa-aab9ff11c0b0">New College Grad - AI Innovation Research Engineer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43815479">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Salesforce</strong></td>
-<td><a href="https://trueinterview.io/jobs/648de1e8-1e70-4214-acbe-9d2078dedc79">Software Engineering MTS</a></td>
-<td>California - San Francisco, United States of America</td>
-<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR353585">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>

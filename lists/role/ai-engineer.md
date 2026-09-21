@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**246 open roles.** 126 in the United States & Canada · 120 elsewhere in the world.
+**245 open roles.** 126 in the United States & Canada · 119 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -944,13 +944,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5f36610f-480d-427b-ba9a-c8042cb01720">IN_Associate_AI Engineer_GCC_Advisory_Bangalore</a></td>
 <td>Bengaluru Millenia</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate---AWS-Data-Engineer---Data-and-Analytics---Advisory---Bangalore_751159WD-1">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>QUALCOMM</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4b8c929-9036-41f1-87f9-601c570205e4">AI Research Engineer</a></td>
-<td>Hanoi, Hanoi, VN<br/>Ho Chi Minh City, Ho Chi Minh City, VN</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446721009721">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>

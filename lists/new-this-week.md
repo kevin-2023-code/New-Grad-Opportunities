@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**840 open roles.** 549 in the United States & Canada · 291 elsewhere in the world. Everything the employers put up this week.
+**841 open roles.** 549 in the United States & Canada · 292 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Alten Calsoft Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/93bbf6e3-0172-477e-9ffb-954dfaee9697">C++ Developer - Automotive - Remote Opportunity</a></td>
+<td>United States</td>
+<td align="center"><a href="https://himalayas.app/companies/alten-calsoft-labs/jobs/c-developer-automotive-remote-opportunity">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Array Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/1808e4ab-5267-48d9-992d-aaee1baa1637">Embedded Software Engineer</a></td>
@@ -52,13 +59,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f3e12709-20a8-4686-b124-6ed207309db3">Technical Trainer - Software Engineering</a></td>
 <td>New York, NY<br/>New York, New York, United States of America</td>
 <td align="center"><a href="https://bloomberg.avature.net/careers/JobDetail/Technical-Trainer-Software-Engineering/20510">Apply</a></td>
-<td align="center">20 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/31bc5cf5-b214-49d9-8648-8805bad27266">Trust and Safety Analyst, Developer Experience and Ecosystem Programs</a></td>
-<td>Atlanta, GA<br/>Austin, TX</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/128322892419998406-trust-and-safety-analyst-developer-experience-and-ecosystem-programs">Apply</a></td>
 <td align="center">20 Sep 2026</td>
 </tr>
 <tr>

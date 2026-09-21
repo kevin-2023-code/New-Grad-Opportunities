@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,098 open roles.** 1,479 in the United States & Canada · 619 elsewhere in the world.
+**2,098 open roles.** 1,477 in the United States & Canada · 621 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@
 <tbody>
 <tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/47a988ff-1c79-4d30-968d-c9bb004b62f9">New Graduate Engineer, Mechanical - '26/'27 (Starlink)</a></td>
-<td>Bastrop, TX<br/>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696952002?gh_jid=8696952002">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d6138eb7-1f67-4697-bbba-f9f58f3c6517">New Graduate Engineer, GNC- '26/'27 (Starlink)</a></td>
 <td>Redmond, WA<br/>Bastrop, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002">Apply</a></td>
@@ -83,13 +76,6 @@
 <td><a href="https://trueinterview.io/jobs/5e5a057f-7acd-4160-bed2-47d85229bac6">Offensive Security Engineer</a></td>
 <td>Washington, DC<br/>New York, NY<br/>Washington, D.C.</td>
 <td align="center"><a href="https://jobs.lever.co/palantir/5614a901-ef96-4b9c-928d-4a9c338c8aad">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Salesforce</strong></td>
-<td><a href="https://trueinterview.io/jobs/648de1e8-1e70-4214-acbe-9d2078dedc79">Software Engineering MTS</a></td>
-<td>California - San Francisco, United States of America</td>
-<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR353585">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>
@@ -1980,6 +1966,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bjak</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffe9ac13-2670-4bbb-af0f-acfc5b15e456">iOS Software Engineer</a></td>
+<td>Portugal</td>
+<td align="center"><a href="https://himalayas.app/companies/bjak/jobs/ios-software-engineer-614455308">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DeepSource</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f696e1d-6d25-4feb-aeb5-5dc0039628f5">Power Apps Developer- Remote (Egyptians Preferred)</a></td>
+<td>Egypt</td>
+<td align="center"><a href="https://himalayas.app/companies/deepsource-io/jobs/power-apps-developer-remote-egyptians-preferred">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Ping Identity</strong></td>
 <td><a href="https://trueinterview.io/jobs/56cbda39-4219-4964-989f-fc70f3608444">Software Engineer</a></td>

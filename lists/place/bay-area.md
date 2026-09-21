@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**617 open roles.** 616 in the United States & Canada · 1 elsewhere in the world.
+**616 open roles.** 615 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 

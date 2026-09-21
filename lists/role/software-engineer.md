@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**648 open roles.** 409 in the United States & Canada · 239 elsewhere in the world.
+**648 open roles.** 408 in the United States & Canada · 240 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Alten Calsoft Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/93bbf6e3-0172-477e-9ffb-954dfaee9697">C++ Developer - Automotive - Remote Opportunity</a></td>
+<td>United States</td>
+<td align="center"><a href="https://himalayas.app/companies/alten-calsoft-labs/jobs/c-developer-automotive-remote-opportunity">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Astranis</strong></td>
 <td><a href="https://trueinterview.io/jobs/1cac34ff-5467-43b0-8489-89dc7e423ad8">Software Engineer (Vehicle Test)</a></td>
 <td>San Francisco, CA</td>
@@ -32,13 +39,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, CA, Santa Clara</td>
 <td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---CUDA-Chips_JR2026249-1">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/31bc5cf5-b214-49d9-8648-8805bad27266">Trust and Safety Analyst, Developer Experience and Ecosystem Programs</a></td>
-<td>Atlanta, GA<br/>Austin, TX</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/128322892419998406-trust-and-safety-analyst-developer-experience-and-ecosystem-programs">Apply</a></td>
-<td align="center">20 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
@@ -2428,13 +2428,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Salesforce</strong></td>
-<td><a href="https://trueinterview.io/jobs/648de1e8-1e70-4214-acbe-9d2078dedc79">Software Engineering MTS</a></td>
-<td>California - San Francisco, United States of America</td>
-<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR353585">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Robinhood</strong></td>
 <td><a href="https://trueinterview.io/jobs/8d263187-81db-4239-8877-94a606ff5fcd">Software Engineer, Proactive Capabilities</a></td>
 <td>Bellevue, WA<br/>Menlo Park, CA</td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a2764f8a-ef90-4185-8c94-2751d04b268b">Software Engineer, Telemetry - Top Secret Clearance (Starlink)</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8656274002?gh_jid=8656274002">Apply</a></td>
+<td align="center">3 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b2bb5e76-ce37-4ed3-b7e5-091bb58461f5">Software Engineer, Backend (C/C++)</a></td>
+<td>Hawthorne, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8672397002?gh_jid=8672397002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
 </tbody>

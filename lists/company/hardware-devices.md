@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**218 open roles.** 190 in the United States & Canada · 28 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**217 open roles.** 189 in the United States & Canada · 28 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -723,13 +723,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Spring, Texas, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Mechanical---Hardware-Engineer-I-Graduate_1213443">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/57796c31-3d31-490a-9326-367052029372">Failure Analysis Engineer I (Full-Time) United States</a></td>
-<td>Maynard, Massachusetts, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Failure-Analysis-Engineer_2018947">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Garmin</strong></td>

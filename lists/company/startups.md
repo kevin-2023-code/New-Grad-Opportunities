@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**250 open roles.** 172 in the United States & Canada · 78 elsewhere in the world. Early-stage technology companies.
+**251 open roles.** 172 in the United States & Canada · 79 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1233,6 +1233,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DeepSource</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f696e1d-6d25-4feb-aeb5-5dc0039628f5">Power Apps Developer- Remote (Egyptians Preferred)</a></td>
+<td>Egypt</td>
+<td align="center"><a href="https://himalayas.app/companies/deepsource-io/jobs/power-apps-developer-remote-egyptians-preferred">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Deepomatic</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3caeb45-0bb4-4a05-836c-f0315734c423">DevOps Engineer</a></td>

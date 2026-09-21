@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**33 open roles.** 10 in the United States & Canada · 23 elsewhere in the world.
+**34 open roles.** 10 in the United States & Canada · 24 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -99,6 +99,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bjak</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffe9ac13-2670-4bbb-af0f-acfc5b15e456">iOS Software Engineer</a></td>
+<td>Portugal</td>
+<td align="center"><a href="https://himalayas.app/companies/bjak/jobs/ios-software-engineer-614455308">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Pavago</strong></td>
 <td><a href="https://trueinterview.io/jobs/3bdedb14-ccfb-487e-918a-237be8ebb843">Mobile App Developer - (iOS/Android)</a></td>

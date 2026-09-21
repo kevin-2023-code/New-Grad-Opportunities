@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**840 open roles.** 549 in the United States & Canada · 291 elsewhere in the world. Everything the employers put up this week.
+**841 open roles.** 549 in the United States & Canada · 292 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1071,6 +1071,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Bjak</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffe9ac13-2670-4bbb-af0f-acfc5b15e456">iOS Software Engineer</a></td>
+<td>Portugal</td>
+<td align="center"><a href="https://himalayas.app/companies/bjak/jobs/ios-software-engineer-614455308">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DeepSource</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f696e1d-6d25-4feb-aeb5-5dc0039628f5">Power Apps Developer- Remote (Egyptians Preferred)</a></td>
+<td>Egypt</td>
+<td align="center"><a href="https://himalayas.app/companies/deepsource-io/jobs/power-apps-developer-remote-egyptians-preferred">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Innovamat</strong></td>
 <td><a href="https://trueinterview.io/jobs/6eec8e55-8d82-49ba-a841-7c113cc4aba2">AI Engineer (Marketing Systems)</a></td>
 <td>Sant Cugat del Vallès, Spain</td>
@@ -1579,13 +1593,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/9e615124-2849-4da6-aade-a96da8b5e048">IN_Senior Associate_Devops Engineer_GCC_Advisory_Bangalore</a></td>
 <td>Bengaluru Millenia</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Azure-Data-Engineering--D-A-Advisory-Noida_750292WD-1">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>QUALCOMM</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4b8c929-9036-41f1-87f9-601c570205e4">AI Research Engineer</a></td>
-<td>Hanoi, Hanoi, VN<br/>Ho Chi Minh City, Ho Chi Minh City, VN</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446721009721">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ea70ca2e-5536-4b55-bd00-efe1e6616a45">Global Solution Design Engineer</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://jobs.lever.co/disher/ceca1b7e-bec6-4374-9c0e-634fb5bd3b35/apply">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ashby</strong></td>
-<td><a href="https://trueinterview.io/jobs/95c07bf3-9ed7-4384-a288-e47ed8750789">Product Support Engineer - EMEA</a></td>
-<td>United Kingdom<br/>Belgium<br/>Italy<br/>+11 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ashby/2d03f0fe-2f3c-4c8e-9b89-7c6a35f9e7a4/application">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**148 open roles.** 70 in the United States & Canada · 78 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**149 open roles.** 70 in the United States & Canada · 79 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -519,6 +519,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bjak</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffe9ac13-2670-4bbb-af0f-acfc5b15e456">iOS Software Engineer</a></td>
+<td>Portugal</td>
+<td align="center"><a href="https://himalayas.app/companies/bjak/jobs/ios-software-engineer-614455308">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Binance</strong></td>
 <td><a href="https://trueinterview.io/jobs/3ad819c3-ea15-4283-b59f-4725b5185798">Site Reliability Engineer</a></td>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,098 open roles.** 1,479 in the United States & Canada · 619 elsewhere in the world.
+**2,098 open roles.** 1,477 in the United States & Canada · 621 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Figure</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b22c1d7-560a-4e39-91be-67647b5dca72">IT Client Engineer</a></td>
-<td>San Jose, CA<br/>HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4710288006">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Altalink</strong></td>
 <td><a href="https://trueinterview.io/jobs/ba26133b-0842-43ed-80cc-bbbe4a35a707">Commercial Development Engineer</a></td>
@@ -2813,6 +2806,13 @@
 <td><a href="https://trueinterview.io/jobs/4395c5e0-49ea-470b-b905-017bfbf4c136">New Graduate Engineer, Software  - '26/'27  (Starlink)</a></td>
 <td>Palo Alto, CA<br/>Redmond, WA<br/>Bastrop, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002">Apply</a></td>
+<td align="center">14 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/47a988ff-1c79-4d30-968d-c9bb004b62f9">New Graduate Engineer, Mechanical - '26/'27 (Starlink)</a></td>
+<td>Bastrop, TX<br/>Redmond, WA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696952002?gh_jid=8696952002">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 </tbody>

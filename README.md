@@ -31,13 +31,13 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-21 00:59 UTC_
+_Last updated: 2026-09-21 06:12 UTC_
 
-**2,341 open new-grad roles** from **867 employers** · **549 posted in the last 7 days** · refreshed hourly
+**2,339 open new-grad roles** from **868 employers** · **549 posted in the last 7 days** · refreshed hourly
 
-### Browse 2,341 new-grad roles by field
+### Browse 2,339 new-grad roles by field
 
-💻 **[Software Engineering](#-software-engineering)** (1,479)
+💻 **[Software Engineering](#-software-engineering)** (1,477)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (335)
 
@@ -53,7 +53,7 @@ _Last updated: 2026-09-21 00:59 UTC_
 
 ### 🔥 Posting the most this week
 
-**KLA** 48 &nbsp;·&nbsp; **Intel** 26 &nbsp;·&nbsp; **Cisco** 22 &nbsp;·&nbsp; **Samsung** 21 &nbsp;·&nbsp; **SpaceX** 13 &nbsp;·&nbsp; **Hewlett Packard Enterprise** 12 &nbsp;·&nbsp; **AMD** 10 &nbsp;·&nbsp; **Analog Devices** 10 &nbsp;·&nbsp; **Anduril Industries** 10 &nbsp;·&nbsp; **Applied Materials** 10 &nbsp;·&nbsp; **Google** 10 &nbsp;·&nbsp; **Amazon** 9
+**KLA** 48 &nbsp;·&nbsp; **Intel** 26 &nbsp;·&nbsp; **Cisco** 22 &nbsp;·&nbsp; **Samsung** 21 &nbsp;·&nbsp; **SpaceX** 13 &nbsp;·&nbsp; **Hewlett Packard Enterprise** 12 &nbsp;·&nbsp; **AMD** 10 &nbsp;·&nbsp; **Analog Devices** 10 &nbsp;·&nbsp; **Anduril Industries** 10 &nbsp;·&nbsp; **Applied Materials** 10 &nbsp;·&nbsp; **Amazon** 9 &nbsp;·&nbsp; **Google** 9
 
 <sub>The 12 employers with the most roles posted in the last 7 days, of 53 with more than one. A count of open roles, not a ranking of employers.</sub>
 
@@ -63,11 +63,11 @@ _Last updated: 2026-09-21 00:59 UTC_
 
 _Counts are new-grad roles in the United States & Canada. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (600)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (364)](lists/company/semiconductors.md) · [🚀 Aerospace & defence (294)](lists/company/aerospace-defense.md) · [🏗️ Large tech (1,000–9,999) (257)](lists/company/large-tech.md) · [🧠 AI labs & AI infrastructure (224)](lists/company/ai.md) · [🖥️ Hardware, devices & networking (190)](lists/company/hardware-devices.md) · [🌱 Startups (under 200) (172)](lists/company/startups.md) · [🏢 Enterprise & business software (132)](lists/company/enterprise-saas.md) · [🏤 Mid-sized tech (200–999) (104)](lists/company/mid-size-tech.md) · [🚗 Autonomy, automotive & mobility (89)](lists/company/autonomy-mobility.md) · [+14 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (597)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (364)](lists/company/semiconductors.md) · [🚀 Aerospace & defence (294)](lists/company/aerospace-defense.md) · [🏗️ Large tech (1,000–9,999) (257)](lists/company/large-tech.md) · [🧠 AI labs & AI infrastructure (224)](lists/company/ai.md) · [🖥️ Hardware, devices & networking (189)](lists/company/hardware-devices.md) · [🌱 Startups (under 200) (172)](lists/company/startups.md) · [🏢 Enterprise & business software (131)](lists/company/enterprise-saas.md) · [🏤 Mid-sized tech (200–999) (104)](lists/company/mid-size-tech.md) · [🚗 Autonomy, automotive & mobility (89)](lists/company/autonomy-mobility.md) · [+14 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (409)](lists/role/software-engineer.md) · [AI Engineer (126)](lists/role/ai-engineer.md) · [Hardware Engineer (77)](lists/role/hardware-engineer.md) · [Security Engineer (67)](lists/role/security-engineer.md) · [Data Engineer (64)](lists/role/data-engineer.md) · [Machine Learning Engineer (56)](lists/role/machine-learning-engineer.md) · [Full-Stack Engineer (51)](lists/role/full-stack-engineer.md) · [Research Scientist (41)](lists/role/research-scientist.md) · [Data Scientist (31)](lists/role/data-scientist.md) · [Embedded Engineer (27)](lists/role/embedded-engineer.md) · [+11 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (408)](lists/role/software-engineer.md) · [AI Engineer (126)](lists/role/ai-engineer.md) · [Hardware Engineer (77)](lists/role/hardware-engineer.md) · [Security Engineer (67)](lists/role/security-engineer.md) · [Data Engineer (64)](lists/role/data-engineer.md) · [Machine Learning Engineer (56)](lists/role/machine-learning-engineer.md) · [Full-Stack Engineer (51)](lists/role/full-stack-engineer.md) · [Research Scientist (41)](lists/role/research-scientist.md) · [Data Scientist (31)](lists/role/data-scientist.md) · [Embedded Engineer (27)](lists/role/embedded-engineer.md) · [+11 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (616)](lists/place/bay-area.md) · [🗽 New York City (211)](lists/place/new-york.md) · [🎸 Austin (180)](lists/place/austin.md) · [🌴 Los Angeles & Orange County (179)](lists/place/los-angeles.md) · [🌲 Seattle & Puget Sound (146)](lists/place/seattle.md) · [🌧️ Portland, Boise & Spokane (82)](lists/place/pacific-northwest.md) · [🍁 Toronto, Waterloo & Ottawa (81)](lists/place/toronto.md) · [🎓 Boston & Cambridge (75)](lists/place/boston.md) · [🏛️ Washington DC & Northern Virginia (71)](lists/place/washington-dc.md) · [🌵 Phoenix & Arizona (56)](lists/place/phoenix.md) · [+16 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (615)](lists/place/bay-area.md) · [🗽 New York City (211)](lists/place/new-york.md) · [🎸 Austin (179)](lists/place/austin.md) · [🌴 Los Angeles & Orange County (179)](lists/place/los-angeles.md) · [🌲 Seattle & Puget Sound (146)](lists/place/seattle.md) · [🌧️ Portland, Boise & Spokane (82)](lists/place/pacific-northwest.md) · [🍁 Toronto, Waterloo & Ottawa (81)](lists/place/toronto.md) · [🎓 Boston & Cambridge (75)](lists/place/boston.md) · [🏛️ Washington DC & Northern Virginia (71)](lists/place/washington-dc.md) · [🌵 Phoenix & Arizona (56)](lists/place/phoenix.md) · [+16 more →](lists/README.md)
 
 ⚡ **Quick filters** — [🆕 Posted in the last 7 days (549)](lists/new-this-week.md) · [🌐 Remote (226)](lists/remote.md)
 
@@ -92,6 +92,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Alten Calsoft Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/93bbf6e3-0172-477e-9ffb-954dfaee9697">C++ Developer - Automotive - Remote Opportunity</a> 🆕</td>
+<td>United States</td>
+<td align="center"><a href="https://himalayas.app/companies/alten-calsoft-labs/jobs/c-developer-automotive-remote-opportunity">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Array Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/1808e4ab-5267-48d9-992d-aaee1baa1637">Embedded Software Engineer</a> 🆕</td>
@@ -118,13 +125,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/f3e12709-20a8-4686-b124-6ed207309db3">Technical Trainer - Software Engineering</a> 🆕</td>
 <td>New York, NY<br/>New York, New York, United States of America</td>
 <td align="center"><a href="https://bloomberg.avature.net/careers/JobDetail/Technical-Trainer-Software-Engineering/20510">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/31bc5cf5-b214-49d9-8648-8805bad27266">Trust and Safety Analyst, Developer Experience and Ecosystem Programs</a> 🆕</td>
-<td>Atlanta, GA<br/>Austin, TX</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/128322892419998406-trust-and-safety-analyst-developer-experience-and-ecosystem-programs">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -353,7 +353,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/1deb86c2-6c15-4c28-a9bd-90faf5ddfa73">Full Stack Software Engineer, Flight Software</a></td>
 <td>Cape Canaveral, FL</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8784863002?gh_jid=8784863002">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Bright Vision Technologies</strong></td>
@@ -584,7 +584,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/f5e52704-5c60-4b0f-9018-27b556f92f1b">Detection &amp; Mitigation Engineer</a></td>
 <td>Austin, TX<br/>Hybrid</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8170775?gh_jid=8170775">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>Accretive Technology Group</strong></td>
@@ -633,7 +633,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 1,479.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 1,477.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
