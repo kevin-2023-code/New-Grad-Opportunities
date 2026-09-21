@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**81 open roles.** 79 in the United States & Canada · 2 elsewhere in the world.
+**79 open roles.** 77 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -555,20 +555,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, CA, San Jose<br/>San Jose, California, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/88666?lang=en-us">Apply</a></td>
 <td align="center">30 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/c75093c7-531e-4575-87c6-06b60e417c23">Hardware Development Engineer, AI/ML Server Development</a></td>
-<td>Cupertino, California, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10482698/hardware-development-engineer-ai-ml-server-development">Apply</a></td>
-<td align="center">23 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/9cfafcd6-1ebe-49ed-bfc9-0c5e1105f7df">Semiconductor Equipment Applications Eng</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43320278">Apply</a></td>
-<td align="center">23 Jul 2026</td>
 </tr>
 </tbody>
 </table>

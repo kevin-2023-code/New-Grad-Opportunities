@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**619 open roles.** 618 in the United States & Canada · 1 elsewhere in the world.
+**617 open roles.** 616 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Anthropic</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a879302-b614-43d8-a740-8856b764d0d4">AI Engineer, GTM Claudification</a> 🌐</td>
+<td>Remote — United States<br/>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5390966008">Apply</a></td>
+<td align="center">25 Aug 2026</td>
+</tr>
 <tr>
 <td><strong>Parafin</strong></td>
 <td><a href="https://trueinterview.io/jobs/7179f8fb-20b4-4ef6-bf5c-7a80c16bd7e2">Partner Engineer, Scaled Support</a></td>
@@ -1518,27 +1525,6 @@
 <td><a href="https://trueinterview.io/jobs/70b034f6-6de5-415d-92f0-81bc5bcb2bd4">Flight Test Engineer, DoorDash Air</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8082005">Apply</a></td>
-<td align="center">23 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/c75093c7-531e-4575-87c6-06b60e417c23">Hardware Development Engineer, AI/ML Server Development</a></td>
-<td>Cupertino, California, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10482698/hardware-development-engineer-ai-ml-server-development">Apply</a></td>
-<td align="center">23 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>Cerebras Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/48c790b9-ab09-483f-9d27-5a133b174ec1">Kernel Engineer - New Grad</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e">Apply</a></td>
-<td align="center">23 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/13ee167f-ae6d-4cf7-8cd9-bf868d8e5e8e">Software Engineer, Cluster Deployment</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cerebras/63b9c135-ce5d-4898-8e4d-9422d39e4ca6">Apply</a></td>
 <td align="center">23 Jul 2026</td>
 </tr>
 </tbody>

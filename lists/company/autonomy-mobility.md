@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**109 open roles.** 88 in the United States & Canada · 21 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**110 open roles.** 89 in the United States & Canada · 21 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9fb91e6-c9d5-4d64-8a25-222043588ac3">Product Development Engineer - Wiring Low Voltage</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/65295">Apply</a></td>
+<td align="center">20 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Kodiak Robotics</strong></td>
 <td><a href="https://trueinterview.io/jobs/b20adadc-50a8-4c1c-a376-fa0e209248b1">Software Engineer (UI Tools Infrastructure)</a></td>

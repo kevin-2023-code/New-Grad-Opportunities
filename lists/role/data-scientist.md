@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**58 open roles.** 31 in the United States & Canada · 27 elsewhere in the world.
+**57 open roles.** 31 in the United States & Canada · 26 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -364,13 +364,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Geneva</td>
 <td align="center"><a href="https://jobs.lever.co/sonarsource/c9783c31-cfa1-4d95-b31a-278cd0d14162/apply">Apply</a></td>
 <td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PayPal</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ab9d067-6769-4d0d-878c-39f08eeee1c1">Data Scientist</a></td>
-<td>2 Locations</td>
-<td align="center"><a href="https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist_R0137282">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Airbnb</strong></td>

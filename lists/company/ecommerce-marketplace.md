@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**82 open roles.** 47 in the United States & Canada · 35 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**81 open roles.** 46 in the United States & Canada · 35 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -337,13 +337,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/70b034f6-6de5-415d-92f0-81bc5bcb2bd4">Flight Test Engineer, DoorDash Air</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8082005">Apply</a></td>
-<td align="center">23 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/c75093c7-531e-4575-87c6-06b60e417c23">Hardware Development Engineer, AI/ML Server Development</a></td>
-<td>Cupertino, California, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10482698/hardware-development-engineer-ai-ml-server-development">Apply</a></td>
 <td align="center">23 Jul 2026</td>
 </tr>
 </tbody>

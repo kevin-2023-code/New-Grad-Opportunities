@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**664 open roles.** 334 in the United States & Canada · 330 elsewhere in the world.
+**665 open roles.** 335 in the United States & Canada · 330 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bloomberg</strong></td>
+<td><a href="https://trueinterview.io/jobs/59e88137-9b0a-497f-a906-c49f62a462bf">Quant Researcher - Agentic AI CTO Office</a></td>
+<td>New York, NY<br/>New York, New York, United States of America</td>
+<td align="center"><a href="https://bloomberg.avature.net/careers/JobDetail/Quant-Researcher-Agentic-AI-CTO-Office/18880">Apply</a></td>
+<td align="center">20 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Micro1</strong></td>
 <td><a href="https://trueinterview.io/jobs/1e7b95fc-51de-438a-91bb-db15514bf32c">Data Engineer</a></td>
@@ -185,6 +192,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/47b61132-ea8b-404e-a3c9-c55a6a351704">Aviation Pilot Data Analyst</a></td>
 <td>St. Louis, Missouri, United States<br/>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/18566?lang=en-us">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/db637da9-1af7-4137-a848-a918d00a1f9a">AI Engineer – Software Development Tools</a></td>
+<td>San Juan, Puerto Rico, Puerto Rico</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/AI-Engineer---Software-Development-Tools_1214810">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -710,13 +724,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/76a81ddf-aae5-4773-be7c-0458ea6236d1">Applied AI Engineer (Supply Chain)</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/motorola-solutions/jobs/applied-ai-engineer-supply-chain_chicago_vroqlrhm">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Snap Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/7b484075-f27d-4dc5-adc7-3b59e0e2b901">Software Engineer (ML Infrastructure, Content Retrieval Platform, Level 4)</a></td>
-<td>Palo Alto, CA<br/>Santa Monica, United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/snap-inc/jobs/software-engineer-ml-infrastructure-content-retrieval-platform-level-4_palo-alto_qsabhmzy">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
@@ -2370,6 +2377,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Innovamat</strong></td>
+<td><a href="https://trueinterview.io/jobs/6eec8e55-8d82-49ba-a841-7c113cc4aba2">AI Engineer (Marketing Systems)</a></td>
+<td>Sant Cugat del Vallès, Spain</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/innovamat/jobs/ai-engineer-marketing-systems_sant-cugat-del-valles_f3smru7w">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>ARKHO</strong></td>
 <td><a href="https://trueinterview.io/jobs/e22c2b55-ed88-44e2-940c-1a6676ddb8de">Data Engineer</a></td>
 <td>Colombia</td>
@@ -2815,20 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a680079f-e9d5-4b7e-9708-3d510d30cd39">Data Engineer (Spark)</a></td>
 <td>Lille, France<br/>Lyon, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/shape-it/jobs/data-engineer_lille_SI_6WrWXb9">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Skaleet</strong></td>
-<td><a href="https://trueinterview.io/jobs/c8582d38-84ce-4f1a-82b4-4cc7f58f92a4">AI Engineer H/F</a></td>
-<td>Boulogne-Billancourt, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/skaleet/jobs/ai-ml-engineer-h-f_boulogne-billancourt">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Skiils</strong></td>
-<td><a href="https://trueinterview.io/jobs/17f15304-4fec-492a-bb92-e4e98ee5ee0a">AI Engineer H/F</a></td>
-<td>Lille, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/skiils/jobs/ai-engineer-data-scientist-ia-generative-search-h-f">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**853 open roles.** 557 in the United States & Canada · 296 elsewhere in the world. Everything the employers put up this week.
+**840 open roles.** 549 in the United States & Canada · 291 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,48 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Glydways</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef733a7d-b5b9-4da9-9569-c3cc2782a9fb">Localization Systems Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/glydways/jobs/5238232007">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Blueprint Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/c4860c7d-6d91-4ad9-8eba-e84cb62a7aa3">UX Researcher – Rapid Research</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/bpcs/jobs/8202770">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Canary Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4cbcb04-9368-4305-954f-5fa810309041">L1 Technical Support Agent (Spanish and English Speaking)</a></td>
-<td>LATAM</td>
-<td align="center"><a href="https://jobs.lever.co/canarytechnologies/6911aa00-dae1-458d-963d-779302f512ec/apply">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Gallup</strong></td>
-<td><a href="https://trueinterview.io/jobs/d82bfef0-1961-4e5c-9eab-e82417aa902a">Quality Engineer</a></td>
-<td>Omaha Riverfront</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gallup/jobs/4405655009">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Disher</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea70ca2e-5536-4b55-bd00-efe1e6616a45">Global Solution Design Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/disher/ceca1b7e-bec6-4374-9c0e-634fb5bd3b35/apply">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ashby</strong></td>
-<td><a href="https://trueinterview.io/jobs/95c07bf3-9ed7-4384-a288-e47ed8750789">Product Support Engineer - EMEA</a></td>
-<td>United Kingdom<br/>Belgium<br/>Italy<br/>+11 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ashby/2d03f0fe-2f3c-4c8e-9b89-7c6a35f9e7a4/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Rain</strong></td>
 <td><a href="https://trueinterview.io/jobs/26de1b56-27ae-4040-93d0-05df953e0f83">Site Reliability Engineer</a> 🌐</td>
@@ -337,55 +295,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/1a4f2e41-4d55-4b8d-9377-e116d41fe018">Data Engineer</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rackner/jobs/4733525005">Apply</a></td>
-<td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Factset</strong></td>
-<td><a href="https://trueinterview.io/jobs/71e257b9-acda-41bf-a62a-75c0c9150f56">Infrastructure Software Engineer</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/factset/jobs/infrastructure-software-engineer_london_xzoge2ah">Apply</a></td>
-<td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Full Circle</strong></td>
-<td><a href="https://trueinterview.io/jobs/72bf6860-b6cb-4fea-89bc-cd4d5b1c25e8">Full Stack Developer (AI-First)</a></td>
-<td>Albania</td>
-<td align="center"><a href="https://himalayas.app/companies/full-circle/jobs/full-stack-developer-ai-first-2902343008">Apply</a></td>
-<td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>IntellectEU</strong></td>
-<td><a href="https://trueinterview.io/jobs/41f6e88c-0a01-47a0-a507-e1d8db48fd9b">Software Engineer (Scala)</a></td>
-<td>Poland</td>
-<td align="center"><a href="https://himalayas.app/companies/intellecteu/jobs/software-engineer-scala">Apply</a></td>
-<td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intesa Sanpaolo</strong></td>
-<td><a href="https://trueinterview.io/jobs/ecd66b98-6212-4a72-8ba0-6413d7887c14">Software Engineer</a></td>
-<td>Milano, Italy</td>
-<td align="center"><a href="https://4dayweek.io/job/software-engineer-at-intesa-sanpaolo-0f39d018">Apply</a></td>
-<td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Kingfisher</strong></td>
-<td><a href="https://trueinterview.io/jobs/af42e037-f204-4942-88ce-4073443456d8">Machine Learning Engineer</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/kingfisher-france/jobs/machine-learning-engineer_london_KINGF_r78YbAd">Apply</a></td>
-<td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NirYu</strong></td>
-<td><a href="https://trueinterview.io/jobs/3505b359-c14f-4500-9527-cfe4ad07560e">Data Engineer / Python Automation Specialist</a></td>
-<td>Mexico</td>
-<td align="center"><a href="https://himalayas.app/companies/niryu/jobs/data-engineer-python-automation-specialist">Apply</a></td>
-<td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Signicat</strong></td>
-<td><a href="https://trueinterview.io/jobs/59e1dd28-6cca-4e0a-b8a2-bfc4466e263a">Java Software Engineer (Identity Proofing)</a></td>
-<td>United Kingdom</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/signicat/jobs/java-software-engineer-identity-proofing_gb_x2xl3ezm">Apply</a></td>
 <td align="center">13 Sep 2026</td>
 </tr>
 </tbody>
