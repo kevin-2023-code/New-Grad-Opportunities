@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,130 open roles.** 1,496 in the United States & Canada · 634 elsewhere in the world.
+**2,133 open roles.** 1,497 in the United States & Canada · 636 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Twikey</strong></td>
+<td><a href="https://trueinterview.io/jobs/78a3d565-c66e-46d9-87bd-b6aebd8624a6">Java Developer</a></td>
+<td>Anywhere in the World</td>
+<td align="center"><a href="https://weworkremotely.com/remote-jobs/twikey-java-developer">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Wavestone</strong></td>
+<td><a href="https://trueinterview.io/jobs/22b65450-9c5f-4283-a159-57daeb102565">Consultant.e Confirmé.e - Data Platform Engineer (H/F)</a></td>
+<td>Puteaux, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/consultant-e-confirme-e-data-platform-engineer-h-f_puteaux">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>YAKEEY</strong></td>
+<td><a href="https://trueinterview.io/jobs/34067f32-4fc1-4e8d-adb2-b40d1724521a">QA Automation Engineer</a></td>
+<td>Casablanca, Morocco</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/yakeey-mea/jobs/senior-qa-automation">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>C6 Bank</strong></td>
 <td><a href="https://trueinterview.io/jobs/e74f33be-0671-4339-8251-c46d545112c6">Pessoa Desenvolvedora IOS |  Core Business Products Engineering</a></td>
@@ -2795,27 +2816,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City</td>
 <td align="center"><a href="https://www.monks.com/careers/6175822004/job?gh_jid=6175822004">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Vocca</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2e0d315-41ca-4423-880d-232ce836b942">Software Engineer</a></td>
-<td>Paris</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/vocca/56049107-f9dd-41f3-a091-a29838bb0d5f/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Zenjob</strong></td>
-<td><a href="https://trueinterview.io/jobs/da03e3c2-42d3-4c9c-ac45-0f76f77da5b0">Full-Stack Engineer (f/m/d)</a></td>
-<td>Berlin</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/zenjob/cb4a5fc7-ee05-41f0-b07a-0d91403c3d8e/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Thg</strong></td>
-<td><a href="https://trueinterview.io/jobs/57b326b8-e84c-47ff-ab08-bc8c249f9ec4">Assistant Garment Technologist - MP Activewear</a></td>
-<td>Manchester<br/>UK, Manchester</td>
-<td align="center"><a href="https://www.thg.com/talent/job-search?gh_jid=4963426101">Apply</a></td>
-<td align="center">29 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**869 open roles.** 578 in the United States & Canada · 291 elsewhere in the world. Everything the employers put up this week.
+**875 open roles.** 580 in the United States & Canada · 295 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -18,7 +18,49 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Quest Global Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0bd0846-f694-419d-b549-3cdf48a950bf">Laravel Developer</a></td>
+<td>India</td>
+<td align="center"><a href="https://himalayas.app/companies/quest-global-technologies/jobs/laravel-developer-6713783437">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>SAHAR</strong></td>
+<td><a href="https://trueinterview.io/jobs/d432be93-28d3-47c5-8f68-9c35ef6a5169">Software Engineer - Blockchain</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/sahar/jobs/software-engineer-blockchain_paris">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Shape It</strong></td>
+<td><a href="https://trueinterview.io/jobs/a680079f-e9d5-4b7e-9708-3d510d30cd39">Data Engineer (Spark)</a></td>
+<td>Lille, France<br/>Lyon, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/shape-it/jobs/data-engineer_lille_SI_6WrWXb9">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Skaleet</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8582d38-84ce-4f1a-82b4-4cc7f58f92a4">AI Engineer H/F</a></td>
+<td>Boulogne-Billancourt, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/skaleet/jobs/ai-ml-engineer-h-f_boulogne-billancourt">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Skiils</strong></td>
+<td><a href="https://trueinterview.io/jobs/17f15304-4fec-492a-bb92-e4e98ee5ee0a">AI Engineer H/F</a></td>
+<td>Lille, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/skiils/jobs/ai-engineer-data-scientist-ia-generative-search-h-f">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/618461bc-50e9-4992-881c-548b9c039538">Stage - Data Engineer - Aeroline - Toulouse</a></td>
+<td>Toulouse, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/sopra-steria/jobs/stage-data-engineer-aeroline-toulouse_toulouse_SS_xxN0g01">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8ae9f311-1198-4448-b2d3-87ed0009742f">Stage - Data Engineer - Services Financiers - Bordeaux</a></td>
 <td>Mérignac, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/sopra-steria/jobs/stage-data-engineer-services-financiers-bordeaux_merignac">Apply</a></td>

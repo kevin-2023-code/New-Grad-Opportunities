@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**89 open roles.** 58 in the United States & Canada · 31 elsewhere in the world.
+**90 open roles.** 58 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -435,6 +435,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Groupe Octime</strong></td>
+<td><a href="https://trueinterview.io/jobs/d21d4494-cc7d-417c-88b2-a6df439f5564">Machine Learning Engineer (H/F)</a></td>
+<td>Biron, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/octime/jobs/machine-learning-engineer-h-f_paris">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Adobe</strong></td>
 <td><a href="https://trueinterview.io/jobs/54415fd9-e496-4308-ae06-9c575be547c5">Machine Learning Engineer - 5</a></td>

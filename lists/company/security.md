@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**90 open roles.** 66 in the United States & Canada · 24 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**89 open roles.** 65 in the United States & Canada · 24 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -100,13 +100,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United States</td>
 <td align="center"><a href="https://himalayas.app/companies/virtru/jobs/application-security-engineer-8744730633">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tailscale</strong></td>
-<td><a href="https://trueinterview.io/jobs/fd235ea2-854f-4e24-b3c0-4e24888ed2c1">Backend Engineer, Control Plane</a> 🌐</td>
-<td>Remote — Canada, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tailscale/jobs/4733177005">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Palo Alto Networks</strong></td>

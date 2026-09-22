@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**353 open roles.** 230 in the United States & Canada · 123 elsewhere in the world. Postings the pipeline classified as remote.
+**353 open roles.** 229 in the United States & Canada · 124 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -344,13 +344,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7ec445af-89f7-4a37-b3f4-3b89719b1ce0">People AI &amp; Automation Engineer</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tailscale</strong></td>
-<td><a href="https://trueinterview.io/jobs/fd235ea2-854f-4e24-b3c0-4e24888ed2c1">Backend Engineer, Control Plane</a> 🌐</td>
-<td>Remote — Canada, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tailscale/jobs/4733177005">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
@@ -1644,6 +1637,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/064cd2c3-8693-46ff-8fcc-d2f3e48f1591">Solutions Engineer (Central &amp; Eastern Europe, Hebrew Speaking)</a> 🌐</td>
 <td>Remote — United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/cloudflare/jobs/solutions-engineer-central-eastern-europe-hebrew-speaking_gb_uff7dtn5">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Haiku</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a7d1b31-bd1b-44ba-902b-3c4d8c11b329">Alternance Data Engineer (H/F)</a> 🌐</td>
+<td>Remote — France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/clerk/jobs/alternant-data-engineer-h-f">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>

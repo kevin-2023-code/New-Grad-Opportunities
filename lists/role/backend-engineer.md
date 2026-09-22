@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**59 open roles.** 24 in the United States & Canada · 35 elsewhere in the world.
+**59 open roles.** 23 in the United States & Canada · 36 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -92,13 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/999a7f80-1765-4244-859c-5c766ea6d3c7">Backend Software Engineer, ChatGPT ImageGen</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/e7a4ee23-138a-4004-916e-72a452e7d115/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tailscale</strong></td>
-<td><a href="https://trueinterview.io/jobs/fd235ea2-854f-4e24-b3c0-4e24888ed2c1">Backend Engineer, Control Plane</a> 🌐</td>
-<td>Remote — Canada, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tailscale/jobs/4733177005">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
@@ -197,6 +190,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ConverseNow.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a7c185f-79f1-4551-b19d-749ca1578163">Back-End Developer (Job ID: 2266)</a></td>
+<td>India</td>
+<td align="center"><a href="https://himalayas.app/companies/conversenow-ai/jobs/back-end-developer-job-id-2266-2823013905">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Rollee</strong></td>
 <td><a href="https://trueinterview.io/jobs/a65fee74-57e2-4652-8c9d-de4f56194bdd">Backend Engineer - Coverage Team</a></td>

@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**685 open roles.** 340 in the United States & Canada · 345 elsewhere in the world.
+**687 open roles.** 340 in the United States & Canada · 347 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Wavestone</strong></td>
+<td><a href="https://trueinterview.io/jobs/9bb1ba3f-f1b5-4ef5-b041-2842aeeff65d">Consultant·e Machine Learning &amp; AI Engineer – Jeune diplômé·e (H/F)</a></td>
+<td>Puteaux, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/consultant-e-machine-learning-ai-engineer-jeune-diplome-e-h-f_puteaux">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b89cc84e-8c64-4884-9616-4cc48e8c3edb">Stage de fin d'études - Consultant·e Agentic &amp; GenAI Engineer (H/F)</a></td>
+<td>Puteaux, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/stage-de-fin-d-etudes-consultant-e-agentic-genai-engineer-h-f_puteaux">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/96580256-99bc-401d-83c7-f5868f28eea7">Stage de fin d'études - Consultant·e Data et AI Engineer (H/F)</a></td>
 <td>Puteaux, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/stage-de-fin-d-etudes-consultant-e-data-et-ai-engineer-h-f_puteaux">Apply</a></td>

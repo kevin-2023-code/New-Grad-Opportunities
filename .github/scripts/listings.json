@@ -6,9 +6,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-22T09:50:02.550Z",
-  "count": 3460,
+  "listingsChangedAt": "2026-09-22T14:38:58.940Z",
+  "count": 3467,
   "listings": [
+    {
+      "id": "a4dc31e8-fb5c-41d9-b8f9-8cf1f93d1a67",
+      "company": "SpaceX",
+      "title": "Hardware Test Automation Engineer",
+      "locations": [
+        "Bastrop, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8830956002?gh_jid=8830956002",
+      "url": "https://trueinterview.io/jobs/a4dc31e8-fb5c-41d9-b8f9-8cf1f93d1a67",
+      "postedAt": "2026-09-22T13:54:10.000Z",
+      "updatedAt": "2026-09-22T13:54:10.000Z"
+    },
     {
       "id": "2ccfb21f-d0e7-4a99-b9c7-a6b2466e27bd",
       "company": "SpaceX",
@@ -112,6 +137,33 @@
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
     {
+      "id": "90e06dbe-93d0-4e7e-991d-d06469d140f0",
+      "company": "Astra North Infoteck Inc.",
+      "title": "cloud engineer",
+      "locations": [
+        "Toronto (ON)"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.jobbank.gc.ca/jobsearch/jobposting/50338199",
+      "url": "https://trueinterview.io/jobs/90e06dbe-93d0-4e7e-991d-d06469d140f0",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
       "id": "f4c55548-08a0-4d0d-879f-f28679d2c0b4",
       "company": "Careerswift",
       "title": "Frontend Developer",
@@ -208,6 +260,158 @@
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
     {
+      "id": "7a7c185f-79f1-4551-b19d-749ca1578163",
+      "company": "ConverseNow.ai",
+      "title": "Back-End Developer (Job ID: 2266)",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/conversenow-ai/jobs/back-end-developer-job-id-2266-2823013905",
+      "url": "https://trueinterview.io/jobs/7a7c185f-79f1-4551-b19d-749ca1578163",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "ea5fd2fa-0abe-4b6a-91c8-5f6d5959362f",
+      "company": "EBC Group",
+      "title": "Azure Java Developer",
+      "locations": [
+        "Malaysia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/ebc-group/jobs/azure-java-developer-8474081753",
+      "url": "https://trueinterview.io/jobs/ea5fd2fa-0abe-4b6a-91c8-5f6d5959362f",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "8c509f38-0189-4733-962e-e6997d74399a",
+      "company": "Fiscal.ai",
+      "title": "software engineer",
+      "locations": [
+        "Toronto (ON)"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.jobbank.gc.ca/jobsearch/jobposting/50338204",
+      "url": "https://trueinterview.io/jobs/8c509f38-0189-4733-962e-e6997d74399a",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "d21d4494-cc7d-417c-88b2-a6df439f5564",
+      "company": "Groupe Octime",
+      "title": "Machine Learning Engineer (H/F)",
+      "locations": [
+        "Biron, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/octime/jobs/machine-learning-engineer-h-f_paris",
+      "url": "https://trueinterview.io/jobs/d21d4494-cc7d-417c-88b2-a6df439f5564",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "3a7d1b31-bd1b-44ba-902b-3c4d8c11b329",
+      "company": "Haiku",
+      "title": "Alternance Data Engineer (H/F)",
+      "locations": [
+        "Bègles, France, Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/clerk/jobs/alternant-data-engineer-h-f",
+      "url": "https://trueinterview.io/jobs/3a7d1b31-bd1b-44ba-902b-3c4d8c11b329",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "3957bb6f-eefa-44c4-93ec-b9ab69ffdebe",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Systems/Software Testing Engineer II Cloud & On-Premise",
+      "locations": [
+        "San Juan, Puerto Rico, Puerto Rico"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Systems-Software-Testing-Engineer-II-Cloud---On-Premise_1210248-6",
+      "url": "https://trueinterview.io/jobs/3957bb6f-eefa-44c4-93ec-b9ab69ffdebe",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
       "id": "5badf13f-5edf-49e8-bcec-b7fc910ad4e4",
       "company": "Infiterra",
       "title": "Systems Engineer",
@@ -229,6 +433,56 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/infiterra/jobs/systems-engineer",
       "url": "https://trueinterview.io/jobs/5badf13f-5edf-49e8-bcec-b7fc910ad4e4",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "1af9b527-5911-4d28-bb19-fe2f0398a095",
+      "company": "KLA",
+      "title": "HPC Linux Systems Engineer",
+      "locations": [
+        "Milpitas, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/HPC-Linux-Systems-Engineer_2640535",
+      "url": "https://trueinterview.io/jobs/1af9b527-5911-4d28-bb19-fe2f0398a095",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "1fab8b28-0b2d-43bf-9a27-ba9e70be357c",
+      "company": "KLA",
+      "title": "Quality Chemical Engineer",
+      "locations": [
+        "Totowa, NJ, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Quality-Chemical-Engineer_2640470",
+      "url": "https://trueinterview.io/jobs/1fab8b28-0b2d-43bf-9a27-ba9e70be357c",
       "postedAt": "2026-09-22T00:00:00.000Z",
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
@@ -12686,34 +12940,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Manufacturing-Systems-Engineer---Optics_2639068",
       "url": "https://trueinterview.io/jobs/cb15fdc9-f949-4d1a-94bc-a67ab422e60a",
-      "postedAt": "2026-09-16T22:33:11.000Z",
-      "updatedAt": "2026-09-16T22:33:11.000Z"
-    },
-    {
-      "id": "dae56a9a-656b-4e84-bd4a-2ebb71a9265f",
-      "company": "KLA",
-      "title": "Mechanical Design Engineer",
-      "locations": [
-        "Milpitas, CA",
-        "Totowa, NJ",
-        "Totowa, NJ, United States of America",
-        "Milpitas, CA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechanical-Design-Engineer_2636966",
-      "url": "https://trueinterview.io/jobs/dae56a9a-656b-4e84-bd4a-2ebb71a9265f",
       "postedAt": "2026-09-16T22:33:11.000Z",
       "updatedAt": "2026-09-16T22:33:11.000Z"
     },
@@ -26334,31 +26560,6 @@
       "updatedAt": "2026-09-11T20:57:27.000Z"
     },
     {
-      "id": "f1387a63-dc87-4478-ae95-8571ba0bc753",
-      "company": "Arista Networks",
-      "title": "Software Engineer, EOS Layer 2 and Network Services",
-      "locations": [
-        "Nashua, New Hampshire, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.smartrecruiters.com/AristaNetworks/744000149104754-software-engineer-eos-layer-2-and-network-services",
-      "url": "https://trueinterview.io/jobs/f1387a63-dc87-4478-ae95-8571ba0bc753",
-      "postedAt": "2026-09-11T20:29:27.000Z",
-      "updatedAt": "2026-09-11T20:29:27.000Z"
-    },
-    {
       "id": "9a4ff804-790f-4940-a3ba-c0927c353cea",
       "company": "SHEIN",
       "title": "Digital Designer",
@@ -27024,33 +27225,6 @@
       "url": "https://trueinterview.io/jobs/6c543bc2-342b-4995-9a3e-9c4e5422b4f9",
       "postedAt": "2026-09-11T16:31:08.000Z",
       "updatedAt": "2026-09-11T16:31:08.000Z"
-    },
-    {
-      "id": "fd235ea2-854f-4e24-b3c0-4e24888ed2c1",
-      "company": "Tailscale",
-      "title": "Backend Engineer, Control Plane",
-      "locations": [
-        "Remote (Canada)",
-        "Remote (United States)"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada",
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Software",
-      "family": "Software",
-      "role": "Backend Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/tailscale/jobs/4733177005",
-      "url": "https://trueinterview.io/jobs/fd235ea2-854f-4e24-b3c0-4e24888ed2c1",
-      "postedAt": "2026-09-11T16:24:29.000Z",
-      "updatedAt": "2026-09-11T16:24:29.000Z"
     },
     {
       "id": "829c9d0d-465b-4676-b5ec-abcc3afd6a38",

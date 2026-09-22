@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**667 open roles.** 422 in the United States & Canada · 245 elsewhere in the world.
+**669 open roles.** 423 in the United States & Canada · 246 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Cognition</strong></td>
+<td><a href="https://trueinterview.io/jobs/b461d48e-7b8b-49ab-813a-d3a52cb5fdbd">Software Engineer, Infrastructure</a></td>
+<td>San Francisco, CA<br/>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cognition/13fdacf7-b4dc-4b9a-ac43-addc87de79ec/application">Apply</a></td>
+<td align="center">6 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f50afff8-4e74-42df-9a80-961b68851152">Software Engineer</a></td>
 <td>San Francisco, CA<br/>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cognition/e8086415-62bc-4cc0-96a4-84bb56182d35/application">Apply</a></td>
@@ -193,6 +200,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4b05ab63-d01a-41de-8618-5e2c8249ab76">Threat Intelligence Software Engineer (Cloudforce One)</a></td>
 <td>United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/cloudflare/jobs/threat-intelligence-software-engineer-cloudforce-one_gb_7hz2nqhd">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>EBC Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea5fd2fa-0abe-4b6a-91c8-5f6d5959362f">Azure Java Developer</a></td>
+<td>Malaysia</td>
+<td align="center"><a href="https://himalayas.app/companies/ebc-group/jobs/azure-java-developer-8474081753">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>

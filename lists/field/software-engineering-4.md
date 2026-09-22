@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,130 open roles.** 1,496 in the United States & Canada · 634 elsewhere in the world.
+**2,133 open roles.** 1,497 in the United States & Canada · 636 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Watershed</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0bfd1fe-3fa8-4851-80ab-2e5447abf03a">GTM engineer</a></td>
+<td>San Francisco, CA<br/>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/watershed/00f1ba3f-67ba-48cb-8e88-1eacc2ebb9f7/application">Apply</a></td>
+<td align="center">17 Aug 2026</td>
+</tr>
 <tr>
 <td><strong>Modal</strong></td>
 <td><a href="https://trueinterview.io/jobs/1ae39a13-deae-421b-8232-42e0ff5bd4e1">Detection and Response Engineer</a></td>
@@ -2128,6 +2135,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>ConverseNow.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a7c185f-79f1-4551-b19d-749ca1578163">Back-End Developer (Job ID: 2266)</a></td>
+<td>India</td>
+<td align="center"><a href="https://himalayas.app/companies/conversenow-ai/jobs/back-end-developer-job-id-2266-2823013905">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>EBC Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea5fd2fa-0abe-4b6a-91c8-5f6d5959362f">Azure Java Developer</a></td>
+<td>Malaysia</td>
+<td align="center"><a href="https://himalayas.app/companies/ebc-group/jobs/azure-java-developer-8474081753">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Infiterra</strong></td>
 <td><a href="https://trueinterview.io/jobs/5badf13f-5edf-49e8-bcec-b7fc910ad4e4">Systems Engineer</a></td>
 <td>Greece</td>
@@ -2804,27 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/13d43e72-c5d9-4c05-8903-3db4796f659b">developer, software</a></td>
 <td>Montréal (QC)</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50306111">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Twikey</strong></td>
-<td><a href="https://trueinterview.io/jobs/78a3d565-c66e-46d9-87bd-b6aebd8624a6">Java Developer</a></td>
-<td>Anywhere in the World</td>
-<td align="center"><a href="https://weworkremotely.com/remote-jobs/twikey-java-developer">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Wavestone</strong></td>
-<td><a href="https://trueinterview.io/jobs/22b65450-9c5f-4283-a159-57daeb102565">Consultant.e Confirmé.e - Data Platform Engineer (H/F)</a></td>
-<td>Puteaux, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/consultant-e-confirme-e-data-platform-engineer-h-f_puteaux">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>YAKEEY</strong></td>
-<td><a href="https://trueinterview.io/jobs/34067f32-4fc1-4e8d-adb2-b40d1724521a">QA Automation Engineer</a></td>
-<td>Casablanca, Morocco</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/yakeey-mea/jobs/senior-qa-automation">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 </tbody>

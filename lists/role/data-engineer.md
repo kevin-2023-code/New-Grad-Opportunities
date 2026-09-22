@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**203 open roles.** 64 in the United States & Canada · 139 elsewhere in the world.
+**204 open roles.** 64 in the United States & Canada · 140 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -477,6 +477,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Haiku</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a7d1b31-bd1b-44ba-902b-3c4d8c11b329">Alternance Data Engineer (H/F)</a> 🌐</td>
+<td>Remote — France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/clerk/jobs/alternant-data-engineer-h-f">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>The Adecco Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/af907e08-37cb-40be-b893-656fabebfdc2">CDI - Data Engineer F/H</a></td>
