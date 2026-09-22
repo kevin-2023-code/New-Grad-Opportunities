@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**249 open roles.** 128 in the United States & Canada · 121 elsewhere in the world.
+**253 open roles.** 128 in the United States & Canada · 125 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -925,6 +925,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Pavago</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1d00b81-0dad-4729-b752-b100316be581">Full-Stack AI Engineer</a></td>
+<td>Argentina</td>
+<td align="center"><a href="https://himalayas.app/companies/pavago/jobs/full-stack-ai-engineer-9332382">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/1abee12e-64bd-4174-9b12-41159f915d16">IN_Associate_ GenAI and Agentic AI Engineer _GCC_ Advisory_ Bangalore</a></td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Associate--GenAI-and-Agentic-AI-Engineer--GCC--Advisory--Bangalore_738729WD-1">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/70e7ecfc-f6d0-4bdb-8fa4-3c952304c682">IN_Senior Associate_GenAI and Agentic AI Engineer _GCC_Advisory_Bangalore</a></td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Associate-GenAI-and-Agentic-AI-Engineer--GCC-Advisory-Bangalore_738717WD-1">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/64934cd3-49fe-4307-ae62-6e27c728d2aa">IN_Senior Associate_GenAI and Agentic AI Engineer_GCC_Advisory_Noida</a></td>
+<td>Noida</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Noida/IN-Senior-Associate-GenAI-and-Agentic-AI-Engineer-GCC-Advisory-Bangalore_738966WD">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Ci&amp;t</strong></td>
 <td><a href="https://trueinterview.io/jobs/ebae4ef3-5c21-4964-85ba-fee38758eb54">[31782] AI  ENGINEER (Modernização)</a></td>

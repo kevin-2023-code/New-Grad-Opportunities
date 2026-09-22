@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**861 open roles.** 577 in the United States & Canada · 284 elsewhere in the world. Everything the employers put up this week.
+**869 open roles.** 578 in the United States & Canada · 291 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -542,6 +542,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bff46009-e9cf-4d26-a3d7-83549442f35d">DRAM Device &amp; Cell Technology Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/42229194">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1941b0ce-f153-4d04-ab83-ff13e7bafcc2">New College Grad - Engineer, Node Development PE</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44544545">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0a901211-c289-4e03-8238-b40b6f54bcc9">Project Engineer</a></td>
 <td>New York, NY<br/>Rye Brook, New York, United States<br/>Rye Brook, NY<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schimenticonstructioncompany/jobs/6195158004">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Locus Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/afe1a7d5-2abb-425d-960f-b5cccfe28181">Onsite Support Engineer, Robotics</a></td>
-<td>Las Vegas, NV</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/locusrobotics/jobs/5240208007">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 </tbody>

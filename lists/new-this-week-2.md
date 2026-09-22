@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**861 open roles.** 577 in the United States & Canada · 284 elsewhere in the world. Everything the employers put up this week.
+**869 open roles.** 578 in the United States & Canada · 291 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Locus Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/afe1a7d5-2abb-425d-960f-b5cccfe28181">Onsite Support Engineer, Robotics</a></td>
+<td>Las Vegas, NV</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/locusrobotics/jobs/5240208007">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Ford Motor Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/977e3719-a8bb-4818-a189-7e1f39ba2d4b">Propulsion Domain Hardware Sub-System Engineer</a></td>
@@ -1292,6 +1299,55 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4b05ab63-d01a-41de-8618-5e2c8249ab76">Threat Intelligence Software Engineer (Cloudforce One)</a></td>
 <td>United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/cloudflare/jobs/threat-intelligence-software-engineer-cloudforce-one_gb_7hz2nqhd">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Infiterra</strong></td>
+<td><a href="https://trueinterview.io/jobs/5badf13f-5edf-49e8-bcec-b7fc910ad4e4">Systems Engineer</a></td>
+<td>Greece</td>
+<td align="center"><a href="https://himalayas.app/companies/infiterra/jobs/systems-engineer">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>KPMG Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c65ffd8-47ff-4f00-8d23-4cdf51e0bf2a">AWS Cloud Engineer Consultant</a></td>
+<td>India</td>
+<td align="center"><a href="https://himalayas.app/companies/kpmg-australia/jobs/aws-cloud-engineer-consultant">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Pavago</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1d00b81-0dad-4729-b752-b100316be581">Full-Stack AI Engineer</a></td>
+<td>Argentina</td>
+<td align="center"><a href="https://himalayas.app/companies/pavago/jobs/full-stack-ai-engineer-9332382">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/1abee12e-64bd-4174-9b12-41159f915d16">IN_Associate_ GenAI and Agentic AI Engineer _GCC_ Advisory_ Bangalore</a></td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Associate--GenAI-and-Agentic-AI-Engineer--GCC--Advisory--Bangalore_738729WD-1">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/70e7ecfc-f6d0-4bdb-8fa4-3c952304c682">IN_Senior Associate_GenAI and Agentic AI Engineer _GCC_Advisory_Bangalore</a></td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Associate-GenAI-and-Agentic-AI-Engineer--GCC-Advisory-Bangalore_738717WD-1">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/64934cd3-49fe-4307-ae62-6e27c728d2aa">IN_Senior Associate_GenAI and Agentic AI Engineer_GCC_Advisory_Noida</a></td>
+<td>Noida</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Noida/IN-Senior-Associate-GenAI-and-Agentic-AI-Engineer-GCC-Advisory-Bangalore_738966WD">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>The Adecco Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/af907e08-37cb-40be-b893-656fabebfdc2">CDI - Data Engineer F/H</a></td>
+<td>Toulon, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/the-adecco-group/jobs/cdi-data-engineer-f-h_toulon">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -2770,62 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Toulouse, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/sopra-steria/jobs/stage-data-engineer-aeroline-toulouse_toulouse_SS_xxN0g01">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8ae9f311-1198-4448-b2d3-87ed0009742f">Stage - Data Engineer - Services Financiers - Bordeaux</a></td>
-<td>Mérignac, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/sopra-steria/jobs/stage-data-engineer-services-financiers-bordeaux_merignac">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sun Life</strong></td>
-<td><a href="https://trueinterview.io/jobs/27f1b2be-8bae-46b6-bdb3-478254bffb28">Cloud Engineer</a></td>
-<td>3 Locations</td>
-<td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/Cloud-Engineer_JR00127979">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SupportYourApp</strong></td>
-<td><a href="https://trueinterview.io/jobs/77f83695-e422-4798-913e-abce4901ce0c">(fluent Ukrainian) DevOps Engineer (Global)</a></td>
-<td>Ukraine</td>
-<td align="center"><a href="https://himalayas.app/companies/supportyourapp/jobs/fluent-ukrainian-devops-engineer-global-4840606541">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WalkMe</strong></td>
-<td><a href="https://trueinterview.io/jobs/84def301-ad0d-43f5-8cd6-4b97cbd52ff2">DevOps Engineer</a></td>
-<td>York, United Kingdom</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/walkme/jobs/devops-engineer_new-york_lwrqpekm">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>XTB</strong></td>
-<td><a href="https://trueinterview.io/jobs/de19c7ae-0f85-4d45-a5d1-48a4fb8a634d">Data Engineer (Research)</a></td>
-<td>Poland</td>
-<td align="center"><a href="https://himalayas.app/companies/xtb/jobs/data-engineer-research">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>ZEPLUG</strong></td>
-<td><a href="https://trueinterview.io/jobs/0d235441-1026-4ffe-a2fc-a719cf379600">CDI - Software Engineer - Squad PCA / SIO - H/F</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/zeplug/jobs/cdi-software-engineer-squad-pca-sio-h-f_paris">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Conduit</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e707e1f-7449-4327-8c91-7da6b273a7b5">Software Engineer, Control Plane</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/conduit/5e599120-22ec-46c8-b933-6c833139d59f/application">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Esri</strong></td>
-<td><a href="https://trueinterview.io/jobs/a04cb953-9d63-499c-bb37-d9cd2e18abbc">Software Development Engineer – Test Automation Infrastructure (SDET)</a></td>
-<td>New Delhi, Delhi, India<br/>New Delhi R&amp;D Center</td>
-<td align="center"><a href="https://www.esri.com/careers/5205062007?gh_jid=5205062007">Apply</a></td>
-<td align="center">15 Sep 2026</td>
 </tr>
 </tbody>
 </table>

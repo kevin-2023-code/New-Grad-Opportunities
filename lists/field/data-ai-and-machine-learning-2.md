@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**680 open roles.** 340 in the United States & Canada · 340 elsewhere in the world.
+**685 open roles.** 340 in the United States & Canada · 345 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Wavestone</strong></td>
+<td><a href="https://trueinterview.io/jobs/96580256-99bc-401d-83c7-f5868f28eea7">Stage de fin d'études - Consultant·e Data et AI Engineer (H/F)</a></td>
+<td>Puteaux, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/stage-de-fin-d-etudes-consultant-e-data-et-ai-engineer-h-f_puteaux">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/43355b02-2a7c-46b7-95e2-4078839f8d54">Stage de fin d'études - Consultant·e Machine Learning &amp; AI Engineer (H/F)</a></td>
+<td>Puteaux, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/stage-de-fin-d-etudes-consultant-e-machine-learning-ai-engineer-h-f_puteaux">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Loora</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef676286-a291-4abc-8ad4-c072b75602b9">AI Researcher</a></td>
+<td>Tel Aviv</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/loora/54f74705-6d02-4fe5-86b0-ab0fd93163ce/application">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Capco</strong></td>
+<td><a href="https://trueinterview.io/jobs/1febcb9e-0f3c-4c66-81c6-e6de04b2b936">Analista de Business Intelligence</a></td>
+<td>Brazil - Rio de Janeiro</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8208305">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture France</strong></td>
+<td><a href="https://trueinterview.io/jobs/19dc0b94-a2e6-4412-b345-ebcf2ace6478">Data Engineer expérimenté F/H</a></td>
+<td>Clermont-Ferrand, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/accenture-france/jobs/data-engineer-f-h_clermont-ferrand">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c2b5446-1fb0-42eb-92bc-53dbb9883cb8">AI Software Engineer</a></td>

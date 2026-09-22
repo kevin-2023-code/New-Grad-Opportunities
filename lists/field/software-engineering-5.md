@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,128 open roles.** 1,496 in the United States & Canada · 632 elsewhere in the world.
+**2,130 open roles.** 1,496 in the United States & Canada · 634 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>C6 Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/e74f33be-0671-4339-8251-c46d545112c6">Pessoa Desenvolvedora IOS |  Core Business Products Engineering</a></td>
+<td>São Paulo, Brazil<br/>C6 Bank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4734634005">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Arista Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/efd88f84-9504-44dd-9e58-f8d554d60d09">Software Engineer Graduate 2026/2027</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149958449-software-engineer-graduate-2026-2027?oga=true">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Iterable</strong></td>
 <td><a href="https://trueinterview.io/jobs/0583b68d-ef50-4873-9389-90f0831f45cf">Software Engineer</a></td>
@@ -2801,20 +2815,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/57b326b8-e84c-47ff-ab08-bc8c249f9ec4">Assistant Garment Technologist - MP Activewear</a></td>
 <td>Manchester<br/>UK, Manchester</td>
 <td align="center"><a href="https://www.thg.com/talent/job-search?gh_jid=4963426101">Apply</a></td>
-<td align="center">29 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Brave</strong></td>
-<td><a href="https://trueinterview.io/jobs/64e0b0f7-034e-4894-9257-d2aa57e9e3c2">AI Security Researcher/Research Engineer</a></td>
-<td>London, England<br/>Brave London</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/brave/jobs/8165845">Apply</a></td>
-<td align="center">29 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Nysonian</strong></td>
-<td><a href="https://trueinterview.io/jobs/b9149a88-8c8e-4b5d-ab37-4964e91c0514">Automation Engineer</a></td>
-<td>Islamabad, Islamabad Capital Territory, Pakistan</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/nysonian/jobs/4378677009">Apply</a></td>
 <td align="center">29 Aug 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**202 open roles.** 64 in the United States & Canada · 138 elsewhere in the world.
+**203 open roles.** 64 in the United States & Canada · 139 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -477,6 +477,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>The Adecco Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/af907e08-37cb-40be-b893-656fabebfdc2">CDI - Data Engineer F/H</a></td>
+<td>Toulon, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/the-adecco-group/jobs/cdi-data-engineer-f-h_toulon">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Devsavant Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/e4f735e0-6097-4af2-b3d0-a5004f60c8ca">Data Analytics Engineer</a></td>

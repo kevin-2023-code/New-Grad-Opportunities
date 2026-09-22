@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**652 open roles.** 594 in the United States & Canada · 58 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**653 open roles.** 595 in the United States & Canada · 58 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/jobs/adf71574-1de5-4b94-8dc9-e6f5e0796957">Software Engineering SMTS/LMTS</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/salesforce-1/jobs/software-engineering-smts-lmts_san-francisco_h7oowrbh">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/61e55cf0-27bf-4b05-98b3-e2e400b214f8">Applied Scientist, Amazon Cryptographic Libraries</a></td>

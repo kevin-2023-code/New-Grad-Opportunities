@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-22T04:34:32.607Z",
-  "count": 3453,
+  "listingsChangedAt": "2026-09-22T09:50:02.550Z",
+  "count": 3460,
   "listings": [
     {
       "id": "2ccfb21f-d0e7-4a99-b9c7-a6b2466e27bd",
@@ -204,6 +204,179 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/cloudflare/jobs/threat-intelligence-software-engineer-cloudforce-one_gb_7hz2nqhd",
       "url": "https://trueinterview.io/jobs/4b05ab63-d01a-41de-8618-5e2c8249ab76",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "5badf13f-5edf-49e8-bcec-b7fc910ad4e4",
+      "company": "Infiterra",
+      "title": "Systems Engineer",
+      "locations": [
+        "Greece"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/infiterra/jobs/systems-engineer",
+      "url": "https://trueinterview.io/jobs/5badf13f-5edf-49e8-bcec-b7fc910ad4e4",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "3c65ffd8-47ff-4f00-8d23-4cdf51e0bf2a",
+      "company": "KPMG Australia",
+      "title": "AWS Cloud Engineer Consultant",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/kpmg-australia/jobs/aws-cloud-engineer-consultant",
+      "url": "https://trueinterview.io/jobs/3c65ffd8-47ff-4f00-8d23-4cdf51e0bf2a",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "e1d00b81-0dad-4729-b752-b100316be581",
+      "company": "Pavago",
+      "title": "Full-Stack AI Engineer",
+      "locations": [
+        "Argentina"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://himalayas.app/companies/pavago/jobs/full-stack-ai-engineer-9332382",
+      "url": "https://trueinterview.io/jobs/e1d00b81-0dad-4729-b752-b100316be581",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "1abee12e-64bd-4174-9b12-41159f915d16",
+      "company": "PwC",
+      "title": "IN_Associate_ GenAI and Agentic AI Engineer _GCC_ Advisory_ Bangalore",
+      "locations": [
+        "Bengaluru Millenia"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Associate--GenAI-and-Agentic-AI-Engineer--GCC--Advisory--Bangalore_738729WD-1",
+      "url": "https://trueinterview.io/jobs/1abee12e-64bd-4174-9b12-41159f915d16",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "70e7ecfc-f6d0-4bdb-8fa4-3c952304c682",
+      "company": "PwC",
+      "title": "IN_Senior Associate_GenAI and Agentic AI Engineer _GCC_Advisory_Bangalore",
+      "locations": [
+        "Bengaluru Millenia"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Associate-GenAI-and-Agentic-AI-Engineer--GCC-Advisory-Bangalore_738717WD-1",
+      "url": "https://trueinterview.io/jobs/70e7ecfc-f6d0-4bdb-8fa4-3c952304c682",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "64934cd3-49fe-4307-ae62-6e27c728d2aa",
+      "company": "PwC",
+      "title": "IN_Senior Associate_GenAI and Agentic AI Engineer_GCC_Advisory_Noida",
+      "locations": [
+        "Noida"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Noida/IN-Senior-Associate-GenAI-and-Agentic-AI-Engineer-GCC-Advisory-Bangalore_738966WD",
+      "url": "https://trueinterview.io/jobs/64934cd3-49fe-4307-ae62-6e27c728d2aa",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "af907e08-37cb-40be-b893-656fabebfdc2",
+      "company": "The Adecco Group",
+      "title": "CDI - Data Engineer F/H",
+      "locations": [
+        "Toulon, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.welcometothejungle.com/en/companies/the-adecco-group/jobs/cdi-data-engineer-f-h_toulon",
+      "url": "https://trueinterview.io/jobs/af907e08-37cb-40be-b893-656fabebfdc2",
       "postedAt": "2026-09-22T00:00:00.000Z",
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
@@ -2673,6 +2846,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/42229194",
       "url": "https://trueinterview.io/jobs/bff46009-e9cf-4d26-a3d7-83549442f35d",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "1941b0ce-f153-4d04-ab83-ff13e7bafcc2",
+      "company": "Micron Technology",
+      "title": "New College Grad - Engineer, Node Development PE",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44544545",
+      "url": "https://trueinterview.io/jobs/1941b0ce-f153-4d04-ab83-ff13e7bafcc2",
       "postedAt": "2026-09-21T00:00:00.000Z",
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
@@ -57713,32 +57911,6 @@
       "url": "https://trueinterview.io/jobs/76463977-5823-4bad-ad50-cc7484fd9e54",
       "postedAt": "2026-08-31T17:12:44.000Z",
       "updatedAt": "2026-08-31T17:12:44.000Z"
-    },
-    {
-      "id": "88c9f257-2b09-4917-92fe-520070653874",
-      "company": "xAI",
-      "title": "Mechanical Commissioning Engineer - Memphis",
-      "locations": [
-        "Southaven, MS",
-        "Memphis, TN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5226371007",
-      "url": "https://trueinterview.io/jobs/88c9f257-2b09-4917-92fe-520070653874",
-      "postedAt": "2026-08-31T16:56:51.000Z",
-      "updatedAt": "2026-08-31T16:56:51.000Z"
     },
     {
       "id": "9a3f8a1b-b3af-4379-8a86-f7dd7275d8c1",

@@ -31,9 +31,9 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-22 04:34 UTC_
+_Last updated: 2026-09-22 09:50 UTC_
 
-**2,369 open new-grad roles** from **887 employers** · **577 posted in the last 7 days** · refreshed hourly
+**2,369 open new-grad roles** from **887 employers** · **578 posted in the last 7 days** · refreshed hourly
 
 ### Browse 2,369 new-grad roles by field
 
@@ -53,7 +53,7 @@ _Last updated: 2026-09-22 04:34 UTC_
 
 ### 🔥 Posting the most this week
 
-**KLA** 45 &nbsp;·&nbsp; **Intel** 24 &nbsp;·&nbsp; **Cisco** 23 &nbsp;·&nbsp; **Samsung** 20 &nbsp;·&nbsp; **OpenAI** 14 &nbsp;·&nbsp; **Micron Technology** 13 &nbsp;·&nbsp; **AMD** 12 &nbsp;·&nbsp; **SpaceX** 12 &nbsp;·&nbsp; **Anduril Industries** 11 &nbsp;·&nbsp; **Hewlett Packard Enterprise** 11 &nbsp;·&nbsp; **Amazon** 9 &nbsp;·&nbsp; **Analog Devices** 9
+**KLA** 45 &nbsp;·&nbsp; **Intel** 24 &nbsp;·&nbsp; **Cisco** 23 &nbsp;·&nbsp; **Samsung** 20 &nbsp;·&nbsp; **Micron Technology** 14 &nbsp;·&nbsp; **OpenAI** 14 &nbsp;·&nbsp; **AMD** 12 &nbsp;·&nbsp; **SpaceX** 12 &nbsp;·&nbsp; **Anduril Industries** 11 &nbsp;·&nbsp; **Hewlett Packard Enterprise** 11 &nbsp;·&nbsp; **Amazon** 9 &nbsp;·&nbsp; **Analog Devices** 9
 
 <sub>The 12 employers with the most roles posted in the last 7 days, of 59 with more than one. A count of open roles, not a ranking of employers.</sub>
 
@@ -63,13 +63,13 @@ _Last updated: 2026-09-22 04:34 UTC_
 
 _Counts are new-grad roles in the United States & Canada. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (594)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (362)](lists/company/semiconductors.md) · [🚀 Aerospace & defence (287)](lists/company/aerospace-defense.md) · [🏗️ Large tech (1,000–9,999) (265)](lists/company/large-tech.md) · [🧠 AI labs & AI infrastructure (234)](lists/company/ai.md) · [🖥️ Hardware, devices & networking (190)](lists/company/hardware-devices.md) · [🌱 Startups (under 200) (173)](lists/company/startups.md) · [🏢 Enterprise & business software (133)](lists/company/enterprise-saas.md) · [🏤 Mid-sized tech (200–999) (106)](lists/company/mid-size-tech.md) · [🚗 Autonomy, automotive & mobility (90)](lists/company/autonomy-mobility.md) · [+14 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (595)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (363)](lists/company/semiconductors.md) · [🚀 Aerospace & defence (287)](lists/company/aerospace-defense.md) · [🏗️ Large tech (1,000–9,999) (264)](lists/company/large-tech.md) · [🧠 AI labs & AI infrastructure (233)](lists/company/ai.md) · [🖥️ Hardware, devices & networking (190)](lists/company/hardware-devices.md) · [🌱 Startups (under 200) (173)](lists/company/startups.md) · [🏢 Enterprise & business software (133)](lists/company/enterprise-saas.md) · [🏤 Mid-sized tech (200–999) (106)](lists/company/mid-size-tech.md) · [🚗 Autonomy, automotive & mobility (90)](lists/company/autonomy-mobility.md) · [+14 more →](lists/README.md)
 
 🧑‍💻 **By role** — [Software Engineer (422)](lists/role/software-engineer.md) · [AI Engineer (128)](lists/role/ai-engineer.md) · [Hardware Engineer (77)](lists/role/hardware-engineer.md) · [Data Engineer (64)](lists/role/data-engineer.md) · [Security Engineer (64)](lists/role/security-engineer.md) · [Machine Learning Engineer (58)](lists/role/machine-learning-engineer.md) · [Full-Stack Engineer (52)](lists/role/full-stack-engineer.md) · [Research Scientist (40)](lists/role/research-scientist.md) · [Data Scientist (31)](lists/role/data-scientist.md) · [Embedded Engineer (29)](lists/role/embedded-engineer.md) · [+11 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (625)](lists/place/bay-area.md) · [🗽 New York City (215)](lists/place/new-york.md) · [🎸 Austin (180)](lists/place/austin.md) · [🌴 Los Angeles & Orange County (178)](lists/place/los-angeles.md) · [🌲 Seattle & Puget Sound (143)](lists/place/seattle.md) · [🌧️ Portland, Boise & Spokane (84)](lists/place/pacific-northwest.md) · [🍁 Toronto, Waterloo & Ottawa (84)](lists/place/toronto.md) · [🎓 Boston & Cambridge (75)](lists/place/boston.md) · [🏛️ Washington DC & Northern Virginia (70)](lists/place/washington-dc.md) · [🌵 Phoenix & Arizona (53)](lists/place/phoenix.md) · [+16 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (625)](lists/place/bay-area.md) · [🗽 New York City (215)](lists/place/new-york.md) · [🎸 Austin (180)](lists/place/austin.md) · [🌴 Los Angeles & Orange County (178)](lists/place/los-angeles.md) · [🌲 Seattle & Puget Sound (143)](lists/place/seattle.md) · [🌧️ Portland, Boise & Spokane (85)](lists/place/pacific-northwest.md) · [🍁 Toronto, Waterloo & Ottawa (84)](lists/place/toronto.md) · [🎓 Boston & Cambridge (75)](lists/place/boston.md) · [🏛️ Washington DC & Northern Virginia (70)](lists/place/washington-dc.md) · [🌵 Phoenix & Arizona (53)](lists/place/phoenix.md) · [+16 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (577)](lists/new-this-week.md) · [🌐 Remote (230)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (578)](lists/new-this-week.md) · [🌐 Remote (230)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -807,17 +807,17 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/85ae8518-c721-4100-8374-daa79b85f1a2">Applied Scientist - Amazon Robotics, Amazon Robotics - Vulcan Stow</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/85ae8518-c721-4100-8374-daa79b85f1a2">Applied Scientist - Amazon Robotics, Amazon Robotics - Vulcan Stow</a></td>
 <td>US, WA, Seattle</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10553505/applied-scientist-amazon-robotics-amazon-robotics-vulcan-stow">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c9b23cbd-184e-4cbe-93ca-7ff430fc0533">Software Development Engineer, Prime Video ML Infrastructure</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/c9b23cbd-184e-4cbe-93ca-7ff430fc0533">Software Development Engineer, Prime Video ML Infrastructure</a></td>
 <td>US, WA, Seattle</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10553195/software-development-engineer-prime-video-ml-infrastructure">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 </tbody>
 </table>
@@ -2430,7 +2430,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/3f8e5241-f4c4-41d9-81f6-0cc1f937a0f3">Technical Support Engineer</a> 🆕</td>
 <td>Wichita, Kansas, United States<br/>Morrisville, North Carolina, United States</td>
 <td align="center"><a href="https://careers.netapp.com/job/wichita/technical-support-engineer/27600/100842220816">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Hermeus</strong></td>

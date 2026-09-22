@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**652 open roles.** 594 in the United States & Canada · 58 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**653 open roles.** 595 in the United States & Canada · 58 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -143,6 +143,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bff46009-e9cf-4d26-a3d7-83549442f35d">DRAM Device &amp; Cell Technology Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/42229194">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1941b0ce-f153-4d04-ab83-ff13e7bafcc2">New College Grad - Engineer, Node Development PE</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44544545">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/435ba80e-a6dd-4dde-b056-17bf72d15083">Software Engineer - Cloud Infrastructure and Devops</a></td>
 <td>San Jose, CA<br/>Austin, TX<br/>Scottsdale, AZ, US</td>
 <td align="center"><a href="https://paypal.eightfold.ai/careers/job/274920235215">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Salesforce</strong></td>
-<td><a href="https://trueinterview.io/jobs/adf71574-1de5-4b94-8dc9-e6f5e0796957">Software Engineering SMTS/LMTS</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/salesforce-1/jobs/software-engineering-smts-lmts_san-francisco_h7oowrbh">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 </tbody>

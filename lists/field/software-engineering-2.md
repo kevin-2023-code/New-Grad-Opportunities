@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,128 open roles.** 1,496 in the United States & Canada · 632 elsewhere in the world.
+**2,130 open roles.** 1,496 in the United States & Canada · 634 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Source Code</strong></td>
+<td><a href="https://trueinterview.io/jobs/b28719ac-3ac5-4aac-a49b-421d659d3844">cloud engineer</a></td>
+<td>Toronto, ON</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50286990">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Therapy Brands</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b488387-83b7-4f28-94e8-688daab113f9">Software Engineer- PHP</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/0eab0c7b-be22-4bf1-9934-ae59f2a571b7">Application Security Engineer</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cerebras/91bc61c1-29db-4a47-817d-30e921064af5">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/d206a32c-5158-4c53-9d79-043038661b07">Performance Test Engineer, CX(Hybrid)</a></td>
-<td>San Jose, California, US, United States of America<br/>San Francisco, California, US<br/>Palo Alto, California, US<br/>+2 more</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Performance-Test-Engineer_2023246">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 </tbody>

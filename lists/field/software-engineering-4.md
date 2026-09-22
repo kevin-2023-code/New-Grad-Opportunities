@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,128 open roles.** 1,496 in the United States & Canada · 632 elsewhere in the world.
+**2,130 open roles.** 1,496 in the United States & Canada · 634 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2128,6 +2128,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Infiterra</strong></td>
+<td><a href="https://trueinterview.io/jobs/5badf13f-5edf-49e8-bcec-b7fc910ad4e4">Systems Engineer</a></td>
+<td>Greece</td>
+<td align="center"><a href="https://himalayas.app/companies/infiterra/jobs/systems-engineer">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>KPMG Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c65ffd8-47ff-4f00-8d23-4cdf51e0bf2a">AWS Cloud Engineer Consultant</a></td>
+<td>India</td>
+<td align="center"><a href="https://himalayas.app/companies/kpmg-australia/jobs/aws-cloud-engineer-consultant">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Scale Army</strong></td>
 <td><a href="https://trueinterview.io/jobs/1a21617d-d73f-4967-9174-76e431ffbe51">Solutions Engineer</a></td>
 <td>Egypt<br/>Argentina<br/>Ethiopia<br/>+2 more</td>
@@ -2812,20 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Casablanca, Morocco</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/yakeey-mea/jobs/senior-qa-automation">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>C6 Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/e74f33be-0671-4339-8251-c46d545112c6">Pessoa Desenvolvedora IOS |  Core Business Products Engineering</a></td>
-<td>São Paulo, Brazil<br/>C6 Bank</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4734634005">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Arista Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/efd88f84-9504-44dd-9e58-f8d554d60d09">Software Engineer Graduate 2026/2027</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149958449-software-engineer-graduate-2026-2027?oga=true">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 </tbody>
 </table>

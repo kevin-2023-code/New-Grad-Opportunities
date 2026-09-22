@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,128 open roles.** 1,496 in the United States & Canada · 632 elsewhere in the world.
+**2,130 open roles.** 1,496 in the United States & Canada · 634 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/d206a32c-5158-4c53-9d79-043038661b07">Performance Test Engineer, CX(Hybrid)</a></td>
+<td>San Jose, California, US, United States of America<br/>San Francisco, California, US<br/>Palo Alto, California, US<br/>+2 more</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Performance-Test-Engineer_2023246">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Clad (YC W23)</strong></td>
 <td><a href="https://trueinterview.io/jobs/97f1c5e8-5440-43b9-ac94-76502c9564ed">Clad (YC W23) / Software Engineer / NYC / withclad.com</a></td>
@@ -559,13 +566,6 @@
 <td><a href="https://trueinterview.io/jobs/32fe8e00-a330-4382-8fd9-7c4e0bea9e1e">Mission Software Engineer - Undersea Reconnaissance &amp; Strike</a></td>
 <td>Washington, DC<br/>Boston, Massachusetts, United States<br/>Washington, District of Columbia, United States<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5226473007?gh_jid=5226473007">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>xAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/88c9f257-2b09-4917-92fe-520070653874">Mechanical Commissioning Engineer - Memphis</a></td>
-<td>Southaven, MS<br/>Memphis, TN</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5226371007">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>

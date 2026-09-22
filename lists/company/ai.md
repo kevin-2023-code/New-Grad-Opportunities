@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**308 open roles.** 234 in the United States & Canada · 74 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**307 open roles.** 233 in the United States & Canada · 74 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -820,13 +820,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dda39114-fb0a-4b2b-9172-4c695312d5b3">Software Engineer, ML Platform</a></td>
 <td>San Francisco, CA<br/>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cursor/167f0e93-6915-4d56-803a-be89d1441fb5/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>xAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/88c9f257-2b09-4917-92fe-520070653874">Mechanical Commissioning Engineer - Memphis</a></td>
-<td>Southaven, MS<br/>Memphis, TN</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5226371007">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
