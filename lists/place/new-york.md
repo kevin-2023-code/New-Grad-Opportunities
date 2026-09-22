@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Rebar</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8c80e5d-365e-4915-a4aa-02afb5031919">Software Engineer, Product</a></td>
+<td>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rebar/5ab49c2d-9a70-4723-9217-7704a455155c/application">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Anthropic</strong></td>
 <td><a href="https://trueinterview.io/jobs/d585993e-443b-49ac-921d-ef09aaed96e6">Software Engineer (Beneficial Deployments)</a></td>
 <td>New York, NY</td>
@@ -639,13 +646,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/compass/jobs/front-end-software-engineer_new-york_qoyicm6f">Apply</a></td>
 <td align="center">6 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Writer</strong></td>
-<td><a href="https://trueinterview.io/jobs/9fbacf69-0c73-49be-a731-177f6b694cd5">Security engineer, detection and response</a></td>
-<td>New York City, NY<br/>San Francisco, CA<br/>Seattle, WA<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/writer/52b3bf22-7f09-4b9d-9d62-ab9f218a4c66/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cloudflare</strong></td>

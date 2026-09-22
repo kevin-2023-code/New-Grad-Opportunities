@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**673 open roles.** 427 in the United States & Canada · 246 elsewhere in the world.
+**677 open roles.** 428 in the United States & Canada · 249 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,10 +20,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ca96588-9587-4a66-8c6d-b5b508558532">Software Engineer, Space Systems Test</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5244590007?gh_jid=5244590007">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Rebar</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8c80e5d-365e-4915-a4aa-02afb5031919">Software Engineer, Product</a></td>
+<td>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rebar/5ab49c2d-9a70-4723-9217-7704a455155c/application">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Applied intuition</strong></td>
+<td><a href="https://trueinterview.io/jobs/826289d8-1b82-4db5-8e55-837044761c9f">Technical Sourcer, Gen SWE</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/applied/e10dc74a-12f8-42a3-94db-cf7e7ace9f61/application">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Anthropic</strong></td>
 <td><a href="https://trueinterview.io/jobs/d585993e-443b-49ac-921d-ef09aaed96e6">Software Engineer (Beneficial Deployments)</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/anthropic/jobs/software-engineer-beneficial-deployments_new-york_tudb32gv">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>BroadPoint Federal</strong></td>
+<td><a href="https://trueinterview.io/jobs/321e93fd-5e6f-4868-aa5e-4221543521b6">Oracle Apps/EBS Technical Consultant Developer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://himalayas.app/companies/broadpoint-federal/jobs/oracle-apps-ebs-technical-consultant-developer-2826344590">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -161,13 +189,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/29d92fce-d43b-46b1-8172-74029d803b57">AIE Software Development Engineer</a></td>
-<td>San Jose, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92556?lang=en-us">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7585004e-0bc1-43cd-b165-97a9284cc0d6">Software Solutions Engineer</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/92706?lang=en-us">Apply</a></td>
@@ -482,13 +503,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Stripe</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e3b4740-0aab-4386-9526-434a8718ff5b">Software Engineer, Early Career — Immediate Start</a></td>
-<td>San Francisco, CA<br/>San Francisco, Seattle, New York<br/>Toronto<br/>+1 more</td>
-<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8212508">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Blink Ux</strong></td>
 <td><a href="https://trueinterview.io/jobs/315272c3-6bd3-4f0e-a904-febf2e314644">UI Developer (React)</a></td>
 <td>San Diego, CA</td>
@@ -570,13 +584,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/98b299fe-c685-49ed-847b-3a3362654afe">Software Engineer</a></td>
 <td>United States</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39489">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/fe8c27ea-9320-4908-b1fd-64b2501cbb64">Software QA Engineer- New College Grad 2026</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397738668">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -2811,13 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>USA - Sunnyvale, CA, United States of America<br/>USA - Austin, TX<br/>USA - Redmond, WA</td>
 <td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Software-Engineer---Sensor--macOS---Hybrid-_R29279">Apply</a></td>
 <td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/20888861-8a70-45c0-9411-90ce1c0b28d6">Software Engineer, Network Firewall</a></td>
-<td>Atlanta, GA<br/>Austin, TX<br/>Denver, Colorado, United States<br/>+3 more (hybrid)</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8106815?gh_jid=8106815">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

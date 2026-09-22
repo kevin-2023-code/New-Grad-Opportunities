@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cc144db-afc0-4346-b118-781ce1ba407b">Frontend Engineer, Data Product Experiences</a></td>
+<td>N/A<br/>Canada Locations</td>
+<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8194606">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Wise</strong></td>
 <td><a href="https://trueinterview.io/jobs/8000f2d6-6ac2-4491-bd21-cdbf03699223">Graduate Software Engineer</a></td>
 <td>Austin, TX</td>
@@ -58,13 +65,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8191751">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Stripe</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e3b4740-0aab-4386-9526-434a8718ff5b">Software Engineer, Early Career — Immediate Start</a></td>
-<td>San Francisco, CA<br/>San Francisco, Seattle, New York<br/>Toronto<br/>+1 more</td>
-<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8212508">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Sydecar</strong></td>

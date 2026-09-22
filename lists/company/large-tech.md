@@ -18,10 +18,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Nintendo</strong></td>
-<td><a href="https://trueinterview.io/jobs/76ca0fd6-eb88-4b2c-8bb7-43c59b69d3a1">CONTRACT - Assoc Engineer (NTD)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4413950009">Apply</a></td>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cc144db-afc0-4346-b118-781ce1ba407b">Frontend Engineer, Data Product Experiences</a></td>
+<td>N/A<br/>Canada Locations</td>
+<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8194606">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -92,6 +92,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fe6fbecc-dedf-47fe-8764-1700004cb306">Software Engineer, Plugin Ecosystem</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/e42305bf-2266-4dff-82ad-42be7ddac495/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Nintendo</strong></td>
+<td><a href="https://trueinterview.io/jobs/718142f3-2858-4446-ba7b-d58b14317030">CONTRACT - Web Development Engineer</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4382609009">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -177,13 +184,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://4dayweek.io/job/solutions-engineer-acquisition-at-grafana-labs-4919acc2">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Stripe</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e3b4740-0aab-4386-9526-434a8718ff5b">Software Engineer, Early Career — Immediate Start</a></td>
-<td>San Francisco, CA<br/>San Francisco, Seattle, New York<br/>Toronto<br/>+1 more</td>
-<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8212508">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Affirm</strong></td>

@@ -19,10 +19,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Nintendo</strong></td>
-<td><a href="https://trueinterview.io/jobs/76ca0fd6-eb88-4b2c-8bb7-43c59b69d3a1">CONTRACT - Assoc Engineer (NTD)</a></td>
+<td><a href="https://trueinterview.io/jobs/718142f3-2858-4446-ba7b-d58b14317030">CONTRACT - Web Development Engineer</a></td>
 <td>Redmond, WA</td>
-<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4413950009">Apply</a></td>
-<td align="center">22 Sep 2026</td>
+<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4382609009">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Bungie</strong></td>

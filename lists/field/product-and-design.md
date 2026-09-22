@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**173 open roles.** 129 in the United States & Canada · 44 elsewhere in the world.
+**176 open roles.** 132 in the United States & Canada · 44 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Neros Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f88f111-681a-40b2-b1d9-d91a5cad8cd4">Web &amp; Digital Experience Designer</a></td>
+<td>Torrance, California, United States<br/>HQ</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/nerostechnologies/jobs/5246222007">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lessen</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6909efb-5ba8-4121-8678-e223f2aec73a">Video &amp; Motion Designer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://jobs.lever.co/lessen/f5d2590e-4e69-4d82-b4d1-ea57bac228c9/apply">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Reevo</strong></td>
+<td><a href="https://trueinterview.io/jobs/64ae1b4b-73b5-47d6-a7c4-c50fa26eaaa0">Builder - Product Designer</a></td>
+<td>San Francisco, CA<br/>Santa Clara</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/reevo/787cf246-d288-4d4d-b99e-c53185afb3f2/application">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/dd4f09d7-0938-4810-a45a-7f036d7c051a">Designer, Land Development</a></td>

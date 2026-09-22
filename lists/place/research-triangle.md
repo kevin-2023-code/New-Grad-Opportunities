@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**37 open roles.**
+**36 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -71,13 +71,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b591b664-7024-4b35-8536-30551b9947d5">Railroad Civil/Track Designer I</a></td>
 <td>Charlotte, NC<br/>Raleigh, NC<br/>Milwaukee, WI<br/>+6 more</td>
 <td align="center"><a href="https://www.benesch.com/job-openings/5240254007?gh_jid=5240254007">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3f963d0-fa11-47e1-b7a8-6b32ec346730">GPU Architecture Engineer - New College Grad 2026</a></td>
-<td>Durham, NC, US<br/>Austin, TX<br/>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893396498176">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

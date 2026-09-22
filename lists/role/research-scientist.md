@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**44 open roles.** 40 in the United States & Canada · 4 elsewhere in the world.
+**45 open roles.** 41 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ursa Major</strong></td>
+<td><a href="https://trueinterview.io/jobs/f768fb9a-fba3-498c-84cf-5abeab3d6cf3">Development Research Engineer I, Energetics</a></td>
+<td>Berthoud, Colorado</td>
+<td align="center"><a href="https://ursamajor.com/careers/?gh_jid=4736772005">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Roboflow</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc3a528f-8547-4e89-a54a-a7f8c4822d94">Research Scientist</a></td>

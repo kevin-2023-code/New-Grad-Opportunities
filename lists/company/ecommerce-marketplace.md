@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**81 open roles.** 44 in the United States & Canada · 37 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**82 open roles.** 45 in the United States & Canada · 37 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Canadian Tire</strong></td>
+<td><a href="https://trueinterview.io/jobs/0718b150-54f5-462b-b96f-2e9e1e694509">Data Scientist</a></td>
+<td>Oakville, ON</td>
+<td align="center"><a href="https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Data-Scientist_JR165144">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Faire</strong></td>
 <td><a href="https://trueinterview.io/jobs/d7094e37-ac70-4576-99ea-c75940b1e5da">Growth Platform, Marketing Engineer</a></td>

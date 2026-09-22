@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**18 open roles.**
+**19 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>G2it</strong></td>
+<td><a href="https://trueinterview.io/jobs/44713495-3e93-4595-aca3-8a5094678632">Systems Engineer - Backup</a></td>
+<td>San Diego, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/g2it/jobs/5431835008">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>QUALCOMM</strong></td>
 <td><a href="https://trueinterview.io/jobs/e1275f8f-9b8c-4705-b87e-5e89387625de">#Backend Software Engineer</a></td>

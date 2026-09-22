@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,139 open roles.** 1,503 in the United States & Canada · 636 elsewhere in the world.
+**2,162 open roles.** 1,515 in the United States & Canada · 647 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,118 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Gdh</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc910b78-c24d-41b6-a22d-6e637df09ef2">Graduate Stormwater Engineering</a></td>
+<td>Toronto, ON, Canada</td>
+<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28730">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2ae9a1e-ec1a-435d-95bb-4f3f658238a4">System Analyst - Robotic Controls Engineer</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000149411520-system-analyst-robotic-controls-engineer?oga=true">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae7e7f29-178b-44f1-97bd-18f78797c301">Software Engineer, Ads Integrity</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/596e543a-0ab9-471e-a1ff-40fd55c74fce/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sequence Holdings</strong></td>
+<td><a href="https://trueinterview.io/jobs/6934b196-56cc-4fcd-8f66-a486bbdde269">Product Engineer</a></td>
+<td>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/seqholdings/7ab66292-f81b-4a58-a0f0-6fbafd54061a/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Vapi</strong></td>
+<td><a href="https://trueinterview.io/jobs/1641ea30-0495-4d14-86f6-b130ddeaf21b">Customer Support Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/vapi/85f2aa22-98e7-4610-965d-4366bb9757fa/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Capco</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ccaf058-95d1-4144-8d89-be2c41350e97">Full Stack Developer</a></td>
+<td>Canada - Toronto</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8178768">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/abeb4f36-0dbc-48ae-9291-b3c7410daf51">Software Engineer</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/106684387621249734-software-engineer">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/406ba9ca-09ad-47ab-9408-a9d51152be94">Software Engineer, Early Career, Campus</a></td>
+<td>Mountain View, CA<br/>Cambridge, MA, USA</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NetApp</strong></td>
+<td><a href="https://trueinterview.io/jobs/653ac5b1-9e68-4c4b-adf1-c221f8154a65">Entry Level Software Engineer - ANF (Azure NetApp Files)</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://careers.netapp.com/job/san-jose/entry-level-software-engineer-anf-azure-netapp-files/27600/97615964496">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/591bac23-8555-442c-a005-6510153d6447">RTL / Circuit IP Design Engineer</a></td>
+<td>US, CA, San Jose<br/>San Jose, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/87103?lang=en-us">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/ad27e030-6925-4854-ab95-fefd7efdad95">Algorithm Developer II New College Grad- Master's (Santa Clara, CA)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318190659">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e8a9601c-44e4-4955-a984-39cf0d124e3d">New College Grad - Algorithm Developer III - PhD (Winter 2026 Start)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318462362">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6039447c-f817-430d-851c-d493df2c0339">Packaging Engineer II, New College Grad- Master's (Santa Clara, CA)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318339769">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Bright Vision Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/13f325ec-a7e2-49b0-88b8-c08f1fb7008c">Network Solutions Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://himalayas.app/companies/bright-vision-technologies/jobs/network-solutions-engineer">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/70438bac-0314-4ebc-aebc-97b6f40f8c3a">Software Engineer- Simulation Models</a></td>
+<td>Milpitas, California, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer--Simulation-Models_2022348">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Coherent Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec8e4b33-8ae5-402f-a3cd-964adc6c532d">Santa Clara Applications Engineer</a></td>
+<td>Santa Clara, CA, United States</td>
+<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014726">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Consensus</strong></td>
 <td><a href="https://trueinterview.io/jobs/28dd35ae-119a-46da-8eba-4fa55133aba4">DevOps Engineer</a> 🌐</td>
@@ -1605,13 +1717,6 @@
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Roadrunner</strong></td>
-<td><a href="https://trueinterview.io/jobs/7533b7a6-4859-482f-b72c-c34a1be9df53">Forward Deployed Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/roadrunner/1deab7ed-8a05-47d2-ba79-3dd3623cb951/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Metaview</strong></td>
 <td><a href="https://trueinterview.io/jobs/11a12af9-3a2a-4934-a449-2cf91839a7f6">Product Engineer</a></td>
 <td>San Francisco, CA</td>
@@ -2029,13 +2134,6 @@
 <td><a href="https://trueinterview.io/jobs/72a4a2c9-56d9-4d69-bf1e-8b7591291a6b">Cloud Platform Engineer (SF)</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/mercor/9617d47a-9e6f-404f-b1fe-2fa4b7ff8471/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Writer</strong></td>
-<td><a href="https://trueinterview.io/jobs/9fbacf69-0c73-49be-a731-177f6b694cd5">Security engineer, detection and response</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>London, UK<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/writer/52b3bf22-7f09-4b9d-9d62-ab9f218a4c66/application">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
@@ -2715,104 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/3e66c07f-e81a-465f-b569-ebe69482d365">Core Infrastructure Engineer 1</a></td>
 <td>Nashville, TN, United States</td>
 <td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/344360">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1826cd8-79a0-43fe-8fa8-857cba390396">2027 Early Career Flight Software Engineer</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/7cfae075-c903-431d-a3b1-0567dc0155e4">Design &amp; Release Engineer - Body Interior</a></td>
-<td>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69328">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Goldman Sachs</strong></td>
-<td><a href="https://trueinterview.io/jobs/210e985e-9d74-4f0b-bb75-ecdf3c28f196">The Core Engineering-L2-New York-Associate-Project Management</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3002/job/179775">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Applied intuition</strong></td>
-<td><a href="https://trueinterview.io/jobs/c07a8afc-d024-409f-a110-6d519d5d137d">Cybersecurity Software Engineer - New Grad (December 2027)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>GitLab</strong></td>
-<td><a href="https://trueinterview.io/jobs/2ff1e0b2-6420-4bdc-98b4-c767b7802808">Intermediate Backend Engineer, AMER</a> 🌐</td>
-<td>Remote — Canada, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8773006002">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Applied intuition</strong></td>
-<td><a href="https://trueinterview.io/jobs/84351134-2806-48fb-aede-9b6c7b765041">Forward Deployed Engineer - New Grad (December 2026)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Gonetspeed</strong></td>
-<td><a href="https://trueinterview.io/jobs/e96e3914-cbdf-4047-b565-316f79e929e3">OSP Engineer</a></td>
-<td>Haverhill, Massachusetts</td>
-<td align="center"><a href="https://jobs.lever.co/gonetspeed/24071d16-ed20-4d77-ae8d-aaa2262dce29/apply">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hadrian Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/1ee23d40-9c84-40a8-84af-b861d68c0cb6">Paint Engineer</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/115d8734-0f96-4375-b27d-6a4d62956b04/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/b0fa3fec-72c6-4265-b23f-ad97494c6398">Calibration Engineer</a></td>
-<td>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69805">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7c3f488d-488b-423d-9a61-caf48428aac8">Manufacturing Process Development Operations Engineer - New Product Programs</a></td>
-<td>Redford, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68033">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sift Stack, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/caed328d-b509-4f8d-92cc-40062f2370ba">Software Engineer – New College Graduate</a></td>
-<td>Marina Del Rey, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cambio</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fb7fd5c-da31-4968-bc0a-e352e4d5b9f6">Backend Engineer</a></td>
-<td>Waterloo, ON<br/>San Francisco, CA<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cambio/34400221-9b07-4db9-929b-3441bdf00dd4/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/b69a626c-35a5-4540-82c3-ffe402b23a24">Diesel Emissions Systems Engineer</a></td>
-<td>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67214">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8d535c0d-826d-45af-b2fc-fcc5924a7fe5">Design and Release Engineer-Cockpit and Trim</a></td>
-<td>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69343">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 </tbody>

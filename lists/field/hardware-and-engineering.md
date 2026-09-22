@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**320 open roles.** 299 in the United States & Canada · 21 elsewhere in the world.
+**324 open roles.** 303 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe080f68-e666-415a-9811-7a0f24471554">Battery Management Systems Hardware Engineer</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71450">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Gdh</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0abefce-2b29-400c-9f33-de7117c944a9">Environmental Engineering or Science Graduate</a></td>
+<td>Toronto, ON, Canada<br/>St Catharines, ON, Canada</td>
+<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28709">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Simplisafe</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c890292-23fa-4ab5-9355-a39fbc1fe63e">Electrical Engineer I</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/simplisafe/jobs/8224006">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/a4dc31e8-fb5c-41d9-b8f9-8cf1f93d1a67">Hardware Test Automation Engineer</a></td>
 <td>Bastrop, TX</td>
@@ -29,6 +50,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/56b960b2-e5de-4e83-b340-4a5c8f00a574">Environmental/Chemical Engineer</a></td>
 <td>West Lafayette, IN</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/skhynixamerica/jobs/5430827008">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3557f7e-2e14-4b21-ab79-c0e2bcd43de5">Hardware Test Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92365?lang=en-us">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/72c1a16d-c104-4d8a-b47f-1a55b7539ce3">Platform System/Hardware Engineer - Customer Solutions Engineering</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Platform-System-Hardware-Engineer---Customer-Solutions-Engineering_1213922-2">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -50,6 +85,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/862fdcdd-2e2c-41e2-937a-51bebe3e43f0">CAD Engineer</a></td>
 <td>Richardson, TX, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/42328538">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/48c318de-a24e-484e-bf30-6b699cc160c3">Semiconductor Maintenance Technician – Diffusion Quartz &amp; PM Machinist</a></td>
+<td>Chandler (Manufacturing), United States of America</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Diffusion-Quartz---PM-Machinist_R-10067005-1">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -327,13 +369,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a9cd98c2-2ef3-4089-a0d9-507ed9500fef">Quality Reliability Engineer</a></td>
-<td>US, Arizona, Phoenix, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Quality-Reliability-Engineer_JR0286138-1">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/44221136-db79-485a-a735-8ebcca7fc004">Silicon Product Engineer</a></td>
 <td>US, Texas, Austin, United States of America<br/>US, California, Folsom, United States of America<br/>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Silicon-Product-Engineer_JR0284977">Apply</a></td>
@@ -456,13 +491,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/576efad4-b09c-4544-a21e-d726a024b188">Hardware Engineer I (Full Time) - United States</a></td>
 <td>San Jose, California, US, United States of America<br/>Austin, TX<br/>Austin, Texas, US<br/>+2 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Full-Time----United-States_2024649">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Dell</strong></td>
-<td><a href="https://trueinterview.io/jobs/052c555b-63f3-467e-a7d2-cc57bcf52a10">Quality Engineer 1</a></td>
-<td>Franklin, MA, United States</td>
-<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/296573">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

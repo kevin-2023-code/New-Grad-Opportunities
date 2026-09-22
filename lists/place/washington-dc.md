@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**70 open roles.**
+**71 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>C3el</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6a7b9ce-33d7-472a-8d62-63a13e294bf3">Secure AV / SIPRNet Support Engineer</a></td>
+<td>Alexandria, VA<br/>Customer Site</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/c3el/jobs/5246341007">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Accenture Federal Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/26927344-4757-4ee5-820c-3428ff77bf3c">ServiceNow Developer</a></td>

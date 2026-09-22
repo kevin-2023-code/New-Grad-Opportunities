@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**103 open roles.** 52 in the United States & Canada · 51 elsewhere in the world.
+**105 open roles.** 52 in the United States & Canada · 53 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -393,6 +393,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Scalepex</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2535e26-c467-4342-844b-bae5a711a67f">UI UX Full Stack Engineer - Fully Remote - Mexico Only</a></td>
+<td>Mexico</td>
+<td align="center"><a href="https://himalayas.app/companies/scalepex/jobs/ui-ux-full-stack-engineer-fully-remote-mexico-only-6734421198">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Softex Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/bdeb39fa-6c09-4ade-9652-28e680a42da2">Full Stack Developer</a></td>
+<td>Romania</td>
+<td align="center"><a href="https://himalayas.app/companies/softex-company/jobs/full-stack-developer-7721485996">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Bump</strong></td>
 <td><a href="https://trueinterview.io/jobs/a2cf54af-0776-4884-bd42-bb28021677a6">Fullstack Engineer</a> 🌐</td>

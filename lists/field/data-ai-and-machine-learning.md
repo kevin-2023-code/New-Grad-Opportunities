@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**688 open roles.** 340 in the United States & Canada · 348 elsewhere in the world.
+**693 open roles.** 344 in the United States & Canada · 349 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ursa Major</strong></td>
+<td><a href="https://trueinterview.io/jobs/f768fb9a-fba3-498c-84cf-5abeab3d6cf3">Development Research Engineer I, Energetics</a></td>
+<td>Berthoud, Colorado</td>
+<td align="center"><a href="https://ursamajor.com/careers/?gh_jid=4736772005">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Oracle</strong></td>
+<td><a href="https://trueinterview.io/jobs/03253280-b32d-4d85-8c4e-d48e4c1a9abc">AI Ops Engineer</a></td>
+<td>Nashville, TN, United States</td>
+<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/342202">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Adobe</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a2cf7dc-76ee-4d45-a583-8587948ca218">2027 University Graduate - AI Forward Deployed Engineer</a></td>
+<td>San Francisco, California, United States of America<br/>San Jose, California, United States of America</td>
+<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Canadian Tire</strong></td>
+<td><a href="https://trueinterview.io/jobs/0718b150-54f5-462b-b96f-2e9e1e694509">Data Scientist</a></td>
+<td>Oakville, ON</td>
+<td align="center"><a href="https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Data-Scientist_JR165144">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Itnova</strong></td>
 <td><a href="https://trueinterview.io/jobs/06cf3d9b-64d2-4c17-81dc-7f10b208f949">Data Analyst</a></td>
@@ -2412,6 +2440,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>G2i Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/53c4bb13-c233-4940-a672-e774f4190a72">AI Engineer, Agents &amp; Search</a></td>
+<td>LATAM</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/g2i/ae69d8d4-cd1f-4573-baa9-191a55b61298/application">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>GitLab</strong></td>
 <td><a href="https://trueinterview.io/jobs/e269e3b9-c629-41fa-99e7-5ff7c6a50ec4">AI Engineer</a></td>
 <td>—</td>
@@ -2794,41 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6fae4a53-3d27-42cc-9f71-c4a84f80b108">AI/ML Software Engineer</a></td>
 <td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/nabla/jobs/ai-ml-software-engineer_paris">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NEXTON</strong></td>
-<td><a href="https://trueinterview.io/jobs/66fedf65-c09e-42d1-b0ff-0d3eedfb59eb">Data Engineer AWS H/F</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/nexton-consulting/jobs/data-engineer-aws-h-f_paris_NEXTO_Nlw6Vr3">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Nmbrs</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b519a24-2d2a-45dd-93ed-d3af04730662">Machine Learning engineer</a></td>
-<td>Lisboa, Portugal</td>
-<td align="center"><a href="https://4dayweek.io/job/machine-learning-engineer-at-nmbrs-8b56d381">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Nomadia</strong></td>
-<td><a href="https://trueinterview.io/jobs/08e8b223-7df2-4458-a855-cf3aaa82b03c">Data Engineer (F/H)</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/nomadia/jobs/data-engineer-f-h_paris_NOMAD_7Rma3Rg">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sport Alliance GmbH</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a3ba75a-d6f2-408d-b644-f988984b69a1">AI-First Data Engineer (m/f/d)</a></td>
-<td>Poland</td>
-<td align="center"><a href="https://himalayas.app/companies/sport-alliance-gmbh/jobs/ai-first-data-engineer-m-f-d-3061064998">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Wavestone</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c7c7ce1-be25-41fa-a430-9a4180ae742c">Consultant·e Agentic &amp; GenAI Engineer – Jeune diplômé·e (H/F)</a></td>
-<td>Puteaux, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/consultant-e-agentic-genai-engineer-jeune-diplome-e-h-f_puteaux">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 </tbody>

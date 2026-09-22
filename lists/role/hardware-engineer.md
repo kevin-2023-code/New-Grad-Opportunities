@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**80 open roles.** 78 in the United States & Canada · 2 elsewhere in the world.
+**84 open roles.** 82 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe080f68-e666-415a-9811-7a0f24471554">Battery Management Systems Hardware Engineer</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71450">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/a4dc31e8-fb5c-41d9-b8f9-8cf1f93d1a67">Hardware Test Automation Engineer</a></td>
 <td>Bastrop, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8830956002?gh_jid=8830956002">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3557f7e-2e14-4b21-ab79-c0e2bcd43de5">Hardware Test Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92365?lang=en-us">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/72c1a16d-c104-4d8a-b47f-1a55b7539ce3">Platform System/Hardware Engineer - Customer Solutions Engineering</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Platform-System-Hardware-Engineer---Customer-Solutions-Engineering_1213922-2">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/48c318de-a24e-484e-bf30-6b699cc160c3">Semiconductor Maintenance Technician – Diffusion Quartz &amp; PM Machinist</a></td>
+<td>Chandler (Manufacturing), United States of America</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Diffusion-Quartz---PM-Machinist_R-10067005-1">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>

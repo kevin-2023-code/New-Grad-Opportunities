@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**35 open roles.** 19 in the United States & Canada · 16 elsewhere in the world.
+**34 open roles.** 18 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -142,13 +142,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/myfitnesspal/jobs/8085214">Apply</a></td>
 <td align="center">26 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5cf9bb0-8661-4afc-9d8d-2b47275ae878">Production Engineer, Site Reliability (Application Software)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8649729002?gh_jid=8649729002">Apply</a></td>
-<td align="center">24 Jul 2026</td>
 </tr>
 </tbody>
 </table>

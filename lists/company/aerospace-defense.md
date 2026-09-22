@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**309 open roles.** 288 in the United States & Canada · 21 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**312 open roles.** 291 in the United States & Canada · 21 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Neros Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f88f111-681a-40b2-b1d9-d91a5cad8cd4">Web &amp; Digital Experience Designer</a></td>
+<td>Torrance, California, United States<br/>HQ</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/nerostechnologies/jobs/5246222007">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ursa Major</strong></td>
+<td><a href="https://trueinterview.io/jobs/f768fb9a-fba3-498c-84cf-5abeab3d6cf3">Development Research Engineer I, Energetics</a></td>
+<td>Berthoud, Colorado</td>
+<td align="center"><a href="https://ursamajor.com/careers/?gh_jid=4736772005">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d7b32c7-3100-4e2f-94e4-c6e027bdbd71">2027 Early Career Flight Test Engineer</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bd6c8e40-fa35-4c0b-a58f-3e6d4ed53aa6">2027 Early Career Firmware Engineer</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1ca96588-9587-4a66-8c6d-b5b508558532">Software Engineer, Space Systems Test</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5244590007?gh_jid=5244590007">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/58aeeb7a-69d1-4568-9a30-0901fbec055c">Development Test Engineer (Starlink)</a></td>
@@ -1614,14 +1649,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Ursa Major</strong></td>
-<td><a href="https://trueinterview.io/jobs/485f79a8-d450-42da-a9d2-6cb626c06dd4">Propulsion Engineer, Combusion Devices</a></td>
-<td>Berthoud, Colorado</td>
-<td align="center"><a href="https://ursamajor.com/careers/?gh_jid=4723386005">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c8bfdb69-3a41-41a2-b6ad-41ba03013d30">Loads &amp; Dynamics Engineer (Starfall)</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696568002?gh_jid=8696568002">Apply</a></td>
@@ -2025,13 +2053,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Starbase, TX<br/>Brownsville, TX, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8650988002?gh_jid=8650988002">Apply</a></td>
 <td align="center">26 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d5cf9bb0-8661-4afc-9d8d-2b47275ae878">Production Engineer, Site Reliability (Application Software)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8649729002?gh_jid=8649729002">Apply</a></td>
-<td align="center">24 Jul 2026</td>
 </tr>
 </tbody>
 </table>

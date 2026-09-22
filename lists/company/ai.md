@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**307 open roles.** 233 in the United States & Canada · 74 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**308 open roles.** 234 in the United States & Canada · 74 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Lila Sciences</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d749eb0-486f-4099-8247-6ce946c445fa">Robotics Operations Engineer I, First Shift</a></td>
+<td>Cambridge, MA USA<br/>Alewife, Cambridge, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4410043009">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cursor</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e31876e-580a-4a73-97b2-219f143e105c">Security GRC Engineer</a></td>
+<td>San Francisco, CA<br/>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cursor/1703501f-53a1-4307-93ec-84b723be92ef/application">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Anthropic</strong></td>
 <td><a href="https://trueinterview.io/jobs/d585993e-443b-49ac-921d-ef09aaed96e6">Software Engineer (Beneficial Deployments)</a></td>
@@ -638,13 +652,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/72a4a2c9-56d9-4d69-bf1e-8b7591291a6b">Cloud Platform Engineer (SF)</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/mercor/9617d47a-9e6f-404f-b1fe-2fa4b7ff8471/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Writer</strong></td>
-<td><a href="https://trueinterview.io/jobs/9fbacf69-0c73-49be-a731-177f6b694cd5">Security engineer, detection and response</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>London, UK<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/writer/52b3bf22-7f09-4b9d-9d62-ab9f218a4c66/application">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**89 open roles.** 65 in the United States & Canada · 24 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**90 open roles.** 65 in the United States & Canada · 25 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -484,6 +484,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Censys</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f8be4fe-8cdd-4215-b383-9c1f3f83aacf">Security Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/censys/jobs/8541287002">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>ThreatDown</strong></td>
 <td><a href="https://trueinterview.io/jobs/b9e3479b-0bda-4057-b0fa-da24eda9798c">MDR Platform Engineer - Italy</a></td>

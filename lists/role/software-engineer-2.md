@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**673 open roles.** 427 in the United States & Canada · 246 elsewhere in the world.
+**677 open roles.** 428 in the United States & Canada · 249 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/20888861-8a70-45c0-9411-90ce1c0b28d6">Software Engineer, Network Firewall</a></td>
+<td>Atlanta, GA<br/>Austin, TX<br/>Denver, Colorado, United States<br/>+3 more (hybrid)</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8106815?gh_jid=8106815">Apply</a></td>
+<td align="center">6 Aug 2026</td>
+</tr>
 <tr>
 <td><strong>Mercor</strong></td>
 <td><a href="https://trueinterview.io/jobs/61e382a0-81ef-4783-b792-c6a68b72d8d6">Software Engineer, Marketplace</a></td>
@@ -217,6 +224,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Gallup</strong></td>
+<td><a href="https://trueinterview.io/jobs/06bf89e1-3836-4364-a311-9adce00a6934">Software Engineer — E-commerce</a></td>
+<td>Omaha Riverfront</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gallup/jobs/4415441009">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Bskt</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a2cbf4f-9ef6-4172-8a83-0ae2ec4984c7">Java Developer</a></td>
+<td>United Kingdom</td>
+<td align="center"><a href="https://himalayas.app/companies/bskt/jobs/java-developer-5112184217">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/63132288-b6c6-41ec-bf05-1cc2dce64e6c">Software Engineer (Security Rules)</a></td>
 <td>United Kingdom</td>
@@ -235,6 +256,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ea5fd2fa-0abe-4b6a-91c8-5f6d5959362f">Azure Java Developer</a></td>
 <td>Malaysia</td>
 <td align="center"><a href="https://himalayas.app/companies/ebc-group/jobs/azure-java-developer-8474081753">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>EUROPEAN DYNAMICS</strong></td>
+<td><a href="https://trueinterview.io/jobs/9dfe0712-1e60-4ae7-80ca-ffc768dfbb32">MS Dynamics Developer</a></td>
+<td>Belgium</td>
+<td align="center"><a href="https://himalayas.app/companies/european-dynamics/jobs/ms-dynamics-developer">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>

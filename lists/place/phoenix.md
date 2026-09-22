@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**53 open roles.**
+**52 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -71,13 +71,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7c2cfdbb-ff8d-4e12-9638-4df65d3fb207">Packaging Module Equipment Development Engineer</a></td>
 <td>US, Arizona, Phoenix, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Module-Equipment-Development-Engineer_JR0286445">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a9cd98c2-2ef3-4089-a0d9-507ed9500fef">Quality Reliability Engineer</a></td>
-<td>US, Arizona, Phoenix, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Quality-Reliability-Engineer_JR0286138-1">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

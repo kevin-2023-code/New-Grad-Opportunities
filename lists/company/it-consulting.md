@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**274 open roles.** 88 in the United States & Canada · 186 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**276 open roles.** 89 in the United States & Canada · 187 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/b200afc2-5c63-4102-8079-8b631e3a5b1d">Cloud DevOps Engineer</a></td>
+<td>Los Angeles, CA<br/>Colorado Springs, CO</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4715587006?gh_jid=4715587006">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/26927344-4757-4ee5-820c-3428ff77bf3c">ServiceNow Developer</a></td>
 <td>Arlington, VA</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4715250006?gh_jid=4715250006">Apply</a></td>
@@ -645,6 +652,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Gallup</strong></td>
+<td><a href="https://trueinterview.io/jobs/06bf89e1-3836-4364-a311-9adce00a6934">Software Engineer — E-commerce</a></td>
+<td>Omaha Riverfront</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gallup/jobs/4415441009">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Pavago</strong></td>
 <td><a href="https://trueinterview.io/jobs/e1d00b81-0dad-4729-b752-b100316be581">Full-Stack AI Engineer</a></td>

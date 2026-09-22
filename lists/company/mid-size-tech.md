@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**193 open roles.** 106 in the United States & Canada · 87 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**192 open roles.** 105 in the United States & Canada · 87 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -324,13 +324,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mirantis/jobs/software-engineer-infrastructure-go_us_uh52h37w">Apply</a></td>
 <td align="center">5 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Writer</strong></td>
-<td><a href="https://trueinterview.io/jobs/9fbacf69-0c73-49be-a731-177f6b694cd5">Security engineer, detection and response</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>London, UK<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/writer/52b3bf22-7f09-4b9d-9d62-ab9f218a4c66/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>7shifts</strong></td>

@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**32 open roles.** 17 in the United States & Canada · 15 elsewhere in the world.
+**34 open roles.** 19 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Pelmorex</strong></td>
+<td><a href="https://trueinterview.io/jobs/e87d6276-09da-4c6a-8713-10cd4e062b98">Front End Developer - React (12 month Contract)</a></td>
+<td>Oakville, Canada</td>
+<td align="center"><a href="https://jobs.lever.co/pelmorex/763320e7-b8bb-48ab-8132-b6bedfc7614b/apply">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cc144db-afc0-4346-b118-781ce1ba407b">Frontend Engineer, Data Product Experiences</a></td>
+<td>N/A<br/>Canada Locations</td>
+<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8194606">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Relay</strong></td>
 <td><a href="https://trueinterview.io/jobs/ccb054e4-3bbb-4028-a2e3-a1f45003e08f">Frontend Developer (React, TypeScript)</a></td>

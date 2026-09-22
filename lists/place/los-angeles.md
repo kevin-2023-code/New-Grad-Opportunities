@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**178 open roles.**
+**184 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Neros Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f88f111-681a-40b2-b1d9-d91a5cad8cd4">Web &amp; Digital Experience Designer</a></td>
+<td>Torrance, California, United States<br/>HQ</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/nerostechnologies/jobs/5246222007">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Vast</strong></td>
+<td><a href="https://trueinterview.io/jobs/71551645-dc73-4485-b0c4-541b8ba94354">System Safety Engineer</a></td>
+<td>Long Beach, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/vast/jobs/4715639006?gh_jid=4715639006">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Divergent</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ba17ad4-77dd-470d-b1f8-d7d9778b7375">Quality Systems Engineer</a></td>
+<td>Torrance, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/divergent/jobs/5430801008">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d7b32c7-3100-4e2f-94e4-c6e027bdbd71">2027 Early Career Flight Test Engineer</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bd6c8e40-fa35-4c0b-a58f-3e6d4ed53aa6">2027 Early Career Firmware Engineer</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/b200afc2-5c63-4102-8079-8b631e3a5b1d">Cloud DevOps Engineer</a></td>
+<td>Los Angeles, CA<br/>Colorado Springs, CO</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4715587006?gh_jid=4715587006">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ca96588-9587-4a66-8c6d-b5b508558532">Software Engineer, Space Systems Test</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5244590007?gh_jid=5244590007">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/2ccfb21f-d0e7-4a99-b9c7-a6b2466e27bd">Full Stack Engineer, Launch Software</a></td>
@@ -1255,13 +1304,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8652841002?gh_jid=8652841002">Apply</a></td>
 <td align="center">28 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d5cf9bb0-8661-4afc-9d8d-2b47275ae878">Production Engineer, Site Reliability (Application Software)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8649729002?gh_jid=8649729002">Apply</a></td>
-<td align="center">24 Jul 2026</td>
 </tr>
 </tbody>
 </table>

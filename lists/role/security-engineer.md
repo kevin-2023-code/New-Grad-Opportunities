@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**97 open roles.** 64 in the United States & Canada · 33 elsewhere in the world.
+**98 open roles.** 64 in the United States & Canada · 34 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cursor</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e31876e-580a-4a73-97b2-219f143e105c">Security GRC Engineer</a></td>
+<td>San Francisco, CA<br/>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cursor/1703501f-53a1-4307-93ec-84b723be92ef/application">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Smile Digital Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/cd9ef017-eae8-4c94-ac15-fa7be3df7030">Cloud Security Engineer</a> 🌐</td>
@@ -156,13 +163,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/yipitdata/jobs/product-security-engineer_us_ooiim3hc">Apply</a></td>
 <td align="center">5 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Writer</strong></td>
-<td><a href="https://trueinterview.io/jobs/9fbacf69-0c73-49be-a731-177f6b694cd5">Security engineer, detection and response</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>London, UK<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/writer/52b3bf22-7f09-4b9d-9d62-ab9f218a4c66/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>AMD</strong></td>
@@ -477,6 +477,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Censys</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f8be4fe-8cdd-4215-b383-9c1f3f83aacf">Security Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/censys/jobs/8541287002">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Micro1</strong></td>
 <td><a href="https://trueinterview.io/jobs/115351b1-4b16-46c1-bc44-89fd5d2449c0">Backend Security Engineer</a></td>

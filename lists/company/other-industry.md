@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**102 open roles.** 59 in the United States & Canada · 43 elsewhere in the world. A real classification that none of the other sectors covers.
+**104 open roles.** 61 in the United States & Canada · 43 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Accorhotel</strong></td>
+<td><a href="https://trueinterview.io/jobs/06c7daf7-e524-41a3-bbf1-8195b147e95b">Engineer Apprentice</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AccorHotel/744000151127027-engineer-apprentice?oga=true">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lessen</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6909efb-5ba8-4121-8678-e223f2aec73a">Video &amp; Motion Designer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://jobs.lever.co/lessen/f5d2590e-4e69-4d82-b4d1-ea57bac228c9/apply">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Viz Media</strong></td>
 <td><a href="https://trueinterview.io/jobs/5439edcb-4320-4ffc-8ff3-9c045180e48d">Print Designer (Temporary, 3-month term)</a></td>

@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**94 open roles.** 43 in the United States & Canada · 51 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**95 open roles.** 43 in the United States & Canada · 52 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -330,6 +330,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Manulife</strong></td>
+<td><a href="https://trueinterview.io/jobs/98677f3b-8f1a-4b86-8733-9fd189c97f0c">Cloud Engineer, Canadian Segment Technology</a></td>
+<td>2 Locations</td>
+<td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Senior-Cloud-Engineer_JR26021743-1">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Btg Pactual</strong></td>
 <td><a href="https://trueinterview.io/jobs/b5f69370-55f9-4c2f-8785-e56dfc02566e">Software Engineer - CROSS ASSET SERVICES</a></td>

@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**48 open roles.**
+**49 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/b200afc2-5c63-4102-8079-8b631e3a5b1d">Cloud DevOps Engineer</a></td>
+<td>Colorado Springs, CO<br/>Los Angeles, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4715587006?gh_jid=4715587006">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Checkr</strong></td>
 <td><a href="https://trueinterview.io/jobs/49aca2d1-1dda-43a1-ae75-53de6886a4b8">Business Systems Analyst, Sales AI &amp; Automation</a></td>

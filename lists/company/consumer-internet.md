@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**78 open roles.** 68 in the United States & Canada · 10 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**79 open roles.** 69 in the United States & Canada · 10 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Pelmorex</strong></td>
+<td><a href="https://trueinterview.io/jobs/e87d6276-09da-4c6a-8713-10cd4e062b98">Front End Developer - React (12 month Contract)</a></td>
+<td>Oakville, Canada</td>
+<td align="center"><a href="https://jobs.lever.co/pelmorex/763320e7-b8bb-48ab-8132-b6bedfc7614b/apply">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/279167b0-6cbe-46bb-b804-8f489c596119">AI Research Scientist, FAIR Security, Privacy, and Reliability</a></td>

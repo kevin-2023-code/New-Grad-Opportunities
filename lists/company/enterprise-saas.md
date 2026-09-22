@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**212 open roles.** 132 in the United States & Canada · 80 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**214 open roles.** 134 in the United States & Canada · 80 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Oracle</strong></td>
+<td><a href="https://trueinterview.io/jobs/03253280-b32d-4d85-8c4e-d48e4c1a9abc">AI Ops Engineer</a></td>
+<td>Nashville, TN, United States</td>
+<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/342202">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Adobe</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a2cf7dc-76ee-4d45-a583-8587948ca218">2027 University Graduate - AI Forward Deployed Engineer</a></td>
+<td>San Francisco, California, United States of America<br/>San Jose, California, United States of America</td>
+<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>ZoomInfo</strong></td>
 <td><a href="https://trueinterview.io/jobs/a8218c78-a554-481d-a18c-08e2df9f9ed7">Machine Learning Engineer</a> 🌐</td>

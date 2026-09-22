@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,139 open roles.** 1,503 in the United States & Canada · 636 elsewhere in the world.
+**2,162 open roles.** 1,515 in the United States & Canada · 647 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,104 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1826cd8-79a0-43fe-8fa8-857cba390396">2027 Early Career Flight Software Engineer</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/7cfae075-c903-431d-a3b1-0567dc0155e4">Design &amp; Release Engineer - Body Interior</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69328">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Goldman Sachs</strong></td>
+<td><a href="https://trueinterview.io/jobs/210e985e-9d74-4f0b-bb75-ecdf3c28f196">The Core Engineering-L2-New York-Associate-Project Management</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3002/job/179775">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Applied intuition</strong></td>
+<td><a href="https://trueinterview.io/jobs/c07a8afc-d024-409f-a110-6d519d5d137d">Cybersecurity Software Engineer - New Grad (December 2027)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>GitLab</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ff1e0b2-6420-4bdc-98b4-c767b7802808">Intermediate Backend Engineer, AMER</a> 🌐</td>
+<td>Remote — Canada, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8773006002">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Applied intuition</strong></td>
+<td><a href="https://trueinterview.io/jobs/84351134-2806-48fb-aede-9b6c7b765041">Forward Deployed Engineer - New Grad (December 2026)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Gonetspeed</strong></td>
+<td><a href="https://trueinterview.io/jobs/e96e3914-cbdf-4047-b565-316f79e929e3">OSP Engineer</a></td>
+<td>Haverhill, Massachusetts</td>
+<td align="center"><a href="https://jobs.lever.co/gonetspeed/24071d16-ed20-4d77-ae8d-aaa2262dce29/apply">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hadrian Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ee23d40-9c84-40a8-84af-b861d68c0cb6">Paint Engineer</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/115d8734-0f96-4375-b27d-6a4d62956b04/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/b0fa3fec-72c6-4265-b23f-ad97494c6398">Calibration Engineer</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69805">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7c3f488d-488b-423d-9a61-caf48428aac8">Manufacturing Process Development Operations Engineer - New Product Programs</a></td>
+<td>Redford, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68033">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sift Stack, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/caed328d-b509-4f8d-92cc-40062f2370ba">Software Engineer – New College Graduate</a></td>
+<td>Marina Del Rey, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cambio</strong></td>
+<td><a href="https://trueinterview.io/jobs/1fb7fd5c-da31-4968-bc0a-e352e4d5b9f6">Backend Engineer</a></td>
+<td>Waterloo, ON<br/>San Francisco, CA<br/>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cambio/34400221-9b07-4db9-929b-3441bdf00dd4/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/b69a626c-35a5-4540-82c3-ffe402b23a24">Diesel Emissions Systems Engineer</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67214">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8d535c0d-826d-45af-b2fc-fcc5924a7fe5">Design and Release Engineer-Cockpit and Trim</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69343">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Goldman Sachs</strong></td>
 <td><a href="https://trueinterview.io/jobs/461eab57-0173-40f0-8343-9c0cd472b605">Security Engineer - Tech Risk - Analyst - Dallas</a></td>
@@ -2716,104 +2814,6 @@
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8722945002?gh_jid=8722945002">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3119a632-20b7-485a-b2fa-26fb568ca458">Full Stack Software Engineer, Operations Software (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8722645002?gh_jid=8722645002">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Gyde</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a6bb52f-1f17-47ce-acda-4fc4a60dbfdd">Infrastructure Engineer</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States, New York City, New York, United States<br/>Austin - Hybrid<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gyde/jobs/4373668009">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Goldman Sachs</strong></td>
-<td><a href="https://trueinterview.io/jobs/b3841bcc-38e5-4159-9526-eb36743ba7b4">Engineering-L2-Dallas-Analyst-Software Engineering</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/181810">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/1930ed8f-4fb1-4022-903e-49aaaf7ade93">Software Engineer, Starlink Enterprise Products (Space Lasers)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8715839002?gh_jid=8715839002">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b7ecb38e-30ae-4dee-a8f9-6f5f74fdc9bd">Propulsion Build Engineer (Starship)</a></td>
-<td>Starbase, TX<br/>Brownsville, TX, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8721585002?gh_jid=8721585002">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3eb87865-9023-413d-897c-636d50e10ac3">Full Stack Software Engineer, Employee Experience</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8726225002?gh_jid=8726225002">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ac0d92d7-99c8-4ae6-bbd1-0d8682c34837">Propulsion Engineer, Propulsion Simulation &amp; Data Analysis</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696839002?gh_jid=8696839002">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a74710b2-18b0-4c8a-ae26-22c666f9c97a">Launch Engineer, Dragon</a></td>
-<td>Cape Canaveral, FL</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8723922002?gh_jid=8723922002">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Woven By Toyota</strong></td>
-<td><a href="https://trueinterview.io/jobs/8be5adf4-1ace-4d01-ad6a-b406998f90bc">Network Operations Engineer</a></td>
-<td>Ann Arbor, MI</td>
-<td align="center"><a href="https://jobs.lever.co/woven-by-toyota/efde9bf2-7a0b-4818-967d-361a6a4fdd2d/apply">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/cf7efc3b-5079-4226-b8b1-24506ea5ef78">Packaging Substrate Development Engineer</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90725?lang=en-us">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1f2ac8b-a1f1-48e2-b26e-540d3cecd5c9">HPC Dev Ops Engineer</a></td>
-<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Santa Clara<br/>US, Arizona, Phoenix</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/HPC-Dev-Ops-Engineer_JR0286201">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Netflix</strong></td>
-<td><a href="https://trueinterview.io/jobs/75b12db2-11b0-4c06-8405-37d515d2d528">Software Engineer - Customer Service Platform</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317897268">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Palo Alto Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a7061b3-1990-4a93-86d7-4b4a9b3234e4">Solutions Engineer, DevOps - Central</a></td>
-<td>Austin, TX<br/>Chicago, IL<br/>Austin, United States of America<br/>+3 more</td>
-<td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Austin-United-States-of-America/Solutions-Engineer--DevOps---Central_JR-020639">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Trellisware Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/976404ba-61ab-445e-9802-72e7e21279df">Software Engineer, Embedded Linux</a></td>
-<td>San Diego, California</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/trelliswaretechnologies/jobs/4313803009">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 </tbody>
 </table>

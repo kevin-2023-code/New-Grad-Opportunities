@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**86 open roles.**
+**87 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Gdh</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0abefce-2b29-400c-9f33-de7117c944a9">Environmental Engineering or Science Graduate</a></td>
+<td>Toronto, ON, Canada<br/>St Catharines, ON, Canada</td>
+<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28709">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Astra North Infoteck Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/90e06dbe-93d0-4e7e-991d-d06469d140f0">cloud engineer</a></td>

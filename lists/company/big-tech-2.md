@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**657 open roles.** 599 in the United States & Canada · 58 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**660 open roles.** 601 in the United States & Canada · 59 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/a69b716d-c261-4588-a4de-af4a4ba7f8b6">Electrical Design Engineer Graduate</a></td>
+<td>Spring, Texas, United States of America<br/>Chippewa Falls, Wisconsin, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Design-Engineer-Graduate_1213429-1">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/524491fd-717c-4624-9911-5195b5745864">Technology Development Quality and Reliability Engineer</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Technology-Development-Quality-and-Reliability-Engineer_JR0286749">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Keysight</strong></td>
 <td><a href="https://trueinterview.io/jobs/241ac20a-a5de-434b-9a8c-a9983eb0b2b6">Software Engineer, Measurement Applications</a></td>
@@ -1420,6 +1434,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/1dbc0c5d-b8a2-4552-b653-55a60fd86415">QA Automation Engineer, Cloud Orchestrations</a></td>
+<td>Israel, Tel Aviv</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/QA-Automation-Engineer--Cloud-Orchestrations_JR2025739">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/76143882-cadf-4fa3-bfc4-bab1a06c0052">Business Intelligence Engineer, Amazon Leo Europe Consumer</a></td>

@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**623 open roles.** 622 in the United States & Canada · 1 elsewhere in the world.
+**621 open roles.** 620 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cursor</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e31876e-580a-4a73-97b2-219f143e105c">Security GRC Engineer</a></td>
+<td>San Francisco, CA<br/>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cursor/1703501f-53a1-4307-93ec-84b723be92ef/application">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Reevo</strong></td>
+<td><a href="https://trueinterview.io/jobs/64ae1b4b-73b5-47d6-a7c4-c50fa26eaaa0">Builder - Product Designer</a></td>
+<td>San Francisco, CA<br/>Santa Clara</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/reevo/787cf246-d288-4d4d-b99e-c53185afb3f2/application">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Applied intuition</strong></td>
+<td><a href="https://trueinterview.io/jobs/826289d8-1b82-4db5-8e55-837044761c9f">Technical Sourcer, Gen SWE</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/applied/e10dc74a-12f8-42a3-94db-cf7e7ace9f61/application">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Adobe</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a2cf7dc-76ee-4d45-a583-8587948ca218">2027 University Graduate - AI Forward Deployed Engineer</a></td>
+<td>San Francisco, California, United States of America<br/>San Jose, California, United States of America</td>
+<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/29d92fce-d43b-46b1-8172-74029d803b57">NPU Compiler Engineer</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92556?lang=en-us">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/1af9b527-5911-4d28-bb19-fe2f0398a095">HPC Linux Systems Engineer</a></td>
@@ -125,13 +160,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/29d92fce-d43b-46b1-8172-74029d803b57">AIE Software Development Engineer</a></td>
-<td>San Jose, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92556?lang=en-us">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/cb8f9bf4-0732-4210-b2d0-309c0df2de76">New College Grad - Account Technologist - MS/Doctorate (Winter 2026 Start)</a></td>
 <td>Santa Clara, CA, US</td>
@@ -189,13 +217,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/29f6e55e-2c95-4373-9f9f-bec2efbd6085">Compiler Engineer, Agentic Compilation Systems - New College Grad 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397802636">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/10846fb5-4fae-4338-b685-53f7ffa4a66c">System Software Engineer - CUDA Chips</a></td>
 <td>US, CA, Santa Clara</td>
 <td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---CUDA-Chips_JR2026249-1">Apply</a></td>
@@ -356,13 +377,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Stripe</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e3b4740-0aab-4386-9526-434a8718ff5b">Software Engineer, Early Career — Immediate Start</a></td>
-<td>San Francisco, CA<br/>San Francisco, Seattle, New York<br/>Toronto<br/>+1 more</td>
-<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8212508">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Figure</strong></td>
 <td><a href="https://trueinterview.io/jobs/9a2ff1f3-67cd-493f-b18d-022c218f3202">Security Engineer, Enterprise Security</a></td>
 <td>San Jose, CA<br/>HQ</td>
@@ -472,13 +486,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1bbae287-1f4e-4c47-81d5-6a09bff522b5">Software Quality Engineer</a></td>
 <td>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Quality-Engineer_2638595">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/fe8c27ea-9320-4908-b1fd-64b2501cbb64">Software QA Engineer- New College Grad 2026</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397738668">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -875,13 +882,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3f963d0-fa11-47e1-b7a8-6b32ec346730">GPU Architecture Engineer - New College Grad 2026</a></td>
-<td>Santa Clara, CA, US<br/>Austin, TX<br/>Durham, NC, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893396498176">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e62295ad-03ad-44d0-a215-0daf4af9faa6">Software DevOps Engineer, Networking</a></td>
 <td>US, CA, Santa Clara</td>
 <td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-DevOps-Engineer--Networking_JR2025882">Apply</a></td>
@@ -1875,13 +1875,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Roadrunner</strong></td>
-<td><a href="https://trueinterview.io/jobs/7533b7a6-4859-482f-b72c-c34a1be9df53">Forward Deployed Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/roadrunner/1deab7ed-8a05-47d2-ba79-3dd3623cb951/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Metaview</strong></td>
 <td><a href="https://trueinterview.io/jobs/11a12af9-3a2a-4934-a449-2cf91839a7f6">Product Engineer</a></td>
 <td>San Francisco, CA</td>
@@ -1984,13 +1977,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/72a4a2c9-56d9-4d69-bf1e-8b7591291a6b">Cloud Platform Engineer (SF)</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/mercor/9617d47a-9e6f-404f-b1fe-2fa4b7ff8471/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Writer</strong></td>
-<td><a href="https://trueinterview.io/jobs/9fbacf69-0c73-49be-a731-177f6b694cd5">Security engineer, detection and response</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>London, UK<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/writer/52b3bf22-7f09-4b9d-9d62-ab9f218a4c66/application">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2803,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/092c7f37-bb01-42b5-ae7b-6aa0d4ece9c1">Wireless Firmware Validation Engineer</a></td>
 <td>Foster City, CA</td>
 <td align="center"><a href="https://jobs.lever.co/zoox/5b0c4c1d-9308-4809-995a-223161fb5068/apply">Apply</a></td>
+<td align="center">26 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Front</strong></td>
+<td><a href="https://trueinterview.io/jobs/55ba58af-e04f-4611-b987-95e6f5cf0b45">Software Engineer, Foundations</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/frontcareers/de03d387-82a5-4742-8e8c-aa809ce0b58a/application">Apply</a></td>
+<td align="center">26 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Anyscale</strong></td>
+<td><a href="https://trueinterview.io/jobs/8fcae117-f7b3-4934-8175-0f3f918a61a7">IT Specialist</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/anyscale/d92a68e9-c2cc-452f-afbc-ae1bde5080b7/application">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
 </tbody>

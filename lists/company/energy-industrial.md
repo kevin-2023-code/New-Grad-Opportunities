@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**52 open roles.** 42 in the United States & Canada · 10 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**53 open roles.** 43 in the United States & Canada · 10 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Oklo</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c2a0870-3628-4878-9626-05066cbff47a">Fuel Fabrication Project Engineer</a></td>
+<td>Idaho Falls, Idaho<br/>Any location</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/oklo/jobs/6201116004">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>T1 Energy</strong></td>
 <td><a href="https://trueinterview.io/jobs/0214cfc9-c6d6-455f-8953-cbf25fed17bf">IT Software Development Engineer</a></td>

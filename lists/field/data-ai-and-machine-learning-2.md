@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**688 open roles.** 340 in the United States & Canada · 348 elsewhere in the world.
+**693 open roles.** 344 in the United States & Canada · 349 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,7 +18,42 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>NEXTON</strong></td>
+<td><a href="https://trueinterview.io/jobs/66fedf65-c09e-42d1-b0ff-0d3eedfb59eb">Data Engineer AWS H/F</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/nexton-consulting/jobs/data-engineer-aws-h-f_paris_NEXTO_Nlw6Vr3">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Nmbrs</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b519a24-2d2a-45dd-93ed-d3af04730662">Machine Learning engineer</a></td>
+<td>Lisboa, Portugal</td>
+<td align="center"><a href="https://4dayweek.io/job/machine-learning-engineer-at-nmbrs-8b56d381">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Nomadia</strong></td>
+<td><a href="https://trueinterview.io/jobs/08e8b223-7df2-4458-a855-cf3aaa82b03c">Data Engineer (F/H)</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/nomadia/jobs/data-engineer-f-h_paris_NOMAD_7Rma3Rg">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sport Alliance GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a3ba75a-d6f2-408d-b644-f988984b69a1">AI-First Data Engineer (m/f/d)</a></td>
+<td>Poland</td>
+<td align="center"><a href="https://himalayas.app/companies/sport-alliance-gmbh/jobs/ai-first-data-engineer-m-f-d-3061064998">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Wavestone</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c7c7ce1-be25-41fa-a430-9a4180ae742c">Consultant·e Agentic &amp; GenAI Engineer – Jeune diplômé·e (H/F)</a></td>
+<td>Puteaux, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/consultant-e-agentic-genai-engineer-jeune-diplome-e-h-f_puteaux">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/03daa029-6c14-47a8-ad61-7e5a97b67bdb">Consultant·e Data et AI Engineer – Jeune diplômé·e (H/F)</a></td>
 <td>Puteaux, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/consultant-e-data-et-ai-engineer-jeune-diplome-e-h-f_puteaux">Apply</a></td>

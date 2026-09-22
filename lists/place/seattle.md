@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**140 open roles.**
+**139 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Nintendo</strong></td>
-<td><a href="https://trueinterview.io/jobs/76ca0fd6-eb88-4b2c-8bb7-43c59b69d3a1">CONTRACT - Assoc Engineer (NTD)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4413950009">Apply</a></td>
+<td><strong>Helion</strong></td>
+<td><a href="https://trueinterview.io/jobs/580f2d7d-4735-4db8-8d54-236347d0d714">Power Electronics Engineer</a></td>
+<td>Everett, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/helion/4f0b0e62-cdd6-4f66-803b-c2d8ee3703c0/application">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -36,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8d35360a-2ddc-48a9-bc2c-93cbf9b6dd2f">Software Engineer, Communities</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/tin-can/25cfbac2-6afd-4009-99d8-0a25227739b0/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Nintendo</strong></td>
+<td><a href="https://trueinterview.io/jobs/718142f3-2858-4446-ba7b-d58b14317030">CONTRACT - Web Development Engineer</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4382609009">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -86,13 +93,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Bellevue, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10553866/hardware-dev-engineer-i-electrical-one-materials-handling-system-omhs">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Stripe</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e3b4740-0aab-4386-9526-434a8718ff5b">Software Engineer, Early Career — Immediate Start</a></td>
-<td>San Francisco, Seattle, New York<br/>San Francisco, CA<br/>Toronto<br/>+1 more</td>
-<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8212508">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Hadrian Automation</strong></td>
@@ -296,13 +296,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/anthropic/jobs/ai-engineer-gtm-claudification_seattle_etl34ygn">Apply</a></td>
 <td align="center">5 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Writer</strong></td>
-<td><a href="https://trueinterview.io/jobs/9fbacf69-0c73-49be-a731-177f6b694cd5">Security engineer, detection and response</a></td>
-<td>Seattle, WA<br/>San Francisco, CA<br/>London, UK<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/writer/52b3bf22-7f09-4b9d-9d62-ab9f218a4c66/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>

@@ -47,6 +47,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f3557f7e-2e14-4b21-ab79-c0e2bcd43de5">Hardware Test Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92365?lang=en-us">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/718a10dc-e12e-46bb-a3a4-1ad41c16bf38">RTL Design Engineer – Power Design</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/92559?lang=en-us">Apply</a></td>
@@ -309,13 +316,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a1df5c67-9b00-4300-97df-c209b9897db9">Neuromorphic/AI Research Scientist</a></td>
 <td>US, Texas, Austin<br/>US, California, Santa Clara, United States of America<br/>US, Oregon, Hillsboro<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Neuromorphic-AI-Research-Scientist_JR0284193">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3f963d0-fa11-47e1-b7a8-6b32ec346730">GPU Architecture Engineer - New College Grad 2026</a></td>
-<td>Austin, TX<br/>Santa Clara, CA, US<br/>Durham, NC, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893396498176">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

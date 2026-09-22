@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**51 open roles.** 18 in the United States & Canada · 33 elsewhere in the world.
+**53 open roles.** 19 in the United States & Canada · 34 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/b200afc2-5c63-4102-8079-8b631e3a5b1d">Cloud DevOps Engineer</a></td>
+<td>Los Angeles, CA<br/>Colorado Springs, CO</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4715587006?gh_jid=4715587006">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Beyond Finance</strong></td>
 <td><a href="https://trueinterview.io/jobs/c3ec7966-e5a2-47bd-b0e8-5763269fe081">DevOps Engineer</a></td>
@@ -155,6 +162,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Levven Electronics Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/4838d095-650e-4a0f-8ce4-a87dc930674c">devops engineer</a></td>
+<td>Edmonton (AB)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50343852">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Deepomatic</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3caeb45-0bb4-4a05-836c-f0315734c423">DevOps Engineer</a></td>

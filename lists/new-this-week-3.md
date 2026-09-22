@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**878 open roles.** 587 in the United States & Canada · 291 elsewhere in the world. Everything the employers put up this week.
+**894 open roles.** 596 in the United States & Canada · 298 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -18,7 +18,154 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/118a53cd-d7a6-46e5-b0c4-cb84ac83fba6">Data Engineer</a></td>
+<td>2 Locations</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Data-Engineer_2025792">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Driftrock</strong></td>
+<td><a href="https://trueinterview.io/jobs/7db30928-2abb-44d9-87d7-83bd5be9f6e9">Elixir Software Engineer</a> 🌐</td>
+<td>Remote — United Kingdom</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/driftrock/jobs/elixir-software-engineer_london_opuo5gvp">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>eXalt</strong></td>
+<td><a href="https://trueinterview.io/jobs/23125e61-f41f-413c-8328-fe22fd36362b">AI engineer</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/exalt/jobs/ai-engineer_paris">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Francis Crick</strong></td>
+<td><a href="https://trueinterview.io/jobs/4800a4f6-7066-4301-910b-3e6683d4074d">Software Engineer (Machine Learning)</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/francis-crick/jobs/software-engineer-machine-learning_london_b2vjnynh">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hiflylabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/97dfe227-6821-4971-9050-cba3857b6d59">Expression of Interest - iOS Developer</a></td>
+<td>Hungary</td>
+<td align="center"><a href="https://himalayas.app/companies/hiflylabs/jobs/expression-of-interest-ios-developer-1987259264">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intact Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/f26be470-3934-4b80-83be-61003837f46a">AI Developer</a></td>
+<td>Hong Kong Science Park, HK</td>
+<td align="center"><a href="https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Hong-Kong-Science-Park-HK/AI-Developer_R155263">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lemlist</strong></td>
+<td><a href="https://trueinterview.io/jobs/64b0fe18-0544-4c73-949b-5f2e90751d1c">Data Engineer</a> 🌐</td>
+<td>Remote — France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/lemlist/jobs/data-engineer_paris_LEMLI_X3pdlXe">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Magna International</strong></td>
+<td><a href="https://trueinterview.io/jobs/e45346ee-c009-449a-8e2d-e2af4578e456">Full Stack Developer C#/.NET und PHP (m/w/x)</a></td>
+<td>Graz, AT</td>
+<td align="center"><a href="https://magna.wd3.myworkdayjobs.com/Magna/job/Graz-AT/Full-Stack-Developer-C--NET-und-PHP--m-w-x-_R00261983-6">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2e98892f-7934-419d-8371-b8c85e1fb0e3">IT Systems Engineer, Platform Management (m/w/x)</a></td>
+<td>Graz, AT</td>
+<td align="center"><a href="https://magna.wd3.myworkdayjobs.com/Magna/job/Graz-AT/IT-Systems-Engineer--Platform-Management--m-w-x-_R00249327-6">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mastercard</strong></td>
+<td><a href="https://trueinterview.io/jobs/9008ab00-4fa6-403f-8c5b-bb0811909b24">Cloud Automation Engineer</a></td>
+<td>Copenhagen, Denmark (Arne Jacobsens)</td>
+<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Copenhagen-Denmark-Arne-Jacobsens/Cloud-Automation-Engineer_R-291016">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mealz</strong></td>
+<td><a href="https://trueinterview.io/jobs/12732d06-d853-4016-af87-31f7aee58a71">Software Engineer - Ruby / TypeScript (F/H)</a></td>
+<td>Lille, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mealz/jobs/software-engineer-ruby-typescript-f-h_lille">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/58cd77af-3591-46ff-b1f7-153d0163a80a">AI Engineer, Product</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/ai-engineer-product_paris_MA_WraML2z">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/311628fa-c2dc-420a-b3b4-3592a172b8cb">Applied AI Engineer, CyberSecurity</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-engineer-cybersecurity_paris_MA_dZk2ZZx">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a5ce6324-6a26-4ed3-91bd-53b8d416ac60">Applied AI Engineer, ML Infrastructure Engineer / Devops - EMEA</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-engineer-ml-infrastructure-engineer-devops-emea_paris">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/962fb1e0-9747-4f96-983d-e932e4f3d363">Applied AI, Forward Deployed Machine Learning Engineer - EMEA</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-forward-deployed-machine-learning-engineer-emea_paris">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b6ac6570-049a-4ffb-a19f-31ca829f36de">Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-forward-deployed-machine-learning-engineer-critical-and-sovereign-institutions-emea_paris_MA_wjz4xro">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e85e7db0-0924-4082-a52a-23c8805a310e">Applied AI, Fullstack Software Engineer, South Korea</a></td>
+<td>Seoul, South Korea</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-engineer-fullstack_seoul_MA_LxR9QLy">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/af7df6f3-3f25-4944-8671-11792c1dec06">Applied AI, Machine Learning Engineer, South Korea</a></td>
+<td>Seoul, South Korea</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-engineer_seoul">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8e5f5ef2-17be-4504-9a26-fa51c110f643">Research Software Engineer</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/research-software-engineer_paris">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/42268aac-26dd-4c44-ae79-7752d803f632">Site Reliability Engineer, Mistral Cloud</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/site-reliability-engineer-mistral-cloud_paris">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bf7136ce-3254-4c25-adf4-663e9c2563f3">Software Engineer (Golang), Mistral Cloud</a> 🌐</td>
+<td>Remote — France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/software-engineer-golang-mistral-cloud_paris">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ead6d16e-77f2-4bd5-9be1-a61d1fa7de8d">Software Engineer Network Automation, WAN &amp; Edge</a></td>
 <td>Paris, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/software-engineer-network-automation-data-center-fabrics_paris">Apply</a></td>
@@ -526,41 +673,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ef733a7d-b5b9-4da9-9569-c3cc2782a9fb">Localization Systems Engineer</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/glydways/jobs/5238232007">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Blueprint Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/c4860c7d-6d91-4ad9-8eba-e84cb62a7aa3">UX Researcher – Rapid Research</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/bpcs/jobs/8202770">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Canary Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4cbcb04-9368-4305-954f-5fa810309041">L1 Technical Support Agent (Spanish and English Speaking)</a></td>
-<td>LATAM</td>
-<td align="center"><a href="https://jobs.lever.co/canarytechnologies/6911aa00-dae1-458d-963d-779302f512ec/apply">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Gallup</strong></td>
-<td><a href="https://trueinterview.io/jobs/d82bfef0-1961-4e5c-9eab-e82417aa902a">Quality Engineer</a></td>
-<td>Omaha Riverfront</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gallup/jobs/4405655009">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Disher</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea70ca2e-5536-4b55-bd00-efe1e6616a45">Global Solution Design Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/disher/ceca1b7e-bec6-4374-9c0e-634fb5bd3b35/apply">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ashby</strong></td>
-<td><a href="https://trueinterview.io/jobs/95c07bf3-9ed7-4384-a288-e47ed8750789">Product Support Engineer - EMEA</a></td>
-<td>United Kingdom<br/>Belgium<br/>Italy<br/>+11 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ashby/2d03f0fe-2f3c-4c8e-9b89-7c6a35f9e7a4/application">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 </tbody>

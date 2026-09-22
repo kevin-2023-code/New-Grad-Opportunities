@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**75 open roles.**
+**77 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Lila Sciences</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d749eb0-486f-4099-8247-6ce946c445fa">Robotics Operations Engineer I, First Shift</a></td>
+<td>Alewife, Cambridge, MA<br/>Cambridge, MA USA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4410043009">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Simplisafe</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c890292-23fa-4ab5-9355-a39fbc1fe63e">Electrical Engineer I</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/simplisafe/jobs/8224006">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>ZoomInfo</strong></td>
 <td><a href="https://trueinterview.io/jobs/a8218c78-a554-481d-a18c-08e2df9f9ed7">Machine Learning Engineer</a> 🌐</td>

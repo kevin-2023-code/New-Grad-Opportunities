@@ -33,6 +33,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/72c1a16d-c104-4d8a-b47f-1a55b7539ce3">Platform System/Hardware Engineer - Customer Solutions Engineering</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Platform-System-Hardware-Engineer---Customer-Solutions-Engineering_1213922-2">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3957bb6f-eefa-44c4-93ec-b9ab69ffdebe">Systems/Software Testing Engineer II Cloud &amp; On-Premise</a></td>
 <td>San Juan, Puerto Rico, Puerto Rico</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Systems-Software-Testing-Engineer-II-Cloud---On-Premise_1210248-6">Apply</a></td>
@@ -512,13 +519,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/853749da-6457-479a-beca-9809ba79d079">Security Engineer I (Full Time) - United States</a></td>
 <td>RTP, North Carolina, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Engineer-I--Full-Time----United-States_2025883">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Dell</strong></td>
-<td><a href="https://trueinterview.io/jobs/052c555b-63f3-467e-a7d2-cc57bcf52a10">Quality Engineer 1</a></td>
-<td>Franklin, MA, United States</td>
-<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/296573">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

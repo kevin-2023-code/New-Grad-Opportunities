@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,139 open roles.** 1,503 in the United States & Canada · 636 elsewhere in the world.
+**2,162 open roles.** 1,515 in the United States & Canada · 647 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,167 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>PDQ</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2889fda-0d74-44ec-b46b-a17d49e0f0fd">Software Engineer (Backend)</a></td>
+<td>București, Romania</td>
+<td align="center"><a href="https://4dayweek.io/job/software-engineer-backend-at-pdq-aa2d679b">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Safran Aircraft Engines</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7f32d8d-f6ac-4175-8cf4-17629411213a">Responsable Service Data Engineering &amp; Services F/H</a></td>
+<td>Corbeil-Essonnes, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/safran-aircraft-engines/jobs/responsable-service-data-engineering-services-f-h_corbeil-essonnes">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Strobe Power</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e5634e6-ab21-48d0-9dc2-3088a7798955">Strobe Power / Site Reliability Engineer / ONSITE (SF) /</a></td>
+<td>ONSITE (SF)</td>
+<td align="center"><a href="https://strobepower.com/">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Theodo Cloud</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a3b6cc1-5271-4de1-9bb2-137fb76adeae">DevOps Engineer - CDI Paris - Theodo Cloud</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo-cloud/jobs/devops-engineer-cdi-paris-theodo-cloud_paris">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Theodo FinTech</strong></td>
+<td><a href="https://trueinterview.io/jobs/c69f1d39-b0cf-4582-89b6-ec3e165aa37b">Software Engineer Fullstack - CDI Paris - Theodo FinTech</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/sipios/jobs/dev-junior-sipios_paris">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Theodo France</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f9e06f2-3713-4f1e-a4a6-40c9baa62dfa">LeanTech Software Engineer - CDI Paris - Theodo</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/leantech-software-engineer-cdi-paris-theodo_paris">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/80f647d8-e0e3-4c1d-af2c-19472c06300d">Mobile Software Engineer - CDI Paris - Theodo Apps</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/mobile-software-engineer-cdi-paris-theodo-apps_paris">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c34025b0-ba0d-4dbd-929e-c03ded3df264">Software Engineer - Casablanca CDI - Theodo Maroc</a></td>
+<td>Casablanca, Morocco</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/software-engineer-casablanca-cdi-theodo-maroc_casablanca">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ad91d741-06ad-41ca-8b32-c5892dc9cc43">Software Engineer Fullstack - CDI Paris - E-commerce - Theodo</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/software-engineer-fullstack-cdi-paris-e-commerce-theodo_paris">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8c16d007-4c8f-4904-9fdc-fadae26afe48">Software Engineer Fullstack - CDI Paris - Retail - Theodo</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/software-engineer-fullstack-cdi-paris-theodo-retail_paris">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5b65871a-ce9d-4ec2-ad84-0cb52e382365">Software Engineer Fullstack - Secteur financier - CDI Paris - Theodo</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/software-engineer-fullstack-secteur-financier-cdi-paris-theodo_paris">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/31e60fe1-511e-4931-9f6e-e991d1482c55">Software Engineer Fullstack - Secteur Public - CDI Paris - Theodo</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/software-engineer-fullstack-secteur-public-cdi-paris-theodo-govtech_paris">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b2e2e7a9-e459-4d6b-a46b-14d164385145">Software Engineer Fullstack Expérimenté - CDI Paris - Theodo</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/software-engineer-fullstack-experimente-cdi-paris-theodo_paris">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a318af66-da42-4e3f-b982-8f7aca10e64e">Software Engineer Node/React - Theodo Extend - CDI - Paris</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/theodo/jobs/software-engineer-node-react-theodo-extend-cdi-paris_paris">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Theodo GovTech</strong></td>
+<td><a href="https://trueinterview.io/jobs/3604fa13-283a-4c10-b9ac-23055dcecd50">Software Engineer Fullstack Secteur Public - CDI Paris - Theodo GovTech</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/solona/jobs/software-engineer-fullstack-secteur-public-cdi-paris_paris">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Theodo HealthTech</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe294f7b-d2d4-4a57-913d-4e1e8111d038">Healthcare Software Engineer Fullstack - CDI Paris - Theodo HealthTech</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/hokla/jobs/healthcare-software-engineer-cdi-paris-theodo-healthtech_paris">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b853ce87-3c01-43e6-a199-dea0f075bdac">Software Engineer Fullstack - CDI Paris - Theodo HealthTech</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/hokla/jobs/software-engineer-fullstack-cdi-paris-theodo-healthtech_paris">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mako</strong></td>
+<td><a href="https://trueinterview.io/jobs/1de4b7f6-e184-43e3-a256-14812299d0f4">Graduate Software Engineer, Sydney</a></td>
+<td>Sydney<br/>Mako Sydney</td>
+<td align="center"><a href="https://www.mako.com/opportunities/job-listing/8654611002?gh_jid=8654611002">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Assist World</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1a9bd0f-bd5c-4737-9377-0384a109b876">Junior/Mid-Level SharePoint &amp; Power Platform Developer</a></td>
+<td>South Africa</td>
+<td align="center"><a href="https://jobs.lever.co/assist-world/f69ee6d3-1318-449f-830f-cd7f6b1280ea/apply">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Planetscale</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7c3e50b-73cc-4bc2-8a71-bf23ec6c2669">Customer Support Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/planetscale/jobs/4391516009">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Pingwind</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9cca52a-2e82-46bb-a0a1-f3205986cd2c">Intermediate Appian Developer</a></td>
+<td>Quantico VA</td>
+<td align="center"><a href="https://jobs.lever.co/pingwind/34dd101b-867b-4c59-8323-194c62c2dbd2/apply">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Platform Science</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3e855ad-432a-404e-9e92-d7d0bb34f29e">Cloud Infrastructure Engineer</a> 🌐</td>
+<td>Remote — Brazil</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/platformscience/jobs/7983817003">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Silver.dev</strong></td>
+<td><a href="https://trueinterview.io/jobs/3cd4708a-fcc8-4a09-9bdc-546cf44fd300">Pasito (YC S22) - Fullstack engineer UI</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/silver/7b64258d-c57e-4c35-8f42-aaac598271f7/application">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Skydance</strong></td>
 <td><a href="https://trueinterview.io/jobs/0bfb454a-7e61-4909-8b1a-47b45c1bbe66">Pipeline Engineer Trainee</a></td>

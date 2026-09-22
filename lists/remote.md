@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**353 open roles.** 229 in the United States & Canada · 124 elsewhere in the world. Postings the pipeline classified as remote.
+**355 open roles.** 229 in the United States & Canada · 126 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1632,6 +1632,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Censys</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f8be4fe-8cdd-4215-b383-9c1f3f83aacf">Security Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/censys/jobs/8541287002">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Eqvilent</strong></td>
+<td><a href="https://trueinterview.io/jobs/b026d423-44f5-40ab-bd2b-7e0011fb1e47">Linux Infrastructure Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/eqvilentjobs/jobs/4982925101">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/064cd2c3-8693-46ff-8fcc-d2f3e48f1591">Solutions Engineer (Central &amp; Eastern Europe, Hebrew Speaking)</a> 🌐</td>

@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**375 open roles.** 367 in the United States & Canada · 8 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**375 open roles.** 366 in the United States & Canada · 9 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7cfd2833-9cc4-460c-9af1-bbac4ffe5b2b">Advanced Packaging Technologist (Mechanical Modeling)</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/92459?lang=en-us">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f3557f7e-2e14-4b21-ab79-c0e2bcd43de5">Hardware Test Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92365?lang=en-us">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/29d92fce-d43b-46b1-8172-74029d803b57">NPU Compiler Engineer</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92556?lang=en-us">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -74,14 +88,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/29d92fce-d43b-46b1-8172-74029d803b57">AIE Software Development Engineer</a></td>
-<td>San Jose, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92556?lang=en-us">Apply</a></td>
-<td align="center">21 Sep 2026</td>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/af6f1ab6-ef18-4486-b401-a4fe4d9eb7b0">Nvlink QA Engineer</a></td>
+<td>Yokne'am Illit, North District, IL<br/>Tel Aviv-Yafo, Tel Aviv District, IL</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397813956">Apply</a></td>
+<td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/48c318de-a24e-484e-bf30-6b699cc160c3">Semiconductor Maintenance Technician – Diffusion Quartz &amp; PM Machinist</a></td>
+<td>Chandler (Manufacturing), United States of America</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Diffusion-Quartz---PM-Machinist_R-10067005-1">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/e306be7b-3119-41b0-b40b-265540c4979f">Server Platform Design Engineer</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/92701?lang=en-us">Apply</a></td>
@@ -173,13 +194,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/29f6e55e-2c95-4373-9f9f-bec2efbd6085">Compiler Engineer, Agentic Compilation Systems - New College Grad 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397802636">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/10846fb5-4fae-4338-b685-53f7ffa4a66c">System Software Engineer - CUDA Chips</a></td>
 <td>US, CA, Santa Clara</td>
 <td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---CUDA-Chips_JR2026249-1">Apply</a></td>
@@ -365,13 +379,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/45c1ec53-3140-4970-9167-c535df06cf3c">New College Grad - Engineer, ASIC Digital Design</a></td>
 <td>Minneapolis, MN, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44540988">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/fe8c27ea-9320-4908-b1fd-64b2501cbb64">Software QA Engineer- New College Grad 2026</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397738668">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -684,13 +691,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a9cd98c2-2ef3-4089-a0d9-507ed9500fef">Quality Reliability Engineer</a></td>
-<td>US, Arizona, Phoenix, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Quality-Reliability-Engineer_JR0286138-1">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/616db2fb-d426-4efd-96f6-ff5e0e1965cc">Quantum Computing Measurement Engineer</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Quantum-Computing-Measurement-Engineer_JR0284192">Apply</a></td>
@@ -873,13 +873,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3f963d0-fa11-47e1-b7a8-6b32ec346730">GPU Architecture Engineer - New College Grad 2026</a></td>
-<td>Austin, TX<br/>Santa Clara, CA, US<br/>Durham, NC, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893396498176">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e62295ad-03ad-44d0-a215-0daf4af9faa6">Software DevOps Engineer, Networking</a></td>
 <td>US, CA, Santa Clara</td>
 <td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-DevOps-Engineer--Networking_JR2025882">Apply</a></td>
@@ -2598,6 +2591,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/1dbc0c5d-b8a2-4552-b653-55a60fd86415">QA Automation Engineer, Cloud Orchestrations</a></td>
+<td>Israel, Tel Aviv</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/QA-Automation-Engineer--Cloud-Orchestrations_JR2025739">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Graphcore</strong></td>
 <td><a href="https://trueinterview.io/jobs/1a8fb0a2-4ac0-4c62-864c-374f000f3504">Data Engineer</a></td>

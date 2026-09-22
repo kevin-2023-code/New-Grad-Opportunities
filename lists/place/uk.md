@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**106 open roles.** 10 in the United States & Canada · 96 elsewhere in the world.
+**105 open roles.** 9 in the United States & Canada · 96 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,13 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>London, United Kingdom<br/>Austin, TX<br/>Hybrid<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8187404?gh_jid=8187404">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Writer</strong></td>
-<td><a href="https://trueinterview.io/jobs/9fbacf69-0c73-49be-a731-177f6b694cd5">Security engineer, detection and response</a></td>
-<td>London, UK<br/>San Francisco, CA<br/>Seattle, WA<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/writer/52b3bf22-7f09-4b9d-9d62-ab9f218a4c66/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>OpenAI</strong></td>

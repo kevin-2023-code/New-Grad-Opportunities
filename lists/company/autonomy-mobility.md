@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**110 open roles.** 90 in the United States & Canada · 20 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**113 open roles.** 93 in the United States & Canada · 20 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,7 +18,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe080f68-e666-415a-9811-7a0f24471554">Battery Management Systems Hardware Engineer</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71450">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c805f844-1cda-41ba-9685-faf13ce6a74a">ADAS Engineer</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71413">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Applied intuition</strong></td>
+<td><a href="https://trueinterview.io/jobs/826289d8-1b82-4db5-8e55-837044761c9f">Technical Sourcer, Gen SWE</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/applied/e10dc74a-12f8-42a3-94db-cf7e7ace9f61/application">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8deb5d02-a413-4392-9561-22e5f5f9fd2a">Full-Stack Software Engineer -  Command &amp; Control</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/applied/f4c0ee25-b4d4-4f3d-b054-e9c1aeb56104/application">Apply</a></td>
