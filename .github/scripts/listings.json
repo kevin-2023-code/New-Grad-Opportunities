@@ -6,9 +6,84 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-22T14:38:58.940Z",
-  "count": 3467,
+  "listingsChangedAt": "2026-09-22T18:44:02.879Z",
+  "count": 3475,
   "listings": [
+    {
+      "id": "76ca0fd6-eb88-4b2c-8bb7-43c59b69d3a1",
+      "company": "Nintendo",
+      "title": "CONTRACT - Assoc Engineer (NTD)",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.nintendo.com/?gh_jid=4413950009",
+      "url": "https://trueinterview.io/jobs/76ca0fd6-eb88-4b2c-8bb7-43c59b69d3a1",
+      "postedAt": "2026-09-22T17:52:44.000Z",
+      "updatedAt": "2026-09-22T17:52:44.000Z"
+    },
+    {
+      "id": "1b7f906c-de2d-4f8f-bed5-ad871eab6c05",
+      "company": "Wing Assistant",
+      "title": "Multimedia Designer Full-time | 20865",
+      "locations": [
+        "Philippines"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/getwingapp/e8321473-0e82-420e-905a-3a048614ade0/apply",
+      "url": "https://trueinterview.io/jobs/1b7f906c-de2d-4f8f-bed5-ad871eab6c05",
+      "postedAt": "2026-09-22T16:22:13.000Z",
+      "updatedAt": "2026-09-22T16:22:13.000Z"
+    },
+    {
+      "id": "58aeeb7a-69d1-4568-9a30-0901fbec055c",
+      "company": "SpaceX",
+      "title": "Development Test Engineer (Starlink)",
+      "locations": [
+        "Bastrop, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8831170002?gh_jid=8831170002",
+      "url": "https://trueinterview.io/jobs/58aeeb7a-69d1-4568-9a30-0901fbec055c",
+      "postedAt": "2026-09-22T14:14:46.000Z",
+      "updatedAt": "2026-09-22T14:14:46.000Z"
+    },
     {
       "id": "a4dc31e8-fb5c-41d9-b8f9-8cf1f93d1a67",
       "company": "SpaceX",
@@ -110,6 +185,87 @@
       "updatedAt": "2026-09-22T00:01:04.000Z"
     },
     {
+      "id": "4fa1c108-a93d-48e3-99d1-810a1af7e745",
+      "company": "AMD",
+      "title": "Advanced Package Thermal Technologist",
+      "locations": [
+        "Austin, Texas, United States"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/92460?lang=en-us",
+      "url": "https://trueinterview.io/jobs/4fa1c108-a93d-48e3-99d1-810a1af7e745",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "7cfd2833-9cc4-460c-9af1-bbac4ffe5b2b",
+      "company": "AMD",
+      "title": "Advanced Packaging Technologist (Mechanical Modeling)",
+      "locations": [
+        "Austin, Texas, United States"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/92459?lang=en-us",
+      "url": "https://trueinterview.io/jobs/7cfd2833-9cc4-460c-9af1-bbac4ffe5b2b",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "718a10dc-e12e-46bb-a3a4-1ad41c16bf38",
+      "company": "AMD",
+      "title": "RTL Design Engineer – Power Design",
+      "locations": [
+        "Austin, Texas, United States"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/92559?lang=en-us",
+      "url": "https://trueinterview.io/jobs/718a10dc-e12e-46bb-a3a4-1ad41c16bf38",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
       "id": "d585993e-443b-49ac-921d-ef09aaed96e6",
       "company": "Anthropic",
       "title": "Software Engineer (Beneficial Deployments)",
@@ -164,6 +320,56 @@
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
     {
+      "id": "fcf33833-35f6-4c1d-b69e-9dfe88420c1e",
+      "company": "Boeing",
+      "title": "Systems Engineer",
+      "locations": [
+        "Seal Beach, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://4dayweek.io/job/systems-engineer-at-boeing-34254ae5",
+      "url": "https://trueinterview.io/jobs/fcf33833-35f6-4c1d-b69e-9dfe88420c1e",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "66a87b37-0b5a-427f-a18c-2825e87dbf25",
+      "company": "CAE",
+      "title": "Weapons Aero Software Engineer",
+      "locations": [
+        "Arlington, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Aero-Software-Engineer_123874-1",
+      "url": "https://trueinterview.io/jobs/66a87b37-0b5a-427f-a18c-2825e87dbf25",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
       "id": "f4c55548-08a0-4d0d-879f-f28679d2c0b4",
       "company": "Careerswift",
       "title": "Frontend Developer",
@@ -181,6 +387,58 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/careerswift/jobs/frontend-developer-3013027651",
       "url": "https://trueinterview.io/jobs/f4c55548-08a0-4d0d-879f-f28679d2c0b4",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "38948fa8-1c5e-4924-8303-c184352b9125",
+      "company": "Cisco",
+      "title": "Software Engineer Complier I (Full Time) – United States",
+      "locations": [
+        "Austin, Texas, US, United States of America"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Austin-Texas-US/Software-Engineer-Complier-I--Full-Time----United-States_2025313",
+      "url": "https://trueinterview.io/jobs/38948fa8-1c5e-4924-8303-c184352b9125",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "4ad1ff36-b243-4afc-b224-0cc2f991e7e9",
+      "company": "Cisco",
+      "title": "Software Quality Assurance Engineer I (Full-Time) - United States",
+      "locations": [
+        "RTP, North Carolina, US, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Quality-Assurance-Engineer-I--Full-Time----United-States_2026301",
+      "url": "https://trueinterview.io/jobs/4ad1ff36-b243-4afc-b224-0cc2f991e7e9",
       "postedAt": "2026-09-22T00:00:00.000Z",
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
@@ -337,6 +595,27 @@
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
     {
+      "id": "e269e3b9-c629-41fa-99e7-5ff7c6a50ec4",
+      "company": "GitLab",
+      "title": "AI Engineer",
+      "locations": [],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://nodesk.co/remote-jobs/gitlab-ai-engineer/",
+      "url": "https://trueinterview.io/jobs/e269e3b9-c629-41fa-99e7-5ff7c6a50ec4",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
       "id": "d21d4494-cc7d-417c-88b2-a6df439f5564",
       "company": "Groupe Octime",
       "title": "Machine Learning Engineer (H/F)",
@@ -437,6 +716,56 @@
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
     {
+      "id": "eaaaebee-68bf-4a5f-a33d-523b8c8ae2a8",
+      "company": "Intel",
+      "title": "NMSI F11x Planar Module Engineer",
+      "locations": [
+        "US, New Mexico, Albuquerque, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/NMSI-F11x-Planar-Module-Engineer_JR0287320",
+      "url": "https://trueinterview.io/jobs/eaaaebee-68bf-4a5f-a33d-523b8c8ae2a8",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "098dd4b7-72e3-4cbb-bdfc-ea78111e93d2",
+      "company": "Intel",
+      "title": "Strategic Layout Industrial Engineer",
+      "locations": [
+        "US, Oregon, Hillsboro, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Strategic-Layout-Industrial-Engineer_JR0287339",
+      "url": "https://trueinterview.io/jobs/098dd4b7-72e3-4cbb-bdfc-ea78111e93d2",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
       "id": "1af9b527-5911-4d28-bb19-fe2f0398a095",
       "company": "KLA",
       "title": "HPC Linux Systems Engineer",
@@ -508,6 +837,31 @@
       "source": "trueinterview",
       "applyUrl": "https://himalayas.app/companies/kpmg-australia/jobs/aws-cloud-engineer-consultant",
       "url": "https://trueinterview.io/jobs/3c65ffd8-47ff-4f00-8d23-4cdf51e0bf2a",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "862fdcdd-2e2c-41e2-937a-51bebe3e43f0",
+      "company": "Micron Technology",
+      "title": "CAD Engineer",
+      "locations": [
+        "Richardson, TX, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/42328538",
+      "url": "https://trueinterview.io/jobs/862fdcdd-2e2c-41e2-937a-51bebe3e43f0",
       "postedAt": "2026-09-22T00:00:00.000Z",
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
@@ -631,6 +985,58 @@
       "source": "trueinterview",
       "applyUrl": "https://www.welcometothejungle.com/en/companies/the-adecco-group/jobs/cdi-data-engineer-f-h_toulon",
       "url": "https://trueinterview.io/jobs/af907e08-37cb-40be-b893-656fabebfdc2",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "77ada88d-9309-4794-9257-0c72d37f5262",
+      "company": "VMware",
+      "title": "Emulation Engineer",
+      "locations": [
+        "USA-CA San Jose Innovation Drive, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Emulation-Engineer_R027117",
+      "url": "https://trueinterview.io/jobs/77ada88d-9309-4794-9257-0c72d37f5262",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "8000f2d6-6ac2-4491-bd21-cdbf03699223",
+      "company": "Wise",
+      "title": "Graduate Software Engineer",
+      "locations": [
+        "Austin, United States"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://4dayweek.io/job/graduate-software-engineer-at-wise-0d0c3f2e",
+      "url": "https://trueinterview.io/jobs/8000f2d6-6ac2-4491-bd21-cdbf03699223",
       "postedAt": "2026-09-22T00:00:00.000Z",
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
@@ -2056,31 +2462,6 @@
       "url": "https://trueinterview.io/jobs/873eb5c9-8224-4844-b51b-47f9ee030566",
       "postedAt": "2026-09-21T16:03:40.000Z",
       "updatedAt": "2026-09-21T16:03:40.000Z"
-    },
-    {
-      "id": "718142f3-2858-4446-ba7b-d58b14317030",
-      "company": "Nintendo",
-      "title": "CONTRACT - Web Development Engineer",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.nintendo.com/?gh_jid=4382609009",
-      "url": "https://trueinterview.io/jobs/718142f3-2858-4446-ba7b-d58b14317030",
-      "postedAt": "2026-09-21T15:22:39.000Z",
-      "updatedAt": "2026-09-21T15:22:39.000Z"
     },
     {
       "id": "ea69230c-6c2d-41a0-b1a3-1456d1144df6",
@@ -11893,32 +12274,6 @@
       "updatedAt": "2026-09-16T23:13:12.000Z"
     },
     {
-      "id": "e2b50b0d-9388-4213-83b3-6eff500bd521",
-      "company": "Samsung",
-      "title": "Metals Process Engineer",
-      "locations": [
-        "1530 FM 973 Taylor, TX, USA",
-        "1530 FM 973 Taylor, TX, USA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Metals-Process-Engineer_R113911",
-      "url": "https://trueinterview.io/jobs/e2b50b0d-9388-4213-83b3-6eff500bd521",
-      "postedAt": "2026-09-16T23:13:12.000Z",
-      "updatedAt": "2026-09-16T23:13:12.000Z"
-    },
-    {
       "id": "b1eca8c4-e86b-49d4-9c9a-36fcee156ba1",
       "company": "Samsung",
       "title": "Metrology Equipment Engineer",
@@ -12506,38 +12861,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineer---Deep-Learning_2636296",
       "url": "https://trueinterview.io/jobs/989390d8-7ecd-4992-8256-8f320ebe926c",
-      "postedAt": "2026-09-16T22:33:11.000Z",
-      "updatedAt": "2026-09-16T22:33:11.000Z"
-    },
-    {
-      "id": "9f00d5b1-a969-4f43-824a-054d1b4bd3ca",
-      "company": "KLA",
-      "title": "Applications Development Engineer",
-      "locations": [
-        "Milpitas, CA",
-        "USA-OR-Hillsboro-Beaverton-KLA",
-        "Totowa, NJ",
-        "Hillsboro, OR",
-        "USA-OR-Hillsboro-Beaverton-KLA, United States of America",
-        "Milpitas, CA, United States of America",
-        "Hillsboro, OR, United States of America",
-        "Totowa, NJ, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineer_2532526",
-      "url": "https://trueinterview.io/jobs/9f00d5b1-a969-4f43-824a-054d1b4bd3ca",
       "postedAt": "2026-09-16T22:33:11.000Z",
       "updatedAt": "2026-09-16T22:33:11.000Z"
     },
@@ -23794,32 +24117,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/Advanced-Packaging-Quality-and-Reliability-Engineer_JR0286145",
       "url": "https://trueinterview.io/jobs/b7a472eb-d59d-436a-8cd6-f6ea72b71ae6",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "updatedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
-      "id": "756a082a-ef07-42cf-97a6-a004586b20c5",
-      "company": "Intel",
-      "title": "Process Integration Development Engineer - Defect Metrology",
-      "locations": [
-        "US, Oregon, Hillsboro",
-        "US, Oregon, Hillsboro, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer---Defect-Metrology_JR0287005",
-      "url": "https://trueinterview.io/jobs/756a082a-ef07-42cf-97a6-a004586b20c5",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
@@ -35170,32 +35467,6 @@
       "url": "https://trueinterview.io/jobs/270dc118-fc7e-4fd7-9fae-3685c2fee95a",
       "postedAt": "2026-09-09T16:32:26.000Z",
       "updatedAt": "2026-09-09T16:32:26.000Z"
-    },
-    {
-      "id": "db9303c3-8c9a-41fd-998e-bc683418a84c",
-      "company": "Meta",
-      "title": "EMC Design Engineer (University Grad)",
-      "locations": [
-        "Redmond, WA, US",
-        "Redmond, WA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/2263213181184248/",
-      "url": "https://trueinterview.io/jobs/db9303c3-8c9a-41fd-998e-bc683418a84c",
-      "postedAt": "2026-09-09T16:29:11.000Z",
-      "updatedAt": "2026-09-09T16:29:11.000Z"
     },
     {
       "id": "0468c07d-8385-41c1-b89c-1c28aa3f42d4",
@@ -56271,31 +56542,6 @@
       "url": "https://trueinterview.io/jobs/f5f44c83-feec-438e-bcbc-0aeeb1637396",
       "postedAt": "2026-09-01T16:05:16.000Z",
       "updatedAt": "2026-09-01T16:05:16.000Z"
-    },
-    {
-      "id": "3e8a685d-75d8-4c9d-b0a7-9c5100dcebb9",
-      "company": "SpaceX",
-      "title": "Facilities Engineer (Fluids & Cryogenics)",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8762054002?gh_jid=8762054002",
-      "url": "https://trueinterview.io/jobs/3e8a685d-75d8-4c9d-b0a7-9c5100dcebb9",
-      "postedAt": "2026-09-01T00:20:54.000Z",
-      "updatedAt": "2026-09-01T00:20:54.000Z"
     },
     {
       "id": "c2affcff-f482-4496-ba49-d2c6229a9f7d",
@@ -85970,37 +86216,6 @@
       "updatedAt": "2026-08-06T00:00:00.000Z"
     },
     {
-      "id": "92a0b08f-574d-4274-95c0-2fbd04512841",
-      "company": "Salesforce",
-      "title": "Software Engineering AMTS (College Grad)",
-      "locations": [
-        "California - San Francisco",
-        "California - Palo Alto",
-        "Washington - Seattle",
-        "Indiana - Indianapolis",
-        "Washington - Bellevue",
-        "Texas - Dallas",
-        "California - San Francisco, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1",
-      "url": "https://trueinterview.io/jobs/92a0b08f-574d-4274-95c0-2fbd04512841",
-      "postedAt": "2026-08-06T00:00:00.000Z",
-      "updatedAt": "2026-08-06T00:00:00.000Z"
-    },
-    {
       "id": "1681c7b6-e9cc-4f74-a18f-f02872bf58de",
       "company": "Bishop Fox",
       "title": "Solutions Engineer",
@@ -89883,32 +90098,6 @@
       "url": "https://trueinterview.io/jobs/b27d4528-1c3a-45b1-ba9b-a5a374a3d89a",
       "postedAt": "2026-08-03T00:00:00.000Z",
       "updatedAt": "2026-08-03T00:00:00.000Z"
-    },
-    {
-      "id": "18931ebc-27a6-41f8-a24e-a1d7c03e9ee4",
-      "company": "AMD",
-      "title": "Failure Analysis and Reliability Engineer",
-      "locations": [
-        "US,CA,San Jose",
-        "San Jose, California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.amd.com/careers-home/jobs/87861?lang=en-us",
-      "url": "https://trueinterview.io/jobs/18931ebc-27a6-41f8-a24e-a1d7c03e9ee4",
-      "postedAt": "2026-08-01T00:00:00.000Z",
-      "updatedAt": "2026-08-01T00:00:00.000Z"
     },
     {
       "id": "80c8447a-7864-438a-92dc-a24339488fee",
