@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**31 open roles.** 17 in the United States & Canada · 14 elsewhere in the world.
+**32 open roles.** 17 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -148,6 +148,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Careerswift</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4c55548-08a0-4d0d-879f-f28679d2c0b4">Frontend Developer</a></td>
+<td>—</td>
+<td align="center"><a href="https://himalayas.app/companies/careerswift/jobs/frontend-developer-3013027651">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Lucidya</strong></td>
 <td><a href="https://trueinterview.io/jobs/bb4d0853-e5ea-431d-b63e-706245cccb6f">Frontend Software Engineer</a></td>

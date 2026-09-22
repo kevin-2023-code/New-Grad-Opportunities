@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**678 open roles.** 340 in the United States & Canada · 338 elsewhere in the world.
+**680 open roles.** 340 in the United States & Canada · 340 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c2b5446-1fb0-42eb-92bc-53dbb9883cb8">AI Software Engineer</a></td>
+<td>2 Locations</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/AI-Software-Engineer_2025798">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/118a53cd-d7a6-46e5-b0c4-cb84ac83fba6">Data Engineer</a></td>
+<td>2 Locations</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Data-Engineer_2025792">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>eXalt</strong></td>
 <td><a href="https://trueinterview.io/jobs/23125e61-f41f-413c-8328-fe22fd36362b">AI engineer</a></td>

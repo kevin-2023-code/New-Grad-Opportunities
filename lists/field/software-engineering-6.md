@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,123 open roles.** 1,496 in the United States & Canada · 627 elsewhere in the world.
+**2,128 open roles.** 1,496 in the United States & Canada · 632 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/5daf3470-2ffb-4970-8168-2c79ee79042d">Inside Systems Engineer - Paris, France</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23956">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Mks2 Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/4757eefd-c155-4fe5-b3c6-e1a5cb9c6a10">Junior Cloud Integration Developer -</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://www.mks2.com/job/6174119004?gh_jid=6174119004">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>The City Of Fort Worth</strong></td>
+<td><a href="https://trueinterview.io/jobs/9953b42c-bb08-4dc4-ad44-1c1814dcc13f">Professional Engineer - Infrastructure Plan Review</a></td>
+<td>Development Services<br/>City Hall</td>
+<td align="center"><a href="https://boards.greenhouse.io/cityoffortworth/jobs/7980726003?gh_jid=7980726003">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Next Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/28b89d63-6951-4574-83b6-af3862664921">Graduate Backend Software Engineer- UpNEXT Program</a></td>
+<td>Kfar Saba, Israel<br/>IL Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/nextinsurance66/jobs/7979131003">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Assetwatch, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e3f10e3-cb32-4cad-aad0-8e2ccba69848">Condition Monitoring Engineer</a></td>
+<td>Monterrey, Mexico<br/>Mexico City, Mexico</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/assetwatch/jobs/4728615005">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
 <tr>
 <td><strong>Latamcent</strong></td>
 <td><a href="https://trueinterview.io/jobs/77570c76-0161-4dae-81a6-47047a458eb3">Frontend Software Engineer</a></td>
