@@ -67,13 +67,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Catamount Constructors</strong></td>
-<td><a href="https://trueinterview.io/jobs/07c962eb-ca4e-4bd3-b4b0-1427f61c2641">Project Engineer (Commercial)</a></td>
-<td>San Antonio, TX<br/>San Antonio (Office Based)</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/catamountconstructors/jobs/4402974009">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Roshal Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/2fd89a2c-672b-4eca-91c8-105018c2fb54">Ultrasound Technologist - PRN - San Antonio</a></td>
 <td>San Antonio, TX</td>
@@ -197,6 +190,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b45513db-ff55-408b-bf3e-a9f9043d1a05">Project Engineer</a></td>
 <td>Houston, Texas<br/>Baton Rouge, Louisiana<br/>Dallas, Texas<br/>+2 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/forgen/jobs/5203382007">Apply</a></td>
+<td align="center">4 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/00a34072-dc96-47dd-827a-9a31aa06d929">Hardware Operator</a></td>
+<td>Lubbock, TX<br/>Buffalo, NY<br/>New Lebanon, IN<br/>+2 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/c1dedbcb-c729-42bf-b90e-e97c2cead3cd/application">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 </tbody>

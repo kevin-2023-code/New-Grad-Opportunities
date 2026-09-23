@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**34 open roles.** 19 in the United States & Canada · 15 elsewhere in the world.
+**19 open roles.** 12 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -32,25 +32,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Relay</strong></td>
-<td><a href="https://trueinterview.io/jobs/ccb054e4-3bbb-4028-a2e3-a1f45003e08f">Frontend Developer (React, TypeScript)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://himalayas.app/companies/relay-cc/jobs/frontend-developer-react-typescript-3169762534">Apply</a></td>
-<td align="center">20 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/cb87b2c7-cdd8-4f93-93ed-b40f7f2b14fa">Front-End Engineer, Core Shopping</a></td>
 <td>US, WA, Seattle</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10553458/front-end-engineer-core-shopping">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Affirm</strong></td>
-<td><a href="https://trueinterview.io/jobs/4becc80e-3eb5-4690-91e1-dba88fa43e67">Frontend Software Engineer (Upfunnel)</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/affirm/jobs/frontend-software-engineer-upfunnel_ottawa_54yehvwf">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Coalition</strong></td>
@@ -60,46 +46,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>KoboToolbox</strong></td>
-<td><a href="https://trueinterview.io/jobs/66f7301f-827e-4c29-8384-54cad3204a97">Frontend Web Application Developer - Remote</a></td>
-<td>United States</td>
-<td align="center"><a href="https://himalayas.app/companies/kobotoolbox/jobs/frontend-web-application-developer-remote">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Reddit</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a8fb2fe-8612-43b8-92b0-31732dcf528a">Frontend Engineer, Ads</a></td>
-<td>United States</td>
-<td align="center"><a href="https://himalayas.app/companies/reddit/jobs/frontend-engineer-ads">Apply</a></td>
-<td align="center">13 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Inalab</strong></td>
 <td><a href="https://trueinterview.io/jobs/1bf13ed2-63e7-4173-85fe-6739fcc0a8e0">Front-End Application Developer - FWS</a></td>
 <td>Falls Church, VA<br/>Fort Collins, CO</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/inalabconsulting/jobs/5421149008">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>BizFirst</strong></td>
-<td><a href="https://trueinterview.io/jobs/2d19d836-b1a1-4c45-8e6c-68e12af316f5">Front-End / UI/UX Developer - U.S. Coast Guard - Remote</a></td>
-<td>United States</td>
-<td align="center"><a href="https://himalayas.app/companies/bizfirst/jobs/front-end-ui-ux-developer-u-s-coast-guard-remote">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Compass</strong></td>
-<td><a href="https://trueinterview.io/jobs/4aaf02e1-3ed8-4962-b67e-3b268ae0f312">Front End Software Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/compass/jobs/front-end-software-engineer_new-york_qoyicm6f">Apply</a></td>
-<td align="center">6 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Dutch</strong></td>
-<td><a href="https://trueinterview.io/jobs/eadda077-fde8-408a-bd01-23f89c6f2700">Software Engineer (Web Developer)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/dutch/jobs/software-engineer-web-developer_oakland_a56yqmek">Apply</a></td>
-<td align="center">5 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>FitMate</strong></td>
@@ -163,13 +114,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Careerswift</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4c55548-08a0-4d0d-879f-f28679d2c0b4">Frontend Developer</a></td>
-<td>—</td>
-<td align="center"><a href="https://himalayas.app/companies/careerswift/jobs/frontend-developer-3013027651">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Lucidya</strong></td>
 <td><a href="https://trueinterview.io/jobs/bb4d0853-e5ea-431d-b63e-706245cccb6f">Frontend Software Engineer</a></td>
 <td>Riyadh, Saudi Arabia</td>
@@ -177,53 +121,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">19 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Particle41</strong></td>
-<td><a href="https://trueinterview.io/jobs/68d5451f-873d-4177-a71e-f134001b7f67">Frontend Developer</a></td>
-<td>India</td>
-<td align="center"><a href="https://himalayas.app/companies/particle41/jobs/frontend-developer-2401899528">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Seamflow</strong></td>
 <td><a href="https://trueinterview.io/jobs/b97b3ddd-58a5-4da4-af1b-b61e85519b88">Front End Design Engineer</a></td>
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/seamflow/23808403-8a46-4da0-b374-0a04f099a149/application">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Apexx Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e9d7a03-8ab3-44aa-92c8-3ee06ec091ac">Frontend Engineer</a></td>
-<td>Lisbonne, Portugal</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/apexx-global/jobs/frontend-engineer_lisbonne_w5rcafrs">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Kolecto</strong></td>
-<td><a href="https://trueinterview.io/jobs/af51f66d-50e7-47c6-baf7-b8ed9809abee">Front-End Software Engineer (H/F/X)</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/kolecto/jobs/front-end-software-engineer-h-f-x_paris">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Bjak</strong></td>
-<td><a href="https://trueinterview.io/jobs/951c8481-d4e4-4ebb-b7b0-d0f94fe78f60">Frontend Engineer</a></td>
-<td>Poland</td>
-<td align="center"><a href="https://himalayas.app/companies/bjak/jobs/frontend-engineer">Apply</a></td>
-<td align="center">12 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Vintage Cash Cow</strong></td>
-<td><a href="https://trueinterview.io/jobs/8b1c1621-16b3-4457-a502-a2f170ce1fe5">Frontend Software Engineer</a></td>
-<td>Leeds, United Kingdom</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/vintage-cash-cow/jobs/frontend-software-engineer_leeds_nrteom7s">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>RE Partners</strong></td>
-<td><a href="https://trueinterview.io/jobs/72128d60-a43f-4805-bbfb-9a57df616691">Frontend Engineer (Angular)</a></td>
-<td>United Kingdom</td>
-<td align="center"><a href="https://himalayas.app/companies/re-partners/jobs/frontend-engineer-angular-8233019359">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Manulife</strong></td>
@@ -238,13 +140,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>India Bengaluru Karnataka</td>
 <td align="center"><a href="https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Junior-Web-Developer_JREQ203099-1">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Micro1</strong></td>
-<td><a href="https://trueinterview.io/jobs/338f9cc5-7607-4377-afb6-efff0c6da204">Frontend Engineer Specialist</a></td>
-<td>—</td>
-<td align="center"><a href="https://himalayas.app/companies/micro1/jobs/frontend-engineer-specialist">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Latamcent</strong></td>

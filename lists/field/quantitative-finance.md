@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**23 open roles.** 13 in the United States & Canada · 10 elsewhere in the world.
+**24 open roles.** 13 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -182,6 +182,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Lima</td>
 <td align="center"><a href="https://jobs.lever.co/oddin/5c441806-926c-4d90-8a78-d5dc0c1bf054/apply">Apply</a></td>
 <td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Stone</strong></td>
+<td><a href="https://trueinterview.io/jobs/06417185-2a79-4fd0-bcf8-a7e48a54067f">Especialista De Riscos De Modelos | Validação de modelos (Remoto)</a></td>
+<td>Remoto<br/>STONE - BACKOFFICE</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/stone/jobs/7977455003">Apply</a></td>
+<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Cobre</strong></td>

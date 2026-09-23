@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**35 open roles.** 18 in the United States & Canada · 17 elsewhere in the world.
+**20 open roles.** 13 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,31 +25,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Veson Nautical</strong></td>
-<td><a href="https://trueinterview.io/jobs/4285453c-deef-4e4f-8bcd-e85a0d5de0e2">Site Reliability Engineer (GCP)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/veson-nautical/jobs/site-reliability-engineer-gcp_boston_2tvapasl">Apply</a></td>
-<td align="center">20 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Offchain Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/559482ce-3a06-4381-98c4-9770a63044b7">Site Reliability Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://himalayas.app/companies/offchain-labs/jobs/site-reliability-engineer-9806559167">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/8a0f4bdd-aa2a-429d-884f-06070f8c1285">Site Reliability Engineer</a></td>
 <td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8209331">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PagerDuty</strong></td>
-<td><a href="https://trueinterview.io/jobs/07074130-395f-438c-9305-c2eedc785bdf">Site Reliability Engineer</a></td>
-<td>Toronto, ON<br/>Toronto, Canada</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/pagerduty/jobs/site-reliability-engineer_atlanta_snbee5th">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -72,13 +51,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Waltham, Massachusetts, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5232738007?gh_jid=5232738007">Apply</a></td>
 <td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Wayve</strong></td>
-<td><a href="https://trueinterview.io/jobs/8b2ac954-1efd-439b-ba5f-8a452402d1d5">Site Reliability Engineer (Vehicle Software)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wayve/jobs/site-reliability-engineer-vehicle-software_sunnyvale_yjvvsvfj">Apply</a></td>
-<td align="center">6 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>PagerDuty</strong></td>
@@ -130,13 +102,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/08b4a9c0-4392-403c-b06d-9e88c28a468d">Failure Analysis Planner &amp; On-site Engineer</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/88945?lang=en-us">Apply</a></td>
-<td align="center">29 Jul 2026</td>
-</tr>
-<tr>
 <td><strong>Myfitnesspal</strong></td>
 <td><a href="https://trueinterview.io/jobs/59d3bbfa-405a-4e52-a780-6e9123fd1f6c">Site Reliability Engineer</a> 🌐</td>
 <td>Remote — United States</td>
@@ -156,53 +121,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>ROUTE06</strong></td>
-<td><a href="https://trueinterview.io/jobs/a66abfc4-8ff7-4846-babc-079869a668f3">SRE (Site Reliability Engineer)</a></td>
-<td>Japan</td>
-<td align="center"><a href="https://himalayas.app/companies/route06/jobs/sre-site-reliability-engineer-2454337679">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Binance</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ad819c3-ea15-4283-b59f-4725b5185798">Site Reliability Engineer</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://himalayas.app/companies/binance/jobs/site-reliability-engineer">Apply</a></td>
-<td align="center">19 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mistral AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/42268aac-26dd-4c44-ae79-7752d803f632">Site Reliability Engineer, Mistral Cloud</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/site-reliability-engineer-mistral-cloud_paris">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0edeffd4-3202-4c23-9617-eee0e0904d97">Site Reliability Engineer</a></td>
-<td>York, United Kingdom</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/site-reliability-engineer_new-york">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Rain</strong></td>
 <td><a href="https://trueinterview.io/jobs/26de1b56-27ae-4040-93d0-05df953e0f83">Site Reliability Engineer</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rain/f4fc9289-e16d-4d4a-afb7-deedab74d3ac/application">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Swan</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c0597d0-7382-4b23-bbdf-570497f42aba">Confirmed Site Reliability Engineer</a></td>
-<td>Bordeaux, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/swan/jobs/confirmed-site-reliability-engineer">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>C6 Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/04fc076f-5a9a-41f1-9e12-37f1e3f83042">SRE | Site Reliability Engineering</a></td>
-<td>São Paulo, Brazil<br/>C6 Bank</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4732405005">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Mastercard</strong></td>
@@ -233,38 +156,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Arista Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/8305427f-707a-473f-91d7-39d030c5ffb5">Site Reliability Engineer (SRE) - Engineering Productivity</a></td>
-<td>India</td>
-<td align="center"><a href="https://himalayas.app/companies/arista-networks/jobs/site-reliability-engineer-sre-engineering-productivity">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lloyds</strong></td>
-<td><a href="https://trueinterview.io/jobs/639135fa-ecfb-4cab-ae30-ef04cbf416ac">Site Reliability Engineer</a></td>
-<td>Manchester, United Kingdom</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/lloyds/jobs/site-reliability-engineer_manchester_mnxeca27">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Spin Careers</strong></td>
 <td><a href="https://trueinterview.io/jobs/1e36b5a7-588b-417b-b3e1-3599ede2b84b">IC3 - Infra Engineer - SRE</a></td>
 <td>Ciudad de México, México<br/>NETPAY S.A.P.I DE C.V</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/spin/jobs/4728319005">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NXO France</strong></td>
-<td><a href="https://trueinterview.io/jobs/d69af557-f2db-415c-a0a7-5419569934a9">Ingénieur Systèmes (SRE - Site Reliability Engineer, Devops) H/F</a></td>
-<td>Strasbourg, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/nxo-france/jobs/ingenieur-systemes-sre-site-reliability-engineer-devops-h-f_strasbourg_NF_DGe4Z3G">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OVHcloud</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f2d929d-e288-4313-aa09-3b6ad69b0148">Techlead Site Reliability Engineer - Data Platform H/F/N</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/ovh/jobs/techlead-site-reliability-engineer-data-platform_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>

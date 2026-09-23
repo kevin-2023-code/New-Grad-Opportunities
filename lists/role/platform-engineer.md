@@ -2,7 +2,7 @@
 
 # Platform Engineer
 
-**51 open roles.** 26 in the United States & Canada · 25 elsewhere in the world.
+**34 open roles.** 23 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -72,13 +72,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Cloud-Platform-Engineer_2639358">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Bright Vision Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/81efcdb8-6453-4ed7-8a29-4fd70de0124f">Integration Platform Developer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://himalayas.app/companies/bright-vision-technologies/jobs/integration-platform-developer-2115000612">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>DRW</strong></td>
@@ -165,13 +158,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Nooks</strong></td>
-<td><a href="https://trueinterview.io/jobs/05c285f8-4569-43e3-b1b9-dd56cd5dbd80">Platform Engineer, Revenue Operations</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/nooks/3c11271a-488e-4272-a303-f76d630eaac3/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Hadrian Automation</strong></td>
 <td><a href="https://trueinterview.io/jobs/662eef2f-ee85-44fd-a6a8-67c1d5c015d1">ML Platform Engineer</a></td>
 <td>Los Angeles, CA</td>
@@ -184,13 +170,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/298e5846-aea9-47d1-a026-d158a5c0a39c/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Defense Unicorns</strong></td>
-<td><a href="https://trueinterview.io/jobs/072bb203-0e8e-427e-887c-929ff873bb3b">Platform Engineer - FedD180/FedD181</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/defenseunicorns/jobs/5203690007">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Delinea</strong></td>
@@ -212,39 +191,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Evaneos</strong></td>
-<td><a href="https://trueinterview.io/jobs/6436a35e-4501-44c5-bb19-57423bcb43a7">Platform Engineer (DevOps/SRE)</a> 🌐</td>
-<td>Remote — France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/evaneos/jobs/platform-engineer_paris_EVANE_rZaG0ZO">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Adobe</strong></td>
 <td><a href="https://trueinterview.io/jobs/1fe12a8b-c94a-4e2f-aa03-80dbf7dd4347">Data Platform Engineer</a></td>
 <td>Bucharest</td>
 <td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Scalable Capital</strong></td>
-<td><a href="https://trueinterview.io/jobs/2128eb58-4dd4-4f4c-b3a6-52cf82712fd0">AI Platform Engineer</a></td>
-<td>Berlin, Germany</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/scalable-capital/jobs/ai-platform-engineer_berlin_pi2fsxli">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>ThreatDown</strong></td>
-<td><a href="https://trueinterview.io/jobs/b9e3479b-0bda-4057-b0fa-da24eda9798c">MDR Platform Engineer - Italy</a></td>
-<td>Italy</td>
-<td align="center"><a href="https://himalayas.app/companies/threatdown/jobs/mdr-platform-engineer-italy">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Wavestone</strong></td>
-<td><a href="https://trueinterview.io/jobs/22b65450-9c5f-4283-a159-57daeb102565">Consultant.e Confirmé.e - Data Platform Engineer (H/F)</a></td>
-<td>Puteaux, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/consultant-e-confirme-e-data-platform-engineer-h-f_puteaux">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>EarnIn</strong></td>
@@ -254,32 +205,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Carrefour</strong></td>
-<td><a href="https://trueinterview.io/jobs/61fa78b8-1e6e-430e-a496-51c260df2846">Data Platform Engineer GCP (F/H)</a></td>
-<td>Massy, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/carrefour/jobs/data-platform-engineer-gcp-f-h_massy_CARRE_NZ47JV1">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Jalasoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d60c342-b82c-4435-afe8-867c6bcba2c0">ML Platform and Inference Engineer - Content Developer</a></td>
-<td>Argentina</td>
-<td align="center"><a href="https://himalayas.app/companies/jalasoft/jobs/ml-platform-and-inference-engineer-content-developer">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Genomics England</strong></td>
 <td><a href="https://trueinterview.io/jobs/47e80336-7a7f-40fd-bfe3-4d1210adfa44">Platform Engineer, AWS</a></td>
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/platform-engineer-aws-at-genomics-england-becc3850">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mercor</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ee9d93c-9e79-4cf7-9326-846094cf53c6">Platform Engineer - Document Specialist</a></td>
-<td>Germany</td>
-<td align="center"><a href="https://himalayas.app/companies/mercor/jobs/platform-engineer-document-specialist-7836971710">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>M&amp;G</strong></td>
@@ -289,60 +219,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Mirantis</strong></td>
-<td><a href="https://trueinterview.io/jobs/b4b9dd26-8f33-4355-afbd-6c917dca9e2c">Observability Platform Engineer (Neocloud)</a> 🌐</td>
-<td>Remote — Spain</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mirantis/jobs/observability-platform-engineer-neocloud_barcelona_7dsfjw6t">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Miralia (Ex Golem.ai)</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf8d41dd-4d67-4662-ac01-731c1e86439a">Alternant(e) DevSecOps / Platform Engineer (H/F)</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/miralia/jobs/alternant-devsecops-platform-engineer-h-f_paris_MEG_ky3wGm3">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lendable</strong></td>
-<td><a href="https://trueinterview.io/jobs/1ecc8caf-554c-402a-8475-388713adc72d">Data Platform Engineer</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/lendable/jobs/data-platform-engineer_london_z2vvv5mv">Apply</a></td>
-<td align="center">5 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Speechmatics</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f313013-9780-457e-ac39-6a50b8648411">ML Data &amp; Platform Engineer</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/speechmatics/jobs/ml-data-platform-engineer_london_5vethdpp">Apply</a></td>
-<td align="center">5 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Hpr</strong></td>
 <td><a href="https://trueinterview.io/jobs/864b6644-79ce-4146-9bfd-3b0e7386d1d2">Platform Software Engineer I</a></td>
 <td>Needham</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/hyannisportresearch/jobs/7985899003">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ambev</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6e51dbf-5cf5-46b8-bdab-e11cb82d3da7">Zé Delivery / Platform Engineer (São Paulo - SP)</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://himalayas.app/companies/ambev/jobs/ze-delivery-platform-engineer-sao-paulo-sp">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mutt Data</strong></td>
-<td><a href="https://trueinterview.io/jobs/3e1cf972-0159-4529-878d-a0507809c875">Platform Engineer</a></td>
-<td>Argentina</td>
-<td align="center"><a href="https://himalayas.app/companies/mutt-data/jobs/platform-engineer-2936698498">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NEXTON</strong></td>
-<td><a href="https://trueinterview.io/jobs/f33a2dfe-bf1e-488f-ab02-3ee6fafcc267">Développeur GO / Platform Engineer H/F</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/nexton-consulting/jobs/developpeur-go-platform-engineer-h-f_paris">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Assist World</strong></td>

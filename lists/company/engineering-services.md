@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**74 open roles.** 63 in the United States & Canada · 11 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**72 open roles.** 61 in the United States & Canada · 11 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -141,13 +141,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3e687584-d085-49a1-8e9c-8f775e1e70c9">Transportation Designer</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.benesch.com/job-openings/5233828007?gh_jid=5233828007">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Olsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/01068535-b317-41dc-873f-ebfa558b7fc9">Entry-Level Engineer - Water/Wastewater</a></td>
-<td>North Kansas City, MO<br/>Springfield, MO</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5420759008">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
@@ -313,13 +306,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Apex Companies</strong></td>
-<td><a href="https://trueinterview.io/jobs/07ce3e6f-4081-43c2-b02e-5f7cb2c59be6">Transportation Designer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5397563008">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/903abebf-31ea-49e1-8db3-4987dbfa577e">Survey and Mapping CAD Technician</a></td>
 <td>Fort Myers, FL<br/>FL - Fort Myers (JE)</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5398470008">Apply</a></td>

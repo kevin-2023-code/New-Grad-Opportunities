@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**105 open roles.** 62 in the United States & Canada · 43 elsewhere in the world. A real classification that none of the other sectors covers.
+**86 open roles.** 55 in the United States & Canada · 31 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,13 +22,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3ed7bf9a-9694-469a-bade-3e21a9096862">IT Specialist</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/novig/0644d8e3-7d35-486f-8666-a2988ddad3c4/application">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Accorhotel</strong></td>
-<td><a href="https://trueinterview.io/jobs/06c7daf7-e524-41a3-bbf1-8195b147e95b">Engineer Apprentice</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AccorHotel/744000151127027-engineer-apprentice?oga=true">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -102,27 +95,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Catamount Constructors</strong></td>
-<td><a href="https://trueinterview.io/jobs/07c962eb-ca4e-4bd3-b4b0-1427f61c2641">Project Engineer (Commercial)</a></td>
-<td>San Antonio, TX<br/>San Antonio (Office Based)</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/catamountconstructors/jobs/4402974009">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>IXL Learning</strong></td>
-<td><a href="https://trueinterview.io/jobs/2188181e-0c1d-4b18-8902-0d1ade010f85">Software Engineer (New Grad)</a></td>
-<td>San Mateo, CA, United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/ixl-learning/jobs/software-engineer-new-grad_san-mateo-ca_ihl66bbj">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>McCain Foods</strong></td>
-<td><a href="https://trueinterview.io/jobs/05450c14-84d0-4cc0-a842-bbab8854aa1e">software developer</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50258975">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Michels Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/f8ade16e-e28b-4807-9ac4-1adde0122c33">Project Engineer - Michels Energy Solutions Inc</a></td>
 <td>Waco, TX<br/>Brownsville, WI Corporate Office<br/>Pembroke, NH<br/>+5 more</td>
@@ -141,20 +113,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d99f029e-122f-48b4-8d04-575671c8e710">Associate Apparel Designer</a></td>
 <td>US, Washington, Seattle</td>
 <td align="center"><a href="https://jobs.lever.co/brooksrunning/b0d7f120-514c-46c9-84a2-0ba5a373253f/apply">Apply</a></td>
-<td align="center">5 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Canopy Growth Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/b8a45912-993e-46e8-aaac-ab43fda94b26">Full-Stack Developer</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://himalayas.app/companies/canopy-growth-corporation/jobs/full-stack-developer">Apply</a></td>
-<td align="center">5 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Top Hat</strong></td>
-<td><a href="https://trueinterview.io/jobs/eb05ef49-b3a8-4e53-8238-6a4fc42eaa09">Software Engineer (Data Insights)</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/top-hat/jobs/software-engineer-data-insights_ca_cqhzekjw">Apply</a></td>
 <td align="center">5 Sep 2026</td>
 </tr>
 <tr>
@@ -204,13 +162,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e96e3914-cbdf-4047-b565-316f79e929e3">OSP Engineer</a></td>
 <td>Haverhill, Massachusetts</td>
 <td align="center"><a href="https://jobs.lever.co/gonetspeed/24071d16-ed20-4d77-ae8d-aaa2262dce29/apply">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>RELX</strong></td>
-<td><a href="https://trueinterview.io/jobs/37c48e15-ce4a-440d-90d0-ad57bd9effee">Intermediate Software Engineer</a></td>
-<td>Richmond, United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/relx/jobs/intermediate-software-engineer_richmond_62fycfjt">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
@@ -464,24 +415,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>The Quality Group GmbH</strong></td>
-<td><a href="https://trueinterview.io/jobs/daa832ed-1074-4ccb-81f0-03a417ac8a69">AI Security Engineer (gn)</a></td>
-<td>Germany</td>
-<td align="center"><a href="https://himalayas.app/companies/the-quality-group-gmbh/jobs/ai-security-engineer-gn">Apply</a></td>
-<td align="center">19 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Monks</strong></td>
 <td><a href="https://trueinterview.io/jobs/4b00652a-9a96-4d96-b2ef-990f0b953ff7">AI Artist / Multimedia Designer</a></td>
 <td>Mexico City<br/>Argentina</td>
 <td align="center"><a href="https://www.monks.com/careers/6180167004/job?gh_jid=6180167004">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>YAKEEY</strong></td>
-<td><a href="https://trueinterview.io/jobs/34067f32-4fc1-4e8d-adb2-b40d1724521a">QA Automation Engineer</a></td>
-<td>Casablanca, Morocco</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/yakeey-mea/jobs/senior-qa-automation">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -490,27 +427,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Corporate Office - Parma</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/pansophiclearning/jobs/7997274003">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Betclic Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/c12661d5-fad9-4cdc-a257-936f93cd6dd9">AI-Augmented Data Engineer F/M</a></td>
-<td>Bordeaux, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/betclic/jobs/ai-augmented-data-engineer-f-m_bordeaux">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Entain</strong></td>
-<td><a href="https://trueinterview.io/jobs/c38fc878-1f52-43a8-a31e-643e76f0f6d4">Data Engineer</a></td>
-<td>Gibraltar, Gibraltar</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/entain/jobs/data-engineer_gibraltar">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Havas France</strong></td>
-<td><a href="https://trueinterview.io/jobs/892846b2-f01c-461b-b935-c01db424d9b7">HAVAS BUSINESS SCIENCE - CDI - AI &amp; AUTOMATION ENGINEER - H/F</a></td>
-<td>Puteaux, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/havas-sa/jobs/havas-business-science-cdi-ai-automation-engineer-h-f_puteaux">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Business Wire</strong></td>
@@ -541,20 +457,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Ipsos</strong></td>
-<td><a href="https://trueinterview.io/jobs/52bf8ebe-2859-4dcb-b327-93b231e57543">Data Engineer BI (Power BI)</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/ipsos/jobs/data-engineer-bi-power-bi_paris">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>LexisNexis</strong></td>
-<td><a href="https://trueinterview.io/jobs/8008b720-a152-493e-8ed0-0f5d820f5c3a">Content Developer - Education (Legal/Regulatory)</a></td>
-<td>Australia</td>
-<td align="center"><a href="https://himalayas.app/companies/lexisnexis/jobs/content-developer-education-legal-regulatory">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Kaizen Gaming</strong></td>
 <td><a href="https://trueinterview.io/jobs/3e4855e9-4339-403c-a483-7db1910ffc17">Junior Pre Event Trader, Basketball</a></td>
 <td>Bogotá, Colombia<br/>Colombia</td>
@@ -567,13 +469,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Field</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/gofibre/jobs/4966391101">Apply</a></td>
 <td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Vonage</strong></td>
-<td><a href="https://trueinterview.io/jobs/7936981d-894d-4f84-9010-2f652c12acaa">AEM Developer</a></td>
-<td>Anywhere in the World</td>
-<td align="center"><a href="https://weworkremotely.com/remote-jobs/vonage-aem-developer">Apply</a></td>
-<td align="center">5 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Monks</strong></td>
@@ -590,24 +485,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Ambev</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6e51dbf-5cf5-46b8-bdab-e11cb82d3da7">Zé Delivery / Platform Engineer (São Paulo - SP)</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://himalayas.app/companies/ambev/jobs/ze-delivery-platform-engineer-sao-paulo-sp">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Jigsaw Homes Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/2f58d3b0-1f82-4114-9395-473b6a4c3e10">Microsoft 365 Developer</a></td>
 <td>Leigh, United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/microsoft-365-developer-at-jigsaw-homes-group-0b3c09de">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Keolis</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3ce8a57-3d90-4fd0-82fa-1d377b12d50f">Data Engineer F/H/X</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/keolis-/jobs/data-engineer-f-h-x_paris_KEOLI_eow2LW0">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
@@ -681,24 +562,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Tegna Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/053331bd-8a5a-4d28-9e4f-af461ad0ca1d">Photographer/Editor</a></td>
-<td>KFMB-TV San Diego</td>
-<td align="center"><a href="https://boards.greenhouse.io/tegnainc/jobs/5203801007?gh_jid=5203801007">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Monks</strong></td>
 <td><a href="https://trueinterview.io/jobs/2eae831e-eb96-48a7-b1ef-2a2cbacdc03c">AI Automation Engineer (Remote - India)</a></td>
 <td>Mumbai<br/>India</td>
 <td align="center"><a href="https://www.monks.com/careers/6128673004/job?gh_jid=6128673004">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>1global</strong></td>
-<td><a href="https://trueinterview.io/jobs/0177ef57-fdbd-4640-8e69-3782a6993806">.NET Software Engineer</a></td>
-<td>São Paulo, State of São Paulo, Brazil</td>
-<td align="center"><a href="https://jobs.workable.com/view/989shBwiBkKHWuyDAZir9E/hybrid-.net-software-engineer-in-s%C3%A3o-paulo-at-1global">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>

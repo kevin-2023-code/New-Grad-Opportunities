@@ -2,7 +2,7 @@
 
 # 🎮 Gaming & interactive
 
-**19 open roles.** 14 in the United States & Canada · 5 elsewhere in the world. Games, game engines and interactive entertainment.
+**17 open roles.** 13 in the United States & Canada · 4 elsewhere in the world. Games, game engines and interactive entertainment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -67,13 +67,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Unity</strong></td>
-<td><a href="https://trueinterview.io/jobs/ad982a0a-d851-4aa8-b823-2e5bbef5079d">Machine Learning Engineer (Next-Generation Recommendation Systems)</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/unity/jobs/machine-learning-engineer-next-generation-recommendation-systems_new-york_iy5rfd5v">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Roblox</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c99d551-a3ea-4cbb-8d06-973c82368899">Software Engineer, Engine Infrastructure</a></td>
 <td>San Mateo, CA, United States</td>
@@ -127,13 +120,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Unity</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2343bc9-cefe-490e-bdf8-f05628664c01">Software Engineer (Web Platform)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/unity/jobs/software-engineer-web-platform_vilnius_44gnqwx6">Apply</a></td>
-<td align="center">12 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Gameloft</strong></td>
 <td><a href="https://trueinterview.io/jobs/20e0a258-fb9e-407c-b39c-09900e172b2a">developer, software</a></td>

@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**57 open roles.** 32 in the United States & Canada · 25 elsewhere in the world.
+**48 open roles.** 30 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,17 +18,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>PayPal</strong></td>
+<td><a href="https://trueinterview.io/jobs/a312cb11-1bdd-4cf8-b8cc-a2284e25d475">Data Scientist 1</a></td>
+<td>San Jose, California, United States of America</td>
+<td align="center"><a href="https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-1_R0138243">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Rhombus Power, Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/9e236fe0-cdcc-46de-8c11-30149d9898b6">Data Scientist (Secret/Top Secret), Washington D.C.</a></td>
 <td>Washington, DC<br/>Washington, District of Columbia, United States<br/>Washington, D.C.</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rhombuspower/jobs/8002928003">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Canadian Tire</strong></td>
-<td><a href="https://trueinterview.io/jobs/0718b150-54f5-462b-b96f-2e9e1e694509">Data Scientist</a></td>
-<td>Oakville, ON</td>
-<td align="center"><a href="https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Data-Scientist_JR165144">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -67,13 +67,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>McKesson</strong></td>
-<td><a href="https://trueinterview.io/jobs/234040fa-5105-470b-a966-56becb970295">Data Scientist</a></td>
-<td>United States</td>
-<td align="center"><a href="https://himalayas.app/companies/mckesson/jobs/data-scientist">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>MLSE</strong></td>
 <td><a href="https://trueinterview.io/jobs/44a110f4-2da5-45df-8e9c-92eb70d85f06">Data Scientist</a></td>
 <td>Toronto, Ontario</td>
@@ -81,17 +74,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>University of Miami</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d4abd14-18dc-43fc-93ff-9e988391f377">UHealth IT Data Scientist (H)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://himalayas.app/companies/university-of-miami/jobs/uhealth-it-data-scientist-h">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Match Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/006e4d57-4d83-4e77-9839-c76d6cfd6a4b">Data Scientist, Marketing Analytics</a></td>
-<td>New York, NY<br/>Los Angeles, California<br/>New York, New York</td>
-<td align="center"><a href="https://jobs.lever.co/matchgroup/d28a3de6-cd04-483a-9aed-5ba1d2f8c57c/apply">Apply</a></td>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/039610d1-a5d0-4d0b-8c3d-93d4834fd073">Data Scientist 2</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000148860049-data-scientist-2?oga=true">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
@@ -289,20 +275,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>MP DATA</strong></td>
-<td><a href="https://trueinterview.io/jobs/4d809c5c-98a5-4e7e-85a3-5c92a57328e0">Data Scientist - F/H - Lille</a></td>
-<td>Lille, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mp-data/jobs/data-scientist-f-h-lille_lille">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Visuary</strong></td>
-<td><a href="https://trueinterview.io/jobs/41d56610-7658-43da-a02e-18e816031bb5">Data Scientist</a></td>
-<td>France</td>
-<td align="center"><a href="https://himalayas.app/companies/visuary/jobs/data-scientist-5935190733">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Intact Financial</strong></td>
 <td><a href="https://trueinterview.io/jobs/5d2c97b8-efce-4b2d-89ac-690d3217f939">Data Scientist</a></td>
 <td>Hong Kong Science Park, HK</td>
@@ -317,32 +289,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">13 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Micro1</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd14be04-4fd6-46b4-a627-2918480a8589">Data Scientist</a></td>
-<td>—</td>
-<td align="center"><a href="https://himalayas.app/companies/micro1/jobs/data-scientist-7470374102">Apply</a></td>
-<td align="center">12 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Intact Financial</strong></td>
 <td><a href="https://trueinterview.io/jobs/197ad816-e966-407f-a49e-70c9215a7da4">Data Scientist I, HK - Winter 2027</a></td>
 <td>Hong Kong Science Park, HK</td>
 <td align="center"><a href="https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Hong-Kong-Science-Park-HK/Data-Scientist-I--HK---Winter-2027_R155626">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Upply</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e1b90c7-6985-4101-96ba-e2c670112d4f">🦊 Data Scientist (CDI)</a></td>
-<td>Levallois-Perret, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/upply/jobs/data-scientist-cdi">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Crédit Agricole</strong></td>
-<td><a href="https://trueinterview.io/jobs/74686b9c-8b3a-4788-96d1-34b926bb0fdd">Data Scientist IA – Développeur Machine Learning H/F</a></td>
-<td>Villejuif, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/groupe-credit-agricole/jobs/data-scientist-ia-developpeur-machine-learning-h-f_villejuif">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Enbridge</strong></td>
@@ -352,25 +303,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Sekoia</strong></td>
-<td><a href="https://trueinterview.io/jobs/ad917a35-962b-46ca-8167-bba565a47f8b">Data Scientist Engineer</a></td>
-<td>Rennes, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/sekoia/jobs/data-scientist-engineer">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>SonarSource</strong></td>
 <td><a href="https://trueinterview.io/jobs/3da7ccb9-0207-4966-ac38-1916eef4d0ca">Data Scientist, Product Analytics</a></td>
 <td>Geneva</td>
 <td align="center"><a href="https://jobs.lever.co/sonarsource/c9783c31-cfa1-4d95-b31a-278cd0d14162/apply">Apply</a></td>
 <td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Airbnb</strong></td>
-<td><a href="https://trueinterview.io/jobs/9594b227-c92e-46a1-94c3-5e2a63af5dda">Data Scientist - Inference, Community Support</a></td>
-<td>Anywhere in the World</td>
-<td align="center"><a href="https://weworkremotely.com/remote-jobs/airbnb-data-scientist-inference-community-support">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Platform Science</strong></td>

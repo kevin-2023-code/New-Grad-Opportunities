@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**91 open roles.** 66 in the United States & Canada · 25 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**73 open roles.** 61 in the United States & Canada · 12 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://abnormal.ai/careers/jobs/8001641003?gh_jid=8001641003">Apply</a></td>
 <td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Endor Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e2fc098-27c3-4be9-934a-93c61b5eb62d">Backend Software Engineer</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/endor-labs/jobs/member-of-technical-staff-backend-software-engineer_palo-alto_lkvbpmfj">Apply</a></td>
-<td align="center">19 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Illumio</strong></td>
@@ -102,31 +95,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Virtru</strong></td>
-<td><a href="https://trueinterview.io/jobs/504dd0a1-a168-4e32-8ba5-7f4bbbe42dd2">Application Security Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://himalayas.app/companies/virtru/jobs/application-security-engineer-8744730633">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Palo Alto Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/f2abf24f-358c-4ca6-adbe-713385ebf8b4">Transformation Success Engineer</a></td>
 <td>Boston, MA<br/>Atlanta, GA<br/>Chicago, IL<br/>+12 more</td>
 <td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/New-York-City-United-States-of-America/Transformation-Success-Engineer_JR-019947">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sophos</strong></td>
-<td><a href="https://trueinterview.io/jobs/d384aae0-3726-4856-94e0-d7f09a11fbec">Software Engineer (Agentic AI)</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/sophos/jobs/software-engineer-agentic-ai_ottawa_4mxmwuel">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Versa Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c897ed4-3133-4542-ba1c-2dd4bc5922ac">Data DevOps Engineer</a></td>
-<td>Santa Clara, CA, United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/versa-networks/jobs/data-devops-engineer_santa-clara-ca_p34cdaw3">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
@@ -184,13 +156,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United States &amp; Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/infisical/558d171f-9730-47d6-8d35-1026c2c3e316/application">Apply</a></td>
 <td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Team Cymru</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1ad62b2-b026-4f93-8024-57d6b66df90a">Cloud Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://himalayas.app/companies/team-cymru/jobs/cloud-engineer">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>CrowdStrike</strong></td>
@@ -499,48 +464,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>ThreatDown</strong></td>
-<td><a href="https://trueinterview.io/jobs/b9e3479b-0bda-4057-b0fa-da24eda9798c">MDR Platform Engineer - Italy</a></td>
-<td>Italy</td>
-<td align="center"><a href="https://himalayas.app/companies/threatdown/jobs/mdr-platform-engineer-italy">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Signicat</strong></td>
-<td><a href="https://trueinterview.io/jobs/59e1dd28-6cca-4e0a-b8a2-bfc4466e263a">Java Software Engineer (Identity Proofing)</a></td>
-<td>United Kingdom</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/signicat/jobs/java-software-engineer-identity-proofing_gb_x2xl3ezm">Apply</a></td>
-<td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>DataDome</strong></td>
-<td><a href="https://trueinterview.io/jobs/9530713e-6f73-481f-a1aa-d8b530895c77">Software Engineer (Integrations)</a> 🌐</td>
-<td>Remote — France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/datadome/jobs/software-engineer-integrations_paris">Apply</a></td>
-<td align="center">12 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mimecast</strong></td>
-<td><a href="https://trueinterview.io/jobs/3698a399-bead-4cc1-8095-f44d47cfe780">Software Engineer</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mimecast/jobs/software-engineer_london_otexmxjl">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Darktrace</strong></td>
-<td><a href="https://trueinterview.io/jobs/1cf17e2b-3ab8-47c9-95ce-a6679628833a">Specialist Software Engineer</a></td>
-<td>Cambridge, United Kingdom</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/darktrace/jobs/specialist-software-engineer_cambridge_vfukulwm">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WALLIX</strong></td>
-<td><a href="https://trueinterview.io/jobs/81069dc7-4312-45b1-9e03-ec7701d99c82">Data Analytics Backend Engineer Go / ClickHouse (H/F) - H/F</a></td>
-<td>Rennes, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wallix/jobs/data-analytics-backend-engineer-go-clickhouse-h-f-h-f">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Knowbe4</strong></td>
 <td><a href="https://trueinterview.io/jobs/d1d85bc6-04e5-4ea4-8c7f-b723429a4cc1">Product Security Engineer (Position located in Brazil)</a></td>
 <td>São Paulo, Brazil</td>
@@ -548,45 +471,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Acronis</strong></td>
-<td><a href="https://trueinterview.io/jobs/ffd4cf84-c197-4a4e-bdec-c7f4c74ec551">Solutions Engineer</a></td>
-<td>Colombia</td>
-<td align="center"><a href="https://himalayas.app/companies/acronis/jobs/solutions-engineer">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sekoia</strong></td>
-<td><a href="https://trueinterview.io/jobs/ad917a35-962b-46ca-8167-bba565a47f8b">Data Scientist Engineer</a></td>
-<td>Rennes, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/sekoia/jobs/data-scientist-engineer">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Citalid</strong></td>
-<td><a href="https://trueinterview.io/jobs/c2d643bb-ec31-4e1e-acc9-0c01facbdc6f">Software Engineer – Risk Modelling &amp; Data (H/F)</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/citalid-cybersecurite-1/jobs/software-engineer-risk-modelling-data-h-f_paris">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Avertium</strong></td>
 <td><a href="https://trueinterview.io/jobs/def3f5b8-3cae-4371-96bf-fef2c22377c6">CyberSecurity Analyst</a></td>
 <td>Guadalajara, Mexico</td>
 <td align="center"><a href="https://jobs.lever.co/avertium/4f16c74c-5168-46ea-abd1-abb9163999a0/apply">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>GitGuardian</strong></td>
-<td><a href="https://trueinterview.io/jobs/300e3fe4-fd97-44e8-b4c9-08f3c82312c8">AI Software Engineer</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/gitguardian/jobs/ai-software-engineer_paris">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/054fc70f-a809-46a5-8231-51c39408d8f6">Software Engineer in Test (QA automation)</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/gitguardian/jobs/software-engineer-in-test-qa-automation_paris_GITGU_7Rr3wwl">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
@@ -601,20 +489,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/095b9dd2-800f-45b9-bde4-5f166de58e96">AI Security Engineer - Taiwan</a></td>
 <td>Taipei, Taiwan</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/obsidiansecurity/jobs/5406173008">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Dashlane</strong></td>
-<td><a href="https://trueinterview.io/jobs/f9bcbe17-241f-4cfd-a86c-53dc9293189e">Software Engineer - Security Features</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/dashlane/jobs/software-engineer-security-features_paris_6zhu3rby">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>EFFICIENT IP</strong></td>
-<td><a href="https://trueinterview.io/jobs/8ea10afa-8322-4a51-b840-0d2b2feb80c7">Software System Developer</a></td>
-<td>La Garenne-Colombes, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/efficient-ip/jobs/software-system-developer_la-garenne-colombes">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>

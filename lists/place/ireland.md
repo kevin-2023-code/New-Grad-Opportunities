@@ -2,7 +2,7 @@
 
 # 🇮🇪 Dublin & Ireland
 
-**9 open roles.** 2 in the United States & Canada · 7 elsewhere in the world.
+**7 open roles.** 2 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,25 +51,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>MongoDB</strong></td>
-<td><a href="https://trueinterview.io/jobs/b2112403-a213-4f08-8a34-8a54e324d461">Software Engineer (Cluster-to-Cluster)</a> 🌐</td>
-<td>Remote — Ireland<br/>Dublin, Ireland, Remote</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mongodb/jobs/software-engineer-cluster-to-cluster_dublin_vmgpyls2">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/53ed5359-aacb-406c-a13e-cc7a6176656c">Software Engineer MTS</a></td>
 <td>Ireland - Dublin</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Ireland---Dublin/Software-Engineer-MTS_JR358966">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Supermetrics</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a1d6963-7498-4015-accb-000a96313be9">Agentic AI Engineer</a></td>
-<td>Dublin, Ireland</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/supermetrics/jobs/agentic-ai-engineer_dublin_z7sww5cj">Apply</a></td>
-<td align="center">5 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>

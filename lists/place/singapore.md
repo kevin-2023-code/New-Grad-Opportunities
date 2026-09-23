@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**14 open roles.** 2 in the United States & Canada · 12 elsewhere in the world.
+**10 open roles.** 2 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,13 +51,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Binance</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ad819c3-ea15-4283-b59f-4725b5185798">Site Reliability Engineer</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://himalayas.app/companies/binance/jobs/site-reliability-engineer">Apply</a></td>
-<td align="center">19 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/559b67ad-ab95-4c43-963b-1b0dbc1d3cce">DCEO Engineer, Data Center Engineering Operations</a></td>
 <td>SG, Singapore</td>
@@ -70,27 +63,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/AP-Data-Scientist---Financial-Crime_R-291075">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Binance</strong></td>
-<td><a href="https://trueinterview.io/jobs/76069812-080f-46fa-9530-91cea79d7886">Binance Accelerator Program - Software Engineer (Backend + AI/LLM)</a></td>
-<td>Hong Kong, Singapore, Taiwan</td>
-<td align="center"><a href="https://himalayas.app/companies/binance/jobs/binance-accelerator-program-software-engineer-backend-ai-llm-9720148740">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Uvation</strong></td>
-<td><a href="https://trueinterview.io/jobs/8621d2fa-e5f5-4a43-a752-9c728ce34066">Linux Infrastructure Engineer (Bare Metal, Storage &amp; AI Factory Infrastructure)</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://himalayas.app/companies/uvation/jobs/linux-infrastructure-engineer-bare-metal-storage-ai-factory-infrastructure-5363547987">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Overmind</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a955d31-5554-4bce-add3-a19dbb4c6f78">Blockchain Developer</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://himalayas.app/companies/overmind/jobs/blockchain-developer-8242190389">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>DV Trading</strong></td>
