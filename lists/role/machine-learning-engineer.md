@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Zipline</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c1dc46a-54e6-4157-a094-e845f135f291">ML Infrastructure Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/zipline-1/jobs/ml-infrastructure-engineer_san-francisco_otyxgw4k">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/d6d7ce17-1205-4f22-a66a-db153dcbfc78">Machine Maintenance Engineer, Tool &amp; Die</a></td>
 <td>Bastrop, TX</td>
@@ -142,13 +149,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/clickup/jobs/machine-learning-engineer-ranking-retrieval_us_qrrk72at">Apply</a></td>
 <td align="center">12 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>True Anomaly</strong></td>
-<td><a href="https://trueinterview.io/jobs/385529a9-634c-4ef1-b367-6d6211e4a69e">Machine Learning Engineer</a></td>
-<td>Long Beach, CA, United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/true-anomaly/jobs/machine-learning-engineer_denver_nslud6b7">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Unity</strong></td>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,172 open roles.** 1,523 in the United States & Canada · 649 elsewhere in the world.
+**2,187 open roles.** 1,534 in the United States & Canada · 653 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,118 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Trulioo</strong></td>
+<td><a href="https://trueinterview.io/jobs/bec4d139-9187-43f5-83c6-e5f12764e83f">Junior Software Engineer</a></td>
+<td>San Diego</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Tldraw</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b7411b5-f3ac-4d97-9e56-577dda958f45">Design Engineer</a></td>
+<td>London Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/tldraw/c52007ee-bac0-4176-a5f0-48fe6e1fe854/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Havocai</strong></td>
+<td><a href="https://trueinterview.io/jobs/5d61ad32-260d-4d4d-95c3-d3fba507a4ba">Rapid Prototyping Engineer – Drones &amp; Unmanned Systems</a></td>
+<td>San Diego</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/havocai/e51defa3-e41b-4f6c-bfe3-4d89e694004f/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Spin Careers</strong></td>
+<td><a href="https://trueinterview.io/jobs/decaa2e6-b7ca-4c0a-b8d6-dd4ae1f528e7">IC1 - Software Engineer Backend</a></td>
+<td>México, México<br/>NETPAY S.A.P.I DE C.V</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/spin/jobs/4729103005">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Arista Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/2d17ba23-a79b-4c9d-a7b2-9c16ec5cd444">Software Engineer - Platform Team - C++ on Linux</a></td>
+<td>Hungary</td>
+<td align="center"><a href="https://himalayas.app/companies/arista-networks/jobs/software-engineer-platform-team-c-on-linux">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Arundo Re</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d53f4a3-8669-4c4f-b538-2b0733cae258">Full Stack Software Engineer (H/F)</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/arundo-re/jobs/full-stack-software-engineer-h-f_paris">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>ChapsVision</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba4df855-28ba-423c-b9ea-e14daf8057a2">Stage Software Engineer Front-End</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/chapsvision/jobs/stage-software-engineer-front-end_paris">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/d60662d0-8608-40c1-9a65-5cf22c3d2063">Java Developer- Telecom Domain</a></td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Bengaluru/Java-Developer--Telecom-Domain_R031564">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Dashlane</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9bcbe17-241f-4cfd-a86c-53dc9293189e">Software Engineer - Security Features</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/dashlane/jobs/software-engineer-security-features_paris_6zhu3rby">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Desjardins</strong></td>
+<td><a href="https://trueinterview.io/jobs/57ac9ea0-1c71-46e6-bfa9-1367b3b0a4b4">AI/ML DevOps Developer</a></td>
+<td>2 Locations</td>
+<td align="center"><a href="https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Dveloppeur-ou-dveloppeuse-DevOps-IA-ML_R2610564-1">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>EFFICIENT IP</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ea10afa-8322-4a51-b840-0d2b2feb80c7">Software System Developer</a></td>
+<td>La Garenne-Colombes, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/efficient-ip/jobs/software-system-developer_la-garenne-colombes">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Enthuse</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f520e7c-f3b2-4705-a54b-cacf510d78ba">Mid Fullstack Engineer</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/enthuse/jobs/mid-fullstack-engineer_london_cxhpapuf">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Enveritas (YC S18, non-profit)</strong></td>
+<td><a href="https://trueinterview.io/jobs/424a4f9d-12d7-49fc-9001-8cb3745afc19">Enveritas (YC S18, non-profit) / Backend Software Engineer / Remote (Global) /</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://enveritas.org/jobs/">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Fairly Made</strong></td>
+<td><a href="https://trueinterview.io/jobs/49ce10f5-c071-421a-9750-71e3875d47ce">Software Engineer - CDI (F/M/X)</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/fairly-made/jobs/software-engineer-cdi-f-m-x_paris">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Galadrim</strong></td>
+<td><a href="https://trueinterview.io/jobs/dfd05ea2-943d-4e83-a414-2699a94e4ef3">Software Engineer - Prácticas de fin de máster (Madrid)</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/galadrim/jobs/software-engineer-practicas-de-fin-de-master-madrid_madrid">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Grafana Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/37a283e2-b4f1-42f8-ab1f-bb57d3b91780">Backend Engineer - Platform - Stacks / Ireland / Remote</a></td>
+<td>Anywhere in the World</td>
+<td align="center"><a href="https://weworkremotely.com/remote-jobs/grafana-labs-backend-engineer-platform-stacks-ireland-remote">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Intact Financial</strong></td>
 <td><a href="https://trueinterview.io/jobs/10c5fbe9-668b-4afb-8a56-804fa6be1b94">Intermediate Software Developer, Full Stack (Python/React)</a></td>
@@ -260,13 +372,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a1f425c0-d9ad-4146-b6d7-690ab9643f5d">2027 Software Engineer Program - Full-time - Glasgow &amp; London</a></td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774781">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Intuitive Surgical</strong></td>
-<td><a href="https://trueinterview.io/jobs/99b09545-4a0e-42c4-940c-e24426d55ad1">Manufacturing Equipment Engineer P1</a></td>
-<td>Mexicali, MEXICO, Mexico</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000146567069-manufacturing-equipment-engineer-p1?oga=true">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>

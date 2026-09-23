@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**90 open roles.** 65 in the United States & Canada · 25 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**91 open roles.** 66 in the United States & Canada · 25 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Abnormalsecurity</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8b7aa14-9713-42ee-93ec-06da48e996f6">Software Engineer 1 - Data Platforms</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://abnormal.ai/careers/jobs/8001641003?gh_jid=8001641003">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Endor Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/2e2fc098-27c3-4be9-934a-93c61b5eb62d">Backend Software Engineer</a></td>

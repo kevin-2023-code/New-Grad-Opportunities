@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**219 open roles.**
+**221 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Domino Data Lab</strong></td>
+<td><a href="https://trueinterview.io/jobs/187626d5-1f30-445d-99cf-c64d5a30de3b">Software Engineer (New Grad, 2027)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/domino-data-lab/jobs/software-engineer-new-grad-2027_new-york_ededhz5o">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Fireblocks</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0a5e5b5-5e95-4942-b048-d0433f3a74bc">Data Analytics AI Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/fireblocks/jobs/data-analytics-ai-engineer_new-york_5euvtmni">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Govsignals</strong></td>
 <td><a href="https://trueinterview.io/jobs/b9c50e2c-4dd6-49bb-b76d-2a3b555e74d3">Product Engineer</a></td>

@@ -2,7 +2,7 @@
 
 # 🇪🇸 Madrid, Barcelona & Iberia
 
-**22 open roles.** 2 in the United States & Canada · 20 elsewhere in the world.
+**24 open roles.** 2 in the United States & Canada · 22 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,6 +43,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NTT DATA</strong></td>
+<td><a href="https://trueinterview.io/jobs/c62e8455-fc79-4238-9fbb-2320885c062c">QA Automation Engineer</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/ntt-ltd/jobs/qa-automation-engineer_barcelona_ND_7ZmYPwk">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/787fd8af-53fe-4284-bc4d-5520fb1381df">Semantic Software Engineer</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/ntt-ltd/jobs/semantic-software-engineer_madrid_ND_mzKykpA">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Aily Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/0a6ba213-2908-42f1-a7ba-8a450e78d643">MID AI/ML Engineer</a></td>

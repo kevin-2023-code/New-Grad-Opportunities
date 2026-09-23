@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**183 open roles.**
+**186 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Loft Orbital</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e483835-cb15-4e62-9b34-c7058f29066a">Onboard Software Engineer - Hyperdrive</a></td>
+<td>Toulouse, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/loft-orbital/jobs/onboard-software-engineer-hyperdrive_occitanie">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/727f77d1-2ed5-4d5e-980a-71ed87896bb5">Onboard Software Engineer - Peripheral Services</a></td>
+<td>Toulouse, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/loft-orbital/jobs/onboard-software-engineer-peripheral-services_occitanie">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Valtech</strong></td>
+<td><a href="https://trueinterview.io/jobs/f461a69f-8cf9-41c3-9dba-e16af2cdcad3">Data Engineer - Snowflake</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/valtech/jobs/data-engineer-snowflake_paris">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Deloitte</strong></td>
 <td><a href="https://trueinterview.io/jobs/281b64eb-5d94-4c53-ab35-a6ccaed8921a">Data Engineer Confirmé F/H</a></td>

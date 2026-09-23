@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**53 open roles.** 19 in the United States & Canada · 34 elsewhere in the world.
+**54 open roles.** 20 in the United States & Canada · 34 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bally's Interactive</strong></td>
+<td><a href="https://trueinterview.io/jobs/c142dd0e-34a9-42c4-808e-cb545e7c3134">DevOps Engineer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/bally-s-interactive/jobs/devops-engineer_chicago_mvklk7vf">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Accenture Federal Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/b200afc2-5c63-4102-8079-8b631e3a5b1d">Cloud DevOps Engineer</a></td>

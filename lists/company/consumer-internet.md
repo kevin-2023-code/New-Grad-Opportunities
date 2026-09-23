@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**79 open roles.** 69 in the United States & Canada · 10 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**80 open roles.** 70 in the United States & Canada · 10 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NewsBreak</strong></td>
+<td><a href="https://trueinterview.io/jobs/63e8963c-9a2d-4281-83ec-0ca8d1735136">Software Engineer (Ads Platform)</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/newsbreak/jobs/software-engineer-ads-platform_mountain-view-ca_43s6iq3k">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Pelmorex</strong></td>
 <td><a href="https://trueinterview.io/jobs/e87d6276-09da-4c6a-8713-10cd4e062b98">Front End Developer - React (12 month Contract)</a></td>
