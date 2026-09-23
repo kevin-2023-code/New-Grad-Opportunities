@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/3fd4f1f1-9b4c-4b86-b9ef-9e92d53ec35d">Early Professional - Transportation Engineer</a></td>
+<td>Tacoma, WA, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96087">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Hubble Network</strong></td>
 <td><a href="https://trueinterview.io/jobs/1affc614-8a40-4acb-9cfd-f64bf53ddf2d">Data Platform Engineer</a></td>
 <td>Seattle HQ<br/>San Francisco, CA</td>
@@ -530,13 +537,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/0cf3d1b7-d8bf-4f00-94ea-8152ece1c320">Mechanical Engineer - Satellite Solar Array (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8692296002?gh_jid=8692296002">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5a618693-125c-4f5f-9caf-7f213e93bc8c">AMS Verification Engineer (RFIC Engineering)</a></td>
 <td>Redmond, WA<br/>Irvine, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8742211002?gh_jid=8742211002">Apply</a></td>

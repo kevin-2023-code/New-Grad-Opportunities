@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**48 open roles.** 30 in the United States & Canada · 18 elsewhere in the world.
+**47 open roles.** 29 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -100,13 +100,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, CA, San Jose<br/>San Jose, California, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91414?lang=en-us">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hawk</strong></td>
-<td><a href="https://trueinterview.io/jobs/0bb7b692-bb34-47ed-b779-b7b71a84b792">Customer Data Scientist</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hawk/19be8dc7-5b39-45e7-b0d0-9b2d9154ef9f/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Red Hat</strong></td>

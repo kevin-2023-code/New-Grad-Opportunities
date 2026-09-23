@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**86 open roles.** 43 in the United States & Canada · 43 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**85 open roles.** 43 in the United States & Canada · 42 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -430,13 +430,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Intact Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/096da831-df34-4716-a1a3-809c66d53045">AI Developer I, HK - Winter 2027</a></td>
-<td>Hong Kong Science Park, HK</td>
-<td align="center"><a href="https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Hong-Kong-Science-Park-HK/AI-Developer-I--HK---Winter-2027_R155622-1">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/197ad816-e966-407f-a49e-70c9215a7da4">Data Scientist I, HK - Winter 2027</a></td>
 <td>Hong Kong Science Park, HK</td>
 <td align="center"><a href="https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Hong-Kong-Science-Park-HK/Data-Scientist-I--HK---Winter-2027_R155626">Apply</a></td>

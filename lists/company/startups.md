@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**204 open roles.** 151 in the United States & Canada · 53 elsewhere in the world. Early-stage technology companies.
+**203 open roles.** 150 in the United States & Canada · 53 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -575,13 +575,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8f230eb8-386d-4f3e-882c-0a470c1a7acd">Applied AI Engineer (Customer Facing)</a></td>
 <td>San Francisco Bay Area</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/retell-ai/1fcd6e82-2a31-4e2f-abcf-be069ebb6e8c/application">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Rogo</strong></td>
-<td><a href="https://trueinterview.io/jobs/0cb7acf3-b671-4459-a9bf-9ecabb5b94e2">GTM Systems Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rogo/f841b833-2bb0-444c-a41d-5bf16ace0612/application">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>

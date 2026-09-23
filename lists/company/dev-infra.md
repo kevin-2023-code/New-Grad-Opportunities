@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**106 open roles.** 66 in the United States & Canada · 40 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**104 open roles.** 64 in the United States & Canada · 40 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -242,13 +242,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Elastic N.V.</strong></td>
-<td><a href="https://trueinterview.io/jobs/0da3bea8-2fe4-4cd9-b3cb-46d70a831a17">UX &amp; Front End Engineer, AI</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.elastic.co/jobs?gh_jid=8154995&amp;gh_jid=8154995">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Anyscale</strong></td>
 <td><a href="https://trueinterview.io/jobs/8fcae117-f7b3-4934-8175-0f3f918a61a7">IT Specialist</a></td>
 <td>San Francisco, CA</td>
@@ -467,13 +460,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/e741ac55-fafc-4c0a-90c8-667e9d2dd190">Software Engineer, Spectrum</a></td>
-<td>Austin, TX<br/>London, United Kingdom<br/>Hybrid</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8094826?gh_jid=8094826">Apply</a></td>
-<td align="center">30 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/46068e53-2b51-4128-bd7e-22bf8d862c99">Software Engineer, Cloudflare Network Interconnect</a></td>
 <td>Austin, TX<br/>London, United Kingdom<br/>Hybrid<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751">Apply</a></td>

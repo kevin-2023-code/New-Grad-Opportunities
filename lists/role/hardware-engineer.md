@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**87 open roles.** 85 in the United States & Canada · 2 elsewhere in the world.
+**85 open roles.** 83 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -516,13 +516,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/0df39b3f-2f89-401a-8959-109a2db844a6">Electrical Engineer, Silicon Reliability Test (Starlink)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8701462002?gh_jid=8701462002">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/de68177f-8727-4065-bd13-792030885b73">Hardware Engineer, Gateways &amp; Customer Hardware (Starlink)</a></td>
 <td>Bastrop, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8700410002?gh_jid=8700410002">Apply</a></td>
@@ -554,13 +547,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cf0d8445-f425-46e5-8156-db2023592220">Hardware Engineer, FPGA</a></td>
 <td>New York City<br/>Silicon Valley</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/normalcomputing/ce3e3ffa-5001-42b5-851d-d5dc46e5d463/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hawk Eye Innovations (hei</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e08bb25-5777-4b5d-a00d-34e43caefc12">Hardware Operations Engineer – Baseball</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hawkeyeinnovations/a4bd828f-1a41-4fcb-ba4b-8e445421d310/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>

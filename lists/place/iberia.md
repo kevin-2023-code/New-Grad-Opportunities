@@ -2,7 +2,7 @@
 
 # 🇪🇸 Madrid, Barcelona & Iberia
 
-**9 open roles.** 2 in the United States & Canada · 7 elsewhere in the world.
+**8 open roles.** 2 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -63,13 +63,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Madrid</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Madrid/Deals---Associate-Data-Scientist_758092WD">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Skydance</strong></td>
-<td><a href="https://trueinterview.io/jobs/0bfb454a-7e61-4909-8b1a-47b45c1bbe66">Pipeline Engineer Trainee</a></td>
-<td>Madrid</td>
-<td align="center"><a href="https://jobs.lever.co/skydance/ddbb6dd7-0ec1-403a-876b-85208ad02b84/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Dkb Code Factory</strong></td>

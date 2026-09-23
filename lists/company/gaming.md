@@ -2,7 +2,7 @@
 
 # 🎮 Gaming & interactive
 
-**17 open roles.** 13 in the United States & Canada · 4 elsewhere in the world. Games, game engines and interactive entertainment.
+**16 open roles.** 12 in the United States & Canada · 4 elsewhere in the world. Games, game engines and interactive entertainment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -93,13 +93,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Mateo, CA, United States</td>
 <td align="center"><a href="https://careers.roblox.com/jobs/8060254?gh_jid=8060254">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Epic Games</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ca072da-64a6-4f43-b1a0-56fb09a65cdc">Technical Designer in Animation</a></td>
-<td>BLANK, BLANK, Multiple Locations<br/>Cary, North Carolina, United States</td>
-<td align="center"><a href="https://epicgames.com/careers/jobs/6148215004?gh_jid=6148215004">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Kabam</strong></td>

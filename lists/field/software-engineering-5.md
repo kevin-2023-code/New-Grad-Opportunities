@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,669 open roles.** 1,318 in the United States & Canada · 351 elsewhere in the world.
+**1,647 open roles.** 1,300 in the United States & Canada · 347 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,146 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Dkb Code Factory</strong></td>
-<td><a href="https://trueinterview.io/jobs/6845053b-53f1-4e66-909d-e2d87f18ed7d">QA Engineer</a></td>
-<td>Valencia, Spain</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/dkbcodefactory/jobs/7821469003">Apply</a></td>
-<td align="center">15 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Litellm</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac49af94-b8f4-47c8-aa37-b2c739e6a19a">Forward Deployed Engineer - India</a></td>
-<td>India</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/litellm/b0879986-2e6d-4167-b2db-3246b5db3d76/application">Apply</a></td>
-<td align="center">15 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SHEIN</strong></td>
-<td><a href="https://trueinterview.io/jobs/05f8f466-0a1c-4d5e-8cb7-3a4131d8df59">Database Engineer</a></td>
-<td>San Diego</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/shein/jobs/5391659008">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Tiffany &amp; Co.</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac6a096e-ecd3-40bf-be16-8ba0ef34f141">PTME Testing Power Electronics Engineer</a></td>
-<td>Irapuato, GUA, Mexico</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/62808">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Zip</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a4a2198-2c45-45aa-8193-aa2c02798559">Demo Engineer</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/zip/532f6e01-217b-4561-bcb7-e2475ae0c98a/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Incident.io</strong></td>
-<td><a href="https://trueinterview.io/jobs/c5cfb39a-c7f6-47d6-8471-4aa57b0e8a84">Product Engineer</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/incident/b4edacb2-1008-476f-9b96-d5c9f39b81a9/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Guidepoint Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/bc2c2472-e887-4b9e-891e-5e92df4592d9">Microsoft Security Engineer- Remote (Anywhere in the U.S.)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6144417004?gh_jid=6144417004">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Kiss My Apps</strong></td>
-<td><a href="https://trueinterview.io/jobs/9db031f4-3bc0-4e21-924e-8e9be5a00343">Android Developer</a></td>
-<td>Ukraine</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/kissmyapps/8533c309-3850-4d32-a2f6-be64d68a1f2e/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>New Era Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce235da8-6cbc-439d-845a-83ef3121932a">Entry Level Support Engineer</a></td>
-<td>New Zealand - Manukau<br/>Australia-New Zealand<br/>New Zealand - Henderson</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/neweratech/jobs/8692912002">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Canva</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b272123-9c3d-40cc-a64a-8d9454294e3b">Frontend Engineer - Product Features</a></td>
-<td>Sydney, NSW, Australia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Canva/6000000001313514-frontend-engineer-product-features-?oga=true">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Blueprint Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/524a1802-d462-414a-be9b-64b82bc81bea">Substrate PAVC Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/bpcs/jobs/8129208">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Dexmate</strong></td>
-<td><a href="https://trueinterview.io/jobs/16db42fb-f807-4b2b-bdc2-98f26acd6f7d">Software Quality &amp; Release Engineering</a></td>
-<td>Fremont Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/dexmate/8b03f42a-37da-4934-9d32-6f9650081e9b/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Latamcent</strong></td>
-<td><a href="https://trueinterview.io/jobs/e58ec862-7702-4bef-8d99-c982112b5ff9">InDesign Automation Developer</a></td>
-<td>Brazil<br/>Argentina<br/>Peru<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/latamcent/57d975c5-ebfc-4adb-ab86-9681348ab2ca/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Trawa</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a60c0c4-7513-4dd8-b1e0-4ebc1bf89c50">Operations &amp; Automation Engineer – Renewable Energy</a></td>
-<td>Berlin HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/trawa/0bad5ca2-95a8-4f5a-8a37-cd7892f97bd7/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>GitLab</strong></td>
-<td><a href="https://trueinterview.io/jobs/635de9ed-7444-408c-8d3a-9324ff6da26f">Backend Engineer, Create: Repository Management (Ruby)</a> 🌐</td>
-<td>Remote — United Kingdom</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8687932002">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Snowflake</strong></td>
-<td><a href="https://trueinterview.io/jobs/40e8cbdc-259b-439e-bdcd-14d8c0de60d5">Associate Solution Engineer</a></td>
-<td>GB-London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/a2a81d70-4235-4885-9f89-d2c4bc7f28a4/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anaplan</strong></td>
-<td><a href="https://trueinterview.io/jobs/2401fa71-8edd-4535-9f74-2bd097bbf0a6">Engineer I</a></td>
-<td>Gurugram - Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anaplan/jobs/8636271002">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Limble</strong></td>
-<td><a href="https://trueinterview.io/jobs/dbe15fe4-e353-42d5-87d9-753876763f0d">Salesforce Platform Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/limble/35137a07-3143-4f00-9572-8ecd2a2cf6f8/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lia</strong></td>
-<td><a href="https://trueinterview.io/jobs/810e3f2e-4a0c-4d7c-ba66-63e93f2d4ef5">PL Desenvolvimento Full Stack Mobile (Flutter/Java)</a></td>
-<td>São Paulo - BR<br/>Remoto</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/ilia/jobs/6142586004">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>ElevenLabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a09aff4-a869-4755-ab12-6e7b70781830">Martech Engineer</a></td>
-<td>London<br/>Spain<br/>Poland<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/b6b6aca9-e9bc-4a6c-955d-60adbbe56d51/application">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>Welo Global</strong></td>
 <td><a href="https://trueinterview.io/jobs/9d31d7a3-f783-4bc0-894b-6b2645052334">Hydrus Audio Engineer</a></td>
@@ -204,13 +64,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ea2215fd-66bc-4d4a-8ea9-20523b3a2555">Prinicipal Engineer</a></td>
 <td>NZ: Auckland: Xero 4 (96 St Georges Bay Rd, Level 2 &amp; 3)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/xero/8dd95e1d-5376-41a7-a8b1-4dc88f392134/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ci&amp;t</strong></td>
-<td><a href="https://trueinterview.io/jobs/0cba8033-12f4-463a-ab65-5ef9620eb374">[Job-30932] Master Developer | ServiceNow, Brazil</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://jobs.lever.co/ciandt/6c2b9509-699b-49e7-ac78-5a10e78014e8/apply">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
@@ -400,13 +253,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ca52ac0a-6da2-4379-b371-8ad3c3d6c545">Detection Engineer</a></td>
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/f9df85c5-bcb0-4d75-9728-775e746a0383/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>The Exploration Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a17bae0-180f-4cb9-89d7-8749962ee2a3">Valve Development Engineer</a></td>
-<td>Bordeaux, France</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/d7e4eb95-b95d-4418-b5f1-c430411c9a27/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>

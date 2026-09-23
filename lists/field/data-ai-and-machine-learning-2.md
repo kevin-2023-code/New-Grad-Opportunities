@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**433 open roles.** 294 in the United States & Canada · 139 elsewhere in the world.
+**429 open roles.** 292 in the United States & Canada · 137 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,27 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Ci&amp;t</strong></td>
-<td><a href="https://trueinterview.io/jobs/b70a288a-f328-4a25-9744-c055666e45b2">[Job - 31308] Specialist AWS Data Developer, Brasil</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://jobs.lever.co/ciandt/c78866f3-6345-4eab-a1a2-7636df5a3d36/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Sanmar</strong></td>
-<td><a href="https://trueinterview.io/jobs/18dc38e5-16eb-4c8e-83bf-e27b7df7119d">Data Analyst, MH&amp;P</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://boards.greenhouse.io/sanmar/jobs/5221996007?gh_jid=5221996007">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/31555971-49bc-4b93-8cff-39cc4dd23866">Data Analyst BI (banco de talentos)</a></td>
-<td>Mexico City</td>
-<td align="center"><a href="https://www.monks.com/careers/6162594004/job?gh_jid=6162594004">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>Hexa</strong></td>
 <td><a href="https://trueinterview.io/jobs/9d8242d0-09af-4a07-9507-10f44f4f313f">AI Applied Researcher</a></td>
@@ -57,13 +36,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/72ed6e30-970a-45e1-999b-f47d1cee2388">Data Analyst</a></td>
 <td>Burnaby</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/opusclip/7dda1449-644f-4b10-a98b-7087d0e684b6/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Phizenix</strong></td>
-<td><a href="https://trueinterview.io/jobs/0d5b18ba-ba10-432b-aaa0-3cab4ec342d3">LLM / Agentic Evaluation Rig Engineer</a></td>
-<td>Hyderabad, India (Hybrid)<br/>Phizenix</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/phizenix/jobs/5398766008">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>

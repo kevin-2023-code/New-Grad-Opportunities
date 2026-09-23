@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**73 open roles.** 61 in the United States & Canada · 12 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**72 open roles.** 60 in the United States & Canada · 12 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -282,13 +282,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chicago, IL<br/>Chicago, United States of America<br/>Cleveland, United States of America<br/>+1 more</td>
 <td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Chicago-United-States-of-America/Solution-Engineer-IAM--IGA--SME-----Central_JR-021413">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Verkada</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ce5f6d8-bcb7-4032-80cd-1e1c374b588c">GRC Engineer</a></td>
-<td>San Mateo, CA United States<br/>Bay-HQ office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5219548007">Apply</a></td>
-<td align="center">23 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Vanta</strong></td>

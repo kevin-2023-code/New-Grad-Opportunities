@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**162 open roles.** 106 in the United States & Canada · 56 elsewhere in the world.
+**158 open roles.** 104 in the United States & Canada · 54 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,13 +43,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ca030dfa-2bb2-427d-ae20-774d3db14bab">AI Engineer</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States, New York, New York, United States<br/>Austin - Hybrid<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/gyde/jobs/4413465009">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Brunswick Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/0dae74ca-54ea-4d32-a053-a33cfaeecb68">AI Engineer</a></td>
-<td>Dallas, Texas, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/brunswickgroup/jobs/8821383002">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -386,13 +379,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dfd4a10b-2ba0-42f7-8b0a-710916b0473e">AI Engineer - Assistant Experience</a></td>
 <td>London<br/>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/build/1eac54d0-ec02-401c-a6fc-42b41dfb74c4/application">Apply</a></td>
-<td align="center">29 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0e8d915c-3666-4196-a6c5-17d1928b0cb1">AI Engineer - Assistant Capabilities</a></td>
-<td>London<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/build/fa3959af-f28e-4127-8bea-29ee207bf274/application">Apply</a></td>
 <td align="center">29 Aug 2026</td>
 </tr>
 <tr>
@@ -912,13 +898,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Intact Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/096da831-df34-4716-a1a3-809c66d53045">AI Developer I, HK - Winter 2027</a></td>
-<td>Hong Kong Science Park, HK</td>
-<td align="center"><a href="https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Hong-Kong-Science-Park-HK/AI-Developer-I--HK---Winter-2027_R155622-1">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Improbable</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ba188f0-c770-4d71-a782-2fe30edc59a0">AI Researcher - Bolter</a> 🌐</td>
 <td>Remote</td>
@@ -1078,13 +1057,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Paris</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/hexa/8ab7f165-f414-49ab-875e-1442ebd43d5d/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Phizenix</strong></td>
-<td><a href="https://trueinterview.io/jobs/0d5b18ba-ba10-432b-aaa0-3cab4ec342d3">LLM / Agentic Evaluation Rig Engineer</a></td>
-<td>Hyderabad, India (Hybrid)<br/>Phizenix</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/phizenix/jobs/5398766008">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Creatoriq</strong></td>

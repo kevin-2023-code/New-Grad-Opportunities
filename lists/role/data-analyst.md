@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**42 open roles.** 19 in the United States & Canada · 23 elsewhere in the world.
+**43 open roles.** 20 in the United States & Canada · 23 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,6 +86,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>Austin, Texas, United States<br/>TX - Austin</td>
 <td align="center"><a href="https://boards.greenhouse.io/hippo70/jobs/8767349002?gh_jid=8767349002">Apply</a></td>
 <td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mirego</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a864782-c23e-4189-886d-99a93863e9fd">Spécialiste, recherche produit numérique</a></td>
+<td>Montréal, QC<br/>Québec, QC</td>
+<td align="center"><a href="https://jobs.lever.co/mirego/3e376c52-7eaf-4ced-9086-940510b4735f/apply">Apply</a></td>
+<td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Diligent Robotics</strong></td>

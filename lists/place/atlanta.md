@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**23 open roles.**
+**22 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -156,13 +156,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Georgia - Atlanta, United States of America<br/>Illinois - Chicago<br/>New York - New York<br/>+8 more</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Forward-Deployed-Engineer--FDE----Agentforce-Orchestration_JR357427">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hawk Eye Innovations (hei</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e08bb25-5777-4b5d-a00d-34e43caefc12">Hardware Operations Engineer – Baseball</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hawkeyeinnovations/a4bd828f-1a41-4fcb-ba4b-8e445421d310/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Splunk</strong></td>

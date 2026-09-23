@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**60 open roles.** 55 in the United States & Canada · 5 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**59 open roles.** 54 in the United States & Canada · 5 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -305,14 +305,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Netflix</strong></td>
-<td><a href="https://trueinterview.io/jobs/0dfa4b6f-4714-435a-80f2-34efe2f97fb6">Integration Engineer - Talent Technology Engineering</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317801472">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bf682f6e-3026-47e1-ad6f-21993da39bde">AI Research Scientist, Physical AI</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/2947322545617694/">Apply</a></td>

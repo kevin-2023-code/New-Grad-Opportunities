@@ -2,7 +2,7 @@
 
 # 🇮🇳 Bengaluru & India
 
-**34 open roles.**
+**33 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -214,13 +214,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bangalore, India<br/>India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8721229002">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Phizenix</strong></td>
-<td><a href="https://trueinterview.io/jobs/0d5b18ba-ba10-432b-aaa0-3cab4ec342d3">LLM / Agentic Evaluation Rig Engineer</a></td>
-<td>Hyderabad, India (Hybrid)<br/>Phizenix</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/phizenix/jobs/5398766008">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Bespoke Labs</strong></td>

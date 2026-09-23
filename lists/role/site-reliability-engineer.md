@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**20 open roles.** 13 in the United States & Canada · 7 elsewhere in the world.
+**19 open roles.** 13 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -160,13 +160,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/1e36b5a7-588b-417b-b3e1-3599ede2b84b">IC3 - Infra Engineer - SRE</a></td>
 <td>Ciudad de México, México<br/>NETPAY S.A.P.I DE C.V</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/spin/jobs/4728319005">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Strobe Power</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e5634e6-ab21-48d0-9dc2-3088a7798955">Strobe Power / Site Reliability Engineer / ONSITE (SF) /</a></td>
-<td>ONSITE (SF)</td>
-<td align="center"><a href="https://strobepower.com/">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 </tbody>

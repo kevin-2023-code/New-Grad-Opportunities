@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**156 open roles.** 77 in the United States & Canada · 79 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**155 open roles.** 78 in the United States & Canada · 77 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Redhorse Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f00367d-eaf3-46f1-8a98-914896421b81">Database Engineer</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://jobs.lever.co/redhorsecorp/6a95eaba-e901-4b4d-9744-78f8caca1755/apply">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Accenture Federal Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/b200afc2-5c63-4102-8079-8b631e3a5b1d">Cloud DevOps Engineer</a></td>
@@ -919,14 +926,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>New Era Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/6767dbd5-e196-4e79-8e26-ec7169f9a65e">Service Desk Engineer</a></td>
-<td>Newcastle<br/>Australia-New Zealand</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/neweratech/jobs/8763897002">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PwC</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ab9345bb-8dfe-468e-9eca-29f20f76bd56">Data Engineer expérimenté F/H</a></td>
 <td>Montpellier</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Montpellier/Data-Engineer-expriment-F-H_759196WD">Apply</a></td>
@@ -1057,13 +1057,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brazil<br/>Argentina<br/>Peru<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/latamcent/57d975c5-ebfc-4adb-ab86-9681348ab2ca/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ci&amp;t</strong></td>
-<td><a href="https://trueinterview.io/jobs/0cba8033-12f4-463a-ab65-5ef9620eb374">[Job-30932] Master Developer | ServiceNow, Brazil</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://jobs.lever.co/ciandt/6c2b9509-699b-49e7-ac78-5a10e78014e8/apply">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Telus Digital</strong></td>

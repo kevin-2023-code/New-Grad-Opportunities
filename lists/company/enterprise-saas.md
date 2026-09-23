@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**143 open roles.** 102 in the United States & Canada · 41 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**141 open roles.** 101 in the United States & Canada · 40 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -683,13 +683,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Greenhouse</strong></td>
-<td><a href="https://trueinterview.io/jobs/09eb68a4-fc3c-48f4-af1f-18de499d5881">GTM Engineer</a></td>
-<td>Anywhere in the United States<br/>United States of America</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/greenhouse/jobs/8112905?gh_jid=8112905">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Nooks</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e22a25a-2612-49b6-b8ef-f91734ea56a0">Solutions Engineer</a></td>
 <td>United States (Any Time Zone)</td>
@@ -839,13 +832,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/95c07bf3-9ed7-4384-a288-e47ed8750789">Product Support Engineer - EMEA</a></td>
 <td>United Kingdom<br/>Belgium<br/>Italy<br/>+11 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/ashby/2d03f0fe-2f3c-4c8e-9b89-7c6a35f9e7a4/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Autodesk</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac06440d-7320-4211-8779-d35abe18daec">Software Engineer</a></td>
-<td>Ireland<br/>Birmingham, United Kingdom<br/>San Francisco, CA, USA, United States of America</td>
-<td align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100611-1">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>

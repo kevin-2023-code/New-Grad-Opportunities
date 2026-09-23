@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**86 open roles.** 55 in the United States & Canada · 31 elsewhere in the world. A real classification that none of the other sectors covers.
+**81 open roles.** 51 in the United States & Canada · 30 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5439edcb-4320-4ffc-8ff3-9c045180e48d">Print Designer (Temporary, 3-month term)</a></td>
 <td>San Francisco, California, United States<br/>San Francisco HQ</td>
 <td align="center"><a href="https://www.viz.com/company-jobs?gh_jid=5240003007">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Schimenti Construction Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a901211-c289-4e03-8238-b40b6f54bcc9">Project Engineer</a></td>
-<td>New York, NY<br/>Rye Brook, New York, United States<br/>Rye Brook, NY<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/schimenticonstructioncompany/jobs/6195158004">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -144,13 +137,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0b15f84e-315c-4c16-b73d-b25e7cbcbe2d">Apparel Product Developer</a></td>
-<td>Beverly Hills, California, United States<br/>Headquarters</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fambrands/jobs/5414634008">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Buck Mason</strong></td>
 <td><a href="https://trueinterview.io/jobs/2d197a25-183e-4853-9260-cadc8076c3f8">Designer: Women's Cut &amp; Sew Knits (CONTRACTOR)</a></td>
 <td>Los Angeles, CA</td>
@@ -169,13 +155,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7a802c38-3015-4a4a-9148-11a87bac6f59">Help Desk Technician I</a></td>
 <td>Los Angeles, CA - Vernon, CA</td>
 <td align="center"><a href="https://gtslivingfoods.com/pages/job-board?gh_jid=4706557006">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Michels Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/0bf8ced4-82e3-4a75-b8e9-3c210a29d93f">Estimator, Dredging &amp; Marine - Michels Construction, Inc.</a></td>
-<td>Milwaukee, WI</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4965963101">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
@@ -347,13 +326,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Hawk Eye Innovations (hei</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e08bb25-5777-4b5d-a00d-34e43caefc12">Hardware Operations Engineer – Baseball</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hawkeyeinnovations/a4bd828f-1a41-4fcb-ba4b-8e445421d310/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Sinclair Broadcast Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/e89f0d45-364c-4126-a8d4-aec2fd659eea">Videographer/Editor</a></td>
 <td>Syracuse, NY, United States</td>
@@ -510,13 +482,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/347545e2-54fc-446c-a217-079c1fb4349a">Streaming Technical Support Analyst</a></td>
 <td>Medellín, Antioquia, Colombia<br/>Medellin, Colombia</td>
 <td align="center"><a href="https://boards.greenhouse.io/geniussports/jobs/7983804003?gh_jid=7983804003">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Skydance</strong></td>
-<td><a href="https://trueinterview.io/jobs/0bfb454a-7e61-4909-8b1a-47b45c1bbe66">Pipeline Engineer Trainee</a></td>
-<td>Madrid</td>
-<td align="center"><a href="https://jobs.lever.co/skydance/ddbb6dd7-0ec1-403a-876b-85208ad02b84/apply">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**133 open roles.** 98 in the United States & Canada · 35 elsewhere in the world.
+**132 open roles.** 98 in the United States & Canada · 34 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -58,6 +58,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Wichita, Kansas, United States<br/>Morrisville, North Carolina, United States</td>
 <td align="center"><a href="https://careers.netapp.com/job/wichita/technical-support-engineer/27600/100842220816">Apply</a></td>
 <td align="center">19 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Foodsmart</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d7216b4-6b48-4178-915f-1df4ac5160d0">Member Support Representative Tier 1 (Part-Time)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.lever.co/foodsmart/53857a63-197e-497e-b59b-0cce499b164b/apply">Apply</a></td>
+<td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Hermeus</strong></td>
@@ -515,13 +522,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Pma Consultants Careers</strong></td>
-<td><a href="https://trueinterview.io/jobs/0dada088-f7f5-47e6-87d6-be23651b542b">Junior Systems Administrator (00597)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://jobs.lever.co/pmaconsultants/5d7f3178-e7d5-401f-9259-d2f48c7b3d74/apply">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Intelligent Technical Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/66c4cf6f-1bfb-43b5-88bf-cdef17f5b710">IT Technician II Onsite (Dallas, TX)</a></td>
 <td>Dallas, Texas<br/>Onsite</td>
@@ -777,13 +777,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Budapest, Hungary</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8180700/apply/?gh_jid=8180700">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>New Era Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/6767dbd5-e196-4e79-8e26-ec7169f9a65e">Service Desk Engineer</a></td>
-<td>Newcastle<br/>Australia-New Zealand</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/neweratech/jobs/8763897002">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Jetsupport</strong></td>

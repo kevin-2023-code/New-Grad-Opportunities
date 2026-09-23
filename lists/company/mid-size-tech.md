@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**111 open roles.** 81 in the United States & Canada · 30 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**110 open roles.** 80 in the United States & Canada · 30 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -498,13 +498,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9ee8afbf-d9a9-4a73-8a2b-12271c4b7d55">IT Systems Engineer - Internal Platforms &amp; SRE</a></td>
 <td>San Francisco Office (Fremont St)<br/>San Jose Office (First St)<br/>San Francisco Office (Second St)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lambda/904bd81c-7826-4728-a597-9138cd812c8f/application">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Greenhouse</strong></td>
-<td><a href="https://trueinterview.io/jobs/09eb68a4-fc3c-48f4-af1f-18de499d5881">GTM Engineer</a></td>
-<td>Anywhere in the United States<br/>United States of America</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/greenhouse/jobs/8112905?gh_jid=8112905">Apply</a></td>
 <td align="center">7 Aug 2026</td>
 </tr>
 <tr>

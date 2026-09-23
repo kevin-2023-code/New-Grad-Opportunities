@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**203 open roles.**
+**202 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -228,13 +228,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Schimenti Construction Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a901211-c289-4e03-8238-b40b6f54bcc9">Project Engineer</a></td>
-<td>New York, NY<br/>New York, New York, United States<br/>Rye Brook, New York, United States<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/schimenticonstructioncompany/jobs/6195158004">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Vercel</strong></td>
 <td><a href="https://trueinterview.io/jobs/81882e72-2178-4ca0-844a-c6eb0a6eb98c">Software Engineer, Platform</a></td>
 <td>Hybrid - San Francisco, New York City<br/>Remote - United States</td>
@@ -323,6 +316,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6934b196-56cc-4fcd-8f66-a486bbdde269">Product Engineer</a></td>
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/seqholdings/7ab66292-f81b-4a58-a0f0-6fbafd54061a/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Robinhood</strong></td>
+<td><a href="https://trueinterview.io/jobs/0c275d8c-fc68-473f-bcc1-af9ed925bcaf">Associate Product Manager (New Grad)</a></td>
+<td>New York, NY<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8199973?t=gh_src=&amp;gh_jid=8199973">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
@@ -827,13 +827,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a2a5cf76-42cf-4257-997a-ad1db9ed5c95">IT Operations Engineer</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/claylabs/8d842974-0bee-4b13-bad5-dcc34848f69c/application">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Rogo</strong></td>
-<td><a href="https://trueinterview.io/jobs/0cb7acf3-b671-4459-a9bf-9ecabb5b94e2">GTM Systems Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rogo/f841b833-2bb0-444c-a41d-5bf16ace0612/application">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>

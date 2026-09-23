@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**19 open roles.** 12 in the United States & Canada · 7 elsewhere in the world.
+**18 open roles.** 11 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -65,13 +65,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Canada</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/levio/jobs/8766410002">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Elastic N.V.</strong></td>
-<td><a href="https://trueinterview.io/jobs/0da3bea8-2fe4-4cd9-b3cb-46d70a831a17">UX &amp; Front End Engineer, AI</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.elastic.co/jobs?gh_jid=8154995&amp;gh_jid=8154995">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Courtavenue</strong></td>
