@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**13 open roles.**
+**14 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Kelso Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/15301feb-7755-4e00-9244-0b45ff2c198e">Commercial HVAC Estimator</a></td>
+<td>Ogden, UT<br/>Kelso Building Services</td>
+<td align="center"><a href="https://careers.kelso-industries.com/?gh_jid=5433414008">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Kelso Building Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2a58b44-6bd7-45b6-a0db-28604fb8fd7a">Commercial HVAC Estimator</a></td>
+<td>Ogden, UT<br/>Kelso Building Services</td>
+<td align="center"><a href="https://kelsobuildingservices.com/careers/?gh_jid=5433300008">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Pure Storage</strong></td>
 <td><a href="https://trueinterview.io/jobs/7aad2f4a-a71f-41ac-b7ac-5c338c5c1a5b">Platform Services Engineer, Advanced Services (Professional Services)</a></td>
@@ -50,13 +64,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9c5b875d-5390-4c0b-b97f-44afa015cfc3">Estimator</a></td>
 <td>Ogden, UT<br/>Kelso Building Services</td>
 <td align="center"><a href="https://kelso-industries.com/careers/?gh_jid=5406998008">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Kelso Building Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/313b3951-f2a4-4719-ac72-efc8480fb12d">Estimator</a></td>
-<td>Ogden, UT<br/>Kelso Building Services</td>
-<td align="center"><a href="https://kelsobuildingservices.com/careers/?gh_jid=5406992008">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>

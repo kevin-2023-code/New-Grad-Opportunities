@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**10 open roles.**
+**9 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -58,13 +58,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
 <td align="center"><a href="https://jobs.workable.com/view/xbKabfTJTFCmaiQQFBPRTG/commercial-development-engineer-in-calgary-at-altalink">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Egis Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/11aa94fc-081c-4cef-ab3d-49e7a44653cb">Junior Engineer, Bridges - Engineer in Training</a></td>
-<td>Calgary, AB, Canada</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000144388219-junior-engineer-bridges-engineer-in-training?oga=true">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Fullscript</strong></td>

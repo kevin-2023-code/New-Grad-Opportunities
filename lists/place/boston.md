@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**67 open roles.**
+**65 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -410,13 +410,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Aspire Living &amp; Learning</strong></td>
-<td><a href="https://trueinterview.io/jobs/1069bf88-d0ae-489f-a29f-37ec3b94de98">IT Support Specialist I</a></td>
-<td>Leominster, Massachusetts</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/allinc/jobs/8693657002">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Splunk</strong></td>
 <td><a href="https://trueinterview.io/jobs/2d60fd46-6a00-4ade-9c32-2ffe8c5640ff">Applied AI Scientist</a></td>
 <td>Boston, Massachusetts, United States of America<br/>Cambridge, Massachusetts, United States of America<br/>Seattle, Washington, United States of America<br/>+31 more</td>
@@ -477,13 +470,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bc0eed8c-b526-4cd6-b89d-1a57e9c2844c">Product Leader, Finance Engineering</a></td>
 <td>Boston, MA<br/>San Francisco, CA</td>
 <td align="center"><a href="https://www.klaviyo.com/careers/jobs/7827030003?gh_jid=7827030003">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Dash0</strong></td>
-<td><a href="https://trueinterview.io/jobs/12967527-b249-49d6-b60d-f6853a158206">Commercial Solutions Engineer - East Coast</a></td>
-<td>Boston, MA<br/>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/dash0/74840150-e9ef-43ef-99b4-91a8adcaf296/application">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 </tbody>

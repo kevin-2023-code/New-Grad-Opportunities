@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**429 open roles.** 292 in the United States & Canada · 137 elsewhere in the world.
+**428 open roles.** 294 in the United States & Canada · 134 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -78,13 +78,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/bf8a47ea-fd20-458f-91ab-e807f47e02f7">Research Scientist I/II, Immunology</a></td>
 <td>San Diego HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/iambic-therapeutics/41e94f6a-c5ea-4c52-b527-e2976a08347d/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/10c92346-e423-4a77-bb73-c178f9413fc2">Neuroscience PhD / ML Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/clera/be63c5be-3f5f-4d6d-b4ee-a322823d7051/application">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>
