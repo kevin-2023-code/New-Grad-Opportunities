@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**692 open roles.** 438 in the United States & Canada · 254 elsewhere in the world.
+**696 open roles.** 438 in the United States & Canada · 258 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -294,6 +294,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Astra North Infoteck Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/c417fd48-18af-4a96-b2cb-047e363bf150">software developer</a></td>
+<td>Mirabel (QC)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50347862">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/63132288-b6c6-41ec-bf05-1cc2dce64e6c">Software Engineer (Enterprise Integrations)</a></td>
 <td>United Kingdom</td>
@@ -326,6 +333,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/787fd8af-53fe-4284-bc4d-5520fb1381df">Semantic Software Engineer</a></td>
 <td>Madrid, Spain</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/ntt-ltd/jobs/semantic-software-engineer_madrid_ND_mzKykpA">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Reactive Markets</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b9da75e-27e5-45c5-a298-5a078f398e6f">C++ Software Engineer</a></td>
+<td>United Kingdom</td>
+<td align="center"><a href="https://himalayas.app/companies/reactive-markets/jobs/c-software-engineer-6501183275">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>SkiptheDishes</strong></td>
+<td><a href="https://trueinterview.io/jobs/e77d744c-934e-4a7c-a283-740c5b6ce1db">software developer</a></td>
+<td>Not Available</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50347875">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>The Gifted Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/b99fa3eb-f943-4384-a7bc-997e2e4f2bfd">REMOTE JAVA DEVELOPER / FAMILIAR WITH JAVA, SPRING BOOT, SQL, CLOUD, KUBERNETES</a></td>
+<td>Sri Lanka</td>
+<td align="center"><a href="https://himalayas.app/companies/the-gifted-company/jobs/remote-java-developer-familiar-with-java-spring-boot-sql-cloud-kubernetes-8580999192">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>

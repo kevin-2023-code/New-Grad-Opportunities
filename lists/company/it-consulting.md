@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**283 open roles.** 90 in the United States & Canada · 193 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**285 open roles.** 90 in the United States & Canada · 195 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -660,6 +660,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/669ec919-12c5-4ad1-b9cf-3784bc2144cd">Data engineer confirmé</a></td>
+<td>Grenoble, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/capgemini/jobs/data-engineer-confirme_grenoble_CAPGE_5MA1m42">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>NTT DATA</strong></td>
 <td><a href="https://trueinterview.io/jobs/c4a17563-13e3-4ad4-8054-0f95935c59fc">Java Software Engineer</a></td>
 <td>Ciudad Real, Spain</td>
@@ -678,6 +685,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/787fd8af-53fe-4284-bc4d-5520fb1381df">Semantic Software Engineer</a></td>
 <td>Madrid, Spain</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/ntt-ltd/jobs/semantic-software-engineer_madrid_ND_mzKykpA">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfd32831-ccb8-45fc-9d17-487949412717">IN_Senior Associate_.Net Full stack Developer_GCC_Advisory_Bangalore</a></td>
+<td>Hyderabad - Salarpuria</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-QA-Automation-GCC-Advisory-Bangalore_746443WD">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>

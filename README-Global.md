@@ -18,17 +18,17 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-23 05:48 UTC_
+_Last updated: 2026-09-23 11:21 UTC_
 
-**1,121 open new-grad roles** from **661 employers** · **274 posted in the last 7 days** · refreshed hourly
+**1,134 open new-grad roles** from **670 employers** · **286 posted in the last 7 days** · refreshed hourly
 
-### Browse 1,121 new-grad roles by field
+### Browse 1,134 new-grad roles by field
 
-💻 **[Software Engineering](#-software-engineering)** (653)
+💻 **[Software Engineering](#-software-engineering)** (662)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (355)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (358)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (21)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (22)
 
 📱 **[Product & Design](#-product--design)** (44)
 
@@ -40,9 +40,9 @@ _Last updated: 2026-09-23 05:48 UTC_
 
 ### 🔥 Posting the most this week
 
-**Mistral AI** 16 &nbsp;·&nbsp; **PwC** 12 &nbsp;·&nbsp; **Amazon** 8 &nbsp;·&nbsp; **Wavestone** 7 &nbsp;·&nbsp; **Bjak** 6 &nbsp;·&nbsp; **Adobe** 4 &nbsp;·&nbsp; **Sopra Steria** 4 &nbsp;·&nbsp; **Canonical** 3 &nbsp;·&nbsp; **Ci&t** 3 &nbsp;·&nbsp; **Cloudflare** 3 &nbsp;·&nbsp; **EWOR GmbH** 3 &nbsp;·&nbsp; **eXalt** 3
+**Mistral AI** 16 &nbsp;·&nbsp; **PwC** 13 &nbsp;·&nbsp; **Amazon** 8 &nbsp;·&nbsp; **Wavestone** 7 &nbsp;·&nbsp; **Bjak** 6 &nbsp;·&nbsp; **Adobe** 4 &nbsp;·&nbsp; **Sopra Steria** 4 &nbsp;·&nbsp; **Canonical** 3 &nbsp;·&nbsp; **Ci&t** 3 &nbsp;·&nbsp; **Cloudflare** 3 &nbsp;·&nbsp; **EWOR GmbH** 3 &nbsp;·&nbsp; **eXalt** 3
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 28 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 29 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -50,13 +50,13 @@ _Last updated: 2026-09-23 05:48 UTC_
 
 _Counts are new-grad roles in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🧾 IT services & consulting (193)](lists/company/it-consulting.md) · [🏗️ Large tech (1,000–9,999) (114)](lists/company/large-tech.md) · [🏤 Mid-sized tech (200–999) (87)](lists/company/mid-size-tech.md) · [🌱 Startups (under 200) (81)](lists/company/startups.md) · [🏢 Enterprise & business software (80)](lists/company/enterprise-saas.md) · [☁️ Developer tools, cloud & data infrastructure (79)](lists/company/dev-infra.md) · [💳 Fintech, payments & crypto (79)](lists/company/fintech.md) · [🧠 AI labs & AI infrastructure (74)](lists/company/ai.md) · [🏛️ Big Tech (59)](lists/company/big-tech.md) · [🏦 Banks, insurers & asset managers (53)](lists/company/banking-finance.md) · [+14 more →](lists/README.md)
+🏷️ **By company type** — [🧾 IT services & consulting (195)](lists/company/it-consulting.md) · [🏗️ Large tech (1,000–9,999) (114)](lists/company/large-tech.md) · [🏤 Mid-sized tech (200–999) (87)](lists/company/mid-size-tech.md) · [🌱 Startups (under 200) (82)](lists/company/startups.md) · [🏢 Enterprise & business software (80)](lists/company/enterprise-saas.md) · [☁️ Developer tools, cloud & data infrastructure (79)](lists/company/dev-infra.md) · [💳 Fintech, payments & crypto (79)](lists/company/fintech.md) · [🧠 AI labs & AI infrastructure (74)](lists/company/ai.md) · [🏛️ Big Tech (59)](lists/company/big-tech.md) · [🏦 Banks, insurers & asset managers (53)](lists/company/banking-finance.md) · [+14 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (254)](lists/role/software-engineer.md) · [Data Engineer (144)](lists/role/data-engineer.md) · [AI Engineer (129)](lists/role/ai-engineer.md) · [Full-Stack Engineer (53)](lists/role/full-stack-engineer.md) · [Backend Engineer (37)](lists/role/backend-engineer.md) · [DevOps Engineer (34)](lists/role/devops-engineer.md) · [Security Engineer (34)](lists/role/security-engineer.md) · [Machine Learning Engineer (32)](lists/role/machine-learning-engineer.md) · [Data Scientist (25)](lists/role/data-scientist.md) · [Mobile Engineer (24)](lists/role/mobile-engineer.md) · [+11 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (258)](lists/role/software-engineer.md) · [Data Engineer (147)](lists/role/data-engineer.md) · [AI Engineer (129)](lists/role/ai-engineer.md) · [Full-Stack Engineer (54)](lists/role/full-stack-engineer.md) · [Backend Engineer (37)](lists/role/backend-engineer.md) · [DevOps Engineer (34)](lists/role/devops-engineer.md) · [Security Engineer (34)](lists/role/security-engineer.md) · [Machine Learning Engineer (32)](lists/role/machine-learning-engineer.md) · [Mobile Engineer (27)](lists/role/mobile-engineer.md) · [Data Scientist (25)](lists/role/data-scientist.md) · [+11 more →](lists/README.md)
 
-📍 **By location** — [🇫🇷 Paris & France (186)](lists/place/france.md) · [🇬🇧 London & the UK (97)](lists/place/uk.md) · [🌎 México, Brazil & Latin America (53)](lists/place/latam.md) · [🇮🇳 Bengaluru & India (33)](lists/place/india.md) · [🇩🇪 Berlin, Munich & Germany (22)](lists/place/germany.md) · [🇪🇸 Madrid, Barcelona & Iberia (22)](lists/place/iberia.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (17)](lists/place/anz.md) · [🏰 Warsaw, Kraków & Central Europe (15)](lists/place/poland-cee.md) · [🇸🇬 Singapore (12)](lists/place/singapore.md) · [🌍 Dubai, Cairo, Lagos & Africa (11)](lists/place/mena-africa.md) · [+5 more →](lists/README.md)
+📍 **By location** — [🇫🇷 Paris & France (188)](lists/place/france.md) · [🇬🇧 London & the UK (97)](lists/place/uk.md) · [🌎 México, Brazil & Latin America (53)](lists/place/latam.md) · [🇮🇳 Bengaluru & India (34)](lists/place/india.md) · [🇩🇪 Berlin, Munich & Germany (22)](lists/place/germany.md) · [🇪🇸 Madrid, Barcelona & Iberia (22)](lists/place/iberia.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (17)](lists/place/anz.md) · [🏰 Warsaw, Kraków & Central Europe (15)](lists/place/poland-cee.md) · [🇸🇬 Singapore (12)](lists/place/singapore.md) · [🌍 Dubai, Cairo, Lagos & Africa (11)](lists/place/mena-africa.md) · [+5 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (274)](lists/new-this-week.md) · [🌐 Remote (126)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (286)](lists/new-this-week.md) · [🌐 Remote (127)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -80,10 +80,38 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Astra North Infoteck Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/c417fd48-18af-4a96-b2cb-047e363bf150">software developer</a> 🆕</td>
+<td>Mirabel (QC)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50347862">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/63132288-b6c6-41ec-bf05-1cc2dce64e6c">Software Engineer (Enterprise Integrations)</a> 🆕</td>
 <td>United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/cloudflare/jobs/software-engineer-security-rules_gb_yiz7smvc">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>DBServices Portugal</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf3716a5-5cde-4d88-b471-4c6de421f6f8">Android Developer</a> 🆕</td>
+<td>—</td>
+<td align="center"><a href="https://himalayas.app/companies/dbservices-portugal/jobs/android-developer-2462608764">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Evaneos</strong></td>
+<td><a href="https://trueinterview.io/jobs/6436a35e-4501-44c5-bb19-57423bcb43a7">Platform Engineer (DevOps/SRE)</a> 🆕 🌐</td>
+<td>Remote — France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/evaneos/jobs/platform-engineer_paris_EVANE_rZaG0ZO">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Gaana</strong></td>
+<td><a href="https://trueinterview.io/jobs/48870e8f-cac8-4d70-989c-2952a8d28c2d">Android Developer</a> 🆕</td>
+<td>India</td>
+<td align="center"><a href="https://himalayas.app/companies/gaana/jobs/android-developer">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -119,6 +147,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/787fd8af-53fe-4284-bc4d-5520fb1381df">Semantic Software Engineer</a> 🆕</td>
 <td>Madrid, Spain</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/ntt-ltd/jobs/semantic-software-engineer_madrid_ND_mzKykpA">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Pacio</strong></td>
+<td><a href="https://trueinterview.io/jobs/826ea12a-d9aa-498d-bb8e-fe6e98e2f5b9">Native Android Java Developer - Fulltime - REMOTE - Startup</a> 🆕</td>
+<td>Austria</td>
+<td align="center"><a href="https://himalayas.app/companies/pacio/jobs/native-android-java-developer-fulltime-remote-startup-6625206987">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfd32831-ccb8-45fc-9d17-487949412717">IN_Senior Associate_.Net Full stack Developer_GCC_Advisory_Bangalore</a> 🆕</td>
+<td>Hyderabad - Salarpuria</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-QA-Automation-GCC-Advisory-Bangalore_746443WD">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Reactive Markets</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b9da75e-27e5-45c5-a298-5a078f398e6f">C++ Software Engineer</a> 🆕</td>
+<td>United Kingdom</td>
+<td align="center"><a href="https://himalayas.app/companies/reactive-markets/jobs/c-software-engineer-6501183275">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>ROUTE06</strong></td>
+<td><a href="https://trueinterview.io/jobs/a66abfc4-8ff7-4846-babc-079869a668f3">SRE (Site Reliability Engineer)</a> 🆕</td>
+<td>Japan</td>
+<td align="center"><a href="https://himalayas.app/companies/route06/jobs/sre-site-reliability-engineer-2454337679">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>SkiptheDishes</strong></td>
+<td><a href="https://trueinterview.io/jobs/e77d744c-934e-4a7c-a283-740c5b6ce1db">software developer</a> 🆕</td>
+<td>Not Available</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50347875">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>The Gifted Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/b99fa3eb-f943-4384-a7bc-997e2e4f2bfd">REMOTE JAVA DEVELOPER / FAMILIAR WITH JAVA, SPRING BOOT, SQL, CLOUD, KUBERNETES</a> 🆕</td>
+<td>Sri Lanka</td>
+<td align="center"><a href="https://himalayas.app/companies/the-gifted-company/jobs/remote-java-developer-familiar-with-java-spring-boot-sql-cloud-kubernetes-8580999192">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -182,76 +252,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7a7c185f-79f1-4551-b19d-749ca1578163">Back-End Developer (Job ID: 2266)</a> 🆕</td>
 <td>India</td>
 <td align="center"><a href="https://himalayas.app/companies/conversenow-ai/jobs/back-end-developer-job-id-2266-2823013905">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td><strong>EBC Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea5fd2fa-0abe-4b6a-91c8-5f6d5959362f">Azure Java Developer</a> 🆕</td>
-<td>Malaysia</td>
-<td align="center"><a href="https://himalayas.app/companies/ebc-group/jobs/azure-java-developer-8474081753">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td><strong>EUROPEAN DYNAMICS</strong></td>
-<td><a href="https://trueinterview.io/jobs/9dfe0712-1e60-4ae7-80ca-ffc768dfbb32">MS Dynamics Developer</a> 🆕</td>
-<td>Belgium</td>
-<td align="center"><a href="https://himalayas.app/companies/european-dynamics/jobs/ms-dynamics-developer">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td><strong>Infiterra</strong></td>
-<td><a href="https://trueinterview.io/jobs/5badf13f-5edf-49e8-bcec-b7fc910ad4e4">Systems Engineer</a> 🆕</td>
-<td>Greece</td>
-<td align="center"><a href="https://himalayas.app/companies/infiterra/jobs/systems-engineer">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td><strong>KPMG Australia</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c65ffd8-47ff-4f00-8d23-4cdf51e0bf2a">AWS Cloud Engineer Consultant</a> 🆕</td>
-<td>India</td>
-<td align="center"><a href="https://himalayas.app/companies/kpmg-australia/jobs/aws-cloud-engineer-consultant">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td><strong>Levven Electronics Ltd.</strong></td>
-<td><a href="https://trueinterview.io/jobs/4838d095-650e-4a0f-8ce4-a87dc930674c">devops engineer</a> 🆕</td>
-<td>Edmonton (AB)</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50343852">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td><strong>Manulife</strong></td>
-<td><a href="https://trueinterview.io/jobs/98677f3b-8f1a-4b86-8733-9fd189c97f0c">Cloud Engineer, Canadian Segment Technology</a> 🆕</td>
-<td>2 Locations</td>
-<td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Senior-Cloud-Engineer_JR26021743-1">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/1dbc0c5d-b8a2-4552-b653-55a60fd86415">QA Automation Engineer, Cloud Orchestrations</a> 🆕</td>
-<td>Israel, Tel Aviv</td>
-<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/QA-Automation-Engineer--Cloud-Orchestrations_JR2025739">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td><strong>QUAYO Mobility</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb4eac00-8270-42ec-9d18-6677b9b08723">Back End Developer</a> 🆕</td>
-<td>Lebanon</td>
-<td align="center"><a href="https://himalayas.app/companies/quayo-mobility/jobs/back-end-developer-5661388690">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td><strong>Scalepex</strong></td>
-<td><a href="https://trueinterview.io/jobs/a2535e26-c467-4342-844b-bae5a711a67f">UI UX Full Stack Engineer - Fully Remote - Mexico Only</a> 🆕</td>
-<td>Mexico</td>
-<td align="center"><a href="https://himalayas.app/companies/scalepex/jobs/ui-ux-full-stack-engineer-fully-remote-mexico-only-6734421198">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td><strong>Société Générale</strong></td>
-<td><a href="https://trueinterview.io/jobs/faa1cc46-19f1-49a6-9fbd-e24216601294">Software Engineer</a> 🆕</td>
-<td>La Défense, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/societe-generale/jobs/software-engineer_la-defense_SG_Q5RXdPj">Apply</a></td>
 <td align="center">1d</td>
 </tr>
 </tbody>
@@ -620,7 +620,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 75 of 653.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 662.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -636,6 +636,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/190a0e15-4f22-479a-8b4c-709441116668">Data Engineer</a> 🆕</td>
 <td>Brazil</td>
 <td align="center"><a href="https://himalayas.app/companies/a3data/jobs/data-engineer-7242908750">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>ArianeGroup</strong></td>
+<td><a href="https://trueinterview.io/jobs/43db4b4b-0a3f-4f4a-abe0-2c6079c6d4d6">CDI - Data Engineer (F/H)</a> 🆕</td>
+<td>Le Haillan, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/arianegroup/jobs/cdi-data-engineer-f-h_le-haillan">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/669ec919-12c5-4ad1-b9cf-3784bc2144cd">Data engineer confirmé</a> 🆕</td>
+<td>Grenoble, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/capgemini/jobs/data-engineer-confirme_grenoble_CAPGE_5MA1m42">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Safran</strong></td>
+<td><a href="https://trueinterview.io/jobs/abed435a-ca8e-4189-b011-cd04ecabf818">Data Engineer AWS / Snowflake Expérimenté-e F/H</a> 🆕</td>
+<td>Châteaufort, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/safran/jobs/data-engineer-aws-snowflake-experimente-e-f-h_chateaufort">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -758,13 +779,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">1d</td>
 </tr>
 <tr>
-<td><strong>Cyberhaven</strong></td>
-<td><a href="https://trueinterview.io/jobs/01e26f47-1ba5-4d1e-af28-3697981b8457">Data Protection Analyst</a> 🆕</td>
-<td>Mexico</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cyberhaven/57d30893-079e-4e7b-923d-c2fac5974163/application">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
 <td><strong>Devsavant Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/e4f735e0-6097-4af2-b3d0-a5004f60c8ca">Data Analytics Engineer</a> 🆕</td>
 <td>LATAM</td>
@@ -790,20 +804,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/881676fd-64a1-49ab-84d7-145d36ed6817">AI Research Lab AI/ML Engineer (100 % remote) (m/f/d)</a> 🆕</td>
 <td>—</td>
 <td align="center"><a href="https://himalayas.app/companies/ewor-gmbh/jobs/ai-research-lab-ai-ml-engineer-100-remote-m-f-d">Apply</a></td>
-<td align="center">2d</td>
-</tr>
-<tr>
-<td><strong>eXalt</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e16fa7a-5321-499e-8f74-608c0bfe5683">Data engineer Azure Databricks</a> 🆕</td>
-<td>Brussels, Belgium</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/exalt/jobs/data-engineer-azure-databricks_bruxelles">Apply</a></td>
-<td align="center">2d</td>
-</tr>
-<tr>
-<td><strong>Innovamat</strong></td>
-<td><a href="https://trueinterview.io/jobs/6eec8e55-8d82-49ba-a841-7c113cc4aba2">AI Engineer (Marketing Systems)</a> 🆕</td>
-<td>Sant Cugat del Vallès, Spain</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/innovamat/jobs/ai-engineer-marketing-systems_sant-cugat-del-valles_f3smru7w">Apply</a></td>
 <td align="center">2d</td>
 </tr>
 </tbody>
@@ -1172,7 +1172,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 75 of 355.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 75 of 358.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -1188,7 +1188,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/dd4a12e4-b543-4848-92cc-f5620bb6a187">Mechanical Process Engineer, Product Engineering</a></td>
 <td>CN, 31, Shanghai<br/>CN, 44, Shenzhen</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10553042/mechanical-process-engineer-product-engineering">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
+</tr>
+<tr>
+<td><strong>Intesa Sanpaolo</strong></td>
+<td><a href="https://trueinterview.io/jobs/025f592d-598d-4a4d-9dcd-b9b9fbecd046">Apple Systems Engineer</a></td>
+<td>Milano, Italy</td>
+<td align="center"><a href="https://4dayweek.io/job/apple-systems-engineer-at-intesa-sanpaolo-1c42b2b3">Apply</a></td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>

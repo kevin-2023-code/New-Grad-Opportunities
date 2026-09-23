@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**868 open roles.** 594 in the United States & Canada · 274 elsewhere in the world. Everything the employers put up this week.
+**879 open roles.** 593 in the United States & Canada · 286 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/72eead91-6d44-401e-9a88-8d99fada724a">Embedded Software Engineer</a></td>
+<td>Milpitas, CA, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Embedded-Software-Engineer_2636490">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/69dbc981-c26b-4c09-94d8-9dd90f6737e8">Engineering Change Order (ECO) Analyst (Enovia|PLM|ERP|MES|SAP)</a></td>
 <td>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Configuration-Analyst_2633863">Apply</a></td>
@@ -1359,20 +1366,6 @@
 <td align="center"><a href="https://jobs.ashbyhq.com/clickup/db838181-610f-44bc-9813-575457c0da21/application">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/8ed13cca-ceb6-4b2d-a996-e64a8cb3c4fa">Support Engineer I, MLDOPs</a></td>
-<td>IN, TN, Chennai</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10541351/support-engineer-i-mldops">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/3cf8afc7-2deb-4821-981e-b7a4b219d4d8">Software Engineer, Code Quality</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>New York, NY<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8202736">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1393,10 +1386,52 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>ArianeGroup</strong></td>
+<td><a href="https://trueinterview.io/jobs/43db4b4b-0a3f-4f4a-abe0-2c6079c6d4d6">CDI - Data Engineer (F/H)</a></td>
+<td>Le Haillan, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/arianegroup/jobs/cdi-data-engineer-f-h_le-haillan">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Astra North Infoteck Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/c417fd48-18af-4a96-b2cb-047e363bf150">software developer</a></td>
+<td>Mirabel (QC)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50347862">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/669ec919-12c5-4ad1-b9cf-3784bc2144cd">Data engineer confirmé</a></td>
+<td>Grenoble, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/capgemini/jobs/data-engineer-confirme_grenoble_CAPGE_5MA1m42">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/63132288-b6c6-41ec-bf05-1cc2dce64e6c">Software Engineer (Enterprise Integrations)</a></td>
 <td>United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/cloudflare/jobs/software-engineer-security-rules_gb_yiz7smvc">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DBServices Portugal</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf3716a5-5cde-4d88-b471-4c6de421f6f8">Android Developer</a></td>
+<td>—</td>
+<td align="center"><a href="https://himalayas.app/companies/dbservices-portugal/jobs/android-developer-2462608764">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Evaneos</strong></td>
+<td><a href="https://trueinterview.io/jobs/6436a35e-4501-44c5-bb19-57423bcb43a7">Platform Engineer (DevOps/SRE)</a> 🌐</td>
+<td>Remote — France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/evaneos/jobs/platform-engineer_paris_EVANE_rZaG0ZO">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Gaana</strong></td>
+<td><a href="https://trueinterview.io/jobs/48870e8f-cac8-4d70-989c-2952a8d28c2d">Android Developer</a></td>
+<td>India</td>
+<td align="center"><a href="https://himalayas.app/companies/gaana/jobs/android-developer">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -1435,10 +1470,59 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Pacio</strong></td>
+<td><a href="https://trueinterview.io/jobs/826ea12a-d9aa-498d-bb8e-fe6e98e2f5b9">Native Android Java Developer - Fulltime - REMOTE - Startup</a></td>
+<td>Austria</td>
+<td align="center"><a href="https://himalayas.app/companies/pacio/jobs/native-android-java-developer-fulltime-remote-startup-6625206987">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfd32831-ccb8-45fc-9d17-487949412717">IN_Senior Associate_.Net Full stack Developer_GCC_Advisory_Bangalore</a></td>
+<td>Hyderabad - Salarpuria</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-QA-Automation-GCC-Advisory-Bangalore_746443WD">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Reactive Markets</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b9da75e-27e5-45c5-a298-5a078f398e6f">C++ Software Engineer</a></td>
+<td>United Kingdom</td>
+<td align="center"><a href="https://himalayas.app/companies/reactive-markets/jobs/c-software-engineer-6501183275">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>ROUTE06</strong></td>
+<td><a href="https://trueinterview.io/jobs/a66abfc4-8ff7-4846-babc-079869a668f3">SRE (Site Reliability Engineer)</a></td>
+<td>Japan</td>
+<td align="center"><a href="https://himalayas.app/companies/route06/jobs/sre-site-reliability-engineer-2454337679">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Safran</strong></td>
+<td><a href="https://trueinterview.io/jobs/abed435a-ca8e-4189-b011-cd04ecabf818">Data Engineer AWS / Snowflake Expérimenté-e F/H</a></td>
+<td>Châteaufort, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/safran/jobs/data-engineer-aws-snowflake-experimente-e-f-h_chateaufort">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Sainsbury's</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a63c515-0a52-4761-a5c0-86ef3b52429f">AI/ML Engineer</a></td>
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/ai-ml-engineer-at-sainsburys-83fd1858">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>SkiptheDishes</strong></td>
+<td><a href="https://trueinterview.io/jobs/e77d744c-934e-4a7c-a283-740c5b6ce1db">software developer</a></td>
+<td>Not Available</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50347875">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>The Gifted Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/b99fa3eb-f943-4384-a7bc-997e2e4f2bfd">REMOTE JAVA DEVELOPER / FAMILIAR WITH JAVA, SPRING BOOT, SQL, CLOUD, KUBERNETES</a></td>
+<td>Sri Lanka</td>
+<td align="center"><a href="https://himalayas.app/companies/the-gifted-company/jobs/remote-java-developer-familiar-with-java-spring-boot-sql-cloud-kubernetes-8580999192">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -1726,13 +1810,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/538dcd8c-5007-423c-a252-04e6d97ceee3">Coordenator Data Analyst</a></td>
 <td>Brazil</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydropx/15dc51e3-512c-45a2-b429-2e838103940e/application">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cyberhaven</strong></td>
-<td><a href="https://trueinterview.io/jobs/01e26f47-1ba5-4d1e-af28-3697981b8457">Data Protection Analyst</a></td>
-<td>Mexico</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cyberhaven/57d30893-079e-4e7b-923d-c2fac5974163/application">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -2749,83 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Puteaux, France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/consultant-e-agentic-genai-engineer-jeune-diplome-e-h-f_puteaux">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/03daa029-6c14-47a8-ad61-7e5a97b67bdb">Consultant·e Data et AI Engineer – Jeune diplômé·e (H/F)</a></td>
-<td>Puteaux, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/consultant-e-data-et-ai-engineer-jeune-diplome-e-h-f_puteaux">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9bb1ba3f-f1b5-4ef5-b041-2842aeeff65d">Consultant·e Machine Learning &amp; AI Engineer – Jeune diplômé·e (H/F)</a></td>
-<td>Puteaux, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/consultant-e-machine-learning-ai-engineer-jeune-diplome-e-h-f_puteaux">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b89cc84e-8c64-4884-9616-4cc48e8c3edb">Stage de fin d'études - Consultant·e Agentic &amp; GenAI Engineer (H/F)</a></td>
-<td>Puteaux, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/stage-de-fin-d-etudes-consultant-e-agentic-genai-engineer-h-f_puteaux">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/96580256-99bc-401d-83c7-f5868f28eea7">Stage de fin d'études - Consultant·e Data et AI Engineer (H/F)</a></td>
-<td>Puteaux, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/stage-de-fin-d-etudes-consultant-e-data-et-ai-engineer-h-f_puteaux">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/43355b02-2a7c-46b7-95e2-4078839f8d54">Stage de fin d'études - Consultant·e Machine Learning &amp; AI Engineer (H/F)</a></td>
-<td>Puteaux, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/stage-de-fin-d-etudes-consultant-e-machine-learning-ai-engineer-h-f_puteaux">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>YAKEEY</strong></td>
-<td><a href="https://trueinterview.io/jobs/34067f32-4fc1-4e8d-adb2-b40d1724521a">QA Automation Engineer</a></td>
-<td>Casablanca, Morocco</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/yakeey-mea/jobs/senior-qa-automation">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>C6 Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/e74f33be-0671-4339-8251-c46d545112c6">Pessoa Desenvolvedora IOS |  Core Business Products Engineering</a></td>
-<td>São Paulo, Brazil<br/>C6 Bank</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4734634005">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Arista Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/efd88f84-9504-44dd-9e58-f8d554d60d09">Software Engineer Graduate 2026/2027</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149958449-software-engineer-graduate-2026-2027?oga=true">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Iterable</strong></td>
-<td><a href="https://trueinterview.io/jobs/0583b68d-ef50-4873-9389-90f0831f45cf">Software Engineer</a></td>
-<td>Lisbon<br/>Hybrid - Lisbon, Portugal</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/iterable/jobs/8093090">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Oddball</strong></td>
-<td><a href="https://trueinterview.io/jobs/13005335-f7f1-472a-ba0b-0232c32581ff">DevOps Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/oddball/jobs/7997629003">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Gorjana</strong></td>
-<td><a href="https://trueinterview.io/jobs/9eb53f78-071c-474d-a558-66eb8d629973">Graphic Designer</a></td>
-<td>Hybrid<br/>HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gorjana/jobs/8815247002">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 </tbody>
 </table>

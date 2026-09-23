@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**868 open roles.** 594 in the United States & Canada · 274 elsewhere in the world. Everything the employers put up this week.
+**879 open roles.** 593 in the United States & Canada · 286 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,83 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Wavestone</strong></td>
+<td><a href="https://trueinterview.io/jobs/03daa029-6c14-47a8-ad61-7e5a97b67bdb">Consultant·e Data et AI Engineer – Jeune diplômé·e (H/F)</a></td>
+<td>Puteaux, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/consultant-e-data-et-ai-engineer-jeune-diplome-e-h-f_puteaux">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9bb1ba3f-f1b5-4ef5-b041-2842aeeff65d">Consultant·e Machine Learning &amp; AI Engineer – Jeune diplômé·e (H/F)</a></td>
+<td>Puteaux, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/consultant-e-machine-learning-ai-engineer-jeune-diplome-e-h-f_puteaux">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b89cc84e-8c64-4884-9616-4cc48e8c3edb">Stage de fin d'études - Consultant·e Agentic &amp; GenAI Engineer (H/F)</a></td>
+<td>Puteaux, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/stage-de-fin-d-etudes-consultant-e-agentic-genai-engineer-h-f_puteaux">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/96580256-99bc-401d-83c7-f5868f28eea7">Stage de fin d'études - Consultant·e Data et AI Engineer (H/F)</a></td>
+<td>Puteaux, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/stage-de-fin-d-etudes-consultant-e-data-et-ai-engineer-h-f_puteaux">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/43355b02-2a7c-46b7-95e2-4078839f8d54">Stage de fin d'études - Consultant·e Machine Learning &amp; AI Engineer (H/F)</a></td>
+<td>Puteaux, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/wavestone/jobs/stage-de-fin-d-etudes-consultant-e-machine-learning-ai-engineer-h-f_puteaux">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>YAKEEY</strong></td>
+<td><a href="https://trueinterview.io/jobs/34067f32-4fc1-4e8d-adb2-b40d1724521a">QA Automation Engineer</a></td>
+<td>Casablanca, Morocco</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/yakeey-mea/jobs/senior-qa-automation">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>C6 Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/e74f33be-0671-4339-8251-c46d545112c6">Pessoa Desenvolvedora IOS |  Core Business Products Engineering</a></td>
+<td>São Paulo, Brazil<br/>C6 Bank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4734634005">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Arista Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/efd88f84-9504-44dd-9e58-f8d554d60d09">Software Engineer Graduate 2026/2027</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149958449-software-engineer-graduate-2026-2027?oga=true">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Iterable</strong></td>
+<td><a href="https://trueinterview.io/jobs/0583b68d-ef50-4873-9389-90f0831f45cf">Software Engineer</a></td>
+<td>Lisbon<br/>Hybrid - Lisbon, Portugal</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/iterable/jobs/8093090">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Oddball</strong></td>
+<td><a href="https://trueinterview.io/jobs/13005335-f7f1-472a-ba0b-0232c32581ff">DevOps Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/oddball/jobs/7997629003">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Gorjana</strong></td>
+<td><a href="https://trueinterview.io/jobs/9eb53f78-071c-474d-a558-66eb8d629973">Graphic Designer</a></td>
+<td>Hybrid<br/>HQ</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gorjana/jobs/8815247002">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Loora</strong></td>
 <td><a href="https://trueinterview.io/jobs/ef676286-a291-4abc-8ad4-c072b75602b9">AI Researcher</a></td>

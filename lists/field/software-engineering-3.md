@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,187 open roles.** 1,534 in the United States & Canada · 653 elsewhere in the world.
+**2,194 open roles.** 1,532 in the United States & Canada · 662 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2571,20 +2571,6 @@
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/017bc2f2-082d-441f-8efa-c8bf754460b8">Field Application Engineer - Sacramento, CA - Temporary Part Time</a></td>
-<td>Sacramento, CA</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/5039bd1e-daab-4cb5-845f-80a1b4bd952e/apply">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Employer.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/005d1546-ee32-4daa-8119-bf21c1872731">Automation Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/level/ba2af9a3-bfac-49fd-9de4-73e833888b34/application">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Ford Motor Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7854ec5-73f1-4b05-9474-009c164594ac">New Model Programs Engineer</a></td>
 <td>Allen Park, MI, United States</td>
@@ -2813,6 +2799,20 @@
 <td><a href="https://trueinterview.io/jobs/77fe4366-bd73-4832-b52a-28f75a576b31">Front End Engineer, Marketing</a></td>
 <td>San Francisco, CA<br/>New York City, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5386971008">Apply</a></td>
+<td align="center">18 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>xAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebdcb208-66af-4eac-b48e-3a3a3a06c7e0">OSP Engineer</a></td>
+<td>Memphis, Tennessee<br/>Southaven, Mississippi<br/>Memphis, TN<br/>+1 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5215570007">Apply</a></td>
+<td align="center">18 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Langchain</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdcba768-963d-483c-a702-03fafcb8257c">Solutions Engineer (Chicago)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/langchain/98fcaa18-d323-49cd-b231-b2d4b905419d/application">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
 </tbody>

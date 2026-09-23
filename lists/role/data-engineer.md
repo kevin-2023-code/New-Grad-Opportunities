@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**211 open roles.** 67 in the United States & Canada · 144 elsewhere in the world.
+**214 open roles.** 67 in the United States & Canada · 147 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -503,6 +503,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/190a0e15-4f22-479a-8b4c-709441116668">Data Engineer</a></td>
 <td>Brazil</td>
 <td align="center"><a href="https://himalayas.app/companies/a3data/jobs/data-engineer-7242908750">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>ArianeGroup</strong></td>
+<td><a href="https://trueinterview.io/jobs/43db4b4b-0a3f-4f4a-abe0-2c6079c6d4d6">CDI - Data Engineer (F/H)</a></td>
+<td>Le Haillan, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/arianegroup/jobs/cdi-data-engineer-f-h_le-haillan">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/669ec919-12c5-4ad1-b9cf-3784bc2144cd">Data engineer confirmé</a></td>
+<td>Grenoble, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/capgemini/jobs/data-engineer-confirme_grenoble_CAPGE_5MA1m42">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Safran</strong></td>
+<td><a href="https://trueinterview.io/jobs/abed435a-ca8e-4189-b011-cd04ecabf818">Data Engineer AWS / Snowflake Expérimenté-e F/H</a></td>
+<td>Châteaufort, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/safran/jobs/data-engineer-aws-snowflake-experimente-e-f-h_chateaufort">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>

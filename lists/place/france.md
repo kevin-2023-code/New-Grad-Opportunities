@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**186 open roles.**
+**188 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/669ec919-12c5-4ad1-b9cf-3784bc2144cd">Data engineer confirmé</a></td>
+<td>Grenoble, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/capgemini/jobs/data-engineer-confirme_grenoble_CAPGE_5MA1m42">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Evaneos</strong></td>
+<td><a href="https://trueinterview.io/jobs/6436a35e-4501-44c5-bb19-57423bcb43a7">Platform Engineer (DevOps/SRE)</a> 🌐</td>
+<td>Remote — France<br/>Paris, France, Remote</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/evaneos/jobs/platform-engineer_paris_EVANE_rZaG0ZO">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Loft Orbital</strong></td>
 <td><a href="https://trueinterview.io/jobs/2e483835-cb15-4e62-9b34-c7058f29066a">Onboard Software Engineer - Hyperdrive</a></td>

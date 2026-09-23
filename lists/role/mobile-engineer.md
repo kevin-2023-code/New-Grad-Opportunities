@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**34 open roles.** 10 in the United States & Canada · 24 elsewhere in the world.
+**37 open roles.** 10 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -99,6 +99,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DBServices Portugal</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf3716a5-5cde-4d88-b471-4c6de421f6f8">Android Developer</a></td>
+<td>—</td>
+<td align="center"><a href="https://himalayas.app/companies/dbservices-portugal/jobs/android-developer-2462608764">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Gaana</strong></td>
+<td><a href="https://trueinterview.io/jobs/48870e8f-cac8-4d70-989c-2952a8d28c2d">Android Developer</a></td>
+<td>India</td>
+<td align="center"><a href="https://himalayas.app/companies/gaana/jobs/android-developer">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Pacio</strong></td>
+<td><a href="https://trueinterview.io/jobs/826ea12a-d9aa-498d-bb8e-fe6e98e2f5b9">Native Android Java Developer - Fulltime - REMOTE - Startup</a></td>
+<td>Austria</td>
+<td align="center"><a href="https://himalayas.app/companies/pacio/jobs/native-android-java-developer-fulltime-remote-startup-6625206987">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Bjak</strong></td>
 <td><a href="https://trueinterview.io/jobs/ffe9ac13-2670-4bbb-af0f-acfc5b15e456">iOS Software Engineer</a></td>

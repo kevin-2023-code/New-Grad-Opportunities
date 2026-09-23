@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**708 open roles.** 353 in the United States & Canada · 355 elsewhere in the world.
+**713 open roles.** 355 in the United States & Canada · 358 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bjak</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fb9b617-5ee3-4ce4-acb0-dbaf9a56d546">Applied AI Engineer - AI Finance Agent</a></td>
+<td>Taiwan</td>
+<td align="center"><a href="https://himalayas.app/companies/bjak/jobs/applied-ai-engineer-ai-finance-agent-8352750971">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>MSX International</strong></td>
+<td><a href="https://trueinterview.io/jobs/33b73a1d-9ef2-4eb8-96fa-04e4e9b94b1e">Data Engineer</a></td>
+<td>Rome, Italy</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/msx-international/jobs/data-engineer_rome">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Padoa</strong></td>
+<td><a href="https://trueinterview.io/jobs/07e73711-aa7e-46ab-9e2c-f35c9b13a4dc">Data Engineer Freelance (6 mois) F/H</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/padoa/jobs/data-engineer-freelance-6-mois-f-h_paris">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Particle41</strong></td>
+<td><a href="https://trueinterview.io/jobs/22710db1-be0f-42b2-9943-367265e45f49">Data Engineer (Elasticsearch + Datawarehousing)</a></td>
+<td>India</td>
+<td align="center"><a href="https://himalayas.app/companies/particle41/jobs/data-engineer-elasticsearch-datawarehousing-5495082346">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/84bd9c78-3fc6-44e9-962a-4d3b85981bb4">Data Engineer / FCU Technology Team</a></td>
@@ -1058,6 +1086,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f95e90c1-e8e3-41a3-8ab1-4be291fd8b7c">Data Analyst - 8 Month FTC</a></td>
 <td>London Office</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/allica-bank/71fb22e2-750b-4208-add0-aeaa73c0cd25/application">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Skydropx Frenet</strong></td>
+<td><a href="https://trueinterview.io/jobs/0000674d-9187-4328-bfa7-df2a61e7c38f">Product Analytics Coordinator</a></td>
+<td>México</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydropx/4eaa4745-9f7b-46df-9e41-b3cad560ba11/application">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>

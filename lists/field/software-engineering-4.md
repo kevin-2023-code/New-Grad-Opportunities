@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,187 open roles.** 1,534 in the United States & Canada · 653 elsewhere in the world.
+**2,194 open roles.** 1,532 in the United States & Canada · 662 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,20 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>xAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/ebdcb208-66af-4eac-b48e-3a3a3a06c7e0">OSP Engineer</a></td>
-<td>Memphis, Tennessee<br/>Southaven, Mississippi<br/>Memphis, TN<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5215570007">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Langchain</strong></td>
-<td><a href="https://trueinterview.io/jobs/fdcba768-963d-483c-a702-03fafcb8257c">Solutions Engineer (Chicago)</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/langchain/98fcaa18-d323-49cd-b231-b2d4b905419d/application">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>Nox Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/34225a23-390c-4adb-bc68-daebb599f01d">FIELD ENGINEER</a></td>
@@ -2366,10 +2352,38 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Astra North Infoteck Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/c417fd48-18af-4a96-b2cb-047e363bf150">software developer</a></td>
+<td>Mirabel (QC)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50347862">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/63132288-b6c6-41ec-bf05-1cc2dce64e6c">Software Engineer (Enterprise Integrations)</a></td>
 <td>United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/cloudflare/jobs/software-engineer-security-rules_gb_yiz7smvc">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DBServices Portugal</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf3716a5-5cde-4d88-b471-4c6de421f6f8">Android Developer</a></td>
+<td>—</td>
+<td align="center"><a href="https://himalayas.app/companies/dbservices-portugal/jobs/android-developer-2462608764">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Evaneos</strong></td>
+<td><a href="https://trueinterview.io/jobs/6436a35e-4501-44c5-bb19-57423bcb43a7">Platform Engineer (DevOps/SRE)</a> 🌐</td>
+<td>Remote — France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/evaneos/jobs/platform-engineer_paris_EVANE_rZaG0ZO">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Gaana</strong></td>
+<td><a href="https://trueinterview.io/jobs/48870e8f-cac8-4d70-989c-2952a8d28c2d">Android Developer</a></td>
+<td>India</td>
+<td align="center"><a href="https://himalayas.app/companies/gaana/jobs/android-developer">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -2405,6 +2419,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/787fd8af-53fe-4284-bc4d-5520fb1381df">Semantic Software Engineer</a></td>
 <td>Madrid, Spain</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/ntt-ltd/jobs/semantic-software-engineer_madrid_ND_mzKykpA">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Pacio</strong></td>
+<td><a href="https://trueinterview.io/jobs/826ea12a-d9aa-498d-bb8e-fe6e98e2f5b9">Native Android Java Developer - Fulltime - REMOTE - Startup</a></td>
+<td>Austria</td>
+<td align="center"><a href="https://himalayas.app/companies/pacio/jobs/native-android-java-developer-fulltime-remote-startup-6625206987">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfd32831-ccb8-45fc-9d17-487949412717">IN_Senior Associate_.Net Full stack Developer_GCC_Advisory_Bangalore</a></td>
+<td>Hyderabad - Salarpuria</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-QA-Automation-GCC-Advisory-Bangalore_746443WD">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Reactive Markets</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b9da75e-27e5-45c5-a298-5a078f398e6f">C++ Software Engineer</a></td>
+<td>United Kingdom</td>
+<td align="center"><a href="https://himalayas.app/companies/reactive-markets/jobs/c-software-engineer-6501183275">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>ROUTE06</strong></td>
+<td><a href="https://trueinterview.io/jobs/a66abfc4-8ff7-4846-babc-079869a668f3">SRE (Site Reliability Engineer)</a></td>
+<td>Japan</td>
+<td align="center"><a href="https://himalayas.app/companies/route06/jobs/sre-site-reliability-engineer-2454337679">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>SkiptheDishes</strong></td>
+<td><a href="https://trueinterview.io/jobs/e77d744c-934e-4a7c-a283-740c5b6ce1db">software developer</a></td>
+<td>Not Available</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50347875">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>The Gifted Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/b99fa3eb-f943-4384-a7bc-997e2e4f2bfd">REMOTE JAVA DEVELOPER / FAMILIAR WITH JAVA, SPRING BOOT, SQL, CLOUD, KUBERNETES</a></td>
+<td>Sri Lanka</td>
+<td align="center"><a href="https://himalayas.app/companies/the-gifted-company/jobs/remote-java-developer-familiar-with-java-spring-boot-sql-cloud-kubernetes-8580999192">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -2770,62 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Anywhere in the World</td>
 <td align="center"><a href="https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer">Apply</a></td>
 <td align="center">19 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lucidya</strong></td>
-<td><a href="https://trueinterview.io/jobs/bb4d0853-e5ea-431d-b63e-706245cccb6f">Frontend Software Engineer</a></td>
-<td>Riyadh, Saudi Arabia</td>
-<td align="center"><a href="https://4dayweek.io/job/frontend-software-engineer-at-lucidya-8fa81b9b">Apply</a></td>
-<td align="center">19 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>LUZA Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e394468-35ca-49b9-92df-41ad0e3f0ded">BI Developer/Analyst</a></td>
-<td>Portugal</td>
-<td align="center"><a href="https://himalayas.app/companies/luza-group/jobs/bi-developer-analyst">Apply</a></td>
-<td align="center">19 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Nagarro</strong></td>
-<td><a href="https://trueinterview.io/jobs/51d5223a-a59d-46da-ad96-fd0cdc545693">Test Automation Engineer</a></td>
-<td>Romania</td>
-<td align="center"><a href="https://himalayas.app/companies/nagarro/jobs/test-automation-engineer">Apply</a></td>
-<td align="center">19 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Questronix Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/25d0a244-e37c-4b37-a4d5-dac2c6509e57">React Native Developer</a></td>
-<td>Philippines</td>
-<td align="center"><a href="https://himalayas.app/companies/questronix-corporation/jobs/react-native-developer">Apply</a></td>
-<td align="center">19 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Scaleway</strong></td>
-<td><a href="https://trueinterview.io/jobs/287bc29e-292f-4564-82a0-7093f788384e">Full Stack Software Engineer (Python / React)</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/scaleway/jobs/software-engineer-hardware-development_paris_SCALE_QlqA6yk">Apply</a></td>
-<td align="center">19 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>The Quality Group GmbH</strong></td>
-<td><a href="https://trueinterview.io/jobs/daa832ed-1074-4ccb-81f0-03a417ac8a69">AI Security Engineer (gn)</a></td>
-<td>Germany</td>
-<td align="center"><a href="https://himalayas.app/companies/the-quality-group-gmbh/jobs/ai-security-engineer-gn">Apply</a></td>
-<td align="center">19 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Outreach</strong></td>
-<td><a href="https://trueinterview.io/jobs/f031b695-50cf-4f32-b7c5-121a664b74cf">Forward Deployed Engineer, Managed Services</a></td>
-<td>India</td>
-<td align="center"><a href="https://jobs.lever.co/outreach/13e953ce-8527-436c-be6c-55d3b659dd60/apply">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Fueled</strong></td>
-<td><a href="https://trueinterview.io/jobs/ebc6e70b-821f-45f3-9c5f-9db123bead5b">Full Stack Web Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fueledcareers/jobs/5428960008">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 </tbody>
 </table>

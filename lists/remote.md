@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**359 open roles.** 233 in the United States & Canada · 126 elsewhere in the world. Postings the pipeline classified as remote.
+**360 open roles.** 233 in the United States & Canada · 127 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1660,6 +1660,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Evaneos</strong></td>
+<td><a href="https://trueinterview.io/jobs/6436a35e-4501-44c5-bb19-57423bcb43a7">Platform Engineer (DevOps/SRE)</a> 🌐</td>
+<td>Remote — France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/evaneos/jobs/platform-engineer_paris_EVANE_rZaG0ZO">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Censys</strong></td>
 <td><a href="https://trueinterview.io/jobs/6f8be4fe-8cdd-4215-b383-9c1f3f83aacf">Security Engineer</a> 🌐</td>

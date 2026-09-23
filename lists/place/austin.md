@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**188 open roles.**
+**187 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1003,13 +1003,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, TX, Austin<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/89356?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Employer.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/005d1546-ee32-4daa-8119-bf21c1872731">Automation Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/level/ba2af9a3-bfac-49fd-9de4-73e833888b34/application">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>

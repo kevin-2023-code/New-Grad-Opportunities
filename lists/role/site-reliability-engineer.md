@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**34 open roles.** 18 in the United States & Canada · 16 elsewhere in the world.
+**35 open roles.** 18 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -155,6 +155,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ROUTE06</strong></td>
+<td><a href="https://trueinterview.io/jobs/a66abfc4-8ff7-4846-babc-079869a668f3">SRE (Site Reliability Engineer)</a></td>
+<td>Japan</td>
+<td align="center"><a href="https://himalayas.app/companies/route06/jobs/sre-site-reliability-engineer-2454337679">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Binance</strong></td>
 <td><a href="https://trueinterview.io/jobs/3ad819c3-ea15-4283-b59f-4725b5185798">Site Reliability Engineer</a></td>
