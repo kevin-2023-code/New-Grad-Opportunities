@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**204 open roles.** 64 in the United States & Canada · 140 elsewhere in the world.
+**206 open roles.** 64 in the United States & Canada · 142 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -478,10 +478,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Deloitte</strong></td>
+<td><a href="https://trueinterview.io/jobs/281b64eb-5d94-4c53-ab35-a6ccaed8921a">Data Engineer Confirmé F/H</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/deloitte/jobs/data-engineer-confirme-f-h_paris">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Haiku</strong></td>
 <td><a href="https://trueinterview.io/jobs/3a7d1b31-bd1b-44ba-902b-3c4d8c11b329">Alternance Data Engineer (H/F)</a> 🌐</td>
 <td>Remote — France</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/clerk/jobs/alternant-data-engineer-h-f">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f68ef8a-d8b6-4761-9a05-44cfd829f858">Stage - Data Engineer - Services Publics - Nantes</a></td>
+<td>Nantes, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/sopra-steria/jobs/stage-data-engineer-services-publics-nantes_nantes_SS_2Vgd6xr">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>

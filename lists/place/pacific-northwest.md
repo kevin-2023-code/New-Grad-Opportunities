@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**84 open roles.**
+**86 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,9 +19,23 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/55714a4d-270e-4df5-82e8-6279fd89e84b">Quantum Qubit Design Engineer</a></td>
+<td>US, Oregon, Hillsboro, United States of America<br/>US, Pennsylvania, Allentown<br/>US, New York, New York<br/>+5 more</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Quantum-Qubit-Design-Engineer_JR0287330">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/098dd4b7-72e3-4cbb-bdfc-ea78111e93d2">Strategic Layout Industrial Engineer</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Strategic-Layout-Industrial-Engineer_JR0287339">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/38697c99-5e56-48fa-9744-841caa4e1918">Supply Chain Engineer</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Supply-Chain-Engineer_JR0287345">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>

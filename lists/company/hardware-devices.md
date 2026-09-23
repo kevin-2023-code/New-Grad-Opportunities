@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**218 open roles.** 191 in the United States & Canada · 27 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**217 open roles.** 190 in the United States & Canada · 27 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -722,13 +722,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fbb073cc-52ca-4493-8465-d56d43bab895">Software Developer Cloud &amp; Distributed Systems</a></td>
 <td>San Juan, Puerto Rico, Puerto Rico</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Software-Developer-Cloud---Distributed-Systems_1213218-2">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/857b9b57-6a0f-4371-8bef-28a6fda306d4">R&amp;D Engineer 1</a></td>
-<td>US-CA-Santa Rosa-Bldg 3<br/>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54213?lang=en-us">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**59 open roles.** 23 in the United States & Canada · 36 elsewhere in the world.
+**60 open roles.** 23 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -195,6 +195,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7a7c185f-79f1-4551-b19d-749ca1578163">Back-End Developer (Job ID: 2266)</a></td>
 <td>India</td>
 <td align="center"><a href="https://himalayas.app/companies/conversenow-ai/jobs/back-end-developer-job-id-2266-2823013905">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>QUAYO Mobility</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb4eac00-8270-42ec-9d18-6677b9b08723">Back End Developer</a></td>
+<td>Lebanon</td>
+<td align="center"><a href="https://himalayas.app/companies/quayo-mobility/jobs/back-end-developer-5661388690">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>

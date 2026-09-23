@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**215 open roles.**
+**219 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Govsignals</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9c50e2c-4dd6-49bb-b76d-2a3b555e74d3">Product Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/govsignals/72598f7e-94bb-4d67-a143-8e6104d08359/application">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Factory</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8e1dd4c-2458-4ffb-b617-cb73b83b1308">Solutions Engineer, Enterprise, East</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/factory/ac88b205-8906-4ec4-8b51-c4b23b8b2958/application">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Novig</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ed7bf9a-9694-469a-bade-3e21a9096862">IT Specialist</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/novig/0644d8e3-7d35-486f-8666-a2988ddad3c4/application">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Rebar</strong></td>
 <td><a href="https://trueinterview.io/jobs/d8c80e5d-365e-4915-a4aa-02afb5031919">Software Engineer, Product</a></td>
 <td>New York City</td>
@@ -29,6 +50,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d585993e-443b-49ac-921d-ef09aaed96e6">Software Engineer (Beneficial Deployments)</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/anthropic/jobs/software-engineer-beneficial-deployments_new-york_tudb32gv">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/55714a4d-270e-4df5-82e8-6279fd89e84b">Quantum Qubit Design Engineer</a></td>
+<td>US, New York, New York<br/>US, Oregon, Hillsboro, United States of America<br/>US, Pennsylvania, Allentown<br/>+5 more</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Quantum-Qubit-Design-Engineer_JR0287330">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>

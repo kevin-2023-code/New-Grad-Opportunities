@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**104 open roles.** 61 in the United States & Canada · 43 elsewhere in the world. A real classification that none of the other sectors covers.
+**105 open roles.** 62 in the United States & Canada · 43 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Novig</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ed7bf9a-9694-469a-bade-3e21a9096862">IT Specialist</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/novig/0644d8e3-7d35-486f-8666-a2988ddad3c4/application">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Accorhotel</strong></td>
 <td><a href="https://trueinterview.io/jobs/06c7daf7-e524-41a3-bbf1-8195b147e95b">Engineer Apprentice</a></td>

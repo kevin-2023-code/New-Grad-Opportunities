@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,162 open roles.** 1,515 in the United States & Canada · 647 elsewhere in the world.
+**2,172 open roles.** 1,523 in the United States & Canada · 649 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,76 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nabla</strong></td>
+<td><a href="https://trueinterview.io/jobs/32ef1606-0186-47c7-a1a7-a7a8a698e23c">Backend engineer</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/nabla/jobs/backend-engineer_paris">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>New Market Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a077472-4946-4136-831f-cc7db5b55cbd">cloud developer</a></td>
+<td>Newmarket (ON)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50314622">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Our Future Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/60132f42-3e86-4fee-927d-bd17fbcf69bd">Software Engineer (Typescript &amp; Node)</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/our-future-health/jobs/software-engineer-typescript-node_london_lk4b464e">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Particle41</strong></td>
+<td><a href="https://trueinterview.io/jobs/68d5451f-873d-4177-a71e-f134001b7f67">Frontend Developer</a></td>
+<td>India</td>
+<td align="center"><a href="https://himalayas.app/companies/particle41/jobs/frontend-developer-2401899528">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/72d9713c-eda9-4bc6-b6b9-917ca123693a">Full Stack Developer</a></td>
+<td>3 Locations</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Toronto/Full-Stack-Developer_761839WD">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c35370e4-8510-4000-bc35-7a082b3fa69c">IN_Senior Associate_.NET Full Stack Developer_MS Engg_Advisory_Gurgaon</a></td>
+<td>Gurugram Downtown 4</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-Downtown-4/IN-Senior-Associate-Automation-QA-Digital-Integration-Advisory-Kolkata_751870WD">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9e615124-2849-4da6-aade-a96da8b5e048">IN_Senior Associate_Devops Engineer_GCC_Advisory_Bangalore</a></td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Azure-Data-Engineering--D-A-Advisory-Noida_750292WD-1">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a5e4694-dbe0-44d6-9b0e-a68fe9f4d90b">Software Engineering PMTS - Cloud Security - Hyderabad</a></td>
+<td>India - Hyderabad</td>
+<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-PMTS---Cloud-Security---Hyderabad_JR357893">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Scalable Capital</strong></td>
+<td><a href="https://trueinterview.io/jobs/2128eb58-4dd4-4f4c-b3a6-52cf82712fd0">AI Platform Engineer</a></td>
+<td>Berlin, Germany</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/scalable-capital/jobs/ai-platform-engineer_berlin_pi2fsxli">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sequoia Connect</strong></td>
+<td><a href="https://trueinterview.io/jobs/94a0962a-ab37-4da8-aa70-50bfc87ccbae">DevSecops - Cloud Engineer</a></td>
+<td>Mexico</td>
+<td align="center"><a href="https://himalayas.app/companies/sequoia-connect/jobs/devsecops-cloud-engineer-4275972507">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Theodo</strong></td>
 <td><a href="https://trueinterview.io/jobs/e01b2693-04f2-4c7f-bbd7-71a4f15b4121">Software Engineer Fullstack - Stage de fin d'études Paris - Theodo</a></td>
@@ -2745,76 +2815,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/37a283e2-b4f1-42f8-ab1f-bb57d3b91780">Backend Engineer - Platform - Stacks / Ireland / Remote</a></td>
 <td>Anywhere in the World</td>
 <td align="center"><a href="https://weworkremotely.com/remote-jobs/grafana-labs-backend-engineer-platform-stacks-ireland-remote">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intact Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/10c5fbe9-668b-4afb-8a56-804fa6be1b94">Intermediate Software Developer, Full Stack (Python/React)</a></td>
-<td>2 Locations</td>
-<td align="center"><a href="https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/AI-Developer-II--Full-Stack--Python-React-_R153216">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Micro1</strong></td>
-<td><a href="https://trueinterview.io/jobs/338f9cc5-7607-4377-afb6-efff0c6da204">Frontend Engineer Specialist</a></td>
-<td>—</td>
-<td align="center"><a href="https://himalayas.app/companies/micro1/jobs/frontend-engineer-specialist">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/31ec863f-8609-44e2-95ce-e051fab6c674">Graduate Software Engineer</a></td>
-<td>Glasgow, UK</td>
-<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R68006">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/54e1e254-836a-4ce1-92ef-05c485b80625">QA and Automation Engineer</a></td>
-<td>2 Locations</td>
-<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/QA-and-Automation-Engineer_JR2024858-1">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NXO France</strong></td>
-<td><a href="https://trueinterview.io/jobs/d69af557-f2db-415c-a0a7-5419569934a9">Ingénieur Systèmes (SRE - Site Reliability Engineer, Devops) H/F</a></td>
-<td>Strasbourg, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/nxo-france/jobs/ingenieur-systemes-sre-site-reliability-engineer-devops-h-f_strasbourg_NF_DGe4Z3G">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OVHcloud</strong></td>
-<td><a href="https://trueinterview.io/jobs/22869a4e-95df-474a-8ee1-98c381bfdb5c">Software Engineer - Network Observability F/H/N</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/ovh/jobs/software-engineer-network-observability-f-h-n_paris">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/de19ff3c-d336-41d0-bfef-f1ad1ea53912">Software Engineer C++ High Performance F/H/N</a></td>
-<td>Cesson-Sévigné, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/ovh/jobs/software-engineer-high-performance-h-f-n_cesson-sevigne">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c6ec5509-c1a3-4ec8-bfd3-1791341aa5dc">Software Engineer VPC - F/H/N</a></td>
-<td>Roubaix, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/ovh/jobs/software-engineer-vpc-f-h-n_roubaix">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e0583eca-6d05-44b4-9e7a-9ee67ee2a48f">Software Engineer WAF - F/H/N</a></td>
-<td>Roubaix, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/ovh/jobs/software-engineer-waf-f-h-n_roubaix">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8f2d929d-e288-4313-aa09-3b6ad69b0148">Techlead Site Reliability Engineer - Data Platform H/F/N</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/ovh/jobs/techlead-site-reliability-engineer-data-platform_paris">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 </tbody>

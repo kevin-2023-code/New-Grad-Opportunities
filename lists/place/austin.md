@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**187 open roles.**
+**189 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6d7ce17-1205-4f22-a66a-db153dcbfc78">Machine Maintenance Engineer, Tool &amp; Die</a></td>
+<td>Bastrop, TX</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8829632002?gh_jid=8829632002">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/58aeeb7a-69d1-4568-9a30-0901fbec055c">Development Test Engineer (Starlink)</a></td>
 <td>Bastrop, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8831170002?gh_jid=8831170002">Apply</a></td>
@@ -64,6 +71,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/38948fa8-1c5e-4924-8303-c184352b9125">Software Engineer Complier I (Full Time) – United States</a></td>
 <td>Austin, TX<br/>Austin, Texas, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Austin-Texas-US/Software-Engineer-Complier-I--Full-Time----United-States_2025313">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/55714a4d-270e-4df5-82e8-6279fd89e84b">Quantum Qubit Design Engineer</a></td>
+<td>US, Texas, Austin<br/>US, Oregon, Hillsboro, United States of America<br/>US, Pennsylvania, Allentown<br/>+5 more</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Quantum-Qubit-Design-Engineer_JR0287330">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>

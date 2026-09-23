@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6d7ce17-1205-4f22-a66a-db153dcbfc78">Machine Maintenance Engineer, Tool &amp; Die</a></td>
+<td>Bastrop, TX</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8829632002?gh_jid=8829632002">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Neros Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/8f88f111-681a-40b2-b1d9-d91a5cad8cd4">Web &amp; Digital Experience Designer</a></td>
 <td>Torrance, California, United States<br/>HQ</td>
@@ -530,13 +537,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/dbbad85a-572c-4bc0-965c-bb46f53a9533">Propulsion Engineer (Falcon Flight Operations)</a></td>
-<td>Hawthorne, CA<br/>Starbase, TX<br/>Brownsville, TX, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8789900002?gh_jid=8789900002">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3c8d70b8-505e-4cef-bf0d-9971f0d47fcf">Mission Integration Engineer, Special Programs</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8783846002?gh_jid=8783846002">Apply</a></td>

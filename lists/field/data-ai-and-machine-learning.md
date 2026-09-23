@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**693 open roles.** 344 in the United States & Canada · 349 elsewhere in the world.
+**698 open roles.** 346 in the United States & Canada · 352 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6d7ce17-1205-4f22-a66a-db153dcbfc78">Machine Maintenance Engineer, Tool &amp; Die</a></td>
+<td>Bastrop, TX</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8829632002?gh_jid=8829632002">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Ursa Major</strong></td>
 <td><a href="https://trueinterview.io/jobs/f768fb9a-fba3-498c-84cf-5abeab3d6cf3">Development Research Engineer I, Energetics</a></td>
@@ -45,6 +52,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0718b150-54f5-462b-b96f-2e9e1e694509">Data Scientist</a></td>
 <td>Oakville, ON</td>
 <td align="center"><a href="https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Data-Scientist_JR165144">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9c1b1b9-06ae-467a-ada3-9159dfff7841">Applied Machine Learning Engineer - AI for VLSI Design</a></td>
+<td>US, CA, Santa Clara</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer---AI-for-VLSI-Design_JR2025689">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -2447,6 +2461,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Deloitte</strong></td>
+<td><a href="https://trueinterview.io/jobs/281b64eb-5d94-4c53-ab35-a6ccaed8921a">Data Engineer Confirmé F/H</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/deloitte/jobs/data-engineer-confirme-f-h_paris">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>EUROPEAN DYNAMICS</strong></td>
+<td><a href="https://trueinterview.io/jobs/770f2654-fc5d-4ef7-8ea2-b06de13a70c6">Intelligent Manufacturing, Data and AI Engineer, fluent in English</a></td>
+<td>Greece</td>
+<td align="center"><a href="https://himalayas.app/companies/european-dynamics/jobs/intelligent-manufacturing-data-and-ai-engineer-fluent-in-english">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>GitLab</strong></td>
 <td><a href="https://trueinterview.io/jobs/e269e3b9-c629-41fa-99e7-5ff7c6a50ec4">AI Engineer</a></td>
 <td>—</td>
@@ -2493,6 +2521,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/64934cd3-49fe-4307-ae62-6e27c728d2aa">IN_Senior Associate_GenAI and Agentic AI Engineer_GCC_Advisory_Noida</a></td>
 <td>Noida</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Noida/IN-Senior-Associate-GenAI-and-Agentic-AI-Engineer-GCC-Advisory-Bangalore_738966WD">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f68ef8a-d8b6-4761-9a05-44cfd829f858">Stage - Data Engineer - Services Publics - Nantes</a></td>
+<td>Nantes, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/sopra-steria/jobs/stage-data-engineer-services-publics-nantes_nantes_SS_2Vgd6xr">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -2794,41 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/677facfd-f102-42da-871f-54e8a57c39b8">Graduate Data Engineer</a></td>
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/liberis-ltd/jobs/graduate-data-engineer_london">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Liora</strong></td>
-<td><a href="https://trueinterview.io/jobs/75ccb17e-8fb8-4d83-a4ae-03cd0d3c1815">Machine Learning Engineer (H/F) / Stage</a></td>
-<td>Courbevoie, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/datascientest/jobs/machine-learning-engineer-formateur-h-f-stage_puteaux">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mastercard</strong></td>
-<td><a href="https://trueinterview.io/jobs/ded9a0a2-cee1-4b5f-9ff4-b8ea06b93118">AP Data Scientist - Financial Crime</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/AP-Data-Scientist---Financial-Crime_R-291075">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mistral AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/88575a8e-b693-426a-81d7-6e40862c1466">Applied AI Engineer, Australia</a></td>
-<td>Sydney, Australia</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-engineer-australia_sydney">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>MP DATA</strong></td>
-<td><a href="https://trueinterview.io/jobs/4d809c5c-98a5-4e7e-85a3-5c92a57328e0">Data Scientist - F/H - Lille</a></td>
-<td>Lille, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mp-data/jobs/data-scientist-f-h-lille_lille">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Nabla</strong></td>
-<td><a href="https://trueinterview.io/jobs/6fae4a53-3d27-42cc-9f71-c4a84f80b108">AI/ML Software Engineer</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/nabla/jobs/ai-ml-software-engineer_paris">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 </tbody>

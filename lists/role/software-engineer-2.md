@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**677 open roles.** 428 in the United States & Canada · 249 elsewhere in the world.
+**681 open roles.** 431 in the United States & Canada · 250 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SharkNinja</strong></td>
+<td><a href="https://trueinterview.io/jobs/865772e2-13cd-48c3-962f-fcdf66f65f6d">Associate Product Developer - Floorcare</a></td>
+<td>Needham, MA, United States<br/>MA - Needham</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4701492006">Apply</a></td>
+<td align="center">7 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c07cde8-7c1c-40d9-9422-a1d1b36c5ea0">Software Development Engineer - Rust, Compilers, and GPU Systems (2)</a></td>
+<td>US, CA, San Jose<br/>San Jose, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/89874?lang=en-us">Apply</a></td>
+<td align="center">7 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>CrowdStrike</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a766ea9-4eb4-4dea-a7bf-5aa234ccb2c2">Software Engineer - Sensor, MacOS  (Hybrid)</a></td>
+<td>USA - Sunnyvale, CA, United States of America<br/>USA - Austin, TX<br/>USA - Redmond, WA</td>
+<td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Software-Engineer---Sensor--macOS---Hybrid-_R29279">Apply</a></td>
+<td align="center">7 Aug 2026</td>
+</tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/20888861-8a70-45c0-9411-90ce1c0b28d6">Software Engineer, Network Firewall</a></td>
@@ -263,6 +284,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/9dfe0712-1e60-4ae7-80ca-ffc768dfbb32">MS Dynamics Developer</a></td>
 <td>Belgium</td>
 <td align="center"><a href="https://himalayas.app/companies/european-dynamics/jobs/ms-dynamics-developer">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Société Générale</strong></td>
+<td><a href="https://trueinterview.io/jobs/faa1cc46-19f1-49a6-9fbd-e24216601294">Software Engineer</a></td>
+<td>La Défense, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/societe-generale/jobs/software-engineer_la-defense_SG_Q5RXdPj">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>

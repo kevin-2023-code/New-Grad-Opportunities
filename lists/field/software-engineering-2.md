@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**2,162 open roles.** 1,515 in the United States & Canada · 647 elsewhere in the world.
+**2,172 open roles.** 1,523 in the United States & Canada · 649 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,76 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Varda Space Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/222c5989-f2c0-48c6-9864-5e2c2d902768">Spacecraft Systems Engineer, Flight Safety</a></td>
+<td>El Segundo, California, United States<br/>225 S Aviation</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/7994997003">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fe3cc74-914b-48d9-ba8f-a83536409af7">Software Engineer, Applied Emerging Talent (2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/37ac16e9-56b2-4a81-ac6d-f4726d373d9a">Engineering Specialist - Quality/Process</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70286">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cursor</strong></td>
+<td><a href="https://trueinterview.io/jobs/01321503-1636-4ee6-b175-c41aef7b709a">Field Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cursor/64a6cb18-493b-4d18-9f22-c661ae533bfa/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Capco</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0c1816c-6a00-4946-a61e-004cae0760f8">Crypto Engineer (Contract)</a></td>
+<td>Canada - Toronto</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8185086">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Arista Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e705485-c009-46a7-abeb-0c6aeb6d15b3">Mechanical NPI Engineer</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149449190-mechanical-npi-engineer?oga=true">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>The Pac Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/247a9e63-7552-46c3-87bd-fd2c68ba7a9b">Automotive Audio Engineer</a></td>
+<td>California, USA<br/>PAC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thepacgroup/jobs/4405982009">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Loenbro</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5fc7377-5641-412a-bc76-f3c9e01143f3">Mining Project Engineer</a></td>
+<td>Gilbert, AZ</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/loenbro/jobs/4405820009">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Genius Sports</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a02f296-f4a0-4177-9a83-3a8a50a87a30">Software Engineer, Fan Engagement</a></td>
+<td>New York, NY<br/>New York, New York, United States<br/>New York City, USA</td>
+<td align="center"><a href="https://boards.greenhouse.io/geniussports/jobs/7992799003?gh_jid=7992799003">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/7129cf70-b083-4eaf-8895-c5657d4a320a">Qualification Engineer, Fluidstack Labs</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/59467485-4cc1-4396-a769-af118d3629f8/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Gdh</strong></td>
 <td><a href="https://trueinterview.io/jobs/cc910b78-c24d-41b6-a22d-6e637df09ef2">Graduate Stormwater Engineering</a></td>
@@ -1213,13 +1283,6 @@
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/857b9b57-6a0f-4371-8bef-28a6fda306d4">R&amp;D Engineer 1</a></td>
-<td>US-CA-Santa Rosa-Bldg 3<br/>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54213?lang=en-us">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>MaintainX</strong></td>
 <td><a href="https://trueinterview.io/jobs/b6257ba4-fa9e-4c81-9580-7cfa3b1cc0e1">Infrastructure Developer (Platform Engineering)</a></td>
 <td>Canada</td>
@@ -1350,13 +1413,6 @@
 <td><a href="https://trueinterview.io/jobs/785311c4-17a7-41a8-b2ab-54d137338ac9">Early Professional, Water Resources Engineering</a></td>
 <td>Sunrise, FL, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94948">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/dbbad85a-572c-4bc0-965c-bb46f53a9533">Propulsion Engineer (Falcon Flight Operations)</a></td>
-<td>Hawthorne, CA<br/>Starbase, TX<br/>Brownsville, TX, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8789900002?gh_jid=8789900002">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
@@ -2758,62 +2814,6 @@
 <td>1530 FM 973 Taylor, TX, USA, United States of America</td>
 <td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Entry-Level-Engineer--Quality---Reliability_R120204">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>True Anomaly</strong></td>
-<td><a href="https://trueinterview.io/jobs/0d4ece76-52e9-44f0-8c08-5851068a9471">DevOps Engineer (New Graduate)</a></td>
-<td>Long Beach, CA, United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/true-anomaly/jobs/devops-engineer-new-graduate_denver_gzyibrdy">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Opal Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f0afa3a-0bcf-4727-85c1-b286bd7786d8">GTM Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/opal/2baa9277-32f1-400b-9ba4-aa69e9b19ad6/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Alertmedia</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b2d97ad-ab17-42a2-bae7-41c8f562bbb9">Security Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/alertmedia/jobs/8757571002">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff4b5675-ac21-4d5c-858e-be9b8f27279e">Audio Control Module - Product Development Engineer</a></td>
-<td>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69771">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/257539eb-808e-4c81-b46d-1683fcfed99c">Product Engineer, Ona</a></td>
-<td>San Francisco, CA<br/>London, UK</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/c442eab0-b8b4-40f6-b0f2-0fc91aea294a/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Fam Brands</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b15f84e-315c-4c16-b73d-b25e7cbcbe2d">Apparel Product Developer</a></td>
-<td>Beverly Hills, California, United States<br/>Headquarters</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fambrands/jobs/5414634008">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/7203ba94-ee86-4081-b508-5fe6abbf8c71">Integration &amp; Test Engineer (Falcon)</a></td>
-<td>Vandenberg, CA<br/>Redmond, WA<br/>Starbase, TX<br/>+2 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8771149002?gh_jid=8771149002">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/3e66c07f-e81a-465f-b569-ebe69482d365">Core Infrastructure Engineer 1</a></td>
-<td>Nashville, TN, United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/344360">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 </tbody>
 </table>

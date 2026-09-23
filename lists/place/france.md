@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**181 open roles.**
+**183 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Deloitte</strong></td>
+<td><a href="https://trueinterview.io/jobs/281b64eb-5d94-4c53-ab35-a6ccaed8921a">Data Engineer Confirmé F/H</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/deloitte/jobs/data-engineer-confirme-f-h_paris">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f68ef8a-d8b6-4761-9a05-44cfd829f858">Stage - Data Engineer - Services Publics - Nantes</a></td>
+<td>Nantes, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/sopra-steria/jobs/stage-data-engineer-services-publics-nantes_nantes_SS_2Vgd6xr">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Bump</strong></td>
 <td><a href="https://trueinterview.io/jobs/a2cf54af-0776-4884-bd42-bb28021677a6">Fullstack Engineer</a> 🌐</td>

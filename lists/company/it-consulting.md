@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**276 open roles.** 89 in the United States & Canada · 187 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**278 open roles.** 89 in the United States & Canada · 189 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -660,6 +660,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Deloitte</strong></td>
+<td><a href="https://trueinterview.io/jobs/281b64eb-5d94-4c53-ab35-a6ccaed8921a">Data Engineer Confirmé F/H</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/deloitte/jobs/data-engineer-confirme-f-h_paris">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Pavago</strong></td>
 <td><a href="https://trueinterview.io/jobs/e1d00b81-0dad-4729-b752-b100316be581">Full-Stack AI Engineer</a></td>
 <td>Argentina</td>
@@ -685,6 +692,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/64934cd3-49fe-4307-ae62-6e27c728d2aa">IN_Senior Associate_GenAI and Agentic AI Engineer_GCC_Advisory_Noida</a></td>
 <td>Noida</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Noida/IN-Senior-Associate-GenAI-and-Agentic-AI-Engineer-GCC-Advisory-Bangalore_738966WD">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f68ef8a-d8b6-4761-9a05-44cfd829f858">Stage - Data Engineer - Services Publics - Nantes</a></td>
+<td>Nantes, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/sopra-steria/jobs/stage-data-engineer-services-publics-nantes_nantes_SS_2Vgd6xr">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**257 open roles.** 130 in the United States & Canada · 127 elsewhere in the world.
+**258 open roles.** 130 in the United States & Canada · 128 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -944,6 +944,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/53c4bb13-c233-4940-a672-e774f4190a72">AI Engineer, Agents &amp; Search</a></td>
 <td>LATAM</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/g2i/ae69d8d4-cd1f-4573-baa9-191a55b61298/application">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>EUROPEAN DYNAMICS</strong></td>
+<td><a href="https://trueinterview.io/jobs/770f2654-fc5d-4ef7-8ea2-b06de13a70c6">Intelligent Manufacturing, Data and AI Engineer, fluent in English</a></td>
+<td>Greece</td>
+<td align="center"><a href="https://himalayas.app/companies/european-dynamics/jobs/intelligent-manufacturing-data-and-ai-engineer-fluent-in-english">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>

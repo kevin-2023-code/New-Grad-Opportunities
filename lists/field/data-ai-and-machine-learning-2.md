@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**693 open roles.** 344 in the United States & Canada · 349 elsewhere in the world.
+**698 open roles.** 346 in the United States & Canada · 352 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Liora</strong></td>
+<td><a href="https://trueinterview.io/jobs/75ccb17e-8fb8-4d83-a4ae-03cd0d3c1815">Machine Learning Engineer (H/F) / Stage</a></td>
+<td>Courbevoie, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/datascientest/jobs/machine-learning-engineer-formateur-h-f-stage_puteaux">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mastercard</strong></td>
+<td><a href="https://trueinterview.io/jobs/ded9a0a2-cee1-4b5f-9ff4-b8ea06b93118">AP Data Scientist - Financial Crime</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/AP-Data-Scientist---Financial-Crime_R-291075">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/88575a8e-b693-426a-81d7-6e40862c1466">Applied AI Engineer, Australia</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-engineer-australia_sydney">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>MP DATA</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d809c5c-98a5-4e7e-85a3-5c92a57328e0">Data Scientist - F/H - Lille</a></td>
+<td>Lille, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/mp-data/jobs/data-scientist-f-h-lille_lille">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Nabla</strong></td>
+<td><a href="https://trueinterview.io/jobs/6fae4a53-3d27-42cc-9f71-c4a84f80b108">AI/ML Software Engineer</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/nabla/jobs/ai-ml-software-engineer_paris">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>NEXTON</strong></td>
 <td><a href="https://trueinterview.io/jobs/66fedf65-c09e-42d1-b0ff-0d3eedfb59eb">Data Engineer AWS H/F</a></td>
