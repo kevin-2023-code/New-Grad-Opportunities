@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**168 open roles.**
+**160 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -85,13 +85,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b200afc2-5c63-4102-8079-8b631e3a5b1d">Cloud DevOps Engineer</a></td>
 <td>Los Angeles, CA<br/>Colorado Springs, CO</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4715587006?gh_jid=4715587006">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/1ca96588-9587-4a66-8c6d-b5b508558532">Software Engineer, Space Systems Test</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5244590007?gh_jid=5244590007">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -333,20 +326,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Varda Space Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/222c5989-f2c0-48c6-9864-5e2c2d902768">Spacecraft Systems Engineer, Flight Safety</a></td>
-<td>El Segundo, California, United States<br/>225 S Aviation</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/7994997003">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Thatgamecompany</strong></td>
-<td><a href="https://trueinterview.io/jobs/1e4a7b53-1207-4b3d-bc7e-a9a325d81c74">IT Support Specialist</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/thatgamecompany/e452d895-1efa-4d8f-b7b7-b60d1f73c4a6/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/fddeba72-d9ce-481c-a8eb-c285d918f272">Materials Engineer, Metals (Starlink)</a></td>
 <td>Hawthorne, CA<br/>Redmond, WA<br/>Starbase, TX<br/>+1 more</td>
@@ -425,13 +404,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c28fbb2-7fcd-4608-8291-6676ea75ce7e">Controls Engineer, R&amp;D</a></td>
-<td>Los Angeles, CA<br/>Austin, TX<br/>New York, NY<br/>+3 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/9874bcd9-2373-4062-9e04-cdd0a994f0d4/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1f65098e-31f0-4548-bd46-bdf654e2e197">Test Engineer, R&amp;D</a></td>
 <td>Los Angeles, CA<br/>Austin, TX<br/>New York, NY<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/642d24de-0fad-4dae-bbd6-16b6a1abf69b/application">Apply</a></td>
@@ -691,13 +663,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1d9d5f46-3161-4af0-a093-c452d6507c17">Full Stack Software Engineer, Developer Systems</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8763489002?gh_jid=8763489002">Apply</a></td>
-<td align="center">30 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/854f9f4c-933f-43e5-831c-4898a7f97a52">Design Criteria Engineer (Starship)</a></td>
 <td>Hawthorne, CA<br/>Starbase, TX<br/>Brownsville, TX, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8760091002?gh_jid=8760091002">Apply</a></td>
@@ -795,14 +760,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Twitch</strong></td>
-<td><a href="https://trueinterview.io/jobs/231f3e53-f6e5-4b9e-9871-a6e7d2d82431">Software Development Engineer, Security Platform</a></td>
-<td>Irvine, CA<br/>Seattle, WA<br/>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8739185002">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c6cd8f98-db1c-4d5c-8b27-e80171144387">Thermal Design Engineer</a></td>
 <td>Costa Mesa, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5218901007?gh_jid=5218901007">Apply</a></td>
@@ -1061,13 +1019,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d0dca93-a234-47cc-9034-f34a271819ef">System Administrator, Second Shift</a></td>
-<td>Costa Mesa, CA<br/>Ashville, Ohio, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5089093007?gh_jid=5089093007">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/e2664634-34f5-4879-8c72-00b7ff64938d">Design Reliability Engineer (Falcon &amp; Dragon)</a></td>
 <td>Hawthorne, CA</td>
@@ -1107,13 +1058,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3afe45ae-cd06-4c1c-a520-cc0783e14246">Component Test Engineer (I-III)</a></td>
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5202372007">Apply</a></td>
-<td align="center">3 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c46ef8c-4169-47b0-971c-f3c3b6ff6491">Manufacturing Engineer I, Paint and TPS</a></td>
-<td>Long Beach, California</td>
-<td align="center"><a href="https://boards.greenhouse.io/relativity/jobs/8672353002?gh_jid=8672353002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>

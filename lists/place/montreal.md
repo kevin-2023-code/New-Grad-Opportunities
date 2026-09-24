@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**20 open roles.**
+**21 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -92,6 +92,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0a864782-c23e-4189-886d-99a93863e9fd">Spécialiste, recherche produit numérique</a></td>
 <td>Montréal, QC<br/>Québec, QC</td>
 <td align="center"><a href="https://jobs.lever.co/mirego/3e376c52-7eaf-4ced-9086-940510b4735f/apply">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2239cfac-d37b-47d2-84c6-3fd013402dbd">Développeur(euse) Web Fullstack</a></td>
+<td>Montréal, QC<br/>Québec, QC</td>
+<td align="center"><a href="https://jobs.lever.co/mirego/d15cb282-dba5-4d22-99c6-c8dc5039fa75/apply">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>

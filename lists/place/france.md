@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**11 open roles.**
+**12 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -83,7 +83,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Loft Orbital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/1cdf6558-5091-435e-8cfb-f8574bafddf5">Customer Delivery Engineer</a></td>
+<td>Toulouse, Occitanie</td>
+<td align="center"><a href="https://jobs.lever.co/loftorbital/46a90929-f3de-42f5-82f2-b1710de8f8c9/apply">Apply</a></td>
+<td align="center">13 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>The Exploration Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/0a17bae0-180f-4cb9-89d7-8749962ee2a3">Valve Development Engineer</a></td>
 <td>Bordeaux, France</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/d7e4eb95-b95d-4418-b5f1-c430411c9a27/application">Apply</a></td>

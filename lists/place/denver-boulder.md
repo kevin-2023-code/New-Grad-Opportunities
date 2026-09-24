@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**49 open roles.**
+**48 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -71,13 +71,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fd6a8610-e235-413d-9112-147bf4c0d5f0">Software Engineer - Core Systems and Storage Roles (Multiple Individual Contributor Levels)</a></td>
 <td>Boulder, Colorado, United States<br/>San Jose, California, United States<br/>Bellevue, Washington, United States<br/>+2 more</td>
 <td align="center"><a href="https://careers.netapp.com/job/san-jose/software-engineer-core-systems-and-storage-roles-multiple-individual-contributor-levels/27600/92614166496">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/2393b9ca-a8cc-4814-8b7d-1a1751e57db0">Research Scientist</a></td>
-<td>Fort Collins, Colorado, United States<br/>Broomfield, Colorado, United States<br/>Huntsville, Alabama, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5239287007?gh_jid=5239287007">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

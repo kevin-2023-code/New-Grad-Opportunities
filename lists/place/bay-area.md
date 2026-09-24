@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**565 open roles.**
+**556 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -687,13 +687,6 @@ Machine Learning for Monetization (PhD)</a></td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2437b072-ef7a-4916-b513-26f84c174df9">Applications Development Engineer - FaST</a></td>
-<td>Milpitas, CA, United States of America<br/>Hillsboro, OR, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineer---FaST_2637468-1">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/39e44089-5e1b-47f0-989c-056d2531a6cd">Electrical Manufacturing Design Engineer</a></td>
 <td>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Electrical-Manufacturing-Design-Engineer_2638930-1">Apply</a></td>
@@ -903,6 +896,13 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1f3fa48c-d4c2-4e1f-8661-39b5e50c25ca">Open Role</a></td>
+<td>San Francisco, CA<br/>Singapore</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hud/a8a56c37-b8d1-4bf2-900a-7b5c695bbcbd/application">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Vercel</strong></td>
 <td><a href="https://trueinterview.io/jobs/81882e72-2178-4ca0-844a-c6eb0a6eb98c">Software Engineer, Platform</a></td>
 <td>Hybrid - San Francisco, New York City<br/>Remote - United States</td>
@@ -1071,6 +1071,13 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Autodesk</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d6f855e-a6ad-47ee-ae4f-c90e191fb452">Test Position - do not apply</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Test-Position---do-not-apply_26WD101118">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>CrowdStrike</strong></td>
 <td><a href="https://trueinterview.io/jobs/60c4adc9-0521-4f09-a117-357b18919c36">Engineer, Sensor - Mac, Linux, or Windows (Hybrid)</a></td>
 <td>USA - Sunnyvale, CA, United States of America<br/>USA - New York, NY<br/>USA - Austin, TX<br/>+2 more</td>
@@ -1089,13 +1096,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/e0f31f69-6737-4ce3-8cb2-b898fc18d671">Cloud Platform Engineer</a></td>
 <td>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Cloud-Platform-Engineer_2639358">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1cd19aa7-4527-4437-a066-6d7c48a6f413">HPC Systems Engineer</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Platform-Engineer_2638542">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
@@ -1408,13 +1408,6 @@ Machine Learning for Monetization (PhD)</a></td>
 </tr>
 <tr>
 <td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c28fbb2-7fcd-4608-8291-6676ea75ce7e">Controls Engineer, R&amp;D</a></td>
-<td>San Francisco, CA<br/>Austin, TX<br/>New York, NY<br/>+3 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/9874bcd9-2373-4062-9e04-cdd0a994f0d4/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1f65098e-31f0-4548-bd46-bdf654e2e197">Test Engineer, R&amp;D</a></td>
 <td>San Francisco, CA<br/>Austin, TX<br/>New York, NY<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/642d24de-0fad-4dae-bbd6-16b6a1abf69b/application">Apply</a></td>
@@ -1446,6 +1439,13 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/039610d1-a5d0-4d0b-8c3d-93d4834fd073">Data Scientist 2</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000148860049-data-scientist-2?oga=true">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Real Time Innovations</strong></td>
+<td><a href="https://trueinterview.io/jobs/1dea8e3a-7af8-4695-9719-559fe6b62a77">Embedded Device Lab Administrator</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rti/jobs/8192251">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
@@ -1880,13 +1880,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/bf43c096-89d8-49af-a254-5e154f6f00c4">Full Stack Software Engineer, Product Explorations</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/4d1ede8c-3d4c-4503-8408-81e4b68c5c91/application">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intuitive Surgical</strong></td>
-<td><a href="https://trueinterview.io/jobs/1e9a68ab-e51f-47ed-b799-cb3e303c1d3d">Wiring Harness Mechanical Design Engineer</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000147349687-wiring-harness-mechanical-design-engineer?oga=true">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
@@ -2779,13 +2772,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">23 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Hippocratic Ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d81cb16-9bc2-4a77-b4cf-30ff0a1f2c09">LLM  Inference Engineer</a></td>
-<td>Menlo Park, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hippocratic%20ai/eef8a721-23de-4c20-bff0-56088b39afa0/application">Apply</a></td>
-<td align="center">22 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/a2c623a5-f73e-446a-91d1-e282dd2f84a1">Software Engineer, Applied AI</a></td>
 <td>San Francisco, CA<br/>New York, NY<br/>Austin, TX<br/>+1 more</td>
@@ -2814,10 +2800,24 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Twitch</strong></td>
-<td><a href="https://trueinterview.io/jobs/231f3e53-f6e5-4b9e-9871-a6e7d2d82431">Software Development Engineer, Security Platform</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>Irvine, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8739185002">Apply</a></td>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/8fa07cf1-da2b-4e5f-a246-16a199adce9a">Research Engineer / Research Scientist, Health</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/719cc0f6-ed38-41db-8870-299b4d336f37/application">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Physical Intelligence</strong></td>
+<td><a href="https://trueinterview.io/jobs/d567d24a-3f03-4496-8da8-e8351fa0a5bc">Fullstack Software Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/physicalintelligence/031e9b1e-6e58-4c81-b608-3cfda0514082/application">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Llamaindex</strong></td>
+<td><a href="https://trueinterview.io/jobs/ad7bbf89-fabb-46af-86bc-91d3b640b57d">Developer Evangelist, Growth</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/llamaindex/ee009847-6f1d-42f5-ab9f-805072f7a3e9/application">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**58 open roles.** 54 in the United States & Canada · 4 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**56 open roles.** 52 in the United States & Canada · 4 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,13 +51,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/bfec0c68-33db-49b7-8e8b-499670d72a8d">Software Engineer, Data Platform</a></td>
 <td>Seattle, WA<br/>San Francisco, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8821382002">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Match Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/23ff743f-8fe9-4787-b458-7b8ed8c10c5e">AI Product Engineer</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia</td>
-<td align="center"><a href="https://jobs.lever.co/matchgroup/69396299-e587-4063-aef6-0ce2fd66e9ee/apply">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -268,13 +261,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/b16916ab-2a4e-4c02-bbf8-717232d5c9f3">UI Graphic Designer</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sleeper/441ba4d4-d693-4d21-949b-e3e1e6b86b79/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Twitch</strong></td>
-<td><a href="https://trueinterview.io/jobs/231f3e53-f6e5-4b9e-9871-a6e7d2d82431">Software Development Engineer, Security Platform</a></td>
-<td>Seattle, WA<br/>San Francisco, CA<br/>Irvine, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8739185002">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**168 open roles.** 127 in the United States & Canada · 41 elsewhere in the world.
+**166 open roles.** 126 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -295,13 +295,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ca75b9fc-0630-4193-97d8-507283d657a0">Product Designer, Accessibility</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/2ace6bbe-a7ac-4930-bcdc-14c618179b1f/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lam Research</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d8db94c-39ea-4358-b1bd-c254c214910e">Technical Game Designer 1</a></td>
-<td>Tualatin, OR, US</td>
-<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099555570986">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
@@ -1001,13 +994,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bogotá, , Colombia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000147975259-product-owner?oga=true">Apply</a></td>
 <td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/2179f06c-e9c5-447c-b043-fbef722c5305">Jr. Digital Designer</a></td>
-<td>Mexico City</td>
-<td align="center"><a href="https://www.monks.com/careers/6150206004/job?gh_jid=6150206004">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Lia</strong></td>

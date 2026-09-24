@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**599 open roles.** 488 in the United States & Canada · 111 elsewhere in the world. Everything the employers put up this week.
+**587 open roles.** 474 in the United States & Canada · 113 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -16,70 +16,7 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/ebde120f-8f73-4a71-b491-59dcc219378f">Software Engineer (C++, OOD/OOP, Linux)</a></td>
-<td>Austin, TX, United States of America<br/>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer--C----OOD-OOP--Linux-_2634818">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bd7ff2df-9f0b-4b14-a86d-5c13cc27a3f7">System Design Engineer</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/System-Design-Engineer_2635246">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4763fcd8-1e95-4574-ada0-84f6ea0a15e0">System Engineer</a></td>
-<td>Westwood, MA, United States of America<br/>Hillsboro, OR, United States of America<br/>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Westwood-MA/System-Engineer_2635064">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e922b6f9-c6a3-412a-883d-32fb96b7bd3d">Systems Engineer</a></td>
-<td>Hillsboro, OR, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Product-Development-Engineer_2636359">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba538938-49a1-4d3e-9d6c-223445317730">Rapid Integration &amp; Test Engineer</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5239473007?gh_jid=5239473007">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/e21101d1-6a8d-44ae-9e37-402b77cf2ff4">ASIC Design Verification Engineer, Google Cloud</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/77174102632080070-asic-design-verification-engineer-google-cloud">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3b84adb5-c900-4ebc-b8e9-a7185d1381d6">Data Engineer, Google Maps</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/72704944984990406-data-engineer-google-maps">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/818a33fc-0b77-42a4-be61-94d06a4a20eb">Fabrication Backend Process Engineer, Quantum AI</a></td>
-<td>Goleta, CA, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/119792881211712198-fabrication-backend-process-engineer-quantum-ai">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a1a16349-a1dd-46b0-878a-0fe516f96ce7">Product Design Engineer, Pixel Earbuds</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/112624297326846662-product-design-engineer-pixel-earbuds">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/38049570-c6a8-4e67-b0de-ea97e3e4ea3a">Security Engineer, Detection</a></td>
 <td>Reston, VA, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/108836916245209798-security-engineer-detection">Apply</a></td>
@@ -478,13 +415,6 @@
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/2393b9ca-a8cc-4814-8b7d-1a1751e57db0">Research Scientist</a></td>
-<td>Fort Collins, Colorado, United States<br/>Broomfield, Colorado, United States<br/>Huntsville, Alabama, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5239287007?gh_jid=5239287007">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Pure Storage</strong></td>
 <td><a href="https://trueinterview.io/jobs/7aad2f4a-a71f-41ac-b7ac-5c338c5c1a5b">Platform Services Engineer, Advanced Services (Professional Services)</a></td>
 <td>Lehi, Utah<br/>Office - Lehi</td>
@@ -510,6 +440,13 @@
 <td><a href="https://trueinterview.io/jobs/5460f20d-bd06-4fc7-8446-8545f5b17d55">Global Industrial Engineer</a></td>
 <td>Dearborn, MI, United States</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70508">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hud</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f3fa48c-d4c2-4e1f-8661-39b5e50c25ca">Open Role</a></td>
+<td>San Francisco, CA<br/>Singapore</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hud/a8a56c37-b8d1-4bf2-900a-7b5c695bbcbd/application">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -596,41 +533,6 @@
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5239907007?gh_jid=5239907007">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/63ee19f6-cb7e-4abc-8766-2f4ed5f858cf">Diff/Wet Process Engineering Technician (Nights)</a></td>
-<td>US, OR, Beaverton, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Diff-Wet-Process-Engineering-Technician--Nights-_R264347">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b87960c0-a021-473c-a332-20b737874012">Integration Engineer</a></td>
-<td>US, OR, Beaverton, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Integration-Engineer_R264224">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9c73b483-1ebd-4350-af71-67b7cadbadf1">Process Engineering Technician (Nights)</a></td>
-<td>US, OR, Beaverton, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Process-Engineering-Technician--Nights-_R264348">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3362f4b4-e8a3-44ef-bf0e-b8de4d4706b3">Product Engineer / Design Evaluation</a></td>
-<td>US, MA, Wilmington, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer---RF-System_R263805">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/643c4c5d-2891-4a00-8585-68a81555179d">System Mechanical &amp; Integration Engineer</a></td>
-<td>US, MA, Wilmington, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/System-Mechanical---Integration-Engineer_R264128">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -662,6 +564,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/596478d9-fcfd-49f8-b22a-5caf1b2aa36e">Application Security Engineer (Threat Modeling)</a></td>
 <td>Quezon City</td>
 <td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/Application-Security-Engineer--Threat-Modeling-_JR26091262">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Our Future Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/c633ae1e-fe04-414f-8709-70bd52e12112">Platform Engineer</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://4dayweek.io/job/platform-engineer-at-our-future-health-3f54f829">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/733f1124-3acf-419f-8973-3332cd0920e6">IN_Senior Associate_.Net Fullstack Developer_GCC_Advisory_Banaglore</a></td>
+<td>Hyderabad - Salarpuria</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Adobe-Experience-Manager-content-management-system-GCC-Advisory-Banaglore_744222WD-1">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4c38b1d1-4eec-4cb4-8098-2ad78b3f0779">IN_Senior Associate_Agentic AI Engineer_GCC_Advisory_Bangalore</a></td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Agentic-AI-Engineer-GCC-Advisory-Bangalore_738339WD-1">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/79fbcd23-8924-46d4-9fc4-48b96a23ed84">IN_Senior Manager_Azure Data Engineer_OC-Data &amp; Analytics AITH_Advisory_Bhubaneswar</a></td>
+<td>Bhubaneswar - Ihub</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bhubaneswar---Ihub/IN-Manager-Azure-Data-Engineer-OC-Data---Analytics-Advisory-Bhubaneswar_738417WD-1">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -910,13 +840,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/1dbc0c5d-b8a2-4552-b653-55a60fd86415">QA Automation Engineer, Cloud Orchestrations</a></td>
-<td>Israel, Tel Aviv</td>
-<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/QA-Automation-Engineer--Cloud-Orchestrations_JR2025739">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/70e7ecfc-f6d0-4bdb-8fa4-3c952304c682">IN_Senior Associate_GenAI and Agentic AI Engineer _GCC_Advisory_Bangalore</a></td>
 <td>Bengaluru Millenia</td>
@@ -1142,13 +1065,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Adobe</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fe12a8b-c94a-4e2f-aa03-80dbf7dd4347">Data Platform Engineer</a></td>
-<td>Bucharest</td>
-<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cd86f9bf-f073-474e-bd7e-fa71873f4edc">Data Scientist</a></td>
 <td>2 Locations</td>
 <td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Data-Scientist_R171177-1">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**146 open roles.** 106 in the United States & Canada · 40 elsewhere in the world.
+**145 open roles.** 107 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -165,13 +165,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Thatgamecompany</strong></td>
-<td><a href="https://trueinterview.io/jobs/1e4a7b53-1207-4b3d-bc7e-a9a325d81c74">IT Support Specialist</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/thatgamecompany/e452d895-1efa-4d8f-b7b7-b60d1f73c4a6/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Anavation</strong></td>
 <td><a href="https://trueinterview.io/jobs/6a37b086-cd67-43e5-9d3f-0c53e3100d62">IT Support Specialist</a></td>
 <td>Quantico, VA</td>
@@ -197,6 +190,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a4d89bd5-b731-4302-840c-79f5179e38e1">Network Engineer (Starlink)</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8784089002?gh_jid=8784089002">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Real Time Innovations</strong></td>
+<td><a href="https://trueinterview.io/jobs/1dea8e3a-7af8-4695-9719-559fe6b62a77">Embedded Device Lab Administrator</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rti/jobs/8192251">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
@@ -274,6 +274,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f6606fbe-ca78-47ba-9ddd-f1cea6aaa233">Network Engineer</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4953377101">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e6c2290-8865-4200-983e-cb60a58b1556">Product Support Specialist - Automotive</a></td>
+<td>Olathe, Kansas, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/19875?lang=en-us">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
@@ -690,6 +697,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Ultraviolet Cyber</strong></td>
+<td><a href="https://trueinterview.io/jobs/21b1ec29-0d90-4dbc-a879-4557def818bb">Security Engineer (Active Top Secret Clearance)</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://jobs.lever.co/uvcyber/3a5a2754-0dfc-4b72-86d3-67ba88f997fd/apply">Apply</a></td>
+<td align="center">11 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Lunar Energy</strong></td>
 <td><a href="https://trueinterview.io/jobs/c13b372e-7236-4adc-8bc4-e0ce40e2a663">IT Support Technician</a></td>
 <td>Mountain View, CA<br/>HQ</td>
@@ -722,13 +736,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3973b60a-9299-4a9c-957c-29b382bcf993">Network Engineer, BMS/EPMS</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/0dffe479-ba72-4007-99e1-46e8d5c70c5c/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d0dca93-a234-47cc-9034-f34a271819ef">System Administrator, Second Shift</a></td>
-<td>Ashville, Ohio, United States<br/>Costa Mesa, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5089093007?gh_jid=5089093007">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>
@@ -840,13 +847,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Wichita Metro Area</td>
 <td align="center"><a href="https://jobs.lever.co/shieldai/7acef65d-2466-4959-9e86-106ecb4e7fe4/apply">Apply</a></td>
 <td align="center">5 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lumana</strong></td>
-<td><a href="https://trueinterview.io/jobs/2125331b-6fad-496d-810b-da85d3fec78d">Technical Support Engineer</a></td>
-<td>Caesarea Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lumana/542ba976-ed22-43db-af2a-471670389b68/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Samsara</strong></td>
@@ -973,13 +973,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/its/jobs/7897192003">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Jane Street</strong></td>
-<td><a href="https://trueinterview.io/jobs/2362ebef-45af-44f6-93ad-8b7accebed0a">Network Engineer</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.janestreet.com/join-jane-street/apply/8693539002?gh_jid=8693539002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Bespoke Labs</strong></td>

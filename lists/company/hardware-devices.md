@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**203 open roles.** 184 in the United States & Canada · 19 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**204 open roles.** 185 in the United States & Canada · 19 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -141,13 +141,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/70135ed4-cc61-4596-884d-a294ea548e9c">ASIC Physical Design Engineer</a></td>
 <td>San Jose, California, US, United States of America<br/>Austin, TX<br/>Austin, Texas, US<br/>+1 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Physical-Design-Engineer_2015743-1">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f0c82ce0-fced-4993-b5f2-9ae0b136d2b1">SRE Database Administrator (DBA) (Hybrid)</a></td>
-<td>Austin, TX<br/>RTP, North Carolina, US, United States of America<br/>Austin, Texas, US</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer_2014845">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -809,6 +802,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e6c2290-8865-4200-983e-cb60a58b1556">Product Support Specialist - Automotive</a></td>
+<td>Olathe, Kansas, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/19875?lang=en-us">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Sienci Labs Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/915c1fb5-8cf7-497e-b132-7ef43297515e">cloud developer</a></td>
 <td>Waterloo, ON</td>
@@ -1289,6 +1289,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ce6e391c-69d0-4147-8cdd-d05e1a274e5a">Electrical Design Engineer 1</a></td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19537?lang=en-us">Apply</a></td>
+<td align="center">5 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1bda8a4c-6052-4c0a-b6f8-e02e1682763a">Quality Analyst 1 - Marine</a></td>
+<td>Olathe, Kansas, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/19512?lang=en-us">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**22 open roles.** 18 in the United States & Canada · 4 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**21 open roles.** 18 in the United States & Canada · 3 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -175,13 +175,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore<br/>Hong Kong</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4727919005">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Jane Street</strong></td>
-<td><a href="https://trueinterview.io/jobs/2362ebef-45af-44f6-93ad-8b7accebed0a">Network Engineer</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.janestreet.com/join-jane-street/apply/8693539002?gh_jid=8693539002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 </tbody>
 </table>

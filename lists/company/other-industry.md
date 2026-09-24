@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**77 open roles.** 46 in the United States & Canada · 31 elsewhere in the world. A real classification that none of the other sectors covers.
+**76 open roles.** 46 in the United States & Canada · 30 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -413,13 +413,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Field</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/gofibre/jobs/4966391101">Apply</a></td>
 <td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/2179f06c-e9c5-447c-b043-fbef722c5305">Jr. Digital Designer</a></td>
-<td>Mexico City</td>
-<td align="center"><a href="https://www.monks.com/careers/6150206004/job?gh_jid=6150206004">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Tegna Inc</strong></td>

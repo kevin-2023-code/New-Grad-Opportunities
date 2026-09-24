@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**9 open roles.**
+**10 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,6 +37,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Calgary, AB</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/neofinancial/f1aa04a8-de2c-4012-a91f-a370ed560116/application">Apply</a></td>
 <td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/222b447a-99bd-4304-a434-2dcc86e20732">Oil Sands Geotechnical Technician</a></td>
+<td>Edmonton, AB, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95225">Apply</a></td>
+<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Long View Systems</strong></td>

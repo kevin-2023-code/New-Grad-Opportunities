@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**43 open roles.** 39 in the United States & Canada · 4 elsewhere in the world.
+**42 open roles.** 38 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -100,13 +100,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/e64205aa-3ebe-4e75-9624-7a7d4a719c14">Research Engineer, Privacy and Anonymization</a></td>
 <td>San Francisco, CA<br/>Singapore</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/hud/965d24c5-2cce-4683-9848-597b12ed4a23/application">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/2393b9ca-a8cc-4814-8b7d-1a1751e57db0">Research Scientist</a></td>
-<td>Fort Collins, Colorado, United States<br/>Broomfield, Colorado, United States<br/>Huntsville, Alabama, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5239287007?gh_jid=5239287007">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

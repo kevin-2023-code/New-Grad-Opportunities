@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**196 open roles.** 143 in the United States & Canada · 53 elsewhere in the world. Early-stage technology companies.
+**188 open roles.** 135 in the United States & Canada · 53 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -151,13 +151,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Deepgram</strong></td>
-<td><a href="https://trueinterview.io/jobs/24676b13-f1c7-4941-964f-c1829e5f1ed8">Applied ML Engineer -  Edge Devices</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/deepgram/94ae2781-a85f-493a-86c1-ff85a9289355/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/7129cf70-b083-4eaf-8895-c5657d4a320a">Qualification Engineer, Fluidstack Labs</a></td>
 <td>Austin, TX</td>
@@ -212,13 +205,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Phoenix, AZ<br/>Memphis, TN</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/8d38405a-e267-4a51-a31e-0a5f1953474d/application">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1c28fbb2-7fcd-4608-8291-6676ea75ce7e">Controls Engineer, R&amp;D</a></td>
-<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+3 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/9874bcd9-2373-4062-9e04-cdd0a994f0d4/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -288,13 +274,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9e24d330-bd9b-4d0f-818b-bbcb30aad685">Product Partnership Engineer</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lovable/87f4e6eb-c8ca-496c-a3d3-ff0dda4d8d8c/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Physicsx</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fd34250-1a7d-4115-80aa-911b33245af0">CFD Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/physicsx/jobs/4971199101">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
@@ -421,13 +400,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/94d2f77e-4144-465d-afce-714f7e043ef2">Forward Deployed Engineer</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="http://stability.ai/careers?gh_jid=4966000101">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Gumloop</strong></td>
-<td><a href="https://trueinterview.io/jobs/22f46009-af88-497d-a924-5c45be8ebcb9">Software Engineer - Infrastructure</a></td>
-<td>San Francisco Office<br/>Vancouver Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gumloop/35729200-4460-40a6-8972-508bd1d0f6b5/application">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
@@ -599,13 +571,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Method Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/200ff4b9-7872-457d-ab5a-91d4a3d66b9e">Design Engineer</a></td>
-<td>New York, NY<br/>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/method/4c0bd39f-d36e-44ec-8ba2-ea0578502df0/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Field AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/e24977db-984c-4883-a955-00da27e5f5b7">Field Application Engineer - Fenton, MI - Temporary Part Time</a></td>
 <td>Fenton, MI</td>
@@ -648,13 +613,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Hippocratic Ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d81cb16-9bc2-4a77-b4cf-30ff0a1f2c09">LLM  Inference Engineer</a></td>
-<td>Menlo Park, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hippocratic%20ai/eef8a721-23de-4c20-bff0-56088b39afa0/application">Apply</a></td>
-<td align="center">22 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/a2c623a5-f73e-446a-91d1-e282dd2f84a1">Software Engineer, Applied AI</a></td>
 <td>San Francisco, CA<br/>New York, NY<br/>Austin, TX<br/>+1 more</td>
@@ -680,13 +638,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9889eaa8-612a-449f-b7cc-17321b1aaf96">Customer Success Engineer (Scaled)</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/deepgram/b856d0c2-df8e-492a-9044-62b0fd3c30b6/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Bespoke Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/2317d4af-62ab-421f-a6ce-1fc8ba6c719c">RL Environments Engineer</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/bespokelabs/f8db1def-3295-4209-bcb2-2f42ed16ac6c/application">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
@@ -1010,13 +961,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/suno/8ec095a8-286e-4c6a-aeb2-3ec0c6319c48/application">Apply</a></td>
 <td align="center">3 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Rilla</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f17376a-3137-472b-abae-a761690acb3b">GTM Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rilla/bad787f7-83ef-471b-9f9a-054799ba7476/application">Apply</a></td>
-<td align="center">26 Jul 2026</td>
 </tr>
 </tbody>
 </table>

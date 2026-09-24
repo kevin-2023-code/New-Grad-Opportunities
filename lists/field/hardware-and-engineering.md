@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**351 open roles.** 328 in the United States & Canada · 23 elsewhere in the world.
+**354 open roles.** 330 in the United States & Canada · 24 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -102,6 +102,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d7b32c7-3100-4e2f-94e4-c6e027bdbd71">2027 Early Career Flight Test Engineer</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Simplisafe</strong></td>
 <td><a href="https://trueinterview.io/jobs/3c890292-23fa-4ab5-9355-a39fbc1fe63e">Electrical Engineer I</a></td>
 <td>Boston, MA</td>
@@ -148,13 +155,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/72c1a16d-c104-4d8a-b47f-1a55b7539ce3">Platform System/Hardware Engineer - Customer Solutions Engineering</a></td>
 <td>Spring, Texas, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Platform-System-Hardware-Engineer---Customer-Solutions-Engineering_1213922-2">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fab8b28-0b2d-43bf-9a27-ba9e70be357c">Quality Chemical Engineer</a></td>
-<td>Totowa, NJ, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Quality-Chemical-Engineer_2640470">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -267,13 +267,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f3d81524-7341-4154-9421-721346806508">ASIC Design Verification Eng II Full Time - United States</a></td>
 <td>San Jose, California, US, United States of America<br/>RTP, North Carolina, US</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Verification-Eng-II-Full-Time---United-States_2024667">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c97d5a9-7862-44a6-8ee3-46aa862873e4">Silicon Photonics Quality &amp; Reliability Engineer</a></td>
-<td>US, New Mexico, Albuquerque, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/Silicon-Photonics-Quality---Reliability-Engineer_JR0287337">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -704,6 +697,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>The Pac Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/247a9e63-7552-46c3-87bd-fd2c68ba7a9b">Automotive Audio Engineer</a></td>
+<td>California, USA<br/>PAC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thepacgroup/jobs/4405982009">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/d4428721-6bb2-4bb4-b44f-1c853aba7115">Civil Engineering Technician/Technologist</a></td>
 <td>Dartmouth, NS, Canada</td>
@@ -753,6 +753,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/222b447a-99bd-4304-a434-2dcc86e20732">Oil Sands Geotechnical Technician</a></td>
+<td>Edmonton, AB, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95225">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>DRW</strong></td>
 <td><a href="https://trueinterview.io/jobs/b033f52d-9e85-4436-94fd-6156fd4ae49f">Service Reliability Engineer</a></td>
 <td>Chicago, IL<br/>Austin, TX</td>
@@ -774,6 +781,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Coherent Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/2192b189-b881-4e04-af4e-409a0a3f9f74">Equipment Engineer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014729">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Lumentum</strong></td>
 <td><a href="https://trueinterview.io/jobs/d2a76d34-d408-4de6-ace3-b4dbf7c922bb">Semiconductor Equipment Maintenance Technician-Vacuum</a></td>
 <td>USA - NC- Greensboro, United States of America</td>
@@ -789,6 +803,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f65098e-31f0-4548-bd46-bdf654e2e197">Test Engineer, R&amp;D</a></td>
+<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+3 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/642d24de-0fad-4dae-bbd6-16b6a1abf69b/application">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/122b8c32-6c00-4c5c-a60e-05e432aa6712">Fluids / Mechanical Engineer, R&amp;D</a></td>
 <td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/2d717643-6e6b-4429-be6b-208baa7a627f/application">Apply</a></td>
@@ -1145,6 +1166,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Hadrian Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ee23d40-9c84-40a8-84af-b861d68c0cb6">Paint Engineer</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/115d8734-0f96-4375-b27d-6a4d62956b04/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/eaa1e0c7-508d-4580-b5ce-903a515d5313">Entry Level Substation Structural Engineer</a></td>
 <td>Duluth, GA, United States</td>
@@ -1254,6 +1282,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/98e587d0-3477-4b27-9453-d686a6e68f05">Graduate Structural Engineer</a></td>
 <td>HARRISBURG, PA, United States</td>
 <td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28193">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Asm</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e1f4298-6d3a-4d06-9bfa-5da1b9677449">Field Service - Prospecting US</a></td>
+<td>US &gt; Idaho &gt; Boise</td>
+<td align="center"><a href="https://www.asm.com/open-vacancies/?gh_jid=4964389101">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
@@ -1460,13 +1495,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/20ead24e-ff84-4a37-a176-baf40739fc5d">Electrical Engineer, Launch Pad (Starship)</a></td>
-<td>Starbase, TX<br/>Cape Canaveral, FL<br/>Brownsville, TX, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8752568002?gh_jid=8752568002">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Kelso Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/9c5b875d-5390-4c0b-b97f-44afa015cfc3">Estimator</a></td>
 <td>Ogden, UT<br/>Kelso Building Services</td>
@@ -1670,6 +1698,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/222d4e94-e52a-4011-adfe-1ca6d669ebc0">Associate Product Engineer (Product Development)</a></td>
+<td>US, MA, Wilmington, United States of America<br/>US, NC, Durham</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/4d38e8a9-89c8-452d-9973-712cb901259e">DfSafety and Reliability Engineer</a></td>
 <td>Santa Clara, CA, US</td>
@@ -1761,13 +1796,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/22ade76f-f44d-4af7-a8b3-a7b715d66260">NVIDIA 2027 Internships: Hardware ASIC Design</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397025803">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Zoox</strong></td>
 <td><a href="https://trueinterview.io/jobs/78de6920-dcbe-4f50-8b2c-66d0a2244247">Supplier Quality Engineer</a> 🌐</td>
 <td>Remote — United States</td>
@@ -1852,13 +1880,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1c5b3430-58a3-4925-a4d2-8249ca4d6187">Mechanical Engineer, Cabin Structures (Crew Starship)</a></td>
-<td>Starbase, TX<br/>Brownsville, TX, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8716953002?gh_jid=8716953002">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/b8cf52e8-86fc-4bff-943a-e6eb222413d8">Reliability Engineer</a></td>
 <td>US, NJ, Secaucus_Meadowlands<br/>Secaucus, New Jersey, United States</td>
@@ -1891,6 +1912,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/efb85f89-d0a9-4ee6-bae9-9324c6422156">New Graduate Engineer, Silicon Engineering</a></td>
 <td>Palo Alto, CA<br/>Irvine, California, United States<br/>Redmond, WA<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002">Apply</a></td>
+<td align="center">14 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1ccadf3b-dae9-47bf-a7b1-4d437ef6a983">New Graduate Engineer, Electrical - '26/'27 (Starlink)</a></td>
+<td>Bastrop, TX<br/>Redmond, WA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>
@@ -2111,13 +2139,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fbb3088-d844-417c-8479-3e0656ffcac7">PCBA Manufacturing Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/a547274b-246c-41a0-8590-a874fcc6f28b/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Lynk</strong></td>
 <td><a href="https://trueinterview.io/jobs/659f3f9c-1406-4375-a4d1-69c5e7906feb">Electrical Engineer</a></td>
 <td>Chantilly, VA</td>
@@ -2235,13 +2256,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, California, Santa Clara, United States of America<br/>US, Arizona, Phoenix<br/>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Semiconductor-Device-Modeling-Engineer_JR0286250">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c46ef8c-4169-47b0-971c-f3c3b6ff6491">Manufacturing Engineer I, Paint and TPS</a></td>
-<td>Long Beach, California</td>
-<td align="center"><a href="https://boards.greenhouse.io/relativity/jobs/8672353002?gh_jid=8672353002">Apply</a></td>
-<td align="center">3 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
@@ -2394,6 +2408,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Chihuahua, CHIH, Mexico</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68299">Apply</a></td>
 <td align="center">19 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Loft Orbital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/1cdf6558-5091-435e-8cfb-f8574bafddf5">Customer Delivery Engineer</a></td>
+<td>Toulouse, Occitanie</td>
+<td align="center"><a href="https://jobs.lever.co/loftorbital/46a90929-f3de-42f5-82f2-b1710de8f8c9/apply">Apply</a></td>
+<td align="center">13 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>WSP</strong></td>

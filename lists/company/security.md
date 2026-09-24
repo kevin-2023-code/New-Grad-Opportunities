@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**70 open roles.** 57 in the United States & Canada · 13 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**69 open roles.** 56 in the United States & Canada · 13 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -240,13 +240,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23932">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Vanta</strong></td>
-<td><a href="https://trueinterview.io/jobs/23efe32d-0e84-4756-85e0-8b0c311956c5">Software Engineer, Integrations Platform, Vanta For Government (V4G)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/vanta/0ccbb65f-f675-410a-ae54-1d34575f228a/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Oneleet</strong></td>

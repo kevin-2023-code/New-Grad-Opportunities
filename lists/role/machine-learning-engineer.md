@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**50 open roles.** 38 in the United States & Canada · 12 elsewhere in the world.
+**49 open roles.** 37 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,13 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>London, United Kingdom<br/>Sunnyvale, California USA</td>
 <td align="center"><a href="https://wayve.firststage.co/jobs?gh_jid=8752478002">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Deepgram</strong></td>
-<td><a href="https://trueinterview.io/jobs/24676b13-f1c7-4941-964f-c1829e5f1ed8">Applied ML Engineer -  Edge Devices</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/deepgram/94ae2781-a85f-493a-86c1-ff85a9289355/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>

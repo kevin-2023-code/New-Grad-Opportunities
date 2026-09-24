@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**51 open roles.**
+**48 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -146,10 +146,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">7 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/2179f06c-e9c5-447c-b043-fbef722c5305">Jr. Digital Designer</a></td>
-<td>Mexico City</td>
-<td align="center"><a href="https://www.monks.com/careers/6150206004/job?gh_jid=6150206004">Apply</a></td>
+<td><strong>Xp Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/211b1bfb-f4ff-4e54-8d4c-3741cc017800">Estagiario</a></td>
+<td>São Paulo, SP</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xpinc/jobs/8784494002">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
@@ -158,20 +158,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Guadalajara, Mexico</td>
 <td align="center"><a href="https://jobs.lever.co/avertium/4f16c74c-5168-46ea-abd1-abb9163999a0/apply">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Capco</strong></td>
-<td><a href="https://trueinterview.io/jobs/21dfc30b-64b9-4887-8fa5-1882116255dd">Desenvolvedor(a) Front-end - Flutter</a></td>
-<td>Brazil - Sao Paulo</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8176938">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Spin Careers</strong></td>
-<td><a href="https://trueinterview.io/jobs/1e36b5a7-588b-417b-b3e1-3599ede2b84b">IC3 - Infra Engineer - SRE</a></td>
-<td>Ciudad de México, México<br/>NETPAY S.A.P.I DE C.V</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/spin/jobs/4728319005">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Genius Sports</strong></td>
@@ -221,13 +207,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Monterrey, Mexico<br/>Mexico City, Mexico</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/assetwatch/jobs/4728615005">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Peek</strong></td>
-<td><a href="https://trueinterview.io/jobs/2005a285-e58f-4f9b-8b22-2c6840940c08">Data Analyst – Analytics and AI</a></td>
-<td>Mexico City<br/>Monterrey<br/>Guadalajara<br/>+3 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/peek/cc80104d-5aef-45cc-829e-e619f9a5704e/application">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Fortinet</strong></td>

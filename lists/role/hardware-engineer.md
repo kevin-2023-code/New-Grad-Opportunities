@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**84 open roles.** 82 in the United States & Canada · 2 elsewhere in the world.
+**82 open roles.** 80 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -99,13 +99,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f3d81524-7341-4154-9421-721346806508">ASIC Design Verification Eng II Full Time - United States</a></td>
 <td>San Jose, California, US, United States of America<br/>RTP, North Carolina, US</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Verification-Eng-II-Full-Time---United-States_2024667">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c97d5a9-7862-44a6-8ee3-46aa862873e4">Silicon Photonics Quality &amp; Reliability Engineer</a></td>
-<td>US, New Mexico, Albuquerque, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/Silicon-Photonics-Quality---Reliability-Engineer_JR0287337">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -464,13 +457,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Bastrop, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8730253002?gh_jid=8730253002">Apply</a></td>
 <td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/22ade76f-f44d-4af7-a8b3-a7b715d66260">NVIDIA 2027 Internships: Hardware ASIC Design</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397025803">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Broadcom</strong></td>

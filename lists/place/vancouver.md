@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**20 open roles.**
+**19 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,13 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States, Canada<br/>Vancouver, BC</td>
 <td align="center"><a href="https://www.zoominfo.com/careers?gh_jid=8769474002">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Match Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/23ff743f-8fe9-4787-b458-7b8ed8c10c5e">AI Product Engineer</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia</td>
-<td align="center"><a href="https://jobs.lever.co/matchgroup/69396299-e587-4063-aef6-0ce2fd66e9ee/apply">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Evismart</strong></td>

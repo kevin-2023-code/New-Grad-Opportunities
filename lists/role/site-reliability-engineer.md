@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**21 open roles.** 13 in the United States & Canada · 8 elsewhere in the world.
+**19 open roles.** 12 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/f0c82ce0-fced-4993-b5f2-9ae0b136d2b1">SRE Database Administrator (DBA) (Hybrid)</a></td>
-<td>Austin, TX<br/>RTP, North Carolina, US, United States of America<br/>Austin, Texas, US</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer_2014845">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/8a0f4bdd-aa2a-429d-884f-06070f8c1285">Site Reliability Engineer</a></td>
@@ -161,13 +154,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Paris</td>
 <td align="center"><a href="https://jobs.lever.co/safran-ai/281a1acd-5f1d-4a1b-b819-de79f7859e59/apply">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Spin Careers</strong></td>
-<td><a href="https://trueinterview.io/jobs/1e36b5a7-588b-417b-b3e1-3599ede2b84b">IC3 - Infra Engineer - SRE</a></td>
-<td>Ciudad de México, México<br/>NETPAY S.A.P.I DE C.V</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/spin/jobs/4728319005">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Skelar</strong></td>

@@ -2,7 +2,7 @@
 
 # 🏛️ Government, research & non-profits
 
-**19 open roles.** 7 in the United States & Canada · 12 elsewhere in the world. Agencies, national laboratories, universities, research institutes and charities.
+**20 open roles.** 7 in the United States & Canada · 13 elsewhere in the world. Agencies, national laboratories, universities, research institutes and charities.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -78,6 +78,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Our Future Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/c633ae1e-fe04-414f-8709-70bd52e12112">Platform Engineer</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://4dayweek.io/job/platform-engineer-at-our-future-health-3f54f829">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>The City Of Fort Worth</strong></td>
 <td><a href="https://trueinterview.io/jobs/48bd4161-f654-4fe8-a38d-bf4afc944fb5">Engineer Project Coordinator</a></td>

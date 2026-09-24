@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**17 open roles.** 11 in the United States & Canada · 6 elsewhere in the world.
+**16 open roles.** 10 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,13 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — Canada, United States</td>
 <td align="center"><a href="https://www.coalitioninc.com/job-posting?gh_jid=4734029005">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Inalab</strong></td>
-<td><a href="https://trueinterview.io/jobs/1bf13ed2-63e7-4173-85fe-6739fcc0a8e0">Front-End Application Developer - FWS</a></td>
-<td>Falls Church, VA<br/>Fort Collins, CO</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/inalabconsulting/jobs/5421149008">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>FitMate</strong></td>

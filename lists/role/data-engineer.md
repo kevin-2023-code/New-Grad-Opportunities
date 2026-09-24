@@ -408,6 +408,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/79fbcd23-8924-46d4-9fc4-48b96a23ed84">IN_Senior Manager_Azure Data Engineer_OC-Data &amp; Analytics AITH_Advisory_Bhubaneswar</a></td>
+<td>Bhubaneswar - Ihub</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bhubaneswar---Ihub/IN-Manager-Azure-Data-Engineer-OC-Data---Analytics-Advisory-Bhubaneswar_738417WD-1">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Valtech</strong></td>
 <td><a href="https://trueinterview.io/jobs/6c0cb37b-44f8-42f5-bcf6-c4c223b5face">Data Engineer Pleno (Vaga Temporária - Part time)</a> 🌐</td>
 <td>Remote — Brazil</td>
@@ -462,13 +469,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>8 Locations</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Senior-Data-Engineer---FCU-Technology-Team_715408WD">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Capco</strong></td>
-<td><a href="https://trueinterview.io/jobs/1febcb9e-0f3c-4c66-81c6-e6de04b2b936">Analista de Business Intelligence</a></td>
-<td>Brazil - Rio de Janeiro</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8208305">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Inter Carreiras</strong></td>

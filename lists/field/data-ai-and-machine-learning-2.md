@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**425 open roles.** 287 in the United States & Canada · 138 elsewhere in the world.
+**421 open roles.** 281 in the United States & Canada · 140 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,34 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Posthog</strong></td>
-<td><a href="https://trueinterview.io/jobs/3679c0d8-1dd2-48fb-9729-8e916b93e906">AI Research Engineer</a></td>
-<td>Hybrid (UK)</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/posthog/8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3/application">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Outpost</strong></td>
-<td><a href="https://trueinterview.io/jobs/879f0826-bd02-4d52-9ed2-231603542d65">Machine Learning Data Engineer (Contract)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/outpost/0653bc36-22ee-4922-aab7-5fafdf589443/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Iambic Therapeutics</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf8a47ea-fd20-458f-91ab-e807f47e02f7">Research Scientist I/II, Immunology</a></td>
-<td>San Diego HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/iambic-therapeutics/41e94f6a-c5ea-4c52-b527-e2976a08347d/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Knowbe4</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac050882-21d0-4f4b-b577-9c7ae9e5fcce">Analytics Engineer(Position located in Bengaluru, India)</a></td>
-<td>Bengaluru, India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8721151002">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>Spreetail</strong></td>
 <td><a href="https://trueinterview.io/jobs/7dc6799f-82fb-41c4-9b7b-e63368266a28">RPA &amp; AI Automation Engineer</a></td>

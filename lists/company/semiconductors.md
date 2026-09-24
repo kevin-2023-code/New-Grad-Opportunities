@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**365 open roles.** 356 in the United States & Canada · 9 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**358 open roles.** 351 in the United States & Canada · 7 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -176,13 +176,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d2f5d910-f579-4584-8928-9f8b794d7901">Electrical Design Engineer - Power &amp; Controls</a></td>
 <td>Ann Arbor, MI, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Electrical-Design-Engineer---Power---Controls_2641323">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1fab8b28-0b2d-43bf-9a27-ba9e70be357c">Quality Chemical Engineer</a></td>
-<td>Totowa, NJ, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Quality-Chemical-Engineer_2640470">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -368,13 +361,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1c97d5a9-7862-44a6-8ee3-46aa862873e4">Silicon Photonics Quality &amp; Reliability Engineer</a></td>
-<td>US, New Mexico, Albuquerque, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/Silicon-Photonics-Quality---Reliability-Engineer_JR0287337">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/fe7db549-bc9b-4457-b556-4f20d7a9474b">Research Scientist, Networking Research - PhD New College Grad 2026</a></td>
 <td>Santa Clara, CA, US</td>
@@ -498,13 +484,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/989390d8-7ecd-4992-8256-8f320ebe926c">Algorithm Engineer - Deep Learning</a></td>
 <td>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineer---Deep-Learning_2636296">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2437b072-ef7a-4916-b513-26f84c174df9">Applications Development Engineer - FaST</a></td>
-<td>Milpitas, CA, United States of America<br/>Hillsboro, OR, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineer---FaST_2637468-1">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -1009,13 +988,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e0f31f69-6737-4ce3-8cb2-b898fc18d671">Cloud Platform Engineer</a></td>
 <td>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Cloud-Platform-Engineer_2639358">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1cd19aa7-4527-4437-a066-6d7c48a6f413">HPC Systems Engineer</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Platform-Engineer_2638542">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
@@ -2027,6 +1999,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/222d4e94-e52a-4011-adfe-1ca6d669ebc0">Associate Product Engineer (Product Development)</a></td>
+<td>US, MA, Wilmington, United States of America<br/>US, NC, Durham</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/4d38e8a9-89c8-452d-9973-712cb901259e">DfSafety and Reliability Engineer</a></td>
 <td>Santa Clara, CA, US</td>
@@ -2126,13 +2105,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/22ade76f-f44d-4af7-a8b3-a7b715d66260">NVIDIA 2027 Internships: Hardware ASIC Design</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397025803">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/369af181-673a-49e1-88c5-8d314baac38a">NVIDIA 2027 Internships: Hardware Engineering</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397027188">Apply</a></td>
@@ -2157,13 +2129,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a6abc3a1-c7f1-4ca1-9501-e1caab87edb8">NVIDIA Spring 2027 Internships: Developer and Performance Technology</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397026396">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>QUALCOMM</strong></td>
-<td><a href="https://trueinterview.io/jobs/23ed5759-e836-470d-99f0-881174c85303">V2X Customer Engineer -  Netanya</a></td>
-<td>Kfar Netter, Center District, IL</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720516229">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
@@ -2523,13 +2488,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/1dbc0c5d-b8a2-4552-b653-55a60fd86415">QA Automation Engineer, Cloud Orchestrations</a></td>
-<td>Israel, Tel Aviv</td>
-<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/QA-Automation-Engineer--Cloud-Orchestrations_JR2025739">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c5b64780-779b-478e-8e2d-6f0d2d340c97">Developer Technology Engineer, Energy</a></td>
 <td>6 Locations</td>
 <td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineer--Energy_JR2018521">Apply</a></td>
@@ -2551,13 +2509,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f622069-059e-4226-a0f8-a95f7d548ec2">Software Test Developer, SDET - Robotics</a></td>
-<td>China, Shanghai</td>
-<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Test-Developer--SDET---Robotics_JR2024862">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/57bcf571-5a48-480e-9d11-242f03a0437f">Security Software Engineer, Vulnerability Operations</a></td>
 <td>6 Locations</td>
 <td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Security-Software-Engineer--Vulnerability-Operations_JR2024620-1">Apply</a></td>

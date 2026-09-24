@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**78 open roles.**
+**77 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Exiger</strong></td>
-<td><a href="https://trueinterview.io/jobs/20e1d5ac-8a84-465b-95b2-076c798d4c5f">Threat Cybersecurity Engineer</a></td>
-<td>McLean, Virginia, United States<br/>New York, NY<br/>New York, New York, United States<br/>+1 more</td>
-<td align="center"><a href="https://www.exiger.com/careers/6206838004?gh_jid=6206838004">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Accenture Federal Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/18e1a41d-bad3-445e-8242-50efafa34eb5">UNIX / OS Systems Admin</a></td>

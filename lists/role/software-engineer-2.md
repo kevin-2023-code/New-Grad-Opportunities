@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**450 open roles.** 332 in the United States & Canada · 118 elsewhere in the world.
+**441 open roles.** 326 in the United States & Canada · 115 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,69 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Mastercard</strong></td>
-<td><a href="https://trueinterview.io/jobs/df7eee05-c6c7-4564-a593-2b25322aa17a">Software Engineer - Java Spring Boot</a></td>
-<td>Pune, India</td>
-<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289581">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/87e149ef-58e8-484c-be62-50e54bc0b0e7">Developer Relations Engineer - Ecosystem &amp; Product Operations</a></td>
-<td>Penang, Malaysia</td>
-<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Developer-Relations-Engineer---Ecosystem---Product-Operations_R65242">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Natera</strong></td>
-<td><a href="https://trueinterview.io/jobs/62c9c972-b9a1-40d2-9eca-78ac5e358523">Natera / L3 Software Engineer / Full-Time / Remote, USA / 140 - 160k USD / Genomics Tech /</a></td>
-<td>Full-Time</td>
-<td align="center"><a href="https://natera.com/">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sticker Mule</strong></td>
-<td><a href="https://trueinterview.io/jobs/46a930c8-49c3-4bdc-930a-411b11575468">Software engineer</a></td>
-<td>—</td>
-<td align="center"><a href="https://nodesk.co/remote-jobs/sticker-mule-software-engineer/">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Experian</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c67176a-12a3-4b39-b469-e7b84b1aca63">Software Engineer I</a></td>
-<td>Cyberjaya, Selangor, Malaysia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000147095609-software-engineer-i?oga=true">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Yubico Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/bb5301db-5194-4a9a-876a-0c372122b935">Software Engineer (Cross-Platform Applications)</a></td>
-<td>Stockholm, Sweden</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/yubico/jobs/4390628009">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Trulioo</strong></td>
-<td><a href="https://trueinterview.io/jobs/bec4d139-9187-43f5-83c6-e5f12764e83f">Junior Software Engineer</a></td>
-<td>San Diego</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Spin Careers</strong></td>
-<td><a href="https://trueinterview.io/jobs/decaa2e6-b7ca-4c0a-b8d6-dd4ae1f528e7">IC1 - Software Engineer Backend</a></td>
-<td>México, México<br/>NETPAY S.A.P.I DE C.V</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/spin/jobs/4729103005">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ciena</strong></td>
-<td><a href="https://trueinterview.io/jobs/d60662d0-8608-40c1-9a65-5cf22c3d2063">Java Developer- Telecom Domain</a></td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Bengaluru/Java-Developer--Telecom-Domain_R031564">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Motorola Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/31ec863f-8609-44e2-95ce-e051fab6c674">Graduate Software Engineer</a></td>

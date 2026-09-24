@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**110 open roles.** 81 in the United States & Canada · 29 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**108 open roles.** 80 in the United States & Canada · 28 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -382,13 +382,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Vanta</strong></td>
-<td><a href="https://trueinterview.io/jobs/23efe32d-0e84-4756-85e0-8b0c311956c5">Software Engineer, Integrations Platform, Vanta For Government (V4G)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/vanta/0ccbb65f-f675-410a-ae54-1d34575f228a/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Handshake</strong></td>
 <td><a href="https://trueinterview.io/jobs/dc533b6c-4548-47ee-8db7-351d01b2419b">AI Red Teamer, Cybersecurity</a></td>
 <td>Seattle, WA</td>
@@ -692,13 +685,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c6a5e4bd-a36f-4200-9c88-9f68fbb99efc">Technical Support Specialist - German speaking</a></td>
 <td>Budapest, Hungary</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8180700/apply/?gh_jid=8180700">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ncontracts</strong></td>
-<td><a href="https://trueinterview.io/jobs/2387c32b-2d76-4063-9717-9235fb868b72">Software Developer - L4</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ncontracts/26450edb-10ca-4286-81f6-7203f177c122/application">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>

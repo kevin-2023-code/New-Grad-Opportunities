@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**85 open roles.**
+**84 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -124,13 +124,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/2437b072-ef7a-4916-b513-26f84c174df9">Applications Development Engineer - FaST</a></td>
-<td>Hillsboro, OR, United States of America<br/>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineer---FaST_2637468-1">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c402b042-c347-4697-9fea-193ef71c24ae">Customer Engagement Applications Engineer - SWIFT</a></td>
 <td>Hillsboro, OR, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Customer-Engagement-Applications-Engineer---SWIFT_2636970-1">Apply</a></td>

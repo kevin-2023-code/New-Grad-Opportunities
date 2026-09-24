@@ -228,13 +228,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Benesch</strong></td>
-<td><a href="https://trueinterview.io/jobs/24047199-a7b0-4e2a-b68d-c37ea07c780e">Transportation Engineering - Highway/Roadway Design</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.benesch.com/job-openings/5227344007?gh_jid=5227344007">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/32fe8e00-a330-4382-8fd9-7c4e0bea9e1e">Mission Software Engineer - Undersea Reconnaissance &amp; Strike</a></td>
 <td>Boston, Massachusetts, United States<br/>Quincy, Massachusetts, United States<br/>Washington, DC<br/>+1 more</td>
@@ -355,6 +348,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/222d4e94-e52a-4011-adfe-1ca6d669ebc0">Associate Product Engineer (Product Development)</a></td>
+<td>US, MA, Wilmington, United States of America<br/>US, NC, Durham</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d145b417-ea6b-4577-afea-c904755cccd3">Forward Deployed Engineer</a></td>
 <td>US, MA, Boston<br/>US, CA, San Jose, Rio Robles, United States of America</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Forward-Deployed-Engineer_R264808">Apply</a></td>

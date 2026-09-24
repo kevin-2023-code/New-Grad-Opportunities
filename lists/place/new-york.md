@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**199 open roles.**
+**193 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9199a180-ea63-4066-b2a5-10c4f3c18f7d">Security Systems Engineer</a></td>
 <td>New York, NY<br/>Seattle, WA<br/>Denver, CO<br/>+1 more</td>
 <td align="center"><a href="https://jobs.lever.co/palantir/98c244fc-444b-43ba-b152-30227191170b/apply">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Exiger</strong></td>
-<td><a href="https://trueinterview.io/jobs/20e1d5ac-8a84-465b-95b2-076c798d4c5f">Threat Cybersecurity Engineer</a></td>
-<td>New York, NY<br/>New York, New York, United States<br/>McLean, Virginia, United States<br/>+1 more</td>
-<td align="center"><a href="https://www.exiger.com/careers/6206838004?gh_jid=6206838004">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -447,13 +440,6 @@ Machine Learning for Monetization (PhD)</a></td>
 </tr>
 <tr>
 <td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c28fbb2-7fcd-4608-8291-6676ea75ce7e">Controls Engineer, R&amp;D</a></td>
-<td>New York, NY<br/>Austin, TX<br/>San Francisco, CA<br/>+3 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/9874bcd9-2373-4062-9e04-cdd0a994f0d4/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1f65098e-31f0-4548-bd46-bdf654e2e197">Test Engineer, R&amp;D</a></td>
 <td>New York, NY<br/>Austin, TX<br/>San Francisco, CA<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/642d24de-0fad-4dae-bbd6-16b6a1abf69b/application">Apply</a></td>
@@ -555,13 +541,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/5adca799-0ca6-4f9b-9a29-2b7cc0576a75">Research Scientist, Map Scalability</a></td>
 <td>New York City, NY, U.S.A<br/>Mountain View, CA, U.S.A<br/>San Francisco, CA, U.S.A</td>
 <td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8180692">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Physicsx</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fd34250-1a7d-4115-80aa-911b33245af0">CFD Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/physicsx/jobs/4971199101">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
@@ -901,13 +880,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Method Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/200ff4b9-7872-457d-ab5a-91d4a3d66b9e">Design Engineer</a></td>
-<td>New York, NY<br/>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/method/4c0bd39f-d36e-44ec-8ba2-ea0578502df0/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Sagesure</strong></td>
 <td><a href="https://trueinterview.io/jobs/90cbd5f0-7ed5-4044-88cf-0d186ce50e9d">Associate Designer</a></td>
 <td>Jersey City, New Jersey, United States<br/>Jersey City, NJ</td>
@@ -1010,13 +982,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/b2a4b351-a119-490e-89ae-36a223ff56b4">Data Scientist, Media Consultant</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/known/jobs/8728988002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Sesame</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d52fc4e-b4eb-4865-a25b-ce17b45ab3dc">Software Engineer - Backend</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>Bellevue, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sesame/04780842-fd58-41d9-87a1-f65e818eebab/application">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
@@ -1403,13 +1368,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td>Remote — United States<br/>New York, NY</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1084428050580464/">Apply</a></td>
 <td align="center">28 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>Rilla</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f17376a-3137-472b-abae-a761690acb3b">GTM Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rilla/bad787f7-83ef-471b-9f9a-054799ba7476/application">Apply</a></td>
-<td align="center">26 Jul 2026</td>
 </tr>
 </tbody>
 </table>

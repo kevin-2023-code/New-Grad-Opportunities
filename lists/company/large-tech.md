@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**279 open roles.** 226 in the United States & Canada · 53 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**275 open roles.** 222 in the United States & Canada · 53 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -176,13 +176,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2a1d0472-c329-443c-9086-ae2db2df7f53">Forward Deployed Engineer (FDE), Financial Services- NYC</a></td>
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/7f76be3a-38d0-4ff4-b997-9f1672e78bc0/application">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Match Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/23ff743f-8fe9-4787-b458-7b8ed8c10c5e">AI Product Engineer</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia</td>
-<td align="center"><a href="https://jobs.lever.co/matchgroup/69396299-e587-4063-aef6-0ce2fd66e9ee/apply">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -1047,14 +1040,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Twitch</strong></td>
-<td><a href="https://trueinterview.io/jobs/231f3e53-f6e5-4b9e-9871-a6e7d2d82431">Software Development Engineer, Security Platform</a></td>
-<td>Seattle, WA<br/>San Francisco, CA<br/>Irvine, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8739185002">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8fa07cf1-da2b-4e5f-a246-16a199adce9a">Research Engineer / Research Scientist, Health</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/719cc0f6-ed38-41db-8870-299b4d336f37/application">Apply</a></td>
@@ -1341,13 +1327,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Okx</strong></td>
-<td><a href="https://trueinterview.io/jobs/21d7d415-65f1-4a5c-8e0b-066ed9770921">Software Engineer, Mobile</a></td>
-<td>San Jose, California, United States<br/>San Jose, United States (US)</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/okx/jobs/7786383003">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Pure Storage</strong></td>
 <td><a href="https://trueinterview.io/jobs/45ae2c60-989b-450c-ba26-ceaf70534129">Product Quality Engineer</a></td>
 <td>Fountain Valley, California<br/>Manufacturing - Fountain Valley, CA (Kingston)</td>
@@ -1471,13 +1450,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3a94089a-38c1-42c0-80cf-14facb08a61c">Data Scientist, B2B Demand Generation, Growth &amp; Measurement</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/7f299784-2c75-4d73-99e5-1e5043ec7b48/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1fbb3088-d844-417c-8479-3e0656ffcac7">PCBA Manufacturing Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/a547274b-246c-41a0-8590-a874fcc6f28b/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
@@ -1661,6 +1633,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Canva</strong></td>
+<td><a href="https://trueinterview.io/jobs/22db5d2e-c4c1-4c13-8dc9-22d65aa9e31c">AI Quality Evaluator - Czech (12-month Contract)</a></td>
+<td>Prague, Prague, Czechia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Canva/6000000001409416-ai-quality-evaluator-czech-12-month-contract-?oga=true">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Esri</strong></td>
 <td><a href="https://trueinterview.io/jobs/a04cb953-9d63-499c-bb37-d9cd2e18abbc">Software Development Engineer – Test Automation Infrastructure (SDET)</a></td>
 <td>New Delhi, Delhi, India<br/>New Delhi R&amp;D Center</td>
@@ -1693,13 +1672,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/679586bb-64f8-40a5-9680-8c2de61b1f1c">SIEM Security Engineer</a></td>
 <td>Gurugram</td>
 <td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/SIEM-Security-Engineer_R031342">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Gameloft</strong></td>
-<td><a href="https://trueinterview.io/jobs/20e0a258-fb9e-407c-b39c-09900e172b2a">developer, software</a></td>
-<td>Montréal (QC)</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50265243">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>

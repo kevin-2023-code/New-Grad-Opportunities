@@ -2,7 +2,7 @@
 
 # 🎮 Gaming & interactive
 
-**15 open roles.** 11 in the United States & Canada · 4 elsewhere in the world. Games, game engines and interactive entertainment.
+**13 open roles.** 10 in the United States & Canada · 3 elsewhere in the world. Games, game engines and interactive entertainment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,13 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, ON</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50309994">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Thatgamecompany</strong></td>
-<td><a href="https://trueinterview.io/jobs/1e4a7b53-1207-4b3d-bc7e-a9a325d81c74">IT Support Specialist</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/thatgamecompany/e452d895-1efa-4d8f-b7b7-b60d1f73c4a6/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Ubisoft Montreal</strong></td>
@@ -106,13 +99,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Gameloft</strong></td>
-<td><a href="https://trueinterview.io/jobs/20e0a258-fb9e-407c-b39c-09900e172b2a">developer, software</a></td>
-<td>Montréal (QC)</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50265243">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Improbable</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ba188f0-c770-4d71-a782-2fe30edc59a0">AI Researcher - Bolter</a> 🌐</td>

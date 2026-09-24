@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**50 open roles.** 33 in the United States & Canada · 17 elsewhere in the world.
+**51 open roles.** 32 in the United States & Canada · 19 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -102,13 +102,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/1deb86c2-6c15-4c28-a9bd-90faf5ddfa73">Full Stack Software Engineer, Flight Software</a></td>
-<td>Cape Canaveral, FL</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8784863002?gh_jid=8784863002">Apply</a></td>
-<td align="center">5 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Reveal Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/6e033d03-5c4e-4c0e-995d-bceb7658eab3">Full Stack Engineer - (Ruby on Rails/React)</a> 🌐</td>
 <td>Remote — United States</td>
@@ -144,11 +137,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1d9d5f46-3161-4af0-a093-c452d6507c17">Full Stack Software Engineer, Developer Systems</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8763489002?gh_jid=8763489002">Apply</a></td>
-<td align="center">30 Aug 2026</td>
+<td><strong>Mirego</strong></td>
+<td><a href="https://trueinterview.io/jobs/2239cfac-d37b-47d2-84c6-3fd013402dbd">Développeur(euse) Web Fullstack</a></td>
+<td>Québec, QC<br/>Montréal, QC</td>
+<td align="center"><a href="https://jobs.lever.co/mirego/d15cb282-dba5-4d22-99c6-c8dc5039fa75/apply">Apply</a></td>
+<td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Lm Studio</strong></td>
@@ -262,6 +255,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/733f1124-3acf-419f-8973-3332cd0920e6">IN_Senior Associate_.Net Fullstack Developer_GCC_Advisory_Banaglore</a></td>
+<td>Hyderabad - Salarpuria</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Adobe-Experience-Manager-content-management-system-GCC-Advisory-Banaglore_744222WD-1">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cfd32831-ccb8-45fc-9d17-487949412717">IN_Senior Associate_.Net Full stack Developer_GCC_Advisory_Bangalore</a></td>
 <td>Hyderabad - Salarpuria</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-QA-Automation-GCC-Advisory-Bangalore_746443WD">Apply</a></td>
@@ -371,6 +371,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/The%20Browser%20Company/8f66fbf3-9ec5-43a2-968a-5ac030492562/application">Apply</a></td>
 <td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Anaplan</strong></td>
+<td><a href="https://trueinterview.io/jobs/2401fa71-8edd-4535-9f74-2bd097bbf0a6">Engineer I</a></td>
+<td>Gurugram - Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/anaplan/jobs/8636271002">Apply</a></td>
+<td align="center">13 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Protege</strong></td>

@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**635 open roles.** 583 in the United States & Canada · 52 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**628 open roles.** 579 in the United States & Canada · 49 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -301,13 +301,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1fab8b28-0b2d-43bf-9a27-ba9e70be357c">Quality Chemical Engineer</a></td>
-<td>Totowa, NJ, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Quality-Chemical-Engineer_2640470">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/862fdcdd-2e2c-41e2-937a-51bebe3e43f0">CAD Engineer</a></td>
 <td>Richardson, TX, US</td>
@@ -389,13 +382,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/70135ed4-cc61-4596-884d-a294ea548e9c">ASIC Physical Design Engineer</a></td>
 <td>San Jose, California, US, United States of America<br/>Austin, TX<br/>Austin, Texas, US<br/>+1 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Physical-Design-Engineer_2015743-1">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f0c82ce0-fced-4993-b5f2-9ae0b136d2b1">SRE Database Administrator (DBA) (Hybrid)</a></td>
-<td>Austin, TX<br/>RTP, North Carolina, US, United States of America<br/>Austin, Texas, US</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer_2014845">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -655,13 +641,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/f8fea37f-1e8b-46d8-9e77-ce06c6fa6803">Capacity and Capital Planning Engineer - Foundry</a></td>
 <td>US, Arizona, Phoenix, United States of America<br/>US, Oregon, Hillsboro<br/>US, New Mexico, Albuquerque<br/>+3 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Capacity-and-Capital-Planning-Engineer---Foundry_JR0287204-1">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1c97d5a9-7862-44a6-8ee3-46aa862873e4">Silicon Photonics Quality &amp; Reliability Engineer</a></td>
-<td>US, New Mexico, Albuquerque, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/Silicon-Photonics-Quality---Reliability-Engineer_JR0287337">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -1005,13 +984,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/989390d8-7ecd-4992-8256-8f320ebe926c">Algorithm Engineer - Deep Learning</a></td>
 <td>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineer---Deep-Learning_2636296">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2437b072-ef7a-4916-b513-26f84c174df9">Applications Development Engineer - FaST</a></td>
-<td>Milpitas, CA, United States of America<br/>Hillsboro, OR, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineer---FaST_2637468-1">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -1750,6 +1722,13 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Autodesk</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d6f855e-a6ad-47ee-ae4f-c90e191fb452">Test Position - do not apply</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Test-Position---do-not-apply_26WD101118">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Coherent Corp.</strong></td>
 <td><a href="https://trueinterview.io/jobs/7fbae9c6-77c3-4ee3-961e-15980fabbb14">Equipment Engineer: Plasma / Dry Etch</a></td>
 <td>Sherman, TX, United States</td>
@@ -1782,13 +1761,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/e0f31f69-6737-4ce3-8cb2-b898fc18d671">Cloud Platform Engineer</a></td>
 <td>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Cloud-Platform-Engineer_2639358">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1cd19aa7-4527-4437-a066-6d7c48a6f413">HPC Systems Engineer</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Platform-Engineer_2638542">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
@@ -2590,6 +2562,13 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e6c2290-8865-4200-983e-cb60a58b1556">Product Support Specialist - Automotive</a></td>
+<td>Olathe, Kansas, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/19875?lang=en-us">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/352b8eed-6a29-44e7-bc54-ada9eaee4a38">CAD/EDA Tools Automation Engineer</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
@@ -2818,6 +2797,27 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/13eaf2d0-f54f-4163-8eee-8bc039b8ae2d">Product Support Specialist 1 - Spanish - 10 a.m. - 7 p.m.</a></td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/18037?lang=en-us">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/a69b716d-c261-4588-a4de-af4a4ba7f8b6">Electrical Design Engineer Graduate</a></td>
+<td>Spring, Texas, United States of America<br/>Chippewa Falls, Wisconsin, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Design-Engineer-Graduate_1213429-1">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/524491fd-717c-4624-9911-5195b5745864">Technology Development Quality and Reliability Engineer</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Technology-Development-Quality-and-Reliability-Engineer_JR0286749">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/241ac20a-a5de-434b-9a8c-a9983eb0b2b6">Software Engineer, Measurement Applications</a></td>
+<td>US-CO-Col Springs-Bldg C<br/>Colorado Springs, Colorado, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54139?lang=en-us">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**79 open roles.** 55 in the United States & Canada · 24 elsewhere in the world.
+**76 open roles.** 52 in the United States & Canada · 24 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,13 +25,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Exiger</strong></td>
-<td><a href="https://trueinterview.io/jobs/20e1d5ac-8a84-465b-95b2-076c798d4c5f">Threat Cybersecurity Engineer</a></td>
-<td>New York, NY<br/>McLean, Virginia, United States<br/>New York, New York, United States<br/>+1 more</td>
-<td align="center"><a href="https://www.exiger.com/careers/6206838004?gh_jid=6206838004">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Cursor</strong></td>
 <td><a href="https://trueinterview.io/jobs/6e31876e-580a-4a73-97b2-219f143e105c">Security GRC Engineer</a></td>
 <td>San Francisco, CA<br/>Palo Alto, CA</td>
@@ -50,13 +43,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9a2ff1f3-67cd-493f-b18d-022c218f3202">Security Engineer, Enterprise Security</a></td>
 <td>San Jose, CA<br/>HQ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4714390006">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hadrian Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f5f2bad-5112-49bb-baa4-6765dc029058">Security Engineer, Full Stack</a></td>
-<td>Seattle/Bellevue Area, WA<br/>San Francisco Bay Area, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/2a92e015-66b8-4f1a-b20f-06cd598651c5/application">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -352,13 +338,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317577115">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anavation</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d22a0d3-89eb-49ed-ac3d-31ca54fb6ac7">Information System Security Engineer (ISSE)</a></td>
-<td>Huntsville, AL</td>
-<td align="center"><a href="https://jobs.lever.co/anavationllc/fefebf50-7ef2-402c-b0d5-5ef66c1c6ef5/apply">Apply</a></td>
-<td align="center">10 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Cognition</strong></td>

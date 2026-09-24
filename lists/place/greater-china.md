@@ -2,7 +2,7 @@
 
 # 🏮 Beijing, Shanghai, Taipei & Hong Kong
 
-**7 open roles.**
+**6 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,13 +25,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Taipei, Taiwan</td>
 <td align="center"><a href="https://4dayweek.io/job/system-software-engineer-at-framework-6a7fd510">Apply</a></td>
 <td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f622069-059e-4226-a0f8-a95f7d548ec2">Software Test Developer, SDET - Robotics</a></td>
-<td>China, Shanghai</td>
-<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Test-Developer--SDET---Robotics_JR2024862">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Akuna Capital</strong></td>

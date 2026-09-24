@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**163 open roles.** 84 in the United States & Canada · 79 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**162 open roles.** 81 in the United States & Canada · 81 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>66degrees</strong></td>
-<td><a href="https://trueinterview.io/jobs/208bdec1-b7dd-41e7-93b5-d1cbb06270ce">Security Operations AI Engineer, Contract</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/66degrees/jobs/6206846004">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Intelligent Technical Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/f440d2d0-d200-44a4-8ad1-f525c14a0b03">IT Technician I (Olympia, WA)</a></td>
@@ -281,13 +274,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/aade0709-9dcb-4fce-9515-6edb98f4e520">VA Cybersecurity and Compliance Specialist</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://ironbow-com.sandbox.hs-sites.com/job-details?gh_jid=5225629007">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Trace3</strong></td>
-<td><a href="https://trueinterview.io/jobs/22d8cab5-686c-4ae0-b1fb-eace2f41af0a">Algorithm Software Engineer</a></td>
-<td>Huntsville, AL</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/trace3/jobs/8164535">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
@@ -572,13 +558,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Anavation</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d22a0d3-89eb-49ed-ac3d-31ca54fb6ac7">Information System Security Engineer (ISSE)</a></td>
-<td>Huntsville, AL</td>
-<td align="center"><a href="https://jobs.lever.co/anavationllc/fefebf50-7ef2-402c-b0d5-5ef66c1c6ef5/apply">Apply</a></td>
-<td align="center">10 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/526bbdbc-6b89-4bd2-837e-ea79cfc1f7f6">Software Engineer</a></td>
 <td>Hanover, MD</td>
 <td align="center"><a href="https://jobs.lever.co/anavationllc/3bba9df8-4987-4ee3-b878-b13cb8828763/apply">Apply</a></td>
@@ -617,6 +596,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/733f1124-3acf-419f-8973-3332cd0920e6">IN_Senior Associate_.Net Fullstack Developer_GCC_Advisory_Banaglore</a></td>
+<td>Hyderabad - Salarpuria</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Adobe-Experience-Manager-content-management-system-GCC-Advisory-Banaglore_744222WD-1">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4c38b1d1-4eec-4cb4-8098-2ad78b3f0779">IN_Senior Associate_Agentic AI Engineer_GCC_Advisory_Bangalore</a></td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Agentic-AI-Engineer-GCC-Advisory-Bangalore_738339WD-1">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/79fbcd23-8924-46d4-9fc4-48b96a23ed84">IN_Senior Manager_Azure Data Engineer_OC-Data &amp; Analytics AITH_Advisory_Bhubaneswar</a></td>
+<td>Bhubaneswar - Ihub</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bhubaneswar---Ihub/IN-Manager-Azure-Data-Engineer-OC-Data---Analytics-Advisory-Bhubaneswar_738417WD-1">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Valtech</strong></td>
 <td><a href="https://trueinterview.io/jobs/6c0cb37b-44f8-42f5-bcf6-c4c223b5face">Data Engineer Pleno (Vaga Temporária - Part time)</a> 🌐</td>
@@ -965,13 +965,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/67045e24-e13e-427a-a0eb-8d784cbba9f7">Software Engineer – Product Development</a></td>
 <td>Peru<br/>Lima</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/encora10/jobs/5218382007">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Capco</strong></td>
-<td><a href="https://trueinterview.io/jobs/21dfc30b-64b9-4887-8fa5-1882116255dd">Desenvolvedor(a) Front-end - Flutter</a></td>
-<td>Brazil - Sao Paulo</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8176938">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>

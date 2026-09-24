@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**138 open roles.** 99 in the United States & Canada · 39 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**135 open roles.** 97 in the United States & Canada · 38 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -148,6 +148,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/13c93d5c-d0c0-4c6d-aab7-85ba54545c9d">Software Engineer, 2027 Graduate U.S.</a></td>
 <td>Seattle - United States - Seattle, Washington United States</td>
 <td align="center"><a href="https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job?mode=apply">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Autodesk</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d6f855e-a6ad-47ee-ae4f-c90e191fb452">Test Position - do not apply</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Test-Position---do-not-apply_26WD101118">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
@@ -529,13 +536,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/209c79e1-feab-4d7a-a115-75e33951913a">Core Infrastructure Engineer</a></td>
-<td>Nashville, TN, United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/341865">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Figma</strong></td>
 <td><a href="https://trueinterview.io/jobs/9e0f3232-34ad-455b-8c5b-78292284ba7a">Brand Designer,  Product Launches</a></td>
 <td>San Francisco, CA • New York, NY • United States<br/>Canada</td>
@@ -547,13 +547,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a7a189ec-4d65-4cc1-a0e0-43ebbc837a9a">AI Video Creator &amp; Presentation Designer</a></td>
 <td>Bengaluru, IN</td>
 <td align="center"><a href="https://jobs.lever.co/vendavo/d40d7a21-f5dd-418b-8376-e4d261fc56d7/apply">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Leandata</strong></td>
-<td><a href="https://trueinterview.io/jobs/20ce3511-bcc1-4d16-a4d2-1768b6f58f4e">GTM Engineer (Data &amp; AI)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/leandata/f99f182d-bc0e-403a-bb41-2cf4b080a410/application">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>
@@ -703,13 +696,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.esri.com/careers/5195181007?gh_jid=5195181007">Apply</a></td>
 <td align="center">26 Jul 2026</td>
 </tr>
-<tr>
-<td><strong>Rilla</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f17376a-3137-472b-abae-a761690acb3b">GTM Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rilla/bad787f7-83ef-471b-9f9a-054799ba7476/application">Apply</a></td>
-<td align="center">26 Jul 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -745,13 +731,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Adobe</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fe12a8b-c94a-4e2f-aa03-80dbf7dd4347">Data Platform Engineer</a></td>
-<td>Bucharest</td>
-<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Data-Platform-Engineer_R169536">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cd86f9bf-f073-474e-bd7e-fa71873f4edc">Data Scientist</a></td>
 <td>2 Locations</td>
 <td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Data-Scientist_R171177-1">Apply</a></td>
@@ -790,6 +769,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/17fbda0a-0635-4e74-a3ec-c55473370c97">ProdOps &amp; Support Engineer</a></td>
 <td>Dundee, Scotland<br/>Scotland</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/optimove/jobs/4978622101">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Canva</strong></td>
+<td><a href="https://trueinterview.io/jobs/22db5d2e-c4c1-4c13-8dc9-22d65aa9e31c">AI Quality Evaluator - Czech (12-month Contract)</a></td>
+<td>Prague, Prague, Czechia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Canva/6000000001409416-ai-quality-evaluator-czech-12-month-contract-?oga=true">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -875,13 +861,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>ZAPOPAN, JALISCO, Mexico</td>
 <td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/340857">Apply</a></td>
 <td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ncontracts</strong></td>
-<td><a href="https://trueinterview.io/jobs/2387c32b-2d76-4063-9717-9235fb868b72">Software Developer - L4</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ncontracts/26450edb-10ca-4286-81f6-7203f177c122/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Thomson Reuters</strong></td>

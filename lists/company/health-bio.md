@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**72 open roles.** 54 in the United States & Canada · 18 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**71 open roles.** 53 in the United States & Canada · 18 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -127,13 +127,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6875daf9-fcf0-4e32-acfb-4839340e4318">Analyst, Business Systems – AI, Automation &amp; RPA</a></td>
 <td>North Chicago, IL, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990015064842-analyst-business-systems-ai-automation-rpa?oga=true">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intuitive Surgical</strong></td>
-<td><a href="https://trueinterview.io/jobs/1e9a68ab-e51f-47ed-b799-cb3e303c1d3d">Wiring Harness Mechanical Design Engineer</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000147349687-wiring-harness-mechanical-design-engineer?oga=true">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>

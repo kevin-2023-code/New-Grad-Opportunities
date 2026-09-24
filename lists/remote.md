@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**283 open roles.** 192 in the United States & Canada · 91 elsewhere in the world. Postings the pipeline classified as remote.
+**278 open roles.** 188 in the United States & Canada · 90 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -29,13 +29,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b36d39c7-e696-4a26-bc08-f266e37a4529">Advanced Support Engineer I</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/delinea/544e1b85-1961-4269-86dd-a4b011f34948/application">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>66degrees</strong></td>
-<td><a href="https://trueinterview.io/jobs/208bdec1-b7dd-41e7-93b5-d1cbb06270ce">Security Operations AI Engineer, Contract</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/66degrees/jobs/6206846004">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -239,13 +232,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/01321503-1636-4ee6-b175-c41aef7b709a">Field Engineer</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cursor/64a6cb18-493b-4d18-9f22-c661ae533bfa/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Deepgram</strong></td>
-<td><a href="https://trueinterview.io/jobs/24676b13-f1c7-4941-964f-c1829e5f1ed8">Applied ML Engineer -  Edge Devices</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/deepgram/94ae2781-a85f-493a-86c1-ff85a9289355/application">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
@@ -781,13 +767,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Vanta</strong></td>
-<td><a href="https://trueinterview.io/jobs/23efe32d-0e84-4756-85e0-8b0c311956c5">Software Engineer, Integrations Platform, Vanta For Government (V4G)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/vanta/0ccbb65f-f675-410a-ae54-1d34575f228a/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Jensen Hughes</strong></td>
 <td><a href="https://trueinterview.io/jobs/e499f4db-1863-4ced-8384-d2013bb58ca3">Associate - Fire Protection Engineering</a> 🌐</td>
 <td>Remote — United States</td>
@@ -1236,13 +1215,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fbb3088-d844-417c-8479-3e0656ffcac7">PCBA Manufacturing Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/a547274b-246c-41a0-8590-a874fcc6f28b/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>CrowdStrike</strong></td>
 <td><a href="https://trueinterview.io/jobs/4bc98cc3-f21f-4f16-a81f-1b099070e145">Product Security Engineer, Application Security (Remote)</a> 🌐</td>
 <td>Remote — United States</td>
@@ -1599,23 +1571,9 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/22038cf3-9b7a-4fb9-84f4-c8b4a7a46e9b">AI-Assisted Developer Workflows (Trace) AI Task Auditor - Freelance AI Trainer Project</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/agency/jobs/4969250101">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f0cb1913-596d-46a7-bcb9-eed611a2482a">SWE-Bench AI Task Auditor - Freelance AI Trainer Project</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/agency/jobs/4969230101">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ncontracts</strong></td>
-<td><a href="https://trueinterview.io/jobs/2387c32b-2d76-4063-9717-9235fb868b72">Software Developer - L4</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ncontracts/26450edb-10ca-4286-81f6-7203f177c122/application">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
@@ -1862,6 +1820,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skelar/fb92006f-4943-49d2-890f-f117e96428df/application">Apply</a></td>
 <td align="center">18 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Testlio</strong></td>
+<td><a href="https://trueinterview.io/jobs/23f3bc90-1eff-4bf6-a58f-76812912cc85">Freelance Payment Tester – Apple Pay &amp; Google Pay (Remote)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/testlio/jobs/8129526">Apply</a></td>
+<td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Outpost</strong></td>

@@ -117,6 +117,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/222b447a-99bd-4304-a434-2dcc86e20732">Oil Sands Geotechnical Technician</a></td>
+<td>Edmonton, AB, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95225">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/845fcd5d-27de-4fdc-a47f-2e35fb446217">Entry Level Assistant Transmission Line Engineer</a></td>
 <td>Overland Park, KS, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95109">Apply</a></td>
@@ -214,14 +221,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Benesch</strong></td>
-<td><a href="https://trueinterview.io/jobs/24047199-a7b0-4e2a-b68d-c37ea07c780e">Transportation Engineering - Highway/Roadway Design</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.benesch.com/job-openings/5227344007?gh_jid=5227344007">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2daaaa78-d0cc-4803-8381-2cf84890277c">Early Career Bridge Inspection, Structural Engineering</a></td>
 <td>Glastonbury, CT, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94458">Apply</a></td>

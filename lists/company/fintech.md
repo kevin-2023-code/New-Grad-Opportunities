@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**86 open roles.** 53 in the United States & Canada · 33 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**84 open roles.** 51 in the United States & Canada · 33 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -270,13 +270,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Method Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/200ff4b9-7872-457d-ab5a-91d4a3d66b9e">Design Engineer</a></td>
-<td>New York, NY<br/>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/method/4c0bd39f-d36e-44ec-8ba2-ea0578502df0/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Lendingtree</strong></td>
 <td><a href="https://trueinterview.io/jobs/ffd92c4d-c4d3-46c6-aea3-cb4c29eeb5b6">Service Desk Analyst</a></td>
 <td>Charlotte, NC, United States</td>
@@ -331,13 +324,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Washington, DC<br/>North America</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/trm-labs/e4992057-b59e-4fb3-8f18-a919497d0ba5/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Okx</strong></td>
-<td><a href="https://trueinterview.io/jobs/21d7d415-65f1-4a5c-8e0b-066ed9770921">Software Engineer, Mobile</a></td>
-<td>San Jose, California, United States<br/>San Jose, United States (US)</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/okx/jobs/7786383003">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Uniswap Labs</strong></td>

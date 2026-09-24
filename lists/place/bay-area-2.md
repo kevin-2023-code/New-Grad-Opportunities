@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**565 open roles.**
+**556 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,34 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fa07cf1-da2b-4e5f-a246-16a199adce9a">Research Engineer / Research Scientist, Health</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/719cc0f6-ed38-41db-8870-299b4d336f37/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Physical Intelligence</strong></td>
-<td><a href="https://trueinterview.io/jobs/d567d24a-3f03-4496-8da8-e8351fa0a5bc">Fullstack Software Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/physicalintelligence/031e9b1e-6e58-4c81-b608-3cfda0514082/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Bespoke Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/2317d4af-62ab-421f-a6ce-1fc8ba6c719c">RL Environments Engineer</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/bespokelabs/f8db1def-3295-4209-bcb2-2f42ed16ac6c/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Llamaindex</strong></td>
-<td><a href="https://trueinterview.io/jobs/ad7bbf89-fabb-46af-86bc-91d3b640b57d">Developer Evangelist, Growth</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/llamaindex/ee009847-6f1d-42f5-ab9f-805072f7a3e9/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>ServiceNow</strong></td>
 <td><a href="https://trueinterview.io/jobs/30e7df3d-d3fb-40c8-bd08-857e2eb0d042">Associate Applications Development Engineer</a> 🛂</td>
@@ -128,13 +100,6 @@
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Sesame</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d52fc4e-b4eb-4865-a25b-ce17b45ab3dc">Software Engineer - Backend</a></td>
-<td>San Francisco, CA<br/>New York, NY<br/>Bellevue, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sesame/04780842-fd58-41d9-87a1-f65e818eebab/application">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/2497e704-dd3e-4d5f-9195-da7e9f339f21">Data Scientist, Real Estate &amp; Workplace</a></td>
 <td>San Francisco, CA</td>
@@ -216,13 +181,6 @@
 <td><a href="https://trueinterview.io/jobs/addee22f-4017-422d-b97c-d4700689115c">NVIDIA 2027 Internships: Deep Learning</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397026418">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/22ade76f-f44d-4af7-a8b3-a7b715d66260">NVIDIA 2027 Internships: Hardware ASIC Design</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397025803">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
@@ -541,13 +499,6 @@
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Okx</strong></td>
-<td><a href="https://trueinterview.io/jobs/21d7d415-65f1-4a5c-8e0b-066ed9770921">Software Engineer, Mobile</a></td>
-<td>San Jose, California, United States<br/>San Jose, United States (US)</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/okx/jobs/7786383003">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Plain</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc9f94cc-320c-48f1-84ba-9e9d3682d9fc">Forward Deployed Engineer</a></td>
 <td>San Francisco office</td>
@@ -695,13 +646,6 @@
 <td align="center">7 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Redwood Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/24330c4a-7570-4d11-8a21-8ac5aaec5ae0">Battery Software Integration Engineer</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/redwoodmaterials/jobs/6139225004?gh_jid=6139225004">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/2c07cde8-7c1c-40d9-9422-a1d1b36c5ea0">Software Development Engineer - Rust, Compilers, and GPU Systems (2)</a></td>
 <td>US, CA, San Jose<br/>San Jose, California, United States</td>
@@ -818,13 +762,6 @@
 <td><a href="https://trueinterview.io/jobs/387446b4-3328-4731-8a80-f570f2e1be5f">iOS/Android Automation Engineer</a></td>
 <td>San Francisco, CA<br/>New York, NY<br/>Bellevue, WA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sesame/32dab4cd-c4f9-421f-9fa1-eb4916f4337a/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fbb3088-d844-417c-8479-3e0656ffcac7">PCBA Manufacturing Engineer</a> 🌐</td>
-<td>Remote — United States<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/a547274b-246c-41a0-8590-a874fcc6f28b/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>

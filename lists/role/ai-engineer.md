@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**156 open roles.** 104 in the United States & Canada · 52 elsewhere in the world.
+**150 open roles.** 98 in the United States & Canada · 52 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>66degrees</strong></td>
-<td><a href="https://trueinterview.io/jobs/208bdec1-b7dd-41e7-93b5-d1cbb06270ce">Security Operations AI Engineer, Contract</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/66degrees/jobs/6206846004">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Commure</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c0ac38d-57c5-4cbd-b6fb-fa0f71b1e90b">Software Engineer, Scribe AI</a></td>
@@ -79,13 +72,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>New York, New York, United States of America</td>
 <td align="center"><a href="https://bloomberg.avature.net/careers/JobDetail/Quant-Researcher-Agentic-AI-CTO-Office/18880">Apply</a></td>
 <td align="center">20 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Match Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/23ff743f-8fe9-4787-b458-7b8ed8c10c5e">AI Product Engineer</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia</td>
-<td align="center"><a href="https://jobs.lever.co/matchgroup/69396299-e587-4063-aef6-0ce2fd66e9ee/apply">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Evismart</strong></td>
@@ -184,13 +170,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Canada, BC, Vancouver</td>
 <td align="center"><a href="https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/AI-Engineer_JR-0109305">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Build Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/22f4e7ac-b961-4d18-ba5b-234cf45ecac8">Solutions Engineer - AI &amp; Internal Tooling</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/build/92675692-e453-4a9d-a77c-44f0bad9ffa0/application">Apply</a></td>
-<td align="center">13 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>OpenAI</strong></td>
@@ -459,13 +438,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Cambio</strong></td>
-<td><a href="https://trueinterview.io/jobs/24284f2d-ef25-479e-b8bc-bef5f2ca7190">AI Engineer</a></td>
-<td>Waterloo, ON<br/>Waterloo- Kitchener Canada<br/>Toronto Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cambio/6533655d-d73d-48cf-9e69-e3380954a66b/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Broadcom</strong></td>
 <td><a href="https://trueinterview.io/jobs/45ac575d-9db0-4d81-9189-e5a07b96e647">Electrical Hardware &amp; AI Integration Engineer</a></td>
 <td>USA-Colorado-Fort Collins-4380 Ziegler Road, United States of America</td>
@@ -485,13 +457,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/9248eab6-74e0-4940-98eb-ca09b17da532/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hippocratic Ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d81cb16-9bc2-4a77-b4cf-30ff0a1f2c09">LLM  Inference Engineer</a></td>
-<td>Menlo Park, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hippocratic%20ai/eef8a721-23de-4c20-bff0-56088b39afa0/application">Apply</a></td>
-<td align="center">22 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Fluidstack</strong></td>
@@ -569,13 +534,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/clera/a624a624-7921-4689-9d49-0e50f1f47d50/application">Apply</a></td>
 <td align="center">15 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Leandata</strong></td>
-<td><a href="https://trueinterview.io/jobs/20ce3511-bcc1-4d16-a4d2-1768b6f58f4e">GTM Engineer (Data &amp; AI)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/leandata/f99f182d-bc0e-403a-bb41-2cf4b080a410/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Clay Labs</strong></td>
@@ -759,6 +717,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c38b1d1-4eec-4cb4-8098-2ad78b3f0779">IN_Senior Associate_Agentic AI Engineer_GCC_Advisory_Bangalore</a></td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Agentic-AI-Engineer-GCC-Advisory-Bangalore_738339WD-1">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/59b6b016-777a-46a7-be35-d7fed9b435fd">AI Engineer</a></td>
 <td>Bucharest</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bucharest/AI-Engineer_763974WD">Apply</a></td>
@@ -958,13 +923,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6d05d243-8a5c-43b3-ada0-a9f9d26471c2">AI Enablement Engineer (India-based)</a></td>
 <td>Hyderabad<br/>India</td>
 <td align="center"><a href="https://www.frazierdeeter.com/careers/openings/apply/7986980003?gh_jid=7986980003">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Invisible Agency</strong></td>
-<td><a href="https://trueinterview.io/jobs/22038cf3-9b7a-4fb9-84f4-c8b4a7a46e9b">AI-Assisted Developer Workflows (Trace) AI Task Auditor - Freelance AI Trainer Project</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/agency/jobs/4969250101">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>

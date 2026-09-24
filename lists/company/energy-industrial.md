@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**45 open roles.** 39 in the United States & Canada · 6 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**43 open roles.** 38 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -249,13 +249,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Redwood Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/24330c4a-7570-4d11-8a21-8ac5aaec5ae0">Battery Software Integration Engineer</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/redwoodmaterials/jobs/6139225004?gh_jid=6139225004">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Altalink</strong></td>
 <td><a href="https://trueinterview.io/jobs/9535ad1d-e5fd-4ca2-bac6-55e8bab7584c">Telecom Lifecycle Engineer</a></td>
 <td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
@@ -322,13 +315,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.lever.co/voltus/58a0d4db-bae6-4649-9628-aa5d44072ceb/apply">Apply</a></td>
 <td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Kao Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/2439f4da-bc75-42a8-b9cb-114eccae0753">Engineering Specialist</a></td>
-<td>Cincinnati</td>
-<td align="center"><a href="https://kao.voyse.io/gh-job/4706235006?gh_jid=4706235006">Apply</a></td>
-<td align="center">18 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Trawa</strong></td>

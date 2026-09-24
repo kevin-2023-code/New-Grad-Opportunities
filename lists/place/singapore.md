@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**11 open roles.** 2 in the United States & Canada · 9 elsewhere in the world.
+**11 open roles.** 3 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e64205aa-3ebe-4e75-9624-7a7d4a719c14">Research Engineer, Privacy and Anonymization</a></td>
 <td>Singapore<br/>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/hud/965d24c5-2cce-4683-9848-597b12ed4a23/application">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1f3fa48c-d4c2-4e1f-8661-39b5e50c25ca">Open Role</a></td>
+<td>Singapore<br/>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hud/a8a56c37-b8d1-4bf2-900a-7b5c695bbcbd/application">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -70,13 +77,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore<br/>Hong Kong</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4727919005">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Jane Street</strong></td>
-<td><a href="https://trueinterview.io/jobs/2362ebef-45af-44f6-93ad-8b7accebed0a">Network Engineer</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.janestreet.com/join-jane-street/apply/8693539002?gh_jid=8693539002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Govtech</strong></td>

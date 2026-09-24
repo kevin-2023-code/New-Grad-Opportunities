@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**173 open roles.**
+**169 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -148,13 +148,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/70135ed4-cc61-4596-884d-a294ea548e9c">ASIC Physical Design Engineer</a></td>
 <td>Austin, TX<br/>Austin, Texas, US<br/>San Jose, California, US, United States of America<br/>+1 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Physical-Design-Engineer_2015743-1">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f0c82ce0-fced-4993-b5f2-9ae0b136d2b1">SRE Database Administrator (DBA) (Hybrid)</a></td>
-<td>Austin, TX<br/>Austin, Texas, US<br/>RTP, North Carolina, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer_2014845">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -460,13 +453,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c28fbb2-7fcd-4608-8291-6676ea75ce7e">Controls Engineer, R&amp;D</a></td>
-<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+3 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/9874bcd9-2373-4062-9e04-cdd0a994f0d4/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1f65098e-31f0-4548-bd46-bdf654e2e197">Test Engineer, R&amp;D</a></td>
 <td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/642d24de-0fad-4dae-bbd6-16b6a1abf69b/application">Apply</a></td>
@@ -844,13 +830,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Method Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/200ff4b9-7872-457d-ab5a-91d4a3d66b9e">Design Engineer</a></td>
-<td>Austin, TX<br/>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/method/4c0bd39f-d36e-44ec-8ba2-ea0578502df0/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Palo Alto Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/60f51eeb-1a9f-492a-bdb1-b172e0afc0ba">Solutions Engineer, Endpoint - Central</a></td>
 <td>Austin, TX<br/>Austin, United States of America<br/>Chicago, IL<br/>+3 more</td>
@@ -1037,13 +1016,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/de68177f-8727-4065-bd13-792030885b73">Hardware Engineer, Gateways &amp; Customer Hardware (Starlink)</a></td>
 <td>Bastrop, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8700410002?gh_jid=8700410002">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1bdad988-27f6-47b5-a787-15290d612f9f">Electrical Test Development Engineer, Customer Hardware (Starlink)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8700262002?gh_jid=8700262002">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>

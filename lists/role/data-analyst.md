@@ -191,6 +191,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Capco</strong></td>
+<td><a href="https://trueinterview.io/jobs/1febcb9e-0f3c-4c66-81c6-e6de04b2b936">Analista de Business Intelligence</a></td>
+<td>Brazil - Rio de Janeiro</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8208305">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Cabify</strong></td>
 <td><a href="https://trueinterview.io/jobs/14c4ce6c-a5a9-4862-bdb0-3f0de2fe4b42">Práctica Profesional - B2B Analyst</a></td>
 <td>Santiago de Chile</td>
@@ -259,13 +266,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/delinea/25be396e-9b1f-47e7-8f2c-9260b80bcb0c/application">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Peek</strong></td>
-<td><a href="https://trueinterview.io/jobs/2005a285-e58f-4f9b-8b22-2c6840940c08">Data Analyst – Analytics and AI</a></td>
-<td>Mexico City<br/>Monterrey<br/>Guadalajara<br/>+3 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/peek/cc80104d-5aef-45cc-829e-e619f9a5704e/application">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Lightcast</strong></td>

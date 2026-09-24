@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**132 open roles.**
+**127 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -124,13 +124,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Hadrian Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f5f2bad-5112-49bb-baa4-6765dc029058">Security Engineer, Full Stack</a></td>
-<td>Seattle/Bellevue Area, WA<br/>San Francisco Bay Area, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/2a92e015-66b8-4f1a-b20f-06cd598651c5/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/c762f8d2-5897-4973-ab61-ec4e17652a19">UX Designer, Search Ads 360</a></td>
 <td>Seattle, WA<br/>Mountain View, CA</td>
@@ -230,13 +223,6 @@ Machine Learning for Monetization (PhD)</a></td>
 </tr>
 <tr>
 <td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c28fbb2-7fcd-4608-8291-6676ea75ce7e">Controls Engineer, R&amp;D</a></td>
-<td>Seattle, WA<br/>Austin, TX<br/>New York, NY<br/>+3 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/9874bcd9-2373-4062-9e04-cdd0a994f0d4/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1f65098e-31f0-4548-bd46-bdf654e2e197">Test Engineer, R&amp;D</a></td>
 <td>Seattle, WA<br/>Austin, TX<br/>New York, NY<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/642d24de-0fad-4dae-bbd6-16b6a1abf69b/application">Apply</a></td>
@@ -544,24 +530,10 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Twitch</strong></td>
-<td><a href="https://trueinterview.io/jobs/231f3e53-f6e5-4b9e-9871-a6e7d2d82431">Software Development Engineer, Security Platform</a></td>
-<td>Seattle, WA<br/>San Francisco, CA<br/>Irvine, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8739185002">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Gettyimages</strong></td>
 <td><a href="https://trueinterview.io/jobs/995abf5e-339e-4a50-89c1-6dcf067c32c9">Technical Support Specialist, Sales Operations</a></td>
 <td>Seattle, WA<br/>Chicago, IL<br/>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.lever.co/gettyimages/dabcc694-43d7-41ca-9434-e80b16a55134/apply">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Sesame</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d52fc4e-b4eb-4865-a25b-ce17b45ab3dc">Software Engineer - Backend</a></td>
-<td>Bellevue, WA<br/>San Francisco, CA<br/>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sesame/04780842-fd58-41d9-87a1-f65e818eebab/application">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
@@ -783,13 +755,6 @@ Machine Learning for Monetization (PhD)</a></td>
 </tr>
 <tr>
 <td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fbb3088-d844-417c-8479-3e0656ffcac7">PCBA Manufacturing Engineer</a> 🌐</td>
-<td>Remote — United States<br/>Seattle, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/a547274b-246c-41a0-8590-a874fcc6f28b/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bfc0a385-f2e6-4af5-9e25-e3d6fa697187">Product Designer, Engineering Acceleration</a></td>
 <td>Seattle, WA<br/>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/73fdf2c0-4318-4b13-addc-b66bc1308ba4/application">Apply</a></td>

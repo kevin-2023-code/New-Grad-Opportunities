@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**33 open roles.**
+**34 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -208,6 +208,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/222d4e94-e52a-4011-adfe-1ca6d669ebc0">Associate Product Engineer (Product Development)</a></td>
+<td>US, NC, Durham<br/>US, MA, Wilmington, United States of America</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/eada112d-8a38-418f-a139-491dceace8d5">RF/Microwave Amplifier MMIC Design Engineer</a></td>
 <td>US, NC, Durham<br/>US, MA, Chelmsford, Elizabeth, United States of America</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Elizabeth/RF-Microwave-Amplifier-MMIC-Design-Engineer_R264830">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**77 open roles.**
+**74 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -263,13 +263,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Bree</strong></td>
-<td><a href="https://trueinterview.io/jobs/1de3a290-2076-4b52-bc4d-9bd9230b220c">Software Engineer, Product / Mobile</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/bree/c7601cde-1e82-4129-a7a7-aa8e05d74daf/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>BMO</strong></td>
 <td><a href="https://trueinterview.io/jobs/91b61b1a-8890-457d-bf14-52faf5e5adea">Associate, Data Engineer</a></td>
 <td>Toronto, ON, CAN</td>
@@ -452,13 +445,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Cambio</strong></td>
-<td><a href="https://trueinterview.io/jobs/24284f2d-ef25-479e-b8bc-bef5f2ca7190">AI Engineer</a></td>
-<td>Waterloo, ON<br/>Waterloo- Kitchener Canada<br/>Toronto Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cambio/6533655d-d73d-48cf-9e69-e3380954a66b/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Capco</strong></td>
 <td><a href="https://trueinterview.io/jobs/b7275512-02c5-4737-bd83-67a2e5a7268e">UX Designer</a></td>
 <td>Canada - Toronto</td>
@@ -498,13 +484,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fdceac25-a723-436b-af6f-3af3613128e3">Software Development (Embedded) Engineer</a></td>
 <td>Ottawa, ON, Canada</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68556">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Gdh</strong></td>
-<td><a href="https://trueinterview.io/jobs/23deab94-6e62-4263-834c-b3034a03e683">Engineering Graduate</a></td>
-<td>Waterloo, ON, Canada</td>
-<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/27534">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>

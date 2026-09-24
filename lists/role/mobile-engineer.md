@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**18 open roles.** 8 in the United States & Canada · 10 elsewhere in the world.
+**17 open roles.** 8 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -126,13 +126,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin, Barcelona</td>
 <td align="center"><a href="https://n26.com/en-eu/careers/positions/8163941?gh_jid=8163941">Apply</a></td>
 <td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Capco</strong></td>
-<td><a href="https://trueinterview.io/jobs/21dfc30b-64b9-4887-8fa5-1882116255dd">Desenvolvedor(a) Front-end - Flutter</a></td>
-<td>Brazil - Sao Paulo</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8176938">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Kiss My Apps</strong></td>

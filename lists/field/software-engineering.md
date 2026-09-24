@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,625 open roles.** 1,273 in the United States & Canada · 352 elsewhere in the world.
+**1,585 open roles.** 1,238 in the United States & Canada · 347 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -10,7 +10,7 @@
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
 
-<sub>Page 1 of 5 · [Page 2 →](software-engineering-2.md)</sub>
+<sub>Page 1 of 4 · [Page 2 →](software-engineering-2.md)</sub>
 
 ## United States & Canada
 
@@ -143,13 +143,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b36d39c7-e696-4a26-bc08-f266e37a4529">Advanced Support Engineer I</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/delinea/544e1b85-1961-4269-86dd-a4b011f34948/application">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Exiger</strong></td>
-<td><a href="https://trueinterview.io/jobs/20e1d5ac-8a84-465b-95b2-076c798d4c5f">Threat Cybersecurity Engineer</a></td>
-<td>New York, NY<br/>McLean, Virginia, United States<br/>New York, New York, United States<br/>+1 more</td>
-<td align="center"><a href="https://www.exiger.com/careers/6206838004?gh_jid=6206838004">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -468,13 +461,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d7b32c7-3100-4e2f-94e4-c6e027bdbd71">2027 Early Career Flight Test Engineer</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Helion</strong></td>
 <td><a href="https://trueinterview.io/jobs/580f2d7d-4735-4db8-8d54-236347d0d714">Power Electronics Engineer</a></td>
 <td>Everett, WA</td>
@@ -493,13 +479,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b200afc2-5c63-4102-8079-8b631e3a5b1d">Cloud DevOps Engineer</a></td>
 <td>Los Angeles, CA<br/>Colorado Springs, CO</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4715587006?gh_jid=4715587006">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/1ca96588-9587-4a66-8c6d-b5b508558532">Software Engineer, Space Systems Test</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5244590007?gh_jid=5244590007">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -899,13 +878,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/eadc4939-1772-476c-83f8-6d728497d806">Mixed Signal IP Integration Engineer – New Grad</a></td>
 <td>Ottawa, ON</td>
 <td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mixed-Signal-IP-Integration-Engineer---New-Grad_R031688">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/f0c82ce0-fced-4993-b5f2-9ae0b136d2b1">SRE Database Administrator (DBA) (Hybrid)</a></td>
-<td>Austin, TX<br/>RTP, North Carolina, US, United States of America<br/>Austin, Texas, US</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer_2014845">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -1350,13 +1322,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Hadrian Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f5f2bad-5112-49bb-baa4-6765dc029058">Security Engineer, Full Stack</a></td>
-<td>Seattle/Bellevue Area, WA<br/>San Francisco Bay Area, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/2a92e015-66b8-4f1a-b20f-06cd598651c5/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Debtbook</strong></td>
 <td><a href="https://trueinterview.io/jobs/d2031283-568f-4f23-94d3-36d8946b03f4">Solutions Engineer</a></td>
 <td>Charlotte, NC<br/>Debtbook-HQ</td>
@@ -1568,13 +1533,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/2437b072-ef7a-4916-b513-26f84c174df9">Applications Development Engineer - FaST</a></td>
-<td>Milpitas, CA, United States of America<br/>Hillsboro, OR, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineer---FaST_2637468-1">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c402b042-c347-4697-9fea-193ef71c24ae">Customer Engagement Applications Engineer - SWIFT</a></td>
 <td>Hillsboro, OR, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Customer-Engagement-Applications-Engineer---SWIFT_2636970-1">Apply</a></td>
@@ -2442,6 +2400,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Autodesk</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d6f855e-a6ad-47ee-ae4f-c90e191fb452">Test Position - do not apply</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Test-Position---do-not-apply_26WD101118">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>BMO</strong></td>
 <td><a href="https://trueinterview.io/jobs/3445789b-cd9c-4465-93d4-98c5b55abe40">ServiceNow Developer</a></td>
 <td>Toronto, ON, CAN</td>
@@ -2481,13 +2446,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e0f31f69-6737-4ce3-8cb2-b898fc18d671">Cloud Platform Engineer</a></td>
 <td>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Cloud-Platform-Engineer_2639358">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1cd19aa7-4527-4437-a066-6d7c48a6f413">HPC Systems Engineer</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Platform-Engineer_2638542">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
@@ -2547,13 +2505,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Varda Space Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/222c5989-f2c0-48c6-9864-5e2c2d902768">Spacecraft Systems Engineer, Flight Safety</a></td>
-<td>El Segundo, California, United States<br/>225 S Aviation</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/7994997003">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/0fe3cc74-914b-48d9-ba8f-a83536409af7">Software Engineer, Applied Emerging Talent (2027)</a></td>
 <td>San Francisco, CA</td>
@@ -2586,13 +2537,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7e705485-c009-46a7-abeb-0c6aeb6d15b3">Mechanical NPI Engineer</a></td>
 <td>Santa Clara, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149449190-mechanical-npi-engineer?oga=true">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>The Pac Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/247a9e63-7552-46c3-87bd-fd2c68ba7a9b">Automotive Audio Engineer</a></td>
-<td>California, USA<br/>PAC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thepacgroup/jobs/4405982009">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
@@ -2785,6 +2729,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Build Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/22f4e7ac-b961-4d18-ba5b-234cf45ecac8">Solutions Engineer - AI &amp; Internal Tooling</a></td>
+<td>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/build/92675692-e453-4a9d-a77c-44f0bad9ffa0/application">Apply</a></td>
+<td align="center">13 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Physical Intelligence</strong></td>
 <td><a href="https://trueinterview.io/jobs/6a9fd2a1-8a6b-42a1-9c5c-9605de451fd9">Embedded Engineer</a></td>
 <td>San Francisco, CA</td>
@@ -2819,9 +2770,58 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
+<tr>
+<td><strong>Phonely</strong></td>
+<td><a href="https://trueinterview.io/jobs/166219b2-6a49-4c78-ad33-adf52461a7e9">QA Engineer</a></td>
+<td>Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/phonely/8e527ba5-82e7-4146-8431-5ca34b51b14e/application">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hadrian Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2a71997-6845-4c86-98ca-f5386a1ae446">CAM Programmer</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/09d2f4da-4d05-4eb2-9d33-7d23987027ca/application">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f6fd521-cbb5-42e2-b3b7-15cbc9d697be">Rack Integration Operations Engineer</a></td>
+<td>Austin, TX<br/>San Francisco, CA<br/>Seattle, WA<br/>+2 more (hybrid)</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8196631?gh_jid=8196631">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ba58d56-91b9-4848-8c04-b369e2de4469">New Graduate Engineer, Power Generation (Starship)</a></td>
+<td>Starbase, TX<br/>Brownsville, TX, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8803009002?gh_jid=8803009002">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Affirm</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b86c717-7b9a-4cae-8cb9-1ca167364c0b">Software Engineer I, Frontend (Upfunnel)</a> 🌐</td>
+<td>Remote — Canada</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/7985907003">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sustainable Talent</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b2d6f5c-2ba4-40cd-bdf7-1cda8ce838b3">Triage Analyzer- Autonomous Vehicle Test Engineer supporting Nvidia</a></td>
+<td>Santa Clara, CA<br/>Nvidia</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sustainabletalent/jobs/4733148005">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Render</strong></td>
+<td><a href="https://trueinterview.io/jobs/a547dac1-c48b-4562-aa5f-ce6896530bea">Forward Deployed Engineer</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/render/b29de212-fcca-4b5d-8640-a165b23d5d6c/application">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
-<sub>Page 1 of 5 · [Page 2 →](software-engineering-2.md)</sub>
+<sub>Page 1 of 4 · [Page 2 →](software-engineering-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

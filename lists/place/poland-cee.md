@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**8 open roles.**
+**9 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Canva</strong></td>
+<td><a href="https://trueinterview.io/jobs/22db5d2e-c4c1-4c13-8dc9-22d65aa9e31c">AI Quality Evaluator - Czech (12-month Contract)</a></td>
+<td>Prague, Prague, Czechia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Canva/6000000001409416-ai-quality-evaluator-czech-12-month-contract-?oga=true">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Skelar</strong></td>
 <td><a href="https://trueinterview.io/jobs/2f43340e-6f01-451e-91cf-e095465b8205">Software Engineer (Golang) - RiseGuide</a></td>

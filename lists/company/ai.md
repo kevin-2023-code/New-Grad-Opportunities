@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**250 open roles.** 212 in the United States & Canada · 38 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**243 open roles.** 205 in the United States & Canada · 38 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -256,13 +256,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Deepgram</strong></td>
-<td><a href="https://trueinterview.io/jobs/24676b13-f1c7-4941-964f-c1829e5f1ed8">Applied ML Engineer -  Edge Devices</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/deepgram/94ae2781-a85f-493a-86c1-ff85a9289355/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/7129cf70-b083-4eaf-8895-c5657d4a320a">Qualification Engineer, Fluidstack Labs</a></td>
 <td>Austin, TX</td>
@@ -338,13 +331,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Phoenix, AZ<br/>Memphis, TN</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/8d38405a-e267-4a51-a31e-0a5f1953474d/application">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1c28fbb2-7fcd-4608-8291-6676ea75ce7e">Controls Engineer, R&amp;D</a></td>
-<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+3 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/9874bcd9-2373-4062-9e04-cdd0a994f0d4/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -473,13 +459,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Physicsx</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fd34250-1a7d-4115-80aa-911b33245af0">CFD Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/physicsx/jobs/4971199101">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/9b39408c-a607-4d99-beae-b3c3d604b13e">Applied AI Engineer, Government</a></td>
 <td>Washington, DC</td>
@@ -568,13 +547,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c65a30d1-dc21-47b9-98dc-2813abb41d5d">Cyber Evaluations Engineer</a></td>
 <td>San Francisco, CA<br/>Washington, DC</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5406367008">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Gumloop</strong></td>
-<td><a href="https://trueinterview.io/jobs/22f46009-af88-497d-a924-5c45be8ebcb9">Software Engineer - Infrastructure</a></td>
-<td>San Francisco Office<br/>Vancouver Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gumloop/35729200-4460-40a6-8972-508bd1d0f6b5/application">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
@@ -921,13 +893,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Hippocratic Ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d81cb16-9bc2-4a77-b4cf-30ff0a1f2c09">LLM  Inference Engineer</a></td>
-<td>Menlo Park, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hippocratic%20ai/eef8a721-23de-4c20-bff0-56088b39afa0/application">Apply</a></td>
-<td align="center">22 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/a2c623a5-f73e-446a-91d1-e282dd2f84a1">Software Engineer, Applied AI</a></td>
 <td>San Francisco, CA<br/>New York, NY<br/>Austin, TX<br/>+1 more</td>
@@ -960,13 +925,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9889eaa8-612a-449f-b7cc-17321b1aaf96">Customer Success Engineer (Scaled)</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/deepgram/b856d0c2-df8e-492a-9044-62b0fd3c30b6/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Bespoke Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/2317d4af-62ab-421f-a6ce-1fc8ba6c719c">RL Environments Engineer</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/bespokelabs/f8db1def-3295-4209-bcb2-2f42ed16ac6c/application">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
@@ -1303,13 +1261,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3a94089a-38c1-42c0-80cf-14facb08a61c">Data Scientist, B2B Demand Generation, Growth &amp; Measurement</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/7f299784-2c75-4d73-99e5-1e5043ec7b48/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1fbb3088-d844-417c-8479-3e0656ffcac7">PCBA Manufacturing Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/a547274b-246c-41a0-8590-a874fcc6f28b/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
