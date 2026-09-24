@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**12 open roles.**
+**11 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,13 +25,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Paris</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/vocca/24417ebc-264c-49a2-8618-3e07e3a18990/application">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Dataiku</strong></td>
-<td><a href="https://trueinterview.io/jobs/16d295bd-0c2a-486a-ab10-4383120c0d67">Motion Designer / Video Editor — Apprenticeship (1 or 2 years)</a></td>
-<td>France, Paris</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/dataiku/jobs/6181952004">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>The Exploration Company</strong></td>

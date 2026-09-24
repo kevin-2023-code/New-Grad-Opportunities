@@ -2,7 +2,7 @@
 
 # 🎮 Gaming & interactive
 
-**16 open roles.** 12 in the United States & Canada · 4 elsewhere in the world. Games, game engines and interactive entertainment.
+**15 open roles.** 11 in the United States & Canada · 4 elsewhere in the world. Games, game engines and interactive entertainment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,13 +29,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e0453983-b421-4b23-a3c9-d366a063794a">Investment Designer (Contract)</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/bungie/jobs/6193602004">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Voldex Games</strong></td>
-<td><a href="https://trueinterview.io/jobs/1928167c-61fb-4ae3-9e67-a1bb49eb1772">Software Engineer - Driving Empire</a> 🌐</td>
-<td>Remote — Canada, United Kingdom, Mexico</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/voldex/00b44f87-5b37-47fe-95df-b33a8fe14b56/application">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>

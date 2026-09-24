@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**81 open roles.** 54 in the United States & Canada · 27 elsewhere in the world.
+**82 open roles.** 54 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -581,6 +581,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bangalore</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/pear-vc/d1d0c54a-b982-4b57-8f3b-b9033f3ba6ff/application">Apply</a></td>
 <td align="center">12 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Bw</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a7d8b88-6389-439d-8e9e-8ff6e0c6b0d1">BW - Especialista Engenheiro Dados</a></td>
+<td>São Paulo - SP<br/>Sao Paulo - Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/bw/jobs/5371054008">Apply</a></td>
+<td align="center">11 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Truelogic</strong></td>

@@ -2,7 +2,7 @@
 
 # 🏮 Beijing, Shanghai, Taipei & Hong Kong
 
-**5 open roles.**
+**7 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Framework</strong></td>
+<td><a href="https://trueinterview.io/jobs/f13d059a-192a-49d4-bbe0-98a9c1e4db1d">System Software Engineer</a></td>
+<td>Taipei, Taiwan</td>
+<td align="center"><a href="https://4dayweek.io/job/system-software-engineer-at-framework-6a7fd510">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/1f622069-059e-4226-a0f8-a95f7d548ec2">Software Test Developer, SDET - Robotics</a></td>
@@ -53,6 +60,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>New Territories, Hong Kong<br/>Direct</td>
 <td align="center"><a href="https://boards.greenhouse.io/delartech/jobs/4726814005?gh_jid=4726814005">Apply</a></td>
 <td align="center">23 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Welo Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/151ae192-053f-4abb-b9c7-d57863d21776">Non-Linguistic QC (China / US Time Zone)</a> 🌐</td>
+<td>Remote<br/>Beijing, China</td>
+<td align="center"><a href="https://jobs.lever.co/weloglobal/1af55554-dad4-48ad-97ca-6550fab8cf4c/apply">Apply</a></td>
+<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

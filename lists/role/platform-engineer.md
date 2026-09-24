@@ -2,7 +2,7 @@
 
 # Platform Engineer
 
-**35 open roles.** 24 in the United States & Canada · 11 elsewhere in the world.
+**36 open roles.** 25 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,11 +25,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Hubble Network</strong></td>
-<td><a href="https://trueinterview.io/jobs/1affc614-8a40-4acb-9cfd-f64bf53ddf2d">Data Platform Engineer</a></td>
-<td>San Francisco, CA<br/>Seattle HQ</td>
-<td align="center"><a href="https://hubble.com/careers?gh_jid=5420856008">Apply</a></td>
-<td align="center">22 Sep 2026</td>
+<td><strong>QUALCOMM</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b30f3c0-fd42-4bd3-9a85-e166a0e3e155">#Automotive Experience Platform - Engineer</a></td>
+<td>San Diego, CA, US</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446721162864">Apply</a></td>
+<td align="center">23 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>AMD</strong></td>
@@ -177,6 +177,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/298e5846-aea9-47d1-a026-d158a5c0a39c/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/19d8d26c-0941-45c2-aee0-2c2fb1648f6c">Senior Engineer, Platform Infrastructure (R5516)</a></td>
+<td>Washington, DC<br/>San Diego, California</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/b3927595-1e5a-455e-b831-721674088249/apply">Apply</a></td>
+<td align="center">4 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Delinea</strong></td>

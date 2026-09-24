@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**47 open roles.** 29 in the United States & Canada · 18 elsewhere in the world.
+**46 open roles.** 29 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -280,13 +280,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>AU - HQ - NSW</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/eucalyptus/jobs/4732611005">Apply</a></td>
 <td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intact Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/197ad816-e966-407f-a49e-70c9215a7da4">Data Scientist I, HK - Winter 2027</a></td>
-<td>Hong Kong Science Park, HK</td>
-<td align="center"><a href="https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Hong-Kong-Science-Park-HK/Data-Scientist-I--HK---Winter-2027_R155626">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Enbridge</strong></td>

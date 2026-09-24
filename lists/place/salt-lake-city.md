@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**14 open roles.**
+**13 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Kelso Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/15301feb-7755-4e00-9244-0b45ff2c198e">Commercial HVAC Estimator</a></td>
-<td>Ogden, UT<br/>Kelso Building Services</td>
-<td align="center"><a href="https://careers.kelso-industries.com/?gh_jid=5433414008">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Kelso Building Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/c2a58b44-6bd7-45b6-a0db-28604fb8fd7a">Commercial HVAC Estimator</a></td>

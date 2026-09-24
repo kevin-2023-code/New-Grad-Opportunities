@@ -6,15 +6,649 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-23T23:34:15.711Z",
-  "count": 2749,
+  "listingsChangedAt": "2026-09-24T04:28:05.852Z",
+  "count": 2737,
   "listings": [
     {
-      "id": "5d6365a5-f988-42e9-b50c-d64e59812eba",
-      "company": "IBM",
-      "title": "Entry Level Compliance EMC HW Developer - Rochester, MN - 2027",
+      "id": "75e9f9d4-92e2-4362-b78b-3213cc316592",
+      "company": "Graphcore",
+      "title": "Graduate Performance Engineer",
       "locations": [
-        "ROCHESTER, US"
+        "Austin, Texas, United States",
+        "US - Austin"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/graphcore/jobs/8841990002",
+      "url": "https://trueinterview.io/jobs/75e9f9d4-92e2-4362-b78b-3213cc316592",
+      "postedAt": "2026-09-24T00:21:07.000Z",
+      "updatedAt": "2026-09-24T00:21:07.000Z"
+    },
+    {
+      "id": "d57c5291-f6b8-4ab5-a3c9-24ded9d937fc",
+      "company": "AMD",
+      "title": "Field Application Engineer – Graduate Rotational Program",
+      "locations": [
+        "San Jose, California, United States"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/89552?lang=en-us",
+      "url": "https://trueinterview.io/jobs/d57c5291-f6b8-4ab5-a3c9-24ded9d937fc",
+      "postedAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "a273c76a-8994-429f-b408-e089a95985f7",
+      "company": "AMD",
+      "title": "Mechanical Engineer - Dynamics and Vibration",
+      "locations": [
+        "Secaucus, New Jersey, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/87985?lang=en-us",
+      "url": "https://trueinterview.io/jobs/a273c76a-8994-429f-b408-e089a95985f7",
+      "postedAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "f13d059a-192a-49d4-bbe0-98a9c1e4db1d",
+      "company": "Framework",
+      "title": "System Software Engineer",
+      "locations": [
+        "Taipei, Taiwan"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://4dayweek.io/job/system-software-engineer-at-framework-6a7fd510",
+      "url": "https://trueinterview.io/jobs/f13d059a-192a-49d4-bbe0-98a9c1e4db1d",
+      "postedAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "a1fca626-3e07-475f-b397-d56ca185e02f",
+      "company": "Manulife",
+      "title": "Application Security Engineer - Penetration Testing Quality Assurance",
+      "locations": [
+        "Quezon City"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/Application-Security-Engineer---Penetration-Testing-Quality-Assurance_JR26091263",
+      "url": "https://trueinterview.io/jobs/a1fca626-3e07-475f-b397-d56ca185e02f",
+      "postedAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "596478d9-fcfd-49f8-b22a-5caf1b2aa36e",
+      "company": "Manulife",
+      "title": "Application Security Engineer (Threat Modeling)",
+      "locations": [
+        "Quezon City"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/Application-Security-Engineer--Threat-Modeling-_JR26091262",
+      "url": "https://trueinterview.io/jobs/596478d9-fcfd-49f8-b22a-5caf1b2aa36e",
+      "postedAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "fe219666-ef93-4a62-878a-32fbd13c332e",
+      "company": "Parallel Systems",
+      "title": "Full Stack Software Engineer I",
+      "locations": [
+        "Los Angeles, CA",
+        "Headquarters"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/parallel/jobs/5247800007?gh_jid=5247800007",
+      "url": "https://trueinterview.io/jobs/fe219666-ef93-4a62-878a-32fbd13c332e",
+      "postedAt": "2026-09-23T23:57:34.000Z",
+      "updatedAt": "2026-09-23T23:57:34.000Z"
+    },
+    {
+      "id": "321e6b6e-8440-46f1-8712-c07061017e90",
+      "company": "Conversion",
+      "title": "Forward Deployed Engineer",
+      "locations": [
+        "San Francisco Office"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/conversion/79dcefbf-b697-4089-8dc0-0133ee114c94/application",
+      "url": "https://trueinterview.io/jobs/321e6b6e-8440-46f1-8712-c07061017e90",
+      "postedAt": "2026-09-23T23:47:27.000Z",
+      "updatedAt": "2026-09-23T23:47:27.000Z"
+    },
+    {
+      "id": "53a0115b-09e4-474c-8502-ff7ca4aa70fd",
+      "company": "Notion",
+      "title": "Software Engineer, Model Capabilities",
+      "locations": [
+        "San Francisco, California",
+        "New York, New York"
+      ],
+      "cities": [
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/notion/ab383335-1dd5-4d6a-971f-439cebf48a9d/application",
+      "url": "https://trueinterview.io/jobs/53a0115b-09e4-474c-8502-ff7ca4aa70fd",
+      "postedAt": "2026-09-23T23:30:04.000Z",
+      "updatedAt": "2026-09-23T23:30:04.000Z"
+    },
+    {
+      "id": "f6222180-3eed-4e09-bd69-80a41b6d1821",
+      "company": "Tensordyne",
+      "title": "Systems Performance Modeling Engineer",
+      "locations": [
+        "Sunnyvale, CA",
+        "Sunnyvale"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/tensordyne/jobs/8841923002",
+      "url": "https://trueinterview.io/jobs/f6222180-3eed-4e09-bd69-80a41b6d1821",
+      "postedAt": "2026-09-23T23:22:13.000Z",
+      "updatedAt": "2026-09-23T23:22:13.000Z"
+    },
+    {
+      "id": "9cb5cf66-e687-45af-8958-9bd9d830d381",
+      "company": "Ast Spacemobile",
+      "title": "Manufacturing Test & Debug Engineer",
+      "locations": [
+        "Midland, Texas, United States",
+        "AST - Midland"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://ast-science.com/company/careers/?gh_jid=4737437005",
+      "url": "https://trueinterview.io/jobs/9cb5cf66-e687-45af-8958-9bd9d830d381",
+      "postedAt": "2026-09-23T23:22:00.000Z",
+      "updatedAt": "2026-09-23T23:22:00.000Z"
+    },
+    {
+      "id": "aa2eac04-21d5-45d5-94e0-975d3d948c9e",
+      "company": "SpaceX",
+      "title": "Materials Engineer, Thin Films",
+      "locations": [
+        "Bastrop, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8839590002?gh_jid=8839590002",
+      "url": "https://trueinterview.io/jobs/aa2eac04-21d5-45d5-94e0-975d3d948c9e",
+      "postedAt": "2026-09-23T23:10:27.000Z",
+      "updatedAt": "2026-09-23T23:10:27.000Z"
+    },
+    {
+      "id": "fb44e8ca-8729-4551-9a3f-a36af444d958",
+      "company": "Mntn",
+      "title": "Software Engineer, Machine Learning",
+      "locations": [
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/mntn/jobs/8205095",
+      "url": "https://trueinterview.io/jobs/fb44e8ca-8729-4551-9a3f-a36af444d958",
+      "postedAt": "2026-09-23T22:52:06.000Z",
+      "updatedAt": "2026-09-23T22:52:06.000Z"
+    },
+    {
+      "id": "c5e5e475-17f4-4102-82f1-389721d4a533",
+      "company": "Akicita Cyber",
+      "title": "Ultrasound Technologist",
+      "locations": [
+        "Pine Ridge, SD"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/akicita-cyber/c5005bb9-6a33-4c4d-9d91-4c4c13e4c417/apply",
+      "url": "https://trueinterview.io/jobs/c5e5e475-17f4-4102-82f1-389721d4a533",
+      "postedAt": "2026-09-23T22:39:18.000Z",
+      "updatedAt": "2026-09-23T22:39:18.000Z"
+    },
+    {
+      "id": "d84cb90a-2335-44d3-a673-58a21a5e492d",
+      "company": "Lia",
+      "title": "PL Product Designer",
+      "locations": [
+        "Brasil",
+        "Remoto"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/ilia/jobs/6207176004",
+      "url": "https://trueinterview.io/jobs/d84cb90a-2335-44d3-a673-58a21a5e492d",
+      "postedAt": "2026-09-23T22:32:26.000Z",
+      "updatedAt": "2026-09-23T22:32:26.000Z"
+    },
+    {
+      "id": "4e23686f-ea67-4765-92c0-e54cc121b8e8",
+      "company": "Fonoa",
+      "title": "Solutions Engineer, APAC",
+      "locations": [
+        "Sydney"
+      ],
+      "cities": [
+        "Sydney"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/fonoa/12af745e-3133-480d-ba56-f729bf80d5d8/application",
+      "url": "https://trueinterview.io/jobs/4e23686f-ea67-4765-92c0-e54cc121b8e8",
+      "postedAt": "2026-09-23T22:19:03.000Z",
+      "updatedAt": "2026-09-23T22:19:03.000Z"
+    },
+    {
+      "id": "4e61f3ae-7a93-4524-8ab7-2bd2eeb1083f",
+      "company": "Apex Companies",
+      "title": "Civil Engineer in Training (EIT)",
+      "locations": [
+        "Idaho Falls, ID",
+        "Rexburg, ID",
+        "ID - Idaho Falls (FA)",
+        "ID - Rexburg (FA)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/apexcompanies/jobs/5432809008",
+      "url": "https://trueinterview.io/jobs/4e61f3ae-7a93-4524-8ab7-2bd2eeb1083f",
+      "postedAt": "2026-09-23T22:10:48.000Z",
+      "updatedAt": "2026-09-23T22:10:48.000Z"
+    },
+    {
+      "id": "f29147a8-3b9d-4cd0-be54-02eafa92d828",
+      "company": "Art Of Problem Solving",
+      "title": "Graphic Design Artist I",
+      "locations": [
+        "San Diego, California, United States",
+        "San Diego - HQ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://artofproblemsolving.com/careers/job/8001607003?gh_jid=8001607003",
+      "url": "https://trueinterview.io/jobs/f29147a8-3b9d-4cd0-be54-02eafa92d828",
+      "postedAt": "2026-09-23T22:10:21.000Z",
+      "updatedAt": "2026-09-23T22:10:21.000Z"
+    },
+    {
+      "id": "75a0c114-10db-4b19-ad75-20f71528cfc9",
+      "company": "Applied intuition",
+      "title": "Hardware Engineer, Mechatronics",
+      "locations": [
+        "Sunnyvale"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/applied/0820cc79-9305-43d3-836e-2c9654afb39e/application",
+      "url": "https://trueinterview.io/jobs/75a0c114-10db-4b19-ad75-20f71528cfc9",
+      "postedAt": "2026-09-23T21:30:44.000Z",
+      "updatedAt": "2026-09-23T21:30:44.000Z"
+    },
+    {
+      "id": "02595fba-65f9-44ee-9b97-c47f6b461cd9",
+      "company": "Gdh",
+      "title": "Engineering Graduate - Air and Noise",
+      "locations": [
+        "Waterloo, ON, Canada"
+      ],
+      "cities": [
+        "Waterloo, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28778",
+      "url": "https://trueinterview.io/jobs/02595fba-65f9-44ee-9b97-c47f6b461cd9",
+      "postedAt": "2026-09-23T21:25:23.000Z",
+      "updatedAt": "2026-09-23T21:25:23.000Z"
+    },
+    {
+      "id": "08171607-92f7-4810-989c-2509e344602a",
+      "company": "Kaluza",
+      "title": "Kaluza Product Specialist",
+      "locations": [
+        "Bristol, England, United Kingdom",
+        "Edinburgh, Scotland, United Kingdom",
+        "London, England, United Kingdom",
+        "Bristol, UK",
+        "Edinburgh, UK",
+        "London, UK"
+      ],
+      "cities": [
+        "Bristol",
+        "Edinburgh",
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.kaluza.com/job?gh_jid=4984251101",
+      "url": "https://trueinterview.io/jobs/08171607-92f7-4810-989c-2509e344602a",
+      "postedAt": "2026-09-23T21:22:42.000Z",
+      "updatedAt": "2026-09-23T21:22:42.000Z"
+    },
+    {
+      "id": "bb4e7f72-2a89-4079-89af-4ea3aff2fc46",
+      "company": "IXL Learning",
+      "title": "IT Support & Operations Specialist",
+      "locations": [
+        "London, England"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8840592002",
+      "url": "https://trueinterview.io/jobs/bb4e7f72-2a89-4079-89af-4ea3aff2fc46",
+      "postedAt": "2026-09-23T21:16:52.000Z",
+      "updatedAt": "2026-09-23T21:16:52.000Z"
+    },
+    {
+      "id": "81997cf8-e533-4192-894f-28281dc2f1e1",
+      "company": "Wsp",
+      "title": "Safety Investigations Engineer",
+      "locations": [
+        "Dearborn, MI, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70873",
+      "url": "https://trueinterview.io/jobs/81997cf8-e533-4192-894f-28281dc2f1e1",
+      "postedAt": "2026-09-23T21:16:32.000Z",
+      "updatedAt": "2026-09-23T21:16:32.000Z"
+    },
+    {
+      "id": "e6480b2e-d98d-4826-a815-33e322bdc6cb",
+      "company": "Seatgeek",
+      "title": "Software Engineer - New Grad",
+      "locations": [
+        "New York, New York",
+        "United States"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://seatgeek.com/jobs/8227548?gh_jid=8227548",
+      "url": "https://trueinterview.io/jobs/e6480b2e-d98d-4826-a815-33e322bdc6cb",
+      "postedAt": "2026-09-23T20:43:35.000Z",
+      "updatedAt": "2026-09-23T20:43:35.000Z"
+    },
+    {
+      "id": "9b3b6703-8bce-4a05-bb6d-7e769d6bcf08",
+      "company": "Pure Storage",
+      "title": "Systems Software Engineer",
+      "locations": [
+        "Santa Clara, California",
+        "Office - Santa Clara"
       ],
       "cities": [],
       "countries": [
@@ -28,11 +662,11 @@
       "level": "newgrad",
       "kind": "newgrad",
       "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=131991",
-      "url": "https://trueinterview.io/jobs/5d6365a5-f988-42e9-b50c-d64e59812eba",
-      "postedAt": "2026-09-23T21:03:10.000Z",
-      "updatedAt": "2026-09-23T21:03:10.000Z"
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/purestorage/jobs/8220346",
+      "url": "https://trueinterview.io/jobs/9b3b6703-8bce-4a05-bb6d-7e769d6bcf08",
+      "postedAt": "2026-09-23T20:42:57.000Z",
+      "updatedAt": "2026-09-23T20:42:57.000Z"
     },
     {
       "id": "9199a180-ea63-4066-b2a5-10c4f3c18f7d",
@@ -88,6 +722,58 @@
       "url": "https://trueinterview.io/jobs/40f91410-6b63-4703-ba1c-af35a37013c5",
       "postedAt": "2026-09-23T20:22:03.000Z",
       "updatedAt": "2026-09-23T20:22:03.000Z"
+    },
+    {
+      "id": "f4bf071b-cd4e-40d1-b76c-2087c3e109d9",
+      "company": "Roboflow",
+      "title": "Customer Success Engineer",
+      "locations": [
+        "NY, SF or Remote (US)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/roboflow/bbcda2ca-5919-4aaa-b3c5-c2fd47c07172/application",
+      "url": "https://trueinterview.io/jobs/f4bf071b-cd4e-40d1-b76c-2087c3e109d9",
+      "postedAt": "2026-09-23T20:16:00.000Z",
+      "updatedAt": "2026-09-23T20:16:00.000Z"
+    },
+    {
+      "id": "a7583774-80e4-4192-8435-8ed4761acf69",
+      "company": "Outset",
+      "title": "IT Automation Engineer",
+      "locations": [
+        "San Francisco"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/outset/13e23908-8de0-4cc3-90b1-a4746d3e2b65/application",
+      "url": "https://trueinterview.io/jobs/a7583774-80e4-4192-8435-8ed4761acf69",
+      "postedAt": "2026-09-23T20:13:43.000Z",
+      "updatedAt": "2026-09-23T20:13:43.000Z"
     },
     {
       "id": "f0d2f9cb-6ceb-4b4d-a9f2-87c897da2cb1",
@@ -563,32 +1249,6 @@
       "url": "https://trueinterview.io/jobs/7cdf9f8a-d296-444f-850e-6334557572d2",
       "postedAt": "2026-09-23T18:58:54.000Z",
       "updatedAt": "2026-09-23T18:58:54.000Z"
-    },
-    {
-      "id": "15301feb-7755-4e00-9244-0b45ff2c198e",
-      "company": "Kelso Industries",
-      "title": "Commercial HVAC Estimator",
-      "locations": [
-        "Ogden, UT",
-        "Kelso Building Services"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.kelso-industries.com/?gh_jid=5433414008",
-      "url": "https://trueinterview.io/jobs/15301feb-7755-4e00-9244-0b45ff2c198e",
-      "postedAt": "2026-09-23T18:56:29.000Z",
-      "updatedAt": "2026-09-23T18:56:29.000Z"
     },
     {
       "id": "c2a58b44-6bd7-45b6-a0db-28604fb8fd7a",
@@ -1251,32 +1911,6 @@
       "updatedAt": "2026-09-23T07:23:10.000Z"
     },
     {
-      "id": "2923d8ce-0e2a-42a2-b573-b6524800bfde",
-      "company": "Ast Spacemobile",
-      "title": "RAN Wireless NOC Engineer",
-      "locations": [
-        "Lanham, Maryland, United States",
-        "AST - Lanham"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://ast-science.com/company/careers/?gh_jid=4736911005",
-      "url": "https://trueinterview.io/jobs/2923d8ce-0e2a-42a2-b573-b6524800bfde",
-      "postedAt": "2026-09-23T00:14:42.000Z",
-      "updatedAt": "2026-09-23T00:14:42.000Z"
-    },
-    {
       "id": "cd17c194-53da-4876-af7d-fda3584672a3",
       "company": "AMD",
       "title": "CPU Microarchitecture & Cache RTL Design Engineer",
@@ -1616,6 +2250,84 @@
       "updatedAt": "2026-09-23T00:00:00.000Z"
     },
     {
+      "id": "1bca7b57-0fa5-4dff-bd97-1abe7efa78c0",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Systems/Software Eng - Graduates",
+      "locations": [
+        "Aguadilla, Puerto Rico, Puerto Rico"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Systems-Software-Eng---Graduates_1215861-2",
+      "url": "https://trueinterview.io/jobs/1bca7b57-0fa5-4dff-bd97-1abe7efa78c0",
+      "postedAt": "2026-09-23T00:00:00.000Z",
+      "updatedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "id": "36cce54e-c82a-4575-a298-9b98d6d35975",
+      "company": "Intel",
+      "title": "Pre-si Power and Performance System Validation Engineer",
+      "locations": [
+        "US, Texas, Austin, United States of America",
+        "US, Oregon, Hillsboro",
+        "US, California, Folsom",
+        "US, California, Santa Clara"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Pre-si-Power-and-Performance-System-Validation-Engineer_JR0287296",
+      "url": "https://trueinterview.io/jobs/36cce54e-c82a-4575-a298-9b98d6d35975",
+      "postedAt": "2026-09-23T00:00:00.000Z",
+      "updatedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "id": "310b2a4a-1cfa-4124-a21b-5ff38db552e4",
+      "company": "Intel",
+      "title": "Quality and Reliability Engineer",
+      "locations": [
+        "US, Arizona, Phoenix, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Quality-and-Reliability-Engineer_JR0287172",
+      "url": "https://trueinterview.io/jobs/310b2a4a-1cfa-4124-a21b-5ff38db552e4",
+      "postedAt": "2026-09-23T00:00:00.000Z",
+      "updatedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
       "id": "ecf845cb-6c5e-46ff-bd60-e6934fa1481c",
       "company": "Intel",
       "title": "Quantum IC Package Substrate Design Engineer",
@@ -1864,6 +2576,31 @@
       "updatedAt": "2026-09-23T00:00:00.000Z"
     },
     {
+      "id": "5b30f3c0-fd42-4bd3-9a85-e166a0e3e155",
+      "company": "QUALCOMM",
+      "title": "#Automotive Experience Platform - Engineer",
+      "locations": [
+        "San Diego, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Platform Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446721162864",
+      "url": "https://trueinterview.io/jobs/5b30f3c0-fd42-4bd3-9a85-e166a0e3e155",
+      "postedAt": "2026-09-23T00:00:00.000Z",
+      "updatedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
       "id": "2a63c515-0a52-4761-a5c0-86ef3b52429f",
       "company": "Sainsbury's",
       "title": "AI/ML Engineer",
@@ -1914,33 +2651,6 @@
       "updatedAt": "2026-09-23T00:00:00.000Z"
     },
     {
-      "id": "18445d6f-6881-400d-a3c1-f126529f2170",
-      "company": "Trimoksha Technologies",
-      "title": "software developer",
-      "locations": [
-        "Waterloo (ON)"
-      ],
-      "cities": [
-        "Waterloo, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "trueinterview",
-      "applyUrl": "https://www.jobbank.gc.ca/jobsearch/jobposting/50352371",
-      "url": "https://trueinterview.io/jobs/18445d6f-6881-400d-a3c1-f126529f2170",
-      "postedAt": "2026-09-23T00:00:00.000Z",
-      "updatedAt": "2026-09-23T00:00:00.000Z"
-    },
-    {
       "id": "af89cb87-4fb7-4e9e-8f26-bc945ec85ada",
       "company": "Cognition",
       "title": "GTM Engineer",
@@ -1966,34 +2676,6 @@
       "url": "https://trueinterview.io/jobs/af89cb87-4fb7-4e9e-8f26-bc945ec85ada",
       "postedAt": "2026-09-22T23:14:30.000Z",
       "updatedAt": "2026-09-22T23:14:30.000Z"
-    },
-    {
-      "id": "1affc614-8a40-4acb-9cfd-f64bf53ddf2d",
-      "company": "Hubble Network",
-      "title": "Data Platform Engineer",
-      "locations": [
-        "San Francisco, CA",
-        "Seattle HQ"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Platform Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://hubble.com/careers?gh_jid=5420856008",
-      "url": "https://trueinterview.io/jobs/1affc614-8a40-4acb-9cfd-f64bf53ddf2d",
-      "postedAt": "2026-09-22T23:11:43.000Z",
-      "updatedAt": "2026-09-22T23:11:43.000Z"
     },
     {
       "id": "6c5eff38-1337-4a67-ad31-06dcc36e6666",
@@ -2236,6 +2918,29 @@
       "url": "https://trueinterview.io/jobs/24293a31-9506-40f8-8ef2-508dd863f66e",
       "postedAt": "2026-09-22T21:17:28.000Z",
       "updatedAt": "2026-09-22T21:17:28.000Z"
+    },
+    {
+      "id": "14a8f3f6-8a21-4c0d-bc3b-a02e151e0bb2",
+      "company": "Distro",
+      "title": "Associate Software Engineer",
+      "locations": [
+        "Nairobi, Nairobi City"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/distro/f0bad4f8-7b48-4507-8a4e-42dd25c362c4/apply",
+      "url": "https://trueinterview.io/jobs/14a8f3f6-8a21-4c0d-bc3b-a02e151e0bb2",
+      "postedAt": "2026-09-22T20:48:15.000Z",
+      "updatedAt": "2026-09-22T20:48:15.000Z"
     },
     {
       "id": "c8e1dd4c-2458-4ffb-b617-cb73b83b1308",
@@ -3097,6 +3802,33 @@
       "updatedAt": "2026-09-22T16:22:13.000Z"
     },
     {
+      "id": "16695b68-f1f4-4988-9a5a-2d5f78265331",
+      "company": "Long View Systems",
+      "title": "Deskside Consultant",
+      "locations": [
+        "Vancouver"
+      ],
+      "cities": [
+        "Vancouver, BC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/lvs1/fb9a4d81-6f75-4259-b723-14de479b0e46/apply",
+      "url": "https://trueinterview.io/jobs/16695b68-f1f4-4988-9a5a-2d5f78265331",
+      "postedAt": "2026-09-22T16:04:54.000Z",
+      "updatedAt": "2026-09-22T16:04:54.000Z"
+    },
+    {
       "id": "58aeeb7a-69d1-4568-9a30-0901fbec055c",
       "company": "SpaceX",
       "title": "Development Test Engineer (Starlink)",
@@ -3797,31 +4529,6 @@
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
     {
-      "id": "1af9b527-5911-4d28-bb19-fe2f0398a095",
-      "company": "KLA",
-      "title": "HPC Linux Systems Engineer",
-      "locations": [
-        "Milpitas, CA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/HPC-Linux-Systems-Engineer_2640535",
-      "url": "https://trueinterview.io/jobs/1af9b527-5911-4d28-bb19-fe2f0398a095",
-      "postedAt": "2026-09-22T00:00:00.000Z",
-      "updatedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
       "id": "1fab8b28-0b2d-43bf-9a27-ba9e70be357c",
       "company": "KLA",
       "title": "Quality Chemical Engineer",
@@ -3989,31 +4696,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Diffusion-Quartz---PM-Machinist_R-10067005-1",
       "url": "https://trueinterview.io/jobs/48c318de-a24e-484e-bf30-6b699cc160c3",
-      "postedAt": "2026-09-22T00:00:00.000Z",
-      "updatedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "1abee12e-64bd-4174-9b12-41159f915d16",
-      "company": "PwC",
-      "title": "IN_Associate_ GenAI and Agentic AI Engineer _GCC_ Advisory_ Bangalore",
-      "locations": [
-        "Bengaluru Millenia"
-      ],
-      "cities": [],
-      "countries": [
-        "India"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "trueinterview",
-      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Associate--GenAI-and-Agentic-AI-Engineer--GCC--Advisory--Bangalore_738729WD-1",
-      "url": "https://trueinterview.io/jobs/1abee12e-64bd-4174-9b12-41159f915d16",
       "postedAt": "2026-09-22T00:00:00.000Z",
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
@@ -4302,35 +4984,6 @@
       "updatedAt": "2026-09-21T23:43:06.000Z"
     },
     {
-      "id": "1a21617d-d73f-4967-9174-76e431ffbe51",
-      "company": "Scale Army",
-      "title": "Solutions Engineer",
-      "locations": [
-        "Egypt",
-        "Argentina",
-        "Ethiopia",
-        "Morocco",
-        "Kenya"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/scale%20army%20careers/04b20dcf-d1d6-4635-b9da-2d178555ea28/application",
-      "url": "https://trueinterview.io/jobs/1a21617d-d73f-4967-9174-76e431ffbe51",
-      "postedAt": "2026-09-21T23:29:14.000Z",
-      "updatedAt": "2026-09-21T23:29:14.000Z"
-    },
-    {
       "id": "7deaf112-5dcd-47f2-8ea5-d15dd205dafb",
       "company": "Celero Communications, Inc.",
       "title": "High-Speed Analog Layout Design Engineer",
@@ -4503,32 +5156,6 @@
       "url": "https://trueinterview.io/jobs/87559b16-3a38-4477-a602-e93a10732509",
       "postedAt": "2026-09-21T21:14:46.000Z",
       "updatedAt": "2026-09-21T21:14:46.000Z"
-    },
-    {
-      "id": "18d64dc4-adc4-4082-9185-cc71e45e7413",
-      "company": "Cfd Research Corporation",
-      "title": "Computer Vision Engineer",
-      "locations": [
-        "Dayton",
-        "Dayton, OH"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.cfd-research.com/jobs?gh_jid=4411856009",
-      "url": "https://trueinterview.io/jobs/18d64dc4-adc4-4082-9185-cc71e45e7413",
-      "postedAt": "2026-09-21T21:07:00.000Z",
-      "updatedAt": "2026-09-21T21:07:00.000Z"
     },
     {
       "id": "dd4f09d7-0938-4810-a45a-7f036d7c051a",
@@ -5003,33 +5630,6 @@
       "url": "https://trueinterview.io/jobs/81a0e355-5c87-4686-8367-94aae1861d1e",
       "postedAt": "2026-09-21T19:18:46.000Z",
       "updatedAt": "2026-09-21T19:18:46.000Z"
-    },
-    {
-      "id": "1b949f40-9334-4564-9d4d-b49aee04cfa0",
-      "company": "Highbeam",
-      "title": "Brand Designer",
-      "locations": [
-        "New York"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/highbeam/e16ff992-5857-43ee-87a9-8a0db6dc49b9/application",
-      "url": "https://trueinterview.io/jobs/1b949f40-9334-4564-9d4d-b49aee04cfa0",
-      "postedAt": "2026-09-21T19:02:00.000Z",
-      "updatedAt": "2026-09-21T19:02:00.000Z"
     },
     {
       "id": "a8218c78-a554-481d-a18c-08e2df9f9ed7",
@@ -5807,31 +6407,6 @@
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
     {
-      "id": "1a0aa708-4041-49eb-b20f-4bec31605bda",
-      "company": "Cisco",
-      "title": "Software Engineer, SD-WAN Security",
-      "locations": [
-        "RTP, North Carolina, US, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer--SD-WAN-Security_2026166",
-      "url": "https://trueinterview.io/jobs/1a0aa708-4041-49eb-b20f-4bec31605bda",
-      "postedAt": "2026-09-21T00:00:00.000Z",
-      "updatedAt": "2026-09-21T00:00:00.000Z"
-    },
-    {
       "id": "f0c82ce0-fced-4993-b5f2-9ae0b136d2b1",
       "company": "Cisco",
       "title": "SRE Database Administrator (DBA) (Hybrid)",
@@ -6122,7 +6697,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "new-grad",
       "level": "newgrad",
@@ -6414,6 +6989,31 @@
       "url": "https://trueinterview.io/jobs/c9fb91e6-c9d5-4d64-8a25-222043588ac3",
       "postedAt": "2026-09-20T23:46:50.000Z",
       "updatedAt": "2026-09-20T23:46:50.000Z"
+    },
+    {
+      "id": "17f233d9-0774-4ab4-b0a1-d22dd65ea1cb",
+      "company": "Nuclear Promise X",
+      "title": "Innovation Catalyst (Future Opportunities at NPX)",
+      "locations": [
+        "Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/npx/9fa13a29-13e8-4305-880b-ab004a828122/application",
+      "url": "https://trueinterview.io/jobs/17f233d9-0774-4ab4-b0a1-d22dd65ea1cb",
+      "postedAt": "2026-09-20T23:04:30.000Z",
+      "updatedAt": "2026-09-20T23:04:30.000Z"
     },
     {
       "id": "56cbda39-4219-4964-989f-fc70f3608444",
@@ -7326,37 +7926,6 @@
       "url": "https://trueinterview.io/jobs/ebc6e70b-821f-45f3-9c5f-9db123bead5b",
       "postedAt": "2026-09-18T18:59:06.000Z",
       "updatedAt": "2026-09-18T18:59:06.000Z"
-    },
-    {
-      "id": "1928167c-61fb-4ae3-9e67-a1bb49eb1772",
-      "company": "Voldex Games",
-      "title": "Software Engineer - Driving Empire",
-      "locations": [
-        "Remote - Canada",
-        "Remote - UK",
-        "Remote - Mexico",
-        "Remote - Brazil"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada",
-        "United Kingdom",
-        "Mexico",
-        "Brazil"
-      ],
-      "remote": "remote",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/voldex/00b44f87-5b37-47fe-95df-b33a8fe14b56/application",
-      "url": "https://trueinterview.io/jobs/1928167c-61fb-4ae3-9e67-a1bb49eb1772",
-      "postedAt": "2026-09-18T18:47:56.000Z",
-      "updatedAt": "2026-09-18T18:47:56.000Z"
     },
     {
       "id": "97419279-be10-45ff-b686-1aa12d64d821",
@@ -8864,31 +9433,6 @@
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
     {
-      "id": "32a486ab-b6ea-4909-8172-ad1fbb3a69bb",
-      "company": "QUALCOMM",
-      "title": "CPU Physical Design Engineer, San Diego",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446721160980",
-      "url": "https://trueinterview.io/jobs/32a486ab-b6ea-4909-8172-ad1fbb3a69bb",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
       "id": "2a5e4694-dbe0-44d6-9b0e-a68fe9f4d90b",
       "company": "Salesforce",
       "title": "Software Engineering PMTS - Cloud Security - Hyderabad",
@@ -10148,6 +10692,33 @@
       "updatedAt": "2026-09-17T14:23:10.000Z"
     },
     {
+      "id": "87c908c1-7dd8-4f1e-8c53-c5160fa028ca",
+      "company": "IBM",
+      "title": "Entry level Hardware Developer - Rochester, MN - 2027",
+      "locations": [
+        "Austin, US"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=130105",
+      "url": "https://trueinterview.io/jobs/87c908c1-7dd8-4f1e-8c53-c5160fa028ca",
+      "postedAt": "2026-09-17T00:13:12.000Z",
+      "updatedAt": "2026-09-17T00:13:12.000Z"
+    },
+    {
       "id": "7e262e0c-cf82-4556-bdb6-8365f4983a61",
       "company": "AMD",
       "title": "Embedded Firmware Development Engineer",
@@ -10583,32 +11154,6 @@
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
     {
-      "id": "1bbae287-1f4e-4c47-81d5-6a09bff522b5",
-      "company": "KLA",
-      "title": "Software Quality Engineer",
-      "locations": [
-        "Milpitas, CA",
-        "Milpitas, CA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Quality-Engineer_2638595",
-      "url": "https://trueinterview.io/jobs/1bbae287-1f4e-4c47-81d5-6a09bff522b5",
-      "postedAt": "2026-09-16T22:33:11.000Z",
-      "updatedAt": "2026-09-17T00:00:00.000Z"
-    },
-    {
       "id": "2fab814f-7929-4306-9080-c3ca365f7395",
       "company": "Manulife",
       "title": "Backend Software Engineer",
@@ -10901,31 +11446,6 @@
       "source": "trueinterview",
       "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Python-GCC-Advisory-Bangalore_746234WD-1",
       "url": "https://trueinterview.io/jobs/e2b6cb41-0cc4-4df3-b301-d2b700e8faea",
-      "postedAt": "2026-09-17T00:00:00.000Z",
-      "updatedAt": "2026-09-17T00:00:00.000Z"
-    },
-    {
-      "id": "172aced0-480a-4f15-a140-2ef67f46cc7d",
-      "company": "QUALCOMM",
-      "title": "GPU Research Engineer",
-      "locations": [
-        "San Diego, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446718710590",
-      "url": "https://trueinterview.io/jobs/172aced0-480a-4f15-a140-2ef67f46cc7d",
       "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
@@ -12140,32 +12660,6 @@
       "updatedAt": "2026-09-16T22:33:11.000Z"
     },
     {
-      "id": "69dbc981-c26b-4c09-94d8-9dd90f6737e8",
-      "company": "KLA",
-      "title": "Engineering Change Order (ECO) Analyst (Enovia|PLM|ERP|MES|SAP)",
-      "locations": [
-        "Milpitas, CA",
-        "Milpitas, CA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Configuration-Analyst_2633863",
-      "url": "https://trueinterview.io/jobs/69dbc981-c26b-4c09-94d8-9dd90f6737e8",
-      "postedAt": "2026-09-16T22:33:11.000Z",
-      "updatedAt": "2026-09-16T22:33:11.000Z"
-    },
-    {
       "id": "b9feb7bd-c161-4f76-92ec-2e0ee8c339ff",
       "company": "KLA",
       "title": "High Performance Compute (HPC) Software Engineer – HPC SW Systems",
@@ -12758,34 +13252,6 @@
       "url": "https://trueinterview.io/jobs/e922b6f9-c6a3-412a-883d-32fb96b7bd3d",
       "postedAt": "2026-09-16T22:33:11.000Z",
       "updatedAt": "2026-09-16T22:33:11.000Z"
-    },
-    {
-      "id": "1b727a7b-57b8-4f62-b89a-2be45f0b0b91",
-      "company": "Olsson",
-      "title": "Electrical Engineer - Building Design",
-      "locations": [
-        "Lincoln, NE",
-        "Omaha, NE",
-        "Lincoln",
-        "Omaha"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/olsson/jobs/5426492008",
-      "url": "https://trueinterview.io/jobs/1b727a7b-57b8-4f62-b89a-2be45f0b0b91",
-      "postedAt": "2026-09-16T22:25:46.000Z",
-      "updatedAt": "2026-09-16T22:25:46.000Z"
     },
     {
       "id": "ba538938-49a1-4d3e-9d6c-223445317730",
@@ -14690,31 +15156,6 @@
       "updatedAt": "2026-09-16T19:05:54.000Z"
     },
     {
-      "id": "19890c25-bdf4-4005-bb14-d10784407e8e",
-      "company": "Wsp",
-      "title": "Transportation Engineering Inter- Summer 2027",
-      "locations": [
-        "Las Vegas, NV, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95524",
-      "url": "https://trueinterview.io/jobs/19890c25-bdf4-4005-bb14-d10784407e8e",
-      "postedAt": "2026-09-16T19:04:30.000Z",
-      "updatedAt": "2026-09-16T19:04:30.000Z"
-    },
-    {
       "id": "ef676286-a291-4abc-8ad4-c072b75602b9",
       "company": "Loora",
       "title": "AI Researcher",
@@ -15090,7 +15531,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "IT & Support",
       "role": "Other",
       "seniority": "new-grad",
       "level": "newgrad",
@@ -16343,7 +16784,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "new-grad",
       "level": "newgrad",
@@ -18219,33 +18660,6 @@
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
     {
-      "id": "19aa9097-44c2-4695-ad70-a6f3c5cbb015",
-      "company": "Mastercard",
-      "title": "Software Integration Engineer-II",
-      "locations": [
-        "Pune, India"
-      ],
-      "cities": [
-        "Pune"
-      ],
-      "countries": [
-        "India"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "trueinterview",
-      "applyUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Integration-Engineer-II_R-280012-1",
-      "url": "https://trueinterview.io/jobs/19aa9097-44c2-4695-ad70-a6f3c5cbb015",
-      "postedAt": "2026-09-15T00:00:00.000Z",
-      "updatedAt": "2026-09-15T00:00:00.000Z"
-    },
-    {
       "id": "edf95f16-fa4b-4c9b-a078-9bbe9e4239c9",
       "company": "Mercor",
       "title": "software developer",
@@ -18340,7 +18754,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Full-Stack Engineer",
       "seniority": "new-grad",
       "level": "newgrad",
       "kind": "newgrad",
@@ -19478,33 +19892,6 @@
       "updatedAt": "2026-09-14T17:25:09.000Z"
     },
     {
-      "id": "1641ea30-0495-4d14-86f6-b130ddeaf21b",
-      "company": "Vapi",
-      "title": "Customer Support Engineer",
-      "locations": [
-        "San Francisco"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/vapi/85f2aa22-98e7-4610-965d-4366bb9757fa/application",
-      "url": "https://trueinterview.io/jobs/1641ea30-0495-4d14-86f6-b130ddeaf21b",
-      "postedAt": "2026-09-14T16:18:44.000Z",
-      "updatedAt": "2026-09-14T16:18:44.000Z"
-    },
-    {
       "id": "4ccaf058-95d1-4144-8d89-be2c41350e97",
       "company": "Capco",
       "title": "Full Stack Developer",
@@ -19540,7 +19927,7 @@
       "countries": [],
       "remote": "remote",
       "category": "Software",
-      "family": "Software",
+      "family": "IT & Support",
       "role": "Security Engineer",
       "seniority": "new-grad",
       "level": "newgrad",
@@ -20064,33 +20451,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC---AI-Performance-Engineer_1206826-3",
       "url": "https://trueinterview.io/jobs/581261a3-d61f-4a2f-9972-8bc918695d3b",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "updatedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
-      "id": "7d998358-12cd-41af-95a2-686da895964b",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Junos-EVO OS Infrastructure Engineer",
-      "locations": [
-        "Sunnyvale, California, United States of America"
-      ],
-      "cities": [
-        "Sunnyvale, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Junos-EVO-OS-Infrastructure-Engineer_1212190-3",
-      "url": "https://trueinterview.io/jobs/7d998358-12cd-41af-95a2-686da895964b",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
@@ -22877,42 +23237,6 @@
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
     {
-      "id": "152e2c8c-e995-4363-894c-3c108ef1ef5f",
-      "company": "Fluidstack",
-      "title": "Power Electronics Engineer, R&D",
-      "locations": [
-        "Austin, TX",
-        "New York, NY",
-        "San Francisco, CA",
-        "Los Angeles",
-        "CA",
-        "Seattle, WA"
-      ],
-      "cities": [
-        "Austin, TX",
-        "New York, NY",
-        "San Francisco, CA",
-        "Los Angeles, CA",
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/fluidstack/1aa4a596-3f84-43ec-b6d9-0aae28ae377e/application",
-      "url": "https://trueinterview.io/jobs/152e2c8c-e995-4363-894c-3c108ef1ef5f",
-      "postedAt": "2026-09-10T23:37:04.000Z",
-      "updatedAt": "2026-09-10T23:37:04.000Z"
-    },
-    {
       "id": "1c28fbb2-7fcd-4608-8291-6676ea75ce7e",
       "company": "Fluidstack",
       "title": "Controls Engineer, R&D",
@@ -23267,31 +23591,6 @@
       "updatedAt": "2026-09-10T22:53:57.000Z"
     },
     {
-      "id": "1b34d776-80a7-401c-8c41-f070bcd007de",
-      "company": "Roshal Health",
-      "title": "Ultrasound Technologist - PRN - Bee Cave TX",
-      "locations": [
-        "Bee Cave, TX"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/roshalimaging/91ffa189-9484-4c30-ae57-dd2ace19a9ab/apply",
-      "url": "https://trueinterview.io/jobs/1b34d776-80a7-401c-8c41-f070bcd007de",
-      "postedAt": "2026-09-10T22:53:17.000Z",
-      "updatedAt": "2026-09-10T22:53:17.000Z"
-    },
-    {
       "id": "49de998f-eebc-4089-b623-e669ef148d5e",
       "company": "Roshal Health",
       "title": "Ultrasound Technologist - PRN - Bastrop TX",
@@ -23547,31 +23846,6 @@
       "url": "https://trueinterview.io/jobs/3d303089-d3f0-4c91-95ae-7d903af02b36",
       "postedAt": "2026-09-10T22:13:10.000Z",
       "updatedAt": "2026-09-10T22:13:10.000Z"
-    },
-    {
-      "id": "1afa04d3-13b9-4a78-bb99-2809b02dd0c7",
-      "company": "Roshal Health",
-      "title": "Ultrasound Technologist - Ocala, FL",
-      "locations": [
-        "Ocala, FL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/roshalimaging/53e52fcc-dfbc-4ac1-b324-2f041b6ce0dd/apply",
-      "url": "https://trueinterview.io/jobs/1afa04d3-13b9-4a78-bb99-2809b02dd0c7",
-      "postedAt": "2026-09-10T21:54:22.000Z",
-      "updatedAt": "2026-09-10T21:54:22.000Z"
     },
     {
       "id": "54611c81-c22a-4d10-81d9-6520310fe3b3",
@@ -24092,9 +24366,9 @@
         "Other"
       ],
       "remote": "onsite",
-      "category": "Software",
+      "category": "Data & AI",
       "family": "Software",
-      "role": "Backend Engineer",
+      "role": "AI Engineer",
       "seniority": "new-grad",
       "level": "newgrad",
       "kind": "newgrad",
@@ -24104,32 +24378,6 @@
       "url": "https://trueinterview.io/jobs/147abc68-e170-462f-93b0-273aabf038b6",
       "postedAt": "2026-09-10T19:12:10.000Z",
       "updatedAt": "2026-09-10T19:12:10.000Z"
-    },
-    {
-      "id": "1748a5df-108f-4586-8cf5-d6d1bcef7100",
-      "company": "GoDaddy",
-      "title": "Critical Facilities Engineer",
-      "locations": [
-        "Phoenix, Arizona, United States",
-        "Phoenix"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.godaddy/jobs?gh_jid=7987643003",
-      "url": "https://trueinterview.io/jobs/1748a5df-108f-4586-8cf5-d6d1bcef7100",
-      "postedAt": "2026-09-10T19:04:38.000Z",
-      "updatedAt": "2026-09-10T19:04:38.000Z"
     },
     {
       "id": "04141462-a7b5-412e-8c5b-6ea7b78c98a7",
@@ -24260,72 +24508,6 @@
       "url": "https://trueinterview.io/jobs/3e687584-d085-49a1-8e9c-8f775e1e70c9",
       "postedAt": "2026-09-10T18:31:57.000Z",
       "updatedAt": "2026-09-10T18:31:57.000Z"
-    },
-    {
-      "id": "18de7268-67fb-480b-a598-23cb6cf683d9",
-      "company": "Fluidstack",
-      "title": "Decision Engineer, Compute Operations",
-      "locations": [
-        "New York, NY",
-        "San Francisco, CA",
-        "Austin, TX",
-        "Seattle, WA"
-      ],
-      "cities": [
-        "New York, NY",
-        "San Francisco, CA",
-        "Austin, TX",
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/fluidstack/1fa894eb-09ce-478f-b440-aae45aa4953e/application",
-      "url": "https://trueinterview.io/jobs/18de7268-67fb-480b-a598-23cb6cf683d9",
-      "postedAt": "2026-09-10T18:22:14.000Z",
-      "updatedAt": "2026-09-10T18:22:14.000Z"
-    },
-    {
-      "id": "b843b5b9-4913-4a7e-a84b-03c322916773",
-      "company": "Fluidstack",
-      "title": "Decision Engineer, Business Operations",
-      "locations": [
-        "San Francisco, CA",
-        "New York, NY",
-        "Austin, TX",
-        "Seattle, WA"
-      ],
-      "cities": [
-        "San Francisco, CA",
-        "New York, NY",
-        "Austin, TX",
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/fluidstack/e2a1dad4-f2dd-4cd6-b19e-c50bcb51fe0d/application",
-      "url": "https://trueinterview.io/jobs/b843b5b9-4913-4a7e-a84b-03c322916773",
-      "postedAt": "2026-09-10T17:51:59.000Z",
-      "updatedAt": "2026-09-10T17:51:59.000Z"
     },
     {
       "id": "146ac455-30d8-4211-a949-d0ccaf90c35c",
@@ -24603,6 +24785,31 @@
       "url": "https://trueinterview.io/jobs/26732c1e-d5d7-47d9-bf1c-524ca15e6a58",
       "postedAt": "2026-09-10T16:21:41.000Z",
       "updatedAt": "2026-09-10T16:21:41.000Z"
+    },
+    {
+      "id": "149c62e0-d4ae-4eb6-8c69-72df2787868a",
+      "company": "Insider One",
+      "title": "Financial Analyst - LATAM (",
+      "locations": [
+        "Sao Paulo, Brazil"
+      ],
+      "cities": [],
+      "countries": [
+        "Brazil"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/insiderone/7cf1f0b0-9d66-4f0b-9a81-608851aadeb7/apply",
+      "url": "https://trueinterview.io/jobs/149c62e0-d4ae-4eb6-8c69-72df2787868a",
+      "postedAt": "2026-09-10T16:18:29.000Z",
+      "updatedAt": "2026-09-10T16:18:29.000Z"
     },
     {
       "id": "8da19596-47a7-492b-a592-75347381ba96",
@@ -24962,31 +25169,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/Software-Developer-Cloud---Distributed-Systems_1213218-2",
       "url": "https://trueinterview.io/jobs/fbb073cc-52ca-4493-8465-d56d43bab895",
-      "postedAt": "2026-09-10T00:00:00.000Z",
-      "updatedAt": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "id": "197ad816-e966-407f-a49e-70c9215a7da4",
-      "company": "Intact Financial",
-      "title": "Data Scientist I, HK - Winter 2027",
-      "locations": [
-        "Hong Kong Science Park, HK"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "trueinterview",
-      "applyUrl": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Hong-Kong-Science-Park-HK/Data-Scientist-I--HK---Winter-2027_R155626",
-      "url": "https://trueinterview.io/jobs/197ad816-e966-407f-a49e-70c9215a7da4",
       "postedAt": "2026-09-10T00:00:00.000Z",
       "updatedAt": "2026-09-10T00:00:00.000Z"
     },
@@ -26063,6 +26245,31 @@
       "url": "https://trueinterview.io/jobs/bff2ae6a-5887-434f-b31d-efcdbd236c2a",
       "postedAt": "2026-09-09T20:11:56.000Z",
       "updatedAt": "2026-09-09T20:11:56.000Z"
+    },
+    {
+      "id": "14c4ce6c-a5a9-4862-bdb0-3f0de2fe4b42",
+      "company": "Cabify",
+      "title": "Práctica Profesional - B2B Analyst",
+      "locations": [
+        "Santiago de Chile"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/cabify/jobs/8790858002",
+      "url": "https://trueinterview.io/jobs/14c4ce6c-a5a9-4862-bdb0-3f0de2fe4b42",
+      "postedAt": "2026-09-09T19:58:10.000Z",
+      "updatedAt": "2026-09-09T19:58:10.000Z"
     },
     {
       "id": "d4282614-2de3-460a-868b-302d4be49c16",
@@ -28280,32 +28487,6 @@
       "updatedAt": "2026-09-08T19:43:15.000Z"
     },
     {
-      "id": "18c4bccd-09ec-41d0-9f22-fb1b6f237dce",
-      "company": "Divergent",
-      "title": "CMM Programmer",
-      "locations": [
-        "Torrance, California, United States",
-        "Torrance, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/divergent/jobs/5417081008",
-      "url": "https://trueinterview.io/jobs/18c4bccd-09ec-41d0-9f22-fb1b6f237dce",
-      "postedAt": "2026-09-08T19:40:03.000Z",
-      "updatedAt": "2026-09-08T19:40:03.000Z"
-    },
-    {
       "id": "d2250162-6d58-4ac8-a5de-e1304def7736",
       "company": "Nice",
       "title": "Technical Support Engineer",
@@ -28675,31 +28856,6 @@
       "updatedAt": "2026-09-08T16:13:09.000Z"
     },
     {
-      "id": "16d295bd-0c2a-486a-ab10-4383120c0d67",
-      "company": "Dataiku",
-      "title": "Motion Designer / Video Editor — Apprenticeship (1 or 2 years)",
-      "locations": [
-        "France, Paris"
-      ],
-      "cities": [],
-      "countries": [
-        "France"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/dataiku/jobs/6181952004",
-      "url": "https://trueinterview.io/jobs/16d295bd-0c2a-486a-ab10-4383120c0d67",
-      "postedAt": "2026-09-08T16:09:29.000Z",
-      "updatedAt": "2026-09-08T16:09:29.000Z"
-    },
-    {
       "id": "97f89dcf-448a-4bbc-b2f3-aae3c7e0824b",
       "company": "SpaceX",
       "title": "Structural Test Engineer (Starship)",
@@ -28775,6 +28931,32 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/91909?lang=en-us",
       "url": "https://trueinterview.io/jobs/eb89daf7-6a17-4551-b5ac-0b8e2c176714",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "16d0709b-0279-4b23-9a9e-fe62750f8987",
+      "company": "AMD",
+      "title": "Sr. Software Development Engineer",
+      "locations": [
+        "US,NJ,Secaucus_Meadowlands",
+        "Secaucus, New Jersey, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91803?lang=en-us",
+      "url": "https://trueinterview.io/jobs/16d0709b-0279-4b23-9a9e-fe62750f8987",
       "postedAt": "2026-09-08T00:00:00.000Z",
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
@@ -29144,33 +29326,6 @@
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
     {
-      "id": "1733e22b-045f-4766-9e5f-87a1d023447c",
-      "company": "OMERS",
-      "title": "Student, AI/ML Engineer (Winter 2027, 8 Months)",
-      "locations": [
-        "Toronto, Ontario"
-      ],
-      "cities": [
-        "Toronto, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "trueinterview",
-      "applyUrl": "https://omers.wd3.myworkdayjobs.com/OMERS_External/job/Toronto-Ontario/Student--AI-ML-Engineer--Winter-2027--8-Months-_JR-8403",
-      "url": "https://trueinterview.io/jobs/1733e22b-045f-4766-9e5f-87a1d023447c",
-      "postedAt": "2026-09-08T00:00:00.000Z",
-      "updatedAt": "2026-09-08T00:00:00.000Z"
-    },
-    {
       "id": "09259e9a-c444-483e-958b-2d3af78351b3",
       "company": "PwC",
       "title": "Conversational AI Developer",
@@ -29194,6 +29349,34 @@
       "source": "trueinterview",
       "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Krakw/Conversational-AI-Developer_760232WD",
       "url": "https://trueinterview.io/jobs/09259e9a-c444-483e-958b-2d3af78351b3",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "18eb620f-f1eb-48b0-8502-c1453db9bc11",
+      "company": "Red Hat",
+      "title": "Junior Solution Architect",
+      "locations": [
+        "Boston",
+        "Boston, United States of America"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Junior-Solution-Architect_R-059073",
+      "url": "https://trueinterview.io/jobs/18eb620f-f1eb-48b0-8502-c1453db9bc11",
       "postedAt": "2026-09-08T00:00:00.000Z",
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
@@ -29629,6 +29812,31 @@
       "url": "https://trueinterview.io/jobs/efc2fe2a-43f5-44cf-ae2a-fabedf43e921",
       "postedAt": "2026-09-07T16:35:22.000Z",
       "updatedAt": "2026-09-07T16:35:22.000Z"
+    },
+    {
+      "id": "1b22a514-1f1d-465e-ab4b-509e8b7aafa0",
+      "company": "Ashby",
+      "title": "Technical Solutions Consultant - Americas",
+      "locations": [
+        "Remote - US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/ashby/08b6342c-d5c0-4864-a4db-28027d241cbe/application",
+      "url": "https://trueinterview.io/jobs/1b22a514-1f1d-465e-ab4b-509e8b7aafa0",
+      "postedAt": "2026-09-07T16:19:53.000Z",
+      "updatedAt": "2026-09-07T16:19:53.000Z"
     },
     {
       "id": "f92dca05-7c79-4e52-94c5-cfb051473e68",
@@ -31727,35 +31935,6 @@
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
     {
-      "id": "1a757d13-eaad-4116-a0cd-9d95141af491",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Early Career",
-      "locations": [
-        "Newark, New Jersey, USA",
-        "Cambridge, Massachusetts, USA"
-      ],
-      "cities": [
-        "Cambridge"
-      ],
-      "countries": [
-        "United States",
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10529830/software-development-engineer-early-career",
-      "url": "https://trueinterview.io/jobs/1a757d13-eaad-4116-a0cd-9d95141af491",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
       "id": "25216524-7708-43be-9c67-9f2361b18f5d",
       "company": "AMD",
       "title": "AI Infrastructure Engineer",
@@ -32712,33 +32891,6 @@
       "updatedAt": "2026-09-03T22:46:24.000Z"
     },
     {
-      "id": "174b3b68-d5f6-4fbb-a823-d5cb407d3adc",
-      "company": "Stackline",
-      "title": "Security Automation Engineer",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/stackline/jobs/4730525005",
-      "url": "https://trueinterview.io/jobs/174b3b68-d5f6-4fbb-a823-d5cb407d3adc",
-      "postedAt": "2026-09-03T22:44:41.000Z",
-      "updatedAt": "2026-09-03T22:44:41.000Z"
-    },
-    {
       "id": "2b27ece3-4a44-479a-88b8-e5c14854646f",
       "company": "Notion",
       "title": "Brand Designer, Creative Studio",
@@ -32854,31 +33006,6 @@
       "url": "https://trueinterview.io/jobs/6e83a401-dd0c-4e24-a5d7-bddd27903f20",
       "postedAt": "2026-09-03T22:33:29.000Z",
       "updatedAt": "2026-09-03T22:33:29.000Z"
-    },
-    {
-      "id": "1a07bd69-0b5f-4f28-9cea-d93fcb9a838f",
-      "company": "Ford Motor Company",
-      "title": "Engineering Specialist - Body - Dimensional",
-      "locations": [
-        "Wayne, MI, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69780",
-      "url": "https://trueinterview.io/jobs/1a07bd69-0b5f-4f28-9cea-d93fcb9a838f",
-      "postedAt": "2026-09-03T22:12:11.000Z",
-      "updatedAt": "2026-09-03T22:12:11.000Z"
     },
     {
       "id": "5f1dfd94-ddf7-4466-a913-cc2ddc51eed1",
@@ -35299,33 +35426,6 @@
       "url": "https://trueinterview.io/jobs/6084ad99-c2a4-40b7-9d87-9381162dadf2",
       "postedAt": "2026-09-02T21:04:45.000Z",
       "updatedAt": "2026-09-02T21:04:45.000Z"
-    },
-    {
-      "id": "16244bc4-8e16-493b-9df7-daf02cedb380",
-      "company": "Openai",
-      "title": "Codex Deployment Engineer",
-      "locations": [
-        "São Paulo"
-      ],
-      "cities": [
-        "São Paulo"
-      ],
-      "countries": [
-        "Brazil"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/openai/c8d3feee-2b6a-4ef7-b8c0-90bbd1381c1f/application",
-      "url": "https://trueinterview.io/jobs/16244bc4-8e16-493b-9df7-daf02cedb380",
-      "postedAt": "2026-09-02T21:03:19.000Z",
-      "updatedAt": "2026-09-02T21:03:19.000Z"
     },
     {
       "id": "00b8b2a1-70fb-48e7-b38f-db47607bbd09",
@@ -37898,7 +37998,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "new-grad",
       "level": "newgrad",
@@ -38126,34 +38226,6 @@
       "updatedAt": "2026-09-01T20:57:49.000Z"
     },
     {
-      "id": "154118b8-07c0-4783-9414-b01e7e0d7770",
-      "company": "Hippo Insurance",
-      "title": "Data Analyst",
-      "locations": [
-        "Austin, Texas, United States",
-        "TX - Austin"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/hippo70/jobs/8767349002?gh_jid=8767349002",
-      "url": "https://trueinterview.io/jobs/154118b8-07c0-4783-9414-b01e7e0d7770",
-      "postedAt": "2026-09-01T20:50:59.000Z",
-      "updatedAt": "2026-09-01T20:50:59.000Z"
-    },
-    {
       "id": "c8707049-a84d-47ff-9a16-d65d769c1659",
       "company": "Bluesight",
       "title": "Technical Support Engineer - PrivacyPro",
@@ -38361,34 +38433,6 @@
       "updatedAt": "2026-09-01T19:44:55.000Z"
     },
     {
-      "id": "1b22c1d7-560a-4e39-91be-67647b5dca72",
-      "company": "Figure",
-      "title": "IT Client Engineer",
-      "locations": [
-        "San Jose, CA",
-        "HQ"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/figureai/jobs/4710288006",
-      "url": "https://trueinterview.io/jobs/1b22c1d7-560a-4e39-91be-67647b5dca72",
-      "postedAt": "2026-09-01T19:44:54.000Z",
-      "updatedAt": "2026-09-01T19:44:54.000Z"
-    },
-    {
       "id": "ba26133b-0842-43ed-80cc-bbbe4a35a707",
       "company": "Altalink",
       "title": "Commercial Development Engineer",
@@ -38491,30 +38535,6 @@
       "url": "https://trueinterview.io/jobs/ee740f65-0c04-4073-9049-49a5926272b3",
       "postedAt": "2026-09-01T19:36:22.000Z",
       "updatedAt": "2026-09-01T19:36:22.000Z"
-    },
-    {
-      "id": "e7c3e50b-73cc-4bc2-8a71-bf23ec6c2669",
-      "company": "Planetscale",
-      "title": "Customer Support Engineer",
-      "locations": [
-        "EMEA",
-        "Remote - EMEA"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/planetscale/jobs/4391516009",
-      "url": "https://trueinterview.io/jobs/e7c3e50b-73cc-4bc2-8a71-bf23ec6c2669",
-      "postedAt": "2026-09-01T19:35:49.000Z",
-      "updatedAt": "2026-09-01T19:35:49.000Z"
     },
     {
       "id": "aec2e7b9-fee4-4b53-bde1-72c483b40de1",
@@ -38941,31 +38961,6 @@
       "url": "https://trueinterview.io/jobs/d93c4c70-3954-4408-ad1d-189643ed48ec",
       "postedAt": "2026-09-01T17:33:41.000Z",
       "updatedAt": "2026-09-01T17:33:41.000Z"
-    },
-    {
-      "id": "186a9489-6c12-41b7-9cb4-09da89a37d4c",
-      "company": "SpaceX",
-      "title": "Full Stack Engineer, Flight Software",
-      "locations": [
-        "Hawthorne, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8769729002?gh_jid=8769729002",
-      "url": "https://trueinterview.io/jobs/186a9489-6c12-41b7-9cb4-09da89a37d4c",
-      "postedAt": "2026-09-01T16:57:33.000Z",
-      "updatedAt": "2026-09-01T16:57:33.000Z"
     },
     {
       "id": "7accbf10-70d9-4110-85b7-1afe6ae277fc",
@@ -40000,9 +39995,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "new-grad",
       "level": "newgrad",
       "kind": "newgrad",
@@ -40090,31 +40085,6 @@
       "url": "https://trueinterview.io/jobs/01178681-cf63-43b6-87b3-080ed18e840f",
       "postedAt": "2026-08-31T21:14:23.000Z",
       "updatedAt": "2026-08-31T21:14:23.000Z"
-    },
-    {
-      "id": "37e9228d-696f-4ed1-a61d-a4ba591cb8d0",
-      "company": "IXL Learning",
-      "title": "Associate Product Manager, New Grad",
-      "locations": [
-        "San Mateo, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8765765002",
-      "url": "https://trueinterview.io/jobs/37e9228d-696f-4ed1-a61d-a4ba591cb8d0",
-      "postedAt": "2026-08-31T21:01:12.000Z",
-      "updatedAt": "2026-08-31T21:01:12.000Z"
     },
     {
       "id": "9102db68-a373-44ba-bc2a-b671991f4ff3",
@@ -42161,7 +42131,7 @@
       "countries": [],
       "remote": "onsite",
       "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
+      "family": "Data & AI",
       "role": "Quantitative Trader",
       "seniority": "new-grad",
       "level": "newgrad",
@@ -42301,6 +42271,32 @@
       "url": "https://trueinterview.io/jobs/7154bb81-dea1-48eb-bbd5-219952f4a772",
       "postedAt": "2026-08-28T22:04:12.000Z",
       "updatedAt": "2026-08-28T22:04:12.000Z"
+    },
+    {
+      "id": "1ac2b0b5-1dcd-40e8-9390-d92f044d0eed",
+      "company": "Zipline",
+      "title": "Engineering Technician, Powertrain",
+      "locations": [
+        "South San Francisco, California, USA",
+        "Aviary - SSF"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.zipline.com/open-roles?gh_jid=7978929003",
+      "url": "https://trueinterview.io/jobs/1ac2b0b5-1dcd-40e8-9390-d92f044d0eed",
+      "postedAt": "2026-08-28T22:02:00.000Z",
+      "updatedAt": "2026-08-28T22:02:00.000Z"
     },
     {
       "id": "68e8462c-1573-416e-abfc-5d9bded604dc",
@@ -42512,6 +42508,31 @@
       "url": "https://trueinterview.io/jobs/4c6bf646-2106-4eac-a797-40964c9720ae",
       "postedAt": "2026-08-28T21:18:55.000Z",
       "updatedAt": "2026-08-28T21:18:55.000Z"
+    },
+    {
+      "id": "1a2f9ea4-6414-4962-8367-25b2e306e49c",
+      "company": "Vultr",
+      "title": "Physical Security Evaluator",
+      "locations": [
+        "Remote - United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/vultr/0e58469e-b248-4ede-8f97-3e7fe21919bf/application",
+      "url": "https://trueinterview.io/jobs/1a2f9ea4-6414-4962-8367-25b2e306e49c",
+      "postedAt": "2026-08-28T20:52:52.000Z",
+      "updatedAt": "2026-08-28T20:52:52.000Z"
     },
     {
       "id": "78b53e61-377f-423e-a629-620d482e93a1",
@@ -42935,6 +42956,32 @@
       "url": "https://trueinterview.io/jobs/7a3e097d-1389-4cc2-964f-c46048204f42",
       "postedAt": "2026-08-28T19:19:30.000Z",
       "updatedAt": "2026-08-28T19:19:30.000Z"
+    },
+    {
+      "id": "1702e89a-268b-4cd1-9679-4ea6910df9fe",
+      "company": "Mirego",
+      "title": "Développeur(euse) Mobile",
+      "locations": [
+        "Québec, QC",
+        "Montréal, QC"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/mirego/11c8bea0-aea3-4d8a-b03f-a8ad0cc90752/apply",
+      "url": "https://trueinterview.io/jobs/1702e89a-268b-4cd1-9679-4ea6910df9fe",
+      "postedAt": "2026-08-28T19:19:17.000Z",
+      "updatedAt": "2026-08-28T19:19:17.000Z"
     },
     {
       "id": "f23f51f6-aced-46c0-a52b-8485b9ab1f82",
@@ -44350,31 +44397,6 @@
       "updatedAt": "2026-08-27T20:40:31.000Z"
     },
     {
-      "id": "16ff00d2-7976-4fcd-923c-2e571200c172",
-      "company": "Treeswift Inc",
-      "title": "Mechanical Design Engineer",
-      "locations": [
-        "New York Office"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/treeswift/61b6e77b-27fe-4a05-ac7d-6cf9c26c7ca5/application",
-      "url": "https://trueinterview.io/jobs/16ff00d2-7976-4fcd-923c-2e571200c172",
-      "postedAt": "2026-08-27T20:38:32.000Z",
-      "updatedAt": "2026-08-27T20:38:32.000Z"
-    },
-    {
       "id": "2a2c14cb-f2e6-42b7-8991-55534f6a6646",
       "company": "Exa",
       "title": "Security Engineer",
@@ -45505,32 +45527,6 @@
       "updatedAt": "2026-08-26T22:54:38.000Z"
     },
     {
-      "id": "33d336ee-415e-4d26-8787-57d0e7e3ca90",
-      "company": "Zipline",
-      "title": "Software Engineer, Airspace Platform",
-      "locations": [
-        "South San Francisco, California, USA",
-        "Aviary - SSF"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.zipline.com/open-roles?gh_jid=7978812003",
-      "url": "https://trueinterview.io/jobs/33d336ee-415e-4d26-8787-57d0e7e3ca90",
-      "postedAt": "2026-08-26T22:49:59.000Z",
-      "updatedAt": "2026-08-26T22:49:59.000Z"
-    },
-    {
       "id": "092c7f37-bb01-42b5-ae7b-6aa0d4ece9c1",
       "company": "Zoox",
       "title": "Wireless Firmware Validation Engineer",
@@ -45878,32 +45874,6 @@
       "url": "https://trueinterview.io/jobs/e3c87283-d513-4cc6-b15a-7a1a1d43be05",
       "postedAt": "2026-08-26T21:09:15.000Z",
       "updatedAt": "2026-08-26T21:09:15.000Z"
-    },
-    {
-      "id": "19aa73e9-ea6b-4f83-bdae-64b65adf373c",
-      "company": "Relativity Space",
-      "title": "Vehicle Fluids Hardware Development Engineer I",
-      "locations": [
-        "Long Beach, California, United States",
-        "LB - Wormhole HQ (CA)"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/relativity/jobs/8748447002?gh_jid=8748447002",
-      "url": "https://trueinterview.io/jobs/19aa73e9-ea6b-4f83-bdae-64b65adf373c",
-      "postedAt": "2026-08-26T21:05:10.000Z",
-      "updatedAt": "2026-08-26T21:05:10.000Z"
     },
     {
       "id": "f085d0b6-b6c6-4b73-b1ae-a181eff2781c",
@@ -47266,29 +47236,6 @@
       "updatedAt": "2026-08-25T22:15:53.000Z"
     },
     {
-      "id": "18dc38e5-16eb-4c8e-83bf-e27b7df7119d",
-      "company": "Sanmar",
-      "title": "Data Analyst, MH&P",
-      "locations": [
-        "Remote"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "remote",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/sanmar/jobs/5221996007?gh_jid=5221996007",
-      "url": "https://trueinterview.io/jobs/18dc38e5-16eb-4c8e-83bf-e27b7df7119d",
-      "postedAt": "2026-08-25T22:14:41.000Z",
-      "updatedAt": "2026-08-25T22:14:41.000Z"
-    },
-    {
       "id": "e9d65e58-b2b4-4747-a3d4-9165f0ebe031",
       "company": "Akicita Cyber",
       "title": "Ultrasound Echo Technologist",
@@ -48310,6 +48257,33 @@
       "url": "https://trueinterview.io/jobs/24284f2d-ef25-479e-b8bc-bef5f2ca7190",
       "postedAt": "2026-08-25T16:19:36.000Z",
       "updatedAt": "2026-08-25T16:19:36.000Z"
+    },
+    {
+      "id": "19e8a5e0-00e4-4382-b41c-67d6146c40a6",
+      "company": "Buena",
+      "title": "Immobilienverwalter / Immobilienkaufmann als Software-Trainer (m/w/d)",
+      "locations": [
+        "Berlin"
+      ],
+      "cities": [
+        "Berlin"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/buena/944621a6-2154-4c8f-9f6a-efd8f0000ac1/application",
+      "url": "https://trueinterview.io/jobs/19e8a5e0-00e4-4382-b41c-67d6146c40a6",
+      "postedAt": "2026-08-25T16:15:05.000Z",
+      "updatedAt": "2026-08-25T16:15:05.000Z"
     },
     {
       "id": "a1095263-20a0-4d8d-9b20-55f9fe00d684",
@@ -50053,35 +50027,6 @@
       "updatedAt": "2026-08-24T00:00:00.000Z"
     },
     {
-      "id": "1b02abfb-eb5c-4ff0-9749-c48fe53bb44f",
-      "company": "Palo Alto Networks",
-      "title": "Solution Engineer IAM, IGA, SME,  - Central",
-      "locations": [
-        "Chicago, United States of America",
-        "Cleveland, United States of America",
-        "Columbus, United States of America"
-      ],
-      "cities": [
-        "Chicago, IL"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Chicago-United-States-of-America/Solution-Engineer-IAM--IGA--SME-----Central_JR-021413",
-      "url": "https://trueinterview.io/jobs/1b02abfb-eb5c-4ff0-9749-c48fe53bb44f",
-      "postedAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z"
-    },
-    {
       "id": "d3d3cdfb-d15a-4b7e-9d7b-6df581194e9f",
       "company": "Monks",
       "title": "Multimedia Designer",
@@ -51665,34 +51610,6 @@
       "updatedAt": "2026-08-21T00:00:00.000Z"
     },
     {
-      "id": "16566502-b2e3-432f-9b3e-3d2fbd97a9de",
-      "company": "Infineon",
-      "title": "Graduate - Validation Engineer",
-      "locations": [
-        "San Jose, CA, US",
-        "CA,US"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.infineon.com/careers/job/563808971064687",
-      "url": "https://trueinterview.io/jobs/16566502-b2e3-432f-9b3e-3d2fbd97a9de",
-      "postedAt": "2026-08-21T00:00:00.000Z",
-      "updatedAt": "2026-08-21T00:00:00.000Z"
-    },
-    {
       "id": "f1bfe738-eba6-418b-b4f1-c6499bf76a86",
       "company": "Intel",
       "title": "Silicon Packaging Design Engineer",
@@ -51856,40 +51773,6 @@
       "url": "https://trueinterview.io/jobs/62d51ab3-2525-46eb-969c-97e2498b92fe",
       "postedAt": "2026-08-21T00:00:00.000Z",
       "updatedAt": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "id": "14918b93-537f-4610-8d3b-a34bf1bdebfa",
-      "company": "Gitlab",
-      "title": "Intermediate Software Engineer, Security Factory: Vulnerability Management",
-      "locations": [
-        "Remote, Canada",
-        "Remote, Israel",
-        "Remote, United Kingdom",
-        "Remote, United States",
-        "Canada",
-        "Israel",
-        "United Kingdom",
-        "United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada",
-        "United Kingdom",
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/gitlab/jobs/8688078002",
-      "url": "https://trueinterview.io/jobs/14918b93-537f-4610-8d3b-a34bf1bdebfa",
-      "postedAt": "2026-08-20T23:22:50.000Z",
-      "updatedAt": "2026-08-20T23:22:50.000Z"
     },
     {
       "id": "327f1a11-c563-48a9-a382-f53c75c7b490",
@@ -52233,29 +52116,6 @@
       "updatedAt": "2026-08-20T20:54:59.000Z"
     },
     {
-      "id": "1b4050d5-d200-4054-9b11-8f73e7182b74",
-      "company": "Olsson",
-      "title": "Electrical Revit Designer - Data Centers",
-      "locations": [
-        "Remote"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/olsson/jobs/5397533008",
-      "url": "https://trueinterview.io/jobs/1b4050d5-d200-4054-9b11-8f73e7182b74",
-      "postedAt": "2026-08-20T20:54:29.000Z",
-      "updatedAt": "2026-08-20T20:54:29.000Z"
-    },
-    {
       "id": "1728b0c1-10e5-46f3-a05f-e8d6bd32ea04",
       "company": "Bees",
       "title": "Intermediate Frontend Developer",
@@ -52270,7 +52130,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Frontend Engineer",
+      "role": "Backend Engineer",
       "seniority": "new-grad",
       "level": "newgrad",
       "kind": "newgrad",
@@ -52562,31 +52422,6 @@
       "updatedAt": "2026-08-20T19:53:46.000Z"
     },
     {
-      "id": "19007229-5595-4914-af5c-432aefa3291c",
-      "company": "Mem0",
-      "title": "Research Engineer - Agent Memory",
-      "locations": [
-        "San Francisco Bay Area"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/mem0/55ef65b7-b9ad-4953-9892-430642281a23/application",
-      "url": "https://trueinterview.io/jobs/19007229-5595-4914-af5c-432aefa3291c",
-      "postedAt": "2026-08-20T19:53:34.000Z",
-      "updatedAt": "2026-08-20T19:53:34.000Z"
-    },
-    {
       "id": "441148a7-2ce9-41a5-abb7-e088e105e321",
       "company": "Spacex",
       "title": "Electromagnetic Effects Test Engineer (Automotive/Satellite EMC)",
@@ -52783,7 +52618,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "new-grad",
       "level": "newgrad",
@@ -53306,9 +53141,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "new-grad",
       "level": "newgrad",
       "kind": "newgrad",
@@ -54074,6 +53909,34 @@
       "updatedAt": "2026-08-19T19:08:56.000Z"
     },
     {
+      "id": "169d4690-5036-47a5-ab77-b29f02c69c2e",
+      "company": "C6 Bank",
+      "title": "Analista de Qualidade e Automação de Software Pleno | Onboarding",
+      "locations": [
+        "São Paulo, Brazil",
+        "C6 Bank"
+      ],
+      "cities": [
+        "São Paulo"
+      ],
+      "countries": [
+        "Brazil"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/c6bank/jobs/4725834005",
+      "url": "https://trueinterview.io/jobs/169d4690-5036-47a5-ab77-b29f02c69c2e",
+      "postedAt": "2026-08-19T18:54:27.000Z",
+      "updatedAt": "2026-08-19T18:54:27.000Z"
+    },
+    {
       "id": "0ad97e50-d9a8-421e-944d-0f872dabee48",
       "company": "Krea",
       "title": "Fullstack Engineer",
@@ -54229,33 +54092,6 @@
       "url": "https://trueinterview.io/jobs/92853ba6-7020-4cb3-8754-fb92cb8fd5cc",
       "postedAt": "2026-08-19T18:01:43.000Z",
       "updatedAt": "2026-08-19T18:01:43.000Z"
-    },
-    {
-      "id": "159e2f21-aece-4b10-b7a5-df6748eacc82",
-      "company": "Claimsorted",
-      "title": "Forward Deployed Engineer",
-      "locations": [
-        "New York"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/claimsorted/d74c2989-364b-464e-b748-2270c61d72d4/application",
-      "url": "https://trueinterview.io/jobs/159e2f21-aece-4b10-b7a5-df6748eacc82",
-      "postedAt": "2026-08-19T17:52:18.000Z",
-      "updatedAt": "2026-08-19T17:52:18.000Z"
     },
     {
       "id": "4e46227d-7f70-492b-8144-1108577cfb98",
@@ -56081,31 +55917,6 @@
       "updatedAt": "2026-08-18T16:00:10.000Z"
     },
     {
-      "id": "1930ed8f-4fb1-4022-903e-49aaaf7ade93",
-      "company": "SpaceX",
-      "title": "Software Engineer, Starlink Enterprise Products (Space Lasers)",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8715839002?gh_jid=8715839002",
-      "url": "https://trueinterview.io/jobs/1930ed8f-4fb1-4022-903e-49aaaf7ade93",
-      "postedAt": "2026-08-18T15:45:29.000Z",
-      "updatedAt": "2026-08-18T15:45:29.000Z"
-    },
-    {
       "id": "b7ecb38e-30ae-4dee-a8f9-6f5f74fdc9bd",
       "company": "SpaceX",
       "title": "Propulsion Build Engineer (Starship)",
@@ -56332,37 +56143,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://explore.jobs.netflix.net/careers/job/790317897268",
       "url": "https://trueinterview.io/jobs/75b12db2-11b0-4c06-8405-37d515d2d528",
-      "postedAt": "2026-08-18T00:00:00.000Z",
-      "updatedAt": "2026-08-18T00:00:00.000Z"
-    },
-    {
-      "id": "1a7061b3-1990-4a93-86d7-4b4a9b3234e4",
-      "company": "Palo Alto Networks",
-      "title": "Solutions Engineer, DevOps - Central",
-      "locations": [
-        "Austin, United States of America",
-        "Oklahoma City, United States of America",
-        "Jefferson City, United States of America",
-        "Chicago, United States of America"
-      ],
-      "cities": [
-        "Austin, TX",
-        "Chicago, IL"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Austin-United-States-of-America/Solutions-Engineer--DevOps---Central_JR-020639",
-      "url": "https://trueinterview.io/jobs/1a7061b3-1990-4a93-86d7-4b4a9b3234e4",
       "postedAt": "2026-08-18T00:00:00.000Z",
       "updatedAt": "2026-08-18T00:00:00.000Z"
     },
@@ -59420,7 +59200,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "new-grad",
       "level": "newgrad",
@@ -59728,29 +59508,6 @@
       "updatedAt": "2026-08-13T22:00:25.000Z"
     },
     {
-      "id": "16db42fb-f807-4b2b-bdc2-98f26acd6f7d",
-      "company": "Dexmate",
-      "title": "Software Quality & Release Engineering",
-      "locations": [
-        "Fremont Office"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/dexmate/8b03f42a-37da-4934-9d32-6f9650081e9b/application",
-      "url": "https://trueinterview.io/jobs/16db42fb-f807-4b2b-bdc2-98f26acd6f7d",
-      "postedAt": "2026-08-13T21:52:27.000Z",
-      "updatedAt": "2026-08-13T21:52:27.000Z"
-    },
-    {
       "id": "8d263187-81db-4239-8877-94a606ff5fcd",
       "company": "Robinhood",
       "title": "Software Engineer, Proactive Capabilities",
@@ -60047,31 +59804,6 @@
       "url": "https://trueinterview.io/jobs/c707f228-930b-4d9c-a95e-2a550bd5fdc2",
       "postedAt": "2026-08-13T21:02:17.000Z",
       "updatedAt": "2026-08-13T21:02:17.000Z"
-    },
-    {
-      "id": "1773cdf9-406c-4c1f-8ea9-7c3e62ee085f",
-      "company": "Arc'teryx",
-      "title": "Associate Product Line Manager – PRO",
-      "locations": [
-        "North Vancouver, BC (Corporate)"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "new-grad",
-      "level": "experienced",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/arcteryx.com/cd55f7d4-971b-4d85-a0af-11dfe3fc4aa1/apply",
-      "url": "https://trueinterview.io/jobs/1773cdf9-406c-4c1f-8ea9-7c3e62ee085f",
-      "postedAt": "2026-08-13T20:39:10.000Z",
-      "updatedAt": "2026-08-13T20:39:10.000Z"
     },
     {
       "id": "585f7045-4efc-4b2b-b1c7-a4061f90997f",
@@ -60636,7 +60368,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "new-grad",
       "level": "newgrad",
@@ -60699,31 +60431,6 @@
       "url": "https://trueinterview.io/jobs/3f1ccd51-6a6a-4a92-9871-e9a9d05541d3",
       "postedAt": "2026-08-13T16:19:26.000Z",
       "updatedAt": "2026-08-13T16:19:26.000Z"
-    },
-    {
-      "id": "1b027f51-0f17-4061-a6ff-258dc024529a",
-      "company": "Spacex",
-      "title": "Production Engineer (Starship Electronics)",
-      "locations": [
-        "Hawthorne, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8703535002?gh_jid=8703535002",
-      "url": "https://trueinterview.io/jobs/1b027f51-0f17-4061-a6ff-258dc024529a",
-      "postedAt": "2026-08-13T16:05:24.000Z",
-      "updatedAt": "2026-08-13T16:05:24.000Z"
     },
     {
       "id": "e521a28c-9fc3-4a5f-bc7e-a0e7e9f56e9a",
@@ -61704,35 +61411,6 @@
       "url": "https://trueinterview.io/jobs/9d31d7a3-f783-4bc0-894b-6b2645052334",
       "postedAt": "2026-08-12T20:08:13.000Z",
       "updatedAt": "2026-08-12T20:08:13.000Z"
-    },
-    {
-      "id": "1abfdd6f-21bf-49cf-8f2c-dbbcbc10bc3c",
-      "company": "Webflow",
-      "title": "Associate Infrastructure Engineer",
-      "locations": [
-        "CA Remote (BC & ON only)",
-        "U.S. Remote",
-        "CA Remote (BC & ON only)",
-        "International Remote",
-        "U.S. Remote"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "experienced",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/webflow/jobs/8122601",
-      "url": "https://trueinterview.io/jobs/1abfdd6f-21bf-49cf-8f2c-dbbcbc10bc3c",
-      "postedAt": "2026-08-12T20:08:05.000Z",
-      "updatedAt": "2026-08-12T20:08:05.000Z"
     },
     {
       "id": "fa09473a-19d9-4345-b223-f3de6ee979d2",
@@ -62951,6 +62629,32 @@
       "updatedAt": "2026-08-11T22:31:57.000Z"
     },
     {
+      "id": "1a7d8b88-6389-439d-8e9e-8ff6e0c6b0d1",
+      "company": "Bw",
+      "title": "BW - Especialista Engenheiro Dados",
+      "locations": [
+        "São Paulo - SP",
+        "Sao Paulo - Office"
+      ],
+      "cities": [],
+      "countries": [
+        "Brazil"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/bw/jobs/5371054008",
+      "url": "https://trueinterview.io/jobs/1a7d8b88-6389-439d-8e9e-8ff6e0c6b0d1",
+      "postedAt": "2026-08-11T22:27:31.000Z",
+      "updatedAt": "2026-08-11T22:27:31.000Z"
+    },
+    {
       "id": "9e51fe60-db3b-4f6c-a62d-6436985753c1",
       "company": "Quantcast",
       "title": "Software Engineer - Full Stack",
@@ -63810,31 +63514,6 @@
       "updatedAt": "2026-08-11T19:29:26.000Z"
     },
     {
-      "id": "16bbedd9-28c2-401b-820b-3d76f93e3d93",
-      "company": "Ekho",
-      "title": "Full-stack Engineer",
-      "locations": [
-        "New York City HQ"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/ekho/c8888199-a4aa-4b61-9744-67bd2c92f4d8/application",
-      "url": "https://trueinterview.io/jobs/16bbedd9-28c2-401b-820b-3d76f93e3d93",
-      "postedAt": "2026-08-11T19:28:11.000Z",
-      "updatedAt": "2026-08-11T19:28:11.000Z"
-    },
-    {
       "id": "2fc912d0-6361-49e7-85d0-1ba0f2dfe399",
       "company": "Abbvie",
       "title": "Manufacturing Process Engineer Jr (Cost Improvement Projects)- Temporary 12 months",
@@ -63950,7 +63629,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "new-grad",
       "level": "newgrad",
@@ -64127,33 +63806,6 @@
       "url": "https://trueinterview.io/jobs/71bffff6-65f6-45d8-bbf5-54d39b84923e",
       "postedAt": "2026-08-11T17:04:10.000Z",
       "updatedAt": "2026-08-11T17:04:10.000Z"
-    },
-    {
-      "id": "1adb28ce-1ac8-47f0-81c8-1b5123e0cc48",
-      "company": "Samba TV",
-      "title": "Fullstack Software Engineer",
-      "locations": [
-        "San Francisco, California"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/sambatv/8607b6ab-5488-41f4-a82b-58636df788f6/apply",
-      "url": "https://trueinterview.io/jobs/1adb28ce-1ac8-47f0-81c8-1b5123e0cc48",
-      "postedAt": "2026-08-11T17:00:36.000Z",
-      "updatedAt": "2026-08-11T17:00:36.000Z"
     },
     {
       "id": "84ea7d72-c05b-4804-8083-81a93d310179",
@@ -65182,6 +64834,32 @@
       "updatedAt": "2026-08-07T23:22:56.000Z"
     },
     {
+      "id": "16f0e452-e066-4773-8dc4-dd6c50545a22",
+      "company": "Xai",
+      "title": "AI Tutor - Czech",
+      "locations": [
+        "Remote United States",
+        "Remote US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5207418007",
+      "url": "https://trueinterview.io/jobs/16f0e452-e066-4773-8dc4-dd6c50545a22",
+      "postedAt": "2026-08-07T23:20:06.000Z",
+      "updatedAt": "2026-08-07T23:20:06.000Z"
+    },
+    {
       "id": "ca2a337d-4477-4d2a-9579-2ffd52d56d56",
       "company": "Lm Studio",
       "title": "Software Engineer, Inference Runtime",
@@ -65361,6 +65039,33 @@
       "url": "https://trueinterview.io/jobs/99d0f588-ca81-4333-9753-32879de8d4b7",
       "postedAt": "2026-08-07T21:44:01.000Z",
       "updatedAt": "2026-08-07T21:44:01.000Z"
+    },
+    {
+      "id": "1b3a50bf-ca95-4866-85a4-ae7896e1d784",
+      "company": "Exa",
+      "title": "Research, Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/exa/f6bd612e-a4ee-4c75-a205-5cd70901661f/application",
+      "url": "https://trueinterview.io/jobs/1b3a50bf-ca95-4866-85a4-ae7896e1d784",
+      "postedAt": "2026-08-07T21:34:12.000Z",
+      "updatedAt": "2026-08-07T21:34:12.000Z"
     },
     {
       "id": "97b2172d-47ee-4933-99bf-a22e469e871e",
@@ -66638,32 +66343,6 @@
       "updatedAt": "2026-08-06T19:59:49.000Z"
     },
     {
-      "id": "1808a358-936a-4cc6-90f8-a3a81cb1659f",
-      "company": "GoFundMe",
-      "title": "Technical Support Engineer I",
-      "locations": [
-        "Remote",
-        "Remote (United States)"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/gofundme/jobs/8089835",
-      "url": "https://trueinterview.io/jobs/1808a358-936a-4cc6-90f8-a3a81cb1659f",
-      "postedAt": "2026-08-06T19:57:44.000Z",
-      "updatedAt": "2026-08-06T19:57:44.000Z"
-    },
-    {
       "id": "87363ca8-3e3d-4431-9ddc-a9fb7c53ffa2",
       "company": "Top Hat",
       "title": "Junior Analytics Engineer",
@@ -67710,32 +67389,6 @@
       "updatedAt": "2026-08-06T00:00:00.000Z"
     },
     {
-      "id": "1ab574dc-3ec2-4c76-8379-8cffa6d3495c",
-      "company": "CrowdStrike",
-      "title": "AI Research Scientist, Agentic Systems (Remote)",
-      "locations": [
-        "USA - Remote",
-        "USA - Remote, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data-Scientist--Remote-_R29082-1",
-      "url": "https://trueinterview.io/jobs/1ab574dc-3ec2-4c76-8379-8cffa6d3495c",
-      "postedAt": "2026-08-06T00:00:00.000Z",
-      "updatedAt": "2026-08-06T00:00:00.000Z"
-    },
-    {
       "id": "4bc98cc3-f21f-4f16-a81f-1b099070e145",
       "company": "CrowdStrike",
       "title": "Product Security Engineer, Application Security (Remote)",
@@ -67785,32 +67438,6 @@
       "url": "https://trueinterview.io/jobs/d1d081d9-f021-4173-b988-69d9293bbc1c",
       "postedAt": "2026-08-06T00:00:00.000Z",
       "updatedAt": "2026-08-06T00:00:00.000Z"
-    },
-    {
-      "id": "1681c7b6-e9cc-4f74-a18f-f02872bf58de",
-      "company": "Bishop Fox",
-      "title": "Solutions Engineer",
-      "locations": [
-        "U.S. Remote",
-        "REM"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "http://www.bishopfox.com/jobs?gh_jid=8110348",
-      "url": "https://trueinterview.io/jobs/1681c7b6-e9cc-4f74-a18f-f02872bf58de",
-      "postedAt": "2026-08-05T23:43:27.000Z",
-      "updatedAt": "2026-08-05T23:43:27.000Z"
     },
     {
       "id": "674c96e5-4c2f-4a24-9f86-7c3b6d2e13b0",
@@ -69333,6 +68960,32 @@
       "updatedAt": "2026-08-05T04:03:32.000Z"
     },
     {
+      "id": "151ae192-053f-4abb-b9c7-d57863d21776",
+      "company": "Welo Global",
+      "title": "Non-Linguistic QC (China / US Time Zone)",
+      "locations": [
+        "Remote, Worldwide",
+        "Beijing, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/weloglobal/1af55554-dad4-48ad-97ca-6550fab8cf4c/apply",
+      "url": "https://trueinterview.io/jobs/151ae192-053f-4abb-b9c7-d57863d21776",
+      "postedAt": "2026-08-05T00:12:39.000Z",
+      "updatedAt": "2026-08-05T00:12:39.000Z"
+    },
+    {
       "id": "ce6e391c-69d0-4147-8cdd-d05e1a274e5a",
       "company": "Garmin",
       "title": "Electrical Design Engineer 1",
@@ -69454,6 +69107,35 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.lever.co/field-ai/ca422caa-46b7-4ede-8116-e85909bdadbb/apply",
       "url": "https://trueinterview.io/jobs/3099e826-6b40-4015-a719-ef74211f5d3f",
+      "postedAt": "2026-08-04T22:51:08.000Z",
+      "updatedAt": "2026-08-04T22:51:08.000Z"
+    },
+    {
+      "id": "19d8d26c-0941-45c2-aee0-2c2fb1648f6c",
+      "company": "Shield AI",
+      "title": "Senior Engineer, Platform Infrastructure (R5516)",
+      "locations": [
+        "United States",
+        "San Diego, California",
+        "Washington, DC"
+      ],
+      "cities": [
+        "Washington, DC"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Platform Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/shieldai/b3927595-1e5a-455e-b831-721674088249/apply",
+      "url": "https://trueinterview.io/jobs/19d8d26c-0941-45c2-aee0-2c2fb1648f6c",
       "postedAt": "2026-08-04T22:51:08.000Z",
       "updatedAt": "2026-08-04T22:51:08.000Z"
     },
@@ -70241,31 +69923,6 @@
       "updatedAt": "2026-08-04T18:08:04.000Z"
     },
     {
-      "id": "175ec0cb-f706-4b19-a109-1bc3adf0826a",
-      "company": "Havocai",
-      "title": "Embedded Software Engineer",
-      "locations": [
-        "North Kingstown, RI"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/havocai/c88453f9-7b27-4fc5-8efe-ea5722df0f05/application",
-      "url": "https://trueinterview.io/jobs/175ec0cb-f706-4b19-a109-1bc3adf0826a",
-      "postedAt": "2026-08-04T18:03:51.000Z",
-      "updatedAt": "2026-08-04T18:03:51.000Z"
-    },
-    {
       "id": "309b3be4-b7f2-48ad-8678-c60b48756eb8",
       "company": "Dash0",
       "title": "Enterprise Solutions Engineer - West Coast",
@@ -70445,7 +70102,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "new-grad",
       "level": "newgrad",
@@ -71379,31 +71036,6 @@
       "updatedAt": "2026-08-03T16:40:32.000Z"
     },
     {
-      "id": "19060853-6af9-4019-afbb-c4d3a3cdd599",
-      "company": "SpaceX",
-      "title": "BAW Filter Design Engineer (Starlink/Akoustis)",
-      "locations": [
-        "Bastrop, TX"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8662103002?gh_jid=8662103002",
-      "url": "https://trueinterview.io/jobs/19060853-6af9-4019-afbb-c4d3a3cdd599",
-      "postedAt": "2026-08-03T14:21:37.000Z",
-      "updatedAt": "2026-08-03T14:21:37.000Z"
-    },
-    {
       "id": "d351de84-e872-4bbb-922d-260a6adcbe68",
       "company": "AMD",
       "title": "FPGA Product Planning Engineer",
@@ -71596,7 +71228,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "new-grad",
       "level": "newgrad",
@@ -72419,6 +72051,32 @@
       "url": "https://trueinterview.io/jobs/d1991c83-ae95-4026-9c0f-42e8bd897c75",
       "postedAt": "2026-07-27T16:00:25.000Z",
       "updatedAt": "2026-07-27T16:00:25.000Z"
+    },
+    {
+      "id": "153d0cc7-37a8-43e4-868c-1a88c2d8356c",
+      "company": "Opswat",
+      "title": "Hardware Fulfillment Technician",
+      "locations": [
+        "Veszprém, Veszprém, Hungary",
+        "Hungary"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.opswat.com/jobs/4717428005?gh_jid=4717428005",
+      "url": "https://trueinterview.io/jobs/153d0cc7-37a8-43e4-868c-1a88c2d8356c",
+      "postedAt": "2026-07-27T16:00:24.000Z",
+      "updatedAt": "2026-07-27T16:00:24.000Z"
     },
     {
       "id": "74cdd544-9096-4832-ae3d-dbc8dbd9c51d",

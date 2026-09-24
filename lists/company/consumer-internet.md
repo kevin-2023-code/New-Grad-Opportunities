@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**59 open roles.** 55 in the United States & Canada · 4 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**58 open roles.** 54 in the United States & Canada · 4 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -352,13 +352,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/26d51152-3ea3-4294-a1ee-06b23a20dd95">IT Support Engineer</a></td>
 <td>United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/coursera/jobs/6132360004">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>GoFundMe</strong></td>
-<td><a href="https://trueinterview.io/jobs/1808a358-936a-4cc6-90f8-a3a81cb1659f">Technical Support Engineer I</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gofundme/jobs/8089835">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
