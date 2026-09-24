@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**264 open roles.** 213 in the United States & Canada · 51 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**264 open roles.** 212 in the United States & Canada · 52 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Spotify</strong></td>
+<td><a href="https://trueinterview.io/jobs/56d2a7d4-3d84-4df8-9688-b271fa1a4d8f">Security Engineer, Detection and Response</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/spotify/cb29d857-395b-401d-9749-367e666ff870/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2f7a5c7a-f191-4fb7-b9ac-a06e49e75c82">RecSys 2026 — Full Time</a></td>
 <td>London<br/>New York, NY<br/>Stockholm</td>
 <td align="center"><a href="https://www.lifeatspotify.com/jobs/recsys-2026-full-time">Apply</a></td>
@@ -270,14 +277,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>iCapital</strong></td>
-<td><a href="https://trueinterview.io/jobs/371cd832-6e36-4540-95cf-04714ffd4784">Configuration Developer - Analyst</a></td>
-<td>US CO - Colorado Springs</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/icapitalnetwork/jobs/8752865002">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lightspeed Commerce, Inc</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/12d7a960-6d59-4bf8-9a03-aa2fba2c9642">ServiceNow Developer</a></td>
 <td>Ottawa, ON<br/>Toronto, ON<br/>Montreal, QC</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/6c9c4556-c6c3-40b0-acf2-6bb12d0f2a29/application">Apply</a></td>
@@ -753,13 +753,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Figma</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca9f839d-6894-4d4e-a0a3-4f9b3ed78221">Designer Advocate</a></td>
-<td>San Francisco, CA • New York, NY • United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6176134004?gh_jid=6176134004">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Onetrust</strong></td>
 <td><a href="https://trueinterview.io/jobs/d88d1565-c669-4941-ba95-724361a03889">Software Engineer</a></td>
 <td>Atlanta, GA<br/>Atlanta, Georgia</td>
@@ -785,13 +778,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7accbf10-70d9-4110-85b7-1afe6ae277fc">Systems Test Engineer, End-to-End Validation | Consumer Devices</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/393b88d7-1fbc-466a-9108-a7c1bafeb8d8/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Plaid</strong></td>
-<td><a href="https://trueinterview.io/jobs/3424c63e-4c8c-4e9b-82a8-04666e059f79">Software Engineer, Backend</a></td>
-<td>Seattle Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/plaid/664df3be-6be0-432f-8a35-ec7af986fd0d/application">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
@@ -1328,6 +1314,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/382a54b0-025a-4fab-ac0b-4ca36ce4512b">AI Tutor - Yoruba</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207581007">Apply</a></td>
+<td align="center">7 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/01fe8d19-0b38-4697-9de5-aa182837c0c4">AI Tutor - Ukrainian</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207373007">Apply</a></td>
@@ -1520,6 +1513,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Lightspeed Commerce, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/38f7ad6a-2bfc-429a-affd-fafd50b7b8e4">Technical Support Specialist (Hospitality) German speaking - all genders</a> 🌐</td>
+<td>Remote — Germany, Spain</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/ad8c9a02-754e-4501-ac34-8ec5ef8b3a6f/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/e5a7e001-f3e2-4f96-87db-e162e64777d1">Forward Deployed Engineer, Professional Services</a></td>

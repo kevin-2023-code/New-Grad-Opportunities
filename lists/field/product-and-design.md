@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**164 open roles.** 122 in the United States & Canada · 42 elsewhere in the world.
+**159 open roles.** 120 in the United States & Canada · 39 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -431,13 +431,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Figma</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca9f839d-6894-4d4e-a0a3-4f9b3ed78221">Designer Advocate</a></td>
-<td>San Francisco, CA • New York, NY • United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6176134004?gh_jid=6176134004">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Match Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/f4d09b00-181c-49e5-871c-98e193990262">UX Researcher (Temp-6 month)</a></td>
 <td>United States</td>
@@ -796,13 +789,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Solace</strong></td>
-<td><a href="https://trueinterview.io/jobs/336c3cb7-fb72-4876-84ea-508356d85a7e">Associate Marketing Designer (College Grad 2027)</a></td>
-<td>Redwood City, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/solace/a25bc2ef-8de0-4b57-a169-523b6db7bf5e/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5a069215-6ea5-46a1-9f6a-b7d2ec901653">Associate Product Designer (College Grad 2027)</a></td>
 <td>Redwood City, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/solace/8c77b80c-957a-4861-87f9-63b05f09f5be/application">Apply</a></td>
@@ -883,6 +869,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Clera</strong></td>
+<td><a href="https://trueinterview.io/jobs/5bce68a9-c190-4812-b73e-53124c4f18f3">Ex-Commercial Founder / Product Owner</a></td>
+<td>Munich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/clera/2b979ac5-3996-4d76-9e4a-4d2c0c087740/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/c46fb8b5-44e8-4528-8d71-07362b67f6ce">Product Designer, Amazon Pay India</a></td>
@@ -1017,13 +1010,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/3598b734-2906-4dd4-957d-48147e5c9219">AI Product Owner (banco de talentos)</a></td>
-<td>Mexico City</td>
-<td align="center"><a href="https://www.monks.com/careers/6175775004/job?gh_jid=6175775004">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Lovable</strong></td>
 <td><a href="https://trueinterview.io/jobs/76463977-5823-4bad-ad50-cc7484fd9e54">Content Designer (Contract)</a></td>
 <td>London<br/>Stockholm</td>
@@ -1087,13 +1073,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Neura Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/368618e4-04a9-418c-ab77-41c9941794d3">Videographer &amp; Content Creator – Brand Film &amp; Social (Human)</a></td>
-<td>Metzingen / Riederich</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/5f451f7f-9ccc-4df5-8f09-01ee162583e8/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Telus Digital</strong></td>
 <td><a href="https://trueinterview.io/jobs/8a3e3260-7271-4041-b0e9-ab6a502679c8">Learning Experience Designer</a></td>
 <td>Guatemala City, Guatemala<br/>San Salvador, El Salvador</td>
@@ -1106,13 +1085,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Beverly Hills</td>
 <td align="center"><a href="https://jobs.lever.co/silhouette/b911b3c4-1810-4a66-ae0a-5547f9e9f8cf/apply">Apply</a></td>
 <td align="center">10 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Tegna Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/33af9f11-77f0-47bb-bdf0-ddec765d4b2c">Extra-Board Photographer</a></td>
-<td>KSDK-TV Saint Louis</td>
-<td align="center"><a href="https://boards.greenhouse.io/tegnainc/jobs/5203383007?gh_jid=5203383007">Apply</a></td>
-<td align="center">9 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Wpp Production</strong></td>
@@ -1140,13 +1112,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/40ec94c4-ccf2-44a9-a71d-0254d232f578">Product Management Analyst</a></td>
 <td>Noida, Uttar Pradesh</td>
 <td align="center"><a href="https://jobs.lever.co/distro/68d23d1c-b990-419a-aa90-a63bdb45c84f/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/3491e5f9-b376-4a05-ae82-e8779544018a">Art Designer | Always On &amp; Social Content</a></td>
-<td>Bogotá, Bogotá, Colombia</td>
-<td align="center"><a href="https://www.monks.com/careers/6135622004/job?gh_jid=6135622004">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>

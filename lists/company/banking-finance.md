@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**80 open roles.** 40 in the United States & Canada · 40 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**78 open roles.** 38 in the United States & Canada · 40 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -72,13 +72,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, ON, CAN</td>
 <td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Engineer_R260023306-1">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3445789b-cd9c-4465-93d4-98c5b55abe40">ServiceNow Developer</a></td>
-<td>Toronto, ON, CAN</td>
-<td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/ServiceNow-Developer_R260024416">Apply</a></td>
-<td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Banner Bank</strong></td>
@@ -214,14 +207,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Iconiq</strong></td>
-<td><a href="https://trueinterview.io/jobs/34a200ac-ea12-47db-bac0-3c3e1b750c50">Associate, Analytics Engineer</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>New York, New York, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/iconiq/jobs/7621809">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Goldman Sachs</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7b302e54-a42d-40a3-a3e7-cd3232c7f66e">Technology Risk - Dallas - Security Engineering - Associate</a></td>
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180769">Apply</a></td>

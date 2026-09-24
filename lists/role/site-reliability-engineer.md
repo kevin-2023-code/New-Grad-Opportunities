@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**17 open roles.** 12 in the United States & Canada · 5 elsewhere in the world.
+**18 open roles.** 12 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/849168fe-768d-4794-9b23-a0f1c7bf563e">Site Reliability Engineer (SRE) - FEDRAMP  |  NIGHTS  | Remote</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer--SRE----FEDRAMP-----NIGHTS----Remote_2024247-1">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/7e3e407f-4faa-412e-ae59-b5a00714a87a">Site Reliability Engineer, GovCloud 24x7</a></td>
@@ -67,13 +74,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Mthree</strong></td>
-<td><a href="https://trueinterview.io/jobs/354035b7-e9d4-4717-95ad-20f9ff19f8c1">Ingénieure SRE / Site Reliability Engineer</a></td>
-<td>Montréal, Quebec, Canada<br/>Canada, Montréal</td>
-<td align="center"><a href="https://mthree.com/careers/job/?gh_jid=4706309006">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Lambda</strong></td>
 <td><a href="https://trueinterview.io/jobs/9ee8afbf-d9a9-4a73-8a2b-12271c4b7d55">IT Systems Engineer - Internal Platforms &amp; SRE</a></td>
 <td>San Francisco Office (Fremont St)<br/>San Jose Office (First St)<br/>San Francisco Office (Second St)</td>
@@ -113,6 +113,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Xp Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/565210c0-f200-4da2-a60b-48e41cab4a2f">Analista Pleno em Infraestrutura | SRE</a></td>
+<td>São Paulo, SP</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xpinc/jobs/8648733002">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Ci&amp;t</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4c08bcd-def1-4d2d-b1bf-b64425aa8c95">[Job 31894] AI ORCHESTRATOR (APP SRE)</a></td>

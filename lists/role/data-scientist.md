@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**45 open roles.** 29 in the United States & Canada · 16 elsewhere in the world.
+**44 open roles.** 29 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -336,13 +336,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Cupertino</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200661963-0836/data-scientist-business-strategy-product-marketing">Apply</a></td>
 <td align="center">30 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>Hm</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a5d92c4-9a46-444f-8230-cd11300d78fc">Data Scientist</a></td>
-<td>Stockholm, Stockholms län, Sweden</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/HMGroup/744000139873269-data-scientist?oga=true">Apply</a></td>
-<td align="center">26 Jul 2026</td>
 </tr>
 </tbody>
 </table>

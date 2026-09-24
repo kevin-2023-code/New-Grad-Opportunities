@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**82 open roles.** 53 in the United States & Canada · 29 elsewhere in the world.
+**81 open roles.** 52 in the United States & Canada · 29 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -291,13 +291,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Iconiq</strong></td>
-<td><a href="https://trueinterview.io/jobs/34a200ac-ea12-47db-bac0-3c3e1b750c50">Associate, Analytics Engineer</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>New York, New York, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/iconiq/jobs/7621809">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Resonate</strong></td>
 <td><a href="https://trueinterview.io/jobs/b5cee64e-7f40-45cf-96d2-29d78cacf5c6">Data Engineer</a> 🌐</td>
 <td>Remote — United States</td>
@@ -401,6 +394,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Perfectserve</strong></td>
+<td><a href="https://trueinterview.io/jobs/47d94483-981f-4b03-ac26-aacef71a5f29">Data Engineer - US Remote</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/perfectserve/jobs/6200392004">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c82c4b4-0f61-42c9-a733-d739ed6b216a">IN_Manager_Azure Data Engineer_OC-Data &amp; Analytics_Advisory_Bhubaneswar</a></td>
 <td>Bhubaneswar - Ihub</td>
@@ -447,13 +447,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/76143882-cadf-4fa3-bfc4-bab1a06c0052">Business Intelligence Engineer, Amazon Leo Europe Consumer</a></td>
 <td>GB, London</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10553402/business-intelligence-engineer-amazon-leo-europe-consumer">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/36d843e6-a620-4ccb-b263-35b70a648341">Data Centre Linux &amp; HW Engineer, India, Data Center Operations</a></td>
-<td>IN, TS, Hyderabad</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553017/data-centre-linux-hw-engineer-india-data-center-operations">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>

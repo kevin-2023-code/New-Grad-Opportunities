@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**191 open roles.**
+**193 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Spotify</strong></td>
+<td><a href="https://trueinterview.io/jobs/56d2a7d4-3d84-4df8-9688-b271fa1a4d8f">Security Engineer, Detection and Response</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/spotify/cb29d857-395b-401d-9749-367e666ff870/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Gallatin</strong></td>
+<td><a href="https://trueinterview.io/jobs/e522a51c-57e3-4925-bfa8-f011961ad4d8">Software Engineer with Clearance (TS, TS/CSI)</a></td>
+<td>New York City, NY<br/>Washington, DC<br/>Palo Alto, CA<br/>+4 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/gallatin/84b17744-34dd-4a57-9b9f-09719dde74cc/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Warp</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a7324e4-6bcc-4cff-a381-90fe12d5bf3a">Applied AI Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/warp/718d38f5-dc6c-43cd-b7e5-ce70eab048d6/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Spotify</strong></td>
 <td><a href="https://trueinterview.io/jobs/2f7a5c7a-f191-4fb7-b9ac-a06e49e75c82">RecSys 2026 — Full Time</a></td>
@@ -954,13 +975,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/dc604728-2ec3-42e4-82b3-f95c44569ef7">Forward Deployed Engineer</a></td>
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/august/ad560be1-9748-4ec0-bc6b-b430419270bc/application">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Iconiq</strong></td>
-<td><a href="https://trueinterview.io/jobs/34a200ac-ea12-47db-bac0-3c3e1b750c50">Associate, Analytics Engineer</a></td>
-<td>New York, NY<br/>New York, New York, United States<br/>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/iconiq/jobs/7621809">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>

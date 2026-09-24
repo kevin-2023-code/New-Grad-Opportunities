@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**420 open roles.** 281 in the United States & Canada · 139 elsewhere in the world.
+**421 open roles.** 283 in the United States & Canada · 138 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Block Llp</strong></td>
+<td><a href="https://trueinterview.io/jobs/acab789a-1667-48ae-ad01-ee09b92fc942">AI Developer</a></td>
+<td>Burbank, California, United States</td>
+<td align="center"><a href="https://jobs.workable.com/view/b1wu8soKbpCtXqkxWhcvmW/ai-developer-in-burbank-at-block-llp">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Warp</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a7324e4-6bcc-4cff-a381-90fe12d5bf3a">Applied AI Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/warp/718d38f5-dc6c-43cd-b7e5-ce70eab048d6/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lavendo</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e689581-cc4f-4b2e-ad7e-3dcc42e3ba63">Sales Engineer, AI Infrastructure (SF)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lavendo/ef67b9de-6cd5-4223-9150-59939b0e3c6d/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cartesia</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc9d953c-3331-4df9-9ebe-15d44caf2abc">Research Engineer, Data Infrastructure (Language Modeling)</a></td>
+<td>*HQ - San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cartesia/6ca9b352-6a7b-42a3-a7c4-8f071712db90/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Spotify</strong></td>
 <td><a href="https://trueinterview.io/jobs/2f7a5c7a-f191-4fb7-b9ac-a06e49e75c82">RecSys 2026 — Full Time</a></td>
@@ -207,13 +235,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/b2faa1ab-3502-48d5-96cb-20acb907e82d">Intermediate Data Engineer</a></td>
 <td>Toronto, ON, CAN</td>
 <td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Intermediate-Data-Engineer_R260025484">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cerebras Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/37a1a52b-e39c-4653-8a17-03e9074cd6b9">AI Datacenter Infra engineer</a> 🌐</td>
-<td>Remote — Canada, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cerebras/3a943706-87b4-4a0f-b1ac-70d1ff3d00e2">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -1386,13 +1407,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Iconiq</strong></td>
-<td><a href="https://trueinterview.io/jobs/34a200ac-ea12-47db-bac0-3c3e1b750c50">Associate, Analytics Engineer</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>New York, New York, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/iconiq/jobs/7621809">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Accenture Federal Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/b2868dce-8c12-487f-b27b-a8373ad5789c">Data Analyst</a></td>
 <td>Washington, DC</td>
@@ -1772,6 +1786,13 @@ Machine Learning for Monetization (PhD)</a></td>
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/382a54b0-025a-4fab-ac0b-4ca36ce4512b">AI Tutor - Yoruba</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207581007">Apply</a></td>
+<td align="center">7 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/01fe8d19-0b38-4697-9de5-aa182837c0c4">AI Tutor - Ukrainian</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207373007">Apply</a></td>
@@ -1897,13 +1918,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Cantina</strong></td>
-<td><a href="https://trueinterview.io/jobs/358caf79-c781-4a68-beed-f26fc8d69e06">Machine Learning Engineer - Voice Conversion</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cantina/395712e5-eff6-4b04-aaec-00fbd819547c/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Field AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/3099e826-6b40-4015-a719-ef74211f5d3f">Field Application Engineer - Corpus Christi, TX</a></td>
 <td>Corpus Christi, TX</td>
@@ -1999,6 +2013,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Perfectserve</strong></td>
+<td><a href="https://trueinterview.io/jobs/47d94483-981f-4b03-ac26-aacef71a5f29">Data Engineer - US Remote</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/perfectserve/jobs/6200392004">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Infinitas Learning</strong></td>
 <td><a href="https://trueinterview.io/jobs/28078291-96ea-46ca-b79f-ac2a52e867c4">Product Data Scientist - Learning Platforms</a></td>
@@ -2165,13 +2186,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/fd269f61-9647-4106-af4d-4936e00b7d98">Data Analyst, UAE National, Supply Chain Planning</a></td>
 <td>AE, Dubai</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10553322/data-analyst-uae-national-supply-chain-planning">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/36d843e6-a620-4ccb-b263-35b70a648341">Data Centre Linux &amp; HW Engineer, India, Data Center Operations</a></td>
-<td>IN, TS, Hyderabad</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553017/data-centre-linux-hw-engineer-india-data-center-operations">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -2665,6 +2679,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Monks</strong></td>
+<td><a href="https://trueinterview.io/jobs/3598b734-2906-4dd4-957d-48147e5c9219">AI Product Owner (banco de talentos)</a></td>
+<td>Mexico City</td>
+<td align="center"><a href="https://www.monks.com/careers/6175775004/job?gh_jid=6175775004">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Delinea</strong></td>
 <td><a href="https://trueinterview.io/jobs/3a14dd32-34ee-4ca2-a6a3-f02a33f76a0a">Data Governance Analyst</a></td>
 <td>Mexico City</td>
@@ -2809,27 +2830,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/879f0826-bd02-4d52-9ed2-231603542d65">Machine Learning Data Engineer (Contract)</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/outpost/0653bc36-22ee-4922-aab7-5fafdf589443/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Iambic Therapeutics</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf8a47ea-fd20-458f-91ab-e807f47e02f7">Research Scientist I/II, Immunology</a></td>
-<td>San Diego HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/iambic-therapeutics/41e94f6a-c5ea-4c52-b527-e2976a08347d/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Knowbe4</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac050882-21d0-4f4b-b577-9c7ae9e5fcce">Analytics Engineer(Position located in Bengaluru, India)</a></td>
-<td>Bengaluru, India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8721151002">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Spreetail</strong></td>
-<td><a href="https://trueinterview.io/jobs/7dc6799f-82fb-41c4-9b7b-e63368266a28">RPA &amp; AI Automation Engineer</a></td>
-<td>Manila<br/>Bogota</td>
-<td align="center"><a href="https://jobs.lever.co/spreetail/f9f06e90-b991-4cff-92b9-5fb28b8919e6/apply">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
 </tbody>

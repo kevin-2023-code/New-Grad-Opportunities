@@ -2,7 +2,7 @@
 
 # Platform Engineer
 
-**37 open roles.** 26 in the United States & Canada · 11 elsewhere in the world.
+**39 open roles.** 28 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bet365</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3ac207f-c845-46e0-8b37-3e79ef88d890">Cloud Platform Engineer</a></td>
+<td>Denver, Colorado, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000151692958-cloud-platform-engineer?oga=true">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Treeswift Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/f16772ce-060c-4ec7-9e4f-46bb8e287117">Data Platform Engineer</a></td>
+<td>New York Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/treeswift/12f0df75-2829-462e-a458-d6a156524f85/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>DoorDash</strong></td>
 <td><a href="https://trueinterview.io/jobs/8f3b152a-f76a-4ed7-b814-10bf30e302a7">Autonomy Platform Engineer</a></td>

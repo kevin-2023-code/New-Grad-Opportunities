@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/49c4a0d5-ce3e-4d70-b83f-3e3fe54f9864">TD Media and Collaterals Development Engineer</a></td>
+<td>US, Arizona, Phoenix, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/TD-Media-and-Collaterals-Development-Engineer_JR0287421">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/55714a4d-270e-4df5-82e8-6279fd89e84b">Quantum Qubit Design Engineer</a></td>
 <td>US, Arizona, Phoenix<br/>US, Oregon, Hillsboro, United States of America<br/>US, Pennsylvania, Allentown<br/>+5 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Quantum-Qubit-Design-Engineer_JR0287330">Apply</a></td>
@@ -289,13 +296,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Phoenix, AZ</td>
 <td align="center"><a href="https://jobs.lever.co/akicita-cyber/a455fbea-b3ee-43a9-918c-430b73c543a5/apply">Apply</a></td>
 <td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Nox Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/34225a23-390c-4adb-bc68-daebb599f01d">FIELD ENGINEER</a></td>
-<td>Phoenix, Arizona, United States</td>
-<td align="center"><a href="https://noxgroup.us/careers/?gh_jid=5392844008">Apply</a></td>
-<td align="center">18 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Meta</strong></td>

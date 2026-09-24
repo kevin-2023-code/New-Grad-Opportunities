@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**633 open roles.** 582 in the United States & Canada · 51 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**627 open roles.** 579 in the United States & Canada · 48 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,27 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/06e3befe-f132-44a8-a82a-79522d5c4430">Data Scientist - Pricing &amp; Profitability</a></td>
-<td>US, CA, San Jose<br/>San Jose, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91414?lang=en-us">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8902a52d-120d-4466-8ac6-8a7b90a66c66">Interconnect Performance Engineer</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91464?lang=en-us">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/d206a32c-5158-4c53-9d79-043038661b07">Performance Test Engineer, CX(Hybrid)</a></td>
-<td>San Jose, California, US, United States of America<br/>San Francisco, California, US<br/>Palo Alto, California, US<br/>+2 more</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Performance-Test-Engineer_2023246">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Coherent Corp.</strong></td>
 <td><a href="https://trueinterview.io/jobs/ee2e28d8-c222-4335-ae6c-1c34dfaf97e3">Cybersecurity Engineer (Bay Area Preferred)</a></td>
@@ -401,13 +380,6 @@
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Broadcom</strong></td>
-<td><a href="https://trueinterview.io/jobs/356eb619-a05f-4258-84ab-5ebad1587d4f">DCIM Semiconductor Equipment Maintenance Technician (Diffusion, CVD, Implant, Milling)(Night Shift)</a></td>
-<td>USA-Colorado-Fort Collins-4380 Ziegler Road, United States of America</td>
-<td align="center"><a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/DCIM-Semiconductor-Equipment-Maintenance-Technician--Diffusion--CVD--Implant--Milling--Night-Shift-_R026912-1">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/e34ad22a-6ec8-46ed-87a6-b40f68cbce6f">Resident Engineer, TS/SCI with Poly, Columbia/Fort Meade, MD, Onsite</a></td>
 <td>All, Maryland, United States of America</td>
@@ -612,6 +584,13 @@
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/339b2c8e-4b00-4380-a17e-c6fc242b577a">Associate Mixed Signal Design Engineer</a></td>
+<td>US, MA, Wilmington, United States of America<br/>US, NC, Durham</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Mixed-Signal-Design-Engineer_R265312">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/222d4e94-e52a-4011-adfe-1ca6d669ebc0">Associate Product Engineer (Product Development)</a></td>
 <td>US, MA, Wilmington, United States of America<br/>US, NC, Durham</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304">Apply</a></td>
@@ -703,6 +682,13 @@
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/34811d0a-bec5-4759-ad6a-61bd7f8c0a1e">Associate Manufacturing Engineer</a></td>
+<td>US, MA, Wilmington, United States of America<br/>US, OR, Beaverton<br/>US, MA, Chelmsford, Alpha</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Manufacturing-Engineer_R265295">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d145b417-ea6b-4577-afea-c904755cccd3">Forward Deployed Engineer</a></td>
 <td>US, CA, San Jose, Rio Robles, United States of America<br/>US, MA, Boston</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Forward-Deployed-Engineer_R264808">Apply</a></td>
@@ -762,13 +748,6 @@
 <td><a href="https://trueinterview.io/jobs/addee22f-4017-422d-b97c-d4700689115c">NVIDIA 2027 Internships: Deep Learning</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397026418">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/369af181-673a-49e1-88c5-8d314baac38a">NVIDIA 2027 Internships: Hardware Engineering</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397027188">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
@@ -1359,13 +1338,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/36d843e6-a620-4ccb-b263-35b70a648341">Data Centre Linux &amp; HW Engineer, India, Data Center Operations</a></td>
-<td>IN, TS, Hyderabad</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553017/data-centre-linux-hw-engineer-india-data-center-operations">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/559b67ad-ab95-4c43-963b-1b0dbc1d3cce">DCEO Engineer, Data Center Engineering Operations</a></td>
 <td>SG, Singapore</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10553152/dceo-engineer-data-center-engineering-operations">Apply</a></td>
@@ -1643,20 +1615,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Cupertino</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200674882-0836/module-reliability-engineer-imaging-and-sensing">Apply</a></td>
 <td align="center">30 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>Hm</strong></td>
-<td><a href="https://trueinterview.io/jobs/b82be8fb-f024-4ad3-850c-ff2e66a770b5">Data Analyst</a></td>
-<td>Stockholm, Stockholms län, Sweden</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/HMGroup/744000139873329-data-analyst?oga=true">Apply</a></td>
-<td align="center">26 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6a5d92c4-9a46-444f-8230-cd11300d78fc">Data Scientist</a></td>
-<td>Stockholm, Stockholms län, Sweden</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/HMGroup/744000139873269-data-scientist?oga=true">Apply</a></td>
-<td align="center">26 Jul 2026</td>
 </tr>
 </tbody>
 </table>

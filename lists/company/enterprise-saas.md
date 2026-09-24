@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**134 open roles.** 97 in the United States & Canada · 37 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**132 open roles.** 96 in the United States & Canada · 36 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -373,13 +373,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/first-resonance/b3593940-2496-47cd-aa29-c809370005f9/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Figma</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca9f839d-6894-4d4e-a0a3-4f9b3ed78221">Designer Advocate</a></td>
-<td>San Francisco, CA • New York, NY • United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6176134004?gh_jid=6176134004">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Onetrust</strong></td>
@@ -868,13 +861,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>India - Bangalore</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/UI-LMTS---AI-Engineering_JR358412">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Docebo</strong></td>
-<td><a href="https://trueinterview.io/jobs/35fbdad8-c772-4eed-8c0c-40b6b0771a22">Technical Support Analyst, Tier 1 (French Speaking)</a></td>
-<td>London, UK</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/docebo/2d9c9b48-245a-4a4b-a24f-89c84d9a9238/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Lightcast</strong></td>

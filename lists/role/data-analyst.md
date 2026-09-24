@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**40 open roles.** 18 in the United States & Canada · 22 elsewhere in the world.
+**39 open roles.** 18 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -301,13 +301,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Colombia<br/>Venezuela<br/>Panamá<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydropx/03857582-7532-401f-bad9-61d187b87f36/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hm</strong></td>
-<td><a href="https://trueinterview.io/jobs/b82be8fb-f024-4ad3-850c-ff2e66a770b5">Data Analyst</a></td>
-<td>Stockholm, Stockholms län, Sweden</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/HMGroup/744000139873329-data-analyst?oga=true">Apply</a></td>
-<td align="center">26 Jul 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**79 open roles.** 46 in the United States & Canada · 33 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**76 open roles.** 46 in the United States & Canada · 30 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -352,6 +352,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Lightspeed Commerce, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/38f7ad6a-2bfc-429a-affd-fafd50b7b8e4">Technical Support Specialist (Hospitality) German speaking - all genders</a> 🌐</td>
+<td>Remote — Germany, Spain</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/ad8c9a02-754e-4501-ac34-8ec5ef8b3a6f/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/de266138-0905-4590-a1a5-05a49f14a8f0">Controls Engineer, Thailand Data Center Controls Deployment &amp; Service (CDS)</a></td>
 <td>TH, 10, Bangkok</td>
@@ -387,13 +394,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Skydropx Frenet</strong></td>
-<td><a href="https://trueinterview.io/jobs/36c9a9ea-fc66-4e2d-8f2a-5244eb696804">Software Engineer (.NET)</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydropx/8c01a3d3-90b7-46f2-a846-a860d9cf3a66/application">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Shopify</strong></td>
 <td><a href="https://trueinterview.io/jobs/a7ae4f21-4449-41b0-84c0-2191140bcdef">Developer Support Specialist, PST &amp; EST</a> 🌐</td>
 <td>Remote</td>
@@ -419,13 +419,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/fd269f61-9647-4106-af4d-4936e00b7d98">Data Analyst, UAE National, Supply Chain Planning</a></td>
 <td>AE, Dubai</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10553322/data-analyst-uae-national-supply-chain-planning">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/36d843e6-a620-4ccb-b263-35b70a648341">Data Centre Linux &amp; HW Engineer, India, Data Center Operations</a></td>
-<td>IN, TS, Hyderabad</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553017/data-centre-linux-hw-engineer-india-data-center-operations">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -567,20 +560,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>PL, Warsaw</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10491333/software-development-engineer-amazon">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hm</strong></td>
-<td><a href="https://trueinterview.io/jobs/b82be8fb-f024-4ad3-850c-ff2e66a770b5">Data Analyst</a></td>
-<td>Stockholm, Stockholms län, Sweden</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/HMGroup/744000139873329-data-analyst?oga=true">Apply</a></td>
-<td align="center">26 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6a5d92c4-9a46-444f-8230-cd11300d78fc">Data Scientist</a></td>
-<td>Stockholm, Stockholms län, Sweden</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/HMGroup/744000139873269-data-scientist?oga=true">Apply</a></td>
-<td align="center">26 Jul 2026</td>
 </tr>
 </tbody>
 </table>

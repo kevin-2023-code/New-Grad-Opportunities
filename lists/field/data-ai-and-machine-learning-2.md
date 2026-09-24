@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**420 open roles.** 281 in the United States & Canada · 139 elsewhere in the world.
+**421 open roles.** 283 in the United States & Canada · 138 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Iambic Therapeutics</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf8a47ea-fd20-458f-91ab-e807f47e02f7">Research Scientist I/II, Immunology</a></td>
+<td>San Diego HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/iambic-therapeutics/41e94f6a-c5ea-4c52-b527-e2976a08347d/application">Apply</a></td>
+<td align="center">17 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Knowbe4</strong></td>
+<td><a href="https://trueinterview.io/jobs/ac050882-21d0-4f4b-b577-9c7ae9e5fcce">Analytics Engineer(Position located in Bengaluru, India)</a></td>
+<td>Bengaluru, India</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8721151002">Apply</a></td>
+<td align="center">17 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Spreetail</strong></td>
+<td><a href="https://trueinterview.io/jobs/7dc6799f-82fb-41c4-9b7b-e63368266a28">RPA &amp; AI Automation Engineer</a></td>
+<td>Manila<br/>Bogota</td>
+<td align="center"><a href="https://jobs.lever.co/spreetail/f9f06e90-b991-4cff-92b9-5fb28b8919e6/apply">Apply</a></td>
+<td align="center">17 Aug 2026</td>
+</tr>
 <tr>
 <td><strong>Clickhouse</strong></td>
 <td><a href="https://trueinterview.io/jobs/970dad0b-053c-4462-9932-576ff14a4e62">AI Operations Engineer</a></td>
@@ -142,20 +163,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Cupertino</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200661963-0836/data-scientist-business-strategy-product-marketing">Apply</a></td>
 <td align="center">30 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>Hm</strong></td>
-<td><a href="https://trueinterview.io/jobs/b82be8fb-f024-4ad3-850c-ff2e66a770b5">Data Analyst</a></td>
-<td>Stockholm, Stockholms län, Sweden</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/HMGroup/744000139873329-data-analyst?oga=true">Apply</a></td>
-<td align="center">26 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6a5d92c4-9a46-444f-8230-cd11300d78fc">Data Scientist</a></td>
-<td>Stockholm, Stockholms län, Sweden</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/HMGroup/744000139873269-data-scientist?oga=true">Apply</a></td>
-<td align="center">26 Jul 2026</td>
 </tr>
 </tbody>
 </table>

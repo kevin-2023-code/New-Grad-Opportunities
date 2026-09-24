@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**20 open roles.** 11 in the United States & Canada · 9 elsewhere in the world.
+**21 open roles.** 12 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,6 +86,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Huntsville, AL</td>
 <td align="center"><a href="https://jobs.lever.co/redhorsecorp/6a68d0e1-1358-4342-97fb-d852004d7903/apply">Apply</a></td>
 <td align="center">12 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Mthree</strong></td>
+<td><a href="https://trueinterview.io/jobs/186c109c-35c8-401b-bae7-4770c6860cbb">Ingénieur DevOps / DevOps Engineer</a></td>
+<td>Montréal, Quebec, Canada<br/>Canada, Montréal</td>
+<td align="center"><a href="https://mthree.com/careers/job/?gh_jid=4704268006">Apply</a></td>
+<td align="center">11 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Vultr</strong></td>

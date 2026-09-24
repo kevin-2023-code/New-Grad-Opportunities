@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**42 open roles.** 37 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**41 open roles.** 36 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -121,13 +121,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>1235 Activity Drive, Vista, CA</td>
 <td align="center"><a href="https://jobs.lever.co/invinity/bdc2b349-f5a7-408a-809a-1b92263b3012/apply">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>T1 Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/336d36de-10f2-4fa8-8fb7-09cb07fb110b">Project Controls Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/t1energy/d4be4c6d-36cb-49f9-a7ab-4d3baf9d44e3/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Form Energy</strong></td>

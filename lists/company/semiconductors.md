@@ -46,6 +46,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/49c4a0d5-ce3e-4d70-b83f-3e3fe54f9864">TD Media and Collaterals Development Engineer</a></td>
+<td>US, Arizona, Phoenix, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/TD-Media-and-Collaterals-Development-Engineer_JR0287421">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/381cfbf5-0a0e-431f-a869-974b732042ae">Software Applications Engineer</a> 🌐</td>
 <td>Remote — United States</td>
@@ -61,9 +68,37 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1b6ba66e-a822-4eba-9da9-85dff517f4b9">New College Grad - HBM PYE Product Development Failure Analysis Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44327583">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/18598431-4ba3-4e9c-9128-b2ca1b6464a8">New College Grad - PCVD Process Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44621650">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e975b6c2-5030-45f1-bb31-83f972f1d8e4">Process Engineer, APTD</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44446066">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/85fb903c-1261-45e8-b935-228b393894d7">Semiconductor Process Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44642833">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/71974199-47ca-4690-81da-ddf9bbe5f8f1">ENTRY LEVEL - SYSTEMS &amp; APPLICATIONS ENGINEER</a></td>
+<td>Austin (Oakhill, Office), United States of America</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/ENTRY-LEVEL---SYSTEMS---APPLICATIONS-ENGINEER_R-10066569">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -103,13 +138,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/36cce54e-c82a-4575-a298-9b98d6d35975">Pre-si Power and Performance System Validation Engineer</a></td>
-<td>US, Texas, Austin, United States of America<br/>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>+1 more</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Pre-si-Power-and-Performance-System-Validation-Engineer_JR0287296">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ecf845cb-6c5e-46ff-bd60-e6934fa1481c">Quantum IC Package Substrate Design Engineer</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Quantum-IC-Package-Substrate-Design-Engineer_JR0287332">Apply</a></td>
@@ -270,13 +298,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Cerebras Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/37a1a52b-e39c-4653-8a17-03e9074cd6b9">AI Datacenter Infra engineer</a> 🌐</td>
-<td>Remote — Canada, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cerebras/3a943706-87b4-4a0f-b1ac-70d1ff3d00e2">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/43f45040-1156-4a18-8559-3c4ca8f71878">Manufacturing Quality and Reliability Engineer</a></td>
 <td>US, New Mexico, Albuquerque, United States of America</td>
@@ -292,13 +313,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/3451cc36-6c12-459e-bd86-375405e95660">DMTS Process Development Engineer, Advanced Packaging</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44590097">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bff46009-e9cf-4d26-a3d7-83549442f35d">DRAM Device &amp; Cell Technology Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/42229194">Apply</a></td>
@@ -673,13 +687,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b1051f46-9608-4a03-ab8e-ecf83ff1158b">Service System Engineer (Mechanical/Optical)</a></td>
 <td>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Service-System-Engineer_2636762">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ebde120f-8f73-4a71-b491-59dcc219378f">Software Engineer (C++, OOD/OOP, Linux)</a></td>
-<td>Austin, TX, United States of America<br/>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer--C----OOD-OOP--Linux-_2634818">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -1177,13 +1184,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ca151cff-db73-4aa6-a170-2a5cb3e20155">Fab Support Continuous Improvement Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44415892">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/7283f716-440f-413c-ab61-cea93be4d07b">Entry Level Semiconductor Test Engineer</a></td>
-<td>Chandler (Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/Entry-Level-Semiconductor-Test-Engineer_R-10064969-1">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
@@ -1880,13 +1880,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Broadcom</strong></td>
-<td><a href="https://trueinterview.io/jobs/356eb619-a05f-4258-84ab-5ebad1587d4f">DCIM Semiconductor Equipment Maintenance Technician (Diffusion, CVD, Implant, Milling)(Night Shift)</a></td>
-<td>USA-Colorado-Fort Collins-4380 Ziegler Road, United States of America</td>
-<td align="center"><a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/DCIM-Semiconductor-Equipment-Maintenance-Technician--Diffusion--CVD--Implant--Milling--Night-Shift-_R026912-1">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/4f64d63e-f057-4f07-9e58-6d54bc1e08a5">ATD Laser Development Engineer</a></td>
 <td>US, Arizona, Phoenix, United States of America</td>
@@ -1986,6 +1979,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/339b2c8e-4b00-4380-a17e-c6fc242b577a">Associate Mixed Signal Design Engineer</a></td>
+<td>US, MA, Wilmington, United States of America<br/>US, NC, Durham</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Mixed-Signal-Design-Engineer_R265312">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/222d4e94-e52a-4011-adfe-1ca6d669ebc0">Associate Product Engineer (Product Development)</a></td>
 <td>US, MA, Wilmington, United States of America<br/>US, NC, Durham</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304">Apply</a></td>
@@ -2056,6 +2056,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/34811d0a-bec5-4759-ad6a-61bd7f8c0a1e">Associate Manufacturing Engineer</a></td>
+<td>US, MA, Wilmington, United States of America<br/>US, OR, Beaverton<br/>US, MA, Chelmsford, Alpha</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Manufacturing-Engineer_R265295">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d145b417-ea6b-4577-afea-c904755cccd3">Forward Deployed Engineer</a></td>
 <td>US, CA, San Jose, Rio Robles, United States of America<br/>US, MA, Boston</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Forward-Deployed-Engineer_R264808">Apply</a></td>
@@ -2087,13 +2094,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/addee22f-4017-422d-b97c-d4700689115c">NVIDIA 2027 Internships: Deep Learning</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397026418">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/369af181-673a-49e1-88c5-8d314baac38a">NVIDIA 2027 Internships: Hardware Engineering</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397027188">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>

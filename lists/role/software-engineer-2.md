@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**427 open roles.** 311 in the United States & Canada · 116 elsewhere in the world.
+**421 open roles.** 306 in the United States & Canada · 115 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,49 +18,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Cursor</strong></td>
-<td><a href="https://trueinterview.io/jobs/697215d7-57ab-44b9-8d92-9820060141a2">Software Engineer, User Operations</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cursor/1d6dbbb2-a5af-41a6-a70a-ca97690d9313/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Pluribus Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/fdae3c98-7465-4ab4-8786-dfed6d08c832">Evergreen: Associate Software Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://pluribusdigital.com/join/openings?gh_jid=7931434003">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Bees</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0699e53-666f-488e-ac60-0f733c215cdf">Intermediate Kotlin Developer</a></td>
-<td>Campinas, São Paulo, Brazil<br/>Campinas, Brazil</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8734536002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Prefect</strong></td>
-<td><a href="https://trueinterview.io/jobs/a302b166-1006-4e65-82a1-9acbfd5805e2">Developer Relations Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/prefect/2ea26851-744d-4693-bd79-43d25d0d7d96/application">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Jcdecaux Australia</strong></td>
-<td><a href="https://trueinterview.io/jobs/89d5a9f0-86af-49a0-9933-43912c96ed47">Application Developer</a></td>
-<td>Sydney</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/jcdecaux/jobs/8724233002">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>ElevenLabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ac19d98-1464-4835-8f38-de7c72841489">Forward Deployed Software Engineer - UAE</a></td>
-<td>UAE</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/fa4fc307-a0fb-47aa-9336-f202f2265440/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/70f199d8-e80b-4b05-bc22-e7a58fb55a1a">Forward Deployed Engineer - Software Engineer - Switzerland</a></td>
 <td>Switzerland</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/8e3de98e-0c2e-4999-90ae-3036ee47df05/application">Apply</a></td>

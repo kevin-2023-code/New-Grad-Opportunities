@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**427 open roles.** 311 in the United States & Canada · 116 elsewhere in the world.
+**421 open roles.** 306 in the United States & Canada · 115 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Gallatin</strong></td>
+<td><a href="https://trueinterview.io/jobs/e522a51c-57e3-4925-bfa8-f011961ad4d8">Software Engineer with Clearance (TS, TS/CSI)</a></td>
+<td>Washington, DC<br/>Palo Alto, CA<br/>San Francisco, CA<br/>+4 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/gallatin/84b17744-34dd-4a57-9b9f-09719dde74cc/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/b621bf32-6776-400a-8f67-03b147716ef5">Software Engineer- Infrastructure</a></td>
+<td>Broomfield, Colorado, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5124336007?gh_jid=5124336007">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Physical Intelligence</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb02c8d1-1cda-4b1e-ad0d-bde756fbd25f">Software Engineer, Robot Interfaces</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/physicalintelligence/86237337-963a-4e0e-bcf7-82d366e5f0fc/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/ff5684e2-0e71-4a49-a456-390ded618aff">Software Development Engineer I, Annapurna Labs, Early Career - 2027</a></td>
@@ -122,13 +143,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8ef210dc-65ca-4d68-a820-e91fd05ce1e6">Software Engineer, CX(Hybrid)</a></td>
 <td>Austin, TX<br/>Richardson, Texas, US, United States of America<br/>Austin, Texas, US</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Richardson-Texas-US/Software-Engineer--CX-Hybrid-_2025342">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/97a9bfff-aba4-4e58-afde-9e086b4b5867">Software Engineer, Duo Desktop</a></td>
-<td>Ann Arbor, Michigan, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ann-Arbor-Michigan-US/Software-Engineer--Duo-Desktop_2023332-1">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -559,13 +573,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ebde120f-8f73-4a71-b491-59dcc219378f">Software Engineer (C++, OOD/OOP, Linux)</a></td>
-<td>Austin, TX, United States of America<br/>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer--C----OOD-OOP--Linux-_2634818">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/82ab4155-768c-4aa6-8d74-cffab0314ad9">System Software Engineer</a></td>
 <td>US, Arizona, Phoenix, United States of America<br/>US, Oregon, Hillsboro, United States of America</td>
@@ -591,13 +598,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/13b7866c-c003-4010-b7b1-5002d52ccbff">CPU Hardware Verification Software Engineer</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://careers.arm.com/job/austin/cpu-hardware-verification-software-engineer/33099/100674696784">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>iCapital</strong></td>
-<td><a href="https://trueinterview.io/jobs/371cd832-6e36-4540-95cf-04714ffd4784">Configuration Developer - Analyst</a></td>
-<td>US CO - Colorado Springs</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/icapitalnetwork/jobs/8752865002">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -696,13 +696,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/13c93d5c-d0c0-4c6d-aab7-85ba54545c9d">Software Engineer, 2027 Graduate U.S.</a></td>
 <td>Seattle - United States - Seattle, Washington United States</td>
 <td align="center"><a href="https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job?mode=apply">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>BMO</strong></td>
-<td><a href="https://trueinterview.io/jobs/3445789b-cd9c-4465-93d4-98c5b55abe40">ServiceNow Developer</a></td>
-<td>Toronto, ON, CAN</td>
-<td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/ServiceNow-Developer_R260024416">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
@@ -951,20 +944,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Red Hat</strong></td>
-<td><a href="https://trueinterview.io/jobs/88e01641-c444-478a-ad48-bad12adc881d">Software Engineer</a></td>
-<td>Raleigh, United States of America</td>
-<td align="center"><a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer_R-059618">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rvo Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/36c2beff-4d5e-4df4-906b-f331b632880d">Software Engineer, Healthgrades</a></td>
-<td>Denver, Colorado, United States<br/>Charlotte, NC<br/>Minneapolis, MN<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rvohealth/jobs/4730928005">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Coinbase</strong></td>
 <td><a href="https://trueinterview.io/jobs/eed4de1f-26c9-48e9-8c8b-78f2652034b8">Software Engineer, Developer Infrastructure</a> 🌐</td>
 <td>Remote — United States</td>
@@ -1018,13 +997,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/40e2cf28-56c2-40fd-b8c6-fe23424dc12a">Control Systems Software Engineer, Robotics</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/60573bf4-13ad-4933-aba7-729f428e9f69/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Konrad</strong></td>
-<td><a href="https://trueinterview.io/jobs/33c3862c-28e6-4041-88e3-6d19fcc7552a">Java Developer</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://www.konrad.com/careers/job/7989359003?gh_jid=7989359003">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
@@ -1116,6 +1088,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c1ae2fe3-8e14-473d-abc8-f72fefef6620">software developer</a></td>
 <td>Toronto, ON</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50225252">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/352b8eed-6a29-44e7-bc54-ada9eaee4a38">CAD/EDA Tools Automation Engineer</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0286595">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
@@ -1305,13 +1284,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/67822c57-9e54-4c66-adfe-75ca97d52981">Software Developer – Identity &amp; Access Management (IAM)</a></td>
 <td>Tysons Corner, VA - HYBRID</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/devtechnology/jobs/8768969002">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Plaid</strong></td>
-<td><a href="https://trueinterview.io/jobs/3424c63e-4c8c-4e9b-82a8-04666e059f79">Software Engineer, Backend</a></td>
-<td>Seattle Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/plaid/664df3be-6be0-432f-8a35-ec7af986fd0d/application">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
@@ -1819,13 +1791,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/36cee518-be35-4a88-bd79-29fb640ba037">Software Engineer, Factory Systems</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5135811007?gh_jid=5135811007">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Anthropic</strong></td>
 <td><a href="https://trueinterview.io/jobs/e3e9156c-8db1-4c6f-81d5-a03e3ac87c09">Software Engineer, Infrastructure, Interpretability</a></td>
 <td>San Francisco, CA<br/>New York City, NY</td>
@@ -2249,13 +2214,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Edmonton (AB)</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50357104">Apply</a></td>
 <td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Skydropx Frenet</strong></td>
-<td><a href="https://trueinterview.io/jobs/36c9a9ea-fc66-4e2d-8f2a-5244eb696804">Software Engineer (.NET)</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydropx/8c01a3d3-90b7-46f2-a846-a860d9cf3a66/application">Apply</a></td>
-<td align="center">23 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Astra North Infoteck Inc.</strong></td>
@@ -2830,6 +2788,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bangalore, India<br/>India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8721229002">Apply</a></td>
 <td align="center">24 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Cursor</strong></td>
+<td><a href="https://trueinterview.io/jobs/697215d7-57ab-44b9-8d92-9820060141a2">Software Engineer, User Operations</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cursor/1d6dbbb2-a5af-41a6-a70a-ca97690d9313/application">Apply</a></td>
+<td align="center">24 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Pluribus Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdae3c98-7465-4ab4-8786-dfed6d08c832">Evergreen: Associate Software Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://pluribusdigital.com/join/openings?gh_jid=7931434003">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Bees</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0699e53-666f-488e-ac60-0f733c215cdf">Intermediate Kotlin Developer</a></td>
+<td>Campinas, São Paulo, Brazil<br/>Campinas, Brazil</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8734536002">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Prefect</strong></td>
+<td><a href="https://trueinterview.io/jobs/a302b166-1006-4e65-82a1-9acbfd5805e2">Developer Relations Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/prefect/2ea26851-744d-4693-bd79-43d25d0d7d96/application">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Jcdecaux Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/89d5a9f0-86af-49a0-9933-43912c96ed47">Application Developer</a></td>
+<td>Sydney</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jcdecaux/jobs/8724233002">Apply</a></td>
+<td align="center">18 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>ElevenLabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ac19d98-1464-4835-8f38-de7c72841489">Forward Deployed Software Engineer - UAE</a></td>
+<td>UAE</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/fa4fc307-a0fb-47aa-9336-f202f2265440/application">Apply</a></td>
+<td align="center">17 Aug 2026</td>
 </tr>
 </tbody>
 </table>

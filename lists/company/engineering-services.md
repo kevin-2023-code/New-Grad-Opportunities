@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**69 open roles.** 59 in the United States & Canada · 10 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**71 open roles.** 61 in the United States & Canada · 10 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/d178c5fe-6d70-4347-9425-841c1129eaa0">Early Career Process Water/Plumbing Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96187">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Apex Companies</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e61f3ae-7a93-4524-8ab7-2bd2eeb1083f">Civil Engineer in Training (EIT)</a></td>
@@ -243,6 +250,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/3367bdd9-fb7f-4f92-b76a-b1ba454f1adb">Building Sciences Consultant</a></td>
+<td>Vancouver, BC, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94183">Apply</a></td>
+<td align="center">27 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4d42b2e3-fdf2-4bcc-a17e-630b57d917ab">Early Professional, Civil Engineering (Transmission Line Design)</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94208">Apply</a></td>

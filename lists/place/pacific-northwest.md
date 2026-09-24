@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**83 open roles.**
+**85 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -26,6 +26,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1b6ba66e-a822-4eba-9da9-85dff517f4b9">New College Grad - HBM PYE Product Development Failure Analysis Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44327583">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/18598431-4ba3-4e9c-9128-b2ca1b6464a8">New College Grad - PCVD Process Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44621650">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e975b6c2-5030-45f1-bb31-83f972f1d8e4">Process Engineer, APTD</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44446066">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/85fb903c-1261-45e8-b935-228b393894d7">Semiconductor Process Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44642833">Apply</a></td>
@@ -33,13 +54,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/36cce54e-c82a-4575-a298-9b98d6d35975">Pre-si Power and Performance System Validation Engineer</a></td>
-<td>US, Oregon, Hillsboro<br/>US, Texas, Austin, United States of America<br/>US, California, Folsom<br/>+1 more</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Pre-si-Power-and-Performance-System-Validation-Engineer_JR0287296">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ecf845cb-6c5e-46ff-bd60-e6934fa1481c">Quantum IC Package Substrate Design Engineer</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Quantum-IC-Package-Substrate-Design-Engineer_JR0287332">Apply</a></td>
@@ -82,13 +96,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/3451cc36-6c12-459e-bd86-375405e95660">DMTS Process Development Engineer, Advanced Packaging</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44590097">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bff46009-e9cf-4d26-a3d7-83549442f35d">DRAM Device &amp; Cell Technology Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/42229194">Apply</a></td>
@@ -550,7 +557,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/34811d0a-bec5-4759-ad6a-61bd7f8c0a1e">Associate Manufacturing Engineer</a></td>
+<td>US, OR, Beaverton<br/>US, MA, Wilmington, United States of America<br/>US, MA, Chelmsford, Alpha</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Manufacturing-Engineer_R265295">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/9e8f5daa-98af-4eb0-a9e4-14f3384c5090">Customer Engagement Applications Engineer (Capres) – USA</a></td>
 <td>Hillsboro, OR, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Customer-Engagement-Applications-Engineer--Capres----USA_2639822">Apply</a></td>

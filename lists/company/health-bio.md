@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**69 open roles.** 52 in the United States & Canada · 17 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**67 open roles.** 50 in the United States & Canada · 17 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -93,13 +93,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/benchling/8def72e4-3cdc-4005-b091-8f740369ff4c/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rvo Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/36c2beff-4d5e-4df4-906b-f331b632880d">Software Engineer, Healthgrades</a></td>
-<td>Denver, Colorado, United States<br/>Charlotte, NC<br/>Minneapolis, MN<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rvohealth/jobs/4730928005">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Lyra Health</strong></td>
@@ -372,13 +365,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fac296e5-23d1-4f7d-ae3b-9d6bfb4b224c">Site Engineer</a></td>
 <td>North Chicago, IL, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014438146-site-engineer?oga=true">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>San Francisco Campus For Jewish Living</strong></td>
-<td><a href="https://trueinterview.io/jobs/3677877b-4433-49dd-bfd0-5782506f8dab">Plant Security Officer (Full-Time, NOC Shift)</a></td>
-<td>302 Silver Ave. San Francisco, CA 94112<br/>Jewish Home and Rehab Center</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sanfranciscocampusforjewishliving/jobs/4340275009">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 </tbody>

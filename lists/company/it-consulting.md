@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**162 open roles.** 81 in the United States & Canada · 81 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**164 open roles.** 82 in the United States & Canada · 82 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Agile Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/caa40f9f-8009-491a-9fe6-e94e411c035f">Endpoint Systems Administrator</a></td>
+<td>Redstone Arsenal, AL</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/f4c668d4-685b-4912-8f2b-7904db0c3b1f/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Intelligent Technical Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/f440d2d0-d200-44a4-8ad1-f525c14a0b03">IT Technician I (Olympia, WA)</a></td>
@@ -191,13 +198,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Washington, DC<br/>Peterson Space Force Base, CO<br/>Camp Smith, HI<br/>+10 more</td>
 <td align="center"><a href="https://jobs.lever.co/agile-defense/25dca4b0-57d5-4bb5-bc5e-bafd8ab3d7d7/apply">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Konrad</strong></td>
-<td><a href="https://trueinterview.io/jobs/33c3862c-28e6-4041-88e3-6d19fcc7552a">Java Developer</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://www.konrad.com/careers/job/7989359003?gh_jid=7989359003">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Computer World Services</strong></td>
@@ -417,13 +417,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Mthree</strong></td>
-<td><a href="https://trueinterview.io/jobs/354035b7-e9d4-4717-95ad-20f9ff19f8c1">Ingénieure SRE / Site Reliability Engineer</a></td>
-<td>Montréal, Quebec, Canada<br/>Canada, Montréal</td>
-<td align="center"><a href="https://mthree.com/careers/job/?gh_jid=4706309006">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Accenture Federal Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/812d8f7b-44ed-4d14-9aae-631bd5fea2ad">OneFM Oracle Fusion Cloud Developer</a></td>
 <td>Washington, DC<br/>Arlington, VA</td>
@@ -494,6 +487,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/37916a7c-f339-4444-95d1-143aef9ac759">Oracle Cloud HCM HR HelpDesk Specialist</a></td>
+<td>Washington, DC<br/>Arlington, VA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4704739006?gh_jid=4704739006">Apply</a></td>
+<td align="center">12 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Redhorse Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/0f679bd1-b8dd-4c6c-a999-1c2074d3388f">UX/UI Designer</a></td>
 <td>Huntsville, AL</td>
@@ -540,6 +540,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/db807904-31c8-4d7a-9695-d5843427ce3d">.Net Custom Developer</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4704224006?gh_jid=4704224006">Apply</a></td>
+<td align="center">11 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Mthree</strong></td>
+<td><a href="https://trueinterview.io/jobs/186c109c-35c8-401b-bae7-4770c6860cbb">Ingénieur DevOps / DevOps Engineer</a></td>
+<td>Montréal, Quebec, Canada<br/>Canada, Montréal</td>
+<td align="center"><a href="https://mthree.com/careers/job/?gh_jid=4704268006">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
@@ -596,6 +603,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Capco</strong></td>
+<td><a href="https://trueinterview.io/jobs/319e981c-f633-42a2-8ac6-cce93f80685d">Técnico de Planejamento e Programação da Manutenção / Híbrido</a></td>
+<td>Brazil - Rio de Janeiro<br/>Brazil - Sao Paulo</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8231682">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Hedgehog Lab</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c97147d-5b88-4f17-ad5e-8f28eefaf0d2">OutSystems Developer</a> 🌐</td>

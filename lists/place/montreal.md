@@ -123,13 +123,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Mthree</strong></td>
-<td><a href="https://trueinterview.io/jobs/354035b7-e9d4-4717-95ad-20f9ff19f8c1">Ingénieure SRE / Site Reliability Engineer</a></td>
-<td>Montréal, Quebec, Canada<br/>Canada, Montréal</td>
-<td align="center"><a href="https://mthree.com/careers/job/?gh_jid=4706309006">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Lightspeed Commerce, Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/b7da5927-a6c2-4415-8f76-2403d7df64d6">Chef d'équipe, ingénieur en analyse (Analytics Engineer)</a></td>
 <td>Montreal, QC</td>
@@ -162,6 +155,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bb5b4596-0a41-4910-a6d2-c03685864742">Software Engineer - Continuous Delivery</a></td>
 <td>Montreal, QC<br/>San Francisco, CA<br/>Toronto, ON<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/baseten/fb886b59-fdc3-4315-a9b3-c49808bcd2ce/application">Apply</a></td>
+<td align="center">11 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Mthree</strong></td>
+<td><a href="https://trueinterview.io/jobs/186c109c-35c8-401b-bae7-4770c6860cbb">Ingénieur DevOps / DevOps Engineer</a></td>
+<td>Montréal, Quebec, Canada<br/>Canada, Montréal</td>
+<td align="center"><a href="https://mthree.com/careers/job/?gh_jid=4704268006">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>

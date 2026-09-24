@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**271 open roles.** 181 in the United States & Canada · 90 elsewhere in the world. Postings the pipeline classified as remote.
+**276 open roles.** 183 in the United States & Canada · 93 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Singlestore</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe37e13d-9816-4142-bf2b-46f002969068">Support Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/singlestore/jobs/8230462">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cribl</strong></td>
+<td><a href="https://trueinterview.io/jobs/912b1b02-2e69-45ee-ab96-da5db7ae7f88">Solutions Engineer, Ohio (Enterprise)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://cribl.io/job-detail/?gh_jid=6203143004">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/849168fe-768d-4794-9b23-a0f1c7bf563e">Site Reliability Engineer (SRE) - FEDRAMP  |  NIGHTS  | Remote</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer--SRE----FEDRAMP-----NIGHTS----Remote_2024247-1">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/381cfbf5-0a0e-431f-a869-974b732042ae">Software Applications Engineer</a> 🌐</td>
@@ -71,13 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a8218c78-a554-481d-a18c-08e2df9f9ed7">Machine Learning Engineer</a> 🌐</td>
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="https://www.zoominfo.com/careers?gh_jid=8769474002">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cerebras Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/37a1a52b-e39c-4653-8a17-03e9074cd6b9">AI Datacenter Infra engineer</a> 🌐</td>
-<td>Remote — Canada, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cerebras/3a943706-87b4-4a0f-b1ac-70d1ff3d00e2">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -1132,6 +1146,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/382a54b0-025a-4fab-ac0b-4ca36ce4512b">AI Tutor - Yoruba</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207581007">Apply</a></td>
+<td align="center">7 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/01fe8d19-0b38-4697-9de5-aa182837c0c4">AI Tutor - Ukrainian</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207373007">Apply</a></td>
@@ -1206,13 +1227,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/0dffe479-ba72-4007-99e1-46e8d5c70c5c/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cantina</strong></td>
-<td><a href="https://trueinterview.io/jobs/358caf79-c781-4a68-beed-f26fc8d69e06">Machine Learning Engineer - Voice Conversion</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cantina/395712e5-eff6-4b04-aaec-00fbd819547c/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Together AI</strong></td>
@@ -1297,6 +1311,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Perfectserve</strong></td>
+<td><a href="https://trueinterview.io/jobs/47d94483-981f-4b03-ac26-aacef71a5f29">Data Engineer - US Remote</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/perfectserve/jobs/6200392004">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Vitalize</strong></td>
+<td><a href="https://trueinterview.io/jobs/bca94ddc-7586-4b20-9c15-06cfb0ce4af3">Platfrom Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/vitalize/6d9347cb-f118-4186-a382-a0d94af582b5/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Posthog</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6be2641-a5de-4603-8596-7258077ef94f">Product Engineer -- current</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/posthog/20ab9628-20ff-4ae3-bd6a-46ae7e9dc6b8/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lightspeed Commerce, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/38f7ad6a-2bfc-429a-affd-fafd50b7b8e4">Technical Support Specialist (Hospitality) German speaking - all genders</a> 🌐</td>
+<td>Remote — Germany, Spain</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/ad8c9a02-754e-4501-ac34-8ec5ef8b3a6f/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Hedgehog Lab</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c97147d-5b88-4f17-ad5e-8f28eefaf0d2">OutSystems Developer</a> 🌐</td>
 <td>Remote</td>
@@ -1343,13 +1385,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a7ae4f21-4449-41b0-84c0-2191140bcdef">Developer Support Specialist, PST &amp; EST</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://www.shopify.com/careers/developer-support-specialist-pst-est_88865df0-0622-4687-b8e1-a03b64918e5e">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cribl</strong></td>
-<td><a href="https://trueinterview.io/jobs/a2283058-5949-46bd-87f4-95db0ba99fbf">Solutions Engineer, Singapore</a> 🌐</td>
-<td>Remote — Singapore</td>
-<td align="center"><a href="https://cribl.io/job-detail/?gh_jid=5746407004">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>

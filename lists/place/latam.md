@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**48 open roles.**
+**50 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Xp Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/565210c0-f200-4da2-a60b-48e41cab4a2f">Analista Pleno em Infraestrutura | SRE</a></td>
+<td>São Paulo, SP</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xpinc/jobs/8648733002">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Adoreal</strong></td>
+<td><a href="https://trueinterview.io/jobs/721e0d61-6ec5-4ae5-baf1-87a60587fdf1">Automation Engineer - Cross-Functional Operations</a></td>
+<td>Bogota, Colombia</td>
+<td align="center"><a href="https://jobs.workable.com/view/mjJ9sGXPhx8km8q2WJwMkG/remote-automation-engineer---cross-functional-operations-in-bogota-at-adoreal">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Capco</strong></td>
+<td><a href="https://trueinterview.io/jobs/319e981c-f633-42a2-8ac6-cce93f80685d">Técnico de Planejamento e Programação da Manutenção / Híbrido</a></td>
+<td>Brazil - Rio de Janeiro<br/>Brazil - Sao Paulo</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8231682">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Btg Pactual</strong></td>
 <td><a href="https://trueinterview.io/jobs/d6fb9b4a-1564-48dc-8835-e5df49ec71bb">Software Engineer | Collateral &amp; Margin Platform</a></td>
@@ -333,13 +354,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Ciudad de México, México<br/>México</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/cobre/jobs/4363684009">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/3491e5f9-b376-4a05-ae82-e8779544018a">Art Designer | Always On &amp; Social Content</a></td>
-<td>Bogotá, Bogotá, Colombia</td>
-<td align="center"><a href="https://www.monks.com/careers/6135622004/job?gh_jid=6135622004">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Brafton</strong></td>

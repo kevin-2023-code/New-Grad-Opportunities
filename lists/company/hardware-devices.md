@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**200 open roles.** 182 in the United States & Canada · 18 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**197 open roles.** 180 in the United States & Canada · 17 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/849168fe-768d-4794-9b23-a0f1c7bf563e">Site Reliability Engineer (SRE) - FEDRAMP  |  NIGHTS  | Remote</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer--SRE----FEDRAMP-----NIGHTS----Remote_2024247-1">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Pure Storage</strong></td>
 <td><a href="https://trueinterview.io/jobs/9b3b6703-8bce-4a05-bb6d-7e769d6bcf08">Systems Software Engineer</a></td>
@@ -43,13 +50,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8ef210dc-65ca-4d68-a820-e91fd05ce1e6">Software Engineer, CX(Hybrid)</a></td>
 <td>Austin, TX<br/>Richardson, Texas, US, United States of America<br/>Austin, Texas, US</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Richardson-Texas-US/Software-Engineer--CX-Hybrid-_2025342">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/97a9bfff-aba4-4e58-afde-9e086b4b5867">Software Engineer, Duo Desktop</a></td>
-<td>Ann Arbor, Michigan, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ann-Arbor-Michigan-US/Software-Engineer--Duo-Desktop_2023332-1">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -211,13 +211,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/26e103d5-4db8-4cda-b0a8-a071a7cf005f">AI and Machine Learning Engineer I Graduate</a></td>
 <td>San Jose, California, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/AI-and-Machine-Learning-Engineer-I-Graduate_1211881">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Samsung</strong></td>
-<td><a href="https://trueinterview.io/jobs/04c23928-421c-42d2-bb53-6af31df9683d">Cleans Process Engineer</a></td>
-<td>12100 Samsung Blvd, Austin, TX, USA, United States of America</td>
-<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Cleans-Process-Engineer_R111402">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -421,13 +414,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a276ddb9-4753-4ed5-a22b-b4783ee4b719">Digital Solutions and Platform Engineer</a></td>
 <td>Maynard, Massachusetts, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Digital-Solutions-and-Platform-Engineer_2022135-1">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/34ccd6ea-9405-44e0-92b4-40254889faab">Hardware Engineer - System Board Design (PCB) (Onsite)</a></td>
-<td>Milpitas, California, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/System-Hardware-Board-Design-Engineer--Onsite-_2022569">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -1393,13 +1379,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote — Mexico</td>
 <td align="center"><a href="https://www.samsara.com/company/careers/roles/8112694?gh_jid=8112694">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Neura Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/368618e4-04a9-418c-ab77-41c9941794d3">Videographer &amp; Content Creator – Brand Film &amp; Social (Human)</a></td>
-<td>Metzingen / Riederich</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/5f451f7f-9ccc-4df5-8f09-01ee162583e8/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Extreme Networks</strong></td>

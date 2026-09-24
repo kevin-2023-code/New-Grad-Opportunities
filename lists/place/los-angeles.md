@@ -18,6 +18,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Block Llp</strong></td>
+<td><a href="https://trueinterview.io/jobs/acab789a-1667-48ae-ad01-ee09b92fc942">AI Developer</a></td>
+<td>Burbank, California, United States</td>
+<td align="center"><a href="https://jobs.workable.com/view/b1wu8soKbpCtXqkxWhcvmW/ai-developer-in-burbank-at-block-llp">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Gallatin</strong></td>
+<td><a href="https://trueinterview.io/jobs/e522a51c-57e3-4925-bfa8-f011961ad4d8">Software Engineer with Clearance (TS, TS/CSI)</a></td>
+<td>El Segundo, CA<br/>Washington, DC<br/>Palo Alto, CA<br/>+4 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/gallatin/84b17744-34dd-4a57-9b9f-09719dde74cc/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lens Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/a627e6dd-c594-4e55-850d-4e267d0d1f27">Systems Engineer</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lens/5517a0f9-a991-4fd1-9340-fe879f33c004/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Parallel Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/fe219666-ef93-4a62-878a-32fbd13c332e">Full Stack Software Engineer I</a></td>
 <td>Los Angeles, CA<br/>Headquarters</td>
@@ -411,13 +432,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/3566fbfc-601e-4e23-9ce3-10916bc45da8">Battery Engineer (Falcon &amp; Dragon)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8795614002?gh_jid=8795614002">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4f83a846-c8d9-4816-8b03-65c792dda5b3">New Graduate Engineer, Mechanical Design (Starshield)</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8766964002?gh_jid=8766964002">Apply</a></td>
@@ -849,20 +863,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Irvine, California, United States<br/>Palo Alto, CA<br/>Redmond, WA<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/36cee518-be35-4a88-bd79-29fb640ba037">Software Engineer, Factory Systems</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5135811007?gh_jid=5135811007">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/370a377e-04b9-42af-ab09-9294a580886f">Supplier Development Engineer, Manufacturing (Starship)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8687744002?gh_jid=8687744002">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>

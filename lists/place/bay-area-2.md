@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**542 open roles.**
+**539 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,17 +16,17 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Nudge</strong></td>
+<td><a href="https://trueinterview.io/jobs/2d52800c-cf84-48de-bfb4-8a50e6543bc5">Mechanical Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/nudge/f21013b3-0152-49d9-accb-3a46d33c8a82/application">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/6613b323-7f86-430a-b9bb-668c97ba2c30">Product Manufacturing Engineer - PCBA</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/8a86b02b-6063-4124-863f-7e41e9849e22/application">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Iconiq</strong></td>
-<td><a href="https://trueinterview.io/jobs/34a200ac-ea12-47db-bac0-3c3e1b750c50">Associate, Analytics Engineer</a></td>
-<td>San Francisco, CA<br/>New York, NY<br/>New York, New York, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/iconiq/jobs/7621809">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
@@ -111,13 +111,6 @@
 <td><a href="https://trueinterview.io/jobs/addee22f-4017-422d-b97c-d4700689115c">NVIDIA 2027 Internships: Deep Learning</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397026418">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/369af181-673a-49e1-88c5-8d314baac38a">NVIDIA 2027 Internships: Hardware Engineering</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397027188">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
@@ -380,13 +373,6 @@
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Virio</strong></td>
-<td><a href="https://trueinterview.io/jobs/36a629e0-d9c5-4839-9c26-8f907b10569e">Harness Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/virio/405b2e67-c75e-409e-8bbd-ae1c86b89eb4/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Nuna</strong></td>
 <td><a href="https://trueinterview.io/jobs/b693e994-1b5e-4925-8d78-803518756fcc">Software Engineer, AI Evaluation</a></td>
 <td>San Francisco, CA</td>
@@ -615,13 +601,6 @@
 <td><a href="https://trueinterview.io/jobs/b2928ac6-8476-4296-87d1-131e3260da30">ASIC/SOC DFT Engineer (Silicon Engineering)</a></td>
 <td>Palo Alto, CA<br/>Palo Alto - 1200<br/>Austin, TX<br/>+2 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8686199002?gh_jid=8686199002">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Solace</strong></td>
-<td><a href="https://trueinterview.io/jobs/336c3cb7-fb72-4876-84ea-508356d85a7e">Associate Marketing Designer (College Grad 2027)</a></td>
-<td>Redwood City, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/solace/a25bc2ef-8de0-4b57-a169-523b6db7bf5e/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
@@ -863,6 +842,13 @@
 <td align="center">4 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Velo3d</strong></td>
+<td><a href="https://trueinterview.io/jobs/34d71858-31e0-4fc8-8ab3-a3c620f4753e">Hardware Engineering Technician</a></td>
+<td>Fremont, CA</td>
+<td align="center"><a href="https://jobs.lever.co/velo3d/e89db5d5-4ff6-4d46-9936-4c10f942ff9e/apply">Apply</a></td>
+<td align="center">4 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Zoox</strong></td>
 <td><a href="https://trueinterview.io/jobs/1070992a-ff5e-4a07-b314-11dda9de704d">Mechanical Design Engineer - Sensor Cleaning</a></td>
 <td>Foster City, CA</td>
@@ -896,13 +882,6 @@
 <td>US, California, Santa Clara, United States of America<br/>US, Arizona, Phoenix<br/>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Semiconductor-Device-Modeling-Engineer_JR0286250">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Tensec</strong></td>
-<td><a href="https://trueinterview.io/jobs/3604645c-f203-4fb5-8bfb-c8b4669ba4cf">Go-to-Market Engineer</a></td>
-<td>Palo Alto, CA<br/>Miami</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/tensec/4e0124e0-b7d9-4710-afe0-8addb62a0865/application">Apply</a></td>
-<td align="center">3 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Fluidstack</strong></td>

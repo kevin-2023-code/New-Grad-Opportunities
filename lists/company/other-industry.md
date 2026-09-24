@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**77 open roles.** 46 in the United States & Canada · 31 elsewhere in the world. A real classification that none of the other sectors covers.
+**77 open roles.** 47 in the United States & Canada · 30 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bet365</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3ac207f-c845-46e0-8b37-3e79ef88d890">Cloud Platform Engineer</a></td>
+<td>Denver, Colorado, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000151692958-cloud-platform-engineer?oga=true">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Michels Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/e236a167-5044-4cd7-9af3-6de7d88a9a00">Service Desk Support Analyst</a></td>
@@ -415,6 +422,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Hawk Eye Innovations (hei</strong></td>
+<td><a href="https://trueinterview.io/jobs/380b3f85-2d15-4fad-863d-911d6924bd61">Rugby Systems Operator</a></td>
+<td>UK Based with Global Travel</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hawkeyeinnovations/ddf288b9-d7cc-4bed-87c2-5ff10f6edee3/application">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Kaizen Gaming</strong></td>
 <td><a href="https://trueinterview.io/jobs/3e4855e9-4339-403c-a483-7db1910ffc17">Junior Pre Event Trader, Basketball</a></td>
 <td>Bogotá, Colombia<br/>Colombia</td>
@@ -527,13 +541,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Tegna Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/33af9f11-77f0-47bb-bdf0-ddec765d4b2c">Extra-Board Photographer</a></td>
-<td>KSDK-TV Saint Louis</td>
-<td align="center"><a href="https://boards.greenhouse.io/tegnainc/jobs/5203383007?gh_jid=5203383007">Apply</a></td>
-<td align="center">9 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>The Quality Group Gmbh</strong></td>
 <td><a href="https://trueinterview.io/jobs/fa5b157f-bcc8-4637-83fc-d0fbcedd3400">Product Developer Bars (gn) - ESN</a></td>
 <td>Hamburg<br/>Headquarter Hamburg</td>
@@ -553,13 +560,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>City, Country<br/>LATAM</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/oliver/jobs/8076959">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/3491e5f9-b376-4a05-ae82-e8779544018a">Art Designer | Always On &amp; Social Content</a></td>
-<td>Bogotá, Bogotá, Colombia</td>
-<td align="center"><a href="https://www.monks.com/careers/6135622004/job?gh_jid=6135622004">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Brafton</strong></td>

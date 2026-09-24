@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Spotify</strong></td>
+<td><a href="https://trueinterview.io/jobs/56d2a7d4-3d84-4df8-9688-b271fa1a4d8f">Security Engineer, Detection and Response</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/spotify/cb29d857-395b-401d-9749-367e666ff870/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2f7a5c7a-f191-4fb7-b9ac-a06e49e75c82">RecSys 2026 — Full Time</a></td>
 <td>London<br/>New York, NY<br/>Stockholm</td>
 <td align="center"><a href="https://www.lifeatspotify.com/jobs/recsys-2026-full-time">Apply</a></td>
@@ -114,13 +121,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/a1a16349-a1dd-46b0-878a-0fe516f96ce7">Product Design Engineer, Pixel Earbuds</a></td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/112624297326846662-product-design-engineer-pixel-earbuds">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/38049570-c6a8-4e67-b0de-ea97e3e4ea3a">Security Engineer, Detection</a></td>
-<td>Reston, VA, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/108836916245209798-security-engineer-detection">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

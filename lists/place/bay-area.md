@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**542 open roles.**
+**539 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,10 +20,52 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/d06b78df-bda0-4c2d-a3b7-00a3bef58bef">Validation Engineer, Feature Integration</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/25fd2c27-0837-48fa-80c7-21e2e2bad024/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Gallatin</strong></td>
+<td><a href="https://trueinterview.io/jobs/e522a51c-57e3-4925-bfa8-f011961ad4d8">Software Engineer with Clearance (TS, TS/CSI)</a></td>
+<td>Palo Alto, CA<br/>San Francisco, CA<br/>Washington, DC<br/>+4 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/gallatin/84b17744-34dd-4a57-9b9f-09719dde74cc/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lavendo</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e689581-cc4f-4b2e-ad7e-3dcc42e3ba63">Sales Engineer, AI Infrastructure (SF)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lavendo/ef67b9de-6cd5-4223-9150-59939b0e3c6d/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cartesia</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc9d953c-3331-4df9-9ebe-15d44caf2abc">Research Engineer, Data Infrastructure (Language Modeling)</a></td>
+<td>*HQ - San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cartesia/6ca9b352-6a7b-42a3-a7c4-8f071712db90/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Physical Intelligence</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb02c8d1-1cda-4b1e-ad0d-bde756fbd25f">Software Engineer, Robot Interfaces</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/physicalintelligence/86237337-963a-4e0e-bcf7-82d366e5f0fc/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Mill</strong></td>
 <td><a href="https://trueinterview.io/jobs/7bb97ed2-75a4-4bf4-af34-61e6bd6951b5">Computer Vision, Fall/Winter 2026</a></td>
 <td>San Bruno, California<br/>Mill</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/mill/jobs/4737741005">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Reliable Robotics Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a73bc32-fbe7-4434-9d14-923e27bc74af">Avionics Hardware Engineer</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/reliable-robotics/5d8ef2a3-4f58-46dd-b73a-077dd4e90353/application">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -224,13 +266,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/36cce54e-c82a-4575-a298-9b98d6d35975">Pre-si Power and Performance System Validation Engineer</a></td>
-<td>US, California, Santa Clara<br/>US, Texas, Austin, United States of America<br/>US, Oregon, Hillsboro<br/>+1 more</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Pre-si-Power-and-Performance-System-Validation-Engineer_JR0287296">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/a312cb11-1bdd-4cf8-b8cc-a2284e25d475">Data Scientist 1</a></td>
 <td>San Jose, California, United States of America</td>
@@ -403,13 +438,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/cb8f9bf4-0732-4210-b2d0-309c0df2de76">New College Grad - Account Technologist - MS/Doctorate (Winter 2026 Start)</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318471830">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cerebras Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/37a1a52b-e39c-4653-8a17-03e9074cd6b9">AI Datacenter Infra engineer</a> 🌐</td>
-<td>Remote — Canada, United States<br/>Sunnyvale, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cerebras/3a943706-87b4-4a0f-b1ac-70d1ff3d00e2">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -806,13 +834,6 @@ Machine Learning for Monetization (PhD)</a></td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ebde120f-8f73-4a71-b491-59dcc219378f">Software Engineer (C++, OOD/OOP, Linux)</a></td>
-<td>Milpitas, CA, United States of America<br/>Austin, TX, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer--C----OOD-OOP--Linux-_2634818">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bd7ff2df-9f0b-4b14-a86d-5c13cc27a3f7">System Design Engineer</a></td>
 <td>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/System-Design-Engineer_2635246">Apply</a></td>
@@ -872,13 +893,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/c719f274-25d5-4a82-89e5-56d32de78388">Analog/mixed-signal IC Design Engineer - Acacia (Hybrid)</a></td>
 <td>San Jose, California, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Analog-mixed-signal-IC-Design-Engineer---Acacia--Hybrid-_2023164">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/34ccd6ea-9405-44e0-92b4-40254889faab">Hardware Engineer - System Board Design (PCB) (Onsite)</a></td>
-<td>Milpitas, California, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/System-Hardware-Board-Design-Engineer--Onsite-_2022569">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -2093,13 +2107,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Figma</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca9f839d-6894-4d4e-a0a3-4f9b3ed78221">Designer Advocate</a></td>
-<td>San Francisco, CA • New York, NY • United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6176134004?gh_jid=6176134004">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Krea</strong></td>
 <td><a href="https://trueinterview.io/jobs/99ebed8c-4f0e-445d-bd48-d9f34fa1ccd9">ML Researcher - Posttraining</a></td>
 <td>San Francisco, CA</td>
@@ -2812,13 +2819,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397266929">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Nudge</strong></td>
-<td><a href="https://trueinterview.io/jobs/2d52800c-cf84-48de-bfb4-8a50e6543bc5">Mechanical Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/nudge/f21013b3-0152-49d9-accb-3a46d33c8a82/application">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 </tbody>
 </table>

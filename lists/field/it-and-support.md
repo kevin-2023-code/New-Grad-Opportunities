@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**154 open roles.** 113 in the United States & Canada · 41 elsewhere in the world.
+**156 open roles.** 114 in the United States & Canada · 42 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Agile Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/caa40f9f-8009-491a-9fe6-e94e411c035f">Endpoint Systems Administrator</a></td>
+<td>Redstone Arsenal, AL</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/f4c668d4-685b-4912-8f2b-7904db0c3b1f/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Michels Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/e236a167-5044-4cd7-9af3-6de7d88a9a00">Service Desk Support Analyst</a></td>
@@ -704,6 +711,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/37916a7c-f339-4444-95d1-143aef9ac759">Oracle Cloud HCM HR HelpDesk Specialist</a></td>
+<td>Washington, DC<br/>Arlington, VA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4704739006?gh_jid=4704739006">Apply</a></td>
+<td align="center">12 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Makpar</strong></td>
 <td><a href="https://trueinterview.io/jobs/e936e307-f6dd-4715-83a9-db0ef740c822">Application Systems Admin</a> 🌐</td>
 <td>Remote — United States</td>
@@ -795,14 +809,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>San Francisco Campus For Jewish Living</strong></td>
-<td><a href="https://trueinterview.io/jobs/3677877b-4433-49dd-bfd0-5782506f8dab">Plant Security Officer (Full-Time, NOC Shift)</a></td>
-<td>302 Silver Ave. San Francisco, CA 94112<br/>Jewish Home and Rehab Center</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sanfranciscocampusforjewishliving/jobs/4340275009">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e0c98ea0-e895-4e56-930e-8e1113d1af57">Network Engineer, Wireless</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/567a54e0-b9ce-4fff-ae8a-4edee9d55e85/application">Apply</a></td>
@@ -820,6 +827,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Lightspeed Commerce, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/38f7ad6a-2bfc-429a-affd-fafd50b7b8e4">Technical Support Specialist (Hospitality) German speaking - all genders</a> 🌐</td>
+<td>Remote — Germany, Spain</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/ad8c9a02-754e-4501-ac34-8ec5ef8b3a6f/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/e3c434bd-c3af-41d7-a3d7-d2a61cc965c1">Data Center IT Technician, Data Centre Operations</a></td>
@@ -905,6 +919,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Hawk Eye Innovations (hei</strong></td>
+<td><a href="https://trueinterview.io/jobs/380b3f85-2d15-4fad-863d-911d6924bd61">Rugby Systems Operator</a></td>
+<td>UK Based with Global Travel</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hawkeyeinnovations/ddf288b9-d7cc-4bed-87c2-5ff10f6edee3/application">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Shield AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/528daf72-3377-4d03-9a73-e05530ac2d46">Associate Systems Administrator (R5698)</a></td>
 <td>Wichita Metro Area</td>
@@ -986,13 +1007,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7f667ec2-7e4d-4711-aa42-1993c438c097">Technical Support Specialist</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/vitalize/7acd806d-3bef-4dae-8e27-847fe3693729/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Docebo</strong></td>
-<td><a href="https://trueinterview.io/jobs/35fbdad8-c772-4eed-8c0c-40b6b0771a22">Technical Support Analyst, Tier 1 (French Speaking)</a></td>
-<td>London, UK</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/docebo/2d9c9b48-245a-4a4b-a24f-89c84d9a9238/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>

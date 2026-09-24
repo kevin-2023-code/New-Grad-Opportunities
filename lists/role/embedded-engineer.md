@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**25 open roles.** 24 in the United States & Canada · 1 elsewhere in the world.
+**26 open roles.** 25 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cesiumastro</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9af1d4c-920f-40c1-83d3-6a326669032a">Embedded Software Engineer I</a></td>
+<td>Westminster, CO</td>
+<td align="center"><a href="https://jobs.lever.co/CesiumAstro/d56f6207-fc5b-421d-904d-4d2e9ff621bf/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Mill</strong></td>
 <td><a href="https://trueinterview.io/jobs/b7f13997-8c9b-424a-8073-99bcc09eba8e">Firmware Engineer</a></td>

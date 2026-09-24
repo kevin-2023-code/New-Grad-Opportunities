@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**62 open roles.** 8 in the United States & Canada · 54 elsewhere in the world.
+**61 open roles.** 8 in the United States & Canada · 53 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -364,13 +364,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, England<br/>Brave London</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/brave/jobs/8165845">Apply</a></td>
 <td align="center">29 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Docebo</strong></td>
-<td><a href="https://trueinterview.io/jobs/35fbdad8-c772-4eed-8c0c-40b6b0771a22">Technical Support Analyst, Tier 1 (French Speaking)</a></td>
-<td>London, UK</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/docebo/2d9c9b48-245a-4a4b-a24f-89c84d9a9238/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Graphcore</strong></td>

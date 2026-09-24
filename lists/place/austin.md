@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**170 open roles.**
+**168 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Gallatin</strong></td>
+<td><a href="https://trueinterview.io/jobs/e522a51c-57e3-4925-bfa8-f011961ad4d8">Software Engineer with Clearance (TS, TS/CSI)</a></td>
+<td>Austin, TX<br/>Washington, DC<br/>Palo Alto, CA<br/>+4 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/gallatin/84b17744-34dd-4a57-9b9f-09719dde74cc/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/bbcde7a6-22ec-42df-8fc1-d4399593da1b">ASIC Engineer I, Annapurna Labs, Early Career - 2027</a></td>
@@ -67,6 +74,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/71974199-47ca-4690-81da-ddf9bbe5f8f1">ENTRY LEVEL - SYSTEMS &amp; APPLICATIONS ENGINEER</a></td>
+<td>Austin (Oakhill, Office), United States of America</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/ENTRY-LEVEL---SYSTEMS---APPLICATIONS-ENGINEER_R-10066569">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/aa2eac04-21d5-45d5-94e0-975d3d948c9e">Materials Engineer, Thin Films</a></td>
 <td>Bastrop, TX</td>
@@ -78,13 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8ef210dc-65ca-4d68-a820-e91fd05ce1e6">Software Engineer, CX(Hybrid)</a></td>
 <td>Austin, TX<br/>Austin, Texas, US<br/>Richardson, Texas, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Richardson-Texas-US/Software-Engineer--CX-Hybrid-_2025342">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/36cce54e-c82a-4575-a298-9b98d6d35975">Pre-si Power and Performance System Validation Engineer</a></td>
-<td>US, Texas, Austin, United States of America<br/>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>+1 more</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Pre-si-Power-and-Performance-System-Validation-Engineer_JR0287296">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -221,13 +228,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Samsung</strong></td>
-<td><a href="https://trueinterview.io/jobs/04c23928-421c-42d2-bb53-6af31df9683d">Cleans Process Engineer</a></td>
-<td>12100 Samsung Blvd, Austin, TX, USA, United States of America</td>
-<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Cleans-Process-Engineer_R111402">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Gallatin</strong></td>
 <td><a href="https://trueinterview.io/jobs/a0b1445a-a8b8-4681-aef1-1a585a4eaee5">Machine Learning Operations (MLOps) Engineer</a></td>
 <td>Austin, TX<br/>San Francisco, CA<br/>El Segundo, CA</td>
@@ -323,13 +323,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1087a841-25e7-4268-b090-209df5a63cdb">Regional Development Application Engineer - eBeam</a></td>
 <td>Austin, TX, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Regional-Development-Application-Engineer---eBeam_2639408">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ebde120f-8f73-4a71-b491-59dcc219378f">Software Engineer (C++, OOD/OOP, Linux)</a></td>
-<td>Austin, TX, United States of America<br/>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer--C----OOD-OOP--Linux-_2634818">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -828,13 +821,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, TX, Austin<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91184?lang=en-us">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>T1 Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/336d36de-10f2-4fa8-8fb7-09cb07fb110b">Project Controls Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/t1energy/d4be4c6d-36cb-49f9-a7ab-4d3baf9d44e3/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>

@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Reliable Robotics Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a73bc32-fbe7-4434-9d14-923e27bc74af">Avionics Hardware Engineer</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/reliable-robotics/5d8ef2a3-4f58-46dd-b73a-077dd4e90353/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/bbcde7a6-22ec-42df-8fc1-d4399593da1b">ASIC Engineer I, Annapurna Labs, Early Career - 2027</a></td>
 <td>Cupertino, California, USA<br/>US, TX, Austin<br/>US, WA, Seattle<br/>+1 more</td>
@@ -208,13 +215,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/34ccd6ea-9405-44e0-92b4-40254889faab">Hardware Engineer - System Board Design (PCB) (Onsite)</a></td>
-<td>Milpitas, California, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/System-Hardware-Board-Design-Engineer--Onsite-_2022569">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/953914ce-d5ee-4dd0-85c1-18388d164e75">ASIC Design Engineer, STA</a></td>
 <td>San Jose, California, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Engineer--STA_2009921-1">Apply</a></td>
@@ -284,6 +284,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/382d9ff9-d5ea-471a-81f1-182d9574273e">RTL Design Engineer</a></td>
+<td>US, Texas, Austin, United States of America<br/>US, Arizona, Phoenix<br/>US, Oregon, Hillsboro</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/RTL-Design-Engineer_JR0287272">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/3d60d067-faff-4520-bc74-1ebd798a9f74">ASIC Engineer- CAD</a></td>
 <td>San Jose, California, US, United States of America</td>
@@ -309,13 +316,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d2a76d34-d408-4de6-ace3-b4dbf7c922bb">Semiconductor Equipment Maintenance Technician-Vacuum</a></td>
 <td>USA - NC- Greensboro, United States of America</td>
 <td align="center"><a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---NC--Greensboro/Equipment-Maintenance-technician_2026994">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/7283f716-440f-413c-ab61-cea93be4d07b">Entry Level Semiconductor Test Engineer</a></td>
-<td>Chandler (Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/Entry-Level-Semiconductor-Test-Engineer_R-10064969-1">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
@@ -345,6 +345,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, Arizona, Phoenix, United States of America<br/>US, Oregon, Hillsboro</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Semiconductor-Packaging-Research-Engineer_JR0286871">Apply</a></td>
 <td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/37377caf-d088-4bac-af9e-1404cc29f927">Entry Level Digital Physical Design Engineer</a></td>
+<td>Austin (Oakhill, Office), United States of America</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Physical-Design-Engineer_R-10065547">Apply</a></td>
+<td align="center">7 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
@@ -422,13 +429,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44210554">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Broadcom</strong></td>
-<td><a href="https://trueinterview.io/jobs/356eb619-a05f-4258-84ab-5ebad1587d4f">DCIM Semiconductor Equipment Maintenance Technician (Diffusion, CVD, Implant, Milling)(Night Shift)</a></td>
-<td>USA-Colorado-Fort Collins-4380 Ziegler Road, United States of America</td>
-<td align="center"><a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/DCIM-Semiconductor-Equipment-Maintenance-Technician--Diffusion--CVD--Implant--Milling--Night-Shift-_R026912-1">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Cloudflare</strong></td>

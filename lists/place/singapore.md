@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**12 open roles.** 3 in the United States & Canada · 9 elsewhere in the world.
+**11 open roles.** 3 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -50,13 +50,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Cribl</strong></td>
-<td><a href="https://trueinterview.io/jobs/a2283058-5949-46bd-87f4-95db0ba99fbf">Solutions Engineer, Singapore</a> 🌐</td>
-<td>Remote — Singapore<br/>Singapore</td>
-<td align="center"><a href="https://cribl.io/job-detail/?gh_jid=5746407004">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/559b67ad-ab95-4c43-963b-1b0dbc1d3cce">DCEO Engineer, Data Center Engineering Operations</a></td>

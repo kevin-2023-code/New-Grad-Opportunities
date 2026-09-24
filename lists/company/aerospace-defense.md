@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**258 open roles.** 243 in the United States & Canada · 15 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**257 open roles.** 242 in the United States & Canada · 15 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3599f1d-3a83-4782-abd0-1a6fe4b12db8">Engineer I, Quality (R5976)</a></td>
+<td>Seattle, Washington</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/dc978728-0162-4e7d-8f5b-de44296a6ac9/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ed0b2a17-cc4f-4bee-956f-1dd277cdd0ba">Engineer I, PCB (R6065)</a></td>
+<td>Seattle, Washington</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/d4f68b62-871c-4c83-9c28-85591147907f/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cesiumastro</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9af1d4c-920f-40c1-83d3-6a326669032a">Embedded Software Engineer I</a></td>
+<td>Westminster, CO</td>
+<td align="center"><a href="https://jobs.lever.co/CesiumAstro/d56f6207-fc5b-421d-904d-4d2e9ff621bf/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/b621bf32-6776-400a-8f67-03b147716ef5">Software Engineer- Infrastructure</a></td>
+<td>Broomfield, Colorado, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5124336007?gh_jid=5124336007">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/9f75af20-c1bd-4b97-a856-1fb51f6fab40">Launch &amp; Test Engineer, Fluids (Starship)</a></td>
@@ -466,14 +494,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/3566fbfc-601e-4e23-9ce3-10916bc45da8">Battery Engineer (Falcon &amp; Dragon)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8795614002?gh_jid=8795614002">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/02be2c42-bc28-4d61-809c-359327078251">Flight Test Engineer - Imaging</a></td>
 <td>Waltham, Massachusetts, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5234118007?gh_jid=5234118007">Apply</a></td>
@@ -936,13 +957,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/361c9d2d-aea9-4b20-90f7-6feaf8cf8cd6">Aviation Certification Engineer (Starlink)</a></td>
-<td>Woodinville, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8737619002?gh_jid=8737619002">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5a618693-125c-4f5f-9caf-7f213e93bc8c">AMS Verification Engineer (RFIC Engineering)</a></td>
 <td>Redmond, WA<br/>Irvine, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8742211002?gh_jid=8742211002">Apply</a></td>
@@ -985,13 +999,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/377a6fae-a83f-4067-9afb-784d703fa956">Structural Engineer, Launch Infrastructure (Starship)</a></td>
-<td>Cape Canaveral, FL</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8737416002?gh_jid=8737416002">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/96166314-aef3-408e-af76-cc1b32a6b3c4">Full Stack Software Engineer - Simulation &amp; Flight Systems</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8731959002?gh_jid=8731959002">Apply</a></td>
@@ -1292,13 +1299,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/36cee518-be35-4a88-bd79-29fb640ba037">Software Engineer, Factory Systems</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5135811007?gh_jid=5135811007">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/de68177f-8727-4065-bd13-792030885b73">Hardware Engineer, Gateways &amp; Customer Hardware (Starlink)</a></td>
 <td>Bastrop, TX</td>
@@ -1321,13 +1321,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/370a377e-04b9-42af-ab09-9294a580886f">Supplier Development Engineer, Manufacturing (Starship)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8687744002?gh_jid=8687744002">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/db446303-a39c-4985-b69e-f5748c2787f3">Supplier Development Engineer, Hardware &amp; Fasteners (Starship)</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8687756002?gh_jid=8687756002">Apply</a></td>

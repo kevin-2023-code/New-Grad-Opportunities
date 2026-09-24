@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**19 open roles.**
+**20 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,6 +86,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Vancouver, BC<br/>Ottawa, ON<br/>Toronto, ON<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/3367bdd9-fb7f-4f92-b76a-b1ba454f1adb">Building Sciences Consultant</a></td>
+<td>Vancouver, BC, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94183">Apply</a></td>
+<td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Fortinet</strong></td>

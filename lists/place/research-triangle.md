@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**33 open roles.**
+**34 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Scout Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/cde08cdb-13a9-4bc2-979c-19f659493b12">Main System Engineer, Body Systems – Exteriors &amp; Interiors</a></td>
+<td>Charlotte, North Carolina, United States<br/>Charlotte, NC<br/>Novi, Michigan, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/scoutmotors/jobs/5247260007">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/4909f7d6-d160-46f8-a607-1cf2724fa2ce">Water Resources Engineering- Summer 2027</a></td>
@@ -93,13 +100,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Charlotte, NC, US</td>
 <td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556986820">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rvo Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/36c2beff-4d5e-4df4-906b-f331b632880d">Software Engineer, Healthgrades</a></td>
-<td>Charlotte, NC<br/>Charlotte, North Carolina, United States<br/>Denver, Colorado, United States<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rvohealth/jobs/4730928005">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Infineon</strong></td>
@@ -208,6 +208,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/339b2c8e-4b00-4380-a17e-c6fc242b577a">Associate Mixed Signal Design Engineer</a></td>
+<td>US, NC, Durham<br/>US, MA, Wilmington, United States of America</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Mixed-Signal-Design-Engineer_R265312">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/222d4e94-e52a-4011-adfe-1ca6d669ebc0">Associate Product Engineer (Product Development)</a></td>
 <td>US, NC, Durham<br/>US, MA, Wilmington, United States of America</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304">Apply</a></td>

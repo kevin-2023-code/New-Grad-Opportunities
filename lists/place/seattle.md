@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**126 open roles.**
+**127 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3599f1d-3a83-4782-abd0-1a6fe4b12db8">Engineer I, Quality (R5976)</a></td>
+<td>Seattle, Washington</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/dc978728-0162-4e7d-8f5b-de44296a6ac9/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ed0b2a17-cc4f-4bee-956f-1dd277cdd0ba">Engineer I, PCB (R6065)</a></td>
+<td>Seattle, Washington</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/d4f68b62-871c-4c83-9c28-85591147907f/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/9a40fba0-0d6e-4a51-b9d6-8e014ca293fc">EEE Component Reliability Engineer</a></td>
@@ -381,13 +395,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td>Seattle, WA<br/>San Francisco, CA</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Plaid</strong></td>
-<td><a href="https://trueinterview.io/jobs/3424c63e-4c8c-4e9b-82a8-04666e059f79">Software Engineer, Backend</a></td>
-<td>Seattle Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/plaid/664df3be-6be0-432f-8a35-ec7af986fd0d/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>

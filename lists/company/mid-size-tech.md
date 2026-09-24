@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**106 open roles.** 78 in the United States & Canada · 28 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**106 open roles.** 79 in the United States & Canada · 27 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Singlestore</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe37e13d-9816-4142-bf2b-46f002969068">Support Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/singlestore/jobs/8230462">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Graphcore</strong></td>
 <td><a href="https://trueinterview.io/jobs/75e9f9d4-92e2-4362-b78b-3213cc316592">Graduate Performance Engineer</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States<br/>US - Austin</td>
@@ -29,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/54b93c62-93b2-41cb-9fe7-c18baac0d4ae">Data Center Operations System Engineer (Kansas City)</a></td>
 <td>Kansas City, MO - Data Center</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lambda/8a668aed-3028-400a-900a-89b64b7ffa4e/application">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cerebras Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/37a1a52b-e39c-4653-8a17-03e9074cd6b9">AI Datacenter Infra engineer</a> 🌐</td>
-<td>Remote — Canada, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cerebras/3a943706-87b4-4a0f-b1ac-70d1ff3d00e2">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -380,6 +380,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, WA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/handshake/41629882-02cf-41c0-ba1c-5ae689183561/application">Apply</a></td>
 <td align="center">26 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Trm Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/34e5f56b-66a2-4151-a459-5d60c97990a2">Marketing Technology Engineer</a></td>
+<td>Canada<br/>South America<br/>United Kingdom</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/trm-labs/b6ced85a-a8e1-4da7-b065-188edb77ca9e/application">Apply</a></td>
+<td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Notion</strong></td>
@@ -742,13 +749,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>AMER<br/>EMEA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/clickhouse/jobs/6143997004">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Neura Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/368618e4-04a9-418c-ab77-41c9941794d3">Videographer &amp; Content Creator – Brand Film &amp; Social (Human)</a></td>
-<td>Metzingen / Riederich</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/5f451f7f-9ccc-4df5-8f09-01ee162583e8/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Docker</strong></td>

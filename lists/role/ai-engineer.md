@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**140 open roles.** 93 in the United States & Canada · 47 elsewhere in the world.
+**141 open roles.** 95 in the United States & Canada · 46 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Block Llp</strong></td>
+<td><a href="https://trueinterview.io/jobs/acab789a-1667-48ae-ad01-ee09b92fc942">AI Developer</a></td>
+<td>Burbank, California, United States</td>
+<td align="center"><a href="https://jobs.workable.com/view/b1wu8soKbpCtXqkxWhcvmW/ai-developer-in-burbank-at-block-llp">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Warp</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a7324e4-6bcc-4cff-a381-90fe12d5bf3a">Applied AI Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/warp/718d38f5-dc6c-43cd-b7e5-ce70eab048d6/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lavendo</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e689581-cc4f-4b2e-ad7e-3dcc42e3ba63">Sales Engineer, AI Infrastructure (SF)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lavendo/ef67b9de-6cd5-4223-9150-59939b0e3c6d/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Commure</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c0ac38d-57c5-4cbd-b6fb-fa0f71b1e90b">Software Engineer, Scribe AI</a></td>
@@ -50,13 +71,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ca030dfa-2bb2-427d-ae20-774d3db14bab">AI Engineer</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States, New York, New York, United States<br/>Austin - Hybrid<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/gyde/jobs/4413465009">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cerebras Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/37a1a52b-e39c-4653-8a17-03e9074cd6b9">AI Datacenter Infra engineer</a> 🌐</td>
-<td>Remote — Canada, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cerebras/3a943706-87b4-4a0f-b1ac-70d1ff3d00e2">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -850,13 +864,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Frazier &amp; Deeter</strong></td>
-<td><a href="https://trueinterview.io/jobs/3511d3dc-4041-461f-90ec-a1c838b3e352">Full Stack AI Engineer (India-based)</a></td>
-<td>Hyderabad<br/>India</td>
-<td align="center"><a href="https://www.frazierdeeter.com/careers/openings/apply/7986994003?gh_jid=7986994003">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6d05d243-8a5c-43b3-ada0-a9f9d26471c2">AI Enablement Engineer (India-based)</a></td>
 <td>Hyderabad<br/>India</td>
 <td align="center"><a href="https://www.frazierdeeter.com/careers/openings/apply/7986980003?gh_jid=7986980003">Apply</a></td>

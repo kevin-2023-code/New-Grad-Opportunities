@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Spotify</strong></td>
+<td><a href="https://trueinterview.io/jobs/56d2a7d4-3d84-4df8-9688-b271fa1a4d8f">Security Engineer, Detection and Response</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/spotify/cb29d857-395b-401d-9749-367e666ff870/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/cd1089e1-a462-426d-a8cc-3862580404b0">Security Engineer</a></td>
 <td>United States, Multiple Locations, Multiple Locations</td>
@@ -51,13 +58,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, CA<br/>HQ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4714390006">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/38049570-c6a8-4e67-b0de-ea97e3e4ea3a">Security Engineer, Detection</a></td>
-<td>Reston, VA, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/108836916245209798-security-engineer-detection">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Arm Holdings</strong></td>

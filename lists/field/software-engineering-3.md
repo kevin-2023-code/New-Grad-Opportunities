@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,527 open roles.** 1,186 in the United States & Canada · 341 elsewhere in the world.
+**1,526 open roles.** 1,185 in the United States & Canada · 341 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,48 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Deepgram</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b6581ee-2169-41c3-8867-be1c696766e5">Partner Success Engineer (AWS)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/deepgram/ac705109-ea86-41da-a3f2-811c35248c6a/application">Apply</a></td>
+<td align="center">25 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/63729eb2-a001-4b53-a1c3-3ec577bea1d6">Mechanical Design Engineer</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4708282006?gh_jid=4708282006">Apply</a></td>
+<td align="center">25 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Checkr</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0fd02a7-d791-4690-81c3-84cefeaa7dba">Solutions Engineer</a></td>
+<td>Denver, Colorado, United States<br/>San Francisco, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/checkr/jobs/8154536">Apply</a></td>
+<td align="center">25 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Solace</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4c69f55-4b21-4161-8861-c32c5a99314a">Associate Security Engineer (College Grad 2027)</a></td>
+<td>Redwood City, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/solace/b021350f-40dc-4b28-ade4-2ab030bec05d/application">Apply</a></td>
+<td align="center">25 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9744ce10-d97e-45bb-a47e-aafedf4a1987">Associate Platform Engineer (College Grad 2027)</a></td>
+<td>Redwood City, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/solace/bbdb1020-2900-4d63-908a-20cea79a65cd/application">Apply</a></td>
+<td align="center">25 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>K2 Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/f48f2b0f-0e2e-4194-b6f4-439181c11fe0">Radiation Effects Engineer</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5405804008">Apply</a></td>
+<td align="center">25 Aug 2026</td>
+</tr>
 <tr>
 <td><strong>Glydways</strong></td>
 <td><a href="https://trueinterview.io/jobs/61c01050-b1ad-4a9d-b863-e28582877a39">Autonomy Software Engineer, Integration</a></td>
@@ -181,13 +223,6 @@
 <td><a href="https://trueinterview.io/jobs/927af726-6545-4213-a04d-ce053a4862ef">Middleware Solutions Engineer I</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/otter/jobs/8716964002">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/361c9d2d-aea9-4b20-90f7-6feaf8cf8cd6">Aviation Certification Engineer (Starlink)</a></td>
-<td>Woodinville, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8737619002?gh_jid=8737619002">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
@@ -752,13 +787,6 @@
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/369af181-673a-49e1-88c5-8d314baac38a">NVIDIA 2027 Internships: Hardware Engineering</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397027188">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9540b709-298c-45d2-875d-f75591a16641">NVIDIA 2027 Internships: Software Engineering</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397026205">Apply</a></td>
@@ -828,13 +856,6 @@
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Nox Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/34225a23-390c-4adb-bc68-daebb599f01d">FIELD ENGINEER</a></td>
-<td>Phoenix, Arizona, United States</td>
-<td align="center"><a href="https://noxgroup.us/careers/?gh_jid=5392844008">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>MongoDB</strong></td>
 <td><a href="https://trueinterview.io/jobs/52609c13-f03c-4d17-ad22-05f458f6cccb">Technical Services Engineer - Weekend Shift</a> 🌐</td>
 <td>Remote — United States</td>
@@ -867,13 +888,6 @@
 <td><a href="https://trueinterview.io/jobs/6d8e5409-b87d-4f97-8c8c-889856f545a4">GTM Engineer</a></td>
 <td>United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/starbridge/ef246255-061c-43e8-9740-f14d9da638e6/application">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Mthree</strong></td>
-<td><a href="https://trueinterview.io/jobs/354035b7-e9d4-4717-95ad-20f9ff19f8c1">Ingénieure SRE / Site Reliability Engineer</a></td>
-<td>Montréal, Quebec, Canada<br/>Canada, Montréal</td>
-<td align="center"><a href="https://mthree.com/careers/job/?gh_jid=4706309006">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
@@ -1353,13 +1367,6 @@
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Virio</strong></td>
-<td><a href="https://trueinterview.io/jobs/36a629e0-d9c5-4839-9c26-8f907b10569e">Harness Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/virio/405b2e67-c75e-409e-8bbd-ae1c86b89eb4/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Corridor</strong></td>
 <td><a href="https://trueinterview.io/jobs/acaf14ef-2a28-4e64-a258-37cbdf719991">Software Engineer, Product &amp; Platform</a></td>
 <td>San Francisco, CA</td>
@@ -1385,13 +1392,6 @@
 <td><a href="https://trueinterview.io/jobs/3f1ccd51-6a6a-4a92-9871-e9a9d05541d3">Cyber Security Project Engineer</a></td>
 <td>Herndon, Virginia, United States<br/>Chantilly, VA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/grvty/jobs/4368899009">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/36cee518-be35-4a88-bd79-29fb640ba037">Software Engineer, Factory Systems</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5135811007?gh_jid=5135811007">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
@@ -1480,13 +1480,6 @@
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/370a377e-04b9-42af-ab09-9294a580886f">Supplier Development Engineer, Manufacturing (Starship)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8687744002?gh_jid=8687744002">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/db446303-a39c-4985-b69e-f5748c2787f3">Supplier Development Engineer, Hardware &amp; Fasteners (Starship)</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8687756002?gh_jid=8687756002">Apply</a></td>
@@ -1700,6 +1693,13 @@
 <td><a href="https://trueinterview.io/jobs/5a5159a3-6b4c-4c4a-bc8f-ffead3345312">Development Engineer</a></td>
 <td>Broomfield, CO, United States<br/>CO</td>
 <td align="center"><a href="https://jobs.hunterdouglas.com/division/hunterdouglas/job/7855852003?gh_jid=7855852003">Apply</a></td>
+<td align="center">11 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Mthree</strong></td>
+<td><a href="https://trueinterview.io/jobs/186c109c-35c8-401b-bae7-4770c6860cbb">Ingénieur DevOps / DevOps Engineer</a></td>
+<td>Montréal, Quebec, Canada<br/>Canada, Montréal</td>
+<td align="center"><a href="https://mthree.com/careers/job/?gh_jid=4704268006">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
@@ -2501,13 +2501,6 @@
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Tensec</strong></td>
-<td><a href="https://trueinterview.io/jobs/3604645c-f203-4fb5-8bfb-c8b4669ba4cf">Go-to-Market Engineer</a></td>
-<td>Palo Alto, CA<br/>Miami</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/tensec/4e0124e0-b7d9-4710-afe0-8addb62a0865/application">Apply</a></td>
-<td align="center">3 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Physical Intelligence</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ee29284-7a07-42d3-9ee0-cd08e28030de">Production Test Engineer</a></td>
 <td>San Francisco, CA</td>
@@ -2730,6 +2723,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Xp Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/565210c0-f200-4da2-a60b-48e41cab4a2f">Analista Pleno em Infraestrutura | SRE</a></td>
+<td>São Paulo, SP</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xpinc/jobs/8648733002">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Adoreal</strong></td>
+<td><a href="https://trueinterview.io/jobs/721e0d61-6ec5-4ae5-baf1-87a60587fdf1">Automation Engineer - Cross-Functional Operations</a></td>
+<td>Bogota, Colombia</td>
+<td align="center"><a href="https://jobs.workable.com/view/mjJ9sGXPhx8km8q2WJwMkG/remote-automation-engineer---cross-functional-operations-in-bogota-at-adoreal">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Vitalize</strong></td>
+<td><a href="https://trueinterview.io/jobs/bca94ddc-7586-4b20-9c15-06cfb0ce4af3">Platfrom Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/vitalize/6d9347cb-f118-4186-a382-a0d94af582b5/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Posthog</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6be2641-a5de-4603-8596-7258077ef94f">Product Engineer -- current</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/posthog/20ab9628-20ff-4ae3-bd6a-46ae7e9dc6b8/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Btg Pactual</strong></td>
 <td><a href="https://trueinterview.io/jobs/d6fb9b4a-1564-48dc-8835-e5df49ec71bb">Software Engineer | Collateral &amp; Margin Platform</a></td>
 <td>São Paulo<br/>BR - SAO PAULO</td>
@@ -2804,27 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6917f678-4e9c-4012-a04c-9272a8bf6f2c">IN_Manager_Full Stack Developer_GCC_Advisory_Bangalore</a></td>
 <td>Bengaluru Millenia</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-AEM-Lead-GCC-Advisory-Bangalore_746233WD-1">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/733f1124-3acf-419f-8973-3332cd0920e6">IN_Senior Associate_.Net Fullstack Developer_GCC_Advisory_Banaglore</a></td>
-<td>Hyderabad - Salarpuria</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Adobe-Experience-Manager-content-management-system-GCC-Advisory-Banaglore_744222WD-1">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e2f6614c-8efb-498d-a94e-754a7a180416">IN_Senior Associate_.Net Fullstack Developer_GCC_Advisory_Hyderabad</a></td>
-<td>Hyderabad - Salarpuria</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-QA-Automation-GCC-Advisory-Bangalore_737063WD-1">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Richie It Solutions Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/70b9d975-4da2-4f09-beeb-3adb3b2ccf50">software developer</a></td>
-<td>Edmonton (AB)</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50357104">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 </tbody>

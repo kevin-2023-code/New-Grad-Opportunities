@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**97 open roles.** 81 in the United States & Canada · 16 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**99 open roles.** 83 in the United States & Canada · 16 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/d06b78df-bda0-4c2d-a3b7-00a3bef58bef">Validation Engineer, Feature Integration</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/25fd2c27-0837-48fa-80c7-21e2e2bad024/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Reliable Robotics Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a73bc32-fbe7-4434-9d14-923e27bc74af">Avionics Hardware Engineer</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/reliable-robotics/5d8ef2a3-4f58-46dd-b73a-077dd4e90353/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Applied intuition</strong></td>
 <td><a href="https://trueinterview.io/jobs/75a0c114-10db-4b19-ad75-20f71528cfc9">Hardware Engineer, Mechatronics</a></td>

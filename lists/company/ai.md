@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**235 open roles.** 197 in the United States & Canada · 38 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**238 open roles.** 200 in the United States & Canada · 38 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cartesia</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc9d953c-3331-4df9-9ebe-15d44caf2abc">Research Engineer, Data Infrastructure (Language Modeling)</a></td>
+<td>*HQ - San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cartesia/6ca9b352-6a7b-42a3-a7c4-8f071712db90/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Physical Intelligence</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb02c8d1-1cda-4b1e-ad0d-bde756fbd25f">Software Engineer, Robot Interfaces</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/physicalintelligence/86237337-963a-4e0e-bcf7-82d366e5f0fc/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Cognition</strong></td>
 <td><a href="https://trueinterview.io/jobs/af89cb87-4fb7-4e9e-8f26-bc945ec85ada">GTM Engineer</a></td>
@@ -1114,6 +1128,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/13a1fdc7-cc2f-4baa-bdba-fb2959cc4dd3">AI Tutor - Catalan</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207583007">Apply</a></td>
+<td align="center">7 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/382a54b0-025a-4fab-ac0b-4ca36ce4512b">AI Tutor - Yoruba</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207581007">Apply</a></td>
 <td align="center">7 Aug 2026</td>
 </tr>
 <tr>

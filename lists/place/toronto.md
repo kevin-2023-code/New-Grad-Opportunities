@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**75 open roles.**
+**72 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -92,13 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b2faa1ab-3502-48d5-96cb-20acb907e82d">Intermediate Data Engineer</a></td>
 <td>Toronto, ON, CAN</td>
 <td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Intermediate-Data-Engineer_R260025484">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cerebras Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/37a1a52b-e39c-4653-8a17-03e9074cd6b9">AI Datacenter Infra engineer</a> 🌐</td>
-<td>Remote — Canada, United States<br/>Toronto, ON</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cerebras/3a943706-87b4-4a0f-b1ac-70d1ff3d00e2">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -193,13 +186,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>BMO</strong></td>
-<td><a href="https://trueinterview.io/jobs/3445789b-cd9c-4465-93d4-98c5b55abe40">ServiceNow Developer</a></td>
-<td>Toronto, ON, CAN</td>
-<td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/ServiceNow-Developer_R260024416">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Canadian Air Transport Security Authority</strong></td>
 <td><a href="https://trueinterview.io/jobs/669a5911-a6e3-411c-9666-948dfcd67484">Data Engineer</a></td>
 <td>Ottawa, ON</td>
@@ -282,13 +268,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, ON<br/>Sunnyvale, CA<br/>Toronto, CAN</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cerebras/e62f91e4-3079-45aa-87ff-b848b56c54e6">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Konrad</strong></td>
-<td><a href="https://trueinterview.io/jobs/33c3862c-28e6-4041-88e3-6d19fcc7552a">Java Developer</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://www.konrad.com/careers/job/7989359003?gh_jid=7989359003">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Canadian Tire</strong></td>

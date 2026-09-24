@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,527 open roles.** 1,186 in the United States & Canada · 341 elsewhere in the world.
+**1,526 open roles.** 1,185 in the United States & Canada · 341 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/733f1124-3acf-419f-8973-3332cd0920e6">IN_Senior Associate_.Net Fullstack Developer_GCC_Advisory_Banaglore</a></td>
+<td>Hyderabad - Salarpuria</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Adobe-Experience-Manager-content-management-system-GCC-Advisory-Banaglore_744222WD-1">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e2f6614c-8efb-498d-a94e-754a7a180416">IN_Senior Associate_.Net Fullstack Developer_GCC_Advisory_Hyderabad</a></td>
+<td>Hyderabad - Salarpuria</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-QA-Automation-GCC-Advisory-Bangalore_737063WD-1">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Richie It Solutions Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/70b9d975-4da2-4f09-beeb-3adb3b2ccf50">software developer</a></td>
+<td>Edmonton (AB)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50357104">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Fonoa</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e23686f-ea67-4765-92c0-e54cc121b8e8">Solutions Engineer, APAC</a></td>
@@ -64,13 +85,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ab1bc146-05d4-4db2-8e03-64feb8989c72">IT Operations Engineer</a></td>
 <td>Amersham, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.workable.com/view/jCA7qAG2NwYRtG3YL6opH9/hybrid-it-operations-engineer-in-amersham-at-barnett-waddingham">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Skydropx Frenet</strong></td>
-<td><a href="https://trueinterview.io/jobs/36c9a9ea-fc66-4e2d-8f2a-5244eb696804">Software Engineer (.NET)</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydropx/8c01a3d3-90b7-46f2-a846-a860d9cf3a66/application">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -176,13 +190,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a7ae4f21-4449-41b0-84c0-2191140bcdef">Developer Support Specialist, PST &amp; EST</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://www.shopify.com/careers/developer-support-specialist-pst-est_88865df0-0622-4687-b8e1-a03b64918e5e">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cribl</strong></td>
-<td><a href="https://trueinterview.io/jobs/a2283058-5949-46bd-87f4-95db0ba99fbf">Solutions Engineer, Singapore</a> 🌐</td>
-<td>Remote — Singapore</td>
-<td align="center"><a href="https://cribl.io/job-detail/?gh_jid=5746407004">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -827,13 +834,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d1d85bc6-04e5-4ea4-8c7f-b723429a4cc1">Product Security Engineer (Position located in Brazil)</a></td>
 <td>São Paulo, Brazil</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8790880002">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Bb&amp;e</strong></td>
-<td><a href="https://trueinterview.io/jobs/34daa787-c9c4-455e-9e53-d3f8ddcfd9be">Project Engineer</a></td>
-<td>Ramstein, Rhineland-Palatinate, Germany</td>
-<td align="center"><a href="https://jobs.workable.com/view/vGFHyHH38Wshk3JgvC7BQy/project-engineer-in-ramstein-at-bb%26e">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
@@ -2122,13 +2122,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/42f6a996-5571-4b7a-bda6-c3458480be7a">Developer Evangelist - Community</a></td>
 <td>Moscow<br/>Almaty<br/>Armenia<br/>+5 more</td>
 <td align="center"><a href="https://jobs.lever.co/xsolla/8c0f5e96-f19f-4d7b-a2a2-a2531e925f02/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/36749d13-307f-4f5f-b806-34251f102124">Field Application Engineer - Escondida, Antofagasta - Temporary Full Time</a></td>
-<td>Escondida, Antofagasta</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/3ce85869-7125-4ac5-8f3f-bd72c3d3ac49/apply">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>

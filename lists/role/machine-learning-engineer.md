@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**52 open roles.** 39 in the United States & Canada · 13 elsewhere in the world.
+**51 open roles.** 38 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -268,13 +268,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cognition/b6f96827-ce14-44f4-98fa-b1b8640858b6/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cantina</strong></td>
-<td><a href="https://trueinterview.io/jobs/358caf79-c781-4a68-beed-f26fc8d69e06">Machine Learning Engineer - Voice Conversion</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cantina/395712e5-eff6-4b04-aaec-00fbd819547c/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Layup Parts</strong></td>

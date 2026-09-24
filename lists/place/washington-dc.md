@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**74 open roles.**
+**75 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Gallatin</strong></td>
+<td><a href="https://trueinterview.io/jobs/e522a51c-57e3-4925-bfa8-f011961ad4d8">Software Engineer with Clearance (TS, TS/CSI)</a></td>
+<td>Washington, DC<br/>Palo Alto, CA<br/>San Francisco, CA<br/>+4 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/gallatin/84b17744-34dd-4a57-9b9f-09719dde74cc/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/ef157d4a-7e90-48b0-8e3d-882034baa019">SATCOM Gov SysDev Engineer</a></td>
@@ -107,13 +114,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Washington, DC<br/>Washington, District of Columbia, United States<br/>New York, NY - National<br/>+2 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/aclu/jobs/8816450002">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/38049570-c6a8-4e67-b0de-ea97e3e4ea3a">Security Engineer, Detection</a></td>
-<td>Reston, VA, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/108836916245209798-security-engineer-detection">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Anavation</strong></td>
@@ -449,6 +449,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9eb47f73-a5ac-42bd-a700-508f66d66a2a">Applied AI/ML Engineer</a> 🌐</td>
 <td>Remote — United States<br/>Washington DC area</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/oddball/jobs/7861208003">Apply</a></td>
+<td align="center">12 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/37916a7c-f339-4444-95d1-143aef9ac759">Oracle Cloud HCM HR HelpDesk Specialist</a></td>
+<td>Washington, DC<br/>Arlington, VA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4704739006?gh_jid=4704739006">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>

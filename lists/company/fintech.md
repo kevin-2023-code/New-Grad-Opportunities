@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**80 open roles.** 50 in the United States & Canada · 30 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**79 open roles.** 49 in the United States & Canada · 30 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -85,13 +85,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/674f8618-49b4-4f58-9c4a-3a84ab7f6ee5">Data Science - Future Opportunities</a></td>
 <td>Calgary, AB</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/neofinancial/f1aa04a8-de2c-4012-a91f-a370ed560116/application">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>iCapital</strong></td>
-<td><a href="https://trueinterview.io/jobs/371cd832-6e36-4540-95cf-04714ffd4784">Configuration Developer - Analyst</a></td>
-<td>US CO - Colorado Springs</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/icapitalnetwork/jobs/8752865002">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -207,13 +200,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Plaid</strong></td>
-<td><a href="https://trueinterview.io/jobs/3424c63e-4c8c-4e9b-82a8-04666e059f79">Software Engineer, Backend</a></td>
-<td>Seattle Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/plaid/664df3be-6be0-432f-8a35-ec7af986fd0d/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Robinhood</strong></td>
 <td><a href="https://trueinterview.io/jobs/b6ada4a8-6c62-4c9c-906b-2f4ef742b182">Investment Accounts Associate, Help Desk</a></td>
 <td>Westlake, TX</td>
@@ -267,6 +253,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7179f8fb-20b4-4ef6-bf5c-7a80c16bd7e2">Partner Engineer, Scaled Support</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/parafin/f73af03e-d559-4142-b143-9f3b5696fb5d/application">Apply</a></td>
+<td align="center">25 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Trm Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/34e5f56b-66a2-4151-a459-5d60c97990a2">Marketing Technology Engineer</a></td>
+<td>Canada<br/>South America<br/>United Kingdom</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/trm-labs/b6ced85a-a8e1-4da7-b065-188edb77ca9e/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**98 open roles.** 59 in the United States & Canada · 39 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**99 open roles.** 60 in the United States & Canada · 39 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Singlestore</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe37e13d-9816-4142-bf2b-46f002969068">Support Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/singlestore/jobs/8230462">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cribl</strong></td>
+<td><a href="https://trueinterview.io/jobs/912b1b02-2e69-45ee-ab96-da5db7ae7f88">Solutions Engineer, Ohio (Enterprise)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://cribl.io/job-detail/?gh_jid=6203143004">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Replit</strong></td>
 <td><a href="https://trueinterview.io/jobs/921f1abb-36f6-48eb-af63-43ff571ade12">Support Engineer I (NYC, Weekend Shift)</a></td>
@@ -86,13 +100,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fullstory/95f96318-76e8-46b7-8dd9-a74379582e6f/application">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Red Hat</strong></td>
-<td><a href="https://trueinterview.io/jobs/88e01641-c444-478a-ad48-bad12adc881d">Software Engineer</a></td>
-<td>Raleigh, United States of America</td>
-<td align="center"><a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer_R-059618">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Domino Data Lab</strong></td>
@@ -443,6 +450,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Posthog</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6be2641-a5de-4603-8596-7258077ef94f">Product Engineer -- current</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/posthog/20ab9628-20ff-4ae3-bd6a-46ae7e9dc6b8/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/e5a7e001-f3e2-4f96-87db-e162e64777d1">Forward Deployed Engineer, Professional Services</a></td>
 <td>Munich, Germany<br/>Distributed</td>
@@ -455,13 +469,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>—</td>
 <td align="center"><a href="https://nodesk.co/remote-jobs/gitlab-ai-engineer/">Apply</a></td>
 <td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cribl</strong></td>
-<td><a href="https://trueinterview.io/jobs/a2283058-5949-46bd-87f4-95db0ba99fbf">Solutions Engineer, Singapore</a> 🌐</td>
-<td>Remote — Singapore</td>
-<td align="center"><a href="https://cribl.io/job-detail/?gh_jid=5746407004">Apply</a></td>
-<td align="center">21 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Singlestore</strong></td>
