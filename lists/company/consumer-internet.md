@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**55 open roles.** 51 in the United States & Canada · 4 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**52 open roles.** 48 in the United States & Canada · 4 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Spotify</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f7a5c7a-f191-4fb7-b9ac-a06e49e75c82">RecSys 2026 — Full Time</a></td>
+<td>London<br/>New York, NY<br/>Stockholm</td>
+<td align="center"><a href="https://www.lifeatspotify.com/jobs/recsys-2026-full-time">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/48829f5e-8f6e-40fd-bc23-a738b3b3bd4e">Research Scientist,
@@ -229,13 +236,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Netflix</strong></td>
-<td><a href="https://trueinterview.io/jobs/2cbc8895-a6b1-4ad5-a019-550b3322adc8">Software Engineer (L5/6) - Infrastructure Management</a></td>
-<td>Los Gatos, California, United States of America</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790318143742">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/7154bb81-dea1-48eb-bbd5-219952f4a772">Research Engineer, Robotics - Meta Superintelligence Labs</a></td>
 <td>Menlo Park, CA, US</td>
@@ -264,14 +264,7 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Gamechanger</strong></td>
-<td><a href="https://trueinterview.io/jobs/3177e33d-a70f-408e-b30b-2f13f5dc80a8">Security Engineer, Application Security</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gamechanger/8c2edc2c-6da1-4719-abbf-30fb302fce9f/application">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Netflix</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/75b12db2-11b0-4c06-8405-37d515d2d528">Software Engineer - Customer Service Platform</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317897268">Apply</a></td>
@@ -355,25 +348,11 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/31796ab8-7f07-4b72-a602-a872b20458ea">Product Designer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1084428050580464/">Apply</a></td>
-<td align="center">28 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>Netflix</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/86aaf96b-bccd-40c8-89f9-3fa7240eea9e">Admin Assistant, Ads Platform Engineering</a></td>
 <td>Los Gatos, California, United States of America</td>
 <td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317562867">Apply</a></td>
 <td align="center">28 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>Myfitnesspal</strong></td>
-<td><a href="https://trueinterview.io/jobs/59d3bbfa-405a-4e52-a780-6e9123fd1f6c">Site Reliability Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/myfitnesspal/jobs/8085214">Apply</a></td>
-<td align="center">26 Jul 2026</td>
 </tr>
 </tbody>
 </table>
