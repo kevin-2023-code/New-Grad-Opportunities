@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**76 open roles.** 46 in the United States & Canada · 30 elsewhere in the world. A real classification that none of the other sectors covers.
+**77 open roles.** 45 in the United States & Canada · 32 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -235,13 +235,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Corbins</strong></td>
-<td><a href="https://trueinterview.io/jobs/28a64ff1-e031-4c65-868f-56383da3232b">FIELD ENGINEER</a></td>
-<td>Phoenix, Arizona, United States</td>
-<td align="center"><a href="https://corbins.us/careers?gh_jid=5392837008">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Hasbro</strong></td>
 <td><a href="https://trueinterview.io/jobs/65ffec22-fd8d-42e2-a3f3-adf5a053f201">Systems Administrator</a></td>
 <td>Pawtucket, Rhode Island, United States</td>
@@ -360,6 +353,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Monks</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c498912-bfe7-4ea5-aa3c-584c8055886b">AI Artist</a></td>
+<td>Buenos Aires<br/>Argentina</td>
+<td align="center"><a href="https://www.monks.com/careers/6150073004/job?gh_jid=6150073004">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4b00652a-9a96-4d96-b2ef-990f0b953ff7">AI Artist / Multimedia Designer</a></td>
 <td>Mexico City<br/>Argentina</td>
 <td align="center"><a href="https://www.monks.com/careers/6180167004/job?gh_jid=6180167004">Apply</a></td>
@@ -377,6 +377,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/49e69398-9c9f-42dd-b520-caeaec450c99">Cybersecurity Engineer</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://jobs.lever.co/businesswire/07a8d91d-6363-468c-95f7-1b7e4a42270c/apply">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hawk Eye Innovations (hei</strong></td>
+<td><a href="https://trueinterview.io/jobs/27076e6b-3a53-4034-b0b8-9cd52854e415">Football Technology Systems Operator - Singapore</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hawkeyeinnovations/c9fd7f85-eebd-4aad-a68c-f3fc2cc9f549/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**43 open roles.** 38 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**42 open roles.** 37 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -170,13 +170,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Maple Plain, MN</td>
 <td align="center"><a href="https://jobs.lever.co/protolabs/4157d49e-960c-4745-be10-6908bf814e6b/apply">Apply</a></td>
 <td align="center">16 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>New York Iso</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a4e71c6-a67c-46d8-afe8-16e985ffe5c6">Planning Engineer, Generation Integration</a></td>
-<td>Rensselaer, New York, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/nyiso/jobs/5212628007">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>The Nuclear Company</strong></td>

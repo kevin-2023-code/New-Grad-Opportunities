@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**22 open roles.** 13 in the United States & Canada · 9 elsewhere in the world.
+**20 open roles.** 12 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -81,13 +81,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Goldman Sachs</strong></td>
-<td><a href="https://trueinterview.io/jobs/25da2ec0-bff5-4f40-bd64-3a43da8241c4">Quantitative Strategist, Global Banking &amp; Markets, Equities Structured Products</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/167404">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Mio Partners</strong></td>
 <td><a href="https://trueinterview.io/jobs/cbf34161-10e0-4f67-a279-cca52b274813">Quantitative Associate, Risk Special Projects</a></td>
 <td>New York, NY</td>
@@ -140,13 +133,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Shanghai, China</td>
 <td align="center"><a href="https://www.akunacapital.com/careers/job/8175994/?gh_jid=8175994">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Man Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b1e92c7-ec16-4af1-8a81-2c95b6feab8f">Junior Quant - Systematic Multi-Strat</a></td>
-<td>London</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4965180101">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Genius Sports</strong></td>

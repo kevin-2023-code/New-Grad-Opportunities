@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**46 open roles.** 29 in the United States & Canada · 17 elsewhere in the world.
+**42 open roles.** 27 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -123,13 +123,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Zoox</strong></td>
-<td><a href="https://trueinterview.io/jobs/25e42497-27e3-42e5-ad89-6e216e197c6e">Data Scientist</a> 🛂</td>
-<td>Foster City, CA</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/51838a63-2dde-44dc-9c3e-757f35b9690f/apply">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Known</strong></td>
 <td><a href="https://trueinterview.io/jobs/b2a4b351-a119-490e-89ae-36a223ff56b4">Data Scientist, Media Consultant</a></td>
 <td>New York, NY</td>
@@ -141,13 +134,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/aa5f6f10-a630-4954-a269-f22e9f99d7c8">Agent Data Scientist</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/decagon/5433ff3a-9a7c-406b-9dd8-23094141b907/application">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/2497e704-dd3e-4d5f-9195-da7e9f339f21">Data Scientist, Real Estate &amp; Workplace</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/3ac187b2-dd75-4acd-b285-51ae6e603dbd/application">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
@@ -233,6 +219,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Infinitas Learning</strong></td>
+<td><a href="https://trueinterview.io/jobs/28078291-96ea-46ca-b79f-ac2a52e867c4">Product Data Scientist - Learning Platforms</a></td>
+<td>Utrecht, Netherlands</td>
+<td align="center"><a href="https://4dayweek.io/job/product-data-scientist-learning-platforms-at-infinitas-learning-1ebf5f1e">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Ebanx</strong></td>
 <td><a href="https://trueinterview.io/jobs/f6bbf1af-5a7c-412a-833f-577a5fac75b6">Data Science Specialist</a></td>
 <td>Curitiba<br/>On-site<br/>EBANX</td>
@@ -275,13 +268,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Careers At Eucalyptus</strong></td>
-<td><a href="https://trueinterview.io/jobs/26ce73e1-9549-422e-a850-ace10f9b31f5">Data Scientist</a></td>
-<td>AU - HQ - NSW</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/eucalyptus/jobs/4732611005">Apply</a></td>
-<td align="center">13 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Enbridge</strong></td>
 <td><a href="https://trueinterview.io/jobs/db24f017-f0c5-457a-97d6-4faa2007086c">Specialist I TIS Data Scientist / ML Engineer</a></td>
 <td>3 Locations</td>
@@ -303,24 +289,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Cobre</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b25046b-7af5-40a9-9a2e-32e57b658a80">Data Scientist, Liquidity Products Squad</a></td>
-<td>LATAM</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/cobre/jobs/4386308009">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Mastercard</strong></td>
 <td><a href="https://trueinterview.io/jobs/9c377537-67b2-4a30-8e82-0934d34c11b8">Data Scientist I</a></td>
 <td>Pune, India</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Data-Scientist-I_R-278159">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PwC</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a3a9775-cdb5-4aed-b767-ebb00becfbca">Deals / Associate Data Scientist</a></td>
-<td>Madrid</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Madrid/Deals---Associate-Data-Scientist_758092WD">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>

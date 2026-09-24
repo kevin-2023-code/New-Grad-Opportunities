@@ -2,7 +2,7 @@
 
 # 🏛️ Government, research & non-profits
 
-**20 open roles.** 7 in the United States & Canada · 13 elsewhere in the world. Agencies, national laboratories, universities, research institutes and charities.
+**19 open roles.** 6 in the United States & Canada · 13 elsewhere in the world. Agencies, national laboratories, universities, research institutes and charities.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -58,13 +58,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Richmond, California</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/eamesinstitute/jobs/6178820004">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>World Relief</strong></td>
-<td><a href="https://trueinterview.io/jobs/263de3f2-8a3e-4d0f-afe0-a9466704e85b">Content Developer #2025832</a></td>
-<td>Fort Worth, TX<br/>Dallas, TX</td>
-<td align="center"><a href="https://jobs.lever.co/wr/505d3d32-75e4-47d3-9159-bae15aeedd81/apply">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 </tbody>
 </table>

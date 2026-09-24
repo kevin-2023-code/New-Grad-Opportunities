@@ -116,6 +116,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>May Mobility</strong></td>
+<td><a href="https://trueinterview.io/jobs/25d3b206-1e95-4ae8-b0d2-809365b139b5">Testing Support Specialist</a></td>
+<td>Arlington, TX - Onsite<br/>Ann Arbor, MI - HQ</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/maymobility/jobs/8755620002">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/f65ec092-0374-4926-b8ce-45e80927fbc9">Software Engineer Full Stack / Backend I (Full Time) - United States</a></td>
 <td>Dallas, Texas, US<br/>San Jose, California, US, United States of America<br/>New York, NY<br/>+13 more</td>
@@ -177,13 +184,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/181810">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>World Relief</strong></td>
-<td><a href="https://trueinterview.io/jobs/263de3f2-8a3e-4d0f-afe0-a9466704e85b">Content Developer #2025832</a></td>
-<td>Fort Worth, TX<br/>Dallas, TX</td>
-<td align="center"><a href="https://jobs.lever.co/wr/505d3d32-75e4-47d3-9159-bae15aeedd81/apply">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>E-Space</strong></td>

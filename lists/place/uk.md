@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**66 open roles.** 8 in the United States & Canada · 58 elsewhere in the world.
+**64 open roles.** 8 in the United States & Canada · 56 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -310,13 +310,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Man Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b1e92c7-ec16-4af1-8a81-2c95b6feab8f">Junior Quant - Systematic Multi-Strat</a></td>
-<td>London</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4965180101">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Motorola Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/31ec863f-8609-44e2-95ce-e051fab6c674">Graduate Software Engineer</a></td>
 <td>Glasgow, UK</td>
@@ -420,13 +413,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London</td>
 <td align="center"><a href="https://jobs.lever.co/margo-group/02d078e9-b13d-41b6-8dda-e93153330d91/apply">Apply</a></td>
 <td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Zip</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a4a2198-2c45-45aa-8193-aa2c02798559">Demo Engineer</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/zip/532f6e01-217b-4561-bcb7-e2475ae0c98a/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Incident.io</strong></td>

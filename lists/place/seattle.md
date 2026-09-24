@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**127 open roles.**
+**124 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -61,6 +61,13 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Okta</strong></td>
+<td><a href="https://trueinterview.io/jobs/298b0730-342c-4a31-8c4d-5af5f76964ed">Associate Program Analyst (New Grad)</a></td>
+<td>Bellevue, Washington<br/>Chicago, Illinois<br/>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.okta.com/company/careers/opportunity/8220584?gh_jid=8220584">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Plaid</strong></td>
 <td><a href="https://trueinterview.io/jobs/13325519-049c-4a37-b2f5-7668c21f5eac">TechOps Site Support</a></td>
 <td>Seattle Office<br/>New York City Office</td>
@@ -107,13 +114,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/c9b23cbd-184e-4cbe-93ca-7ff430fc0533">Software Development Engineer, Prime Video ML Infrastructure</a></td>
 <td>US, WA, Seattle</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10553195/software-development-engineer-prime-video-ml-infrastructure">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/259b7bae-7d4f-41a2-9fdf-26961f89bcc7">Software Development Engineer, SageMaker Unified Studio</a></td>
-<td>US, WA, Bellevue</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553306/software-development-engineer-sagemaker-unified-studio">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -306,13 +306,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/27237a10-e031-404e-9f39-e848d1d6a79c">Software Engineering - CTJ - Poly</a></td>
-<td>Redmond, WA, US<br/>Reston, VA, US<br/>MD, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556858723">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b8d6120-b59e-4844-a2d1-b2410b405abc">Software Engineer, GenAI Frameworks</a></td>
 <td>Bellevue, WA<br/>New York, NY<br/>Menlo Park, CA, US</td>
@@ -324,6 +317,13 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/7203ba94-ee86-4081-b508-5fe6abbf8c71">Integration &amp; Test Engineer (Falcon)</a></td>
 <td>Redmond, WA<br/>Vandenberg, CA<br/>Starbase, TX<br/>+2 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8771149002?gh_jid=8771149002">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Handshake</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b13d497-fea6-4169-8936-b540da75c721">AI Model Policy Trainer, Image Evaluation - Seattle Onsite</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/handshake/4dcdfc01-076f-43f3-9bed-1acafd2c1cfa/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
@@ -544,14 +544,7 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/2be018d0-74f1-4615-8c26-2d0eb0a108a4">Intermediate Professional, Water Resources Engineering</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93567">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5980c0c6-7dfc-4c38-9f50-c2d57d16bede">GNC Engineer, Attitude Determination and Optical Navigation (Starlink)</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8722945002?gh_jid=8722945002">Apply</a></td>
@@ -804,13 +797,6 @@ Machine Learning for Monetization (PhD)</a></td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/29820cc7-1ab9-4247-8bb0-9182ed5926a8">Optical Transceiver Engineer - High Speed Links, Satellites (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8677827002?gh_jid=8677827002">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ffbb06c7-faae-482b-a633-298116b1a19c">Automation &amp; Controls Engineer, Solar (Starlink)</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8677412002?gh_jid=8677412002">Apply</a></td>
@@ -863,13 +849,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td><a href="https://trueinterview.io/jobs/70f1765a-835e-48ff-ad78-641226bc14b9">Optical Engineer, Satellites (Starlink)</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8656990002?gh_jid=8656990002">Apply</a></td>
-<td align="center">29 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/251d188f-03bc-47ed-9eb1-2a7d7c517f80">Software Engineer, Telemetry (Starlink)</a></td>
-<td>Redmond, WA<br/>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8631930002?gh_jid=8631930002">Apply</a></td>
 <td align="center">29 Jul 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**76 open roles.** 52 in the United States & Canada · 24 elsewhere in the world.
+**74 open roles.** 51 in the United States & Canada · 23 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -205,13 +205,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://ironbow-com.sandbox.hs-sites.com/job-details?gh_jid=5225629007">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Exa</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a2c14cb-f2e6-42b7-8991-55534f6a6646">Security Engineer</a></td>
-<td>San Francisco, California</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/exa/c4081592-fa8c-4fed-9041-70c62feee157/application">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Dlh</strong></td>
@@ -434,13 +427,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://careers.nebius.com/?gh_jid=4971845101">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ciena</strong></td>
-<td><a href="https://trueinterview.io/jobs/679586bb-64f8-40a5-9680-8c2de61b1f1c">SIEM Security Engineer</a></td>
-<td>Gurugram</td>
-<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/SIEM-Security-Engineer_R031342">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Business Wire</strong></td>

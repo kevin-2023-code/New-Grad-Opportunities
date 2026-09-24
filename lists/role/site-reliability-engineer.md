@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**19 open roles.** 12 in the United States & Canada · 7 elsewhere in the world.
+**18 open roles.** 12 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -119,13 +119,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brazil</td>
 <td align="center"><a href="https://jobs.lever.co/ciandt/637d3472-811c-4382-93c9-56657812f9bc/apply">Apply</a></td>
 <td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rain</strong></td>
-<td><a href="https://trueinterview.io/jobs/26de1b56-27ae-4040-93d0-05df953e0f83">Site Reliability Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rain/f4fc9289-e16d-4d4a-afb7-deedab74d3ac/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Mastercard</strong></td>

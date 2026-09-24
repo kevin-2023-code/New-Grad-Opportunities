@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**84 open roles.** 51 in the United States & Canada · 33 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**82 open roles.** 51 in the United States & Canada · 31 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -450,13 +450,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/24bcef27-148e-45cb-adcc-028622b93900">AI Developer</a></td>
-<td>IND PUNE FL7</td>
-<td align="center"><a href="https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Consultant-Senior--Professional-Services_JR0309131">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Wise</strong></td>
 <td><a href="https://trueinterview.io/jobs/fabcf4d2-8b75-4ec5-a2ac-109ce47cd34f">Software Engineer - Recurring Payin</a></td>
 <td>London, , United Kingdom</td>
@@ -545,13 +538,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/bec4d139-9187-43f5-83c6-e5f12764e83f">Junior Software Engineer</a></td>
 <td>San Diego</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cobre</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b25046b-7af5-40a9-9a2e-32e57b658a80">Data Scientist, Liquidity Products Squad</a></td>
-<td>LATAM</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/cobre/jobs/4386308009">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>

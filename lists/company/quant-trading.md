@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**21 open roles.** 18 in the United States & Canada · 3 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**20 open roles.** 18 in the United States & Canada · 2 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -161,13 +161,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Shanghai, China</td>
 <td align="center"><a href="https://www.akunacapital.com/careers/job/8175994/?gh_jid=8175994">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Man Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b1e92c7-ec16-4af1-8a81-2c95b6feab8f">Junior Quant - Systematic Multi-Strat</a></td>
-<td>London</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4965180101">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>DV Trading</strong></td>

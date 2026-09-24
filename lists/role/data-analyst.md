@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**41 open roles.** 18 in the United States & Canada · 23 elsewhere in the world.
+**40 open roles.** 18 in the United States & Canada · 22 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -161,13 +161,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brazil - Rio de Janeiro</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8224389">Apply</a></td>
 <td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Inter Carreiras</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a5bc3d8-e94d-4b88-a68b-709328551c7e">DATA ANALYST II | US GROWTH REVENUE &amp; RECOVERY MG</a></td>
-<td>Belo Horizonte, MG<br/>BANCO INTER</td>
-<td align="center"><a href="https://boards.greenhouse.io/inter/jobs/4732350005?gh_jid=4732350005">Apply</a></td>
-<td align="center">21 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Skydropx Frenet</strong></td>

@@ -76,13 +76,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Blend360</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a3b5094-1559-45c3-a7da-e2b67efc8c06">AI Engineer</a></td>
-<td>Bogotá, Bogota, Colombia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Blend360/744000149078761-ai-engineer?oga=true">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Orion Innovation</strong></td>
 <td><a href="https://trueinterview.io/jobs/4a670045-ca54-457a-93b1-5e8abeee3171">Cloud Deployment Engineer - HÍBRIDO CDMX</a></td>
 <td>Mexico City, Mexico City, Mexico</td>
@@ -207,6 +200,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Monterrey, Mexico<br/>Mexico City, Mexico</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/assetwatch/jobs/4728615005">Apply</a></td>
 <td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c02f8ad-ab77-48b2-a073-b82fff1fc0bf">Analista Técnico Pleno - Geotecnia</a></td>
+<td>São Paulo, SP, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000146070889-analista-tecnico-pleno-geotecnia?oga=true">Apply</a></td>
+<td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Fortinet</strong></td>

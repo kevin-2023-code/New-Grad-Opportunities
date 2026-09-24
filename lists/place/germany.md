@@ -2,7 +2,7 @@
 
 # 🇩🇪 Berlin, Munich & Germany
 
-**15 open roles.** 1 in the United States & Canada · 14 elsewhere in the world.
+**16 open roles.** 1 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -111,6 +111,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f06b19ab-f8ff-46c9-a3b8-212b7a57e2cf">AI Solutions &amp; Process Engineer</a></td>
 <td>Berlin HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/trawa/c8b15b19-984f-43e7-9fb3-ff28a1d970f3/application">Apply</a></td>
+<td align="center">12 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Buena</strong></td>
+<td><a href="https://trueinterview.io/jobs/25ede0a7-7273-4c73-a554-85a7758cc188">Software Trainer (m/f/d)</a></td>
+<td>Berlin</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/buena/2850577e-e341-4b80-9658-74dbd37345ab/application">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>

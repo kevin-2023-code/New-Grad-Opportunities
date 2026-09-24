@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**188 open roles.** 135 in the United States & Canada · 53 elsewhere in the world. Early-stage technology companies.
+**180 open roles.** 128 in the United States & Canada · 52 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -85,13 +85,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5101d43d-0854-4c40-812c-2981428cae95">Machine Learning Data Engineer</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/vizcom/03f6f749-80cb-4ff6-83fc-eb78ef471581/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Big Viking Games</strong></td>
-<td><a href="https://trueinterview.io/jobs/2acb67ea-028c-48a4-a1eb-0f1f5279ca47">software developer</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50309994">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -263,13 +256,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Hippocratic Ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/270dc118-fc7e-4fd7-9fae-3685c2fee95a">Machine Learning Engineer</a></td>
-<td>Menlo Park, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hippocratic%20ai/9d8a02ed-ba1a-4fc0-b5cd-5fdd832a7b04/application">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Lovable</strong></td>
 <td><a href="https://trueinterview.io/jobs/9e24d330-bd9b-4d0f-818b-bbcb30aad685">Product Partnership Engineer</a></td>
 <td>San Francisco, CA</td>
@@ -337,13 +323,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4df15e44-7cfb-4298-adf5-43bb33e20177">3D/AR/VR Software Engineer</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://jobs.lever.co/field-ai/e22d37a0-6247-4e20-8c63-cb2d84056b85/apply">Apply</a></td>
-<td align="center">6 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Langchain</strong></td>
-<td><a href="https://trueinterview.io/jobs/28b60114-a826-4c2f-8ce4-18311a585d6f">Agent Reliability Engineer, GTM</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/langchain/eadd2a71-47fc-483b-948f-4b2384f7f93f/application">Apply</a></td>
 <td align="center">6 Sep 2026</td>
 </tr>
 <tr>
@@ -495,23 +474,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Arizeai</strong></td>
-<td><a href="https://trueinterview.io/jobs/2bfbcf60-e5df-442a-ac73-64130f6c12c1">Developer Relations Education Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/arizeai/jobs/6128123004">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/921362dc-88af-4ecc-b2f0-8a89d1e9fc49">Developer Relations Documentation Engineer</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/arizeai/jobs/6128122004">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Exa</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a2c14cb-f2e6-42b7-8991-55534f6a6646">Security Engineer</a></td>
-<td>San Francisco, California</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/exa/c4081592-fa8c-4fed-9041-70c62feee157/application">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
@@ -760,13 +725,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Dualentry</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a537d35-514f-45ca-9b46-1ff94ebcde1b">Applied Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/dualentry/72d470c0-90a4-4839-883b-85c494ebf022/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Normal Computing Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/cf0d8445-f425-46e5-8156-db2023592220">Hardware Engineer, FPGA</a></td>
 <td>New York City<br/>Silicon Valley</td>
@@ -949,13 +907,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2aff048c-58f6-49e9-b80c-60246ef6f33f">Supply Chain Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/physicalintelligence/45cf0996-6cdd-42ba-b810-1e5ce1e36cd7/application">Apply</a></td>
-<td align="center">3 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Suno</strong></td>
 <td><a href="https://trueinterview.io/jobs/a29aa387-aa94-4530-bb4c-1fdcaca07eb9">Graphic Designer, Paid Media (Contractor)</a> 🌐</td>
 <td>Remote — United States</td>
@@ -1119,13 +1070,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/3b7411b5-f3ac-4d97-9e56-577dda958f45">Design Engineer</a></td>
 <td>London Office</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/tldraw/c52007ee-bac0-4176-a5f0-48fe6e1fe854/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cobre</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b25046b-7af5-40a9-9a2e-32e57b658a80">Data Scientist, Liquidity Products Squad</a></td>
-<td>LATAM</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/cobre/jobs/4386308009">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>

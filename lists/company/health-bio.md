@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**71 open roles.** 53 in the United States & Canada · 18 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**70 open roles.** 53 in the United States & Canada · 17 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -58,6 +58,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000149411520-system-analyst-robotic-controls-engineer?oga=true">Apply</a></td>
 <td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Garner Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/25345331-f076-4717-aa51-0aab46f1f7de">Associate Applied Scientist</a></td>
+<td>New York City, New York<br/>Headquarters</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/garnerhealth/jobs/6174213004">Apply</a></td>
+<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Commure</strong></td>
@@ -340,13 +347,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/25d40778-f12f-4b91-a448-0523c275d4a9">Software Engineer, Data Integration</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/bayesianhealth/38d24101-08b4-40f8-8331-d354b43cb908/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>AbbVie</strong></td>
 <td><a href="https://trueinterview.io/jobs/5d05266c-8550-4b99-a558-80d02e180855">Data Engineer, PDS&amp;T CMC</a></td>
 <td>North Chicago, IL, United States</td>
@@ -434,13 +434,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/heidihealth.com.au/69a7f6cd-2bf1-4390-ac51-df68e59cde4c/application">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Careers At Eucalyptus</strong></td>
-<td><a href="https://trueinterview.io/jobs/26ce73e1-9549-422e-a850-ace10f9b31f5">Data Scientist</a></td>
-<td>AU - HQ - NSW</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/eucalyptus/jobs/4732611005">Apply</a></td>
-<td align="center">13 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Iambic Therapeutics</strong></td>

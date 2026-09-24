@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**56 open roles.** 52 in the United States & Canada · 4 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**55 open roles.** 51 in the United States & Canada · 4 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -38,13 +38,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td>Oakville, Canada</td>
 <td align="center"><a href="https://jobs.lever.co/pelmorex/763320e7-b8bb-48ab-8132-b6bedfc7614b/apply">Apply</a></td>
 <td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/279167b0-6cbe-46bb-b804-8f489c596119">AI Research Scientist, FAIR Security, Privacy, and Reliability</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1414134214191432/">Apply</a></td>
-<td align="center">21 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Twitch</strong></td>
