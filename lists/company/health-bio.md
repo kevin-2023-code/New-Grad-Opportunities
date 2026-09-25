@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**62 open roles.** 48 in the United States & Canada · 14 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**58 open roles.** 45 in the United States & Canada · 13 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -116,13 +116,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Simonmed</strong></td>
-<td><a href="https://trueinterview.io/jobs/5359bfd6-1a22-4011-ad23-a3faf940543e">Mammography Technologist Assistant</a></td>
-<td>4800 Park Blvd. Pinellas Park, FL 33781</td>
-<td align="center"><a href="https://jobs.lever.co/simonmed/3ee73743-4ccb-43bb-8d89-3cb1a6f63b99/apply">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>AbbVie</strong></td>
 <td><a href="https://trueinterview.io/jobs/6875daf9-fcf0-4e32-acfb-4839340e4318">Analyst, Business Systems – AI, Automation &amp; RPA</a></td>
 <td>North Chicago, IL, United States</td>
@@ -163,13 +156,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.lever.co/bluesight/f9259a83-4f47-4e44-9898-e6a443369d68/apply">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Bask Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/598bae85-0b58-451b-960e-71e01a9cbe30">Product Owner</a></td>
-<td>New York, NY<br/>new york, New York, United States</td>
-<td align="center"><a href="https://jobs.workable.com/view/3z27EjQkiLmfmyGxoXAgE3/remote-product-owner-in-new-york-at-bask-health">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Avalere Health</strong></td>
@@ -219,13 +205,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/scan-com/e3460b05-078d-4050-ab6a-e62a0f8733a7/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/53a4ee2d-7965-41d7-b4f6-48817e71ff98">Process Engineer</a></td>
-<td>Wyandotte, MI, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014820549-process-engineer?oga=true">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Genscript/probio</strong></td>
@@ -399,13 +378,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Full-Time</td>
 <td align="center"><a href="https://natera.com/">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lone Star Circle Of Care</strong></td>
-<td><a href="https://trueinterview.io/jobs/54bd5466-d521-470e-82bf-cc6d3ef878bf">Data Analyst</a></td>
-<td>Hybrid</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lonestarcircleofcare/jobs/4392915009">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Truveta</strong></td>

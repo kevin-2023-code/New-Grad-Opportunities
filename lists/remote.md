@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**253 open roles.** 172 in the United States & Canada · 81 elsewhere in the world. Postings the pipeline classified as remote.
+**251 open roles.** 171 in the United States & Canada · 80 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -660,13 +660,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/ramp/c01a2ed9-fcb4-48c0-ad7a-c59476d9c986/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Expa</strong></td>
-<td><a href="https://trueinterview.io/jobs/53fc57e9-2e74-4f81-90b2-6b7e7dca66f2">Product Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/expa/c09df48e-9ba0-4ea0-9e46-c2faaaef2a0a/application">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Domino Data Lab</strong></td>
@@ -1459,6 +1452,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Invisible Agency</strong></td>
+<td><a href="https://trueinterview.io/jobs/5436cbbd-6111-4089-b4e3-b66cf78aa97e">CVE &amp; Application Security AI Task Auditor - Freelance AI Trainer Project</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/agency/jobs/4969255101">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7df32fc5-057f-4497-9ed1-b9208fd7cdb2">Machine Learning (ML) AI Task Auditor - Freelance AI Trainer Project</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/agency/jobs/4969254101">Apply</a></td>
@@ -1717,13 +1717,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/56219c72-2260-474b-8a1c-01ab55ffbbca">Neuroscience PhD / Computational Neuroscience ML Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/clera/53ce8d6f-ddc0-4e2e-9d7c-29b1b3708e5c/application">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Cgs Nexus</strong></td>
 <td><a href="https://trueinterview.io/jobs/efaa7b9d-f628-4d6d-b8c0-58b8fc6889ee">Technical Support Specialist – Photo Finishing Equipment</a> 🌐</td>
 <td>Remote</td>
@@ -1757,13 +1750,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.lever.co/weloglobal/1af55554-dad4-48ad-97ca-6550fab8cf4c/apply">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cursor</strong></td>
-<td><a href="https://trueinterview.io/jobs/548a265a-c8d7-492d-ba07-a590d24050a8">Field Engineer, Life Sciences</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cursor/41f0d1a2-9449-4980-8592-f23290a9b65e/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Dash0</strong></td>

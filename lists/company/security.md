@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**62 open roles.** 52 in the United States & Canada · 10 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**60 open roles.** 51 in the United States & Canada · 9 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -374,13 +374,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/delinea/8f32efea-05da-477b-8219-36e63fc2d551/application">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Guidepoint Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1991c83-ae95-4026-9c0f-42e8bd897c75">Security Engineer (Denver, CO) - Heartland (Remote)</a></td>
-<td>Denver, CO<br/>Heartland</td>
-<td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6123662004?gh_jid=6123662004">Apply</a></td>
-<td align="center">27 Jul 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -455,13 +448,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bengaluru, India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8721151002">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Opswat</strong></td>
-<td><a href="https://trueinterview.io/jobs/153d0cc7-37a8-43e4-868c-1a88c2d8356c">Hardware Fulfillment Technician</a></td>
-<td>Veszprém, Veszprém, Hungary<br/>Hungary</td>
-<td align="center"><a href="https://www.opswat.com/jobs/4717428005?gh_jid=4717428005">Apply</a></td>
-<td align="center">27 Jul 2026</td>
 </tr>
 </tbody>
 </table>

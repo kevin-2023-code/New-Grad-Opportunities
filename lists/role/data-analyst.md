@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**38 open roles.** 17 in the United States & Canada · 21 elsewhere in the world.
+**37 open roles.** 17 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -238,13 +238,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico<br/>Brazil<br/>Colombia<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/agent/232e0bca-2618-4aec-be56-28e265adefc6/application">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lone Star Circle Of Care</strong></td>
-<td><a href="https://trueinterview.io/jobs/54bd5466-d521-470e-82bf-cc6d3ef878bf">Data Analyst</a></td>
-<td>Hybrid</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lonestarcircleofcare/jobs/4392915009">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>

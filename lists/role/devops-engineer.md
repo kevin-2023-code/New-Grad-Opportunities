@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**21 open roles.** 12 in the United States & Canada · 9 elsewhere in the world.
+**20 open roles.** 12 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -161,13 +161,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>United Kingdom, Ireland or Poland<br/>Europe</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/buildkite/jobs/5415605008">Apply</a></td>
 <td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Desjardins</strong></td>
-<td><a href="https://trueinterview.io/jobs/57ac9ea0-1c71-46e6-bfa9-1367b3b0a4b4">AI/ML DevOps Developer</a></td>
-<td>2 Locations</td>
-<td align="center"><a href="https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Dveloppeur-ou-dveloppeuse-DevOps-IA-ML_R2610564-1">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Sandisk</strong></td>

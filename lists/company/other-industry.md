@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**70 open roles.** 41 in the United States & Canada · 29 elsewhere in the world. A real classification that none of the other sectors covers.
+**68 open roles.** 41 in the United States & Canada · 27 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -338,13 +338,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Pansophic Learning</strong></td>
-<td><a href="https://trueinterview.io/jobs/5524cc81-a1d8-46ec-a67c-47697b34c556">Technical Support Engineer</a></td>
-<td>Corporate Office - Parma</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pansophiclearning/jobs/7997274003">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Business Wire</strong></td>
 <td><a href="https://trueinterview.io/jobs/49e69398-9c9f-42dd-b520-caeaec450c99">Cybersecurity Engineer</a> 🌐</td>
 <td>Remote</td>
@@ -406,13 +399,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Leigh, United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/microsoft-365-developer-at-jigsaw-homes-group-0b3c09de">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/5526d0dc-0fc6-4197-90a2-c6a94cc1e4ce">Fullstack Engineer</a></td>
-<td>LATAM<br/>NAMER</td>
-<td align="center"><a href="https://www.monks.com/careers/6179243004/job?gh_jid=6179243004">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Genius Sports</strong></td>

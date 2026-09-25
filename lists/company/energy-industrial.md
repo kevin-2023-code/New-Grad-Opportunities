@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**41 open roles.** 36 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**40 open roles.** 35 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -194,13 +194,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Hunter Douglas</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a5159a3-6b4c-4c4a-bc8f-ffead3345312">Development Engineer</a></td>
-<td>Broomfield, CO, United States<br/>CO</td>
-<td align="center"><a href="https://jobs.hunterdouglas.com/division/hunterdouglas/job/7855852003?gh_jid=7855852003">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a4326b2e-9ada-4fbe-bf48-9aff2e091107">Industrial Engineer</a></td>
 <td>Salt Lake City, UT, United States<br/>UT</td>
 <td align="center"><a href="https://jobs.hunterdouglas.com/division/hunterdouglas/job/7855727003?gh_jid=7855727003">Apply</a></td>
