@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**124 open roles.**
+**120 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -107,13 +107,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 Machine Learning for Monetization (PhD)</a></td>
 <td>Bellevue, WA<br/>Sunnyvale, CA<br/>New York, NY<br/>+1 more</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1747806499828365/">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/3fd4f1f1-9b4c-4b86-b9ef-9e92d53ec35d">Early Professional - Transportation Engineer</a></td>
-<td>Tacoma, WA, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96087">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -677,14 +670,7 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/44f3e8b5-620f-43aa-bece-c0645d07a9f6">Compiler Engineer, MTIA Software (Technical Leadership)</a></td>
-<td>Bellevue, WA<br/>New York, NY<br/>Menlo Park, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1618611489618646/">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/585f7045-4efc-4b2b-b1c7-a4061f90997f">Mechanical Development Test Engineer, Satellites (Starlink)</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8697586002?gh_jid=8697586002">Apply</a></td>
@@ -867,23 +853,9 @@ Machine Learning for Monetization (PhD)</a></td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3dcfd71c-bc8a-47c6-9643-03c6c164c433">Full Stack Software Engineer, Data (Starlink)</a></td>
-<td>Redmond, WA<br/>Hawthorne, CA, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8656465002?gh_jid=8656465002">Apply</a></td>
-<td align="center">29 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fcb3dd73-376f-4ac3-91b3-2fc83981578b">Operations Engineer, Applied AI (Application Software)</a></td>
 <td>Redmond, WA<br/>Hawthorne, CA<br/>Bastrop, TX<br/>+5 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8652229002?gh_jid=8652229002">Apply</a></td>
-<td align="center">28 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/46e9bbb2-b44a-4ac1-80df-eae6d880478e">Mechanical Design Engineer, Production (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8652488002?gh_jid=8652488002">Apply</a></td>
 <td align="center">28 Jul 2026</td>
 </tr>
 </tbody>

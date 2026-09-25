@@ -2,7 +2,7 @@
 
 # 🇮🇳 Bengaluru & India
 
-**34 open roles.**
+**32 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -39,13 +39,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Gurugram, Haryana</td>
 <td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/ETL-Informatica-Developer_JR00127325">Apply</a></td>
 <td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Commure</strong></td>
-<td><a href="https://trueinterview.io/jobs/45e32e90-9b4f-4303-8766-cd65faaf8213">Forward Deployed Engineer (India)</a></td>
-<td>Bengaluru, India</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/commure/b7f99d0b-e511-41ba-a585-ce636f454e99/application">Apply</a></td>
-<td align="center">23 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>PwC</strong></td>
@@ -221,13 +214,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bangalore, India<br/>India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8721229002">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Bespoke Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/43583c6f-f118-4156-82af-330dd4658efe">Desktop/System Administrator</a></td>
-<td>Bangalore, India</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/bespokelabs/0fbfa50d-0bc7-42a7-92d9-855c39dfbf6e/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Knowbe4</strong></td>
