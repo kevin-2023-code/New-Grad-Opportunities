@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**26 open roles.** 19 in the United States & Canada · 7 elsewhere in the world.
+**25 open roles.** 19 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -162,13 +162,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/5bce68a9-c190-4812-b73e-53124c4f18f3">Ex-Commercial Founder / Product Owner</a></td>
-<td>Munich</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/clera/2b979ac5-3996-4d76-9e4a-4d2c0c087740/application">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Experian</strong></td>
 <td><a href="https://trueinterview.io/jobs/efc2fe2a-43f5-44cf-ae2a-fabedf43e921">Product owner</a></td>

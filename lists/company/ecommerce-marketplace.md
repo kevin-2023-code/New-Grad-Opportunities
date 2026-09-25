@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**67 open roles.** 42 in the United States & Canada · 25 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**65 open roles.** 40 in the United States & Canada · 25 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,13 +22,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bbcde7a6-22ec-42df-8fc1-d4399593da1b">ASIC Engineer I, Annapurna Labs, Early Career - 2027</a></td>
 <td>Cupertino, California, USA<br/>US, TX, Austin<br/>US, WA, Seattle<br/>+1 more</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10558918/asic-engineer-i-annapurna-labs-early-career-2027">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5adfb8ee-3a3e-47ae-b427-728e10ceee21">Cloud Hardware Development Engineer I, Annapurna Labs, Early Career - 2027</a></td>
-<td>Austin, TX<br/>Austin, Texas, USA<br/>US, TX, Austin<br/>+1 more</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10558923/cloud-hardware-development-engineer-i-annapurna-labs-early-career-2027">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -74,6 +67,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Shopify</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e6a97d7-ab71-44db-b41f-aa557b2f6f6c">Technical Security Analyst, IAM</a> 🌐</td>
+<td>Remote — Canada</td>
+<td align="center"><a href="https://www.shopify.com/careers/technical-security-analyst-iam_ed446689-e031-4f41-aa1d-e0de6a5940c8">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Faire</strong></td>
 <td><a href="https://trueinterview.io/jobs/d7094e37-ac70-4576-99ea-c75940b1e5da">Growth Platform, Marketing Engineer</a></td>
 <td>Toronto, ON<br/>San Francisco, CA<br/>New York City, NY</td>
@@ -110,13 +110,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Lightspeed Commerce, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f36b729-8382-4228-854f-3f90cabd1db0">Programmeur.euse iOS sénior</a></td>
-<td>Montreal, QC</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/171bd20d-2665-4d85-88ea-f370035ccc26/application">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/12d7a960-6d59-4bf8-9a03-aa2fba2c9642">ServiceNow Developer</a></td>
 <td>Ottawa, ON<br/>Toronto, ON<br/>Montreal, QC</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/6c9c4556-c6c3-40b0-acf2-6bb12d0f2a29/application">Apply</a></td>
@@ -246,13 +239,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9d162e49-7c54-4531-9014-c65baf3af511">Associate ServiceNow Engineer</a></td>
 <td>Tempe, AZ</td>
 <td align="center"><a href="https://www.carvana.com/careers/apply?gh_jid=8164824">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Tecovas</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d3eec0f-d423-4a1c-8611-daa965faeafa">Junior Designer, Men's Footwear</a></td>
-<td>Austin, TX<br/>Tecovas HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tecovas/jobs/8756968002">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>

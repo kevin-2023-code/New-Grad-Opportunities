@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**95 open roles.** 80 in the United States & Canada · 15 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**92 open roles.** 77 in the United States & Canada · 15 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -172,13 +172,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/5adca799-0ca6-4f9b-9a29-2b7cc0576a75">Research Scientist, Map Scalability</a></td>
-<td>Mountain View, CA, U.S.A<br/>San Francisco, CA, U.S.A<br/>New York City, NY, U.S.A</td>
-<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8180692">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/08b3ad91-dd8f-4914-b93c-3aad29422216">Hardware Technician</a></td>
 <td>US CA San Mateo</td>
@@ -246,13 +239,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7cfae075-c903-431d-a3b1-0567dc0155e4">Design &amp; Release Engineer - Body Interior</a></td>
 <td>Dearborn, MI, United States</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69328">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5f83a7c1-a9d3-479f-aa9a-dc6d4f28739b">Fastening Manufacturing Engineer</a></td>
-<td>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69913">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
@@ -551,13 +537,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Waabi</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a932455-df9d-45fb-b91e-802e0c6db5bb">Bring-Up &amp; Manufacturing Electrical Engineer</a></td>
-<td>Pittsburgh, PA</td>
-<td align="center"><a href="https://jobs.lever.co/waabi/1f9c6d63-8090-4ef2-98e7-1d82ff29221a/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8d0cc918-ea0d-4fc9-9d98-517bb9ac3bf1">Bringup Electrical Engineer</a></td>
 <td>Pittsburgh, PA</td>
 <td align="center"><a href="https://jobs.lever.co/waabi/3ac83400-7d28-4ad4-8d70-88583e9af981/apply">Apply</a></td>

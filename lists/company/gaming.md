@@ -2,7 +2,7 @@
 
 # 🎮 Gaming & interactive
 
-**10 open roles.** 7 in the United States & Canada · 3 elsewhere in the world. Games, game engines and interactive entertainment.
+**9 open roles.** 7 in the United States & Canada · 2 elsewhere in the world. Games, game engines and interactive entertainment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -83,13 +83,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7ba188f0-c770-4d71-a782-2fe30edc59a0">AI Researcher - Bolter</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/improbable/ae45d80a-f76f-4292-b97e-09cd74a26b2d/application">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5dd7b999-87b8-4167-96c3-66b459e0d979">Product Engineer - Bolter</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/improbable/f5e52200-8498-4f73-bbcb-5452a34dfa82/application">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>

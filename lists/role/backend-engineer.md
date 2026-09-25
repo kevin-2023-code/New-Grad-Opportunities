@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**28 open roles.** 14 in the United States & Canada · 14 elsewhere in the world.
+**27 open roles.** 13 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,13 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Olathe, Kansas, United States<br/>Chanhassen, Minnesota, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19142?lang=en-us">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Trm Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/5eacabc4-3677-4a51-ba7c-f5ff7cf5ea80">Backend Engineer, Agent Tools</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/trm-labs/1eff4d33-7cf1-4682-a548-dcc4abd913f3/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>GitLab</strong></td>

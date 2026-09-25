@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**146 open roles.** 108 in the United States & Canada · 38 elsewhere in the world.
+**146 open roles.** 107 in the United States & Canada · 39 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -116,6 +116,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Shopify</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e6a97d7-ab71-44db-b41f-aa557b2f6f6c">Technical Security Analyst, IAM</a> 🌐</td>
+<td>Remote — Canada</td>
+<td align="center"><a href="https://www.shopify.com/careers/technical-security-analyst-iam_ed446689-e031-4f41-aa1d-e0de6a5940c8">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Foodsmart</strong></td>
 <td><a href="https://trueinterview.io/jobs/0d7216b4-6b48-4178-915f-1df4ac5160d0">Member Support Representative Tier 1 (Part-Time)</a> 🌐</td>
 <td>Remote — United States</td>
@@ -142,13 +149,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United States</td>
 <td align="center"><a href="https://jobs.lever.co/smiledigitalhealth/71536f5b-b6a4-4a43-8240-1498ee351e6c/apply">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intelligent Technical Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c5de886-3d7d-4174-bda8-bf2434aec599">System Admin I Onsite (Dallas, TX)</a></td>
-<td>Dallas, Texas<br/>Onsite</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/its/jobs/7990780003">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Profound</strong></td>
@@ -211,13 +211,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7f82d625-7fa1-41e1-881b-a3bb25219712">Video &amp; Voice Systems Administrator</a></td>
 <td>Memphis, TN<br/>Macrohard - Memphis, TN</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8791800002?gh_jid=8791800002">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a4d89bd5-b731-4302-840c-79f5179e38e1">Network Engineer (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8784089002?gh_jid=8784089002">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
@@ -786,6 +779,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Cirque Du Soleil Entertainment Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/d72057ef-447b-480e-bcaa-ce3b24bde1eb">Technicien en TI – Spectacles en tournée | IT Technician – Touring Shows</a></td>
+<td>*En tournée<br/>On tour<br/>Anywhere</td>
+<td align="center"><a href="https://jobs.lever.co/cirquedusoleil/cb0f414a-2649-4ac3-b328-52af29284269/apply">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/0df62237-4184-4567-b903-cd358cdff00d">Dedicated Support Engineer - Tokyo</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/73728d6c-8d8d-4aed-86c6-c2e73d9efec9/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/e3c434bd-c3af-41d7-a3d7-d2a61cc965c1">Data Center IT Technician, Data Centre Operations</a></td>
 <td>NZ, AUK, Auckland</td>
@@ -1001,13 +1008,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Braine l’Alleud, Belgium<br/>Spektrum Management Group Ltd</td>
 <td align="center"><a href="https://spektrum-group.com/jobs?gh_jid=4953343101">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Geostabilization International</strong></td>
-<td><a href="https://trueinterview.io/jobs/5e98432e-bd3a-4a6a-91e6-164f55416349">IT System Administrator</a></td>
-<td>Westminster. CO<br/>Soil-Nail Holdings</td>
-<td align="center"><a href="https://www.geostabilization.com/why-gsi/careers/?gh_jid=4364226009">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Buena</strong></td>

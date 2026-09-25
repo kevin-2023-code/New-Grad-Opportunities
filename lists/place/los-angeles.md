@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**143 open roles.**
+**142 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b7c13d5-f2c6-440c-aed1-fda2969146aa">Systems Engineer, Space Emerging Talent</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/74e94d4c-041c-4d55-bcd8-a6478a0dc308">Mechanical Engineer - Lethality</a></td>
 <td>Costa Mesa, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5249368007?gh_jid=5249368007">Apply</a></td>
@@ -64,6 +71,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fe219666-ef93-4a62-878a-32fbd13c332e">Full Stack Software Engineer I</a></td>
 <td>Los Angeles, CA<br/>Headquarters</td>
 <td align="center"><a href="https://boards.greenhouse.io/parallel/jobs/5247800007?gh_jid=5247800007">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Naughty Dog</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a93ab87-ca0f-4fa3-8b0c-b541b24e665e">VFX Artist</a></td>
+<td>United States, Santa Monica, CA<br/>USA-CA-Santa Monica</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/naughtydog/jobs/6207151004">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -271,13 +285,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/5dafa32c-1df5-4e18-9681-e0b84d0cf0e4">Supplier Development Engineer, Materials &amp; Metals (Starship)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8815035002?gh_jid=8815035002">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8c664a49-89c7-4034-834d-dea113dfa9af">Software Engineer, Internal Applications</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8812137002?gh_jid=8812137002">Apply</a></td>
@@ -550,13 +557,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Amity Foundation</strong></td>
-<td><a href="https://trueinterview.io/jobs/5bd039b0-f40f-44bb-bfb6-79323d89886d">Career Developer - La Entrada</a></td>
-<td>2756 James Wood Blvd, Los Angeles, CA 90006</td>
-<td align="center"><a href="https://jobs.lever.co/amityfdn/948f6e5f-9c85-4dfe-acec-e01752697f9f/apply">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/c1826cd8-79a0-43fe-8fa8-857cba390396">2027 Early Career Flight Software Engineer</a></td>
 <td>Costa Mesa, California, United States</td>
@@ -736,13 +736,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/927af726-6545-4213-a04d-ce053a4862ef">Middleware Solutions Engineer I</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/otter/jobs/8716964002">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a618693-125c-4f5f-9caf-7f213e93bc8c">AMS Verification Engineer (RFIC Engineering)</a></td>
-<td>Irvine, CA<br/>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8742211002?gh_jid=8742211002">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**426 open roles.** 324 in the United States & Canada · 102 elsewhere in the world. Everything the employers put up this week.
+**427 open roles.** 324 in the United States & Canada · 103 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -18,7 +18,56 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Devsavant Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4f735e0-6097-4af2-b3d0-a5004f60c8ca">Data Analytics Engineer</a></td>
+<td>LATAM</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/devsavant/7a0d6969-1032-4c9b-8eed-524cf581c5da/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Isometric</strong></td>
+<td><a href="https://trueinterview.io/jobs/6478999c-6e08-452d-8707-fe202c344a5c">Geospatial Data Analyst (contractor)</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/isometric/4c429294-d580-4c4a-a6f4-27b0b06d21a0/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Assembler AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/f651cf23-4c51-45dc-b347-42557aec65ab">software developer</a></td>
+<td>Montréal (QC)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50335179">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Corpex</strong></td>
+<td><a href="https://trueinterview.io/jobs/d94c411a-93c0-4883-8bdf-8710618b1be2">full stack developer</a></td>
+<td>Mississauga (ON)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50331573">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>CASA Mental Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0cd078e-ec31-40aa-9828-956393648806">software developer</a></td>
+<td>Edmonton (AB)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50321553">Apply</a></td>
+<td align="center">19 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lucidya</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb4d0853-e5ea-431d-b63e-706245cccb6f">Frontend Software Engineer</a></td>
+<td>Riyadh, Saudi Arabia</td>
+<td align="center"><a href="https://4dayweek.io/job/frontend-software-engineer-at-lucidya-8fa81b9b">Apply</a></td>
+<td align="center">19 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Ci&amp;t</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc6c42d9-867a-497b-aba5-49953bcfdbc4">[Job - 31720] Data developer (Python, FICO DMPS e FICO DM (ou Blaze Advisor), Brasil</a></td>
+<td>Brazil</td>
+<td align="center"><a href="https://jobs.lever.co/ciandt/1965d2b9-efd1-4585-907d-4b2e89b8ed6a/apply">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cc1c4785-8078-40ae-a9f3-712be5b8b0ae">[Job - 31856]  Mid Data Developer ( Azure + Databricks ), Brasil</a></td>
 <td>Brazil</td>
 <td align="center"><a href="https://jobs.lever.co/ciandt/9e899fb9-28f5-4ca1-a816-9abb83887acd/apply">Apply</a></td>
@@ -138,13 +187,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5f36610f-480d-427b-ba9a-c8042cb01720">IN_Associate_AI Engineer_GCC_Advisory_Bangalore</a></td>
-<td>Bengaluru Millenia</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate---AWS-Data-Engineer---Data-and-Analytics---Advisory---Bangalore_751159WD-1">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c35370e4-8510-4000-bc35-7a082b3fa69c">IN_Senior Associate_.NET Full Stack Developer_MS Engg_Advisory_Gurgaon</a></td>
 <td>Gurugram Downtown 4</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-Downtown-4/IN-Senior-Associate-Automation-QA-Digital-Integration-Advisory-Kolkata_751870WD">Apply</a></td>
@@ -162,41 +204,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6bbb55e6-b2c5-4865-b8c3-df62c25c3522">QA Developer</a></td>
 <td>Bilbao</td>
 <td align="center"><a href="https://jobs.lever.co/terrahq/7a90e659-bad7-40e0-840f-09dc6eb8b930/apply">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Slice</strong></td>
-<td><a href="https://trueinterview.io/jobs/991dc4f6-4fd0-4605-aadd-104badd8cc45">Salesforce Developer</a> 🌐</td>
-<td>Remote — United Kingdom</td>
-<td align="center"><a href="https://slice.careers/careers-listing?gh_jid=8210978">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Noise Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/7eac6eac-04e2-48da-8fad-3c5192a16971">Quantitive Developer</a></td>
-<td>LDN<br/>UTC+0</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/noise-labs/a5305512-e601-456c-9da4-cb7bbd9f4f9f/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Inter Carreiras</strong></td>
-<td><a href="https://trueinterview.io/jobs/916cddc7-2f39-46cd-9160-5742def75bf8">SOFTWARE DEVELOPER SPECIALIST I</a></td>
-<td>Belo Horizonte, MG<br/>BANCO INTER</td>
-<td align="center"><a href="https://boards.greenhouse.io/inter/jobs/4692289005?gh_jid=4692289005">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Singlestore</strong></td>
-<td><a href="https://trueinterview.io/jobs/c15db5ea-ebe3-4edd-a78f-6df4fd631cfd">Software Engineer</a></td>
-<td>Hyderabad<br/>India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/singlestore/jobs/8212128">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Capco</strong></td>
-<td><a href="https://trueinterview.io/jobs/767d2128-d650-494b-8fd3-5496a8acc235">QA Engineer - COM INGLÊS - Remoto</a></td>
-<td>Brazil - Sao Paulo</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8211836">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**60 open roles.** 51 in the United States & Canada · 9 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**57 open roles.** 49 in the United States & Canada · 8 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -179,13 +179,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Opal Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f0afa3a-0bcf-4727-85c1-b286bd7786d8">GTM Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/opal/2baa9277-32f1-400b-9ba4-aa69e9b19ad6/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Chainguard</strong></td>
 <td><a href="https://trueinterview.io/jobs/f12c9a51-6d8d-40e4-82ec-608eddd3c615">Finance Systems Administrator</a> 🌐</td>
 <td>Remote — United States</td>
@@ -319,13 +312,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Abnormalsecurity</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c598313-b115-4946-8b7b-778798f8c865">Customer Solutions Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://abnormal.ai/careers/jobs/7867456003?gh_jid=7867456003">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Tailscale</strong></td>
 <td><a href="https://trueinterview.io/jobs/6f05c3d4-9d5a-4a7f-825d-71284c1ff9b6">Executive Business Partner, Engineering</a> 🌐</td>
 <td>Remote — United States, Canada</td>
@@ -420,13 +406,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Taipei, Taiwan</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/obsidiansecurity/jobs/5406173008">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Fortinet</strong></td>
-<td><a href="https://trueinterview.io/jobs/5daf3470-2ffb-4970-8168-2c79ee79042d">Inside Systems Engineer - Paris, France</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23956">Apply</a></td>
-<td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Verkada</strong></td>

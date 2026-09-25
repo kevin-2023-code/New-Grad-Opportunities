@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**60 open roles.** 9 in the United States & Canada · 51 elsewhere in the world.
+**59 open roles.** 9 in the United States & Canada · 50 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -315,13 +315,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fundingcircle/e97e0bd0-0c97-42cc-98a7-e74ce6a544d9/application">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Searchable</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d65c5da-227d-474f-9bb9-2aa1cc433ddc">Content and Marketing Designer</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/searchable/adbda07c-10c5-412b-aa10-faf712cd6706/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>

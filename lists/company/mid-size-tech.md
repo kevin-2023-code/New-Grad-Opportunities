@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**95 open roles.** 68 in the United States & Canada · 27 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**93 open roles.** 67 in the United States & Canada · 26 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -305,13 +305,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Trm Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/5eacabc4-3677-4a51-ba7c-f5ff7cf5ea80">Backend Engineer, Agent Tools</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/trm-labs/1eff4d33-7cf1-4682-a548-dcc4abd913f3/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Handshake</strong></td>
 <td><a href="https://trueinterview.io/jobs/dc533b6c-4548-47ee-8db7-351d01b2419b">AI Red Teamer, Cybersecurity</a></td>
 <td>Seattle, WA</td>
@@ -535,13 +528,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>EarnIn</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c76105d-8779-4a82-94bc-5652cb4926d1">Platform Engineer Contractor</a></td>
-<td>Bengaluru, India<br/>Bengaluru/Bangalore, India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/earnin/jobs/8204699">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f8c57bd6-70a1-4c78-85f9-6a882b23c3cb">Developer Experience Contractor</a></td>
 <td>Bengaluru, India<br/>Bengaluru/Bangalore, India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/earnin/jobs/8204726">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**389 open roles.** 277 in the United States & Canada · 112 elsewhere in the world.
+**389 open roles.** 278 in the United States & Canada · 111 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Iambic Therapeutics</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5a50ec8-a79c-4687-b514-5236bd9c106f">Software Engineer I/II - Scientific Computing</a></td>
+<td>Boston Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/iambic-therapeutics/26e58057-83e9-46af-85eb-90142cf3b8ba/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>The Exploration Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/98ede035-441d-4c8e-9384-2ca34c844a11">Software System Engineer</a></td>
+<td>Houston, Texas<br/>California</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/5b351d77-135b-4c9a-a8af-07b93cd6e55f/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Inventium</strong></td>
 <td><a href="https://trueinterview.io/jobs/efaa90d9-daef-439c-8161-5e844c4215cd">C# Software Developer</a></td>
 <td>Springfield, United States</td>
 <td align="center"><a href="https://4dayweek.io/job/c-software-developer-at-inventium-07072361">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Netflix</strong></td>
+<td><a href="https://trueinterview.io/jobs/da73c816-f20e-456a-8026-77be6e31919e">Software Engineer (L6) - Compute Runtime</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317912743">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -169,6 +190,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/751d52e1-7d52-4239-81a8-cd3b3bcc5717">Software Engineer – Oscilloscope &amp; Measurement Solutions</a></td>
 <td>Colorado Springs, Colorado, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54394?lang=en-us">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>QUALCOMM</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b30f3c0-fd42-4bd3-9a85-e166a0e3e155">#Automotive Experience Platform - Engineer</a></td>
+<td>San Diego, CA, US</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446721162864">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -382,13 +410,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Toast, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/97419279-be10-45ff-b686-1aa12d64d821">Software Engineer I, Websites</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8191751">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Cartesia</strong></td>
 <td><a href="https://trueinterview.io/jobs/970f5438-f195-4475-be75-eaebf064d40f">Software Engineer, Product</a></td>
 <td>*HQ - San Francisco, CA</td>
@@ -449,13 +470,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9e3b4740-0aab-4386-9526-434a8718ff5b">Software Engineer, Early Career — Immediate Start</a></td>
 <td>San Francisco, CA<br/>San Francisco, Seattle, New York<br/>Toronto<br/>+1 more</td>
 <td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8212508">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cala Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/5b599651-5187-46d1-9bfd-e5b3911665b3">Software Test Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/calahealth/jobs/6199439004">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -1082,24 +1096,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Amity Foundation</strong></td>
-<td><a href="https://trueinterview.io/jobs/5bd039b0-f40f-44bb-bfb6-79323d89886d">Career Developer - La Entrada</a></td>
-<td>2756 James Wood Blvd, Los Angeles, CA 90006</td>
-<td align="center"><a href="https://jobs.lever.co/amityfdn/948f6e5f-9c85-4dfe-acec-e01752697f9f/apply">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Mthree Recruiting Portal</strong></td>
 <td><a href="https://trueinterview.io/jobs/b0e1b460-a2b5-4b85-a822-67b0773cc465">Junior Java Developer</a></td>
 <td>Halifax, Nova Scotia, Canada<br/>Halifax, NS</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4710618006">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/a24f91a6-becc-4af6-a08d-bbbd233b2442">Software Engineer, New College Grad- Master's (Chandler, AZ)</a></td>
-<td>Chandler, AZ, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318344904">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
@@ -1486,6 +1486,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Yarmouth, Maine, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19668?lang=en-us">Apply</a></td>
 <td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Axle</strong></td>
+<td><a href="https://trueinterview.io/jobs/5dc0398c-e05f-4ed1-b425-8be8fe51f436">Computer Scientist</a></td>
+<td>6116 Executive Blvd, Suite # 400, North Bethesda, MD 20852</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/axle/jobs/5217863007">Apply</a></td>
+<td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Fortinet</strong></td>
@@ -2085,13 +2092,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f651cf23-4c51-45dc-b347-42557aec65ab">software developer</a></td>
 <td>Montréal (QC)</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50335179">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Liburdi</strong></td>
-<td><a href="https://trueinterview.io/jobs/6014be87-76a9-42a9-8d47-a3f349b88179">software developer</a></td>
-<td>Hamilton (ON)</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50335136">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>

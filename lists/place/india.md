@@ -2,7 +2,7 @@
 
 # 🇮🇳 Bengaluru & India
 
-**33 open roles.**
+**32 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -84,13 +84,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>EarnIn</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c76105d-8779-4a82-94bc-5652cb4926d1">Platform Engineer Contractor</a></td>
-<td>Bengaluru, India<br/>Bengaluru/Bangalore, India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/earnin/jobs/8204699">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f8c57bd6-70a1-4c78-85f9-6a882b23c3cb">Developer Experience Contractor</a></td>
 <td>Bengaluru, India<br/>Bengaluru/Bangalore, India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/earnin/jobs/8204726">Apply</a></td>

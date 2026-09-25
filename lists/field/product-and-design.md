@@ -39,6 +39,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Naughty Dog</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a93ab87-ca0f-4fa3-8b0c-b541b24e665e">VFX Artist</a></td>
+<td>United States, Santa Monica, CA<br/>USA-CA-Santa Monica</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/naughtydog/jobs/6207151004">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Vooban</strong></td>
 <td><a href="https://trueinterview.io/jobs/f0d2f9cb-6ceb-4b4d-a9f2-87c897da2cb1">Architecte de solution / Product Owner</a></td>
 <td>Montréal, Quebec, Canada<br/>Québec, Quebec, Canada</td>
@@ -421,13 +428,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/78b53e61-377f-423e-a629-620d482e93a1">Physical Security System Designer</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/vultr/960016f7-70cc-4a0e-850b-d76ec927b1b9/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Tecovas</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d3eec0f-d423-4a1c-8611-daa965faeafa">Junior Designer, Men's Footwear</a></td>
-<td>Austin, TX<br/>Tecovas HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tecovas/jobs/8756968002">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
@@ -814,11 +814,18 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/5bce68a9-c190-4812-b73e-53124c4f18f3">Ex-Commercial Founder / Product Owner</a></td>
-<td>Munich</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/clera/2b979ac5-3996-4d76-9e4a-4d2c0c087740/application">Apply</a></td>
-<td align="center">24 Sep 2026</td>
+<td><strong>Monks</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cfb9a37-c28b-4c3d-94b2-5110220f53bd">Sound Designer</a></td>
+<td>Mexico City</td>
+<td align="center"><a href="https://www.monks.com/careers/6185801004/job?gh_jid=6185801004">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Viabill</strong></td>
+<td><a href="https://trueinterview.io/jobs/2327af7e-6d83-4387-9561-d623012673e5">Product Designer (UI/UX)</a></td>
+<td>Warsaw</td>
+<td align="center"><a href="https://jobs.lever.co/viabill/2f2f7160-1446-432a-a327-f5326dd5ef42/apply">Apply</a></td>
+<td align="center">25 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
@@ -938,13 +945,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London Office</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/tldraw/c52007ee-bac0-4176-a5f0-48fe6e1fe854/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Searchable</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d65c5da-227d-474f-9bb9-2aa1cc433ddc">Content and Marketing Designer</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/searchable/adbda07c-10c5-412b-aa10-faf712cd6706/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Lovable</strong></td>

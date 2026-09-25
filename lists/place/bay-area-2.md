@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**492 open roles.**
+**484 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,48 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Applied Intuition</strong></td>
-<td><a href="https://trueinterview.io/jobs/a67cb1a2-96a0-4cab-b365-384b7d2b7e76">Research Engineer New Grad</a> 🛂</td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application">Apply</a></td>
-<td align="center">15 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Figma</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e0f3232-34ad-455b-8c5b-78292284ba7a">Brand Designer,  Product Launches</a></td>
-<td>San Francisco, CA • New York, NY • United States<br/>Canada</td>
-<td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6131079004?gh_jid=6131079004">Apply</a></td>
-<td align="center">15 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce186936-fe26-43fb-b081-9d5908442428">Software Engineer, Compute Infrastructure</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>London, UK<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/ca300a6d-a2a7-4580-aad7-323fbdfee7b1/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/b99c068f-ce51-4c4a-9423-aee3b50ab42e">IT Support Engineer, Application Administrator</a> 🌐</td>
-<td>Remote — United States<br/>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5390019008">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f29ba1c5-1687-4e7a-a29b-ca89911abfb9">AI Operations Engineer, Partnerships</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5391151008">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Clay Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d5f6c11-55bc-4e6c-8adc-723aaf5285d8">Machine Learning Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/claylabs/d04f47c4-aed6-481d-a093-74c2ae4f3432/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/9304605a-6318-4d2c-be24-d41f0f9e272e">Product Designer, Identity</a></td>
@@ -429,13 +387,6 @@
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Crusoe</strong></td>
-<td><a href="https://trueinterview.io/jobs/5dafab53-daa2-48f0-9e12-d010d52f608b">AV Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/crusoe/fba46650-1906-44a3-9382-193b532e5c23/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Clera</strong></td>
 <td><a href="https://trueinterview.io/jobs/cd92af9c-3015-4f45-98fd-88084bc6baf5">Model Engineer</a></td>
 <td>San Francisco, CA</td>
@@ -580,13 +531,6 @@
 <td><a href="https://trueinterview.io/jobs/7ee29284-7a07-42d3-9ee0-cd08e28030de">Production Test Engineer</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/physicalintelligence/81d1eb25-ada9-40fd-8708-e1e42ecb2b7e/application">Apply</a></td>
-<td align="center">3 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lavendo</strong></td>
-<td><a href="https://trueinterview.io/jobs/5e42d04d-b0ee-495c-81c0-501c8ba2f986">AI Field Engineer, AI infrastructure (Remote - US)</a></td>
-<td>San Mateo<br/>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lavendo/c8917cc4-272f-4eb3-a159-e33fc04cd89d/application">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>

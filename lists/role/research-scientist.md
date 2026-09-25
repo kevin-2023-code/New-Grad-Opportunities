@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**38 open roles.** 35 in the United States & Canada · 3 elsewhere in the world.
+**36 open roles.** 33 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Snorkel AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4c7e164-adc1-4378-b4df-69e8df43e1e3">Research Scientist - Human-AI Systems</a></td>
+<td>San Francisco, CA (Hybrid)<br/>New York City<br/>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/snorkelai/jobs/6208895004">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/673f1e2f-29e6-47b8-9df6-902ae8813a54">Modeling and Simulation Research Scientist, Reality Labs Research</a></td>
@@ -144,13 +151,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/5adca799-0ca6-4f9b-9a29-2b7cc0576a75">Research Scientist, Map Scalability</a></td>
-<td>Mountain View, CA, U.S.A<br/>San Francisco, CA, U.S.A<br/>New York City, NY, U.S.A</td>
-<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8180692">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Institute Of Foundation Models</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4381a8b-01bd-4064-95e8-da654ddc3a79">Research Scientist – World Modeling, Data</a></td>
 <td>Sunnyvale, CA</td>
@@ -193,25 +193,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Scale AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/5bb17107-50d6-4d9d-8b13-4ec24a8ab7ea">Machine Learning Research Scientist, Evaluations</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/scaleai/jobs/4728014005">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Descript</strong></td>
 <td><a href="https://trueinterview.io/jobs/e8bbe70e-0773-4965-9ffb-a71bde202a2d">Applied Research Scientist, AI Research</a></td>
 <td>San Francisco, CA<br/>Hybrid or Remote<br/>Remote</td>
 <td align="center"><a href="https://boards.greenhouse.io/descript/jobs/7967440003?gh_jid=7967440003">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d93fb53-897c-435c-afe1-f54fe69b6ed4">People Research Scientist</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/95151536-2118-431b-b0ee-d0727592e161/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Harmonic</strong></td>

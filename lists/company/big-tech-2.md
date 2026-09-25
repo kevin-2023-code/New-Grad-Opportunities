@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**559 open roles.** 517 in the United States & Canada · 42 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**559 open roles.** 518 in the United States & Canada · 41 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/a640fa83-817b-4cc4-9cf5-73e630110be1">P4 Compiler Engineer - DPU</a></td>
+<td>US, CA, Santa Clara<br/>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/87571?lang=en-us">Apply</a></td>
+<td align="center">27 Aug 2026</td>
+</tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/e34ad22a-6ec8-46ed-87a6-b40f68cbce6f">Resident Engineer, TS/SCI with Poly, Columbia/Fort Meade, MD, Onsite</a></td>
@@ -1090,13 +1097,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>India - Bangalore</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/UI-LMTS---AI-Engineering_JR358412">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Fortinet</strong></td>
-<td><a href="https://trueinterview.io/jobs/5daf3470-2ffb-4970-8168-2c79ee79042d">Inside Systems Engineer - Paris, France</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23956">Apply</a></td>
-<td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Sandisk</strong></td>

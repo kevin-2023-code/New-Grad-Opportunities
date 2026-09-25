@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**221 open roles.** 187 in the United States & Canada · 34 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**223 open roles.** 187 in the United States & Canada · 36 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Snorkel AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4c7e164-adc1-4378-b4df-69e8df43e1e3">Research Scientist - Human-AI Systems</a></td>
+<td>San Francisco, CA (Hybrid)<br/>New York City<br/>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/snorkelai/jobs/6208895004">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e43080b-53d2-4408-9ca7-4b99f9d332a8">Dedicated Support Engineer - Toronto</a> 🌐</td>
+<td>Remote — Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/295464f1-7d48-468f-afe2-87f9075b7a20/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>C3.ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/b401218c-c3b5-418f-969e-5595bffdd51c">Product Designer</a></td>
@@ -690,13 +704,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Scale AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/5bb17107-50d6-4d9d-8b13-4ec24a8ab7ea">Machine Learning Research Scientist, Evaluations</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/scaleai/jobs/4728014005">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/7f7308d4-57f6-4e9a-a15e-754e10d28c00">Operating Systems Engineer | Consumer Devices</a></td>
 <td>San Francisco, CA</td>
@@ -737,13 +744,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA<br/>Hybrid or Remote<br/>Remote</td>
 <td align="center"><a href="https://boards.greenhouse.io/descript/jobs/7967440003?gh_jid=7967440003">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d93fb53-897c-435c-afe1-f54fe69b6ed4">People Research Scientist</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/95151536-2118-431b-b0ee-d0727592e161/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Anthropic</strong></td>
@@ -1104,6 +1104,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5b92294f-f2ff-4f28-9f88-e0d44b93e79c">AI Tutor - Kannada</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207529007">Apply</a></td>
+<td align="center">7 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2f058df2-658a-444d-934e-2c46169841e2">AI Tutor - Hausa</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207427007">Apply</a></td>
@@ -1212,13 +1219,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f50afff8-4e74-42df-9a80-961b68851152">Software Engineer</a></td>
 <td>San Francisco, CA<br/>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cognition/e8086415-62bc-4cc0-96a4-84bb56182d35/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Crusoe</strong></td>
-<td><a href="https://trueinterview.io/jobs/5dafab53-daa2-48f0-9e12-d010d52f608b">AV Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/crusoe/fba46650-1906-44a3-9382-193b532e5c23/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
@@ -1340,6 +1340,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a0b5d55-6c82-4aa8-8696-19925c9f6855">Dedicated Support Engineer - Singapore</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/85feb543-f234-4db3-9d9c-a6fb195ddc19/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0df62237-4184-4567-b903-cd358cdff00d">Dedicated Support Engineer - Tokyo</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/73728d6c-8d8d-4aed-86c6-c2e73d9efec9/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/835f46fc-11e8-4219-bd6f-0901bce807ae">Applied AI Engineer, Government, International</a></td>
 <td>London, UK</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/6c01266f-6ddb-42d1-a529-84736ae8587a/application">Apply</a></td>

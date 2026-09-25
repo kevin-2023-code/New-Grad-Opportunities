@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**65 open roles.** 43 in the United States & Canada · 22 elsewhere in the world.
+**66 open roles.** 43 in the United States & Canada · 23 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -330,6 +330,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Squads</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa90bc69-8b05-4aac-9f99-0244f3b21cfd">Security Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/squads/73a2c6df-234e-4d82-8977-67530c2be3eb/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Manulife</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1fca626-3e07-475f-b397-d56ca185e02f">Application Security Engineer - Penetration Testing Quality Assurance</a></td>

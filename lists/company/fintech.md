@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**78 open roles.** 48 in the United States & Canada · 30 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**76 open roles.** 47 in the United States & Canada · 29 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Toast, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/d524733c-53e2-4e06-94e2-66ab4f3c81eb">Retail Solutions Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8211318">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Robinhood</strong></td>
 <td><a href="https://trueinterview.io/jobs/fdf8bc5a-771b-49d9-bca1-75355739ea19">Quality Engineer</a></td>
@@ -64,13 +71,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/53f0585b-4f60-4cd7-858e-39542b7ba868">Full-Stack Engineer (Backend)</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://jobs.lever.co/lendbuzz/a19330a3-380a-45ad-b388-c98c33ef0db3/apply">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Toast, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/97419279-be10-45ff-b686-1aa12d64d821">Software Engineer I, Websites</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8191751">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -242,13 +242,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Trm Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/5eacabc4-3677-4a51-ba7c-f5ff7cf5ea80">Backend Engineer, Agent Tools</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/trm-labs/1eff4d33-7cf1-4682-a548-dcc4abd913f3/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Parafin</strong></td>
 <td><a href="https://trueinterview.io/jobs/7179f8fb-20b4-4ef6-bf5c-7a80c16bd7e2">Partner Engineer, Scaled Support</a></td>
 <td>San Francisco, CA</td>
@@ -395,13 +388,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>EarnIn</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c76105d-8779-4a82-94bc-5652cb4926d1">Platform Engineer Contractor</a></td>
-<td>Bengaluru, India<br/>Bengaluru/Bangalore, India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/earnin/jobs/8204699">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f8c57bd6-70a1-4c78-85f9-6a882b23c3cb">Developer Experience Contractor</a></td>
 <td>Bengaluru, India<br/>Bengaluru/Bangalore, India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/earnin/jobs/8204726">Apply</a></td>

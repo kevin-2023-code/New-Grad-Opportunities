@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,334 open roles.** 1,025 in the United States & Canada · 309 elsewhere in the world.
+**1,324 open roles.** 1,020 in the United States & Canada · 304 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Palo Alto Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2abf24f-358c-4ca6-adbe-713385ebf8b4">Transformation Success Engineer</a></td>
+<td>Boston, MA<br/>Atlanta, GA<br/>Chicago, IL<br/>+12 more</td>
+<td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/New-York-City-United-States-of-America/Transformation-Success-Engineer_JR-019947">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Parsons Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a00fd4c-555e-45ec-ada5-c74f7f26a81f">Forensic Software Developer</a></td>
+<td>Quantico, United States</td>
+<td align="center"><a href="https://4dayweek.io/job/forensic-software-developer-at-parsons-corporation-23f59297">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a7f5448e-422d-4ae6-bc79-37f96280ac84">Software Developer</a></td>
+<td>Quantico, United States</td>
+<td align="center"><a href="https://4dayweek.io/job/software-developer-at-parsons-corporation-689a88cf">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sona</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cd4efad-c427-4451-860f-076dea4b3228">Solutions Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://4dayweek.io/job/solutions-engineer-at-sona-6df0c96f">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/845fcd5d-27de-4fdc-a47f-2e35fb446217">Entry Level Assistant Transmission Line Engineer</a></td>
+<td>Overland Park, KS, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95109">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Roshal Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/77f66f82-f11d-46c7-b833-0995db99aaa5">Ultrasound Technologist - PRN - Buda, TX</a></td>
@@ -779,13 +814,6 @@
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Zoox</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f1dfd94-ddf7-4466-a913-cc2ddc51eed1">Software Engineer - Collision Avoidance System Metrics</a></td>
-<td>Boston, MA<br/>Foster City, CA<br/>San Diego, CA</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/d5d0608a-aa33-43c3-abe2-5ff8b40028d5/apply">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Self Financial</strong></td>
 <td><a href="https://trueinterview.io/jobs/b927e39e-f72b-4740-a503-4a2bff050528">Associate Software Engineer (UI)</a></td>
 <td>Austin, TX<br/>Hybrid</td>
@@ -842,13 +870,6 @@
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Amity Foundation</strong></td>
-<td><a href="https://trueinterview.io/jobs/5bd039b0-f40f-44bb-bfb6-79323d89886d">Career Developer - La Entrada</a></td>
-<td>2756 James Wood Blvd, Los Angeles, CA 90006</td>
-<td align="center"><a href="https://jobs.lever.co/amityfdn/948f6e5f-9c85-4dfe-acec-e01752697f9f/apply">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Zoox</strong></td>
 <td><a href="https://trueinterview.io/jobs/838d204b-8b8a-4f58-a488-ae23fcd719f8">Diagnostics Serviceability Engineer</a></td>
 <td>Foster City, CA</td>
@@ -874,13 +895,6 @@
 <td><a href="https://trueinterview.io/jobs/79e35c1b-1dcf-4745-b017-07195f65c531">Audio-Visual Operations Engineer</a></td>
 <td>US, CA, San Jose<br/>San Jose, California, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91631?lang=en-us">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/a24f91a6-becc-4af6-a08d-bbbd233b2442">Software Engineer, New College Grad- Master's (Chandler, AZ)</a></td>
-<td>Chandler, AZ, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318344904">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
@@ -966,13 +980,6 @@
 <td>US – Remote and Hybrid</td>
 <td align="center"><a href="https://forms.gle/tZwq7j2Ldwcas1wb7">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Opal Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f0afa3a-0bcf-4727-85c1-b286bd7786d8">GTM Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/opal/2baa9277-32f1-400b-9ba4-aa69e9b19ad6/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Alertmedia</strong></td>
@@ -1962,13 +1969,6 @@
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Trm Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/5eacabc4-3677-4a51-ba7c-f5ff7cf5ea80">Backend Engineer, Agent Tools</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/trm-labs/1eff4d33-7cf1-4682-a548-dcc4abd913f3/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Lm Studio</strong></td>
 <td><a href="https://trueinterview.io/jobs/c3dcd47e-cb88-4621-b984-3f8f6f96007a">Full Stack Software Engineer</a></td>
 <td>New York City</td>
@@ -2340,13 +2340,6 @@
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a618693-125c-4f5f-9caf-7f213e93bc8c">AMS Verification Engineer (RFIC Engineering)</a></td>
-<td>Redmond, WA<br/>Irvine, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8742211002?gh_jid=8742211002">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/974fd1f4-5d25-4c0c-809e-b2e1543d4e0f">AI Security Engineer</a></td>
 <td>Austin, TX<br/>Santa Clara, CA, United States of America</td>
@@ -2659,6 +2652,13 @@
 <td><a href="https://trueinterview.io/jobs/795d6bc8-c873-4cf5-a270-67f36b791ce4">Application Engineer</a></td>
 <td>Golden, CO 80401</td>
 <td align="center"><a href="https://jobs.lever.co/sunsrce/52e86685-28b2-44f6-82ee-e1bf50db37ee/apply">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Axle</strong></td>
+<td><a href="https://trueinterview.io/jobs/5dc0398c-e05f-4ed1-b425-8be8fe51f436">Computer Scientist</a></td>
+<td>6116 Executive Blvd, Suite # 400, North Bethesda, MD 20852</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/axle/jobs/5217863007">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>

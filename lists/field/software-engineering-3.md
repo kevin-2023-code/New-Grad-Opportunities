@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,334 open roles.** 1,025 in the United States & Canada · 309 elsewhere in the world.
+**1,324 open roles.** 1,020 in the United States & Canada · 304 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -391,13 +391,6 @@
 <td><a href="https://trueinterview.io/jobs/d6138eb7-1f67-4697-bbba-f9f58f3c6517">New Graduate Engineer, GNC- '26/'27 (Starlink)</a></td>
 <td>Redmond, WA<br/>Bastrop, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Abnormalsecurity</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c598313-b115-4946-8b7b-778798f8c865">Customer Solutions Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://abnormal.ai/careers/jobs/7867456003?gh_jid=7867456003">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>
@@ -814,13 +807,6 @@
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Gti Fabrication</strong></td>
-<td><a href="https://trueinterview.io/jobs/5b9695c7-f05a-47a7-8b26-a51713263138">Mechanical Design Engineer</a></td>
-<td>Tempe, AZ</td>
-<td align="center"><a href="https://jobs.lever.co/gtifabrication/ae952e8d-a962-4e3a-a2c8-0d9252d1996e/apply">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>ElevenLabs</strong></td>
 <td><a href="https://trueinterview.io/jobs/8aafcc6a-f5a7-4e20-b9cf-728070c1b8ea">Enterprise Solutions Engineer - Canada</a></td>
 <td>Toronto, ON<br/>Canada</td>
@@ -1031,13 +1017,6 @@
 <td align="center">7 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Sandisk</strong></td>
-<td><a href="https://trueinterview.io/jobs/5ea154b3-054c-4879-b279-fa4e82576616">System Design Engineer - Memory System</a></td>
-<td>Milpitas, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Sandisk/744000142015139-system-design-engineer-memory-system-?oga=true">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/0f9bb965-fede-409c-b1ba-dfb2cca77342">Software Engineer, Silicon Design Methodology</a></td>
 <td>San Francisco, CA</td>
@@ -1192,13 +1171,6 @@
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Crusoe</strong></td>
-<td><a href="https://trueinterview.io/jobs/5dafab53-daa2-48f0-9e12-d010d52f608b">AV Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/crusoe/fba46650-1906-44a3-9382-193b532e5c23/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Altalink</strong></td>
 <td><a href="https://trueinterview.io/jobs/9535ad1d-e5fd-4ca2-bac6-55e8bab7584c">Telecom Lifecycle Engineer</a></td>
 <td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
@@ -1210,13 +1182,6 @@
 <td><a href="https://trueinterview.io/jobs/cd92af9c-3015-4f45-98fd-88084bc6baf5">Model Engineer</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/clera/842059ef-1c9f-4abc-b5b0-48408315b3f7/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/5b542108-0b85-47e8-8764-3f993b92b3f5">Early Career Traffic Engineer</a></td>
-<td>Morristown, NJ, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92708">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
@@ -1603,6 +1568,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Squads</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa90bc69-8b05-4aac-9f99-0244f3b21cfd">Security Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/squads/73a2c6df-234e-4d82-8977-67530c2be3eb/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/42004ab9-6ebc-46f3-9f82-7998b5820fb1">Mainframe SCM Infrastructure Engineer</a></td>
+<td>Buenos Aires, Argentina</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794992">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a0b5d55-6c82-4aa8-8696-19925c9f6855">Dedicated Support Engineer - Singapore</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/85feb543-f234-4db3-9d9c-a6fb195ddc19/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Bullet Trade Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/898e28a6-5551-47fb-9b1a-1f1d0a872275">software developer</a></td>
 <td>Guelph (ON)</td>
@@ -1897,13 +1883,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Liburdi</strong></td>
-<td><a href="https://trueinterview.io/jobs/6014be87-76a9-42a9-8d47-a3f349b88179">software developer</a></td>
-<td>Hamilton (ON)</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50335136">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>CASA Mental Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/a0cd078e-ec31-40aa-9828-956393648806">software developer</a></td>
 <td>Edmonton (AB)</td>
@@ -2150,13 +2129,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>EarnIn</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c76105d-8779-4a82-94bc-5652cb4926d1">Platform Engineer Contractor</a></td>
-<td>Bengaluru, India<br/>Bengaluru/Bangalore, India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/earnin/jobs/8204699">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f8c57bd6-70a1-4c78-85f9-6a882b23c3cb">Developer Experience Contractor</a></td>
 <td>Bengaluru, India<br/>Bengaluru/Bangalore, India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/earnin/jobs/8204726">Apply</a></td>
@@ -2492,13 +2464,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Improbable</strong></td>
-<td><a href="https://trueinterview.io/jobs/5dd7b999-87b8-4167-96c3-66b459e0d979">Product Engineer - Bolter</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/improbable/f5e52200-8498-4f73-bbcb-5452a34dfa82/application">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Reonic</strong></td>
 <td><a href="https://trueinterview.io/jobs/3921b778-3db0-4339-b56b-80e34b22911c">Venture Development - New Products UK Market (AI x Greentech) (m/f/d)</a></td>
 <td>Berlin</td>
@@ -2622,13 +2587,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6b9b4cbd-15ee-4e6b-83b7-e17722cbd78f">Engineer - Wet Utilities</a></td>
 <td>Noida, Uttar Pradesh, India</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94324">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Buildkite</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f22aca7-4d49-4bb8-b9b0-cbba319d3c6a">DevOps Support Engineer</a></td>
-<td>United Kingdom, Ireland or Poland<br/>Europe</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/buildkite/jobs/5415605008">Apply</a></td>
 <td align="center">7 Sep 2026</td>
 </tr>
 <tr>
@@ -2825,6 +2783,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b06d32f8-1945-4b90-b579-b3e161a7fbb0">Software Engineer - Full Stack</a></td>
 <td>Pune, India</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---Full-Stack_R-289575">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/df7eee05-c6c7-4564-a593-2b25322aa17a">Software Engineer - Java Spring Boot</a></td>
+<td>Pune, India</td>
+<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289581">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/87e149ef-58e8-484c-be62-50e54bc0b0e7">Developer Relations Engineer - Ecosystem &amp; Product Operations</a></td>
+<td>Penang, Malaysia</td>
+<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Developer-Relations-Engineer---Ecosystem---Product-Operations_R65242">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Natera</strong></td>
+<td><a href="https://trueinterview.io/jobs/62c9c972-b9a1-40d2-9eca-78ac5e358523">Natera / L3 Software Engineer / Full-Time / Remote, USA / 140 - 160k USD / Genomics Tech /</a></td>
+<td>Full-Time</td>
+<td align="center"><a href="https://natera.com/">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>PayPal</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f5e024c-78a6-4132-bbf1-d5de69a034f4">Systems Engineer</a></td>
+<td>Tokyo, Tokyo Prefecture, Japan</td>
+<td align="center"><a href="https://paypal.wd1.myworkdayjobs.com/jobs/job/Tokyo-Tokyo-Prefecture-Japan/Systems-Engineer_R0137490">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sticker Mule</strong></td>
+<td><a href="https://trueinterview.io/jobs/46a930c8-49c3-4bdc-930a-411b11575468">Software engineer</a></td>
+<td>—</td>
+<td align="center"><a href="https://nodesk.co/remote-jobs/sticker-mule-software-engineer/">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Thomson Reuters</strong></td>
+<td><a href="https://trueinterview.io/jobs/e5d18c17-18c5-46b7-8518-2912fe68ce34">Junior Web Developer</a></td>
+<td>India Bengaluru Karnataka</td>
+<td align="center"><a href="https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Junior-Web-Developer_JREQ203099-1">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 </tbody>

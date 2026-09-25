@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**46 open roles.** 36 in the United States & Canada · 10 elsewhere in the world.
+**45 open roles.** 35 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -261,13 +261,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Huntington Beach, CA</td>
 <td align="center"><a href="https://jobs.lever.co/layup/024d2772-e251-4cdf-9b12-0cd919390b8e/apply">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Brain Co.</strong></td>
-<td><a href="https://trueinterview.io/jobs/5b5c87a2-7209-4ced-a4a8-657567cf472f">Machine Learning Engineer, Platform</a></td>
-<td>San Francisco Bay Area<br/>New York City, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/brainco/936df0bf-e4dc-46bb-bb48-b1efcc3cce80/application">Apply</a></td>
-<td align="center">3 Aug 2026</td>
 </tr>
 </tbody>
 </table>

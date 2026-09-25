@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**32 open roles.**
+**31 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -107,13 +107,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Morrisville, NC</td>
 <td align="center"><a href="https://jobs.lever.co/cwsc/6bf8347d-5fef-4460-a79e-c32aa9089498/apply">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/6029b957-52a4-427b-aab8-d0f459573159">Product Quality Engineer</a></td>
-<td>Morrisville, North Carolina, United States<br/>Raleigh, NC</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5225891007?gh_jid=5225891007">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>

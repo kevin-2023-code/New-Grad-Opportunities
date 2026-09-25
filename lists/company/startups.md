@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**169 open roles.** 120 in the United States & Canada · 49 elsewhere in the world. Early-stage technology companies.
+**167 open roles.** 119 in the United States & Canada · 48 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -345,13 +345,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Waterloo, ON</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50224637">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Opal Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f0afa3a-0bcf-4727-85c1-b286bd7786d8">GTM Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/opal/2baa9277-32f1-400b-9ba4-aa69e9b19ad6/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Sift Stack, Inc</strong></td>
@@ -952,13 +945,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>México</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydropx/4eaa4745-9f7b-46df-9e41-b3cad560ba11/application">Apply</a></td>
 <td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Buildkite</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f22aca7-4d49-4bb8-b9b0-cbba319d3c6a">DevOps Support Engineer</a></td>
-<td>United Kingdom, Ireland or Poland<br/>Europe</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/buildkite/jobs/5415605008">Apply</a></td>
-<td align="center">7 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Higgsfield</strong></td>

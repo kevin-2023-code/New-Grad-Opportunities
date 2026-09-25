@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**125 open roles.** 82 in the United States & Canada · 43 elsewhere in the world.
+**123 open roles.** 81 in the United States & Canada · 42 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/d83d7952-08d3-4b4d-ad48-0921f63d2a8e">AI Solutions Engineer (NPI Function)</a></td>
+<td>Ann Arbor, MI, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-Solutions-Engineer--NPI-Function-_2641335-1">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Block Llp</strong></td>
 <td><a href="https://trueinterview.io/jobs/acab789a-1667-48ae-ad01-ee09b92fc942">AI Developer</a></td>
@@ -247,13 +254,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Dearborn, MI, United States</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67529">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/6b8d6120-b59e-4844-a2d1-b2410b405abc">Software Engineer, GenAI Frameworks</a></td>
-<td>Bellevue, WA<br/>New York, NY<br/>Menlo Park, CA, US</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1521526709883215/">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>AbbVie</strong></td>
@@ -550,13 +550,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Lavendo</strong></td>
-<td><a href="https://trueinterview.io/jobs/5e42d04d-b0ee-495c-81c0-501c8ba2f986">AI Field Engineer, AI infrastructure (Remote - US)</a></td>
-<td>New York, NY<br/>San Mateo</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lavendo/c8917cc4-272f-4eb3-a159-e33fc04cd89d/application">Apply</a></td>
-<td align="center">3 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/4809f06f-55ae-4ebe-9e8b-f273d0a94ef0">AI/ML Silicon Verification Solutions Engineer – Tools</a></td>
 <td>US, CA, San Jose<br/>San Jose, California, United States</td>
@@ -644,13 +637,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Noida</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Noida/IN-Senior-Associate-GenAI-and-Agentic-AI-Engineer-GCC-Advisory-Bangalore_738966WD">Apply</a></td>
 <td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5f36610f-480d-427b-ba9a-c8042cb01720">IN_Associate_AI Engineer_GCC_Advisory_Bangalore</a></td>
-<td>Bengaluru Millenia</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate---AWS-Data-Engineer---Data-and-Analytics---Advisory---Bangalore_751159WD-1">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Loora</strong></td>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,334 open roles.** 1,025 in the United States & Canada · 309 elsewhere in the world.
+**1,324 open roles.** 1,020 in the United States & Canada · 304 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,48 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Mastercard</strong></td>
-<td><a href="https://trueinterview.io/jobs/df7eee05-c6c7-4564-a593-2b25322aa17a">Software Engineer - Java Spring Boot</a></td>
-<td>Pune, India</td>
-<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289581">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/87e149ef-58e8-484c-be62-50e54bc0b0e7">Developer Relations Engineer - Ecosystem &amp; Product Operations</a></td>
-<td>Penang, Malaysia</td>
-<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Developer-Relations-Engineer---Ecosystem---Product-Operations_R65242">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Natera</strong></td>
-<td><a href="https://trueinterview.io/jobs/62c9c972-b9a1-40d2-9eca-78ac5e358523">Natera / L3 Software Engineer / Full-Time / Remote, USA / 140 - 160k USD / Genomics Tech /</a></td>
-<td>Full-Time</td>
-<td align="center"><a href="https://natera.com/">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PayPal</strong></td>
-<td><a href="https://trueinterview.io/jobs/9f5e024c-78a6-4132-bbf1-d5de69a034f4">Systems Engineer</a></td>
-<td>Tokyo, Tokyo Prefecture, Japan</td>
-<td align="center"><a href="https://paypal.wd1.myworkdayjobs.com/jobs/job/Tokyo-Tokyo-Prefecture-Japan/Systems-Engineer_R0137490">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sticker Mule</strong></td>
-<td><a href="https://trueinterview.io/jobs/46a930c8-49c3-4bdc-930a-411b11575468">Software engineer</a></td>
-<td>—</td>
-<td align="center"><a href="https://nodesk.co/remote-jobs/sticker-mule-software-engineer/">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Thomson Reuters</strong></td>
-<td><a href="https://trueinterview.io/jobs/e5d18c17-18c5-46b7-8518-2912fe68ce34">Junior Web Developer</a></td>
-<td>India Bengaluru Karnataka</td>
-<td align="center"><a href="https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Junior-Web-Developer_JREQ203099-1">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Experian</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c67176a-12a3-4b39-b469-e7b84b1aca63">Software Engineer I</a></td>
@@ -113,13 +71,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/bec4d139-9187-43f5-83c6-e5f12764e83f">Junior Software Engineer</a></td>
 <td>San Diego</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Havocai</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d61ad32-260d-4d4d-95c3-d3fba507a4ba">Rapid Prototyping Engineer – Drones &amp; Unmanned Systems</a></td>
-<td>San Diego</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/havocai/e51defa3-e41b-4f6c-bfe3-4d89e694004f/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
@@ -242,13 +193,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Fortinet</strong></td>
-<td><a href="https://trueinterview.io/jobs/5daf3470-2ffb-4970-8168-2c79ee79042d">Inside Systems Engineer - Paris, France</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23956">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>The City Of Fort Worth</strong></td>
 <td><a href="https://trueinterview.io/jobs/9953b42c-bb08-4dc4-ad44-1c1814dcc13f">Professional Engineer - Infrastructure Plan Review</a></td>
 <td>Development Services<br/>City Hall</td>
@@ -296,13 +240,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Luxembourg</td>
 <td align="center"><a href="https://jobs.lever.co/ispace-inc/060929ab-26a0-4d04-a6df-d3d141c0b627/apply">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c6e8e93-1306-436d-a25d-e165b6331a69">Steering Program Control Engineer</a></td>
-<td>Naucalpan de Juarez, MEX, Mexico</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69135">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Graphcore</strong></td>
@@ -876,13 +813,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8bc6a045-7f57-4964-baba-c3f03b05dc75">Java Back End Developer</a></td>
 <td>Argentina</td>
 <td align="center"><a href="https://jobs.lever.co/muttdata/573cc5e4-985d-4b68-9f18-d35c30b946ef/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/5ffc311a-a291-4151-8197-c2cd0c421b0a">Field Application Engineer - Fixed term - Part-time - Hokkaido (copy)</a></td>
-<td>Hokkaido</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/56da4b01-aec7-4217-909a-3d08007c1401/apply">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>

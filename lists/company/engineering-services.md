@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**67 open roles.** 57 in the United States & Canada · 10 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**67 open roles.** 58 in the United States & Canada · 9 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ae3a740-7848-430a-b382-68a71e2f3468">Entry-Level Roadway Engineer</a></td>
+<td>Oklahoma City, OK</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5412422008">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/c0603841-a23b-4f63-8709-8ae8e836b4db">Early Career Electrical Engineer (Mission Critical/Data Center)</a></td>
@@ -483,13 +490,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5394796008">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Geostabilization International</strong></td>
-<td><a href="https://trueinterview.io/jobs/5e98432e-bd3a-4a6a-91e6-164f55416349">IT System Administrator</a></td>
-<td>Westminster. CO<br/>Soil-Nail Holdings</td>
-<td align="center"><a href="https://www.geostabilization.com/why-gsi/careers/?gh_jid=4364226009">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Egis Group</strong></td>

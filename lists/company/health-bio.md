@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**58 open roles.** 45 in the United States & Canada · 13 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**59 open roles.** 46 in the United States & Canada · 13 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Neuralink</strong></td>
+<td><a href="https://trueinterview.io/jobs/ed6ba189-4117-4be9-acfc-600ff28f34cd">Robotics Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>South San Francisco, California, United States<br/>+2 more</td>
+<td align="center"><a href="https://boards.greenhouse.io/neuralink/jobs/8005705003?gh_jid=8005705003">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Simonmed</strong></td>
+<td><a href="https://trueinterview.io/jobs/dcb34318-8df9-411c-a347-f01e6b241fd6">X-Ray Technologist/CT Positioning</a></td>
+<td>Arizona<br/>6185 Paseo Del Norte, Carlsbad, CA 92011</td>
+<td align="center"><a href="https://jobs.lever.co/simonmed/039720b2-11ba-4758-bfbb-a85040f02089/apply">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Iambic Therapeutics</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5a50ec8-a79c-4687-b514-5236bd9c106f">Software Engineer I/II - Scientific Computing</a></td>
+<td>Boston Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/iambic-therapeutics/26e58057-83e9-46af-85eb-90142cf3b8ba/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Smile Digital Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/cd9ef017-eae8-4c94-ac15-fa7be3df7030">Cloud Security Engineer</a> 🌐</td>
 <td>Remote — United States</td>
@@ -30,13 +51,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United States</td>
 <td align="center"><a href="https://jobs.lever.co/smiledigitalhealth/71536f5b-b6a4-4a43-8240-1498ee351e6c/apply">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cala Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/5b599651-5187-46d1-9bfd-e5b3911665b3">Software Test Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/calahealth/jobs/6199439004">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Ro</strong></td>
@@ -295,13 +309,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cffa4584-ecbe-4805-8af6-537c5b4847f9">Software Engineer, Application Integration</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/bayesianhealth/f3d96335-cfb0-4bc5-9109-5925516da5d1/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d05266c-8550-4b99-a558-80d02e180855">Data Engineer, PDS&amp;T CMC</a></td>
-<td>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014548004-data-engineer-pds-t-cmc?oga=true">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>

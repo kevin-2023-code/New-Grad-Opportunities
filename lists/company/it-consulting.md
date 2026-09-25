@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**153 open roles.** 78 in the United States & Canada · 75 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**153 open roles.** 79 in the United States & Canada · 74 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Anavation</strong></td>
+<td><a href="https://trueinterview.io/jobs/72c37d2e-3ab7-4122-9299-0dd87f057a58">Test Engineer</a></td>
+<td>Huntsville, AL</td>
+<td align="center"><a href="https://jobs.lever.co/anavationllc/c1e8ade7-96f7-465d-9313-4759dc70f7f7/apply">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/680c685c-ba1b-4794-9038-c296bb85b4fd">Data Engineer</a></td>
+<td>Huntsville, AL</td>
+<td align="center"><a href="https://jobs.lever.co/anavationllc/7a6bbee7-06ee-47cc-adfe-fcaf182adf41/apply">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Agile Defense</strong></td>
 <td><a href="https://trueinterview.io/jobs/caa40f9f-8009-491a-9fe6-e94e411c035f">Endpoint Systems Administrator</a></td>
@@ -106,13 +120,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e4dfe03d-0288-471d-9b1b-926bca84ff4e">Database Engineer - Forward Deployed</a></td>
 <td>Colombia<br/>Costa Rica<br/>Mexico<br/>+6 more</td>
 <td align="center"><a href="https://moduscreate.com/careers/7998661003?gh_jid=7998661003">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intelligent Technical Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c5de886-3d7d-4174-bda8-bf2434aec599">System Admin I Onsite (Dallas, TX)</a></td>
-<td>Dallas, Texas<br/>Onsite</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/its/jobs/7990780003">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -720,13 +727,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/72d9713c-eda9-4bc6-b6b9-917ca123693a">Full Stack Developer</a></td>
 <td>3 Locations</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Toronto/Full-Stack-Developer_761839WD">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5f36610f-480d-427b-ba9a-c8042cb01720">IN_Associate_AI Engineer_GCC_Advisory_Bangalore</a></td>
-<td>Bengaluru Millenia</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate---AWS-Data-Engineer---Data-and-Analytics---Advisory---Bangalore_751159WD-1">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>

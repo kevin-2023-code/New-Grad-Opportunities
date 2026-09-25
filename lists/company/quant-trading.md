@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**20 open roles.** 18 in the United States & Canada · 2 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**19 open roles.** 17 in the United States & Canada · 2 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,13 +43,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8a0f4bdd-aa2a-429d-884f-06070f8c1285">Site Reliability Engineer</a></td>
 <td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8209331">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5b24f340-0a90-45af-95a9-e6cf0af10263">Forward Deployed Engineer</a></td>
-<td>New York, NY<br/>New York, New York, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8209327">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

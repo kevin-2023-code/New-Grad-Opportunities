@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**37 open roles.** 17 in the United States & Canada · 20 elsewhere in the world.
+**36 open roles.** 17 in the United States & Canada · 19 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -231,13 +231,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Belo Horizonte, MG<br/>BANCO INTER</td>
 <td align="center"><a href="https://boards.greenhouse.io/inter/jobs/4729998005?gh_jid=4729998005">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Agent</strong></td>
-<td><a href="https://trueinterview.io/jobs/5dcb5d37-f769-4bdc-96c4-e834321584f1">Product Data Analyst (Academic Background)</a></td>
-<td>Mexico<br/>Brazil<br/>Colombia<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/agent/232e0bca-2618-4aec-be56-28e265adefc6/application">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>

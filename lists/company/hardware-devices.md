@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**176 open roles.** 157 in the United States & Canada · 19 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**173 open roles.** 154 in the United States & Canada · 19 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -114,13 +114,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Spring, Texas, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Platform-System-Hardware-Engineer---Customer-Solutions-Engineering_1213922-2">Apply</a></td>
 <td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Western Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/5cc2515c-25bb-4a5c-88d3-7d42803b6b53">Wet Process Engineer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000150773089-wet-process-engineer?oga=true">Apply</a></td>
-<td align="center">21 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Ciena</strong></td>
@@ -480,13 +473,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/999e25a4-3791-449c-9140-c42d70a62638">Solution Engineer - NAS</a></td>
-<td>US-CA-Santa Clara-Bldg 2-Keysi<br/>Santa Clara, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/53884?lang=en-us">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Samsung</strong></td>
 <td><a href="https://trueinterview.io/jobs/8c2fd977-3546-418c-8995-6a48a5067cea">UX Analyst</a></td>
 <td>3245 146th Place SE, Bellevue, WA, USA, United States of America</td>
@@ -691,13 +677,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/39dfaa06-672c-4857-b897-475a61e19660">Component Engineering Technician</a></td>
-<td>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19715?lang=en-us">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1e6c2290-8865-4200-983e-cb60a58b1556">Product Support Specialist - Automotive</a></td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19875?lang=en-us">Apply</a></td>

@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Anavation</strong></td>
+<td><a href="https://trueinterview.io/jobs/680c685c-ba1b-4794-9038-c296bb85b4fd">Data Engineer</a></td>
+<td>Huntsville, AL</td>
+<td align="center"><a href="https://jobs.lever.co/anavationllc/7a6bbee7-06ee-47cc-adfe-fcaf182adf41/apply">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Vitol Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/99b33d5e-39b9-47cc-bbae-b011c104d252">Data Engineer</a></td>
 <td>Houston, TX, United States</td>
@@ -296,13 +303,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Henrico, VA, US<br/>Mesa, AZ, US<br/>Temple, TX, US<br/>+12 more</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1626919348826835/">Apply</a></td>
 <td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d05266c-8550-4b99-a558-80d02e180855">Data Engineer, PDS&amp;T CMC</a></td>
-<td>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014548004-data-engineer-pds-t-cmc?oga=true">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Ford Motor Company</strong></td>

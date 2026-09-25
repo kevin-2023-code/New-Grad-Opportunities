@@ -2,7 +2,7 @@
 
 # 🏛️ Government, research & non-profits
 
-**16 open roles.** 6 in the United States & Canada · 10 elsewhere in the world. Agencies, national laboratories, universities, research institutes and charities.
+**15 open roles.** 5 in the United States & Canada · 10 elsewhere in the world. Agencies, national laboratories, universities, research institutes and charities.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,13 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://jobs.lever.co/ifm-us/de4b2f67-785f-4181-a43e-634ba4b32f21/apply">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amity Foundation</strong></td>
-<td><a href="https://trueinterview.io/jobs/5bd039b0-f40f-44bb-bfb6-79323d89886d">Career Developer - La Entrada</a></td>
-<td>2756 James Wood Blvd, Los Angeles, CA 90006</td>
-<td align="center"><a href="https://jobs.lever.co/amityfdn/948f6e5f-9c85-4dfe-acec-e01752697f9f/apply">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Eames Institute</strong></td>

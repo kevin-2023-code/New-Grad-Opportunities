@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**93 open roles.** 57 in the United States & Canada · 36 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**92 open roles.** 57 in the United States & Canada · 35 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -476,13 +476,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote — United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/developer-relations-engineer-at-storyblok-9c36c4c3">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Buildkite</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f22aca7-4d49-4bb8-b9b0-cbba319d3c6a">DevOps Support Engineer</a></td>
-<td>United Kingdom, Ireland or Poland<br/>Europe</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/buildkite/jobs/5415605008">Apply</a></td>
-<td align="center">7 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>SonarSource</strong></td>
