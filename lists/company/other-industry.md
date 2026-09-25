@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**73 open roles.** 44 in the United States & Canada · 29 elsewhere in the world. A real classification that none of the other sectors covers.
+**70 open roles.** 41 in the United States & Canada · 29 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -165,13 +165,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Michels Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/4957a925-a41f-4730-a84e-f06a9faab876">Geotechnical Engineer I</a></td>
-<td>Salt Lake City, UT<br/>Milwaukee, WI<br/>Renton, WA</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4963669101">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Hasbro</strong></td>
 <td><a href="https://trueinterview.io/jobs/f498cb18-fb10-4dab-a77a-9bbb82835c57">Game Designer</a></td>
 <td>United States</td>
@@ -291,13 +284,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Trove Brands</strong></td>
-<td><a href="https://trueinterview.io/jobs/500e5c7a-d5cc-4e43-9472-a4ec22c42d0c">Jr Business Systems Operations Engineer</a></td>
-<td>Lehi, UT<br/>Trove Brands</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/trovebrands/jobs/4358122009">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Top Hat</strong></td>
 <td><a href="https://trueinterview.io/jobs/87363ca8-3e3d-4431-9ddc-a9fb7c53ffa2">Junior Analytics Engineer</a></td>
 <td>Canada</td>
@@ -309,13 +295,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7cc37419-5d93-4cf1-ac12-a169f2df5eaa">Systems Engineer I</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://jobs.lever.co/lessen/3f81dd73-db0a-4f18-8375-2f141d41fb5d/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Crumbl Cookies</strong></td>
-<td><a href="https://trueinterview.io/jobs/4aa65928-7c8b-4cbf-b01b-c54fe8c3470f">Recipe Instruction Designer</a></td>
-<td>Provo, UT</td>
-<td align="center"><a href="https://jobs.lever.co/crumbl/9e2448ee-49e5-48cc-89d6-6f1de7fb7e08/apply">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>
@@ -338,6 +317,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Monks</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a9db71d-fc44-4d1a-8d0a-af1333af1010">Visual QA</a></td>
+<td>Buenos Aires<br/>Mexico</td>
+<td align="center"><a href="https://www.monks.com/careers/6207952004/job?gh_jid=6207952004">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>IXL Learning</strong></td>
 <td><a href="https://trueinterview.io/jobs/bb4e7f72-2a89-4079-89af-4ea3aff2fc46">IT Support &amp; Operations Specialist</a></td>
 <td>London, England</td>
@@ -350,13 +336,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Buenos Aires<br/>Argentina</td>
 <td align="center"><a href="https://www.monks.com/careers/6150073004/job?gh_jid=6150073004">Apply</a></td>
 <td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4b00652a-9a96-4d96-b2ef-990f0b953ff7">AI Artist / Multimedia Designer</a></td>
-<td>Mexico City<br/>Argentina</td>
-<td align="center"><a href="https://www.monks.com/careers/6180167004/job?gh_jid=6180167004">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Pansophic Learning</strong></td>

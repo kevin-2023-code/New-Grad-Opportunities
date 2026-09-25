@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**97 open roles.** 82 in the United States & Canada · 15 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**96 open roles.** 81 in the United States & Canada · 15 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -555,13 +555,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, WA<br/>Boston, MA<br/>Foster City, CA<br/>+1 more</td>
 <td align="center"><a href="https://jobs.lever.co/zoox/896f37b9-80b7-4077-a937-e499151ce5f2/apply">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Torc Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/504991dd-f9d6-46c5-ac5c-814f944850e2">Systems Engineer – AD-Kit Components</a></td>
-<td>Ann Arbor, MI</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/torcrobotics/jobs/8656295002">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Waabi</strong></td>

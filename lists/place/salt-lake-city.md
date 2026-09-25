@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**15 open roles.**
+**12 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -53,13 +53,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Michels Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/4957a925-a41f-4730-a84e-f06a9faab876">Geotechnical Engineer I</a></td>
-<td>Salt Lake City, UT<br/>Milwaukee, WI<br/>Renton, WA</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4963669101">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Pure Storage</strong></td>
 <td><a href="https://trueinterview.io/jobs/b28e47b5-edc9-4d36-9015-1e5dba94ec14">Associate Systems Engineer</a></td>
 <td>Salt Lake City, Utah<br/>Chicago, Illinois<br/>Raleigh, North Carolina<br/>+3 more</td>
@@ -102,25 +95,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Trove Brands</strong></td>
-<td><a href="https://trueinterview.io/jobs/500e5c7a-d5cc-4e43-9472-a4ec22c42d0c">Jr Business Systems Operations Engineer</a></td>
-<td>Lehi, UT<br/>Trove Brands</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/trovebrands/jobs/4358122009">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Goldman Sachs</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c13cb650-7632-4156-b705-9a59c581b9c4">Risk-Dallas-Associate-Software Engineering</a></td>
 <td>Salt Lake City, UT, United States<br/>Dallas, TX, United States</td>
 <td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180914">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Crumbl Cookies</strong></td>
-<td><a href="https://trueinterview.io/jobs/4aa65928-7c8b-4cbf-b01b-c54fe8c3470f">Recipe Instruction Designer</a></td>
-<td>Provo, UT</td>
-<td align="center"><a href="https://jobs.lever.co/crumbl/9e2448ee-49e5-48cc-89d6-6f1de7fb7e08/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>
