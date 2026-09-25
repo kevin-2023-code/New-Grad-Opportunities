@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**50 open roles.**
+**48 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -209,13 +209,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Delinea</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a14dd32-34ee-4ca2-a6a3-f02a33f76a0a">Data Governance Analyst</a></td>
-<td>Mexico City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/delinea/25be396e-9b1f-47e7-8f2c-9260b80bcb0c/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Assetwatch, Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e3f10e3-cb32-4cad-aad0-8e2ccba69848">Condition Monitoring Engineer</a></td>
 <td>Monterrey, Mexico<br/>Mexico City, Mexico</td>
@@ -227,13 +220,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2c02f8ad-ab77-48b2-a073-b82fff1fc0bf">Analista Técnico Pleno - Geotecnia</a></td>
 <td>São Paulo, SP, Brazil</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000146070889-analista-tecnico-pleno-geotecnia?oga=true">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fortinet</strong></td>
-<td><a href="https://trueinterview.io/jobs/3b3bf525-5868-4792-9ebb-e975dee4068b">Consulting Systems Engineer</a></td>
-<td>São Paulo, SP, Brazil<br/>Ecuador<br/>Peru</td>
-<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23907">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>

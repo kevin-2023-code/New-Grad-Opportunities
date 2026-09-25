@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**106 open roles.** 79 in the United States & Canada · 27 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**105 open roles.** 78 in the United States & Canada · 27 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -393,13 +393,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9b890225-a11b-40f5-9d17-f5c9daadf09e">Workflow + Process Designer (AI Enablement)</a></td>
 <td>San Francisco, California</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/notion/c799f1f0-0e7b-4eac-98ce-44223130f2b0/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Celigo</strong></td>
-<td><a href="https://trueinterview.io/jobs/3beef70f-6249-40b7-b43e-e04b82ff7216">Design Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/celigo/jobs/8134859">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>

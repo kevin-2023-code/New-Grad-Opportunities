@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Tubitv</strong></td>
+<td><a href="https://trueinterview.io/jobs/562c025c-bc29-4b81-877c-743c1b2dc568">Data Scientist</a></td>
+<td>San Francisco, CA (Hybrid)<br/>San Francisco (HQ)</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tubitv/jobs/8232190">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/85d8090d-fe62-4689-b71b-1a08b5ce9e46">Data Scientist New College Grad- Bachelor's/Master's (Austin, TX)</a></td>
 <td>Austin, TX</td>
@@ -204,13 +211,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/54b27f2e-8cfa-48a4-a51d-e88264a5ebec">Data Scientist</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/95224ad6-1fd3-4cd1-8d84-30535f645e72/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a94089a-38c1-42c0-80cf-14facb08a61c">Data Scientist, B2B Demand Generation, Growth &amp; Measurement</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/7f299784-2c75-4d73-99e5-1e5043ec7b48/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**42 open roles.** 38 in the United States & Canada · 4 elsewhere in the world.
+**40 open roles.** 37 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -271,13 +271,6 @@ Machine Learning for Monetization (PhD)</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/39faf9c2-7c28-4bdf-9b09-418747ca7f29">Research Engineer, Post-Training</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cognition/72d3db28-07d3-4c28-b49f-1bdf6e8e0f10/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Slingshot Ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/a309366c-8906-48af-bdac-9861975b3721">Postdoctoral Clinical Research Scientist</a></td>
 <td>New York, NY</td>
@@ -304,14 +297,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Sardine</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a16ea57-d9e4-462b-bf3b-4b7f89375ca5">Applied AI Research Scientist</a></td>
-<td>North America</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sardine/44cf5225-547a-4584-a271-c0c6ddc7b0b6/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Iambic Therapeutics</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9a3f8a1b-b3af-4379-8a86-f7dd7275d8c1">Research Scientist I/II, Bioanalytical Sciences &amp; Assay Development</a></td>
 <td>San Diego HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/iambic-therapeutics/4a04c67c-1be5-4109-8f9f-b3e8dd818e37/application">Apply</a></td>

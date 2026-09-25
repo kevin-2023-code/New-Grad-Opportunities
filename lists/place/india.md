@@ -2,7 +2,7 @@
 
 # 🇮🇳 Bengaluru & India
 
-**32 open roles.**
+**34 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -31,6 +31,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e2f6614c-8efb-498d-a94e-754a7a180416">IN_Senior Associate_.Net Fullstack Developer_GCC_Advisory_Hyderabad</a></td>
 <td>Hyderabad - Salarpuria</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-QA-Automation-GCC-Advisory-Bangalore_737063WD-1">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sun Life</strong></td>
+<td><a href="https://trueinterview.io/jobs/992d9b35-e6fe-430b-879b-c6c023ada236">ETL Informatica Developer</a></td>
+<td>Gurugram, Haryana</td>
+<td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/ETL-Informatica-Developer_JR00127325">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -228,6 +235,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bengaluru, India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8721151002">Apply</a></td>
 <td align="center">17 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>E.l.f. Beauty</strong></td>
+<td><a href="https://trueinterview.io/jobs/392b2a2f-2a78-4bd2-b884-1de506973c4f">Specialist, SAP Master Data</a> 🌐</td>
+<td>Remote — India<br/>Ahmedabad, Gujarat</td>
+<td align="center"><a href="https://jobs.lever.co/elfbeauty/dad746e1-24e5-4205-aef3-478231f62b6f/apply">Apply</a></td>
+<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Anaplan</strong></td>

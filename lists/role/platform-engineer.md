@@ -2,7 +2,7 @@
 
 # Platform Engineer
 
-**39 open roles.** 28 in the United States & Canada · 11 elsewhere in the world.
+**38 open roles.** 28 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -266,13 +266,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>South Africa</td>
 <td align="center"><a href="https://jobs.lever.co/assist-world/f69ee6d3-1318-449f-830f-cd7f6b1280ea/apply">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Owner.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/3891e55c-cad9-49df-ab6c-ae4edf5592bd">Data Platform Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/owner/cc6453a3-6cfe-4a4a-9bab-9dd170cb8c6c/application">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Wpp</strong></td>
