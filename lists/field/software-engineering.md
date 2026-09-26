@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,316 open roles.** 1,014 in the United States & Canada · 302 elsewhere in the world.
+**1,294 open roles.** 993 in the United States & Canada · 301 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,7 +22,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Splunk</strong></td>
 <td><a href="https://trueinterview.io/jobs/7dbb3009-76af-4c28-b630-ae5b4ccc6051">Solutions Engineer</a></td>
-<td>Washington, DC<br/>Washington, District of Columbia, United States of America</td>
+<td>Washington, DC<br/>Washington, District of Columbia, United States of America<br/>Washington, District of Columbia, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Washington-District-of-Columbia-US/Solutions-Engineer_2026120-1">Apply</a></td>
 <td align="center">26 Sep 2026</td>
 </tr>
@@ -199,13 +199,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/90e33f94-5777-4c1f-b37b-3723ef213cf6">Software Engineering L5, Open Connect Platform</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790318653296">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tokyo Electron</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9bbecaf-0341-465a-8eb0-73678330634f">Software Development Engineer I</a></td>
-<td>Chaska, United States of America</td>
-<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Software-Development-Engineer-I_R26-01558">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -1175,13 +1168,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6745c330-1df6-4580-a11a-8f52f8aaf0e8">New College Grad - Films, Metals, and Implant MDE Shift Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44544640">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>QUALCOMM</strong></td>
 <td><a href="https://trueinterview.io/jobs/e1275f8f-9b8c-4705-b87e-5e89387625de">#Backend Software Engineer</a></td>
 <td>San Diego, CA, US</td>
@@ -1452,13 +1438,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fc7b3718-37f4-4881-9a1e-77be5d6e59c3">International Expat: Systems Engineering &amp; Integration Engineer</a></td>
 <td>International Expat<br/>US - Irvine, Laguna Canyon</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/supernal/jobs/7997813003">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/66756f70-55d0-49f1-bbef-e36750d37166">Structural Technologist / Inspector, Bridges &amp; Civil Structures</a></td>
-<td>Ottawa, ON, Canada</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94553">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -1820,13 +1799,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/82ab4155-768c-4aa6-8d74-cffab0314ad9">System Software Engineer</a></td>
-<td>US, Arizona, Phoenix, United States of America<br/>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/System-Software-Engineer_JR0285033">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7c926fc2-8953-4e90-bed7-4dcaf54e0243">Yield Development Engineer</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Yield-Development-Engineer_JR0285677">Apply</a></td>
@@ -1851,13 +1823,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e541f50c-32e1-4077-931c-2a88c3bf7880">Integrated Photonic Test Engineer - Acacia (Hybrid)</a></td>
 <td>Holmdel, New Jersey, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Holmdel-New-Jersey-US/Integrated-Photonic-Test-Engineer---Acacia--Hybrid-_2023812">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/67cad3c6-6429-425a-8971-47664d8c76a4">OpenStack Platform Engineer</a></td>
-<td>RTP, North Carolina, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/OpenStack-Platform-Engineer_2024061">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -2036,13 +2001,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/643c4c5d-2891-4a00-8585-68a81555179d">System Mechanical &amp; Integration Engineer</a></td>
-<td>US, MA, Wilmington, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/System-Mechanical---Integration-Engineer_R264128">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Kairos Power</strong></td>
 <td><a href="https://trueinterview.io/jobs/8bba2e56-6964-47dd-a457-8b295e0912ad">Systems Engineer</a> 🌐</td>
 <td>Remote — United States</td>
@@ -2075,13 +2033,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b9cb3e83-040b-41fe-a500-410935e4579e">Mfg Systems Software Development Engineer</a></td>
 <td>US, Oregon, Hillsboro, United States of America<br/>US, Arizona, Phoenix</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Mfg-Systems-Software-Development-Engineer_JR0287195-1">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5deec33-14f3-49f2-a9e7-848a70cd68c2">Product Install Engineer - Instruments Division - Extensive 90%+ Travel required</a></td>
-<td>Chandler, AZ, United States of America<br/>Boise, ID<br/>Hillsboro, OR</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Product-Install-Engineer---Instruments-Division---Extensive-90---Travel-required_2638744">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -2243,13 +2194,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/89c495f8-b4e0-47b0-951c-1307ddcda91d">Automation Engineer, General</a></td>
 <td>Costa Mesa, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5239028007?gh_jid=5239028007">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OnePay</strong></td>
-<td><a href="https://trueinterview.io/jobs/66224993-f855-4142-a766-ae6368de5e32">Design Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/oneapp/b7ae2b9b-0f31-468d-9ac8-395536da8beb/application">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
@@ -2509,13 +2453,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/406ba9ca-09ad-47ab-9408-a9d51152be94">Software Engineer, Early Career, Campus</a></td>
 <td>Mountain View, CA<br/>Cambridge, MA, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NetApp</strong></td>
-<td><a href="https://trueinterview.io/jobs/653ac5b1-9e68-4c4b-adf1-c221f8154a65">Entry Level Software Engineer - ANF (Azure NetApp Files)</a></td>
-<td>San Jose, California, United States</td>
-<td align="center"><a href="https://careers.netapp.com/job/san-jose/entry-level-software-engineer-anf-azure-netapp-files/27600/97615964496">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
@@ -2818,6 +2755,69 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, California, Santa Clara, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Design-Verification-Engineer_JR0286860">Apply</a></td>
 <td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d94e9c38-3197-4e1c-845e-86e4c539c7d6">Software Development Engineer</a></td>
+<td>US, California, Folsom, United States of America<br/>US, Oregon, Hillsboro<br/>US, California, Santa Clara<br/>+1 more</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Software-Development-Engineer_JR0282484">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/a49609e6-05e3-40ba-825d-fee567fd6b55">Fab Equipment Engineer</a></td>
+<td>Manassas, VA, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43301356">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ca151cff-db73-4aa6-a170-2a5cb3e20155">Fab Support Continuous Improvement Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44415892">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d16c398-50dd-495d-b182-f6078dbd32ae">Android Software Engineer</a></td>
+<td>Plantation, FL</td>
+<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Software-Engineer_R62561">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Palo Alto Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2abf24f-358c-4ca6-adbe-713385ebf8b4">Transformation Success Engineer</a></td>
+<td>Boston, MA<br/>Atlanta, GA<br/>Chicago, IL<br/>+12 more</td>
+<td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/New-York-City-United-States-of-America/Transformation-Success-Engineer_JR-019947">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Parsons Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a00fd4c-555e-45ec-ada5-c74f7f26a81f">Forensic Software Developer</a></td>
+<td>Quantico, United States</td>
+<td align="center"><a href="https://4dayweek.io/job/forensic-software-developer-at-parsons-corporation-23f59297">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a7f5448e-422d-4ae6-bc79-37f96280ac84">Software Developer</a></td>
+<td>Quantico, United States</td>
+<td align="center"><a href="https://4dayweek.io/job/software-developer-at-parsons-corporation-689a88cf">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sona</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cd4efad-c427-4451-860f-076dea4b3228">Solutions Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://4dayweek.io/job/solutions-engineer-at-sona-6df0c96f">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/845fcd5d-27de-4fdc-a47f-2e35fb446217">Entry Level Assistant Transmission Line Engineer</a></td>
+<td>Overland Park, KS, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95109">Apply</a></td>
+<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>

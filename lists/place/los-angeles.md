@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**140 open roles.**
+**139 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -884,13 +884,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Los Angeles, CA (On-site)<br/>Headquarters</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826615003">Apply</a></td>
 <td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hadrian Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/662eef2f-ee85-44fd-a6a8-67c1d5c015d1">ML Platform Engineer</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/18edaac7-95af-4fb6-b25c-b7000911167d/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>

@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**55 open roles.** 47 in the United States & Canada · 8 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**54 open roles.** 46 in the United States & Canada · 8 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -57,6 +57,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8ba44915-bf44-4dc1-a69f-d3708c2fc08f">Software Engineer</a></td>
 <td>Office - USA - CA - Headquarters, United States of America</td>
 <td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011497">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/679bbf3b-1049-4cf0-9c2d-475dd5c22c31">Sr. Machine Learning Engineer</a></td>
+<td>Office - USA - CA - Headquarters, United States of America</td>
+<td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Sr-Machine-Learning-Engineer_JR-013400">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -214,13 +221,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Oneleet</strong></td>
-<td><a href="https://trueinterview.io/jobs/64441219-f339-4102-a8a2-1d76084a8cbf">GTM Engineer - Data &amp; Attribution</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/oneleet/6febf32a-f037-4bb0-b350-cb7fa9bb8cd3/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Rubrik</strong></td>
 <td><a href="https://trueinterview.io/jobs/6f520fb7-88d2-40c1-bc2c-b345ac1ef2eb">Sales Engineering Transformation Specialist - AI Enablement</a> 🌐</td>
 <td>Remote — United States</td>
@@ -268,13 +268,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/1password/d8e8cf3f-c994-43a7-854c-86849b95db41/application">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fortreum</strong></td>
-<td><a href="https://trueinterview.io/jobs/63ef572b-3e83-47d7-a634-132312899c92">DevSecOps Engineer</a></td>
-<td>Reston, VA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fortreum/5a3dd031-c107-4ecc-b4dd-50d92e806f04/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Beyondtrust</strong></td>

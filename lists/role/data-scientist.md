@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**41 open roles.** 27 in the United States & Canada · 14 elsewhere in the world.
+**42 open roles.** 27 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -231,6 +231,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>2 Locations</td>
 <td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Data-Scientist_JR00128241">Apply</a></td>
 <td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Isometric</strong></td>
+<td><a href="https://trueinterview.io/jobs/6478999c-6e08-452d-8707-fe202c344a5c">Geospatial Data Analyst (contractor)</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/isometric/4c429294-d580-4c4a-a6f4-27b0b06d21a0/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Ebanx</strong></td>

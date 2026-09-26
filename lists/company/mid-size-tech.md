@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**92 open roles.** 66 in the United States & Canada · 26 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**93 open roles.** 66 in the United States & Canada · 27 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/53f0585b-4f60-4cd7-858e-39542b7ba868">Full-Stack Engineer (Backend)</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://jobs.lever.co/lendbuzz/a19330a3-380a-45ad-b388-c98c33ef0db3/apply">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/6772ec4a-c41c-4ea7-b9f3-3a63b41aa65b">Field Service Engineer - Orlando</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8214452/apply/?gh_jid=8214452">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -285,13 +292,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Domino Data Lab</strong></td>
-<td><a href="https://trueinterview.io/jobs/66c60f46-b2fa-4c58-b5fc-affbe80daeea">Solutions Engineer, Life Sciences</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://app.careerpuck.com/job-board/domino-data-lab/job/8163381?gh_jid=8163381">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/868e6f50-d34d-4b7c-bc12-3d2324c069da">Forward Deployed Engineer, Public Sector</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/domino-data-lab/job/8160818?gh_jid=8160818">Apply</a></td>
@@ -491,6 +491,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CircleCI</strong></td>
+<td><a href="https://trueinterview.io/jobs/68123578-fc36-4754-b33c-f3c602026bb2">Strategic Account Executive, EMEA</a> 🌐</td>
+<td>Remote — United Kingdom</td>
+<td align="center"><a href="http://www.circleci.com/careers/jobs/8784501002/?gh_jid=8784501002">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Aera Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/2ec3549b-9f2f-47fe-a759-d09f65577e0e">Sustaining Engineer – Modeling Support</a></td>

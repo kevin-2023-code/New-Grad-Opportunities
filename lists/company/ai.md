@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**225 open roles.** 189 in the United States & Canada · 36 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**220 open roles.** 184 in the United States & Canada · 36 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -355,13 +355,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/66a3fd26-b50a-4d1c-807e-2a44168677d9">Partner Applied AI Engineer</a></td>
-<td>San Francisco, CA<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/552396f4-dc83-43de-9230-6301e5f461bd/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ed3231ce-65c9-450f-abc5-482285f8f423">Mechanical Engineer, Dynamometer and Actuator Testing Infrastructure</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/2b87bb06-ba33-4cab-b950-0df12ca85dcf/application">Apply</a></td>
@@ -725,13 +718,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/67b24b1a-9c07-4a7b-a116-d34e692735cc">Product Designer, Core Apps</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>New York City, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5392054008">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>CoreWeave</strong></td>
 <td><a href="https://trueinterview.io/jobs/84f2004e-094f-4494-9c16-f18d134e2d50">Production Engineer, Support Tooling (Tooling and Frameworks)</a></td>
 <td>Bellevue, WA</td>
@@ -788,14 +774,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Tensorwave</strong></td>
-<td><a href="https://trueinterview.io/jobs/67e26c04-c87f-404e-ace1-b0fb61e412d6">Technical Support Engineer</a></td>
-<td>Las Vegas, Nevada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/tensorwave/305a39c8-39fe-4c9e-9eda-9526b28b25f5/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bb8ae630-1328-48d7-9bc4-7d30d590506e">Software Engineer, Model Runtime</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96/application">Apply</a></td>
@@ -858,25 +837,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Lila Sciences</strong></td>
-<td><a href="https://trueinterview.io/jobs/65a519cb-9266-4376-9be4-77061584f22f">Research Scientist I/II, Computational Organic Electronics</a></td>
-<td>Cambridge, MA USA<br/>Alewife, Cambridge, MA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4376824009">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Llamaindex</strong></td>
 <td><a href="https://trueinterview.io/jobs/ad7bbf89-fabb-46af-86bc-91d3b640b57d">Developer Evangelist, Growth</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/llamaindex/ee009847-6f1d-42f5-ab9f-805072f7a3e9/application">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/6613b323-7f86-430a-b9bb-668c97ba2c30">Product Manufacturing Engineer - PCBA</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/8a86b02b-6063-4124-863f-7e41e9849e22/application">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Cresta</strong></td>

@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**71 open roles.** 46 in the United States & Canada · 25 elsewhere in the world.
+**70 open roles.** 45 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Anavation</strong></td>
-<td><a href="https://trueinterview.io/jobs/680c685c-ba1b-4794-9038-c296bb85b4fd">Data Engineer</a></td>
-<td>Huntsville, AL</td>
-<td align="center"><a href="https://jobs.lever.co/anavationllc/7a6bbee7-06ee-47cc-adfe-fcaf182adf41/apply">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Vitol Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/99b33d5e-39b9-47cc-bbae-b011c104d252">Data Engineer</a></td>

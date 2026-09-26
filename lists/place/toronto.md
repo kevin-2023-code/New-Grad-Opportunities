@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**64 open roles.**
+**62 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -158,13 +158,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/66756f70-55d0-49f1-bbef-e36750d37166">Structural Technologist / Inspector, Bridges &amp; Civil Structures</a></td>
-<td>Ottawa, ON, Canada</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94553">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Cohere</strong></td>
 <td><a href="https://trueinterview.io/jobs/b6e5df89-091b-4c27-b9f3-5ab981d15e7a">Software Engineer, Security</a></td>
 <td>Toronto, ON<br/>San Francisco, CA<br/>New York, NY<br/>+2 more</td>
@@ -295,13 +288,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/915c1fb5-8cf7-497e-b132-7ef43297515e">cloud developer</a></td>
 <td>Waterloo, ON</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50224637">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>TMX Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/67cdacf6-897d-4b3b-b892-8f3a7c5599fb">Cloud Security Engineer</a></td>
-<td>Toronto - 100 Adelaide St W</td>
-<td align="center"><a href="https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Cloud-Security-Engineer_R-6440">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>

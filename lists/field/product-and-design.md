@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**151 open roles.** 113 in the United States & Canada · 38 elsewhere in the world.
+**149 open roles.** 111 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Arc'teryx</strong></td>
-<td><a href="https://trueinterview.io/jobs/67cd45de-14d5-46d3-a413-87cb839d8a50">Designer 1 – Men’s Run</a></td>
-<td>North Vancouver, BC (Corporate)</td>
-<td align="center"><a href="https://jobs.lever.co/arcteryx.com/24687960-9489-449b-989c-68be6139fe5b/apply">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>C3.ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/b401218c-c3b5-418f-969e-5595bffdd51c">Product Designer</a></td>
@@ -477,13 +470,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/904ab390-5244-4e72-8d0b-86b801127e77">NPI TPM, Product Engineering</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/95281a44-f8d5-43c2-92c2-e5f311634bd6/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/67b24b1a-9c07-4a7b-a116-d34e692735cc">Product Designer, Core Apps</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>New York City, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5392054008">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>

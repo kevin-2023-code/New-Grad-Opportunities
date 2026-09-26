@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**110 open roles.**
+**107 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,13 +43,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/46ab33ee-e3b3-4c0a-afd4-5bb9d040db0d">Machine Learning Engineer, 2027 Graduate U.S.</a></td>
 <td>Seattle - United States - Seattle, Washington United States</td>
 <td align="center"><a href="https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job?mode=apply">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/673f1e2f-29e6-47b8-9df6-902ae8813a54">Modeling and Simulation Research Scientist, Reality Labs Research</a></td>
-<td>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1138304848625338/">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -438,13 +431,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/67b24b1a-9c07-4a7b-a116-d34e692735cc">Product Designer, Core Apps</a></td>
-<td>Seattle, WA<br/>San Francisco, CA<br/>New York City, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5392054008">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Hasbro</strong></td>
 <td><a href="https://trueinterview.io/jobs/9df142fa-4f2d-49a0-8982-8fc1391d7107">Associate Product Development Manager, D&amp;D Softlines</a></td>
 <td>Renton, Washington, United States</td>
@@ -642,13 +628,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/6582075c-80a7-43dc-a2d0-b073bdf64899">Antenna Engineer - Parabolic &amp; Waveguide (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8692102002?gh_jid=8692102002">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a8f57374-2ca9-4794-809a-363a5fb9b9c0">Antenna Engineer, Satellites (Starlink)</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8692241002?gh_jid=8692241002">Apply</a></td>

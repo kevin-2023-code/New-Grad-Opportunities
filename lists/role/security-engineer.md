@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**65 open roles.** 42 in the United States & Canada · 23 elsewhere in the world.
+**63 open roles.** 41 in the United States & Canada · 22 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -121,13 +121,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/9068a6c7-6278-4aa3-a968-ffc0e2a2a636/application">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>TMX Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/67cdacf6-897d-4b3b-b892-8f3a7c5599fb">Cloud Security Engineer</a></td>
-<td>Toronto - 100 Adelaide St W</td>
-<td align="center"><a href="https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Cloud-Security-Engineer_R-6440">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>
@@ -434,13 +427,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Taipei, Taiwan</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/obsidiansecurity/jobs/5406173008">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Brave</strong></td>
-<td><a href="https://trueinterview.io/jobs/64e0b0f7-034e-4894-9257-d2aa57e9e3c2">AI Security Researcher/Research Engineer</a></td>
-<td>London, England<br/>Brave London</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/brave/jobs/8165845">Apply</a></td>
-<td align="center">29 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Avertium</strong></td>

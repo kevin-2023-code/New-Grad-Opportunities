@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**46 open roles.** 36 in the United States & Canada · 10 elsewhere in the world.
+**47 open roles.** 37 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,6 +86,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA<br/>Austin, TX<br/>El Segundo, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/gallatin/0be59879-c60a-4c7d-8d8d-cf5205871ef2/application">Apply</a></td>
 <td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Palo Alto Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/679bbf3b-1049-4cf0-9c2d-475dd5c22c31">Sr. Machine Learning Engineer</a></td>
+<td>Office - USA - CA - Headquarters, United States of America</td>
+<td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Sr-Machine-Learning-Engineer_JR-013400">Apply</a></td>
+<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>KLA</strong></td>

@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**324 open roles.** 319 in the United States & Canada · 5 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**315 open roles.** 311 in the United States & Canada · 4 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -85,13 +85,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b9353725-99cc-49b6-9769-d481375a0320">Product Development Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44665102">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tokyo Electron</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9bbecaf-0341-465a-8eb0-73678330634f">Software Development Engineer I</a></td>
-<td>Chaska, United States of America</td>
-<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Software-Development-Engineer-I_R26-01558">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -495,13 +488,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/65f6f896-9fbc-442f-a32c-5b3a944ebf46">Semiconductor Maintenance Technician - Photo</a></td>
-<td>Chandler (Manufacturing), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Photo_R-10066616">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9a51d0bf-3f78-40b9-a871-493c919e60db">Semiconductor Maintenance Technician – Etch/Metals</a></td>
 <td>Chandler (Manufacturing), United States of America</td>
 <td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Etch-Metals_R-10063543-1">Apply</a></td>
@@ -712,13 +698,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a20239f6-c83f-404c-8be7-6e8305c62c97">Manufacturing Engineer</a></td>
-<td>US, Oregon, Hillsboro, United States of America<br/>US, New Mexico, Albuquerque, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Manufacturing-Engineer_JR0285042">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ae225c54-b03b-4e9c-bd98-b78468e8b9f5">Module Development Engineer - CMP</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Development-Engineer---CMP_JR0285584">Apply</a></td>
@@ -750,13 +729,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7c2cfdbb-ff8d-4e12-9638-4df65d3fb207">Packaging Module Equipment Development Engineer</a></td>
 <td>US, Arizona, Phoenix, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Module-Equipment-Development-Engineer_JR0286445">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/82ab4155-768c-4aa6-8d74-cffab0314ad9">System Software Engineer</a></td>
-<td>US, Arizona, Phoenix, United States of America<br/>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/System-Software-Engineer_JR0285033">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -803,13 +775,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/63ee19f6-cb7e-4abc-8766-2f4ed5f858cf">Diff/Wet Process Engineering Technician (Nights)</a></td>
-<td>US, OR, Beaverton, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Diff-Wet-Process-Engineering-Technician--Nights-_R264347">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b87960c0-a021-473c-a332-20b737874012">Integration Engineer</a></td>
 <td>US, OR, Beaverton, United States of America</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Integration-Engineer_R264224">Apply</a></td>
@@ -827,13 +792,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3362f4b4-e8a3-44ef-bf0e-b8de4d4706b3">Product Engineer / Design Evaluation</a></td>
 <td>US, MA, Wilmington, United States of America</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer---RF-System_R263805">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/643c4c5d-2891-4a00-8585-68a81555179d">System Mechanical &amp; Integration Engineer</a></td>
-<td>US, MA, Wilmington, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/System-Mechanical---Integration-Engineer_R264128">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -869,13 +827,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a1df5c67-9b00-4300-97df-c209b9897db9">Neuromorphic/AI Research Scientist</a></td>
 <td>US, California, Santa Clara, United States of America<br/>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Neuromorphic-AI-Research-Scientist_JR0284193">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5deec33-14f3-49f2-a9e7-848a70cd68c2">Product Install Engineer - Instruments Division - Extensive 90%+ Travel required</a></td>
-<td>Chandler, AZ, United States of America<br/>Boise, ID<br/>Hillsboro, OR</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Product-Install-Engineer---Instruments-Division---Extensive-90---Travel-required_2638744">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -1614,13 +1565,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/651bdad1-8322-4171-a355-8335fd76b7b0">Working Student - Mechanical Engineering Lab (f/m/div)</a></td>
-<td>Warstein, NRW, DE</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971902247">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/996b8214-feb0-4070-8b7f-64549370af1c">Device Characterization Engineer, Advanced &amp; Emerging Memory</a></td>
 <td>Boise, ID, US</td>
@@ -2267,13 +2211,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c5b64780-779b-478e-8e2d-6f0d2d340c97">Developer Technology Engineer, Energy</a></td>
 <td>6 Locations</td>
 <td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineer--Energy_JR2018521">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/64ae528a-1309-4060-b0aa-e516c4424d3f">Networking QA and Automation Engineer, Network Systems</a></td>
-<td>3 Locations</td>
-<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Networking-QA-and-Automation-Engineer--Network-Systems_JR2025751">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>

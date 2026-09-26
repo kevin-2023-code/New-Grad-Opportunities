@@ -2,7 +2,7 @@
 
 # 🇦🇺 Sydney, Melbourne & Aotearoa
 
-**17 open roles.**
+**16 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -126,13 +126,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/674c96e5-4c2f-4a24-9f86-7c3b6d2e13b0">Manufacturing Engineer - Nightshift</a></td>
-<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7825201003">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d1be0c92-802d-41cd-9854-1a7f7da62319">Manufacturing Engineer</a></td>
 <td>Auckland, NZ<br/>Auckland Production Complex Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7825132003">Apply</a></td>

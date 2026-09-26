@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**75 open roles.** 46 in the United States & Canada · 29 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**73 open roles.** 44 in the United States & Canada · 29 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -106,13 +106,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7e7b2bc3-0621-4093-8488-28c33e703610">Quantitative Researcher</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/polymarket/a8f161f3-2126-4888-aa6e-74e23ae49686/application">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OnePay</strong></td>
-<td><a href="https://trueinterview.io/jobs/66224993-f855-4142-a766-ae6368de5e32">Design Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/oneapp/b7ae2b9b-0f31-468d-9ac8-395536da8beb/application">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
@@ -232,13 +225,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/faab4dce-a404-44c9-9439-4e871d3c67c7">Integrations Operations Engineer</a></td>
 <td>San Francisco HQ<br/>New York City Office</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/plaid/f3d63f67-d689-469b-b6fc-e88301496ee3/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ramp</strong></td>
-<td><a href="https://trueinterview.io/jobs/68271837-7588-4553-a540-2adbc915ee3b">TLM, Production Engineering</a> 🌐</td>
-<td>Remote — United States, Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ramp/c01a2ed9-fcb4-48c0-ad7a-c59476d9c986/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>

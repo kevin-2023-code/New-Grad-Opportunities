@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**118 open roles.** 85 in the United States & Canada · 33 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**115 open roles.** 82 in the United States & Canada · 33 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -158,13 +158,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/7cb187f4-9088-4097-81d1-512c64da9c21">Mechanical Engineer</a></td>
-<td>Boydton, VA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556962290">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Higharc</strong></td>
 <td><a href="https://trueinterview.io/jobs/f4605f76-851e-436e-b5f3-a4d82f0e7bd7">Software Engineer, Home Design Experience</a> 🌐</td>
 <td>Remote — United States</td>
@@ -240,20 +233,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/upshop/jobs/5233344007">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/affa96b0-af9f-46c1-90c2-7d0631301bff">Critical Environment Industrial Control Systems Engineer</a></td>
-<td>Charlotte, NC, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556986820">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Esri</strong></td>
-<td><a href="https://trueinterview.io/jobs/65f7c5ae-e0fb-4a05-8815-91391bb2e70a">Product Engineer I – ArcGIS Pro Sharing Team</a></td>
-<td>Redlands, CA</td>
-<td align="center"><a href="https://www.esri.com/careers/5227152007?gh_jid=5227152007">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Nice</strong></td>

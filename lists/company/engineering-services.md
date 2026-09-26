@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**66 open roles.** 57 in the United States & Canada · 9 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**62 open roles.** 53 in the United States & Canada · 9 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -61,24 +61,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/66756f70-55d0-49f1-bbef-e36750d37166">Structural Technologist / Inspector, Bridges &amp; Civil Structures</a></td>
-<td>Ottawa, ON, Canada</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94553">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/16077854-d632-42d5-8355-d264ea296061">Early Professional Structural Engineer-Boston</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95578">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>United Integrated Services Usa Corp</strong></td>
-<td><a href="https://trueinterview.io/jobs/67e67147-09d7-498d-a800-d911fe567a24">Drafter - Fire Protection</a></td>
-<td>Phoenix, Arizona<br/>UIS AZ Office_Pinnacle Peak<br/>UIS AZ Site_TSMC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/unitedintegratedservices/jobs/5426441008">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Apex Companies</strong></td>
@@ -151,13 +137,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Morrison Maierle</strong></td>
-<td><a href="https://trueinterview.io/jobs/67930382-ee86-4735-b981-103c74983a0d">CAD Technician</a></td>
-<td>Washington, DC<br/>Spokane</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4402901009">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Benesch</strong></td>
 <td><a href="https://trueinterview.io/jobs/3e687584-d085-49a1-8e9c-8f775e1e70c9">Transportation Designer</a></td>
 <td>Austin, TX</td>
@@ -218,13 +197,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e6969687-7bc9-4b9d-9ab8-b104440b3226">Associate Engineer - Cleanroom</a></td>
 <td>Phoenix, Arizona<br/>UIS AZ Office_Pinnacle Peak<br/>UIS AZ Site_TSMC</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/unitedintegratedservices/jobs/5413291008">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/655bdf91-d9e5-485f-a8cd-e8f33a1e6dde">Intermediate Professional, Structural Engineering</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94434">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>

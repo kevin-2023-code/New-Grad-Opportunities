@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**43 open roles.** 39 in the United States & Canada · 4 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**41 open roles.** 38 in the United States & Canada · 3 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -30,13 +30,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790318653296">Apply</a></td>
 <td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/673f1e2f-29e6-47b8-9df6-902ae8813a54">Modeling and Simulation Research Scientist, Reality Labs Research</a></td>
-<td>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1138304848625338/">Apply</a></td>
-<td align="center">24 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Spotify</strong></td>
@@ -308,13 +301,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Ukraine</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/kissmyapps/c2456955-b6d2-401a-bed2-361019154ae7/application">Apply</a></td>
 <td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Brave</strong></td>
-<td><a href="https://trueinterview.io/jobs/64e0b0f7-034e-4894-9257-d2aa57e9e3c2">AI Security Researcher/Research Engineer</a></td>
-<td>London, England<br/>Brave London</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/brave/jobs/8165845">Apply</a></td>
-<td align="center">29 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>The Browser Company</strong></td>

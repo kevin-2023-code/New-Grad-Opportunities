@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**26 open roles.**
+**25 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -141,13 +141,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e55b0bb6-6598-4e75-ac78-2c039e27c2bc">Structural Designer</a></td>
 <td>Dallas, TX</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lpadesignstudios/1da97e88-8a3e-406c-844d-343370800424/application">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Intelligent Technical Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/66c4cf6f-1bfb-43b5-88bf-cdef17f5b710">IT Technician II Onsite (Dallas, TX)</a></td>
-<td>Dallas, Texas<br/>Onsite</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/its/jobs/7869414003">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**85 open roles.** 83 in the United States & Canada · 2 elsewhere in the world.
+**84 open roles.** 82 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -180,13 +180,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/65f6f896-9fbc-442f-a32c-5b3a944ebf46">Semiconductor Maintenance Technician - Photo</a></td>
-<td>Chandler (Manufacturing), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Photo_R-10066616">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9a51d0bf-3f78-40b9-a871-493c919e60db">Semiconductor Maintenance Technician – Etch/Metals</a></td>
 <td>Chandler (Manufacturing), United States of America</td>
 <td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Manufacturing/Semiconductor-Maintenance-Technician---Etch-Metals_R-10063543-1">Apply</a></td>

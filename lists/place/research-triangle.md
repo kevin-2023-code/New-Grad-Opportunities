@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**31 open roles.**
+**30 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,13 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Durham, North Carolina, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475">Apply</a></td>
 <td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/affa96b0-af9f-46c1-90c2-7d0631301bff">Critical Environment Industrial Control Systems Engineer</a></td>
-<td>Charlotte, NC, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556986820">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Infineon</strong></td>

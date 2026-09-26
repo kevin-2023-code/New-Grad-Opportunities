@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**482 open roles.**
+**476 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,48 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Clay Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d5f6c11-55bc-4e6c-8adc-723aaf5285d8">Machine Learning Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/claylabs/d04f47c4-aed6-481d-a093-74c2ae4f3432/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/9304605a-6318-4d2c-be24-d41f0f9e272e">Product Designer, Identity</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/d5de4cd0-9c4e-4266-93f2-8c1d5fc4a912/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/4395c5e0-49ea-470b-b905-017bfbf4c136">New Graduate Engineer, Software  - '26/'27  (Starlink)</a></td>
-<td>Palo Alto, CA<br/>Redmond, WA<br/>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AppLovin</strong></td>
-<td><a href="https://trueinterview.io/jobs/ecd7760b-dce4-45c8-ba5d-27cdddfc118b">Measurement Data Scientist</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/applovin/jobs/4705264006?gh_jid=4705264006">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6d10ed5c-2bfa-4c8c-9137-58154dc3ec24">Data Scientist – Analytics</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/applovin/jobs/4705263006?gh_jid=4705263006">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/f03bb908-3f10-4816-a708-61074f23227c">Mechanical Engineer New College Grad - Masters Degree (Santa Clara, CA)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790311889606">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/dbe68add-9e00-4ff5-bfaa-aab9ff11c0b0">New College Grad - AI Innovation Research Engineer</a></td>

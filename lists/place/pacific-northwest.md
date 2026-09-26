@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**75 open roles.**
+**71 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -208,13 +208,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a20239f6-c83f-404c-8be7-6e8305c62c97">Manufacturing Engineer</a></td>
-<td>US, Oregon, Hillsboro, United States of America<br/>US, New Mexico, Albuquerque, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Manufacturing-Engineer_JR0285042">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ae225c54-b03b-4e9c-bd98-b78468e8b9f5">Module Development Engineer - CMP</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Development-Engineer---CMP_JR0285584">Apply</a></td>
@@ -225,13 +218,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fefee64c-1005-48c5-bcec-11e7ee8b71c0">Module Engineer</a></td>
 <td>US, Oregon, Hillsboro, United States of America<br/>US, Arizona, Phoenix, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineer_JR0285044">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/82ab4155-768c-4aa6-8d74-cffab0314ad9">System Software Engineer</a></td>
-<td>US, Oregon, Hillsboro, United States of America<br/>US, Arizona, Phoenix, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/System-Software-Engineer_JR0285033">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -250,13 +236,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/63ee19f6-cb7e-4abc-8766-2f4ed5f858cf">Diff/Wet Process Engineering Technician (Nights)</a></td>
-<td>US, OR, Beaverton, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Diff-Wet-Process-Engineering-Technician--Nights-_R264347">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b87960c0-a021-473c-a332-20b737874012">Integration Engineer</a></td>
 <td>US, OR, Beaverton, United States of America</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Integration-Engineer_R264224">Apply</a></td>
@@ -288,13 +267,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a1df5c67-9b00-4300-97df-c209b9897db9">Neuromorphic/AI Research Scientist</a></td>
 <td>US, Oregon, Hillsboro<br/>US, California, Santa Clara, United States of America<br/>US, California, Folsom<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Neuromorphic-AI-Research-Scientist_JR0284193">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5deec33-14f3-49f2-a9e7-848a70cd68c2">Product Install Engineer - Instruments Division - Extensive 90%+ Travel required</a></td>
-<td>Boise, ID<br/>Hillsboro, OR<br/>Chandler, AZ, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Product-Install-Engineer---Instruments-Division---Extensive-90---Travel-required_2638744">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**176 open roles.**
+**174 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -204,6 +204,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d7094e37-ac70-4576-99ea-c75940b1e5da">Growth Platform, Marketing Engineer</a></td>
 <td>New York City, NY<br/>Toronto, ON<br/>San Francisco, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/faire/jobs/8821336002?gh_jid=8821336002">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/6772ec4a-c41c-4ea7-b9f3-3a63b41aa65b">Field Service Engineer - Orlando</a> 🌐</td>
+<td>Remote — United States<br/>Newark, NJ</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8214452/apply/?gh_jid=8214452">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -508,13 +515,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/66a3fd26-b50a-4d1c-807e-2a44168677d9">Partner Applied AI Engineer</a></td>
-<td>New York City<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/552396f4-dc83-43de-9230-6301e5f461bd/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/146ac455-30d8-4211-a949-d0ccaf90c35c">Decision Engineer, Infrastructure Development &amp; Delivery</a></td>
 <td>New York, NY<br/>San Francisco, CA<br/>Austin, TX<br/>+1 more</td>
@@ -753,13 +753,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Ramp</strong></td>
-<td><a href="https://trueinterview.io/jobs/68271837-7588-4553-a540-2adbc915ee3b">TLM, Production Engineering</a> 🌐</td>
-<td>Remote — United States, Canada<br/>New York, NY (HQ)</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ramp/c01a2ed9-fcb4-48c0-ad7a-c59476d9c986/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Fortinet</strong></td>
 <td><a href="https://trueinterview.io/jobs/1da6c415-8ff6-4995-8c47-6c208618153f">AI Infrastructure Engineer</a></td>
 <td>New York, NY</td>
@@ -806,13 +799,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c3dcd47e-cb88-4621-b984-3f8f6f96007a">Full Stack Software Engineer</a></td>
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lm-studio/0a18f160-9671-43d0-91a3-f3d132db256f/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/67b24b1a-9c07-4a7b-a116-d34e692735cc">Product Designer, Core Apps</a></td>
-<td>New York City, NY<br/>San Francisco, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5392054008">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>

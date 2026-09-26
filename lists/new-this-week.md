@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**418 open roles.** 321 in the United States & Canada · 97 elsewhere in the world. Everything the employers put up this week.
+**408 open roles.** 315 in the United States & Canada · 93 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -22,7 +22,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Splunk</strong></td>
 <td><a href="https://trueinterview.io/jobs/7dbb3009-76af-4c28-b630-ae5b4ccc6051">Solutions Engineer</a></td>
-<td>Washington, DC<br/>Washington, District of Columbia, United States of America</td>
+<td>Washington, DC<br/>Washington, District of Columbia, United States of America<br/>Washington, District of Columbia, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Washington-District-of-Columbia-US/Solutions-Engineer_2026120-1">Apply</a></td>
 <td align="center">26 Sep 2026</td>
 </tr>
@@ -52,13 +52,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/249f45b1-48b5-45bf-943a-98bce58413c0">Software Engineer New Grad, Machine Learning Platform - Quora (Remote)</a> 🌐</td>
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Arc'teryx</strong></td>
-<td><a href="https://trueinterview.io/jobs/67cd45de-14d5-46d3-a413-87cb839d8a50">Designer 1 – Men’s Run</a></td>
-<td>North Vancouver, BC (Corporate)</td>
-<td align="center"><a href="https://jobs.lever.co/arcteryx.com/24687960-9489-449b-989c-68be6139fe5b/apply">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -171,13 +164,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d524733c-53e2-4e06-94e2-66ab4f3c81eb">Retail Solutions Engineer</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8211318">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anavation</strong></td>
-<td><a href="https://trueinterview.io/jobs/680c685c-ba1b-4794-9038-c296bb85b4fd">Data Engineer</a></td>
-<td>Huntsville, AL</td>
-<td align="center"><a href="https://jobs.lever.co/anavationllc/7a6bbee7-06ee-47cc-adfe-fcaf182adf41/apply">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -342,13 +328,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Tokyo Electron</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9bbecaf-0341-465a-8eb0-73678330634f">Software Development Engineer I</a></td>
-<td>Chaska, United States of America</td>
-<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Software-Development-Engineer-I_R26-01558">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Scribe</strong></td>
 <td><a href="https://trueinterview.io/jobs/d14956d0-d0a2-41bf-9077-8efcce134d25">Solutions Engineer</a></td>
 <td>SF or NYC</td>
@@ -444,13 +423,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/79e708d4-24f2-44b8-882d-a0ce7f6765c6">Systems Engineer, Space Imaging</a></td>
 <td>Waltham, Massachusetts, United States<br/>Boulder, Colorado, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5248692007?gh_jid=5248692007">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/673f1e2f-29e6-47b8-9df6-902ae8813a54">Modeling and Simulation Research Scientist, Reality Labs Research</a></td>
-<td>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1138304848625338/">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -2155,6 +2127,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/6772ec4a-c41c-4ea7-b9f3-3a63b41aa65b">Field Service Engineer - Orlando</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8214452/apply/?gh_jid=8214452">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>T1 Energy</strong></td>
 <td><a href="https://trueinterview.io/jobs/0214cfc9-c6d6-455f-8953-cbf25fed17bf">IT Software Development Engineer</a></td>
 <td>Dallas, TX</td>
@@ -2243,27 +2222,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4496a3d7-1772-4638-80d9-e175d7414682">Researcher Web Security, Detection</a></td>
 <td>New York, NY<br/>Hybrid<br/>New York, New York, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8204795?gh_jid=8204795">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/85ae8518-c721-4100-8374-daa79b85f1a2">Applied Scientist - Amazon Robotics, Amazon Robotics - Vulcan Stow</a></td>
-<td>US, WA, Seattle</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553505/applied-scientist-amazon-robotics-amazon-robotics-vulcan-stow">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cb87b2c7-cdd8-4f93-93ed-b40f7f2b14fa">Front-End Engineer, Core Shopping</a></td>
-<td>US, WA, Seattle</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553458/front-end-engineer-core-shopping">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c9b23cbd-184e-4cbe-93ca-7ff430fc0533">Software Development Engineer, Prime Video ML Infrastructure</a></td>
-<td>US, WA, Seattle</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553195/software-development-engineer-prime-video-ml-infrastructure">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 </tbody>
@@ -2776,6 +2734,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>CircleCI</strong></td>
+<td><a href="https://trueinterview.io/jobs/68123578-fc36-4754-b33c-f3c602026bb2">Strategic Account Executive, EMEA</a> 🌐</td>
+<td>Remote — United Kingdom</td>
+<td align="center"><a href="http://www.circleci.com/careers/jobs/8784501002/?gh_jid=8784501002">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>GitLab</strong></td>
 <td><a href="https://trueinterview.io/jobs/e269e3b9-c629-41fa-99e7-5ff7c6a50ec4">AI Engineer</a></td>
 <td>—</td>
@@ -2804,13 +2769,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/64934cd3-49fe-4307-ae62-6e27c728d2aa">IN_Senior Associate_GenAI and Agentic AI Engineer_GCC_Advisory_Noida</a></td>
-<td>Noida</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Noida/IN-Senior-Associate-GenAI-and-Agentic-AI-Engineer-GCC-Advisory-Bangalore_738966WD">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/558ff3e0-f8f3-431b-89e8-f5307a200c35">EOI: Join our Power &amp; Energy Group at WSP</a></td>
 <td>Brisbane, Queensland, Australia</td>
@@ -2830,6 +2788,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brazil</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydropx/15dc51e3-512c-45a2-b429-2e838103940e/application">Apply</a></td>
 <td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Devsavant Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4f735e0-6097-4af2-b3d0-a5004f60c8ca">Data Analytics Engineer</a></td>
+<td>LATAM</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/devsavant/7a0d6969-1032-4c9b-8eed-524cf581c5da/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Isometric</strong></td>
+<td><a href="https://trueinterview.io/jobs/6478999c-6e08-452d-8707-fe202c344a5c">Geospatial Data Analyst (contractor)</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/isometric/4c429294-d580-4c4a-a6f4-27b0b06d21a0/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Assembler AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/f651cf23-4c51-45dc-b347-42557aec65ab">software developer</a></td>
+<td>Montréal (QC)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50335179">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Corpex</strong></td>
+<td><a href="https://trueinterview.io/jobs/d94c411a-93c0-4883-8bdf-8710618b1be2">full stack developer</a></td>
+<td>Mississauga (ON)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50331573">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>CASA Mental Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0cd078e-ec31-40aa-9828-956393648806">software developer</a></td>
+<td>Edmonton (AB)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50321553">Apply</a></td>
+<td align="center">19 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lucidya</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb4d0853-e5ea-431d-b63e-706245cccb6f">Frontend Software Engineer</a></td>
+<td>Riyadh, Saudi Arabia</td>
+<td align="center"><a href="https://4dayweek.io/job/frontend-software-engineer-at-lucidya-8fa81b9b">Apply</a></td>
+<td align="center">19 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # Platform Engineer
 
-**35 open roles.** 26 in the United States & Canada · 9 elsewhere in the world.
+**33 open roles.** 24 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,13 +64,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a276ddb9-4753-4ed5-a22b-b4783ee4b719">Digital Solutions and Platform Engineer</a></td>
 <td>Maynard, Massachusetts, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Digital-Solutions-and-Platform-Engineer_2022135-1">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/67cad3c6-6429-425a-8971-47664d8c76a4">OpenStack Platform Engineer</a></td>
-<td>RTP, North Carolina, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/OpenStack-Platform-Engineer_2024061">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -177,13 +170,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/71838fdf-4476-490c-81b6-4bf0746f6774/application">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hadrian Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/662eef2f-ee85-44fd-a6a8-67c1d5c015d1">ML Platform Engineer</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/18edaac7-95af-4fb6-b25c-b7000911167d/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Shield AI</strong></td>

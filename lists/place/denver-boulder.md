@@ -88,6 +88,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/6772ec4a-c41c-4ea7-b9f3-3a63b41aa65b">Field Service Engineer - Orlando</a> 🌐</td>
+<td>Remote — United States<br/>Denver, CO</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8214452/apply/?gh_jid=8214452">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>NetApp</strong></td>
 <td><a href="https://trueinterview.io/jobs/fd6a8610-e235-413d-9112-147bf4c0d5f0">Software Engineer - Core Systems and Storage Roles (Multiple Individual Contributor Levels)</a></td>
 <td>Boulder, Colorado, United States<br/>San Jose, California, United States<br/>Bellevue, Washington, United States<br/>+2 more</td>
@@ -169,13 +176,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d5f11407-6931-448a-9afe-6890c63363e5">Software Engineer - DTS</a></td>
 <td>Denver, Colorado, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000146814888-software-engineer-dts?oga=true">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/655bdf91-d9e5-485f-a8cd-e8f33a1e6dde">Intermediate Professional, Structural Engineering</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94434">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>

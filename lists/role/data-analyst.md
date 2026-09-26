@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**36 open roles.** 17 in the United States & Canada · 19 elsewhere in the world.
+**35 open roles.** 17 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -160,13 +160,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/538dcd8c-5007-423c-a252-04e6d97ceee3">Coordenator Data Analyst</a></td>
 <td>Brazil</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydropx/15dc51e3-512c-45a2-b429-2e838103940e/application">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Isometric</strong></td>
-<td><a href="https://trueinterview.io/jobs/6478999c-6e08-452d-8707-fe202c344a5c">Geospatial Data Analyst (contractor)</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/isometric/4c429294-d580-4c4a-a6f4-27b0b06d21a0/application">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>

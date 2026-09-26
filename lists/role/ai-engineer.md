@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**122 open roles.** 80 in the United States & Canada · 42 elsewhere in the world.
+**117 open roles.** 77 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -186,13 +186,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/66a3fd26-b50a-4d1c-807e-2a44168677d9">Partner Applied AI Engineer</a></td>
-<td>San Francisco, CA<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/552396f4-dc83-43de-9230-6301e5f461bd/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Standard Bots</strong></td>
 <td><a href="https://trueinterview.io/jobs/776a20a2-6215-4518-adb9-abb8474ae0c2">AI Applications Engineer (Texas)</a> 🌐</td>
 <td>Remote — United States</td>
@@ -319,13 +312,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/64da7b66-4f5d-489e-bba6-8c3d5a9f19e0">AI Engineering Analyst (Hybrid)</a></td>
-<td>South San Francisco, CA, United States<br/>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014926086-ai-engineering-analyst-hybrid-?oga=true">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/63e3ca55-a7fe-4e3e-aae4-9979850137aa">GenAI Software Development Engineer</a></td>
 <td>US, CA, Santa Clara<br/>Santa Clara, California, United States</td>
@@ -351,13 +337,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d3c8a3ee-2ebf-4af9-8aca-9287bba690af">AI Systems Engineer (OCI/AI Infrastructure)</a></td>
 <td>Nashville, TN, United States</td>
 <td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/343962">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Accenture Federal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/63d4ace1-2808-4c9b-9484-e0b1bc31b64e">Jr. AI/ML Engineer</a></td>
-<td>Annapolis Junction, MD</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4708679006?gh_jid=4708679006">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
@@ -625,13 +604,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/64934cd3-49fe-4307-ae62-6e27c728d2aa">IN_Senior Associate_GenAI and Agentic AI Engineer_GCC_Advisory_Noida</a></td>
-<td>Noida</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Noida/IN-Senior-Associate-GenAI-and-Agentic-AI-Engineer-GCC-Advisory-Bangalore_738966WD">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Loora</strong></td>
 <td><a href="https://trueinterview.io/jobs/ef676286-a291-4abc-8ad4-c072b75602b9">AI Researcher</a></td>
 <td>Tel Aviv</td>
@@ -699,13 +671,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/bdc79cac-3c37-4be5-b067-c7aad1f684c7">IN_Manager_GE4CX Conversational AI Developer_GCC_Advisory_Kolkata</a></td>
 <td>Kolkata - Magnacon Building</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata---Magnacon-Building/IN-Senior-Associate-GE4CX-Conversational-AI-Developer-GCC-Advisory-Bangalore_753911WD-2">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/63760610-bcb1-4709-8968-159b222db567">IN_Sr Associate_GE4CX Conversational AI Developer_GCC_Advisory_Pune</a></td>
-<td>Pune</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Pune/IN-Senior-Associate-GE4CX-Conversational-AI-Developer-GCC-Advisory-Bangalore_753912WD">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>

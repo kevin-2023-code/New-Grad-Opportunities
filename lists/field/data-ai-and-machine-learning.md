@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**383 open roles.** 256 in the United States & Canada · 127 elsewhere in the world.
+**375 open roles.** 250 in the United States & Canada · 125 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -39,13 +39,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Anavation</strong></td>
-<td><a href="https://trueinterview.io/jobs/680c685c-ba1b-4794-9038-c296bb85b4fd">Data Engineer</a></td>
-<td>Huntsville, AL</td>
-<td align="center"><a href="https://jobs.lever.co/anavationllc/7a6bbee7-06ee-47cc-adfe-fcaf182adf41/apply">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/d83d7952-08d3-4b4d-ad48-0921f63d2a8e">AI Solutions Engineer (NPI Function)</a></td>
 <td>Ann Arbor, MI, United States of America</td>
@@ -71,13 +64,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/46ab33ee-e3b3-4c0a-afd4-5bb9d040db0d">Machine Learning Engineer, 2027 Graduate U.S.</a></td>
 <td>Seattle - United States - Seattle, Washington United States</td>
 <td align="center"><a href="https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job?mode=apply">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/673f1e2f-29e6-47b8-9df6-902ae8813a54">Modeling and Simulation Research Scientist, Reality Labs Research</a></td>
-<td>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1138304848625338/">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -418,6 +404,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Palo Alto Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/679bbf3b-1049-4cf0-9c2d-475dd5c22c31">Sr. Machine Learning Engineer</a></td>
+<td>Office - USA - CA - Headquarters, United States of America</td>
+<td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Sr-Machine-Learning-Engineer_JR-013400">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fc1bf5a2-a6e4-4c80-a824-e3c5e66424d2">Technical Data Operations Analyst</a></td>
 <td>Office - USA - CA - Headquarters, United States of America</td>
 <td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Technical-Data-Operations-Analyst_JR-018972-1">Apply</a></td>
@@ -669,13 +662,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/66a3fd26-b50a-4d1c-807e-2a44168677d9">Partner Applied AI Engineer</a></td>
-<td>San Francisco, CA<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/552396f4-dc83-43de-9230-6301e5f461bd/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Evolver</strong></td>
 <td><a href="https://trueinterview.io/jobs/0a7bf1a4-fc0a-4ca8-8bf0-a66301645f7e">Research Scientist - Information Theory and Statistical Inference</a></td>
 <td>Palo Alto, California</td>
@@ -834,13 +820,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5f1dfd94-ddf7-4466-a913-cc2ddc51eed1">Software Engineer - Collision Avoidance System Metrics</a></td>
 <td>Boston, MA<br/>Foster City, CA<br/>San Diego, CA</td>
 <td align="center"><a href="https://jobs.lever.co/zoox/d5d0608a-aa33-43c3-abe2-5ff8b40028d5/apply">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/6875daf9-fcf0-4e32-acfb-4839340e4318">Analyst, Business Systems – AI, Automation &amp; RPA</a></td>
-<td>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990015064842-analyst-business-systems-ai-automation-rpa?oga=true">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
@@ -1082,13 +1061,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/64da7b66-4f5d-489e-bba6-8c3d5a9f19e0">AI Engineering Analyst (Hybrid)</a></td>
-<td>South San Francisco, CA, United States<br/>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014926086-ai-engineering-analyst-hybrid-?oga=true">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/63e3ca55-a7fe-4e3e-aae4-9979850137aa">GenAI Software Development Engineer</a></td>
 <td>US, CA, Santa Clara<br/>Santa Clara, California, United States</td>
@@ -1163,13 +1135,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f085d0b6-b6c6-4b73-b1ae-a181eff2781c">Contract AI Data Engineer</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://jobs.lever.co/jetsupport/154759ba-a379-4862-b54b-aa3396873e4c/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Accenture Federal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/63d4ace1-2808-4c9b-9484-e0b1bc31b64e">Jr. AI/ML Engineer</a></td>
-<td>Annapolis Junction, MD</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4708679006?gh_jid=4708679006">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
@@ -1275,13 +1240,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8fa07cf1-da2b-4e5f-a246-16a199adce9a">Research Engineer / Research Scientist, Health</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/719cc0f6-ed38-41db-8870-299b4d336f37/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lila Sciences</strong></td>
-<td><a href="https://trueinterview.io/jobs/65a519cb-9266-4376-9be4-77061584f22f">Research Scientist I/II, Computational Organic Electronics</a></td>
-<td>Cambridge, MA USA<br/>Alewife, Cambridge, MA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4376824009">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
@@ -1920,13 +1878,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/64934cd3-49fe-4307-ae62-6e27c728d2aa">IN_Senior Associate_GenAI and Agentic AI Engineer_GCC_Advisory_Noida</a></td>
-<td>Noida</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Noida/IN-Senior-Associate-GenAI-and-Agentic-AI-Engineer-GCC-Advisory-Bangalore_738966WD">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Skydropx Frenet</strong></td>
 <td><a href="https://trueinterview.io/jobs/538dcd8c-5007-423c-a252-04e6d97ceee3">Coordenator Data Analyst</a></td>
 <td>Brazil</td>
@@ -2197,13 +2148,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/bdc79cac-3c37-4be5-b067-c7aad1f684c7">IN_Manager_GE4CX Conversational AI Developer_GCC_Advisory_Kolkata</a></td>
 <td>Kolkata - Magnacon Building</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata---Magnacon-Building/IN-Senior-Associate-GE4CX-Conversational-AI-Developer-GCC-Advisory-Bangalore_753911WD-2">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/63760610-bcb1-4709-8968-159b222db567">IN_Sr Associate_GE4CX Conversational AI Developer_GCC_Advisory_Pune</a></td>
-<td>Pune</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Pune/IN-Senior-Associate-GE4CX-Conversational-AI-Developer-GCC-Advisory-Bangalore_753912WD">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>

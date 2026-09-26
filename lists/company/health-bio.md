@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**58 open roles.** 45 in the United States & Canada · 13 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**57 open roles.** 44 in the United States & Canada · 13 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -180,13 +180,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/64da7b66-4f5d-489e-bba6-8c3d5a9f19e0">AI Engineering Analyst (Hybrid)</a></td>
-<td>South San Francisco, CA, United States<br/>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014926086-ai-engineering-analyst-hybrid-?oga=true">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b2e12ccc-3f7d-4886-8ea3-7a6a837bae51">Project Engineer</a></td>
 <td>North Chicago, IL, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014924517-project-engineer?oga=true">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**389 open roles.** 279 in the United States & Canada · 110 elsewhere in the world.
+**385 open roles.** 276 in the United States & Canada · 109 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,13 +64,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/da73c816-f20e-456a-8026-77be6e31919e">Software Engineer (L6) - Compute Runtime</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317912743">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tokyo Electron</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9bbecaf-0341-465a-8eb0-73678330634f">Software Development Engineer I</a></td>
-<td>Chaska, United States of America</td>
-<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Software-Development-Engineer-I_R26-01558">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -578,13 +571,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/82ab4155-768c-4aa6-8d74-cffab0314ad9">System Software Engineer</a></td>
-<td>US, Arizona, Phoenix, United States of America<br/>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/System-Software-Engineer_JR0285033">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/97a5a640-a675-4487-82e1-25440ffe1ff7">Software Engineer - CHG (Hybrid)</a></td>
 <td>San Jose, California, United States of America<br/>San Jose, California, US, United States of America</td>
@@ -757,13 +743,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/406ba9ca-09ad-47ab-9408-a9d51152be94">Software Engineer, Early Career, Campus</a></td>
 <td>Mountain View, CA<br/>Cambridge, MA, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NetApp</strong></td>
-<td><a href="https://trueinterview.io/jobs/653ac5b1-9e68-4c4b-adf1-c221f8154a65">Entry Level Software Engineer - ANF (Azure NetApp Files)</a></td>
-<td>San Jose, California, United States</td>
-<td align="center"><a href="https://careers.netapp.com/job/san-jose/entry-level-software-engineer-anf-azure-netapp-files/27600/97615964496">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
@@ -2394,13 +2373,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Leigh, United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/microsoft-365-developer-at-jigsaw-homes-group-0b3c09de">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Encora</strong></td>
-<td><a href="https://trueinterview.io/jobs/67045e24-e13e-427a-a0eb-8d784cbba9f7">Software Engineer – Product Development</a></td>
-<td>Peru<br/>Lima</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/encora10/jobs/5218382007">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Rain</strong></td>

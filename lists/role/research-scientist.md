@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**35 open roles.** 32 in the United States & Canada · 3 elsewhere in the world.
+**33 open roles.** 30 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA (Hybrid)<br/>New York City<br/>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/snorkelai/jobs/6208895004">Apply</a></td>
 <td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/673f1e2f-29e6-47b8-9df6-902ae8813a54">Modeling and Simulation Research Scientist, Reality Labs Research</a></td>
-<td>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1138304848625338/">Apply</a></td>
-<td align="center">24 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cartesia</strong></td>
@@ -204,13 +197,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8fa07cf1-da2b-4e5f-a246-16a199adce9a">Research Engineer / Research Scientist, Health</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/719cc0f6-ed38-41db-8870-299b4d336f37/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lila Sciences</strong></td>
-<td><a href="https://trueinterview.io/jobs/65a519cb-9266-4376-9be4-77061584f22f">Research Scientist I/II, Computational Organic Electronics</a></td>
-<td>Cambridge, MA USA<br/>Alewife, Cambridge, MA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4376824009">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>

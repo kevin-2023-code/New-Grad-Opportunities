@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**248 open roles.** 199 in the United States & Canada · 49 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**243 open roles.** 194 in the United States & Canada · 49 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Splunk</strong></td>
 <td><a href="https://trueinterview.io/jobs/7dbb3009-76af-4c28-b630-ae5b4ccc6051">Solutions Engineer</a></td>
-<td>Washington, DC<br/>Washington, District of Columbia, United States of America</td>
+<td>Washington, DC<br/>Washington, District of Columbia, United States of America<br/>Washington, District of Columbia, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Washington-District-of-Columbia-US/Solutions-Engineer_2026120-1">Apply</a></td>
 <td align="center">26 Sep 2026</td>
 </tr>
@@ -474,13 +474,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/66a3fd26-b50a-4d1c-807e-2a44168677d9">Partner Applied AI Engineer</a></td>
-<td>San Francisco, CA<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/552396f4-dc83-43de-9230-6301e5f461bd/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ed3231ce-65c9-450f-abc5-482285f8f423">Mechanical Engineer, Dynamometer and Actuator Testing Infrastructure</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/2b87bb06-ba33-4cab-b950-0df12ca85dcf/application">Apply</a></td>
@@ -571,14 +564,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Esri</strong></td>
-<td><a href="https://trueinterview.io/jobs/65f7c5ae-e0fb-4a05-8815-91391bb2e70a">Product Engineer I – ArcGIS Pro Sharing Team</a></td>
-<td>Redlands, CA</td>
-<td align="center"><a href="https://www.esri.com/careers/5227152007?gh_jid=5227152007">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/40e2cf28-56c2-40fd-b8c6-fe23424dc12a">Control Systems Software Engineer, Robotics</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/60573bf4-13ad-4933-aba7-729f428e9f69/application">Apply</a></td>
@@ -809,13 +795,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Ramp</strong></td>
-<td><a href="https://trueinterview.io/jobs/68271837-7588-4553-a540-2adbc915ee3b">TLM, Production Engineering</a> 🌐</td>
-<td>Remote — United States, Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ramp/c01a2ed9-fcb4-48c0-ad7a-c59476d9c986/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Pure Storage</strong></td>
 <td><a href="https://trueinterview.io/jobs/e48ab933-565d-46e2-a8d8-edf68408c468">PLM Developer</a></td>
 <td>Santa Clara, California<br/>Office - Santa Clara</td>
@@ -834,13 +813,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7f7308d4-57f6-4e9a-a15e-754e10d28c00">Operating Systems Engineer | Consumer Devices</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/efed424b-e025-400f-8ac3-73e962b85751/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/67b24b1a-9c07-4a7b-a116-d34e692735cc">Product Designer, Core Apps</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>New York City, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5392054008">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
@@ -974,13 +946,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8266bae4-0718-4e56-9254-d71604f587d3">Backend Engineer, AI Engineering: Duo Chat</a> 🌐</td>
 <td>Remote — Canada, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8698314002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/6613b323-7f86-430a-b9bb-668c97ba2c30">Product Manufacturing Engineer - PCBA</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/8a86b02b-6063-4124-863f-7e41e9849e22/application">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>

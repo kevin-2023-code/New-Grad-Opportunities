@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**41 open roles.**
+**38 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -74,20 +74,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/82ab4155-768c-4aa6-8d74-cffab0314ad9">System Software Engineer</a></td>
-<td>US, Arizona, Phoenix, United States of America<br/>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/System-Software-Engineer_JR0285033">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>United Integrated Services Usa Corp</strong></td>
-<td><a href="https://trueinterview.io/jobs/67e67147-09d7-498d-a800-d911fe567a24">Drafter - Fire Protection</a></td>
-<td>Phoenix, Arizona<br/>UIS AZ Office_Pinnacle Peak<br/>UIS AZ Site_TSMC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/unitedintegratedservices/jobs/5426441008">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Garmin</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a3ccd9a-a726-425e-a2cf-23ca3e8c7836">Product Support Specialist - Spanish</a></td>
 <td>Tucson, Arizona, United States<br/>Olathe, Kansas, United States</td>
@@ -106,13 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a1df5c67-9b00-4300-97df-c209b9897db9">Neuromorphic/AI Research Scientist</a></td>
 <td>US, Arizona, Phoenix<br/>US, California, Santa Clara, United States of America<br/>US, Oregon, Hillsboro<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Neuromorphic-AI-Research-Scientist_JR0284193">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5deec33-14f3-49f2-a9e7-848a70cd68c2">Product Install Engineer - Instruments Division - Extensive 90%+ Travel required</a></td>
-<td>Chandler, AZ, United States of America<br/>Boise, ID<br/>Hillsboro, OR</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Product-Install-Engineer---Instruments-Division---Extensive-90---Travel-required_2638744">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

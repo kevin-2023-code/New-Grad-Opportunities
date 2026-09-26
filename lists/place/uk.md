@@ -149,6 +149,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>CircleCI</strong></td>
+<td><a href="https://trueinterview.io/jobs/68123578-fc36-4754-b33c-f3c602026bb2">Strategic Account Executive, EMEA</a> 🌐</td>
+<td>Remote — United Kingdom<br/>London</td>
+<td align="center"><a href="http://www.circleci.com/careers/jobs/8784501002/?gh_jid=8784501002">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Isometric</strong></td>
 <td><a href="https://trueinterview.io/jobs/6478999c-6e08-452d-8707-fe202c344a5c">Geospatial Data Analyst (contractor)</a></td>
 <td>London</td>
@@ -343,13 +350,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774781">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Brave</strong></td>
-<td><a href="https://trueinterview.io/jobs/64e0b0f7-034e-4894-9257-d2aa57e9e3c2">AI Security Researcher/Research Engineer</a></td>
-<td>London, England<br/>Brave London</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/brave/jobs/8165845">Apply</a></td>
-<td align="center">29 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Graphcore</strong></td>

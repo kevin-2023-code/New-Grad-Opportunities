@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**69 open roles.**
+**65 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Splunk</strong></td>
 <td><a href="https://trueinterview.io/jobs/7dbb3009-76af-4c28-b630-ae5b4ccc6051">Solutions Engineer</a></td>
-<td>Washington, DC<br/>Washington, District of Columbia, United States of America</td>
+<td>Washington, DC<br/>Washington, District of Columbia, United States of America<br/>Washington, District of Columbia, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Washington-District-of-Columbia-US/Solutions-Engineer_2026120-1">Apply</a></td>
 <td align="center">26 Sep 2026</td>
 </tr>
@@ -172,13 +172,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Morrison Maierle</strong></td>
-<td><a href="https://trueinterview.io/jobs/67930382-ee86-4735-b981-103c74983a0d">CAD Technician</a></td>
-<td>Washington, DC<br/>Spokane</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4402901009">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Agile Defense</strong></td>
 <td><a href="https://trueinterview.io/jobs/69b61522-597a-4fec-8049-a176ee9a2a5b">Data Engineer (Various Locations)</a></td>
 <td>Washington, DC<br/>Arlington, VA<br/>Peterson Space Force Base, CO<br/>+10 more</td>
@@ -257,13 +250,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Accenture Federal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/63d4ace1-2808-4c9b-9484-e0b1bc31b64e">Jr. AI/ML Engineer</a></td>
-<td>Annapolis Junction, MD</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4708679006?gh_jid=4708679006">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a1095263-20a0-4d8d-9b20-55f9fe00d684">Mulesoft Developer</a></td>
 <td>Washington, DC<br/>Arlington, VA</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4707773006?gh_jid=4707773006">Apply</a></td>
@@ -345,13 +331,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Washington, DC<br/>Arlington, VA</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4706290006?gh_jid=4706290006">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fortreum</strong></td>
-<td><a href="https://trueinterview.io/jobs/63ef572b-3e83-47d7-a634-132312899c92">DevSecOps Engineer</a></td>
-<td>Reston, VA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fortreum/5a3dd031-c107-4ecc-b4dd-50d92e806f04/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Dell</strong></td>
@@ -464,13 +443,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Arlington, Virginia, United States of America<br/>McLean, Virginia, US<br/>Seattle, Washington, United States of America<br/>+31 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Seattle-Washington-US/Applied-AI-Scientist_2018334">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Accenture Federal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/66a27592-8ac9-4d2c-a582-128539327bf5">Junior Systems Administrator</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4702368006?gh_jid=4702368006">Apply</a></td>
-<td align="center">7 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>

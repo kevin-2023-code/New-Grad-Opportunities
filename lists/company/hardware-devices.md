@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**170 open roles.** 152 in the United States & Canada · 18 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**168 open roles.** 150 in the United States & Canada · 18 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -158,6 +158,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/6772ec4a-c41c-4ea7-b9f3-3a63b41aa65b">Field Service Engineer - Orlando</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8214452/apply/?gh_jid=8214452">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3d81524-7341-4154-9421-721346806508">ASIC Design Verification Eng II Full Time - United States</a></td>
 <td>San Jose, California, US, United States of America<br/>RTP, North Carolina, US</td>
@@ -225,13 +232,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8d51e8da-2d85-43de-abe1-463dcd630df6">Etch Process Engineer - Days</a></td>
 <td>12100 Samsung Blvd, Austin, TX, USA, United States of America<br/>1530 FM 973 Taylor, TX, USA, United States of America</td>
 <td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Etch-Process-Engineer---Days_R113742-1">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6485a719-7ade-4e9b-9656-d1af086d72dc">Etch Process Engineer - Nights</a></td>
-<td>12100 Samsung Blvd, Austin, TX, USA, United States of America<br/>1530 FM 973 Taylor, TX, USA, United States of America</td>
-<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Etch-Process-Engineer---Nights_R110077-1">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -362,13 +362,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/67cad3c6-6429-425a-8971-47664d8c76a4">OpenStack Platform Engineer</a></td>
-<td>RTP, North Carolina, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/OpenStack-Platform-Engineer_2024061">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b9255ec6-be98-4763-a203-53b4e2d7eeb2">PCBA Test Engineer</a></td>
 <td>Maynard, Massachusetts, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/PCBA-Test-Engineer_2023813">Apply</a></td>
@@ -491,13 +484,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7e705485-c009-46a7-abeb-0c6aeb6d15b3">Mechanical NPI Engineer</a></td>
 <td>Santa Clara, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149449190-mechanical-npi-engineer?oga=true">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NetApp</strong></td>
-<td><a href="https://trueinterview.io/jobs/653ac5b1-9e68-4c4b-adf1-c221f8154a65">Entry Level Software Engineer - ANF (Azure NetApp Files)</a></td>
-<td>San Jose, California, United States</td>
-<td align="center"><a href="https://careers.netapp.com/job/san-jose/entry-level-software-engineer-anf-azure-netapp-files/27600/97615964496">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>

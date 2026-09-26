@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**73 open roles.** 34 in the United States & Canada · 39 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**72 open roles.** 33 in the United States & Canada · 39 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -100,13 +100,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/182192">Apply</a></td>
 <td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>TMX Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/67cdacf6-897d-4b3b-b892-8f3a7c5599fb">Cloud Security Engineer</a></td>
-<td>Toronto - 100 Adelaide St W</td>
-<td align="center"><a href="https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Cloud-Security-Engineer_R-6440">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>BMO</strong></td>

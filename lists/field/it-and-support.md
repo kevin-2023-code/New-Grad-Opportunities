@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**144 open roles.** 105 in the United States & Canada · 39 elsewhere in the world.
+**142 open roles.** 103 in the United States & Canada · 39 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -305,6 +305,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/6875daf9-fcf0-4e32-acfb-4839340e4318">Analyst, Business Systems – AI, Automation &amp; RPA</a></td>
+<td>North Chicago, IL, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990015064842-analyst-business-systems-ai-automation-rpa?oga=true">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Tenstreet</strong></td>
 <td><a href="https://trueinterview.io/jobs/0576b4b8-f343-4068-9881-c81f9079079e">Client Operations Services Coordinator</a></td>
 <td>Tulsa, Oklahoma</td>
@@ -522,13 +529,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Tensorwave</strong></td>
-<td><a href="https://trueinterview.io/jobs/67e26c04-c87f-404e-ace1-b0fb61e412d6">Technical Support Engineer</a></td>
-<td>Las Vegas, Nevada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/tensorwave/305a39c8-39fe-4c9e-9eda-9526b28b25f5/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Intelligent Technical Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/e64c745d-9c62-49b8-8b3f-c90d028522b4">System Administrator I Onsite (Sacramento, CA)</a></td>
 <td>Sacramento, CA<br/>Onsite</td>
@@ -592,13 +592,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Intelligent Technical Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/66c4cf6f-1bfb-43b5-88bf-cdef17f5b710">IT Technician II Onsite (Dallas, TX)</a></td>
-<td>Dallas, Texas<br/>Onsite</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/its/jobs/7869414003">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Helsing</strong></td>
 <td><a href="https://trueinterview.io/jobs/ccf89334-fd70-4a56-b8ad-7490613ed183">IT Support Specialist</a></td>
 <td>Washington, DC</td>
@@ -620,10 +613,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Hasbro</strong></td>
-<td><a href="https://trueinterview.io/jobs/65ffec22-fd8d-42e2-a3f3-adf5a053f201">Systems Administrator</a></td>
-<td>Pawtucket, Rhode Island, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/hasbro/jobs/4307371009">Apply</a></td>
+<td><strong>T5 Data Centers</strong></td>
+<td><a href="https://trueinterview.io/jobs/6718d28a-605c-4514-9b9b-a0656ed724b7">Assistant Superintendent</a></td>
+<td>Lufkin, TX</td>
+<td align="center"><a href="https://jobs.lever.co/t5datacenters/36b05ec2-ed5e-4efe-aeee-cf22cfa13960/apply">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>
@@ -716,13 +709,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>San Francisco, CA<br/>Austin, TX<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/8fd17643-2fdb-4c61-b76b-454872a44b99/application">Apply</a></td>
 <td align="center">10 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Accenture Federal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/66a27592-8ac9-4d2c-a582-128539327bf5">Junior Systems Administrator</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4702368006?gh_jid=4702368006">Apply</a></td>
-<td align="center">7 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Coursera</strong></td>

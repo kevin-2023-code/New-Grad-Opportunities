@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**93 open roles.** 58 in the United States & Canada · 35 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**93 open roles.** 57 in the United States & Canada · 36 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Splunk</strong></td>
 <td><a href="https://trueinterview.io/jobs/7dbb3009-76af-4c28-b630-ae5b4ccc6051">Solutions Engineer</a></td>
-<td>Washington, DC<br/>Washington, District of Columbia, United States of America</td>
+<td>Washington, DC<br/>Washington, District of Columbia, United States of America<br/>Washington, District of Columbia, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Washington-District-of-Columbia-US/Solutions-Engineer_2026120-1">Apply</a></td>
 <td align="center">26 Sep 2026</td>
 </tr>
@@ -236,13 +236,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Domino Data Lab</strong></td>
-<td><a href="https://trueinterview.io/jobs/66c60f46-b2fa-4c58-b5fc-affbe80daeea">Solutions Engineer, Life Sciences</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://app.careerpuck.com/job-board/domino-data-lab/job/8163381?gh_jid=8163381">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/868e6f50-d34d-4b7c-bc12-3d2324c069da">Forward Deployed Engineer, Public Sector</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/domino-data-lab/job/8160818?gh_jid=8160818">Apply</a></td>
@@ -448,6 +441,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Munich, Germany<br/>Distributed</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8043305?gh_jid=8043305">Apply</a></td>
 <td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>CircleCI</strong></td>
+<td><a href="https://trueinterview.io/jobs/68123578-fc36-4754-b33c-f3c602026bb2">Strategic Account Executive, EMEA</a> 🌐</td>
+<td>Remote — United Kingdom</td>
+<td align="center"><a href="http://www.circleci.com/careers/jobs/8784501002/?gh_jid=8784501002">Apply</a></td>
+<td align="center">22 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>GitLab</strong></td>

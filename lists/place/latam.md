@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**49 open roles.**
+**48 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -332,13 +332,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/1a7d8b88-6389-439d-8e9e-8ff6e0c6b0d1">BW - Especialista Engenheiro Dados</a></td>
 <td>São Paulo - SP<br/>Sao Paulo - Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/bw/jobs/5371054008">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Reonic</strong></td>
-<td><a href="https://trueinterview.io/jobs/64aa5a8e-8fa8-44a6-a2f1-23fd15062a13">Electrical Engineer, Solar Homologation</a></td>
-<td>Brazil - São Paulo</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/reonic/4f36f6c4-df4e-4c6c-983c-080a48408da7/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>

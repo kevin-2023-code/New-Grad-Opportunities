@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**149 open roles.** 76 in the United States & Canada · 73 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**142 open roles.** 72 in the United States & Canada · 70 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,13 +22,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/72c37d2e-3ab7-4122-9299-0dd87f057a58">Test Engineer</a></td>
 <td>Huntsville, AL</td>
 <td align="center"><a href="https://jobs.lever.co/anavationllc/c1e8ade7-96f7-465d-9313-4759dc70f7f7/apply">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/680c685c-ba1b-4794-9038-c296bb85b4fd">Data Engineer</a></td>
-<td>Huntsville, AL</td>
-<td align="center"><a href="https://jobs.lever.co/anavationllc/7a6bbee7-06ee-47cc-adfe-fcaf182adf41/apply">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -278,13 +271,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Accenture Federal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/63d4ace1-2808-4c9b-9484-e0b1bc31b64e">Jr. AI/ML Engineer</a></td>
-<td>Annapolis Junction, MD</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4708679006?gh_jid=4708679006">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9dea08dd-528b-426b-9c8d-cb94ba9e1c0e">Design Quality Engineer</a></td>
 <td>San Antonio, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4708292006?gh_jid=4708292006">Apply</a></td>
@@ -382,14 +368,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Intelligent Technical Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/66c4cf6f-1bfb-43b5-88bf-cdef17f5b710">IT Technician II Onsite (Dallas, TX)</a></td>
-<td>Dallas, Texas<br/>Onsite</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/its/jobs/7869414003">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Accenture Federal Services</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/812d8f7b-44ed-4d14-9aae-631bd5fea2ad">OneFM Oracle Fusion Cloud Developer</a></td>
 <td>Washington, DC<br/>Arlington, VA</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4706300006?gh_jid=4706300006">Apply</a></td>
@@ -529,13 +508,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Accenture Federal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/66a27592-8ac9-4d2c-a582-128539327bf5">Junior Systems Administrator</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4702368006?gh_jid=4702368006">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Mthree Recruiting Portal</strong></td>
 <td><a href="https://trueinterview.io/jobs/7cb9e1e7-7a84-4045-9893-971128feb188">Développeur Java / Java Developer</a></td>
 <td>Montréal, Quebec, Canada<br/>Canada, Montréal</td>
@@ -657,13 +629,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/70e7ecfc-f6d0-4bdb-8fa4-3c952304c682">IN_Senior Associate_GenAI and Agentic AI Engineer _GCC_Advisory_Bangalore</a></td>
 <td>Bengaluru Millenia</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Associate-GenAI-and-Agentic-AI-Engineer--GCC-Advisory-Bangalore_738717WD-1">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/64934cd3-49fe-4307-ae62-6e27c728d2aa">IN_Senior Associate_GenAI and Agentic AI Engineer_GCC_Advisory_Noida</a></td>
-<td>Noida</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Noida/IN-Senior-Associate-GenAI-and-Agentic-AI-Engineer-GCC-Advisory-Bangalore_738966WD">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -850,13 +815,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/63760610-bcb1-4709-8968-159b222db567">IN_Sr Associate_GE4CX Conversational AI Developer_GCC_Advisory_Pune</a></td>
-<td>Pune</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Pune/IN-Senior-Associate-GE4CX-Conversational-AI-Developer-GCC-Advisory-Bangalore_753912WD">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cfb67568-8109-4ee9-948d-d40ce026b2ab">Operations AI Engineers</a></td>
 <td>Athens</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Athens/Operations-AI-Engineers_725541WD">Apply</a></td>
@@ -905,14 +863,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Encora</strong></td>
-<td><a href="https://trueinterview.io/jobs/67045e24-e13e-427a-a0eb-8d784cbba9f7">Software Engineer – Product Development</a></td>
-<td>Peru<br/>Lima</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/encora10/jobs/5218382007">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PwC</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f57a8ba1-662b-4892-8b5f-969a288e9aa0">Medior AI Engineer</a></td>
 <td>Budapest</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Budapest/Medior-AI-Engineer_682581WD">Apply</a></td>

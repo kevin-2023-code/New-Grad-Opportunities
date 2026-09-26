@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**67 open roles.**
+**66 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -95,6 +95,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/6772ec4a-c41c-4ea7-b9f3-3a63b41aa65b">Field Service Engineer - Orlando</a> 🌐</td>
+<td>Remote — United States<br/>Boston, MA</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8214452/apply/?gh_jid=8214452">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/16077854-d632-42d5-8355-d264ea296061">Early Professional Structural Engineer-Boston</a></td>
 <td>Boston, MA</td>
@@ -141,13 +148,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3362f4b4-e8a3-44ef-bf0e-b8de4d4706b3">Product Engineer / Design Evaluation</a></td>
 <td>US, MA, Wilmington, United States of America</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer---RF-System_R263805">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/643c4c5d-2891-4a00-8585-68a81555179d">System Mechanical &amp; Integration Engineer</a></td>
-<td>US, MA, Wilmington, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/System-Mechanical---Integration-Engineer_R264128">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -331,13 +331,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, Massachusetts, United States<br/>Boston (1001 Boylston Street)</td>
 <td align="center"><a href="https://careers.cargurus.com/us/en/job/8050976?gh_jid=8050976">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lila Sciences</strong></td>
-<td><a href="https://trueinterview.io/jobs/65a519cb-9266-4376-9be4-77061584f22f">Research Scientist I/II, Computational Organic Electronics</a></td>
-<td>Alewife, Cambridge, MA<br/>Cambridge, MA USA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4376824009">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>

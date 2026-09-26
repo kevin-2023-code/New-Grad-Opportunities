@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**222 open roles.** 208 in the United States & Canada · 14 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**217 open roles.** 204 in the United States & Canada · 13 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -543,13 +543,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/63ffea93-435a-4247-8ae6-1e0db6466ebe">Manufacturing Engineer, Fury</a></td>
-<td>Ashville, Ohio, United States<br/>Ashville, OH (Arsenal 1)</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5232415007?gh_jid=5232415007">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/97f89dcf-448a-4bbc-b2f3-aae3c7e0824b">Structural Test Engineer (Starship)</a></td>
 <td>Starbase, TX<br/>Brownsville, TX, United States</td>
@@ -799,13 +792,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ab4e50eb-f414-46e6-969f-2daa6441cad8">GNC Engineer, Orbit Determination/Stargaze (Starlink)</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8751036002?gh_jid=8751036002">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/63a48668-a1a0-402b-a910-f9182e595ebc">Solar Cell Quality Engineer (Starlink)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8745828002?gh_jid=8745828002">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
@@ -1181,13 +1167,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6582075c-80a7-43dc-a2d0-b073bdf64899">Antenna Engineer - Parabolic &amp; Waveguide (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8692102002?gh_jid=8692102002">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a8f57374-2ca9-4794-809a-363a5fb9b9c0">Antenna Engineer, Satellites (Starlink)</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8692241002?gh_jid=8692241002">Apply</a></td>
@@ -1275,13 +1254,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b2928ac6-8476-4296-87d1-131e3260da30">ASIC/SOC DFT Engineer (Silicon Engineering)</a></td>
 <td>Austin, TX<br/>Palo Alto, CA<br/>Austin - 800<br/>+2 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8686199002?gh_jid=8686199002">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hadrian Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/662eef2f-ee85-44fd-a6a8-67c1d5c015d1">ML Platform Engineer</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/18edaac7-95af-4fb6-b25c-b7000911167d/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
@@ -1557,13 +1529,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/674c96e5-4c2f-4a24-9f86-7c3b6d2e13b0">Manufacturing Engineer - Nightshift</a></td>
-<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7825201003">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d1be0c92-802d-41cd-9854-1a7f7da62319">Manufacturing Engineer</a></td>
 <td>Auckland, NZ<br/>Auckland Production Complex Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7825132003">Apply</a></td>

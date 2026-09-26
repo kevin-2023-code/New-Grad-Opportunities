@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**136 open roles.**
+**134 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -211,13 +211,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8d51e8da-2d85-43de-abe1-463dcd630df6">Etch Process Engineer - Days</a></td>
 <td>12100 Samsung Blvd, Austin, TX, USA, United States of America<br/>1530 FM 973 Taylor, TX, USA, United States of America</td>
 <td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Etch-Process-Engineer---Days_R113742-1">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6485a719-7ade-4e9b-9656-d1af086d72dc">Etch Process Engineer - Nights</a></td>
-<td>12100 Samsung Blvd, Austin, TX, USA, United States of America<br/>1530 FM 973 Taylor, TX, USA, United States of America</td>
-<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Etch-Process-Engineer---Nights_R110077-1">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -653,13 +646,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94208">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/63a48668-a1a0-402b-a910-f9182e595ebc">Solar Cell Quality Engineer (Starlink)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8745828002?gh_jid=8745828002">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Cloudflare</strong></td>

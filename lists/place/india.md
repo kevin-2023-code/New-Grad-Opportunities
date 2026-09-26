@@ -2,7 +2,7 @@
 
 # 🇮🇳 Bengaluru & India
 
-**32 open roles.**
+**31 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -109,13 +109,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bengaluru</td>
 <td align="center"><a href="https://jobs.lever.co/gushwork/bf544796-090e-47fd-b05d-79b0b5339f92/apply">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PwC</strong></td>
-<td><a href="https://trueinterview.io/jobs/63760610-bcb1-4709-8968-159b222db567">IN_Sr Associate_GE4CX Conversational AI Developer_GCC_Advisory_Pune</a></td>
-<td>Pune</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Pune/IN-Senior-Associate-GE4CX-Conversational-AI-Developer-GCC-Advisory-Bangalore_753912WD">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Ford Motor Company</strong></td>

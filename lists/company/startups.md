@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**168 open roles.** 120 in the United States & Canada · 48 elsewhere in the world. Early-stage technology companies.
+**165 open roles.** 117 in the United States & Canada · 48 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -508,13 +508,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Oneleet</strong></td>
-<td><a href="https://trueinterview.io/jobs/64441219-f339-4102-a8a2-1d76084a8cbf">GTM Engineer - Data &amp; Attribution</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/oneleet/6febf32a-f037-4bb0-b350-cb7fa9bb8cd3/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Field AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/e24977db-984c-4883-a955-00da27e5f5b7">Field Application Engineer - Fenton, MI - Temporary Part Time</a></td>
 <td>Fenton, MI</td>
@@ -547,13 +540,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/de529977-837e-4d70-ae3c-879954be4248">Product Designer</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/bland/25b88b58-c567-4675-b41f-1d94f00192c9/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Tensorwave</strong></td>
-<td><a href="https://trueinterview.io/jobs/67e26c04-c87f-404e-ace1-b0fb61e412d6">Technical Support Engineer</a></td>
-<td>Las Vegas, Nevada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/tensorwave/305a39c8-39fe-4c9e-9eda-9526b28b25f5/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
@@ -638,13 +624,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/258bda5e-f4fb-4606-831a-8988067c8c93">Field Application Engineer (Off-Road Vehicles) - Irvine, CA</a></td>
 <td>Irvine, CA</td>
 <td align="center"><a href="https://jobs.lever.co/field-ai/9a92c550-5f4c-48c6-b4d4-f44a0a146a15/apply">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fortreum</strong></td>
-<td><a href="https://trueinterview.io/jobs/63ef572b-3e83-47d7-a634-132312899c92">DevSecOps Engineer</a></td>
-<td>Reston, VA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fortreum/5a3dd031-c107-4ecc-b4dd-50d92e806f04/application">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>

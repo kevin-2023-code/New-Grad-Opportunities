@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**418 open roles.** 321 in the United States & Canada · 97 elsewhere in the world. Everything the employers put up this week.
+**408 open roles.** 315 in the United States & Canada · 93 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,48 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Devsavant Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/e4f735e0-6097-4af2-b3d0-a5004f60c8ca">Data Analytics Engineer</a></td>
-<td>LATAM</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/devsavant/7a0d6969-1032-4c9b-8eed-524cf581c5da/application">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Isometric</strong></td>
-<td><a href="https://trueinterview.io/jobs/6478999c-6e08-452d-8707-fe202c344a5c">Geospatial Data Analyst (contractor)</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/isometric/4c429294-d580-4c4a-a6f4-27b0b06d21a0/application">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Assembler AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/f651cf23-4c51-45dc-b347-42557aec65ab">software developer</a></td>
-<td>Montréal (QC)</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50335179">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Corpex</strong></td>
-<td><a href="https://trueinterview.io/jobs/d94c411a-93c0-4883-8bdf-8710618b1be2">full stack developer</a></td>
-<td>Mississauga (ON)</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50331573">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>CASA Mental Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/a0cd078e-ec31-40aa-9828-956393648806">software developer</a></td>
-<td>Edmonton (AB)</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50321553">Apply</a></td>
-<td align="center">19 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lucidya</strong></td>
-<td><a href="https://trueinterview.io/jobs/bb4d0853-e5ea-431d-b63e-706245cccb6f">Frontend Software Engineer</a></td>
-<td>Riyadh, Saudi Arabia</td>
-<td align="center"><a href="https://4dayweek.io/job/frontend-software-engineer-at-lucidya-8fa81b9b">Apply</a></td>
-<td align="center">19 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Ci&amp;t</strong></td>
 <td><a href="https://trueinterview.io/jobs/bc6c42d9-867a-497b-aba5-49953bcfdbc4">[Job - 31720] Data developer (Python, FICO DMPS e FICO DM (ou Blaze Advisor), Brasil</a></td>
@@ -113,34 +71,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0e4cb5bf-ef07-4dcd-90f0-1b08ae8b34cc">Software Implementation Engineer</a></td>
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/heidihealth.com.au/69a7f6cd-2bf1-4390-ac51-df68e59cde4c/application">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/76143882-cadf-4fa3-bfc4-bab1a06c0052">Business Intelligence Engineer, Amazon Leo Europe Consumer</a></td>
-<td>GB, London</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553402/business-intelligence-engineer-amazon-leo-europe-consumer">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fd269f61-9647-4106-af4d-4936e00b7d98">Data Analyst, UAE National, Supply Chain Planning</a></td>
-<td>AE, Dubai</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553322/data-analyst-uae-national-supply-chain-planning">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dd4a12e4-b543-4848-92cc-f5620bb6a187">Mechanical Process Engineer, Product Engineering</a></td>
-<td>CN, 31, Shanghai<br/>CN, 44, Shenzhen</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553042/mechanical-process-engineer-product-engineering">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f29dc396-ba43-476e-a2c2-19817325abc9">SDE-1, Expansions Tech and Product</a></td>
-<td>IN, TS, Hyderabad</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553343/sde-1-expansions-tech-and-product">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 </tbody>
