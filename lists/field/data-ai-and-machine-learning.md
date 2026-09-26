@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**375 open roles.** 250 in the United States & Canada · 125 elsewhere in the world.
+**372 open roles.** 249 in the United States & Canada · 123 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -445,6 +445,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Scribe</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bbaf24c-c2e1-4fcf-bc55-2fb5216be092">Join our Talent Community</a></td>
+<td>United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/scribe/d840b082-ae41-4807-b554-ae7688db5003/application">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Rackner</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ffeee75-a262-404d-a3c8-5d10afc33dda">AI/ML Engineer — Active TS/SCI | Dayton, OH</a></td>
 <td>Dayton, OH</td>
@@ -505,13 +512,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f1de32a2-be52-4d6e-baa3-f8391d9085d1">Data Scientist</a></td>
 <td>MacDill Air Force Base, United States</td>
 <td align="center"><a href="https://4dayweek.io/job/data-scientist-at-parsons-corporation-e3766787">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PayPal</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ce34a3a-a35f-439a-b50b-fb6eb722f2dd">Data Scientist - Payments Risk Management &amp; Data Analytics</a></td>
-<td>Chicago, Illinois, United States of America</td>
-<td align="center"><a href="https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Data-Scientist---Payments-Risk-Management---Data-Analytics_R0138042">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -1446,13 +1446,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>DRW</strong></td>
-<td><a href="https://trueinterview.io/jobs/691cec80-def4-43a8-b9f4-d461016d4fbe">Data Analyst</a></td>
-<td>Montreal, QC<br/>Montréal</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8128786">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Accellor</strong></td>
 <td><a href="https://trueinterview.io/jobs/74847b82-eea3-4362-8e22-061ba6519b5b">Forward Deployment Engineer - Frontier AI Deployments</a></td>
 <td>Mountain View, California, United States<br/>San Francisco, California, United States</td>
@@ -1780,6 +1773,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Buyerlink</strong></td>
+<td><a href="https://trueinterview.io/jobs/97d21ba9-eec6-4328-a5ae-c944cb28f953">data engineer</a></td>
+<td>Victoria (BC)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50371823">Apply</a></td>
+<td align="center">26 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Cabify</strong></td>
 <td><a href="https://trueinterview.io/jobs/85b03b34-814b-4814-b6db-d03477b77c2d">Software Engineer - Backend + AI</a></td>
 <td>Madrid, Spain</td>
@@ -1833,13 +1833,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/08171607-92f7-4810-989c-2509e344602a">Kaluza Product Specialist</a></td>
 <td>Bristol, England, United Kingdom<br/>Edinburgh, Scotland, United Kingdom<br/>London, England, United Kingdom<br/>+3 more</td>
 <td align="center"><a href="https://www.kaluza.com/job?gh_jid=4984251101">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Valtech</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c0cb37b-44f8-42f5-bcf6-c4c223b5face">Data Engineer Pleno (Vaga Temporária - Part time)</a> 🌐</td>
-<td>Remote — Brazil</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/valtech/jobs/4983021101">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -2074,6 +2067,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">13 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Gushwork</strong></td>
+<td><a href="https://trueinterview.io/jobs/696d18eb-f400-4568-84bc-a008d4a7211d">Forward Deployed Engineer</a></td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://jobs.lever.co/gushwork/bf544796-090e-47fd-b05d-79b0b5339f92/apply">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Gigaton</strong></td>
 <td><a href="https://trueinterview.io/jobs/3e24b169-c86b-430b-95f3-17eb8d99256e">Machine Learning Engineer</a></td>
 <td>London, United Kingdom</td>
@@ -2228,24 +2228,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">5 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Inter Carreiras</strong></td>
-<td><a href="https://trueinterview.io/jobs/6cabb136-ed16-47ef-ad1d-34ddc4252d6b">DATA ANALYST II | BANKING BI DATA WAREHOUSE MG</a></td>
-<td>Belo Horizonte, MG<br/>BANCO INTER</td>
-<td align="center"><a href="https://boards.greenhouse.io/inter/jobs/4729998005?gh_jid=4729998005">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Frazier &amp; Deeter</strong></td>
 <td><a href="https://trueinterview.io/jobs/3511d3dc-4041-461f-90ec-a1c838b3e352">Full Stack AI Engineer (India-based)</a></td>
 <td>Hyderabad<br/>India</td>
 <td align="center"><a href="https://www.frazierdeeter.com/careers/openings/apply/7986994003?gh_jid=7986994003">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6d05d243-8a5c-43b3-ada0-a9f9d26471c2">AI Enablement Engineer (India-based)</a></td>
-<td>Hyderabad<br/>India</td>
-<td align="center"><a href="https://www.frazierdeeter.com/careers/openings/apply/7986980003?gh_jid=7986980003">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
@@ -2624,13 +2610,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/90ec46a6-46e7-451d-b29f-6ceb95bb82a9">Data Analyst</a></td>
 <td>Colombia<br/>Venezuela<br/>Panamá<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydropx/03857582-7532-401f-bad9-61d187b87f36/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SonarSource</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d22f207-dc5a-4985-8380-b85854ef0ccd">AI Researcher - Post-Training</a></td>
-<td>Geneva<br/>London</td>
-<td align="center"><a href="https://jobs.lever.co/sonarsource/13148e9e-7cb4-4c19-ab5d-e1f5dc352ae0/apply">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>

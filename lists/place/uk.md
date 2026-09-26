@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**59 open roles.** 9 in the United States & Canada · 50 elsewhere in the world.
+**58 open roles.** 8 in the United States & Canada · 50 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -30,13 +30,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>London, United Kingdom<br/>Sunnyvale, California USA</td>
 <td align="center"><a href="https://wayve.firststage.co/jobs?gh_jid=8752478002">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mindrift</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c543bc2-342b-4995-9a3e-9c4e5422b4f9">Freelance Graphic Designer</a></td>
-<td>Manchester, England, United Kingdom<br/>London, England, United Kingdom<br/>Glasgow, Scotland, United Kingdom<br/>+18 more</td>
-<td align="center"><a href="https://jobs.workable.com/view/fBo7fVGrLDAyqYP3gnbdq3/remote-freelance-graphic-designer-in-israel-at-mindrift">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cloudflare</strong></td>

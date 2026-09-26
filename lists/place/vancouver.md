@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**17 open roles.**
+**16 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,13 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Vancouver, BC, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94183">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/68c78262-a41a-410e-8049-938b9f1bf1b1">Designer - Social &amp; Brand</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Canada</td>
-<td align="center"><a href="https://www.monks.com/careers/6148884004/job?gh_jid=6148884004">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Fortinet</strong></td>

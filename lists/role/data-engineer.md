@@ -345,6 +345,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Buyerlink</strong></td>
+<td><a href="https://trueinterview.io/jobs/97d21ba9-eec6-4328-a5ae-c944cb28f953">data engineer</a></td>
+<td>Victoria (BC)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50371823">Apply</a></td>
+<td align="center">26 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/79fbcd23-8924-46d4-9fc4-48b96a23ed84">IN_Senior Manager_Azure Data Engineer_OC-Data &amp; Analytics AITH_Advisory_Bhubaneswar</a></td>
 <td>Bhubaneswar - Ihub</td>
@@ -357,13 +364,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Gurugram, Haryana</td>
 <td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/ETL-Informatica-Developer_JR00127325">Apply</a></td>
 <td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Valtech</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c0cb37b-44f8-42f5-bcf6-c4c223b5face">Data Engineer Pleno (Vaga Temporária - Part time)</a> 🌐</td>
-<td>Remote — Brazil</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/valtech/jobs/4983021101">Apply</a></td>
-<td align="center">23 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Devsavant Inc</strong></td>

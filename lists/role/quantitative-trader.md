@@ -2,7 +2,7 @@
 
 # Quantitative Trader
 
-**10 open roles.** 5 in the United States & Canada · 5 elsewhere in the world.
+**9 open roles.** 4 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Robinhood</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c5eff38-1337-4a67-ad31-06dcc36e6666">Overnight Customer Experience Representative, Active Trader</a></td>
-<td>Chicago, IL<br/>Denver, CO<br/>Westlake, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8224751?t=gh_src=&amp;gh_jid=8224751">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>DRW</strong></td>
 <td><a href="https://trueinterview.io/jobs/ccde52cb-650e-47ca-9f6f-d12c9604e32c">Floor Trader</a></td>

@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**476 open roles.**
+**471 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,20 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/dbe68add-9e00-4ff5-bfaa-aab9ff11c0b0">New College Grad - AI Innovation Research Engineer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43815479">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Robinhood</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d263187-81db-4239-8877-94a606ff5fcd">Software Engineer, Proactive Capabilities</a></td>
-<td>Menlo Park, CA<br/>Bellevue, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8067604?t=gh_src=&amp;gh_jid=8067604">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>Western Digital</strong></td>
 <td><a href="https://trueinterview.io/jobs/41bab83f-ee7f-4edc-a798-c465ddb13653">Photolithography Process Engineer</a></td>
@@ -62,13 +48,6 @@
 <td><a href="https://trueinterview.io/jobs/acaf14ef-2a28-4e64-a258-37cbdf719991">Software Engineer, Product &amp; Platform</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/corridor/b266ea33-fa2d-4ce1-a4e5-0654dbed7114/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Arista Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ca1d79e-54e4-45bd-8847-946be7aa5d84">Mechanical Design Engineer (Tooling Design Focus)</a></td>
-<td>Santa Clara, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000143195350-mechanical-design-engineer-tooling-design-focus-?oga=true">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
@@ -119,13 +98,6 @@
 <td>Oakland, CA<br/>San Francisco</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8125396">Apply</a></td>
 <td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/68f5e57b-5f2b-4961-a29b-d0f2c94a5466">Product Designer, GenUI</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/7c1cd1ec-47a9-4d15-8eb9-2f44272db796/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Normal Computing Corporation</strong></td>
@@ -188,13 +160,6 @@
 <td><a href="https://trueinterview.io/jobs/c13b372e-7236-4adc-8bc4-e0ce40e2a663">IT Support Technician</a></td>
 <td>Mountain View, CA<br/>HQ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/lunarenergy/jobs/6140237004">Apply</a></td>
-<td align="center">10 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/69367a46-43ca-40fd-851d-7414b99705bf">Network Engineer, Design &amp; Engineering</a></td>
-<td>San Francisco, CA<br/>New York, NY<br/>Austin, TX<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/8fd17643-2fdb-4c61-b76b-454872a44b99/application">Apply</a></td>
 <td align="center">10 Aug 2026</td>
 </tr>
 <tr>

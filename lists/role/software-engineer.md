@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**385 open roles.** 276 in the United States & Canada · 109 elsewhere in the world.
+**380 open roles.** 272 in the United States & Canada · 108 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -550,13 +550,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Crusoe</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a3fecd3-07bf-4a09-8780-8aa6957d6623">Software Engineer I, Network</a></td>
-<td>San Francisco, CA<br/>Sunnyvale, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/b9feb7bd-c161-4f76-92ec-2e0ee8c339ff">High Performance Compute (HPC) Software Engineer – HPC SW Systems</a></td>
 <td>Ann Arbor, MI, United States of America</td>
@@ -718,14 +711,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Genius Sports</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a02f296-f4a0-4177-9a83-3a8a50a87a30">Software Engineer, Fan Engagement</a></td>
-<td>New York, NY<br/>New York, New York, United States<br/>New York City, USA</td>
-<td align="center"><a href="https://boards.greenhouse.io/geniussports/jobs/7992799003?gh_jid=7992799003">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ae7e7f29-178b-44f1-97bd-18f78797c301">Software Engineer, Ads Integrity</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/596e543a-0ab9-471e-a1ff-40fd55c74fce/application">Apply</a></td>
@@ -1051,13 +1037,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c1ae2fe3-8e14-473d-abc8-f72fefef6620">software developer</a></td>
 <td>Toronto, ON</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50225252">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Maarut</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c8c8b6a-c54b-4431-ac74-4f3725d65ef9">software developer</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50225158">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
@@ -1600,13 +1579,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>1password</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ca1b639-4d1d-4f34-91a8-e7ab1a175a01">Developer, Rust</a> 🌐</td>
-<td>Remote — United States, Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/1password/c247ea98-bf31-45f0-a38b-1fe255909538/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/4395c5e0-49ea-470b-b905-017bfbf4c136">New Graduate Engineer, Software  - '26/'27  (Starlink)</a></td>
 <td>Palo Alto, CA<br/>Redmond, WA<br/>Bastrop, TX</td>
@@ -2141,13 +2113,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c15db5ea-ebe3-4edd-a78f-6df4fd631cfd">Software Engineer</a></td>
 <td>Hyderabad<br/>India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/singlestore/jobs/8212128">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>FIS Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a3cbf8e-0f26-4b7d-a94c-f55a05add77c">C++ Software Engineer I</a></td>
-<td>TUN ARIA 150</td>
-<td align="center"><a href="https://fis.wd5.myworkdayjobs.com/SearchJobs/job/TUN-ARIA-150/C---Software-Engineer-I_JR0309472">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>

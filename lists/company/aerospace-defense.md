@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**217 open roles.** 204 in the United States & Canada · 13 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**213 open roles.** 200 in the United States & Canada · 13 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -431,14 +431,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Hadrian Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ab741bf-45c4-442b-bec9-33712daaa606">Automation Controls Engineer</a></td>
-<td>San Francisco Bay Area, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/8a877a00-5979-40f6-b890-a178334c0479/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/98efecd5-a7f6-47f3-82b5-dbc5699c2857">Data Engineer, Ground Network Engineering (Gateway)</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8784022002?gh_jid=8784022002">Apply</a></td>
@@ -555,13 +548,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Starbase, TX<br/>Bastrop, TX<br/>Brownsville, TX, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8783271002?gh_jid=8783271002">Apply</a></td>
 <td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6b7ba26b-114a-4ec5-98bd-b071b207ac1c">Avionics Manufacturing Engineer</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8784191002?gh_jid=8784191002">Apply</a></td>
-<td align="center">5 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -807,13 +793,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8748535002?gh_jid=8748535002">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/69ead981-f267-4be6-872d-a748c9b0e779">Electrical Hardware Engineer - Optics, Satellites (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8747673002?gh_jid=8747673002">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>K2 Space</strong></td>
@@ -1198,13 +1177,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/27aeb5af-bf14-4d63-8380-6cca8c0cf641">CAM Programmer, Execution</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/ca2ab5f8-6a99-458a-9148-eee69122de14/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a7674c0-fc4f-4e0a-bdcb-56033b103f35">Full Stack Software Engineer, MES (Manufacturing Execution System)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696897002?gh_jid=8696897002">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>

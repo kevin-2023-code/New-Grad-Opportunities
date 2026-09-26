@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**117 open roles.** 77 in the United States & Canada · 40 elsewhere in the world.
+**115 open roles.** 77 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -702,13 +702,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Frazier &amp; Deeter</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d05d243-8a5c-43b3-ada0-a9f9d26471c2">AI Enablement Engineer (India-based)</a></td>
-<td>Hyderabad<br/>India</td>
-<td align="center"><a href="https://www.frazierdeeter.com/careers/openings/apply/7986980003?gh_jid=7986980003">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Hacker News &quot;Who is hiring?&quot;</strong></td>
 <td><a href="https://trueinterview.io/jobs/8944b6f2-1cf8-4215-a486-35b7489b57c4">Python / Backend / AI Engineer — Remote / Relocation</a></td>
 <td>—</td>
@@ -833,13 +826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Stockholm</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lovable/8dd92c40-b45d-41b2-ae6b-1680b0a05d92/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SonarSource</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d22f207-dc5a-4985-8380-b85854ef0ccd">AI Researcher - Post-Training</a></td>
-<td>Geneva<br/>London</td>
-<td align="center"><a href="https://jobs.lever.co/sonarsource/13148e9e-7cb4-4c19-ab5d-e1f5dc352ae0/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Ci&amp;t</strong></td>

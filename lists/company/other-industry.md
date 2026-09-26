@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**68 open roles.** 40 in the United States & Canada · 28 elsewhere in the world. A real classification that none of the other sectors covers.
+**66 open roles.** 38 in the United States & Canada · 28 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -71,13 +71,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/df2ffe73-aee1-4736-9d17-21751e4a9ad8">Photographer/Editor</a></td>
 <td>Saint Louis, MO, United States</td>
 <td align="center"><a href="https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/17207">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Genius Sports</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a02f296-f4a0-4177-9a83-3a8a50a87a30">Software Engineer, Fan Engagement</a></td>
-<td>New York, NY<br/>New York, New York, United States<br/>New York City, USA</td>
-<td align="center"><a href="https://boards.greenhouse.io/geniussports/jobs/7992799003?gh_jid=7992799003">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
@@ -212,13 +205,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Charlotte, North Carolina, United States<br/>Corporate</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/cpisecurity/jobs/4707436006">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/68c78262-a41a-410e-8049-938b9f1bf1b1">Designer - Social &amp; Brand</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Canada</td>
-<td align="center"><a href="https://www.monks.com/careers/6148884004/job?gh_jid=6148884004">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Gettyimages</strong></td>

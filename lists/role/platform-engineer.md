@@ -2,7 +2,7 @@
 
 # Platform Engineer
 
-**33 open roles.** 24 in the United States & Canada · 9 elsewhere in the world.
+**32 open roles.** 23 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -128,13 +128,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Pittsburgh, United States</td>
 <td align="center"><a href="https://4dayweek.io/job/platform-engineer-at-duolingo-5fa28b15">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Faire</strong></td>
-<td><a href="https://trueinterview.io/jobs/68e8462c-1573-416e-abfc-5d9bded604dc">IT Client Platform Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/faire/jobs/8758597002?gh_jid=8758597002">Apply</a></td>
-<td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Defense Unicorns</strong></td>

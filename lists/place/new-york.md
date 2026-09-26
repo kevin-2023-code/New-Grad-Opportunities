@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**174 open roles.**
+**170 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -382,20 +382,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Genius Sports</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a02f296-f4a0-4177-9a83-3a8a50a87a30">Software Engineer, Fan Engagement</a></td>
-<td>New York, NY<br/>New York, New York, United States<br/>New York City, USA</td>
-<td align="center"><a href="https://boards.greenhouse.io/geniussports/jobs/7992799003?gh_jid=7992799003">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sequence Holdings</strong></td>
-<td><a href="https://trueinterview.io/jobs/6934b196-56cc-4fcd-8f66-a486bbdde269">Product Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/seqholdings/7ab66292-f81b-4a58-a0f0-6fbafd54061a/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Robinhood</strong></td>
 <td><a href="https://trueinterview.io/jobs/0c275d8c-fc68-473f-bcc1-af9ed925bcaf">Associate Product Manager (New Grad)</a></td>
 <td>New York, NY<br/>Menlo Park, CA</td>
@@ -456,13 +442,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/799ec45e-c0ee-492a-9fec-ec9128c80908">Forward Deployed Engineer - Strategic Account</a></td>
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/metal/536f32ad-b84f-4164-9ed2-9928c9aac7a5/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mindrift</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c543bc2-342b-4995-9a3e-9c4e5422b4f9">Freelance Graphic Designer</a></td>
-<td>New York, NY<br/>Manchester, England, United Kingdom<br/>London, England, United Kingdom<br/>+18 more</td>
-<td align="center"><a href="https://jobs.workable.com/view/fBo7fVGrLDAyqYP3gnbdq3/remote-freelance-graphic-designer-in-israel-at-mindrift">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
@@ -1100,13 +1079,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a2b5c346-ce2d-463b-9333-ff257d38fe99">Data Scientist</a></td>
 <td>New York City</td>
 <td align="center"><a href="https://www.fanduel.careers/open-positions?gh_jid=8120545">Apply</a></td>
-<td align="center">10 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/69367a46-43ca-40fd-851d-7414b99705bf">Network Engineer, Design &amp; Engineering</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>Austin, TX<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/8fd17643-2fdb-4c61-b76b-454872a44b99/application">Apply</a></td>
 <td align="center">10 Aug 2026</td>
 </tr>
 <tr>

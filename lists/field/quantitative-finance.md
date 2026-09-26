@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**20 open roles.** 12 in the United States & Canada · 8 elsewhere in the world.
+**19 open roles.** 11 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Robinhood</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c5eff38-1337-4a67-ad31-06dcc36e6666">Overnight Customer Experience Representative, Active Trader</a></td>
-<td>Chicago, IL<br/>Denver, CO<br/>Westlake, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8224751?t=gh_src=&amp;gh_jid=8224751">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Chicago Trading</strong></td>
 <td><a href="https://trueinterview.io/jobs/e036a8f8-20bc-48da-a9db-c796247dde8b">Quant Developer - Research Engineering</a></td>

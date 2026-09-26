@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**149 open roles.** 111 in the United States & Canada · 38 elsewhere in the world.
+**146 open roles.** 108 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -260,13 +260,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e864d240-5187-4132-9741-7bedf2db2ae4">Production Designer</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/kettle/jobs/8802218002">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mindrift</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c543bc2-342b-4995-9a3e-9c4e5422b4f9">Freelance Graphic Designer</a></td>
-<td>New York, NY<br/>Manchester, England, United Kingdom<br/>London, England, United Kingdom<br/>+18 more</td>
-<td align="center"><a href="https://jobs.workable.com/view/fBo7fVGrLDAyqYP3gnbdq3/remote-freelance-graphic-designer-in-israel-at-mindrift">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
@@ -536,13 +529,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/68c78262-a41a-410e-8049-938b9f1bf1b1">Designer - Social &amp; Brand</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Canada</td>
-<td align="center"><a href="https://www.monks.com/careers/6148884004/job?gh_jid=6148884004">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/c8dfeded-a079-47ec-8f70-85688bc286b9">Jr. Mechanical Designer</a></td>
 <td>Sudbury, ON, Canada</td>
@@ -688,13 +674,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA</td>
 <td align="center"><a href="https://www.klaviyo.com/careers/jobs/7855794003?gh_jid=7855794003">Apply</a></td>
 <td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/68f5e57b-5f2b-4961-a29b-d0f2c94a5466">Product Designer, GenUI</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/7c1cd1ec-47a9-4d15-8eb9-2f44272db796/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Mariana Minerals</strong></td>

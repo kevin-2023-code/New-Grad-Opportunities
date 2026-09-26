@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,294 open roles.** 993 in the United States & Canada · 301 elsewhere in the world.
+**1,278 open roles.** 980 in the United States & Canada · 298 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,62 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Roshal Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/77f66f82-f11d-46c7-b833-0995db99aaa5">Ultrasound Technologist - PRN - Buda, TX</a></td>
-<td>Buda, TX</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/640867c0-8e2d-4514-a417-4d6648bbd24a/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/77932e67-ea05-4cb2-af88-0bd2c7b681ee">CT Technologist - PRN - Austin, TX</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/a1a2ecda-defb-4500-a069-6b22bb87817a/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a989ee16-fd3c-4a0e-926f-c1d93597b164">Ultrasound Technologist - PRN - Texas City TX</a></td>
-<td>Texas City, TX</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/a3443a9d-6c67-45c3-9262-08b4ec94446c/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cf69280a-e93e-4688-a75a-85e187b2b77b">Ultrasound Technologist - PRN - Paris, TX</a></td>
-<td>Paris, TX</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/7d5d092b-82a2-47bd-889d-5e9c96bd911d/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7d3639fa-1fc2-41eb-987d-261c9515b809">Ultrasound Technologist - PRN - Garland, TX</a></td>
-<td>Rockwall, TX</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/21611299-756d-4c7d-b1fb-3324b62e418c/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Zoox</strong></td>
-<td><a href="https://trueinterview.io/jobs/c3498558-0697-483c-8364-1bd8004dd43b">Body Structures Engineer</a></td>
-<td>Foster City, CA</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/7980e9a3-99f3-4988-ae6d-355c9199d8fb/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Inalab</strong></td>
-<td><a href="https://trueinterview.io/jobs/1495031a-e6a7-4a32-a521-b1ee82d29f2c">Application Developer - FWS ECOSphere</a></td>
-<td>Fort Collins, CO<br/>Falls Church, VA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/inalabconsulting/jobs/5129452008">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Schrödinger</strong></td>
-<td><a href="https://trueinterview.io/jobs/765b8bbd-ed5b-446c-addb-501eefb1c9fe">Infrastructure Developer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/schrdinger/jobs/7991930003">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Inalab</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e38aba4-eb5c-4c27-bebc-e4f28f895df2">Application Developer - Databricks - FWS</a></td>
@@ -695,13 +639,6 @@
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Maarut</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c8c8b6a-c54b-4431-ac74-4f3725d65ef9">software developer</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50225158">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Sienci Labs Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/915c1fb5-8cf7-497e-b132-7ef43297515e">cloud developer</a></td>
 <td>Waterloo, ON</td>
@@ -871,13 +808,6 @@
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a58767b-a189-4792-bfa2-abf7f6016ec0">New College Grad - HBM Product Development Failure Analysis Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44332888">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/989d08ad-092b-469a-8317-4081297eb7bc">New College Grad - Yield Enhancement Electrical Failure Analysis Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44138259">Apply</a></td>
@@ -1262,17 +1192,17 @@
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Veeva Qualityone Japan</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b1b54bc-0b11-4232-9312-676a685b4b1b">Configuration Consultant - RTSM</a></td>
+<td>Missouri - Kansas City</td>
+<td align="center"><a href="https://jobs.lever.co/veeva/56bb474b-c80a-4f02-bb20-974f2ef094bc/apply">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>St. Michael's Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/c2affcff-f482-4496-ba49-d2c6229a9f7d">Maritime Systems Engineer (Top Secret Clearance with SCI Required)</a></td>
 <td>Tampa, FL</td>
 <td align="center"><a href="https://www.stmichaelsinc.com/jobs?gh_jid=5411709008">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/69d60072-26b0-4760-a002-24f9633da415">GPU Design Verification Engineer - Shader Core</a></td>
-<td>US, CA, San Diego<br/>San Diego, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91880?lang=en-us">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
@@ -1483,13 +1413,6 @@
 <td><a href="https://trueinterview.io/jobs/aade0709-9dcb-4fce-9515-6edb98f4e520">VA Cybersecurity and Compliance Specialist</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://ironbow-com.sandbox.hs-sites.com/job-details?gh_jid=5225629007">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Faire</strong></td>
-<td><a href="https://trueinterview.io/jobs/68e8462c-1573-416e-abfc-5d9bded604dc">IT Client Platform Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/faire/jobs/8758597002?gh_jid=8758597002">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
@@ -2814,6 +2737,83 @@
 <td>Starbase, TX<br/>Brownsville, TX, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8721585002?gh_jid=8721585002">Apply</a></td>
 <td align="center">18 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ac0d92d7-99c8-4ae6-bbd1-0d8682c34837">Propulsion Engineer, Propulsion Simulation &amp; Data Analysis</a></td>
+<td>Hawthorne, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696839002?gh_jid=8696839002">Apply</a></td>
+<td align="center">18 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a74710b2-18b0-4c8a-ae26-22c666f9c97a">Launch Engineer, Dragon</a></td>
+<td>Cape Canaveral, FL</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8723922002?gh_jid=8723922002">Apply</a></td>
+<td align="center">18 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Woven By Toyota</strong></td>
+<td><a href="https://trueinterview.io/jobs/8be5adf4-1ace-4d01-ad6a-b406998f90bc">Network Operations Engineer</a></td>
+<td>Ann Arbor, MI</td>
+<td align="center"><a href="https://jobs.lever.co/woven-by-toyota/efde9bf2-7a0b-4818-967d-361a6a4fdd2d/apply">Apply</a></td>
+<td align="center">18 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Netflix</strong></td>
+<td><a href="https://trueinterview.io/jobs/75b12db2-11b0-4c06-8405-37d515d2d528">Software Engineer - Customer Service Platform</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317897268">Apply</a></td>
+<td align="center">18 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Trellisware Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/976404ba-61ab-445e-9802-72e7e21279df">Software Engineer, Embedded Linux</a></td>
+<td>San Diego, California</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/trelliswaretechnologies/jobs/4313803009">Apply</a></td>
+<td align="center">17 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Novig</strong></td>
+<td><a href="https://trueinterview.io/jobs/727e3ad9-d754-4f53-b405-3b5d7dbd633b">Software Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/novig/ff741902-a4e7-4d91-8d1d-e6d7af599043/application">Apply</a></td>
+<td align="center">17 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Level99 Entertainment</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae4bb09c-14ba-43b9-8e57-424ca75dd16d">Design Engineer</a></td>
+<td>Greater Boston, MA</td>
+<td align="center"><a href="https://jobs.lever.co/level99/bad65767-b65f-40f8-be2a-ace7098d228f/apply">Apply</a></td>
+<td align="center">17 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/741552ee-ee7d-4af9-afb9-00107805fe5f">Operations Engineer</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4706016006?gh_jid=4706016006">Apply</a></td>
+<td align="center">17 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/8362e48f-56e2-41fb-b9e8-135c6972a0c4">ADAS Systems Engineer for Perception</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67763">Apply</a></td>
+<td align="center">17 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Watershed</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0bfd1fe-3fa8-4851-80ab-2e5447abf03a">GTM engineer</a></td>
+<td>San Francisco, CA<br/>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/watershed/00f1ba3f-67ba-48cb-8e88-1eacc2ebb9f7/application">Apply</a></td>
+<td align="center">17 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Modal</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ae39a13-deae-421b-8232-42e0ff5bd4e1">Detection and Response Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/modal/e1915603-d9de-4760-b445-c266a1080499/application">Apply</a></td>
+<td align="center">17 Aug 2026</td>
 </tr>
 </tbody>
 </table>

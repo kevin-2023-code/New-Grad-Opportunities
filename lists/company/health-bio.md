@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**57 open roles.** 44 in the United States & Canada · 13 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**58 open roles.** 44 in the United States & Canada · 14 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -371,6 +371,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>San Diego HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/iambic-therapeutics/35fa46c2-1cd5-4222-88f5-987e7bf26db7/application">Apply</a></td>
 <td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c849f13-646e-4b1a-ab17-e8e0cafbecdc">Engineering Technician</a></td>
+<td>Mexicali, MEXICO, Mexico</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000147338408-engineering-technician?oga=true">Apply</a></td>
+<td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Truveta</strong></td>

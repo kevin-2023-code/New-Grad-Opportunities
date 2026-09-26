@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**42 open roles.** 27 in the United States & Canada · 15 elsewhere in the world.
+**41 open roles.** 26 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -85,13 +85,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f1de32a2-be52-4d6e-baa3-f8391d9085d1">Data Scientist</a></td>
 <td>MacDill Air Force Base, United States</td>
 <td align="center"><a href="https://4dayweek.io/job/data-scientist-at-parsons-corporation-e3766787">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PayPal</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ce34a3a-a35f-439a-b50b-fb6eb722f2dd">Data Scientist - Payments Risk Management &amp; Data Analytics</a></td>
-<td>Chicago, Illinois, United States of America</td>
-<td align="center"><a href="https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Data-Scientist---Payments-Risk-Management---Data-Analytics_R0138042">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

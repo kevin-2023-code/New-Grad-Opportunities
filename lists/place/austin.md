@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**134 open roles.**
+**132 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -823,13 +823,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6a7674c0-fc4f-4e0a-bdcb-56033b103f35">Full Stack Software Engineer, MES (Manufacturing Execution System)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696897002?gh_jid=8696897002">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/7416d491-c760-4924-b07d-16ca8bdc9ecd">Compute Engineer, Deployment</a> 🌐</td>
 <td>Remote — United States<br/>Austin, TX</td>
@@ -849,13 +842,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>Austin, Texas, United States of America<br/>Seattle, Washington, United States of America<br/>+31 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Seattle-Washington-US/Applied-AI-Scientist_2018334">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/69367a46-43ca-40fd-851d-7414b99705bf">Network Engineer, Design &amp; Engineering</a></td>
-<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/8fd17643-2fdb-4c61-b76b-454872a44b99/application">Apply</a></td>
-<td align="center">10 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>CrowdStrike</strong></td>

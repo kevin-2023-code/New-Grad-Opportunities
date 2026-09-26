@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**64 open roles.** 39 in the United States & Canada · 25 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**63 open roles.** 38 in the United States & Canada · 25 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -219,13 +219,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/iseatz/jobs/5406282008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Faire</strong></td>
-<td><a href="https://trueinterview.io/jobs/68e8462c-1573-416e-abfc-5d9bded604dc">IT Client Platform Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/faire/jobs/8758597002?gh_jid=8758597002">Apply</a></td>
-<td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Carvana</strong></td>

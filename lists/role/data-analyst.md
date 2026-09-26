@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**35 open roles.** 17 in the United States & Canada · 18 elsewhere in the world.
+**33 open roles.** 16 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -109,13 +109,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>DRW</strong></td>
-<td><a href="https://trueinterview.io/jobs/691cec80-def4-43a8-b9f4-d461016d4fbe">Data Analyst</a></td>
-<td>Montreal, QC<br/>Montréal</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8128786">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Leavitt Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/47839761-a695-47d9-9655-b244ffa0ed20">Data Analyst (Employee Benefits)</a></td>
 <td>South Salt Lake City, UT</td>
@@ -217,13 +210,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Almaty, Kazakhstan</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/higgsfieldai/acff8f8d-e7f0-4271-86b4-dded83b0da9f/application">Apply</a></td>
 <td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Inter Carreiras</strong></td>
-<td><a href="https://trueinterview.io/jobs/6cabb136-ed16-47ef-ad1d-34ddc4252d6b">DATA ANALYST II | BANKING BI DATA WAREHOUSE MG</a></td>
-<td>Belo Horizonte, MG<br/>BANCO INTER</td>
-<td align="center"><a href="https://boards.greenhouse.io/inter/jobs/4729998005?gh_jid=4729998005">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
