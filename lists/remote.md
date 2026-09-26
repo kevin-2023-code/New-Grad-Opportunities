@@ -18,6 +18,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Quora</strong></td>
+<td><a href="https://trueinterview.io/jobs/249f45b1-48b5-45bf-943a-98bce58413c0">Software Engineer New Grad, Machine Learning Platform - Quora (Remote)</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ashby</strong></td>
+<td><a href="https://trueinterview.io/jobs/79a9c06c-dfb9-416b-8f12-6694234caa7a">QA Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/ashby/eef95ecb-f946-4339-913d-beed66201bef/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Pointclickcare</strong></td>
 <td><a href="https://trueinterview.io/jobs/4181338c-4bed-4418-9449-b62a4845967d">US- Software Training Specialist (Clinical)</a> 🌐</td>
 <td>Remote — United States</td>
@@ -43,6 +57,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/da73c816-f20e-456a-8026-77be6e31919e">Software Engineer (L6) - Compute Runtime</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317912743">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/90e33f94-5777-4c1f-b37b-3723ef213cf6">Software Engineering L5, Open Connect Platform</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790318653296">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -114,13 +135,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://abnormal.ai/careers/jobs/8001641003?gh_jid=8001641003">Apply</a></td>
 <td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Doma Technology Llc</strong></td>
-<td><a href="https://trueinterview.io/jobs/614ae4e6-01c5-4351-8303-634db0671786">IT Specialist</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doma/jobs/8219588">Apply</a></td>
-<td align="center">21 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Openrouter</strong></td>
@@ -753,13 +767,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Apex Companies</strong></td>
-<td><a href="https://trueinterview.io/jobs/6273f2f5-9042-4331-b512-9e46f601bf9d">CAD Technician</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5405864008">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Deepgram</strong></td>
 <td><a href="https://trueinterview.io/jobs/8b6581ee-2169-41c3-8867-be1c696766e5">Partner Success Engineer (AWS)</a> 🌐</td>
 <td>Remote — United States</td>
@@ -1173,13 +1180,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Pandadoc</strong></td>
-<td><a href="https://trueinterview.io/jobs/61313403-d6a4-4691-a5aa-5b0d4246c0d4">Solutions Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pandadoc/jobs/8106390">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Dash0</strong></td>
 <td><a href="https://trueinterview.io/jobs/309b3be4-b7f2-48ad-8678-c60b48756eb8">Enterprise Solutions Engineer - West Coast</a> 🌐</td>
 <td>Remote — United States</td>
@@ -1247,6 +1247,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Legion Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cc7ca49-e420-4157-8634-aa684daaf082">Growth Designer — Paid Creative, Brand &amp; Web UX (Remote Part-Time; backed by Y Combinator, $5M+ ARR, $23M+ raised)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/legionhealth/825cef11-fda4-4eec-8753-f06ba3914b4a/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Squads</strong></td>
 <td><a href="https://trueinterview.io/jobs/aa90bc69-8b05-4aac-9f99-0244f3b21cfd">Security Engineer</a> 🌐</td>
@@ -1701,13 +1708,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/outpost/0653bc36-22ee-4922-aab7-5fafdf589443/application">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Samsara</strong></td>
-<td><a href="https://trueinterview.io/jobs/630c28d0-2101-4ed0-9af0-7aed1a7817fa">Technical Support Engineer I - Mexico</a> 🌐</td>
-<td>Remote — Mexico</td>
-<td align="center"><a href="https://www.samsara.com/company/careers/roles/8112694?gh_jid=8112694">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>E.l.f. Beauty</strong></td>

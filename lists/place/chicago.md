@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**33 open roles.**
+**32 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -184,13 +184,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chicago, IL</td>
 <td align="center"><a href="https://jobs.lever.co/jetsupport/154759ba-a379-4862-b54b-aa3396873e4c/apply">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Palo Alto Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/60f51eeb-1a9f-492a-bdb1-b172e0afc0ba">Solutions Engineer, Endpoint - Central</a></td>
-<td>Chicago, IL<br/>Chicago, United States of America<br/>Austin, TX<br/>+3 more</td>
-<td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Chicago-United-States-of-America/Solutions-Engineer--Endpoint---Central_JR-020640">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Salesforce</strong></td>

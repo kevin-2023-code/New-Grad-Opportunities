@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,324 open roles.** 1,020 in the United States & Canada · 304 elsewhere in the world.
+**1,316 open roles.** 1,014 in the United States & Canada · 302 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,55 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Experian</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c67176a-12a3-4b39-b469-e7b84b1aca63">Software Engineer I</a></td>
-<td>Cyberjaya, Selangor, Malaysia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000147095609-software-engineer-i?oga=true">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Supabase</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1cc2e8e-ede6-451a-87e4-961135b7fb76">Platform Security Engineer (AMER/APAC)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/supabase/8fa1c7a0-a85c-4562-a1f5-4dd22cadae27/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Yubico Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/bb5301db-5194-4a9a-876a-0c372122b935">Software Engineer (Cross-Platform Applications)</a></td>
-<td>Stockholm, Sweden</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/yubico/jobs/4390628009">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lochmueller Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea37cb69-eeab-47ee-aebf-68314b595821">Roadway Project Engineer</a></td>
-<td>Indianapolis IN</td>
-<td align="center"><a href="https://jobs.lever.co/lochgroup/eaa96700-3103-40b9-942c-f427f6655b52/apply">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Obsidian Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/095b9dd2-800f-45b9-bde4-5f166de58e96">AI Security Engineer - Taiwan</a></td>
-<td>Taipei, Taiwan</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/obsidiansecurity/jobs/5406173008">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>GitLab</strong></td>
-<td><a href="https://trueinterview.io/jobs/b033284e-cc5f-43c5-9341-781bcb9b0003">Intermediate Backend Engineer, India</a> 🌐</td>
-<td>Remote — India, United Kingdom</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8775507002">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b1ddefa3-d0a9-40f1-9d6f-c8e187b8b79b">Intermediate Backend Engineer, EMEA</a> 🌐</td>
-<td>Remote — Poland</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8775415002">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Trulioo</strong></td>
 <td><a href="https://trueinterview.io/jobs/bec4d139-9187-43f5-83c6-e5f12764e83f">Junior Software Engineer</a></td>
@@ -225,13 +176,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c2d2e49a-8da3-494c-b1aa-611bc3764de1">Recreation Programmer</a></td>
 <td>Park &amp; Recreation<br/>None</td>
 <td align="center"><a href="https://boards.greenhouse.io/cityoffortworth/jobs/7979753003?gh_jid=7979753003">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Encora</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce88bc0d-4217-4e7d-8d75-c950915083c5">Backend Engineer (exp. en AWS)</a></td>
-<td>Peru<br/>Lima</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/encora10/jobs/5222580007">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>

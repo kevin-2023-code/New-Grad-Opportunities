@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,324 open roles.** 1,020 in the United States & Canada · 304 elsewhere in the world.
+**1,316 open roles.** 1,014 in the United States & Canada · 302 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,21 +16,7 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>Netflix</strong></td>
-<td><a href="https://trueinterview.io/jobs/e49e094e-5f1e-410d-ac36-da475cf9129c">Distributed Systems Engineer (L5) - Compute</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317912171">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/9540b709-298c-45d2-875d-f75591a16641">NVIDIA 2027 Internships: Software Engineering</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397026205">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f45eab34-22f9-42ee-af35-6d6427ea6c34">NVIDIA 2027 Internships: Systems Software Engineering</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397026201">Apply</a></td>
@@ -779,13 +765,6 @@
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Bobyard</strong></td>
-<td><a href="https://trueinterview.io/jobs/616102f7-ef42-4b10-8a61-f8319255fcf5">Frontend Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/bobyard/30cd724e-6ae3-4e9b-868f-05574bee7f0f/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Mthree</strong></td>
 <td><a href="https://trueinterview.io/jobs/186c109c-35c8-401b-bae7-4770c6860cbb">Ingénieur DevOps / DevOps Engineer</a></td>
 <td>Montréal, Quebec, Canada<br/>Canada, Montréal</td>
@@ -1367,13 +1346,6 @@
 <td align="center">4 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Pandadoc</strong></td>
-<td><a href="https://trueinterview.io/jobs/61313403-d6a4-4691-a5aa-5b0d4246c0d4">Solutions Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pandadoc/jobs/8106390">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/ffbb06c7-faae-482b-a633-298116b1a19c">Automation &amp; Controls Engineer, Solar (Starlink)</a></td>
 <td>Redmond, WA</td>
@@ -1507,13 +1479,6 @@
 <td align="center">30 Jul 2026</td>
 </tr>
 <tr>
-<td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/62b497a7-567a-42e0-92f8-5ec424133381">C/C++ Software Engineer - Core Tech Team</a></td>
-<td>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19266?lang=en-us">Apply</a></td>
-<td align="center">30 Jul 2026</td>
-</tr>
-<tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/46068e53-2b51-4128-bd7e-22bf8d862c99">Software Engineer, Cloudflare Network Interconnect</a></td>
 <td>Austin, TX<br/>London, United Kingdom<br/>Hybrid<br/>+1 more</td>
@@ -1547,13 +1512,6 @@
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790316758806">Apply</a></td>
 <td align="center">29 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>Square</strong></td>
-<td><a href="https://trueinterview.io/jobs/c5007a14-4fbc-4a39-b654-165bcff6980d">Software Engineer, Reconciliation &amp; Reporting</a></td>
-<td>Bay Area, CA, United States of America<br/>US - CA - SoCal - Remote</td>
-<td align="center"><a href="http://block.xyz/careers/jobs/5369941008?gh_jid=5369941008">Apply</a></td>
-<td align="center">27 Jul 2026</td>
 </tr>
 </tbody>
 </table>
@@ -1614,6 +1572,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a8dcefbb-921d-4960-8822-77d9d0fdd6c6">Salesforce Developer / Administrator – Audiobook Publisher | Mexico</a></td>
 <td>Mexico City<br/>São Paulo<br/>Santo Domingo<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/truelogic/fe233aef-7c00-46ed-9f7f-fa1a549ae7f5/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/612b28af-902c-4b36-aa67-345e90c4e09c">SVS Tester (R5985)</a></td>
+<td>Melbourne</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/d7a24b6e-caac-4bbd-84d3-44d089721f92/apply">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -2709,13 +2674,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/613cacaa-56bc-47ed-89b2-aac9d6e9e1fd">GNC Engineer I - Electron</a></td>
-<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7978902003">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Genomics England</strong></td>
 <td><a href="https://trueinterview.io/jobs/c0410897-e6a8-48ed-b321-29d92c31adfd">Software Engineer - Python</a></td>
 <td>London, United Kingdom</td>
@@ -2800,13 +2758,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Natera</strong></td>
-<td><a href="https://trueinterview.io/jobs/62c9c972-b9a1-40d2-9eca-78ac5e358523">Natera / L3 Software Engineer / Full-Time / Remote, USA / 140 - 160k USD / Genomics Tech /</a></td>
-<td>Full-Time</td>
-<td align="center"><a href="https://natera.com/">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/9f5e024c-78a6-4132-bbf1-d5de69a034f4">Systems Engineer</a></td>
 <td>Tokyo, Tokyo Prefecture, Japan</td>
@@ -2826,6 +2777,55 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>India Bengaluru Karnataka</td>
 <td align="center"><a href="https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Junior-Web-Developer_JREQ203099-1">Apply</a></td>
 <td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Experian</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c67176a-12a3-4b39-b469-e7b84b1aca63">Software Engineer I</a></td>
+<td>Cyberjaya, Selangor, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000147095609-software-engineer-i?oga=true">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Supabase</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1cc2e8e-ede6-451a-87e4-961135b7fb76">Platform Security Engineer (AMER/APAC)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/supabase/8fa1c7a0-a85c-4562-a1f5-4dd22cadae27/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Yubico Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb5301db-5194-4a9a-876a-0c372122b935">Software Engineer (Cross-Platform Applications)</a></td>
+<td>Stockholm, Sweden</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/yubico/jobs/4390628009">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lochmueller Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea37cb69-eeab-47ee-aebf-68314b595821">Roadway Project Engineer</a></td>
+<td>Indianapolis IN</td>
+<td align="center"><a href="https://jobs.lever.co/lochgroup/eaa96700-3103-40b9-942c-f427f6655b52/apply">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Obsidian Security</strong></td>
+<td><a href="https://trueinterview.io/jobs/095b9dd2-800f-45b9-bde4-5f166de58e96">AI Security Engineer - Taiwan</a></td>
+<td>Taipei, Taiwan</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/obsidiansecurity/jobs/5406173008">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>GitLab</strong></td>
+<td><a href="https://trueinterview.io/jobs/b033284e-cc5f-43c5-9341-781bcb9b0003">Intermediate Backend Engineer, India</a> 🌐</td>
+<td>Remote — India, United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8775507002">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b1ddefa3-d0a9-40f1-9d6f-c8e187b8b79b">Intermediate Backend Engineer, EMEA</a> 🌐</td>
+<td>Remote — Poland</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8775415002">Apply</a></td>
+<td align="center">2 Sep 2026</td>
 </tr>
 </tbody>
 </table>

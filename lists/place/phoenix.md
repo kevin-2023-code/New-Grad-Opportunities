@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/e89b3cfb-c6cc-4ea5-bb87-c6028a9293c4">Silicon/Electrical Validation Engineer</a></td>
+<td>US, Arizona, Phoenix<br/>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Electrical-Validation-Engineer_JR0285546">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f8fea37f-1e8b-46d8-9e77-ce06c6fa6803">Capacity and Capital Planning Engineer - Foundry</a></td>
 <td>US, Arizona, Phoenix, United States of America<br/>US, Oregon, Hillsboro<br/>US, New Mexico, Albuquerque<br/>+3 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Capacity-and-Capital-Planning-Engineer---Foundry_JR0287204-1">Apply</a></td>
@@ -187,13 +194,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/6237a278-9ca5-4e24-8d3f-a0e1d31ee484">Analog Engineer</a></td>
-<td>US, Arizona, Phoenix<br/>US, Oregon, Hillsboro, United States of America<br/>US, California, Santa Clara<br/>+1 more</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Analog-Engineer_JR0286203">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cb4eda85-7f9d-4027-9088-90f0b6203516">Package Assembly Process Development Integration Engineer</a></td>
 <td>US, Arizona, Phoenix, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Package-Assembly-Process-Development-Integration-Engineer_JR0286724">Apply</a></td>

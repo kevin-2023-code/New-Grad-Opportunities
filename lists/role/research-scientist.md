@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**36 open roles.** 33 in the United States & Canada · 3 elsewhere in the world.
+**35 open roles.** 32 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -163,13 +163,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US-WA-Bellevue</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698/application">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/61e55cf0-27bf-4b05-98b3-e2e400b214f8">Applied Scientist, Amazon Cryptographic Libraries</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10522632/applied-scientist-amazon-cryptographic-libraries">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Avalere Health</strong></td>

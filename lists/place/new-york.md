@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**177 open roles.**
+**176 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -351,13 +351,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3cf8afc7-2deb-4821-981e-b7a4b219d4d8">Software Engineer, Code Quality</a></td>
 <td>New York, NY<br/>San Francisco, CA<br/>Seattle, WA<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8202736">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>CrowdStrike</strong></td>
-<td><a href="https://trueinterview.io/jobs/60c4adc9-0521-4f09-a117-357b18919c36">Engineer, Sensor - Mac, Linux, or Windows (Hybrid)</a></td>
-<td>USA - New York, NY<br/>USA - Sunnyvale, CA, United States of America<br/>USA - Austin, TX<br/>+2 more</td>
-<td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer--Sensor---Mac--Linux--or-Windows--Hybrid-_R30023">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>

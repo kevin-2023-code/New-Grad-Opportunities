@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**66 open roles.** 43 in the United States & Canada · 23 elsewhere in the world.
+**65 open roles.** 42 in the United States & Canada · 23 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -205,13 +205,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://ironbow-com.sandbox.hs-sites.com/job-details?gh_jid=5225629007">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Dlh</strong></td>
-<td><a href="https://trueinterview.io/jobs/62b116af-ccad-4c4d-b893-92731dba7699">Cloud Security Engineer (Job 1445)</a></td>
-<td>Bethesda, Maryland</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/dlhcorporation/jobs/5223842007">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Handshake</strong></td>

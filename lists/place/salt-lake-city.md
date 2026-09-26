@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**11 open roles.**
+**10 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -65,13 +65,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Ogden, UT<br/>Kelso Building Services</td>
 <td align="center"><a href="https://kelso-industries.com/careers/?gh_jid=5406998008">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Apex Companies</strong></td>
-<td><a href="https://trueinterview.io/jobs/6273f2f5-9042-4331-b512-9e46f601bf9d">CAD Technician</a> 🌐</td>
-<td>Remote — United States<br/>Salt Lake City, UT</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5405864008">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Goldman Sachs</strong></td>

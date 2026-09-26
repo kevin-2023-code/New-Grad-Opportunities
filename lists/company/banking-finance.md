@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**74 open roles.** 34 in the United States & Canada · 40 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**73 open roles.** 34 in the United States & Canada · 39 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -433,13 +433,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c2fe45e6-6463-4b5c-85e6-571ccf3370b9">Software Engineer - 1</a></td>
 <td>Pune, India</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---1_R-288516">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sun Life</strong></td>
-<td><a href="https://trueinterview.io/jobs/60eab0c6-00b0-4dec-9b85-afc92e3885a7">Part time Data Junior Data Engineer</a></td>
-<td>Waterford, Waterford, Ireland</td>
-<td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Part-time-Data-Junior-Data-Engineer_JR00127592">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>

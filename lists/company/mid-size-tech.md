@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**93 open roles.** 67 in the United States & Canada · 26 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**92 open roles.** 66 in the United States & Canada · 26 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -471,13 +471,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA<br/>Somerville, Massachusetts</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8109809/apply/?gh_jid=8109809">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Pandadoc</strong></td>
-<td><a href="https://trueinterview.io/jobs/61313403-d6a4-4691-a5aa-5b0d4246c0d4">Solutions Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pandadoc/jobs/8106390">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>CircleCI</strong></td>

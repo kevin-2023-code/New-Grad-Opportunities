@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**83 open roles.** 81 in the United States & Canada · 2 elsewhere in the world.
+**85 open roles.** 83 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Meter</strong></td>
+<td><a href="https://trueinterview.io/jobs/dff21efb-55c5-4869-8017-04984de966f0">Hardware Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/meter/d4d55192-4582-4c8a-9e57-b19636a54849/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Shield AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/094ba932-0117-45a2-b073-8cd3f940513b">RF Engineer I (R6108)</a></td>
 <td>Seattle, Washington</td>
 <td align="center"><a href="https://jobs.lever.co/shieldai/a9d061e9-4d28-4a30-8381-5f2dc28b4416/apply">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/e89b3cfb-c6cc-4ea5-bb87-c6028a9293c4">Silicon/Electrical Validation Engineer</a></td>
+<td>US, Oregon, Hillsboro, United States of America<br/>US, Arizona, Phoenix</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Electrical-Validation-Engineer_JR0285546">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>

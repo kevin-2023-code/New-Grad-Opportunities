@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**65 open roles.** 40 in the United States & Canada · 25 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**64 open roles.** 39 in the United States & Canada · 25 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -212,13 +212,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA<br/>Seattle, WA</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/61e55cf0-27bf-4b05-98b3-e2e400b214f8">Applied Scientist, Amazon Cryptographic Libraries</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10522632/applied-scientist-amazon-cryptographic-libraries">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Iseatz</strong></td>

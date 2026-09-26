@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**76 open roles.** 47 in the United States & Canada · 29 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**75 open roles.** 46 in the United States & Canada · 29 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -338,13 +338,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United States</td>
 <td align="center"><a href="https://jobs.lever.co/prosper/0ee025d7-922b-436e-92f5-0744ffa3097e/apply">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Square</strong></td>
-<td><a href="https://trueinterview.io/jobs/c5007a14-4fbc-4a39-b654-165bcff6980d">Software Engineer, Reconciliation &amp; Reporting</a></td>
-<td>Bay Area, CA, United States of America<br/>US - CA - SoCal - Remote</td>
-<td align="center"><a href="http://block.xyz/careers/jobs/5369941008?gh_jid=5369941008">Apply</a></td>
-<td align="center">27 Jul 2026</td>
 </tr>
 </tbody>
 </table>

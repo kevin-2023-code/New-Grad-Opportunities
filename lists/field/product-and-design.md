@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**149 open roles.** 112 in the United States & Canada · 37 elsewhere in the world.
+**151 open roles.** 113 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Arc'teryx</strong></td>
+<td><a href="https://trueinterview.io/jobs/67cd45de-14d5-46d3-a413-87cb839d8a50">Designer 1 – Men’s Run</a></td>
+<td>North Vancouver, BC (Corporate)</td>
+<td align="center"><a href="https://jobs.lever.co/arcteryx.com/24687960-9489-449b-989c-68be6139fe5b/apply">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>C3.ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/b401218c-c3b5-418f-969e-5595bffdd51c">Product Designer</a></td>
@@ -813,6 +820,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Legion Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cc7ca49-e420-4157-8634-aa684daaf082">Growth Designer — Paid Creative, Brand &amp; Web UX (Remote Part-Time; backed by Y Combinator, $5M+ ARR, $23M+ raised)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/legionhealth/825cef11-fda4-4eec-8753-f06ba3914b4a/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Monks</strong></td>
 <td><a href="https://trueinterview.io/jobs/8cfb9a37-c28b-4c3d-94b2-5110220f53bd">Sound Designer</a></td>

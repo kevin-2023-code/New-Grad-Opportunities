@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**146 open roles.** 107 in the United States & Canada · 39 elsewhere in the world.
+**144 open roles.** 105 in the United States & Canada · 39 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,13 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Vancouver, BC</td>
 <td align="center"><a href="https://jobs.lever.co/lvs1/fb9a4d81-6f75-4259-b723-14de479b0e46/apply">Apply</a></td>
 <td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Doma Technology Llc</strong></td>
-<td><a href="https://trueinterview.io/jobs/614ae4e6-01c5-4351-8303-634db0671786">IT Specialist</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doma/jobs/8219588">Apply</a></td>
-<td align="center">21 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Okta</strong></td>
@@ -351,13 +344,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f12c9a51-6d8d-40e4-82ec-608eddd3c615">Finance Systems Administrator</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/chainguard/jobs/4710554006">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Accenture Federal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/6084ad99-c2a4-40b7-9d87-9381162dadf2">Junior Cloud Systems Administrator</a></td>
-<td>Colorado Springs, CO</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4688938006?gh_jid=4688938006">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
@@ -779,6 +765,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/06262add-a70f-457e-9f45-6b17a3e24215">Network Security Operations Center Analyst - Nights</a></td>
+<td>Mexicali, MEXICO, Mexico</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000151938459-network-security-operations-center-analyst-nights?oga=true">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Cirque Du Soleil Entertainment Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/d72057ef-447b-480e-bcaa-ce3b24bde1eb">Technicien en TI – Spectacles en tournée | IT Technician – Touring Shows</a></td>
 <td>*En tournée<br/>On tour<br/>Anywhere</td>
@@ -994,13 +987,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/its/jobs/7897192003">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Samsara</strong></td>
-<td><a href="https://trueinterview.io/jobs/630c28d0-2101-4ed0-9af0-7aed1a7817fa">Technical Support Engineer I - Mexico</a> 🌐</td>
-<td>Remote — Mexico</td>
-<td align="center"><a href="https://www.samsara.com/company/careers/roles/8112694?gh_jid=8112694">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Spektrum</strong></td>

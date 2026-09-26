@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**73 open roles.** 47 in the United States & Canada · 26 elsewhere in the world.
+**71 open roles.** 46 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -242,13 +242,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Tactile Medical</strong></td>
-<td><a href="https://trueinterview.io/jobs/6147be94-95a9-4f51-b3d4-3d9fe946d76b">Business Intelligence Analyst</a></td>
-<td>Minneapolis, Minnesota<br/>Corporate</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tactilemedical/jobs/4370520009">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/9d0830ac-9e11-4c55-bbf7-567a6afdd158">Agentic AI / Data Engineer - DC GPU</a></td>
 <td>US, IN, Home Office<br/>Indiana, United States</td>
@@ -448,13 +441,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City</td>
 <td align="center"><a href="https://www.monks.com/careers/6173872004/job?gh_jid=6173872004">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sun Life</strong></td>
-<td><a href="https://trueinterview.io/jobs/60eab0c6-00b0-4dec-9b85-afc92e3885a7">Part time Data Junior Data Engineer</a></td>
-<td>Waterford, Waterford, Ireland</td>
-<td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Part-time-Data-Junior-Data-Engineer_JR00127592">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Higgsfield</strong></td>

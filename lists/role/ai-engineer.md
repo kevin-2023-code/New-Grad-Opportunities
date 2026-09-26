@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**123 open roles.** 81 in the United States & Canada · 42 elsewhere in the world.
+**122 open roles.** 80 in the United States & Canada · 42 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -575,13 +575,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fcb3dd73-376f-4ac3-91b3-2fc83981578b">Operations Engineer, Applied AI (Application Software)</a></td>
 <td>Hawthorne, CA<br/>Bastrop, TX<br/>Starbase, TX<br/>+5 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8652229002?gh_jid=8652229002">Apply</a></td>
-<td align="center">28 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/b653fd7e-41c0-4055-9163-4b041f17dcbd">AI Engineer, Recursive Self-Improvement for Compute</a></td>
-<td>US, CA, Santa Clara<br/>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/87873?lang=en-us">Apply</a></td>
 <td align="center">28 Jul 2026</td>
 </tr>
 </tbody>

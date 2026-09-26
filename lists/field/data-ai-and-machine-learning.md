@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**384 open roles.** 257 in the United States & Canada · 127 elsewhere in the world.
+**383 open roles.** 256 in the United States & Canada · 127 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Quora</strong></td>
+<td><a href="https://trueinterview.io/jobs/249f45b1-48b5-45bf-943a-98bce58413c0">Software Engineer New Grad, Machine Learning Platform - Quora (Remote)</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Humansignal</strong></td>
+<td><a href="https://trueinterview.io/jobs/435e75fe-d6c1-4ef1-8204-2a2d3e14c256">Field Data Collection Specialist (Columbus, OH)</a></td>
+<td>Columbus, Ohio<br/>Columbus, OH - Onsite</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/humansignal/jobs/6208927004">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Snorkel AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/e4c7e164-adc1-4378-b4df-69e8df43e1e3">Research Scientist - Human-AI Systems</a></td>
@@ -970,13 +984,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/61e55cf0-27bf-4b05-98b3-e2e400b214f8">Applied Scientist, Amazon Cryptographic Libraries</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10522632/applied-scientist-amazon-cryptographic-libraries">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>CrowdStrike</strong></td>
 <td><a href="https://trueinterview.io/jobs/cefcf42d-cff5-4e83-9383-5a1569c3cb03">Threat Analyst – Machine Learning Operations &amp; Detection Efficacy (Remote)</a> 🌐</td>
 <td>Remote — United States</td>
@@ -1164,13 +1171,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Annapolis Junction, MD</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4708679006?gh_jid=4708679006">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Tactile Medical</strong></td>
-<td><a href="https://trueinterview.io/jobs/6147be94-95a9-4f51-b3d4-3d9fe946d76b">Business Intelligence Analyst</a></td>
-<td>Minneapolis, Minnesota<br/>Corporate</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tactilemedical/jobs/4370520009">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Diligent Robotics</strong></td>
@@ -1809,13 +1809,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8652229002?gh_jid=8652229002">Apply</a></td>
 <td align="center">28 Jul 2026</td>
 </tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/b653fd7e-41c0-4055-9163-4b041f17dcbd">AI Engineer, Recursive Self-Improvement for Compute</a></td>
-<td>US, CA, Santa Clara<br/>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/87873?lang=en-us">Apply</a></td>
-<td align="center">28 Jul 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2263,13 +2256,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Sun Life</strong></td>
-<td><a href="https://trueinterview.io/jobs/60eab0c6-00b0-4dec-9b85-afc92e3885a7">Part time Data Junior Data Engineer</a></td>
-<td>Waterford, Waterford, Ireland</td>
-<td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Part-time-Data-Junior-Data-Engineer_JR00127592">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Higgsfield</strong></td>
 <td><a href="https://trueinterview.io/jobs/43763e81-99a1-43a5-9cab-2c4f6cdf1a45">Data Science, Product Analyst</a></td>
 <td>Almaty, Kazakhstan</td>
@@ -2660,6 +2646,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bogotá</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydropx/35d8afdc-6043-4ee2-8bb7-f4b1eb218a83/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Rws Trainai</strong></td>
+<td><a href="https://trueinterview.io/jobs/6091d23b-3465-4551-9e22-26d0caf1fc73">Social Media Content Evaluator (Marathi)</a></td>
+<td>Tokyo<br/>Mexico City<br/>Paris<br/>+6 more</td>
+<td align="center"><a href="https://jobs.lever.co/rws/8e99ee27-da01-437c-a0b4-61866dc270d4/apply">Apply</a></td>
+<td align="center">10 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Exa</strong></td>

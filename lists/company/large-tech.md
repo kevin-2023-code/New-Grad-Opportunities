@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**247 open roles.** 197 in the United States & Canada · 50 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**248 open roles.** 199 in the United States & Canada · 49 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Splunk</strong></td>
+<td><a href="https://trueinterview.io/jobs/7dbb3009-76af-4c28-b630-ae5b4ccc6051">Solutions Engineer</a></td>
+<td>Washington, DC<br/>Washington, District of Columbia, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Washington-District-of-Columbia-US/Solutions-Engineer_2026120-1">Apply</a></td>
+<td align="center">26 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ff35a70-c429-44f1-91e0-0e77c6a2c625">Wireless Regulatory Engineer - SAR</a></td>
+<td>Mountain View, CA<br/>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/2250282b-7f1a-43e6-bf55-e603cbf0fd89/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Toast, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/d524733c-53e2-4e06-94e2-66ab4f3c81eb">Retail Solutions Engineer</a> 🌐</td>
@@ -1665,13 +1679,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/97b7ab0d-0de2-4c0c-adb5-7b2fcafcf11c">Applied AI Engineer, Digital Natives</a></td>
 <td>São Paulo</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/0ed5f6c7-3977-4da9-9961-202fe76de456/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Samsara</strong></td>
-<td><a href="https://trueinterview.io/jobs/630c28d0-2101-4ed0-9af0-7aed1a7817fa">Technical Support Engineer I - Mexico</a> 🌐</td>
-<td>Remote — Mexico</td>
-<td align="center"><a href="https://www.samsara.com/company/careers/roles/8112694?gh_jid=8112694">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>

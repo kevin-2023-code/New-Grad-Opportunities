@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**59 open roles.** 46 in the United States & Canada · 13 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**58 open roles.** 45 in the United States & Canada · 13 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -207,13 +207,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Tactile Medical</strong></td>
-<td><a href="https://trueinterview.io/jobs/6147be94-95a9-4f51-b3d4-3d9fe946d76b">Business Intelligence Analyst</a></td>
-<td>Minneapolis, Minnesota<br/>Corporate</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tactilemedical/jobs/4370520009">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Scan.com</strong></td>
 <td><a href="https://trueinterview.io/jobs/9839e60b-bb73-458a-b117-24ae0712118f">Associate Product Manager</a></td>
 <td>New York City</td>
@@ -352,6 +345,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/06262add-a70f-457e-9f45-6b17a3e24215">Network Security Operations Center Analyst - Nights</a></td>
+<td>Mexicali, MEXICO, Mexico</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000151938459-network-security-operations-center-analyst-nights?oga=true">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Heidi Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac5f91de-a22b-44d0-a378-f9e0238613d7">Backend Software Engineer - New Bets</a></td>
 <td>London</td>
@@ -378,13 +378,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>San Diego HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/iambic-therapeutics/35fa46c2-1cd5-4222-88f5-987e7bf26db7/application">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Natera</strong></td>
-<td><a href="https://trueinterview.io/jobs/62c9c972-b9a1-40d2-9eca-78ac5e358523">Natera / L3 Software Engineer / Full-Time / Remote, USA / 140 - 160k USD / Genomics Tech /</a></td>
-<td>Full-Time</td>
-<td align="center"><a href="https://natera.com/">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Truveta</strong></td>

@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**69 open roles.** 41 in the United States & Canada · 28 elsewhere in the world. A real classification that none of the other sectors covers.
+**70 open roles.** 42 in the United States & Canada · 28 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Arc'teryx</strong></td>
+<td><a href="https://trueinterview.io/jobs/67cd45de-14d5-46d3-a413-87cb839d8a50">Designer 1 – Men’s Run</a></td>
+<td>North Vancouver, BC (Corporate)</td>
+<td align="center"><a href="https://jobs.lever.co/arcteryx.com/24687960-9489-449b-989c-68be6139fe5b/apply">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Bet365</strong></td>
 <td><a href="https://trueinterview.io/jobs/d3ac207f-c845-46e0-8b37-3e79ef88d890">Cloud Platform Engineer</a></td>

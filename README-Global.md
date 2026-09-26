@@ -18,19 +18,19 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-25 22:11 UTC_
+_Last updated: 2026-09-26 01:25 UTC_
 
-**545 open new-grad roles** from **324 employers** · **103 posted in the last 7 days** · refreshed hourly
+**545 open new-grad roles** from **326 employers** · **97 posted in the last 7 days** · refreshed hourly
 
 ### Browse 545 new-grad roles by field
 
-💻 **[Software Engineering](#-software-engineering)** (304)
+💻 **[Software Engineering](#-software-engineering)** (302)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (127)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (30)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (31)
 
-📱 **[Product & Design](#-product--design)** (37)
+📱 **[Product & Design](#-product--design)** (38)
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (8)
 
@@ -40,9 +40,9 @@ _Last updated: 2026-09-25 22:11 UTC_
 
 ### 🔥 Posting the most this week
 
-**PwC** 13 &nbsp;·&nbsp; **Amazon** 9 &nbsp;·&nbsp; **Ci&t** 3 &nbsp;·&nbsp; **Monks** 3 &nbsp;·&nbsp; **Adobe** 2 &nbsp;·&nbsp; **Barnett Waddingham** 2 &nbsp;·&nbsp; **Capco** 2 &nbsp;·&nbsp; **Heidi Health** 2 &nbsp;·&nbsp; **Manulife** 2 &nbsp;·&nbsp; **OpenAI** 2 &nbsp;·&nbsp; **Sun Life** 2 &nbsp;·&nbsp; **The Exploration Company** 2
+**Amazon** 9 &nbsp;·&nbsp; **PwC** 8 &nbsp;·&nbsp; **Ci&t** 3 &nbsp;·&nbsp; **Monks** 3 &nbsp;·&nbsp; **Barnett Waddingham** 2 &nbsp;·&nbsp; **Capco** 2 &nbsp;·&nbsp; **Heidi Health** 2 &nbsp;·&nbsp; **Manulife** 2 &nbsp;·&nbsp; **OpenAI** 2 &nbsp;·&nbsp; **Sun Life** 2 &nbsp;·&nbsp; **The Exploration Company** 2 &nbsp;·&nbsp; **WSP** 2
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 13 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>Every employer with more than one role posted in the last 7 days, in this list. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -50,13 +50,13 @@ _Last updated: 2026-09-25 22:11 UTC_
 
 _Counts are new-grad roles in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🧾 IT services & consulting (74)](lists/company/it-consulting.md) · [🏗️ Large tech (1,000–9,999) (50)](lists/company/large-tech.md) · [🌱 Startups (under 200) (48)](lists/company/startups.md) · [🏛️ Big Tech (41)](lists/company/big-tech.md) · [🏦 Banks, insurers & asset managers (40)](lists/company/banking-finance.md) · [🧠 AI labs & AI infrastructure (36)](lists/company/ai.md) · [☁️ Developer tools, cloud & data infrastructure (35)](lists/company/dev-infra.md) · [🏢 Enterprise & business software (33)](lists/company/enterprise-saas.md) · [💳 Fintech, payments & crypto (29)](lists/company/fintech.md) · [💼 Other industries (28)](lists/company/other-industry.md) · [+14 more →](lists/README.md)
+🏷️ **By company type** — [🧾 IT services & consulting (73)](lists/company/it-consulting.md) · [🏗️ Large tech (1,000–9,999) (49)](lists/company/large-tech.md) · [🌱 Startups (under 200) (48)](lists/company/startups.md) · [🏛️ Big Tech (41)](lists/company/big-tech.md) · [🏦 Banks, insurers & asset managers (39)](lists/company/banking-finance.md) · [🧠 AI labs & AI infrastructure (36)](lists/company/ai.md) · [☁️ Developer tools, cloud & data infrastructure (35)](lists/company/dev-infra.md) · [🏢 Enterprise & business software (33)](lists/company/enterprise-saas.md) · [💳 Fintech, payments & crypto (29)](lists/company/fintech.md) · [💼 Other industries (28)](lists/company/other-industry.md) · [+14 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (111)](lists/role/software-engineer.md) · [AI Engineer (42)](lists/role/ai-engineer.md) · [Data Engineer (26)](lists/role/data-engineer.md) · [Security Engineer (23)](lists/role/security-engineer.md) · [Data Analyst (19)](lists/role/data-analyst.md) · [Full-Stack Engineer (16)](lists/role/full-stack-engineer.md) · [Backend Engineer (14)](lists/role/backend-engineer.md) · [Data Scientist (14)](lists/role/data-scientist.md) · [Machine Learning Engineer (10)](lists/role/machine-learning-engineer.md) · [Mobile Engineer (9)](lists/role/mobile-engineer.md) · [+10 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (110)](lists/role/software-engineer.md) · [AI Engineer (42)](lists/role/ai-engineer.md) · [Data Engineer (25)](lists/role/data-engineer.md) · [Security Engineer (23)](lists/role/security-engineer.md) · [Data Analyst (19)](lists/role/data-analyst.md) · [Full-Stack Engineer (16)](lists/role/full-stack-engineer.md) · [Data Scientist (14)](lists/role/data-scientist.md) · [Backend Engineer (13)](lists/role/backend-engineer.md) · [Machine Learning Engineer (10)](lists/role/machine-learning-engineer.md) · [Mobile Engineer (9)](lists/role/mobile-engineer.md) · [+10 more →](lists/README.md)
 
 📍 **By location** — [🇬🇧 London & the UK (50)](lists/place/uk.md) · [🌎 México, Brazil & Latin America (49)](lists/place/latam.md) · [🇮🇳 Bengaluru & India (32)](lists/place/india.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (17)](lists/place/anz.md) · [🇩🇪 Berlin, Munich & Germany (15)](lists/place/germany.md) · [🇫🇷 Paris & France (9)](lists/place/france.md) · [🏰 Warsaw, Kraków & Central Europe (9)](lists/place/poland-cee.md) · [🇸🇬 Singapore (8)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (6)](lists/place/greater-china.md) · [🇪🇸 Madrid, Barcelona & Iberia (5)](lists/place/iberia.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (103)](lists/new-this-week.md) · [🌐 Remote (80)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (97)](lists/new-this-week.md) · [🌐 Remote (80)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -105,28 +105,35 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/898e28a6-5551-47fb-9b1a-1f1d0a872275">software developer</a> 🆕</td>
 <td>Guelph (ON)</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50364379">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Mastercard</strong></td>
 <td><a href="https://trueinterview.io/jobs/26dd27bf-ff5b-460a-9282-b2fa8a9495cd">Software Engineer I-1</a> 🆕</td>
 <td>Pune, India</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I-1_R-290795">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Rocket Lab Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/f06cb225-fd04-4f59-81a8-6e0aa2933f43">Software Build Engineer</a> 🆕</td>
 <td>Auckland, NZ<br/>Auckland Production Complex Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/8003138003">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Truelogic</strong></td>
 <td><a href="https://trueinterview.io/jobs/a8dcefbb-921d-4960-8822-77d9d0fdd6c6">Salesforce Developer / Administrator – Audiobook Publisher | Mexico</a> 🆕</td>
 <td>Mexico City<br/>São Paulo<br/>Santo Domingo<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/truelogic/fe233aef-7c00-46ed-9f7f-fa1a549ae7f5/application">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
+</tr>
+<tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/612b28af-902c-4b36-aa67-345e90c4e09c">SVS Tester (R5985)</a> 🆕</td>
+<td>Melbourne</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/d7a24b6e-caac-4bbd-84d3-44d089721f92/apply">Apply</a></td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Adoreal</strong></td>
@@ -189,69 +196,62 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f13d059a-192a-49d4-bbe0-98a9c1e4db1d">System Software Engineer</a> 🆕</td>
 <td>Taipei, Taiwan</td>
 <td align="center"><a href="https://4dayweek.io/job/system-software-engineer-at-framework-6a7fd510">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Isolocity</strong></td>
 <td><a href="https://trueinterview.io/jobs/4f78821a-02ba-412d-9cae-02f8fd639fa8">cloud infrastructure engineer</a> 🆕</td>
 <td>Not Available</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50358308">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Manulife</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1fca626-3e07-475f-b397-d56ca185e02f">Application Security Engineer - Penetration Testing Quality Assurance</a> 🆕</td>
 <td>Quezon City</td>
 <td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/Application-Security-Engineer---Penetration-Testing-Quality-Assurance_JR26091263">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Our Future Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/c633ae1e-fe04-414f-8709-70bd52e12112">Platform Engineer</a> 🆕</td>
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/platform-engineer-at-our-future-health-3f54f829">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/6917f678-4e9c-4012-a04c-9272a8bf6f2c">IN_Manager_Full Stack Developer_GCC_Advisory_Bangalore</a> 🆕</td>
 <td>Bengaluru Millenia</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-AEM-Lead-GCC-Advisory-Bangalore_746233WD-1">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/733f1124-3acf-419f-8973-3332cd0920e6">IN_Senior Associate_.Net Fullstack Developer_GCC_Advisory_Banaglore</a> 🆕</td>
 <td>Hyderabad - Salarpuria</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Adobe-Experience-Manager-content-management-system-GCC-Advisory-Banaglore_744222WD-1">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e2f6614c-8efb-498d-a94e-754a7a180416">IN_Senior Associate_.Net Fullstack Developer_GCC_Advisory_Hyderabad</a> 🆕</td>
 <td>Hyderabad - Salarpuria</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-QA-Automation-GCC-Advisory-Bangalore_737063WD-1">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Richie It Solutions Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/70b9d975-4da2-4f09-beeb-3adb3b2ccf50">software developer</a> 🆕</td>
 <td>Edmonton (AB)</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50357104">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Fonoa</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e23686f-ea67-4765-92c0-e54cc121b8e8">Solutions Engineer, APAC</a> 🆕</td>
 <td>Sydney</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fonoa/12af745e-3133-480d-ba56-f729bf80d5d8/application">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/e5a7e001-f3e2-4f96-87db-e162e64777d1">Forward Deployed Engineer, Professional Services</a> 🆕</td>
-<td>Munich, Germany<br/>Distributed</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8043305?gh_jid=8043305">Apply</a></td>
 <td align="center">2d</td>
 </tr>
 </tbody>
@@ -265,6 +265,69 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>FIS Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d410a9f-206b-4d7b-a625-9fff22c63075">Software Engineering, FIS University Program</a></td>
+<td>3 Locations</td>
+<td align="center"><a href="https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineering--FIS-University-Program_JR0309486">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Genomics England</strong></td>
+<td><a href="https://trueinterview.io/jobs/47e80336-7a7f-40fd-bfe3-4d1210adfa44">Platform Engineer, AWS</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://4dayweek.io/job/platform-engineer-aws-at-genomics-england-becc3850">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Mastercard</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5616901-e13b-4144-8923-765c7b4c340d">Java Software Engineer</a></td>
+<td>Mexico City, Mexico</td>
+<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Java-Software-Engineer_R-289283">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/c73e8e49-c9cb-4017-a9b5-263a024b2950">IN_Sr Associate__Devops Engineer_Emerging Business_Advisory_Bangalore</a></td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Sr-Associate--Generative-AI-Engineer-Emerging-Businesses-Advisory-Bangalore_754119WD">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b545ce7-28a6-4a59-99c1-e562101d0681">Software Engineering PMTS - Data Platform</a></td>
+<td>2 Locations</td>
+<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS---Data-Platform_JR354685">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/082e8091-8861-47d1-bda5-a65e8308b52a">Software Engineering, MTS/ SMTS (Full-Stack)</a></td>
+<td>2 Locations</td>
+<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-MTS_JR338172-1">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Thomson Reuters</strong></td>
+<td><a href="https://trueinterview.io/jobs/869d7e68-5f44-49f7-881d-3f16ae8250bc">Software Engineer</a></td>
+<td>Sri Lanka Colombo</td>
+<td align="center"><a href="https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sri-Lanka-Colombo/Software-Engineer_JREQ200014">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Hilbert's Ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/473c495e-cd1d-4657-abbb-b72c7004631d">General Application</a></td>
+<td>World wide</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hilberts/cc23e803-ac8c-4798-8485-068257ad0e30/application">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Business Wire</strong></td>
+<td><a href="https://trueinterview.io/jobs/49e69398-9c9f-42dd-b520-caeaec450c99">Cybersecurity Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.lever.co/businesswire/07a8d91d-6363-468c-95f7-1b7e4a42270c/apply">Apply</a></td>
+<td align="center">15d</td>
+</tr>
 <tr>
 <td><strong>Unframe</strong></td>
 <td><a href="https://trueinterview.io/jobs/acccf677-789d-416e-b8ba-40922b60adc3">DevOps Engineer</a></td>
@@ -291,49 +354,49 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5290c14a-fcf9-40e3-a320-a87e1310e69c">software developer</a></td>
 <td>Not Available</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50261298">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Motorola Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/5598230b-4d05-4fcb-ac39-329d693d61c4">C# Software Engineer - Temporary from 01/01/2027 for 12 months</a></td>
 <td>United Kingdom Offsite</td>
 <td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/C--Software-Engineer---Temporary-from-01-01-2027-for-12-months_R67751">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7bdd82e7-4dbe-4f3b-9015-6dea9ab4406d">Windows Automation Engineer</a></td>
 <td>Krakow, Poland</td>
 <td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Windows-Automation-Engineer_R64920">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Wise</strong></td>
 <td><a href="https://trueinterview.io/jobs/fabcf4d2-8b75-4ec5-a2ac-109ce47cd34f">Software Engineer - Recurring Payin</a></td>
 <td>London, , United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000148615804-software-engineer-recurring-payin?oga=true">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Workday</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a182208-d83c-4f62-9b7c-ae9cd587c6bd">Backend Engineer</a></td>
 <td>Sweden, Stockholm</td>
 <td align="center"><a href="https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Backend-Engineer_JR-0109822">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Firmus Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/b15b7e41-546f-42f3-b92b-be7ba1f0e974">Security Engineer, Application</a></td>
 <td>Sydney, New South Wales, Australia<br/>Australia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/firmus/jobs/5417463008">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Clearstreet</strong></td>
 <td><a href="https://trueinterview.io/jobs/93a12463-f944-4eff-ae6b-bd383bbd4a85">Software Engineer - Payments Systems</a></td>
 <td>London, UK</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/clearstreet/jobs/8152978">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Field AI</strong></td>
@@ -389,56 +452,56 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/25092c15-df55-45b6-9277-ef1572e73fc7">Backend Developer</a> 🌐</td>
 <td>Remote — Germany</td>
 <td align="center"><a href="https://4dayweek.io/job/backend-developer-at-handlerbund-7309cc6a">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>M&amp;G</strong></td>
 <td><a href="https://trueinterview.io/jobs/eba8a95b-bf6d-4983-8cda-9f8403751368">AI Platform Engineer</a></td>
 <td>Edinburgh, United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/ai-platform-engineer-at-mandg-5a866d18">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>Manulife</strong></td>
 <td><a href="https://trueinterview.io/jobs/f96e756f-dc40-4608-82fd-6f22a9da9fd6">Associate Back End Software Engineer</a></td>
 <td>Chengdu, Sichuan</td>
 <td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Chengdu-Sichuan/Associate-Back-End-Software-Engineer_JR26071687">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>Mastercard</strong></td>
 <td><a href="https://trueinterview.io/jobs/aeca6c64-d935-452e-b0a3-bfbdcdefff12">Site Reliability Engineer I - Connex</a></td>
 <td>Harrogate, England (Vocalink)</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Harrogate-England-Vocalink/Site-Reliability-Engineer-I---Connex_R-279327">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>Storyblok</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc3b6210-d48a-475b-93e0-81a78a5b2d38">Developer Relations Engineer</a> 🌐</td>
 <td>Remote — United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/developer-relations-engineer-at-storyblok-9c36c4c3">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>Sun Life</strong></td>
 <td><a href="https://trueinterview.io/jobs/c5166ae5-6e7e-4564-8db4-574840d038d5">Cyber Use Case Developer</a></td>
 <td>Sun Life Ireland</td>
 <td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Sun-Life-Ireland/Cyber-Use-Case-Developer_JR00127746">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>Trend Health Partners</strong></td>
 <td><a href="https://trueinterview.io/jobs/fb469bec-30a4-4b4d-a5db-a793b685bf3e">Software Engineer III Full-stack (US Remote)</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://jobs.lever.co/Trend-Health-Partners/cb52546f-06a6-46bc-86a4-99a6f5a28737/apply">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>Robco</strong></td>
 <td><a href="https://trueinterview.io/jobs/aac7c51d-7a58-4cdd-ad01-54c61c7a9531">Junior Production Engineer</a></td>
 <td>Munich</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/robco/db2df1fe-2198-455d-97bf-7669ad0e199d/application">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>Oxio Corporation</strong></td>
@@ -473,28 +536,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5c9d7c81-27a8-46d7-948a-ce91db8d2a59">Application Security Engineer</a></td>
 <td>Berlin, Germany</td>
 <td align="center"><a href="https://4dayweek.io/job/application-security-engineer-at-awin-7b5039da">Apply</a></td>
-<td align="center">17d</td>
+<td align="center">18d</td>
 </tr>
 <tr>
 <td><strong>Manulife</strong></td>
 <td><a href="https://trueinterview.io/jobs/c4741ddf-96d9-4098-8cc1-f1bc6c9ffbe0">Associate Front-end Software Engineer (AEM) - HIREFITRO3202</a></td>
 <td>Makati City</td>
 <td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Makati-City/Associate-Front-end-Software-Engineer--AEM----HIREFITRO3202_JR26080707">Apply</a></td>
-<td align="center">17d</td>
+<td align="center">18d</td>
 </tr>
 <tr>
 <td><strong>Mastercard</strong></td>
 <td><a href="https://trueinterview.io/jobs/c2fe45e6-6463-4b5c-85e6-571ccf3370b9">Software Engineer - 1</a></td>
 <td>Pune, India</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---1_R-288516">Apply</a></td>
-<td align="center">17d</td>
+<td align="center">18d</td>
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b9b4cbd-15ee-4e6b-83b7-e17722cbd78f">Engineer - Wet Utilities</a></td>
 <td>Noida, Uttar Pradesh, India</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94324">Apply</a></td>
-<td align="center">17d</td>
+<td align="center">18d</td>
 </tr>
 <tr>
 <td><strong>Oracle</strong></td>
@@ -536,7 +599,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/9de7dcd0-330e-4bae-b2a0-9aa8dcb1c44d">Fire Protection Design Engineer</a></td>
 <td>Seoul, Seoul, South Korea</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5417465008">Apply</a></td>
-<td align="center">18d</td>
+<td align="center">19d</td>
 </tr>
 <tr>
 <td><strong>Clera</strong></td>
@@ -552,75 +615,12 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://job-boards.greenhouse.io/xpinc/jobs/8784494002">Apply</a></td>
 <td align="center">21d</td>
 </tr>
-<tr>
-<td><strong>Invisible Agency</strong></td>
-<td><a href="https://trueinterview.io/jobs/5436cbbd-6111-4089-b4e3-b66cf78aa97e">CVE &amp; Application Security AI Task Auditor - Freelance AI Trainer Project</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/agency/jobs/4969255101">Apply</a></td>
-<td align="center">21d</td>
-</tr>
-<tr>
-<td><strong>Experian</strong></td>
-<td><a href="https://trueinterview.io/jobs/52dd7226-22f0-433c-8726-ea6c2d7f1485">Associate Developer (Java)</a></td>
-<td>Cyberjaya, Selangor, Malaysia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000147591879-associate-developer-java-?oga=true">Apply</a></td>
-<td align="center">21d</td>
-</tr>
-<tr>
-<td><strong>The Exploration Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd2f46ab-412c-4d94-b6a2-7144b3bbbcd0">Propulsion AIT Engineer</a></td>
-<td>Bordeaux, France</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/89e66bb5-8214-4c10-8789-2d7f694ace61/application">Apply</a></td>
-<td align="center">21d</td>
-</tr>
-<tr>
-<td><strong>Invisible Agency</strong></td>
-<td><a href="https://trueinterview.io/jobs/f0cb1913-596d-46a7-bcb9-eed611a2482a">SWE-Bench AI Task Auditor - Freelance AI Trainer Project</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/agency/jobs/4969230101">Apply</a></td>
-<td align="center">21d</td>
-</tr>
-<tr>
-<td><strong>Zeeco</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7815730-7bf3-4c88-8547-6c28084f6c21">Instrumentation &amp; Controls Engineer - FEED &amp; Detail Engineering</a></td>
-<td>Mumbai, Maharashtra</td>
-<td align="center"><a href="https://jobs.lever.co/zeeco/5a936e93-1071-46ee-8083-82999bc7f5b2/apply">Apply</a></td>
-<td align="center">21d</td>
-</tr>
-<tr>
-<td><strong>Tegna Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/803f1567-6325-47e3-a82c-d3d977140221">Broadcast Radio/TV Engineer</a></td>
-<td>WBNS-TV Columbus</td>
-<td align="center"><a href="https://boards.greenhouse.io/tegnainc/jobs/5226362007?gh_jid=5226362007">Apply</a></td>
-<td align="center">21d</td>
-</tr>
-<tr>
-<td><strong>Hpr</strong></td>
-<td><a href="https://trueinterview.io/jobs/864b6644-79ce-4146-9bfd-3b0e7386d1d2">Platform Software Engineer I</a></td>
-<td>Needham</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/hyannisportresearch/jobs/7985899003">Apply</a></td>
-<td align="center">21d</td>
-</tr>
-<tr>
-<td><strong>JPMorgan Chase</strong></td>
-<td><a href="https://trueinterview.io/jobs/9663035c-b766-43d0-904e-ff7f6fd17606">Associate Security Engineer</a></td>
-<td>Dublin, Ireland</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788300">Apply</a></td>
-<td align="center">21d</td>
-</tr>
-<tr>
-<td><strong>Ubisoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e07d2bc-5447-4bfe-a0ec-c239feb3f97c">QA Analyst (F/M/NB) [AAA Project]</a></td>
-<td>Annecy, Auvergne-Rhône-Alpes, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000147559869-qa-analyst-f-m-nb-aaa-project-?oga=true">Apply</a></td>
-<td align="center">21d</td>
-</tr>
 </tbody>
 </table>
 
 </details>
 
-**Showing 75 of 304.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 302.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -636,49 +636,49 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/85b03b34-814b-4814-b6db-d03477b77c2d">Software Engineer - Backend + AI</a> 🆕</td>
 <td>Madrid, Spain</td>
 <td align="center"><a href="https://4dayweek.io/job/software-engineer-backend-ai-at-cabify-d4827e17">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Motorola Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/90752cfd-c5d7-4f70-ae19-411f174a1677">System Automation Engineer - AI &amp; Python Developer Experience</a> 🆕</td>
 <td>Krakow, Poland</td>
 <td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/CM-SCM-DevOps-Engineer_R67159">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Infinitas Learning</strong></td>
 <td><a href="https://trueinterview.io/jobs/28078291-96ea-46ca-b79f-ac2a52e867c4">Product Data Scientist - Learning Platforms</a> 🆕</td>
 <td>Utrecht, Netherlands</td>
 <td align="center"><a href="https://4dayweek.io/job/product-data-scientist-learning-platforms-at-infinitas-learning-1ebf5f1e">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/79fbcd23-8924-46d4-9fc4-48b96a23ed84">IN_Senior Manager_Azure Data Engineer_OC-Data &amp; Analytics AITH_Advisory_Bhubaneswar</a> 🆕</td>
 <td>Bhubaneswar - Ihub</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bhubaneswar---Ihub/IN-Manager-Azure-Data-Engineer-OC-Data---Analytics-Advisory-Bhubaneswar_738417WD-1">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Sun Life</strong></td>
 <td><a href="https://trueinterview.io/jobs/da84fecc-df4c-4d7d-850f-7caa8eaac366">Data Scientist</a> 🆕</td>
 <td>2 Locations</td>
 <td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Data-Scientist_JR00128241">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/992d9b35-e6fe-430b-879b-c6c023ada236">ETL Informatica Developer</a> 🆕</td>
 <td>Gurugram, Haryana</td>
 <td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/ETL-Informatica-Developer_JR00127325">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Mntn</strong></td>
 <td><a href="https://trueinterview.io/jobs/fb44e8ca-8729-4551-9a3f-a36af444d958">Software Engineer, Machine Learning</a> 🆕 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/mntn/jobs/8205095">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Kaluza</strong></td>
@@ -699,7 +699,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2a63c515-0a52-4761-a5c0-86ef3b52429f">AI/ML Engineer</a> 🆕</td>
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/ai-ml-engineer-at-sainsburys-83fd1858">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Capco</strong></td>
@@ -717,24 +717,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>GitLab</strong></td>
-<td><a href="https://trueinterview.io/jobs/e269e3b9-c629-41fa-99e7-5ff7c6a50ec4">AI Engineer</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/e269e3b9-c629-41fa-99e7-5ff7c6a50ec4">AI Engineer</a></td>
 <td>—</td>
 <td align="center"><a href="https://nodesk.co/remote-jobs/gitlab-ai-engineer/">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>PwC</strong></td>
-<td><a href="https://trueinterview.io/jobs/70e7ecfc-f6d0-4bdb-8fa4-3c952304c682">IN_Senior Associate_GenAI and Agentic AI Engineer _GCC_Advisory_Bangalore</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/70e7ecfc-f6d0-4bdb-8fa4-3c952304c682">IN_Senior Associate_GenAI and Agentic AI Engineer _GCC_Advisory_Bangalore</a></td>
 <td>Bengaluru Millenia</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Associate-GenAI-and-Agentic-AI-Engineer--GCC-Advisory-Bangalore_738717WD-1">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/64934cd3-49fe-4307-ae62-6e27c728d2aa">IN_Senior Associate_GenAI and Agentic AI Engineer_GCC_Advisory_Noida</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/64934cd3-49fe-4307-ae62-6e27c728d2aa">IN_Senior Associate_GenAI and Agentic AI Engineer_GCC_Advisory_Noida</a></td>
 <td>Noida</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Noida/IN-Senior-Associate-GenAI-and-Agentic-AI-Engineer-GCC-Advisory-Bangalore_738966WD">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Skydropx Frenet</strong></td>
@@ -804,7 +804,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cd86f9bf-f073-474e-bd7e-fa71873f4edc">Data Scientist</a></td>
 <td>2 Locations</td>
 <td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Data-Scientist_R171177-1">Apply</a></td>
-<td align="center">7d</td>
+<td align="center">8d</td>
 </tr>
 </tbody>
 </table>
@@ -818,6 +818,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Gigaton</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e24b169-c86b-430b-95f3-17eb8d99256e">Machine Learning Engineer</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://4dayweek.io/job/machine-learning-engineer-at-gigaton-48b2fb4d">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
+<td><strong>Hivemind Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/10a8c7cd-43b2-4232-8bc3-b4596b04f44c">Data Engineer</a> 🌐</td>
+<td>Remote — Germany</td>
+<td align="center"><a href="https://4dayweek.io/job/data-engineer-hivemind-technologies">Apply</a></td>
+<td align="center">15d</td>
+</tr>
+<tr>
 <td><strong>Rackner</strong></td>
 <td><a href="https://trueinterview.io/jobs/3b9d5261-5009-4483-99cb-26d4feff5c67">Data Governance Specialist</a> 🌐</td>
 <td>Remote</td>
@@ -829,7 +843,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b33da88a-a9cb-4d8d-8a00-011253fbc209">Research Scientist I/II, Purification Sciences</a></td>
 <td>San Diego HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/iambic-therapeutics/35fa46c2-1cd5-4222-88f5-987e7bf26db7/application">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Monks</strong></td>
@@ -864,35 +878,35 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/db24f017-f0c5-457a-97d6-4faa2007086c">Specialist I TIS Data Scientist / ML Engineer</a></td>
 <td>3 Locations</td>
 <td align="center"><a href="https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Specialist-I-TIS-Data-Scientist---ML-Engineer_72906-1">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/c60ca5bd-cbd7-47d2-ae30-9b566392026f">IN_Manager_GE4CX Conversational AI Developer_GCC_Advisory_Gurgaon</a></td>
 <td>Gurugram Downtown 4</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-Downtown-4/IN-Senior-Associate-GE4CX-Conversational-AI-Developer-GCC-Advisory-Bangalore_753924WD-1">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bdc79cac-3c37-4be5-b067-c7aad1f684c7">IN_Manager_GE4CX Conversational AI Developer_GCC_Advisory_Kolkata</a></td>
 <td>Kolkata - Magnacon Building</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata---Magnacon-Building/IN-Senior-Associate-GE4CX-Conversational-AI-Developer-GCC-Advisory-Bangalore_753911WD-2">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/63760610-bcb1-4709-8968-159b222db567">IN_Sr Associate_GE4CX Conversational AI Developer_GCC_Advisory_Pune</a></td>
 <td>Pune</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Pune/IN-Senior-Associate-GE4CX-Conversational-AI-Developer-GCC-Advisory-Bangalore_753912WD">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cfb67568-8109-4ee9-948d-d40ce026b2ab">Operations AI Engineers</a></td>
 <td>Athens</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Athens/Operations-AI-Engineers_725541WD">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>Applied intuition</strong></td>
@@ -934,14 +948,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/09259e9a-c444-483e-958b-2d3af78351b3">Conversational AI Developer</a></td>
 <td>Kraków</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Krakw/Conversational-AI-Developer_760232WD">Apply</a></td>
-<td align="center">17d</td>
-</tr>
-<tr>
-<td><strong>Sun Life</strong></td>
-<td><a href="https://trueinterview.io/jobs/60eab0c6-00b0-4dec-9b85-afc92e3885a7">Part time Data Junior Data Engineer</a></td>
-<td>Waterford, Waterford, Ireland</td>
-<td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterford-Waterford-Ireland/Part-time-Data-Junior-Data-Engineer_JR00127592">Apply</a></td>
-<td align="center">17d</td>
+<td align="center">18d</td>
 </tr>
 <tr>
 <td><strong>Higgsfield</strong></td>
@@ -969,7 +976,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e04817bc-15b2-44bd-92bf-5e76a6cb585c">data engineer</a></td>
 <td>Mississauga (ON)</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50230003">Apply</a></td>
-<td align="center">20d</td>
+<td align="center">21d</td>
 </tr>
 <tr>
 <td><strong>Inter Carreiras</strong></td>
@@ -1011,21 +1018,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8944b6f2-1cf8-4215-a486-35b7489b57c4">Python / Backend / AI Engineer — Remote / Relocation</a></td>
 <td>—</td>
 <td align="center"><a href="https://computelabs.in/">Apply</a></td>
-<td align="center">21d</td>
+<td align="center">22d</td>
 </tr>
 <tr>
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/0d327e7a-dca2-4ed5-985b-79ee40b127ba">Machine Learning Engineer</a></td>
 <td>2 Locations</td>
 <td align="center"><a href="https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer_R0137281-1">Apply</a></td>
-<td align="center">21d</td>
+<td align="center">22d</td>
 </tr>
 <tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/b3217119-67bf-4224-9f86-ff6749a28d58">IN_Senior Associate_AI Engineer_Financial Services_Advisory_Gurgaon</a></td>
 <td>Gurugram 10 C</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-10-C/IN-Associate-AI-Engineer-Financial-Services-Advisory-Hyderabad_747006WD-1">Apply</a></td>
-<td align="center">21d</td>
+<td align="center">22d</td>
 </tr>
 <tr>
 <td><strong>9fin</strong></td>
@@ -1039,14 +1046,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a9999e36-2d84-4d68-a5ed-e1a9d4e110c6">AI Engineer</a></td>
 <td>Dist.7, Ho Chi Minh</td>
 <td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Dist7-Ho-Chi-Minh/AI-Engineer_JR26080600">Apply</a></td>
-<td align="center">22d</td>
+<td align="center">23d</td>
 </tr>
 <tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/f57a8ba1-662b-4892-8b5f-969a288e9aa0">Medior AI Engineer</a></td>
 <td>Budapest</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Budapest/Medior-AI-Engineer_682581WD">Apply</a></td>
-<td align="center">22d</td>
+<td align="center">23d</td>
 </tr>
 <tr>
 <td><strong>Platform Science</strong></td>
@@ -1060,35 +1067,35 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b47ed52e-3aa8-4605-bbba-4d2fd806859f">Interview Resources / 2 Full Stack AI Engineer, 1 GTM / REMOTE / Full-Time / $250k seed raised</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://www.interviewresources.app/careers">Apply</a></td>
-<td align="center">23d</td>
+<td align="center">24d</td>
 </tr>
 <tr>
 <td><strong>Klassif.ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/729baaa8-e10c-4b1d-8f52-dfbbdf98876c">Klassif.ai / ML/AI Engineer / Hybrid (Leuven, Belgium; remote 3 days/week)</a></td>
 <td>Hybrid (Leuven, Belgium<br/>remote 3 days/week)</td>
 <td align="center"><a href="https://klassif.ai/careers/ai-ml-engineer">Apply</a></td>
-<td align="center">23d</td>
+<td align="center">24d</td>
 </tr>
 <tr>
 <td><strong>Mastercard</strong></td>
 <td><a href="https://trueinterview.io/jobs/9c377537-67b2-4a30-8e82-0934d34c11b8">Data Scientist I</a></td>
 <td>Pune, India</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Data-Scientist-I_R-278159">Apply</a></td>
-<td align="center">23d</td>
+<td align="center">24d</td>
 </tr>
 <tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/ab9345bb-8dfe-468e-9eca-29f20f76bd56">Data Engineer expérimenté F/H</a></td>
 <td>Montpellier</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Montpellier/Data-Engineer-expriment-F-H_759196WD">Apply</a></td>
-<td align="center">23d</td>
+<td align="center">24d</td>
 </tr>
 <tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/c7cfbcda-1f30-4945-a766-163da2e34e23">UI LMTS - AI Engineering</a></td>
 <td>India - Bangalore</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/UI-LMTS---AI-Engineering_JR358412">Apply</a></td>
-<td align="center">23d</td>
+<td align="center">24d</td>
 </tr>
 <tr>
 <td><strong>Funding Circle</strong></td>
@@ -1102,7 +1109,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/bdc58b68-047f-4b96-98d0-16ad95416cb1">2027 Data &amp; AI - Full Time Analyst - London, Glasgow</a></td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774755">Apply</a></td>
-<td align="center">24d</td>
+<td align="center">25d</td>
 </tr>
 <tr>
 <td><strong>Bees</strong></td>
@@ -1130,7 +1137,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/1776f158-f726-408a-bd8a-675d473e3b1b">Junior Esports Trader - Peru</a></td>
 <td>Lima</td>
 <td align="center"><a href="https://jobs.lever.co/oddin/5c441806-926c-4d90-8a78-d5dc0c1bf054/apply">Apply</a></td>
-<td align="center">27d</td>
+<td align="center">28d</td>
 </tr>
 <tr>
 <td><strong>Serverfarm</strong></td>
@@ -1144,7 +1151,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a3fd043f-e1fb-4730-a8c0-460a618db6ff">Forward Deployed Engineer (Python, AI/ML, Generative AI) - UK based</a></td>
 <td>Greece<br/>Europe</td>
 <td align="center"><a href="https://moduscreate.com/careers/7978821003?gh_jid=7978821003">Apply</a></td>
-<td align="center">28d</td>
+<td align="center">29d</td>
 </tr>
 <tr>
 <td><strong>Lavendo</strong></td>
@@ -1158,13 +1165,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/32535ba4-9b27-4225-8a01-98e532794008">Data Analyst(Bulgarian)</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://jobs.lever.co/economicmodeling/36e2eb9d-a7db-4268-a0b7-b26edc60de88/apply">Apply</a></td>
-<td align="center">29d</td>
-</tr>
-<tr>
-<td><strong>Ci&amp;t</strong></td>
-<td><a href="https://trueinterview.io/jobs/b70a288a-f328-4a25-9744-c055666e45b2">[Job - 31308] Specialist AWS Data Developer, Brasil</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://jobs.lever.co/ciandt/c78866f3-6345-4eab-a1a2-7636df5a3d36/apply">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
 </tbody>
@@ -1206,10 +1206,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/558ff3e0-f8f3-431b-89e8-f5307a200c35">EOI: Join our Power &amp; Energy Group at WSP</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/558ff3e0-f8f3-431b-89e8-f5307a200c35">EOI: Join our Power &amp; Energy Group at WSP</a></td>
 <td>Brisbane, Queensland, Australia</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95839">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
@@ -1223,14 +1223,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/025f592d-598d-4a4d-9dcd-b9b9fbecd046">Apple Systems Engineer</a></td>
 <td>Milano, Italy</td>
 <td align="center"><a href="https://4dayweek.io/job/apple-systems-engineer-at-intesa-sanpaolo-1c42b2b3">Apply</a></td>
-<td align="center">7d</td>
+<td align="center">8d</td>
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/788cce55-fe3b-45a1-9cca-b74463a7424e">CAD Engineer</a></td>
 <td>Ho Chi Minh, Vietnam</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ho-Chi-Minh/Senior-Staff-CAD-Engineer_2600925">Apply</a></td>
-<td align="center">10d</td>
+<td align="center">11d</td>
 </tr>
 <tr>
 <td><strong>Gallup</strong></td>
@@ -1243,7 +1243,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </table>
 
 <details>
-<summary>Show 22 more Hardware & Engineering roles posted earlier</summary>
+<summary>Show 23 more Hardware & Engineering roles posted earlier</summary>
 
 <table>
 <thead>
@@ -1262,7 +1262,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/12b32e3a-25c7-47d7-9a85-7f81f42ea8ee">Graduate - LAB Fire Testing Engineer</a></td>
 <td>Melbourne, Victoria, Australia<br/>Warrington Fire - Melbourne Lab</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5417816008">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
+</tr>
+<tr>
+<td><strong>Poseidon Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/62bc1abd-fcfb-47bb-8979-ed36d6e86eee">Avionics &amp; Electrical Integration Technician</a></td>
+<td>Alameda</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/poseidonaero/26b31209-0a73-4190-adec-4dd78bd58c39/application">Apply</a></td>
+<td align="center">21d</td>
 </tr>
 <tr>
 <td><strong>Egis Group</strong></td>
@@ -1421,6 +1428,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Legion Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cc7ca49-e420-4157-8634-aa684daaf082">Growth Designer — Paid Creative, Brand &amp; Web UX (Remote Part-Time; backed by Y Combinator, $5M+ ARR, $23M+ raised)</a> 🆕 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/legionhealth/825cef11-fda4-4eec-8753-f06ba3914b4a/application">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Monks</strong></td>
 <td><a href="https://trueinterview.io/jobs/8cfb9a37-c28b-4c3d-94b2-5110220f53bd">Sound Designer</a> 🆕</td>
 <td>Mexico City</td>
@@ -1446,7 +1460,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d84cb90a-2335-44d3-a673-58a21a5e492d">PL Product Designer</a> 🆕</td>
 <td>Brasil<br/>Remoto</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/ilia/jobs/6207176004">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
@@ -1541,14 +1555,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/904de36b-e756-4693-9bd9-ccc121760d69">PL UX Researcher</a></td>
 <td>Brasil<br/>Remoto</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/ilia/jobs/6181909004">Apply</a></td>
-<td align="center">21d</td>
+<td align="center">22d</td>
 </tr>
 <tr>
 <td><strong>Resend</strong></td>
 <td><a href="https://trueinterview.io/jobs/3b9407bf-7f12-424a-b86e-8159db8fec44">Product Designer</a></td>
 <td>Europe<br/>Americas</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/resend/b4d679e8-f41b-4c59-b091-dc5581345fcb/application">Apply</a></td>
-<td align="center">22d</td>
+<td align="center">23d</td>
 </tr>
 <tr>
 <td><strong>Platform Science</strong></td>
@@ -1716,14 +1730,14 @@ _Nothing posted in the last 14 days. The older roles below are still open._
 <td><a href="https://trueinterview.io/jobs/a566d3e3-0abe-4a22-a405-8ab0c601bf27">Junior Trader</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/wormholelabs/06e547b0-a5be-4bc6-ab0f-b0c2519d751c/application">Apply</a></td>
-<td align="center">18d</td>
+<td align="center">19d</td>
 </tr>
 <tr>
 <td><strong>Akuna Capital</strong></td>
 <td><a href="https://trueinterview.io/jobs/c7f199d9-adcc-4587-ad23-a8b8c6417036">Junior Quantitative Researcher - Deep Learning (Time Series)</a></td>
 <td>Shanghai, China</td>
 <td align="center"><a href="https://www.akunacapital.com/careers/job/8175994/?gh_jid=8175994">Apply</a></td>
-<td align="center">21d</td>
+<td align="center">22d</td>
 </tr>
 <tr>
 <td><strong>Genius Sports</strong></td>
@@ -1737,14 +1751,14 @@ _Nothing posted in the last 14 days. The older roles below are still open._
 <td><a href="https://trueinterview.io/jobs/c470c016-aa68-4003-a1a9-cf4c2c3e3796">2027 Quantitative Research - Risk and Treasury - Off-Cycle - Associate – London</a></td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776873">Apply</a></td>
-<td align="center">24d</td>
+<td align="center">25d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ead908be-267f-4d8d-8ab8-14c478112083">2027 Quantitative Research - Risk and Treasury - Off-Cycle – Analyst – Paris</a></td>
 <td>Paris, Paris, France<br/>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776890">Apply</a></td>
-<td align="center">24d</td>
+<td align="center">25d</td>
 </tr>
 <tr>
 <td><strong>Stone</strong></td>
@@ -1783,6 +1797,13 @@ _Nothing posted in the last 14 days. The older roles below are still open._
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/06262add-a70f-457e-9f45-6b17a3e24215">Network Security Operations Center Analyst - Nights</a> 🆕</td>
+<td>Mexicali, MEXICO, Mexico</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000151938459-network-security-operations-center-analyst-nights?oga=true">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Cirque Du Soleil Entertainment Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/d72057ef-447b-480e-bcaa-ce3b24bde1eb">Technicien en TI – Spectacles en tournée | IT Technician – Touring Shows</a> 🆕</td>
@@ -1837,7 +1858,7 @@ _Nothing posted in the last 14 days. The older roles below are still open._
 <td><a href="https://trueinterview.io/jobs/2e98892f-7934-419d-8371-b8c85e1fb0e3">IT Systems Engineer, Platform Management (m/w/x)</a></td>
 <td>Graz, AT</td>
 <td align="center"><a href="https://magna.wd3.myworkdayjobs.com/Magna/job/Graz-AT/IT-Systems-Engineer--Platform-Management--m-w-x-_R00249327-6">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td><strong>Canary Technologies</strong></td>
@@ -1857,7 +1878,7 @@ _Nothing posted in the last 14 days. The older roles below are still open._
 </table>
 
 <details>
-<summary>Show 29 more IT & Support roles posted earlier</summary>
+<summary>Show 28 more IT & Support roles posted earlier</summary>
 
 <table>
 <thead>
@@ -1876,7 +1897,7 @@ _Nothing posted in the last 14 days. The older roles below are still open._
 <td><a href="https://trueinterview.io/jobs/9d549d1f-fcff-487d-bcb2-d0f8907972bc">IT Administrator, APAC</a></td>
 <td>Sydney, New South Wales, Australia<br/>Sydney, AUS</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5234138007?gh_jid=5234138007">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Hawk Eye Innovations (hei</strong></td>
@@ -1890,7 +1911,7 @@ _Nothing posted in the last 14 days. The older roles below are still open._
 <td><a href="https://trueinterview.io/jobs/528daf72-3377-4d03-9a73-e05530ac2d46">Associate Systems Administrator (R5698)</a></td>
 <td>Wichita Metro Area</td>
 <td align="center"><a href="https://jobs.lever.co/shieldai/7acef65d-2466-4959-9e86-106ecb4e7fe4/apply">Apply</a></td>
-<td align="center">20d</td>
+<td align="center">21d</td>
 </tr>
 <tr>
 <td><strong>Samsara</strong></td>
@@ -1925,7 +1946,7 @@ _Nothing posted in the last 14 days. The older roles below are still open._
 <td><a href="https://trueinterview.io/jobs/3f9f1262-bd7e-489c-a1da-8993bd787192">Technical Support Specialist</a></td>
 <td>Pampanga, PHL</td>
 <td align="center"><a href="https://jobs.lever.co/jetsupport/1c945b93-6497-428e-9241-cec94ba09861/apply">Apply</a></td>
-<td align="center">23d</td>
+<td align="center">24d</td>
 </tr>
 <tr>
 <td><strong>Pingwind</strong></td>
@@ -1967,7 +1988,7 @@ _Nothing posted in the last 14 days. The older roles below are still open._
 <td><a href="https://trueinterview.io/jobs/7f667ec2-7e4d-4711-aa42-1993c438c097">Technical Support Specialist</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/vitalize/7acd806d-3bef-4dae-8e27-847fe3693729/application">Apply</a></td>
-<td align="center">27d</td>
+<td align="center">28d</td>
 </tr>
 <tr>
 <td><strong>DV Trading</strong></td>
@@ -2009,13 +2030,6 @@ _Nothing posted in the last 14 days. The older roles below are still open._
 <td><a href="https://trueinterview.io/jobs/855d7fe8-adda-49c4-8802-f21918241f19">Network Administrator (Remote)</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/its/jobs/7897192003">Apply</a></td>
-<td align="center">1mo</td>
-</tr>
-<tr>
-<td><strong>Samsara</strong></td>
-<td><a href="https://trueinterview.io/jobs/630c28d0-2101-4ed0-9af0-7aed1a7817fa">Technical Support Engineer I - Mexico</a> 🌐</td>
-<td>Remote — Mexico</td>
-<td align="center"><a href="https://www.samsara.com/company/careers/roles/8112694?gh_jid=8112694">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
 <tr>

@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>49 Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfeb0f09-b8fd-4538-8a8b-d302ef622d15">OpenStack Cloud Engineer Consultant for SSC</a></td>
+<td>Ottawa, Ontario, Canada</td>
+<td align="center"><a href="https://jobs.workable.com/view/eRUuwgaF1sgfXP6cYCPecS/hybrid-openstack-cloud-engineer-consultant-for-ssc-in-ottawa-at-49-solutions">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Robinhood</strong></td>
 <td><a href="https://trueinterview.io/jobs/fdf8bc5a-771b-49d9-bca1-75355739ea19">Quality Engineer</a></td>
 <td>Toronto, ON<br/>Toronto, Canada</td>
@@ -190,13 +197,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/669a5911-a6e3-411c-9666-948dfcd67484">Data Engineer</a></td>
 <td>Ottawa, ON</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50292216">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>CrowdStrike</strong></td>
-<td><a href="https://trueinterview.io/jobs/60c4adc9-0521-4f09-a117-357b18919c36">Engineer, Sensor - Mac, Linux, or Windows (Hybrid)</a></td>
-<td>Canada - Toronto<br/>USA - Sunnyvale, CA, United States of America<br/>USA - New York, NY<br/>+2 more</td>
-<td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer--Sensor---Mac--Linux--or-Windows--Hybrid-_R30023">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>

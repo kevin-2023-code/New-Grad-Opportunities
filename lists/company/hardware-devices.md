@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**173 open roles.** 154 in the United States & Canada · 19 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**170 open roles.** 152 in the United States & Canada · 18 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -197,13 +197,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/beabff2e-b58a-47cf-bacd-06b552728c9c">Storage Systems Engineer</a></td>
 <td>Ft. Collins, Colorado, United States of America<br/>Bloomington, Minnesota, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Storage-Systems-Engineer_1213920-3">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/98b299fe-c685-49ed-847b-3a3362654afe">Software Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39489">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -1088,13 +1081,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-New-Grad--SEED--Program_R119156-1">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/62b497a7-567a-42e0-92f8-5ec424133381">C/C++ Software Engineer - Core Tech Team</a></td>
-<td>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19266?lang=en-us">Apply</a></td>
-<td align="center">30 Jul 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1204,13 +1190,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Delft</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/quantware/44ae2864-733d-4259-a93b-e156372d44c3/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Samsara</strong></td>
-<td><a href="https://trueinterview.io/jobs/630c28d0-2101-4ed0-9af0-7aed1a7817fa">Technical Support Engineer I - Mexico</a> 🌐</td>
-<td>Remote — Mexico</td>
-<td align="center"><a href="https://www.samsara.com/company/careers/roles/8112694?gh_jid=8112694">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Extreme Networks</strong></td>

@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**67 open roles.** 58 in the United States & Canada · 9 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**66 open roles.** 57 in the United States & Canada · 9 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -281,13 +281,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/da200c4d-1b2f-4c0a-a5f3-40b8d1f138c7">Transmission Line Associate Civil Engineer</a></td>
 <td>Fort Lauderdale, FL, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94032">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Apex Companies</strong></td>
-<td><a href="https://trueinterview.io/jobs/6273f2f5-9042-4331-b512-9e46f601bf9d">CAD Technician</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5405864008">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>

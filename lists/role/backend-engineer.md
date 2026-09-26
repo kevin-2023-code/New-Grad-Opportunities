@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**27 open roles.** 13 in the United States & Canada · 14 elsewhere in the world.
+**26 open roles.** 13 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -196,13 +196,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Kfar Saba, Israel<br/>IL Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/nextinsurance66/jobs/7979131003">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Encora</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce88bc0d-4217-4e7d-8d75-c950915083c5">Backend Engineer (exp. en AWS)</a></td>
-<td>Peru<br/>Lima</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/encora10/jobs/5222580007">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Bees</strong></td>

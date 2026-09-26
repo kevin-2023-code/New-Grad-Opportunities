@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**57 open roles.** 49 in the United States & Canada · 8 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**55 open roles.** 47 in the United States & Canada · 8 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -99,13 +99,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6d775e44-befe-4c52-8ff2-dc9055a9bb36">Threat Emulation Engineer - Blue/Purple Team</a></td>
 <td>Chantilly, VA<br/>Federal</td>
 <td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6193381004?gh_jid=6193381004">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>CrowdStrike</strong></td>
-<td><a href="https://trueinterview.io/jobs/60c4adc9-0521-4f09-a117-357b18919c36">Engineer, Sensor - Mac, Linux, or Windows (Hybrid)</a></td>
-<td>USA - Sunnyvale, CA, United States of America<br/>USA - New York, NY<br/>USA - Austin, TX<br/>+2 more</td>
-<td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer--Sensor---Mac--Linux--or-Windows--Hybrid-_R30023">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
@@ -239,13 +232,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9496e80b-944c-40a5-8f40-9bfe08074c54">Technical Support Engineer - GovCloud (Remote)</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-NC/Technical-Support-Engineer---GovCloud--Remote-_R29404">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Palo Alto Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/60f51eeb-1a9f-492a-bdb1-b172e0afc0ba">Solutions Engineer, Endpoint - Central</a></td>
-<td>Chicago, IL<br/>Austin, TX<br/>Chicago, United States of America<br/>+3 more</td>
-<td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Chicago-United-States-of-America/Solutions-Engineer--Endpoint---Central_JR-020640">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
