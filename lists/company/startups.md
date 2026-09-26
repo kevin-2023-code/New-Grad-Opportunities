@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**163 open roles.** 115 in the United States & Canada · 48 elsewhere in the world. Early-stage technology companies.
+**161 open roles.** 113 in the United States & Canada · 48 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -639,20 +639,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York City, San Francisco<br/>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/exa/c542d672-691c-46c1-9741-856d66f2c2ea/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Deepgram</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f71615c-d80a-4c27-9f74-2e9d5a2a3035">Full Stack Web Developer, Marketing</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/deepgram/4f9648d7-e25c-440c-8ec6-566a405c7c23/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Tailscale</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f05c3d4-9d5a-4a7f-825d-71284c1ff9b6">Executive Business Partner, Engineering</a> 🌐</td>
-<td>Remote — United States, Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tailscale/jobs/4723660005">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Uniswap Labs</strong></td>

@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**215 open roles.** 179 in the United States & Canada · 36 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**213 open roles.** 177 in the United States & Canada · 36 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -92,13 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9d749eb0-486f-4099-8247-6ce946c445fa">Robotics Operations Engineer I, First Shift</a></td>
 <td>Cambridge, MA USA<br/>Alewife, Cambridge, MA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4410043009">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cursor</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e31876e-580a-4a73-97b2-219f143e105c">Security GRC Engineer</a></td>
-<td>San Francisco, CA<br/>Palo Alto, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cursor/1703501f-53a1-4307-93ec-84b723be92ef/application">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -946,13 +939,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/af87a8a7-bcea-42fb-81d6-fb84c5960c15">NOC Technician (Data Center and Site Ops)</a></td>
 <td>Memphis, Tennessee<br/>Memphis, TN</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5209967007">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Deepgram</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f71615c-d80a-4c27-9f74-2e9d5a2a3035">Full Stack Web Developer, Marketing</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/deepgram/4f9648d7-e25c-440c-8ec6-566a405c7c23/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>

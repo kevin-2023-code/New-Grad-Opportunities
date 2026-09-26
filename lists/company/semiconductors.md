@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**312 open roles.** 308 in the United States & Canada · 4 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**313 open roles.** 309 in the United States & Canada · 4 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1807,6 +1807,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/34811d0a-bec5-4759-ad6a-61bd7f8c0a1e">Associate Manufacturing Engineer</a></td>
 <td>US, MA, Wilmington, United States of America<br/>US, OR, Beaverton<br/>US, MA, Chelmsford, Alpha</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Manufacturing-Engineer_R265295">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6ef5bdb9-dc48-4d65-a2e8-02e075ae07d5">Associate Test Engineer</a></td>
+<td>US, NC, Durham, United States of America<br/>US, MA, Wilmington</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-Test-Engineer_R265308">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>

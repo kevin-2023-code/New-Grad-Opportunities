@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**54 open roles.** 46 in the United States & Canada · 8 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**50 open roles.** 43 in the United States & Canada · 7 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Bellevue, Washington<br/>Chicago, Illinois<br/>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://www.okta.com/company/careers/opportunity/8220584?gh_jid=8220584">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Illumio</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e5c653c-a5c4-487e-9630-741e2f679225">Content Designer I</a></td>
-<td>HQ - Sunnyvale (Office)</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/illumio/990b8a5f-4e7b-41c1-be4f-60498d1c3a64/application">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Palo Alto Networks</strong></td>
@@ -99,13 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7bd77bd0-4e9c-408d-bb2f-dc0706f3440e">Software Engineer, Infastructure</a></td>
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/outtake/62200017-3aee-4ace-b430-33e3ef973fd1/application">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Guidepoint Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d775e44-befe-4c52-8ff2-dc9055a9bb36">Threat Emulation Engineer - Blue/Purple Team</a></td>
-<td>Chantilly, VA<br/>Federal</td>
-<td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6193381004?gh_jid=6193381004">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
@@ -221,13 +207,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Rubrik</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f520fb7-88d2-40c1-bc2c-b345ac1ef2eb">Sales Engineering Transformation Specialist - AI Enablement</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://www.rubrik.com/company/careers/departments/job.8144841?gh_jid=8144841">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>CrowdStrike</strong></td>
 <td><a href="https://trueinterview.io/jobs/9496e80b-944c-40a5-8f40-9bfe08074c54">Technical Support Engineer - GovCloud (Remote)</a> 🌐</td>
 <td>Remote — United States</td>
@@ -270,6 +249,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Virtru</strong></td>
+<td><a href="https://trueinterview.io/jobs/701e8bba-3748-4073-985c-ea0e745ee386">Technical Writer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/virtru/jobs/4724504005">Apply</a></td>
+<td align="center">17 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Beyondtrust</strong></td>
 <td><a href="https://trueinterview.io/jobs/93f39cb3-ff1d-4abf-a940-aa049ed550fb">Technical Support Engineer - Temp Employment</a> 🌐</td>
 <td>Remote — Canada</td>
@@ -282,13 +268,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/1password/03e43d8b-af31-489e-a97c-a7da66df129b/application">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Tailscale</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f05c3d4-9d5a-4a7f-825d-71284c1ff9b6">Executive Business Partner, Engineering</a> 🌐</td>
-<td>Remote — United States, Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tailscale/jobs/4723660005">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Qohash</strong></td>
@@ -351,13 +330,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Censys</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f8be4fe-8cdd-4215-b383-9c1f3f83aacf">Security Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/censys/jobs/8541287002">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Knowbe4</strong></td>
 <td><a href="https://trueinterview.io/jobs/d1d85bc6-04e5-4ea4-8c7f-b723429a4cc1">Product Security Engineer (Position located in Brazil)</a></td>

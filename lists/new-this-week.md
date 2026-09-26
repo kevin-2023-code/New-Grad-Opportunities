@@ -2,15 +2,13 @@
 
 # 🆕 Posted in the last 7 days
 
-**405 open roles.** 313 in the United States & Canada · 92 elsewhere in the world. Everything the employers put up this week.
+**393 open roles.** 307 in the United States & Canada · 86 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
 > Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent.
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
-
-<sub>Page 1 of 2 · [Page 2 →](new-this-week-2.md)</sub>
 
 ## United States & Canada
 
@@ -38,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dff21efb-55c5-4869-8017-04984de966f0">Hardware Engineer</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/meter/d4d55192-4582-4c8a-9e57-b19636a54849/application">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/7079bfa4-28fd-49a6-a900-c7b48324f81e">Mission Software Engineer, Mission Systems</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5249750007?gh_jid=5249750007">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -1308,13 +1299,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Cursor</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e31876e-580a-4a73-97b2-219f143e105c">Security GRC Engineer</a></td>
-<td>San Francisco, CA<br/>Palo Alto, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cursor/1703501f-53a1-4307-93ec-84b723be92ef/application">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/1d7b32c7-3100-4e2f-94e4-c6e027bdbd71">2027 Early Career Flight Test Engineer</a></td>
 <td>Costa Mesa, California, United States</td>
@@ -2182,34 +2166,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://careers.roblox.com/jobs/8213384?gh_jid=8213384">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Twitch</strong></td>
-<td><a href="https://trueinterview.io/jobs/bfec0c68-33db-49b7-8e8b-499670d72a8d">Software Engineer, Data Platform</a></td>
-<td>Seattle, WA<br/>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8821382002">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cx2</strong></td>
-<td><a href="https://trueinterview.io/jobs/967159fa-fe9b-4191-bfbc-021c39e828a5">Signal Processing Engineer</a></td>
-<td>El Segundo, CA</td>
-<td align="center"><a href="https://jobs.lever.co/cx2/54e50140-ec8b-4e1d-913d-f3e7d4745a0b/apply">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Vast</strong></td>
-<td><a href="https://trueinterview.io/jobs/c9e6ff15-92b7-4f14-84f2-5df60a401197">Avionics Software Test Engineer</a></td>
-<td>Long Beach, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/vast/jobs/4714389006?gh_jid=4714389006">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/4496a3d7-1772-4638-80d9-e175d7414682">Researcher Web Security, Detection</a></td>
-<td>New York, NY<br/>Hybrid<br/>New York, New York, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8204795?gh_jid=8204795">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2496,13 +2452,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Richie It Solutions Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/70b9d975-4da2-4f09-beeb-3adb3b2ccf50">software developer</a></td>
-<td>Edmonton (AB)</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50357104">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Sun Life</strong></td>
 <td><a href="https://trueinterview.io/jobs/da84fecc-df4c-4d7d-850f-7caa8eaac366">Data Scientist</a></td>
 <td>2 Locations</td>
@@ -2587,20 +2536,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6d9d3b35-fa25-4ee7-9d7e-057c1eae0643">IT Support Technician</a></td>
-<td>Leeds, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.workable.com/view/uDb4VJTp7EYvxKQzSCqoKy/hybrid-it-support-technician-in-leeds-at-barnett-waddingham">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d942b6a-9df7-414e-8ed3-243b2dbe6448">DfMA Designer - All grades</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/81807">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Astra North Infoteck Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/c417fd48-18af-4a96-b2cb-047e363bf150">software developer</a></td>
 <td>Mirabel (QC)</td>
@@ -2661,13 +2596,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/14a8f3f6-8a21-4c0d-bc3b-a02e151e0bb2">Associate Software Engineer</a></td>
 <td>Nairobi, Nairobi City</td>
 <td align="center"><a href="https://jobs.lever.co/distro/f0bad4f8-7b48-4507-8a4e-42dd25c362c4/apply">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Censys</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f8be4fe-8cdd-4215-b383-9c1f3f83aacf">Security Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/censys/jobs/8541287002">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -2831,9 +2759,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://jobs.lever.co/outreach/13e953ce-8527-436c-be6c-55d3b659dd60/apply">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
+<tr>
+<td><strong>Ebanx</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6bbf1af-5a7c-412a-833f-577a5fac75b6">Data Science Specialist</a></td>
+<td>Curitiba<br/>On-site<br/>EBANX</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/ebanx/jobs/7917890003">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Fueled</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebc6e70b-821f-45f3-9c5f-9db123bead5b">Full Stack Web Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fueledcareers/jobs/5428960008">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Aera Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ec3549b-9f2f-47fe-a759-d09f65577e0e">Sustaining Engineer – Modeling Support</a></td>
+<td>Pune, India</td>
+<td align="center"><a href="https://jobs.lever.co/aeratechnology/d183b86e-fbec-4f82-bfa8-43374cc00dd1/apply">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
 </tbody>
 </table>
-
-<sub>Page 1 of 2 · [Page 2 →](new-this-week-2.md)</sub>
 
 [← Every filter](README.md) · [Back to the full list](../README.md)

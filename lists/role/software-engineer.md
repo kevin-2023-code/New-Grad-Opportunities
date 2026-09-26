@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**380 open roles.** 272 in the United States & Canada · 108 elsewhere in the world.
+**376 open roles.** 270 in the United States & Canada · 106 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,13 +22,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d5c0dce5-0e6e-49d8-abba-e7dbd038e082">Software Engineer, Energy Management</a></td>
 <td>Austin, TX<br/>San Francisco, CA<br/>Seattle, WA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/9e7a062f-752b-4690-98fd-a3cf29860636/application">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/7079bfa4-28fd-49a6-a900-c7b48324f81e">Mission Software Engineer, Mission Systems</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5249750007?gh_jid=5249750007">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -1698,13 +1691,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d7cbe7f-c18e-418d-b5bf-cd786d8dd5d0">Software Engineer, Platform Systems (SDV/FNV)</a></td>
-<td>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68504">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Backflip</strong></td>
 <td><a href="https://trueinterview.io/jobs/fa60a2b9-455b-458f-8937-fe1e54998d03">Software Engineer (Full-Stack)</a></td>
 <td>United States</td>
@@ -1990,13 +1976,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Richie It Solutions Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/70b9d975-4da2-4f09-beeb-3adb3b2ccf50">software developer</a></td>
-<td>Edmonton (AB)</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50357104">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Astra North Infoteck Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/c417fd48-18af-4a96-b2cb-047e363bf150">software developer</a></td>
 <td>Mirabel (QC)</td>
@@ -2135,13 +2114,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Porto</td>
 <td align="center"><a href="https://jobs.lever.co/farfetch/02851d02-d6e9-4a0c-a3c1-bdaa78a31c93/apply">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Conduit</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e707e1f-7449-4327-8c91-7da6b273a7b5">Software Engineer, Control Plane</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/conduit/5e599120-22ec-46c8-b933-6c833139d59f/application">Apply</a></td>
-<td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Esri</strong></td>

@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**146 open roles.** 108 in the United States & Canada · 38 elsewhere in the world.
+**143 open roles.** 107 in the United States & Canada · 36 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -149,13 +149,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Mountain View, CA<br/>Seattle, WA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/138032364998533830-ux-designer-search-ads-360">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Illumio</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e5c653c-a5c4-487e-9630-741e2f679225">Content Designer I</a></td>
-<td>HQ - Sunnyvale (Office)</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/illumio/990b8a5f-4e7b-41c1-be4f-60498d1c3a64/application">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Viz Media</strong></td>
@@ -821,13 +814,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d942b6a-9df7-414e-8ed3-243b2dbe6448">DfMA Designer - All grades</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/81807">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Monks</strong></td>
 <td><a href="https://trueinterview.io/jobs/2c498912-bfe7-4ea5-aa3c-584c8055886b">AI Artist</a></td>
 <td>Buenos Aires<br/>Argentina</td>
@@ -1008,13 +994,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>City, Country<br/>LATAM</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/oliver/jobs/8076959">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Distro</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e48ec91-3bdb-4f88-9b42-35a0fb0c2814">Associate Product Manager</a></td>
-<td>Noida, Uttar Pradesh</td>
-<td align="center"><a href="https://jobs.lever.co/distro/2bfcdcb2-df4d-4f0e-b69c-5ea827c3df6d/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>C6 Bank</strong></td>

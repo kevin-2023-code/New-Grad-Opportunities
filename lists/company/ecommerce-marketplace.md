@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**63 open roles.** 38 in the United States & Canada · 25 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**62 open roles.** 38 in the United States & Canada · 24 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -385,13 +385,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Porto</td>
 <td align="center"><a href="https://jobs.lever.co/farfetch/02851d02-d6e9-4a0c-a3c1-bdaa78a31c93/apply">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Gymshark</strong></td>
-<td><a href="https://trueinterview.io/jobs/709bb092-3886-4428-bf52-d377f6618bfd">Mobile Automation Engineer</a></td>
-<td>Solihull, England, United Kingdom<br/>IQ</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/gymshark/jobs/4975830101">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Skydropx Frenet</strong></td>

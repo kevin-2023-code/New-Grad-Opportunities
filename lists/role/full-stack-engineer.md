@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**37 open roles.** 22 in the United States & Canada · 15 elsewhere in the world.
+**35 open roles.** 20 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -81,13 +81,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Reveal Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e033d03-5c4e-4c0e-995d-bceb7658eab3">Full Stack Engineer - (Ruby on Rails/React)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.lever.co/revealtech/7c4ccab2-dce5-42de-8ca0-811b5a6a9ed0/apply">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/bf43c096-89d8-49af-a254-5e154f6f00c4">Full Stack Software Engineer, Product Explorations</a></td>
 <td>San Francisco, CA</td>
@@ -156,13 +149,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, WA</td>
 <td align="center"><a href="https://jobs.lever.co/rover/a81ab324-969a-44f1-89b4-e7ff7487a735/apply">Apply</a></td>
 <td align="center">15 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Deepgram</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f71615c-d80a-4c27-9f74-2e9d5a2a3035">Full Stack Web Developer, Marketing</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/deepgram/4f9648d7-e25c-440c-8ec6-566a405c7c23/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>OpenAI</strong></td>

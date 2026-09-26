@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**25 open roles.** 19 in the United States & Canada · 6 elsewhere in the world.
+**24 open roles.** 19 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -185,13 +185,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Distro</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e48ec91-3bdb-4f88-9b42-35a0fb0c2814">Associate Product Manager</a></td>
-<td>Noida, Uttar Pradesh</td>
-<td align="center"><a href="https://jobs.lever.co/distro/2bfcdcb2-df4d-4f0e-b69c-5ea827c3df6d/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/40ec94c4-ccf2-44a9-a71d-0254d232f578">Product Management Analyst</a></td>
 <td>Noida, Uttar Pradesh</td>
 <td align="center"><a href="https://jobs.lever.co/distro/68d23d1c-b990-419a-aa90-a63bdb45c84f/apply">Apply</a></td>

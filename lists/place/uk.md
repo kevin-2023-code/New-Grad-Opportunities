@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**58 open roles.** 8 in the United States & Canada · 50 elsewhere in the world.
+**55 open roles.** 8 in the United States & Canada · 47 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -118,20 +118,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ac5f91de-a22b-44d0-a378-f9e0238613d7">Backend Software Engineer - New Bets</a></td>
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/heidihealth.com.au/68074198-b723-4db9-af97-5f33392593f4/application">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Barnett Waddingham</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d9d3b35-fa25-4ee7-9d7e-057c1eae0643">IT Support Technician</a></td>
-<td>Leeds, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.workable.com/view/uDb4VJTp7EYvxKQzSCqoKy/hybrid-it-support-technician-in-leeds-at-barnett-waddingham">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d942b6a-9df7-414e-8ed3-243b2dbe6448">DfMA Designer - All grades</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/81807">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -412,13 +398,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ca52ac0a-6da2-4379-b371-8ad3c3d6c545">Detection Engineer</a></td>
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/f9df85c5-bcb0-4d75-9728-775e746a0383/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Egis Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e112585-ab0c-493c-bf13-60ec2617d18a">Trainee / Apprentice Building Surveyor</a></td>
-<td>London, England, United Kingdom<br/>Edinburgh, Scotland, United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000141758409-trainee-apprentice-building-surveyor?oga=true">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>

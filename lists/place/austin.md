@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**132 open roles.**
+**129 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -183,13 +183,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a0b1445a-a8b8-4681-aef1-1a585a4eaee5">Machine Learning Operations (MLOps) Engineer</a></td>
 <td>Austin, TX<br/>San Francisco, CA<br/>El Segundo, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/gallatin/0be59879-c60a-4c7d-8d8d-cf5205871ef2/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/87c908c1-7dd8-4f1e-8c53-c5160fa028ca">Entry level Hardware Developer - Rochester, MN - 2027</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=130105">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -726,13 +719,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/70c5ddaa-4896-4829-b928-d68ed6613f18">Yield Engineer, RF Final Test Integration (Starlink/Akoustis)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8727899002?gh_jid=8727899002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/84b435fb-a481-405b-abb8-566645c5c1ac">BAW Device Engineer (Starlink/Akoustis)</a></td>
 <td>Bastrop, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8728515002?gh_jid=8728515002">Apply</a></td>
@@ -932,13 +918,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fcb3dd73-376f-4ac3-91b3-2fc83981578b">Operations Engineer, Applied AI (Application Software)</a></td>
 <td>Bastrop, TX<br/>Hawthorne, CA<br/>Starbase, TX<br/>+5 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8652229002?gh_jid=8652229002">Apply</a></td>
-<td align="center">28 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6ea8efe6-633c-43c6-b089-3181640cd424">Solar Cell Reliability Engineer (Starlink)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8653679002?gh_jid=8653679002">Apply</a></td>
 <td align="center">28 Jul 2026</td>
 </tr>
 </tbody>

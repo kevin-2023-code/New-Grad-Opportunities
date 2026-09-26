@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**242 open roles.** 192 in the United States & Canada · 50 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**241 open roles.** 191 in the United States & Canada · 50 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -834,13 +834,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/84f2004e-094f-4494-9c16-f18d134e2d50">Production Engineer, Support Tooling (Tooling and Frameworks)</a></td>
 <td>Bellevue, WA</td>
 <td align="center"><a href="https://coreweave.com/careers/job?4708261006&amp;board=coreweave&amp;gh_jid=4708261006">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Rubrik</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f520fb7-88d2-40c1-bc2c-b345ac1ef2eb">Sales Engineering Transformation Specialist - AI Enablement</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://www.rubrik.com/company/careers/departments/job.8144841?gh_jid=8144841">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>

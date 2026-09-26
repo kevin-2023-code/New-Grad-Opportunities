@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**13 open roles.** 4 in the United States & Canada · 9 elsewhere in the world.
+**12 open roles.** 4 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -77,13 +77,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Manchester, United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/ios-developer-at-hedgehog-lab-ec35c6b5">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Gymshark</strong></td>
-<td><a href="https://trueinterview.io/jobs/709bb092-3886-4428-bf52-d377f6618bfd">Mobile Automation Engineer</a></td>
-<td>Solihull, England, United Kingdom<br/>IQ</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/gymshark/jobs/4975830101">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>FIBROTEK MATÉRIAUX AVANCÉS INC.</strong></td>

@@ -319,6 +319,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/70a2d730-60c4-442f-96df-04fb12300d07">Entry Level AI-First Transformation – Strategy Consultant 2027</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=130269">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Modus Create</strong></td>
 <td><a href="https://trueinterview.io/jobs/d27db0b1-911d-419d-99e1-2e072c94a5ba">Data Engineer — Forward Deployed</a></td>
 <td>Colombia<br/>Mexico<br/>Poland<br/>+4 more</td>
@@ -1149,13 +1156,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a1b181b5-8164-49d8-848d-46c75b89f0af">Applied AI ML Associate</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783433">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Rubrik</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f520fb7-88d2-40c1-bc2c-b345ac1ef2eb">Sales Engineering Transformation Specialist - AI Enablement</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://www.rubrik.com/company/careers/departments/job.8144841?gh_jid=8144841">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**140 open roles.** 101 in the United States & Canada · 39 elsewhere in the world.
+**138 open roles.** 100 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -466,13 +466,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Clay Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e0b532c-ebc3-4ae5-bf34-6e7b5672325e">IT Support Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/claylabs/41246b56-fd7c-4b2c-af73-ce64cbfb3b21/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Anyscale</strong></td>
 <td><a href="https://trueinterview.io/jobs/8fcae117-f7b3-4934-8175-0f3f918a61a7">IT Specialist</a></td>
 <td>San Francisco, CA</td>
@@ -512,13 +505,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ffd92c4d-c4d3-46c6-aea3-cb4c29eeb5b6">Service Desk Analyst</a></td>
 <td>Charlotte, NC, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/lendingtree/jobs/8155561">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Factory</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e4bc3c2-ab43-40a9-9e92-456eeea1022e">Technical Support Engineer - US - Remote</a></td>
-<td>San Francisco, CA<br/>London, UK</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/factory/fa8c6db5-7dbf-4366-aa64-88a6608895cd/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
@@ -582,6 +568,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/54bbb8e1-1f0e-4146-a287-956a4e6eaf06">Bilingual Technical Support Specialist</a></td>
 <td>Etobicoke, Ontario</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/highlightta/27c296ae-0fc8-4f12-83d0-18ce26d2fd78/application">Apply</a></td>
+<td align="center">19 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Dell</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e73325d-7b0a-4895-941c-2981323b6b02">Integration Support - Federal Customer</a></td>
+<td>Mclean, VA, United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/296703">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
@@ -776,13 +769,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/945fb186-c85f-4a15-af65-416255e0ddc8">IT Helpdesk Technician (B2B SaaS)</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/prompt/880aa362-e76c-4d04-97cd-359df6c1b259/application">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Barnett Waddingham</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d9d3b35-fa25-4ee7-9d7e-057c1eae0643">IT Support Technician</a></td>
-<td>Leeds, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.workable.com/view/uDb4VJTp7EYvxKQzSCqoKy/hybrid-it-support-technician-in-leeds-at-barnett-waddingham">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>

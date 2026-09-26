@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**115 open roles.** 82 in the United States & Canada · 33 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**114 open roles.** 81 in the United States & Canada · 33 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -394,13 +394,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/claylabs/8d842974-0bee-4b13-bad5-dcc34848f69c/application">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6e0b532c-ebc3-4ae5-bf34-6e7b5672325e">IT Support Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/claylabs/41246b56-fd7c-4b2c-af73-ce64cbfb3b21/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Oracle</strong></td>

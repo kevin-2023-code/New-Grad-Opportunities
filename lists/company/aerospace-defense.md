@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**213 open roles.** 200 in the United States & Canada · 13 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**208 open roles.** 195 in the United States & Canada · 13 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/7079bfa4-28fd-49a6-a900-c7b48324f81e">Mission Software Engineer, Mission Systems</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5249750007?gh_jid=5249750007">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Shield AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/094ba932-0117-45a2-b073-8cd3f940513b">RF Engineer I (R6108)</a></td>
@@ -788,13 +781,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/70182c2a-9a6e-467d-b511-e210e90a8305">Manufacturing Engineer, Raptor Turbomachinery</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8748535002?gh_jid=8748535002">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>K2 Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/f48f2b0f-0e2e-4194-b6f4-439181c11fe0">Radiation Effects Engineer</a></td>
 <td>Los Angeles, CA</td>
@@ -883,13 +869,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a6d42075-eba0-41c3-8783-bb4b80b15a7c">Hardware Development Engineer, Gateway Failure Analysis (Starlink)</a></td>
 <td>Bastrop, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8730253002?gh_jid=8730253002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/70c5ddaa-4896-4829-b928-d68ed6613f18">Yield Engineer, RF Final Test Integration (Starlink/Akoustis)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8727899002?gh_jid=8727899002">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
@@ -1384,13 +1363,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/70f1765a-835e-48ff-ad78-641226bc14b9">Optical Engineer, Satellites (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8656990002?gh_jid=8656990002">Apply</a></td>
-<td align="center">29 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8aca2983-97a5-4688-b517-abe526969d18">Software Engineer, Data (Starlink)</a></td>
 <td>Hawthorne, CA<br/>Redmond, WA, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8631217002?gh_jid=8631217002">Apply</a></td>
@@ -1408,13 +1380,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a610d4b6-bcaf-4bfb-94b0-7cc379be8b08">Reliability Engineer, Satellite Systems (Starshield)</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8652841002?gh_jid=8652841002">Apply</a></td>
-<td align="center">28 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6ea8efe6-633c-43c6-b089-3181640cd424">Solar Cell Reliability Engineer (Starlink)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8653679002?gh_jid=8653679002">Apply</a></td>
 <td align="center">28 Jul 2026</td>
 </tr>
 </tbody>

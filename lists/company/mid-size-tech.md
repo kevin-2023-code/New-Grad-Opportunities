@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**92 open roles.** 66 in the United States & Canada · 26 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**91 open roles.** 65 in the United States & Canada · 26 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -65,13 +65,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>State College, Pennsylvania, United States<br/>Minitab HQ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/minitab/jobs/7998483003">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Illumio</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e5c653c-a5c4-487e-9630-741e2f679225">Content Designer I</a></td>
-<td>HQ - Sunnyvale (Office)</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/illumio/990b8a5f-4e7b-41c1-be4f-60498d1c3a64/application">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Neo Financial</strong></td>

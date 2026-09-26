@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**105 open roles.**
+**104 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -729,13 +729,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ba1389a4-811f-4973-9fa6-018dd28bc0bc">Space Lasers Engineer, Satellites (Starlink)</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8656960002?gh_jid=8656960002">Apply</a></td>
-<td align="center">29 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/70f1765a-835e-48ff-ad78-641226bc14b9">Optical Engineer, Satellites (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8656990002?gh_jid=8656990002">Apply</a></td>
 <td align="center">29 Jul 2026</td>
 </tr>
 <tr>

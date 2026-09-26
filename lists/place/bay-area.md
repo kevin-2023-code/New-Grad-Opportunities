@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**471 open roles.**
+**469 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -377,13 +377,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Cursor</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e31876e-580a-4a73-97b2-219f143e105c">Security GRC Engineer</a></td>
-<td>San Francisco, CA<br/>Palo Alto, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cursor/1703501f-53a1-4307-93ec-84b723be92ef/application">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Reevo</strong></td>
 <td><a href="https://trueinterview.io/jobs/64ae1b4b-73b5-47d6-a7c4-c50fa26eaaa0">Builder - Product Designer</a></td>
 <td>San Francisco, CA<br/>Santa Clara</td>
@@ -718,13 +711,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, California, Santa Clara, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Silicon-Photonics-Test-Engineer_JR0286967">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Illumio</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e5c653c-a5c4-487e-9630-741e2f679225">Content Designer I</a></td>
-<td>HQ - Sunnyvale (Office)</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/illumio/990b8a5f-4e7b-41c1-be4f-60498d1c3a64/application">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>OpenAI</strong></td>
@@ -2817,6 +2803,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8d263187-81db-4239-8877-94a606ff5fcd">Software Engineer, Proactive Capabilities</a></td>
 <td>Menlo Park, CA<br/>Bellevue, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8067604?t=gh_src=&amp;gh_jid=8067604">Apply</a></td>
+<td align="center">13 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/41bab83f-ee7f-4edc-a798-c465ddb13653">Photolithography Process Engineer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000143397549-photolithography-process-engineer?oga=true">Apply</a></td>
+<td align="center">13 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Accellor</strong></td>
+<td><a href="https://trueinterview.io/jobs/74847b82-eea3-4362-8e22-061ba6519b5b">Forward Deployment Engineer - Frontier AI Deployments</a></td>
+<td>Mountain View, California, United States<br/>San Francisco, California, United States</td>
+<td align="center"><a href="https://jobs.workable.com/view/qU1WALePUyLWeSM3SrU9zM/hybrid-forward-deployment-engineer---frontier-ai-deployments-in-mountain-view-at-accellor">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 </tbody>

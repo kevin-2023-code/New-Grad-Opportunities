@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**389 open roles.** 360 in the United States & Canada · 29 elsewhere in the world.
+**387 open roles.** 358 in the United States & Canada · 29 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -456,13 +456,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b66556bf-9a98-40a3-af72-fd5f39dfd4c0">Additive Manufacturing Engineer (Raptor)</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8816517002?gh_jid=8816517002">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/87c908c1-7dd8-4f1e-8c53-c5160fa028ca">Entry level Hardware Developer - Rochester, MN - 2027</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=130105">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -1684,13 +1677,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/70182c2a-9a6e-467d-b511-e210e90a8305">Manufacturing Engineer, Raptor Turbomachinery</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8748535002?gh_jid=8748535002">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/ab89c48f-2184-4f11-b248-3d5988a80965">Hardware Systems Design Engineer - Circuit Board</a></td>
 <td>US, NJ, Secaucus_Meadowlands<br/>Secaucus, New Jersey, United States</td>
@@ -1947,6 +1933,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/34811d0a-bec5-4759-ad6a-61bd7f8c0a1e">Associate Manufacturing Engineer</a></td>
 <td>US, MA, Wilmington, United States of America<br/>US, OR, Beaverton<br/>US, MA, Chelmsford, Alpha</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Manufacturing-Engineer_R265295">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6ef5bdb9-dc48-4d65-a2e8-02e075ae07d5">Associate Test Engineer</a></td>
+<td>US, NC, Durham, United States of America<br/>US, MA, Wilmington</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-Test-Engineer_R265308">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
@@ -2530,13 +2523,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8652841002?gh_jid=8652841002">Apply</a></td>
 <td align="center">28 Jul 2026</td>
 </tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6ea8efe6-633c-43c6-b089-3181640cd424">Solar Cell Reliability Engineer (Starlink)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8653679002?gh_jid=8653679002">Apply</a></td>
-<td align="center">28 Jul 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2590,6 +2576,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Milano, Italy</td>
 <td align="center"><a href="https://4dayweek.io/job/apple-systems-engineer-at-intesa-sanpaolo-1c42b2b3">Apply</a></td>
 <td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Aeva</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e4d588a-9351-4761-a398-d0b045e20c96">Optical Aligner and Test Engineer - Bangalore, India</a></td>
+<td>Bangalore</td>
+<td align="center"><a href="https://jobs.lever.co/aeva/29f58209-5cc2-4a05-8cb3-5b1f637cc096/apply">Apply</a></td>
+<td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>
@@ -2736,13 +2729,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c0fd0131-6855-4fc5-9252-09202362f34d">[Nyx Earth] Component Manufacturing Engineer</a></td>
 <td>Bordeaux, France</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/b8bfbcb7-b641-4901-9b59-04529cc7d4cd/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Egis Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e112585-ab0c-493c-bf13-60ec2617d18a">Trainee / Apprentice Building Surveyor</a></td>
-<td>London, England, United Kingdom<br/>Edinburgh, Scotland, United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000141758409-trainee-apprentice-building-surveyor?oga=true">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>

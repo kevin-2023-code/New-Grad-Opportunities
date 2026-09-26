@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**115 open roles.** 77 in the United States & Canada · 38 elsewhere in the world.
+**114 open roles.** 76 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -338,13 +338,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Nashville, TN, United States</td>
 <td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/343962">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Rubrik</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f520fb7-88d2-40c1-bc2c-b345ac1ef2eb">Sales Engineering Transformation Specialist - AI Enablement</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://www.rubrik.com/company/careers/departments/job.8144841?gh_jid=8144841">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>OpenAI</strong></td>

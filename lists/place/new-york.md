@@ -228,6 +228,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/70a2d730-60c4-442f-96df-04fb12300d07">Entry Level AI-First Transformation – Strategy Consultant 2027</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=130269">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Ro</strong></td>
 <td><a href="https://trueinterview.io/jobs/fa520063-47ce-438c-a562-047585e9084a">Instructional Designer</a> 🌐</td>
 <td>Remote — United States</td>
@@ -758,13 +765,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/mercor/2b1d7c4b-721b-4ed7-b61b-7bdceeaaa702/application">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Clay Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e0b532c-ebc3-4ae5-bf34-6e7b5672325e">IT Support Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/claylabs/41246b56-fd7c-4b2c-af73-ce64cbfb3b21/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Fluidstack</strong></td>

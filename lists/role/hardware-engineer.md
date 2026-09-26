@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**82 open roles.** 80 in the United States & Canada · 2 elsewhere in the world.
+**81 open roles.** 79 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -148,13 +148,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7fb5b426-b138-409a-b0cb-1570fd1e7030">Quantity Surveyor, Malta, NY - Semiconductor</a></td>
 <td>Malta, New York</td>
 <td align="center"><a href="https://jobs.lever.co/wwprosolutions/e71b3c91-4ac7-46ba-b9ab-5bcfbd30aae9/apply">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/87c908c1-7dd8-4f1e-8c53-c5160fa028ca">Entry level Hardware Developer - Rochester, MN - 2027</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=130105">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>

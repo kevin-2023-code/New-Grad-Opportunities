@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**534 open roles.** 495 in the United States & Canada · 39 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**536 open roles.** 497 in the United States & Canada · 39 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -171,6 +171,13 @@
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6ef5bdb9-dc48-4d65-a2e8-02e075ae07d5">Associate Test Engineer</a></td>
+<td>US, NC, Durham, United States of America<br/>US, MA, Wilmington</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-Test-Engineer_R265308">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d145b417-ea6b-4577-afea-c904755cccd3">Forward Deployed Engineer</a></td>
 <td>US, CA, San Jose, Rio Robles, United States of America<br/>US, MA, Boston</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Forward-Deployed-Engineer_R264808">Apply</a></td>
@@ -202,6 +209,13 @@
 <td><a href="https://trueinterview.io/jobs/96a6c769-4958-4a6e-8a3e-7c0a4c3f2cc5">DevOps Engineer - Federal Customer</a></td>
 <td>Mclean, VA, United States</td>
 <td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/296672">Apply</a></td>
+<td align="center">19 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6e73325d-7b0a-4895-941c-2981323b6b02">Integration Support - Federal Customer</a></td>
+<td>Mclean, VA, United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/296703">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>

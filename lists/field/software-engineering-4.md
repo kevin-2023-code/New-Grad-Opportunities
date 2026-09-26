@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,278 open roles.** 980 in the United States & Canada · 298 elsewhere in the world.
+**1,265 open roles.** 972 in the United States & Canada · 293 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,97 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Caribou</strong></td>
-<td><a href="https://trueinterview.io/jobs/cba095e9-9fa5-4043-bfce-afe35175031d">Product Engineer</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/caribou/95869cef-0efc-418a-a98c-6d7ae1a16d29/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Bees</strong></td>
-<td><a href="https://trueinterview.io/jobs/1728b0c1-10e5-46f3-a05f-e8d6bd32ea04">Intermediate Frontend Developer</a></td>
-<td>Campinas, São Paulo, Brazil<br/>Campinas, Brazil</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8687792002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c0699e53-666f-488e-ac60-0f733c215cdf">Intermediate Kotlin Developer</a></td>
-<td>Campinas, São Paulo, Brazil<br/>Campinas, Brazil</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8734536002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Voltus</strong></td>
-<td><a href="https://trueinterview.io/jobs/cf00bf95-2ef5-421f-9b18-4925c213003e">Project Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/voltus/58a0d4db-bae6-4649-9628-aa5d44072ceb/apply">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Prefect</strong></td>
-<td><a href="https://trueinterview.io/jobs/a302b166-1006-4e65-82a1-9acbfd5805e2">Developer Relations Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/prefect/2ea26851-744d-4693-bd79-43d25d0d7d96/application">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/991692fb-58e7-4aa0-803c-7c649398e9a4">Field Application Engineer - Temporary Part Time - London, UK</a></td>
-<td>Manchester</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/b005b49c-7d99-4622-8166-0304a3ba470e/apply">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/244fa1d5-a042-4295-bb06-5961727483dd">Field Application Engineer - Temporary Part Time - Manchester, UK</a></td>
-<td>Manchester</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/4bff79b4-4bc6-461f-876e-7f4917ba8716/apply">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Wpp</strong></td>
-<td><a href="https://trueinterview.io/jobs/71da6ab1-017b-46e2-ad6c-05670c970b1f">Power Platform Support Engineer</a></td>
-<td>Mexico City, Mexico City, Mexico</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/wpp/jobs/8487083002">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Avertium</strong></td>
-<td><a href="https://trueinterview.io/jobs/a051ee63-5f58-442e-867b-a2d7bfc60cfc">CyberSecurity Engineer | LogRhythm</a></td>
-<td>Guadalajara, Mexico</td>
-<td align="center"><a href="https://jobs.lever.co/avertium/b8eed3c9-a43e-4683-9201-b8cfc78fd218/apply">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>C6 Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/169d4690-5036-47a5-ab77-b29f02c69c2e">Analista de Qualidade e Automação de Software Pleno | Onboarding</a></td>
-<td>São Paulo, Brazil<br/>C6 Bank</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4725834005">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Margo</strong></td>
-<td><a href="https://trueinterview.io/jobs/900b2c24-a003-48fe-9baa-7a60896cff6b">CyberArk SME Engineer</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.lever.co/margo-group/02d078e9-b13d-41b6-8dda-e93153330d91/apply">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Jcdecaux Australia</strong></td>
-<td><a href="https://trueinterview.io/jobs/89d5a9f0-86af-49a0-9933-43912c96ed47">Application Developer</a></td>
-<td>Sydney</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/jcdecaux/jobs/8724233002">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Olsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/ab9f044a-d410-4ba4-8215-f00f717d2892">Mechanical Piping Engineer - Data Center</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5394796008">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>Skelar</strong></td>
 <td><a href="https://trueinterview.io/jobs/13d8acfd-88e9-406b-ad94-0e79ee087905">Service Operations Engineer</a> 🌐</td>

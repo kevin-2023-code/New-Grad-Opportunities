@@ -95,6 +95,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/70a2d730-60c4-442f-96df-04fb12300d07">Entry Level AI-First Transformation – Strategy Consultant 2027</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=130269">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Modus Create</strong></td>
 <td><a href="https://trueinterview.io/jobs/d27db0b1-911d-419d-99e1-2e072c94a5ba">Data Engineer — Forward Deployed</a></td>
 <td>Colombia<br/>Mexico<br/>Poland<br/>+4 more</td>
@@ -106,13 +113,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e4dfe03d-0288-471d-9b1b-926bca84ff4e">Database Engineer - Forward Deployed</a></td>
 <td>Colombia<br/>Costa Rica<br/>Mexico<br/>+6 more</td>
 <td align="center"><a href="https://moduscreate.com/careers/7998661003?gh_jid=7998661003">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/87c908c1-7dd8-4f1e-8c53-c5160fa028ca">Entry level Hardware Developer - Rochester, MN - 2027</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=130105">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>

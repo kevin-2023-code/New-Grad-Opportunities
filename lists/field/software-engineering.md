@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,278 open roles.** 980 in the United States & Canada · 298 elsewhere in the world.
+**1,265 open roles.** 972 in the United States & Canada · 293 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -31,13 +31,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d5c0dce5-0e6e-49d8-abba-e7dbd038e082">Software Engineer, Energy Management</a></td>
 <td>Austin, TX<br/>San Francisco, CA<br/>Seattle, WA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/9e7a062f-752b-4690-98fd-a3cf29860636/application">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/7079bfa4-28fd-49a6-a900-c7b48324f81e">Mission Software Engineer, Mission Systems</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5249750007?gh_jid=5249750007">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -780,13 +773,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9d749eb0-486f-4099-8247-6ce946c445fa">Robotics Operations Engineer I, First Shift</a></td>
 <td>Cambridge, MA USA<br/>Alewife, Cambridge, MA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4410043009">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cursor</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e31876e-580a-4a73-97b2-219f143e105c">Security GRC Engineer</a></td>
-<td>San Francisco, CA<br/>Palo Alto, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cursor/1703501f-53a1-4307-93ec-84b723be92ef/application">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -2162,13 +2148,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Guidepoint Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d775e44-befe-4c52-8ff2-dc9055a9bb36">Threat Emulation Engineer - Blue/Purple Team</a></td>
-<td>Chantilly, VA<br/>Federal</td>
-<td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6193381004?gh_jid=6193381004">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/80c9e658-0c01-43c2-be98-c67468c18976">Software Engineer - Maritime</a></td>
 <td>Costa Mesa, California, United States</td>
@@ -2817,6 +2796,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/765b8bbd-ed5b-446c-addb-501eefb1c9fe">Infrastructure Developer</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schrdinger/jobs/7991930003">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Inalab</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e38aba4-eb5c-4c27-bebc-e4f28f895df2">Application Developer - Databricks - FWS</a></td>
+<td>Falls Church, VA<br/>Fort Collins, CO</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/inalabconsulting/jobs/5421174008">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1bf13ed2-63e7-4173-85fe-6739fcc0a8e0">Front-End Application Developer - FWS</a></td>
+<td>Falls Church, VA<br/>Fort Collins, CO</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/inalabconsulting/jobs/5421149008">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/146ac455-30d8-4211-a949-d0ccaf90c35c">Decision Engineer, Infrastructure Development &amp; Delivery</a></td>
+<td>San Francisco, CA<br/>New York, NY<br/>Austin, TX<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/4d9e6d9f-d1f5-4e56-b743-a0f082fb7217/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>

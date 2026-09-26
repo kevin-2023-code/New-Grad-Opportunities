@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**30 open roles.**
+**31 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -191,6 +191,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, NC, Durham<br/>US, MA, Wilmington, United States of America</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304">Apply</a></td>
 <td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6ef5bdb9-dc48-4d65-a2e8-02e075ae07d5">Associate Test Engineer</a></td>
+<td>US, NC, Durham, United States of America<br/>US, MA, Wilmington</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-Test-Engineer_R265308">Apply</a></td>
+<td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>

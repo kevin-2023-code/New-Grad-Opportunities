@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**471 open roles.**
+**469 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,20 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Western Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/41bab83f-ee7f-4edc-a798-c465ddb13653">Photolithography Process Engineer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000143397549-photolithography-process-engineer?oga=true">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Accellor</strong></td>
-<td><a href="https://trueinterview.io/jobs/74847b82-eea3-4362-8e22-061ba6519b5b">Forward Deployment Engineer - Frontier AI Deployments</a></td>
-<td>Mountain View, California, United States<br/>San Francisco, California, United States</td>
-<td align="center"><a href="https://jobs.workable.com/view/qU1WALePUyLWeSM3SrU9zM/hybrid-forward-deployment-engineer---frontier-ai-deployments-in-mountain-view-at-accellor">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>Exa</strong></td>
 <td><a href="https://trueinterview.io/jobs/2b2a369d-0ced-474e-87b3-c910830b6195">Forward Deployed Engineer</a></td>

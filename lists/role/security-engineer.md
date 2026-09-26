@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**64 open roles.** 42 in the United States & Canada · 22 elsewhere in the world.
+**62 open roles.** 41 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, WA<br/>Denver, CO<br/>Palo Alto, CA<br/>+1 more</td>
 <td align="center"><a href="https://jobs.lever.co/palantir/98c244fc-444b-43ba-b152-30227191170b/apply">Apply</a></td>
 <td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cursor</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e31876e-580a-4a73-97b2-219f143e105c">Security GRC Engineer</a></td>
-<td>San Francisco, CA<br/>Palo Alto, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cursor/1703501f-53a1-4307-93ec-84b723be92ef/application">Apply</a></td>
-<td align="center">22 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Smile Digital Health</strong></td>
@@ -336,13 +329,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Quezon City</td>
 <td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Quezon-City/Application-Security-Engineer---Penetration-Testing-Quality-Assurance_JR26091263">Apply</a></td>
 <td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Censys</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f8be4fe-8cdd-4215-b383-9c1f3f83aacf">Security Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/censys/jobs/8541287002">Apply</a></td>
-<td align="center">22 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Defense Unicorns</strong></td>

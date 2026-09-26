@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**138 open roles.**
+**136 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,13 +19,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/7079bfa4-28fd-49a6-a900-c7b48324f81e">Mission Software Engineer, Mission Systems</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5249750007?gh_jid=5249750007">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6b7c13d5-f2c6-440c-aed1-fda2969146aa">Systems Engineer, Space Emerging Talent</a></td>
 <td>Costa Mesa, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007">Apply</a></td>
@@ -680,13 +673,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/df767e3b-f29f-45e7-bc2e-55bbdae5bd86">Avionics System Engineer, HITL (Starfall)</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8748882002?gh_jid=8748882002">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/70182c2a-9a6e-467d-b511-e210e90a8305">Manufacturing Engineer, Raptor Turbomachinery</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8748535002?gh_jid=8748535002">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>

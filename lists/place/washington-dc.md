@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**65 open roles.**
+**66 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -141,13 +141,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fde0d766-24d4-4934-ba50-27d1c65d227b">Qualys Integration Engineer</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://jobs.lever.co/uvcyber/df71f4f5-1295-41f0-93d5-3440a06a6c69/apply">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Guidepoint Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d775e44-befe-4c52-8ff2-dc9055a9bb36">Threat Emulation Engineer - Blue/Purple Team</a></td>
-<td>Chantilly, VA<br/>Federal</td>
-<td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6193381004?gh_jid=6193381004">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
@@ -312,6 +305,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6e73325d-7b0a-4895-941c-2981323b6b02">Integration Support - Federal Customer</a></td>
+<td>Mclean, VA, United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/296703">Apply</a></td>
+<td align="center">19 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Helsing</strong></td>
 <td><a href="https://trueinterview.io/jobs/ccf89334-fd70-4a56-b8ad-7490613ed183">IT Support Specialist</a></td>
 <td>Washington, DC</td>
@@ -331,6 +331,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Washington, DC<br/>Arlington, VA</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4706290006?gh_jid=4706290006">Apply</a></td>
 <td align="center">18 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Virtru</strong></td>
+<td><a href="https://trueinterview.io/jobs/701e8bba-3748-4073-985c-ea0e745ee386">Technical Writer</a> 🌐</td>
+<td>Remote — United States<br/>Washington, DC - Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/virtru/jobs/4724504005">Apply</a></td>
+<td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Dell</strong></td>

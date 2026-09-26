@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**62 open roles.** 53 in the United States & Canada · 9 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**60 open roles.** 53 in the United States & Canada · 7 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -402,13 +402,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d942b6a-9df7-414e-8ed3-243b2dbe6448">DfMA Designer - All grades</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/81807">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/558ff3e0-f8f3-431b-89e8-f5307a200c35">EOI: Join our Power &amp; Energy Group at WSP</a></td>
 <td>Brisbane, Queensland, Australia</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95839">Apply</a></td>
@@ -455,13 +448,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5394796008">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Egis Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e112585-ab0c-493c-bf13-60ec2617d18a">Trainee / Apprentice Building Surveyor</a></td>
-<td>London, England, United Kingdom<br/>Edinburgh, Scotland, United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000141758409-trainee-apprentice-building-surveyor?oga=true">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

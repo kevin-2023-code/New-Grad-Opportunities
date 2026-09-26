@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**92 open roles.** 77 in the United States & Canada · 15 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**91 open roles.** 76 in the United States & Canada · 15 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -491,13 +491,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9a43accf-56d5-4be0-861d-af7fbc9cb414">Diagnostics &amp; Data Systems Engineer</a></td>
 <td>Dearborn, MI, United States</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68511">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6d7cbe7f-c18e-418d-b5bf-cd786d8dd5d0">Software Engineer, Platform Systems (SDV/FNV)</a></td>
-<td>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68504">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
