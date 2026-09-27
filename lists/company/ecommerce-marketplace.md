@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**56 open roles.** 34 in the United States & Canada · 22 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**53 open roles.** 32 in the United States & Canada · 21 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -53,13 +53,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f3b152a-f76a-4ed7-b814-10bf30e302a7">Autonomy Platform Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8225722">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Shopify</strong></td>
 <td><a href="https://trueinterview.io/jobs/5e6a97d7-ab71-44db-b41f-aa557b2f6f6c">Technical Security Analyst, IAM</a> 🌐</td>
 <td>Remote — Canada</td>
@@ -99,13 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7e52f2f4-b979-4afe-81c9-1d746ff7f657">Gestionnaire, Ingénierie de la fiabilité des sites (SRE)</a></td>
 <td>Montreal, QC</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/45e63872-1b53-46d4-9d3b-99ac19ca24f2/application">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/8ed13cca-ceb6-4b2d-a996-e64a8cb3c4fa">Support Engineer I, MLDOPs</a></td>
-<td>IN, TN, Chennai</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10541351/support-engineer-i-mldops">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
@@ -413,13 +399,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bogotá</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydropx/35d8afdc-6043-4ee2-8bb7-f4b1eb218a83/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/90ec46a6-46e7-451d-b29f-6ceb95bb82a9">Data Analyst</a></td>
-<td>Colombia<br/>Venezuela<br/>Panamá<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydropx/03857582-7532-401f-bad9-61d187b87f36/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

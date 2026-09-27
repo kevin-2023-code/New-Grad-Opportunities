@@ -2,7 +2,7 @@
 
 # Quantitative Trader
 
-**9 open roles.** 4 in the United States & Canada · 5 elsewhere in the world.
+**8 open roles.** 3 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/atomic-invest/5e25b966-08aa-4095-9165-21bb657c11bf/application">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Worldquant</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d709781-11a4-4ee6-becb-de3036698182">Junior Execution Trader</a></td>
-<td>New York, NY<br/>New York City</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/worldquant/jobs/4705539006">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 </tbody>
 </table>

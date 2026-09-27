@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**84 open roles.** 67 in the United States & Canada · 17 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**83 open roles.** 66 in the United States & Canada · 17 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -170,13 +170,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Dearborn, MI, United States</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67529">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Applied intuition</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e5752a9-814e-4e6f-8aa1-6cd9d31a7a99">Sensor Validation Engineer (Sunnyvale, CA)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/applied/4e18e134-2b29-4262-bbbb-33a39c447a4a/application">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Zoox</strong></td>

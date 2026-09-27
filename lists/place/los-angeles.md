@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**116 open roles.**
+**114 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -92,13 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b5d9c5a2-199f-46cb-b1a8-09efa09e97fc">Full Stack Software Engineer I</a></td>
 <td>Long Beach, California, United States<br/>LB - Wormhole HQ (CA)</td>
 <td align="center"><a href="https://boards.greenhouse.io/relativity/jobs/8834005002?gh_jid=8834005002">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Neros Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f88f111-681a-40b2-b1d9-d91a5cad8cd4">Web &amp; Digital Experience Designer</a></td>
-<td>Torrance, California, United States<br/>HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/nerostechnologies/jobs/5246222007">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -677,13 +670,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fae0930-3c55-4a62-b686-27458d9b4472">Hardware Reliability Engineer, Components (Starshield)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696659002?gh_jid=8696659002">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/db446303-a39c-4985-b69e-f5748c2787f3">Supplier Development Engineer, Hardware &amp; Fasteners (Starship)</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8687756002?gh_jid=8687756002">Apply</a></td>

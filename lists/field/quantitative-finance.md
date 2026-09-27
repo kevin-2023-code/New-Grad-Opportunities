@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**17 open roles.** 9 in the United States & Canada · 8 elsewhere in the world.
+**16 open roles.** 8 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -65,13 +65,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/149771">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Worldquant</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d709781-11a4-4ee6-becb-de3036698182">Junior Execution Trader</a></td>
-<td>New York, NY<br/>New York City</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/worldquant/jobs/4705539006">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Man Group</strong></td>

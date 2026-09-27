@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**27 open roles.** 24 in the United States & Canada · 3 elsewhere in the world.
+**25 open roles.** 22 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -151,25 +151,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fa07cf1-da2b-4e5f-a246-16a199adce9a">Research Engineer / Research Scientist, Health</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/719cc0f6-ed38-41db-8870-299b4d336f37/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Applied Intuition</strong></td>
 <td><a href="https://trueinterview.io/jobs/a67cb1a2-96a0-4cab-b365-384b7d2b7e76">Research Engineer New Grad</a> 🛂</td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application">Apply</a></td>
 <td align="center">15 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Autodesk</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fc61453-1bc1-4463-acb0-521b1345577a">Research Engineer</a></td>
-<td>Boston, MA, USA, United States of America</td>
-<td align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Research-Engineer_26WD97952-1">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Meta</strong></td>

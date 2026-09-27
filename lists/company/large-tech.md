@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**233 open roles.** 182 in the United States & Canada · 51 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**224 open roles.** 176 in the United States & Canada · 48 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -256,13 +256,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/909ad1a1-a8fb-4167-aac3-2e4180d02aa5">Software Engineer, Compute Foundations</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/40f2f959-20f8-40ca-8b8c-154b6774193a/application">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Snap</strong></td>
 <td><a href="https://trueinterview.io/jobs/cb93252d-9f74-4ecb-a12f-378a2ed8b227">Electrical Engineer</a></td>
 <td>Los Angeles, California</td>
@@ -354,14 +347,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Nice</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f098670-99ad-4abc-a2ab-da971a7efa4b">Software Engineer, AI Solutions</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://boards.eu.greenhouse.io/nice/jobs/4975980101?gh_jid=4975980101">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0630e779-2c3a-471c-a4b0-6a1f5627e96d">AI Infrastructure Engineer, pAGI</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/b2250643-bfd0-4ce6-abbf-cb7e8c8123ba/application">Apply</a></td>
@@ -393,13 +379,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e397710d-a21b-4807-91e3-42406fcd3ac8">Research Engineer, AI for Chip Design</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/bd2b8228-bb0f-42e0-94bd-c853cdd56140/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f6fd521-cbb5-42e2-b3b7-15cbc9d697be">Rack Integration Operations Engineer</a></td>
-<td>Austin, TX<br/>San Francisco, CA<br/>Seattle, WA<br/>+2 more (hybrid)</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8196631?gh_jid=8196631">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
@@ -788,13 +767,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/8deb81ce-c645-4e92-ae32-ad03fd7dec25">Network Hardware Engineer</a></td>
-<td>Austin, TX<br/>Hybrid</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8147174?gh_jid=8147174">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Anthropic</strong></td>
 <td><a href="https://trueinterview.io/jobs/d8093b28-2ebb-4bcf-8fcf-fee7fe33a41b">IT Systems Engineer, Mobile Client Platform Engineer</a> 🌐</td>
 <td>Remote — United States</td>
@@ -862,13 +834,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b9329d40-5281-4e68-a9a8-0c9da6a751c0">Electrical Engineer, Actuator test infrastructure</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/3fa44620-142a-47fe-b098-92923064d2f5/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8fa07cf1-da2b-4e5f-a246-16a199adce9a">Research Engineer / Research Scientist, Health</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/719cc0f6-ed38-41db-8870-299b4d336f37/application">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
@@ -1284,13 +1249,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5202187007">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/46068e53-2b51-4128-bd7e-22bf8d862c99">Software Engineer, Cloudflare Network Interconnect</a></td>
-<td>Austin, TX<br/>London, United Kingdom<br/>Hybrid<br/>+1 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751">Apply</a></td>
-<td align="center">29 Jul 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1486,20 +1444,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Box</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f4e432e-9ffc-47e2-8e59-cac386d6bd9b">Solutions Engineer (Enterprise)</a></td>
-<td>Osaka, Japan<br/>Osaka Coworking Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/boxinc/jobs/8157979">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>GitLab</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e19bd5e-a0ee-4279-9dce-0662283e9ec3">Intermediate Software Engineer</a></td>
-<td>Bangalore, India<br/>India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8721229002">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Airbnb</strong></td>
 <td><a href="https://trueinterview.io/jobs/e5670983-9590-4bd0-96ee-0e670a96a502">Automation Engineer, Quality Engineering</a></td>
 <td>Brazil</td>
@@ -1616,13 +1560,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d9d45ca6-026c-4374-8621-cc0a230995a2">Software Engineer - Platform Productivity | Spain | Remote</a> 🌐</td>
 <td>Remote — Spain, Ireland, United Kingdom</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/grafanalabs/jobs/6135790004">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8d7b32cf-e569-4a84-83a4-2e593131e495">Software Engineer - Platform Productivity | United Kingdom | Remote</a> 🌐</td>
-<td>Remote — United Kingdom, Ireland, Spain</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/grafanalabs/jobs/6135792004">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>

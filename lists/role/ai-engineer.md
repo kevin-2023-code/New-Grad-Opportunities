@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**97 open roles.** 64 in the United States & Canada · 33 elsewhere in the world.
+**93 open roles.** 62 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -99,13 +99,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/aa4ca0a9-4846-448f-ba11-e482b97ea9bd">Software Engineer, SystemML - AI Networking</a></td>
 <td>Menlo Park, CA, US</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1124065870041690/">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Nice</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f098670-99ad-4abc-a2ab-da971a7efa4b">Software Engineer, AI Solutions</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://boards.eu.greenhouse.io/nice/jobs/4975980101?gh_jid=4975980101">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
@@ -275,13 +268,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23932">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Retell AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f230eb8-386d-4f3e-882c-0a470c1a7acd">Applied AI Engineer (Customer Facing)</a></td>
-<td>San Francisco Bay Area</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/retell-ai/1fcd6e82-2a31-4e2f-abcf-be069ebb6e8c/application">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Oracle</strong></td>
@@ -478,13 +464,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/90752cfd-c5d7-4f70-ae19-411f174a1677">System Automation Engineer - AI &amp; Python Developer Experience</a></td>
-<td>Krakow, Poland</td>
-<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/CM-SCM-DevOps-Engineer_R67159">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>G2i Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/53c4bb13-c233-4940-a672-e774f4190a72">AI Engineer, Agents &amp; Search</a></td>
 <td>LATAM</td>
@@ -525,13 +504,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>2 Locations</td>
 <td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Reporting-Automation---AI-Developer_R260025992">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rackner</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e9eb0e4-92be-4d45-9e4f-164462841ac8">AI/ML Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rackner/jobs/4733529005">Apply</a></td>
-<td align="center">13 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Mutt Data</strong></td>

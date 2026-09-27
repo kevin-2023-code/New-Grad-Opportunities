@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**90 open roles.** 64 in the United States & Canada · 26 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**89 open roles.** 63 in the United States & Canada · 26 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -421,13 +421,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/53fb8d2a-b3fc-4733-9420-1940939a1565">Data Analyst</a></td>
 <td>Vancouver, BC</td>
 <td align="center"><a href="https://jobs.lever.co/kabam/cbdbaeeb-1228-40c6-a022-48306ea63635/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Vultr</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fb57ad3-7a1a-4af4-963a-f0fb92efdb3b">Network DevOps Engineer, RDMA Fabric Automation - Multiple Openings</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/vultr/5006eced-ad0a-4e27-b314-4a6eb9733b14/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>

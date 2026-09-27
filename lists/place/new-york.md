@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**152 open roles.**
+**150 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -592,6 +592,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Yext</strong></td>
+<td><a href="https://trueinterview.io/jobs/908f44f8-5ecd-497e-9919-54fe372fe32f">Specialist, Concierge Services</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/yext/jobs/8157597">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Build Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/e96cf16f-b567-4aa1-95be-c0ea88965500">Solutions Engineer</a></td>
 <td>New York City</td>
@@ -676,13 +683,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/904ab390-5244-4e72-8d0b-86b801127e77">NPI TPM, Product Engineering</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/95281a44-f8d5-43c2-92c2-e5f311634bd6/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Lm Studio</strong></td>
 <td><a href="https://trueinterview.io/jobs/c3dcd47e-cb88-4621-b984-3f8f6f96007a">Full Stack Software Engineer</a></td>
 <td>New York City</td>
@@ -695,13 +695,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>New York, US, New York<br/>Redwood City, US, California</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/7978327003?gh_jid=7978327003">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Sagesure</strong></td>
-<td><a href="https://trueinterview.io/jobs/90cbd5f0-7ed5-4044-88cf-0d186ce50e9d">Associate Designer</a></td>
-<td>Jersey City, New Jersey, United States<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.sagesure.com/careers/current-job-openings/?gh_jid=4707275006">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
@@ -862,13 +855,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0124ad46-8d6b-4c69-a710-8c97bb58e93a">Design Engineer</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/kaizenlabs/83db0a38-bda7-4668-a1ad-bc5f0de95e80/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Worldquant</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d709781-11a4-4ee6-becb-de3036698182">Junior Execution Trader</a></td>
-<td>New York, NY<br/>New York City</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/worldquant/jobs/4705539006">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>

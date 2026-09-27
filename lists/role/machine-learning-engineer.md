@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**43 open roles.** 34 in the United States & Canada · 9 elsewhere in the world.
+**44 open roles.** 34 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -267,6 +267,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/88836bce-32fe-4254-addf-2d680c8803c1">Assoc Machine Learning Engineer</a></td>
+<td>Hyderabad, , India</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000152033408-assoc-machine-learning-engineer?oga=true">Apply</a></td>
+<td align="center">27 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Mntn</strong></td>
 <td><a href="https://trueinterview.io/jobs/fb44e8ca-8729-4551-9a3f-a36af444d958">Software Engineer, Machine Learning</a> 🌐</td>

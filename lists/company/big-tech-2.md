@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**500 open roles.** 465 in the United States & Canada · 35 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**495 open roles.** 458 in the United States & Canada · 37 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,48 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Netflix</strong></td>
-<td><a href="https://trueinterview.io/jobs/e49e094e-5f1e-410d-ac36-da475cf9129c">Distributed Systems Engineer (L5) - Compute</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317912171">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/addee22f-4017-422d-b97c-d4700689115c">NVIDIA 2027 Internships: Deep Learning</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397026418">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9540b709-298c-45d2-875d-f75591a16641">NVIDIA 2027 Internships: Software Engineering</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397026205">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f45eab34-22f9-42ee-af35-6d6427ea6c34">NVIDIA 2027 Internships: Systems Software Engineering</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397026201">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a6abc3a1-c7f1-4ca1-9501-e1caab87edb8">NVIDIA Spring 2027 Internships: Developer and Performance Technology</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397026396">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/9fbbf9e9-4506-4109-aef1-95c7c5469cc7">Brand Designer, Events &amp; Experiential, AWS Advertising &amp; Social Media</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10505544/brand-designer-events-experiential-aws-advertising-social-media">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>Broadcom</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1c6377a-5e5d-4cba-ab1a-22c72481a381">R&amp;D Hardware Engineer</a></td>
@@ -195,13 +153,6 @@
 <td><a href="https://trueinterview.io/jobs/41bab83f-ee7f-4edc-a798-c465ddb13653">Photolithography Process Engineer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000143397549-photolithography-process-engineer?oga=true">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Autodesk</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fc61453-1bc1-4463-acb0-521b1345577a">Research Engineer</a></td>
-<td>Boston, MA, USA, United States of America</td>
-<td align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Research-Engineer_26WD97952-1">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
@@ -482,6 +433,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Oracle</strong></td>
+<td><a href="https://trueinterview.io/jobs/c911812a-dc49-4a19-b3a6-07c5dafe6006">User Assistance Developer</a></td>
+<td>BRNO, Czech Republic</td>
+<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/345988">Apply</a></td>
+<td align="center">27 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/88836bce-32fe-4254-addf-2d680c8803c1">Assoc Machine Learning Engineer</a></td>
+<td>Hyderabad, , India</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000152033408-assoc-machine-learning-engineer?oga=true">Apply</a></td>
+<td align="center">27 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Motorola Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/90752cfd-c5d7-4f70-ae19-411f174a1677">System Automation Engineer - AI &amp; Python Developer Experience</a></td>

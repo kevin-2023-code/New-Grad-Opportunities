@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**50 open roles.** 36 in the United States & Canada · 14 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**49 open roles.** 36 in the United States & Canada · 13 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -371,13 +371,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Philippines</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/ansiblehealth/dbc0a9b5-0c38-466b-96e0-e5eae5b7ec29/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Docplanner</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f990eff-dca2-48aa-bef8-68cdd8978133">Junior IT Support Specialist (Warsaw Office)</a></td>
-<td>Warsaw</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/docplanner/244b3a49-2ad0-4ce6-b0fb-00b114a4b63c/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

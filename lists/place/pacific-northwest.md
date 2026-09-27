@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**68 open roles.**
+**67 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/165c773f-ff3f-4d95-9649-8a263fdd3723">Network Systems and Solutions Engineer</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Network-Systems-and-Solutions-Engineer_JR0285494">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8da3e33b-3d27-428b-a735-adcfec4a009e">Optical Systems and Manufacturing Development Engineer</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Optical-Systems-and-Manufacturing-Development-Engineer_JR0287418">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>

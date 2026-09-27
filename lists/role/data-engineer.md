@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**68 open roles.** 45 in the United States & Canada · 23 elsewhere in the world.
+**67 open roles.** 44 in the United States & Canada · 23 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,13 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>Stockholm<br/>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/modal/a518f2cd-e0c7-4105-9004-d7971f7b1daf/application">Apply</a></td>
 <td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rhombus Power, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/90097d0c-cd31-4244-a8d8-e888fb5c2cd8">Data Engineer (Secret/Top Secret), Washington D.C.</a></td>
-<td>Washington, DC<br/>Washington, District of Columbia, United States<br/>Washington, D.C.</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rhombuspower/jobs/8002934003">Apply</a></td>
-<td align="center">22 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>BMO</strong></td>

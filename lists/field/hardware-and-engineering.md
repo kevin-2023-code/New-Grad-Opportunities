@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**397 open roles.** 366 in the United States & Canada · 31 elsewhere in the world.
+**395 open roles.** 364 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -886,6 +886,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/8fb09dec-5573-4881-bb53-656edd67314f">Optical Engineer</a></td>
+<td>Milpitas, CA, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optical-Engineer_2640298-1">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/4ade3a60-cbfc-4a42-b27d-a9acff598579">Package Reliability Engineer</a></td>
 <td>GJ, IN</td>
@@ -1009,6 +1016,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/02be2c42-bc28-4d61-809c-359327078251">Flight Test Engineer - Imaging</a></td>
 <td>Waltham, Massachusetts, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5234118007?gh_jid=5234118007">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/8da19596-47a7-492b-a592-75347381ba96">Mechanical Design Engineer, Motor Design &amp; Prototyping</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/a8a421d1-c9bb-4e37-8418-4e4d6b2ba29d/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
@@ -1488,6 +1502,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/9102db68-a373-44ba-bc2a-b671991f4ff3">Embedded Software Engineer - Drive Systems</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/ea3fbfaf-588b-434a-9a5a-c61edc731a40/apply">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>May Mobility</strong></td>
 <td><a href="https://trueinterview.io/jobs/25d3b206-1e95-4ae8-b0d2-809365b139b5">Testing Support Specialist</a></td>
 <td>Arlington, TX - Onsite<br/>Ann Arbor, MI - HQ</td>
@@ -1621,13 +1642,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Lumilens</strong></td>
-<td><a href="https://trueinterview.io/jobs/8eb28e3e-d8c2-44ae-b32e-9b4319231049">Silicon Photonic Engineer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lumilens/ca72562b-120f-4357-bb66-c328f8ffb0fe/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/94b883dc-1de1-4a14-b9bd-2d5f8c2c1a10">Hardware Development Engineer, PCBA Manufacturing (Starlink)</a></td>
 <td>Bastrop, TX</td>
@@ -1723,13 +1737,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3a93056d-5d5b-433e-a828-84df489b5c83">Electrical Engineer</a></td>
 <td>San Carlos, CA</td>
 <td align="center"><a href="https://jobs.lever.co/robust-ai/d7f4a9a3-4abe-433d-9c40-f309bb163424/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/8deb81ce-c645-4e92-ae32-ad03fd7dec25">Network Hardware Engineer</a></td>
-<td>Austin, TX<br/>Hybrid</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8147174?gh_jid=8147174">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
@@ -1845,14 +1852,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Apex Companies</strong></td>
-<td><a href="https://trueinterview.io/jobs/903abebf-31ea-49e1-8db3-4987dbfa577e">Survey and Mapping CAD Technician</a></td>
-<td>Fort Myers, FL<br/>FL - Fort Myers (JE)</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5398470008">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b9329d40-5281-4e68-a9a8-0c9da6a751c0">Electrical Engineer, Actuator test infrastructure</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/3fa44620-142a-47fe-b098-92923064d2f5/application">Apply</a></td>
@@ -1912,6 +1912,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f1bfe738-eba6-418b-b4f1-c6499bf76a86">Silicon Packaging Design Engineer</a></td>
 <td>US, Arizona, Phoenix, United States of America<br/>US, Oregon, Hillsboro</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Silicon-Packaging-Design-Engineer_JR0286517">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/9036c3bd-9940-4c8d-94ac-acfe13d0215c">Customer Support Engineer - Nationwide Opportunities - Veterans Make America!</a></td>
+<td>Austin, TX<br/>Malta, NY, United States of America<br/>Phoenix, AZ<br/>+4 more</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Malta-NY/Customer-Support-Engineer--E-_2640005">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
@@ -2069,13 +2076,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Erg</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fe93054-95ca-4220-a3f1-ee0bc6570bec">Junior Electrical Engineer</a></td>
-<td>Indian Head, MD</td>
-<td align="center"><a href="https://jobs.lever.co/erg/28d22b37-cbc7-478d-913a-84c53b19c34d/apply">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Mach Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/eba50766-9ddb-4ebf-934c-4b786719e101">Integration Reliability Engineer</a></td>
 <td>Huntington Beach, CA</td>
@@ -2084,13 +2084,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fae0930-3c55-4a62-b686-27458d9b4472">Hardware Reliability Engineer, Components (Starshield)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696659002?gh_jid=8696659002">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/dfbd4ffd-8a84-429c-a3ef-dd181828ec34">Mechanical Engineer - Battery Pack, Satellites (Starlink)</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8716210002?gh_jid=8716210002">Apply</a></td>
@@ -2360,13 +2353,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5ea154b3-054c-4879-b279-fa4e82576616">System Design Engineer - Memory System</a></td>
 <td>Milpitas, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Sandisk/744000142015139-system-design-engineer-memory-system-?oga=true">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Amax</strong></td>
-<td><a href="https://trueinterview.io/jobs/8dcb8011-c93f-4b71-984c-022dfe6d762a">Quality Engineer</a></td>
-<td>Fremont, California, United States</td>
-<td align="center"><a href="https://jobs.workable.com/view/cnE7JHdG9kuJbA82bgZJX8/quality-engineer-in-fremont-at-amax">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>

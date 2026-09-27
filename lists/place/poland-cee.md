@@ -20,6 +20,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Oracle</strong></td>
+<td><a href="https://trueinterview.io/jobs/c911812a-dc49-4a19-b3a6-07c5dafe6006">User Assistance Developer</a></td>
+<td>BRNO, Czech Republic</td>
+<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/345988">Apply</a></td>
+<td align="center">27 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Viabill</strong></td>
 <td><a href="https://trueinterview.io/jobs/2327af7e-6d83-4387-9561-d623012673e5">Product Designer (UI/UX)</a></td>
 <td>Warsaw</td>
@@ -67,13 +74,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Gdańsk, Pomeranian Voivodeship, Poland<br/>Bristol, UK<br/>Poland</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8543115002">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Docplanner</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f990eff-dca2-48aa-bef8-68cdd8978133">Junior IT Support Specialist (Warsaw Office)</a></td>
-<td>Warsaw</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/docplanner/244b3a49-2ad0-4ce6-b0fb-00b114a4b63c/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

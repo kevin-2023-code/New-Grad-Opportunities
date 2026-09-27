@@ -20,6 +20,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/88836bce-32fe-4254-addf-2d680c8803c1">Assoc Machine Learning Engineer</a></td>
+<td>Hyderabad, , India</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000152033408-assoc-machine-learning-engineer?oga=true">Apply</a></td>
+<td align="center">27 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Mastercard</strong></td>
 <td><a href="https://trueinterview.io/jobs/26dd27bf-ff5b-460a-9282-b2fa8a9495cd">Software Engineer I-1</a></td>
 <td>Pune, India</td>
@@ -193,13 +200,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Gurugram</td>
 <td align="center"><a href="https://jobs.lever.co/megaport/b826ffe7-6079-4b82-9a0d-d2919532cbc0/apply">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>GitLab</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e19bd5e-a0ee-4279-9dce-0662283e9ec3">Intermediate Software Engineer</a></td>
-<td>Bangalore, India<br/>India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8721229002">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Knowbe4</strong></td>

@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**345 open roles.** 244 in the United States & Canada · 101 elsewhere in the world.
+**341 open roles.** 241 in the United States & Canada · 100 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -422,13 +422,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco Office - Hybrid</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sydecar/79847304-2735-47ce-ae04-237c8957982a/application">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/909ad1a1-a8fb-4167-aac3-2e4180d02aa5">Software Engineer, Compute Foundations</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/40f2f959-20f8-40ca-8b8c-154b6774193a/application">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Syndio</strong></td>
@@ -1488,13 +1481,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Panasonic</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fa429fc-a211-4dcf-8ff6-8d957e81d152">Software Engineer I – Embedded Systems</a></td>
-<td>Irvine, California, United States</td>
-<td align="center"><a href="https://careers.na.panasonic.com/jobs/50269?lang=en-us">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Brooks Running</strong></td>
 <td><a href="https://trueinterview.io/jobs/c77a8a53-a488-4bf8-8899-fac534523a74">Footwear Developer I</a></td>
 <td>US, Washington, Seattle</td>
@@ -1718,13 +1704,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8640537002?gh_jid=8640537002">Apply</a></td>
 <td align="center">30 Jul 2026</td>
 </tr>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/46068e53-2b51-4128-bd7e-22bf8d862c99">Software Engineer, Cloudflare Network Interconnect</a></td>
-<td>Austin, TX<br/>London, United Kingdom<br/>Hybrid<br/>+1 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751">Apply</a></td>
-<td align="center">29 Jul 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1737,6 +1716,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Oracle</strong></td>
+<td><a href="https://trueinterview.io/jobs/c911812a-dc49-4a19-b3a6-07c5dafe6006">User Assistance Developer</a></td>
+<td>BRNO, Czech Republic</td>
+<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/345988">Apply</a></td>
+<td align="center">27 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Mastercard</strong></td>
 <td><a href="https://trueinterview.io/jobs/26dd27bf-ff5b-460a-9282-b2fa8a9495cd">Software Engineer I-1</a></td>
@@ -2263,13 +2249,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>GitLab</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e19bd5e-a0ee-4279-9dce-0662283e9ec3">Intermediate Software Engineer</a></td>
-<td>Bangalore, India<br/>India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8721229002">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Cursor</strong></td>
 <td><a href="https://trueinterview.io/jobs/697215d7-57ab-44b9-8d92-9820060141a2">Software Engineer, User Operations</a> 🌐</td>
 <td>Remote</td>
@@ -2428,13 +2407,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d9d45ca6-026c-4374-8621-cc0a230995a2">Software Engineer - Platform Productivity | Spain | Remote</a> 🌐</td>
 <td>Remote — Spain, Ireland, United Kingdom</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/grafanalabs/jobs/6135790004">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8d7b32cf-e569-4a84-83a4-2e593131e495">Software Engineer - Platform Productivity | United Kingdom | Remote</a> 🌐</td>
-<td>Remote — United Kingdom, Ireland, Spain</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/grafanalabs/jobs/6135792004">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>

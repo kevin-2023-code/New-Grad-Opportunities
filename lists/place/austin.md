@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**115 open roles.**
+**112 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -291,13 +291,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f6fd521-cbb5-42e2-b3b7-15cbc9d697be">Rack Integration Operations Engineer</a></td>
-<td>Austin, TX<br/>San Francisco, CA<br/>Seattle, WA<br/>+2 more (hybrid)</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8196631?gh_jid=8196631">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>DRW</strong></td>
 <td><a href="https://trueinterview.io/jobs/b033f52d-9e85-4436-94fd-6156fd4ae49f">Service Reliability Engineer</a></td>
 <td>Austin, TX<br/>Chicago, IL</td>
@@ -578,13 +571,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/8deb81ce-c645-4e92-ae32-ad03fd7dec25">Network Hardware Engineer</a></td>
-<td>Austin, TX<br/>Hybrid</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8147174?gh_jid=8147174">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/aa804997-7bfa-4598-9da3-5d9dd485d44d">Product Reliability Engineer – HTOL/Burn-In Development (MCC/C-Breez)</a></td>
 <td>US, TX, Austin<br/>Austin, Texas, United States</td>
@@ -814,13 +800,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, TX, Austin<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/88520?lang=en-us">Apply</a></td>
 <td align="center">30 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/46068e53-2b51-4128-bd7e-22bf8d862c99">Software Engineer, Cloudflare Network Interconnect</a></td>
-<td>Austin, TX<br/>London, United Kingdom<br/>Hybrid<br/>+1 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751">Apply</a></td>
-<td align="center">29 Jul 2026</td>
 </tr>
 </tbody>
 </table>

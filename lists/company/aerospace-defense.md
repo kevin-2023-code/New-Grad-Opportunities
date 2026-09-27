@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**175 open roles.** 162 in the United States & Canada · 13 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**172 open roles.** 159 in the United States & Canada · 13 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -127,13 +127,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b5d9c5a2-199f-46cb-b1a8-09efa09e97fc">Full Stack Software Engineer I</a></td>
 <td>Long Beach, California, United States<br/>LB - Wormhole HQ (CA)</td>
 <td align="center"><a href="https://boards.greenhouse.io/relativity/jobs/8834005002?gh_jid=8834005002">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Neros Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f88f111-681a-40b2-b1d9-d91a5cad8cd4">Web &amp; Digital Experience Designer</a></td>
-<td>Torrance, California, United States<br/>HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/nerostechnologies/jobs/5246222007">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -831,24 +824,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fae0930-3c55-4a62-b686-27458d9b4472">Hardware Reliability Engineer, Components (Starshield)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696659002?gh_jid=8696659002">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/dfbd4ffd-8a84-429c-a3ef-dd181828ec34">Mechanical Engineer - Battery Pack, Satellites (Starlink)</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8716210002?gh_jid=8716210002">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/90ff5191-a4c4-4b4e-8ff6-a5ce64dc255f">Systems Engineer, Battlespace</a></td>
-<td>Waltham, Massachusetts, United States<br/>Broomfield, Colorado, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5213231007?gh_jid=5213231007">Apply</a></td>
-<td align="center">16 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Trellisware Technologies</strong></td>

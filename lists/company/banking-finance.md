@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**70 open roles.** 31 in the United States & Canada · 39 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**69 open roles.** 30 in the United States & Canada · 39 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -137,14 +137,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Sagesure</strong></td>
-<td><a href="https://trueinterview.io/jobs/90cbd5f0-7ed5-4044-88cf-0d186ce50e9d">Associate Designer</a></td>
-<td>Jersey City, New Jersey, United States<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.sagesure.com/careers/current-job-openings/?gh_jid=4707275006">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>JPMorgan Chase</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a1b181b5-8164-49d8-848d-46c75b89f0af">Applied AI ML Associate</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783433">Apply</a></td>

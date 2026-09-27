@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**56 open roles.** 49 in the United States & Canada · 7 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**55 open roles.** 48 in the United States & Canada · 7 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -254,13 +254,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Atlanta, GA<br/>Green Bay, Wisconsin<br/>Cincinnati, Ohio<br/>+3 more</td>
 <td align="center"><a href="https://jobs.lever.co/foth/e19dfe89-19ee-440c-9e7d-fae89dc955b4/apply">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Apex Companies</strong></td>
-<td><a href="https://trueinterview.io/jobs/903abebf-31ea-49e1-8db3-4987dbfa577e">Survey and Mapping CAD Technician</a></td>
-<td>Fort Myers, FL<br/>FL - Fort Myers (JE)</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5398470008">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>WSP</strong></td>

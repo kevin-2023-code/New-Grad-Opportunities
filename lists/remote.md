@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**235 open roles.** 160 in the United States & Canada · 75 elsewhere in the world. Postings the pipeline classified as remote.
+**230 open roles.** 157 in the United States & Canada · 73 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -57,13 +57,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/da73c816-f20e-456a-8026-77be6e31919e">Software Engineer (L6) - Compute Runtime</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317912743">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/90e33f94-5777-4c1f-b37b-3723ef213cf6">Software Engineering L5, Open Connect Platform</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790318653296">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -288,13 +281,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/01321503-1636-4ee6-b175-c41aef7b709a">Field Engineer</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cursor/64a6cb18-493b-4d18-9f22-c661ae533bfa/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Nice</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f098670-99ad-4abc-a2ab-da971a7efa4b">Software Engineer, AI Solutions</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://boards.eu.greenhouse.io/nice/jobs/4975980101?gh_jid=4975980101">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
@@ -1061,13 +1047,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Vultr</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fb57ad3-7a1a-4af4-963a-f0fb92efdb3b">Network DevOps Engineer, RDMA Fabric Automation - Multiple Openings</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/vultr/5006eced-ad0a-4e27-b314-4a6eb9733b14/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Netflix</strong></td>
 <td><a href="https://trueinterview.io/jobs/d1d081d9-f021-4173-b988-69d9293bbc1c">Software Engineer (L6), Platform Security</a> 🌐</td>
 <td>Remote — United States</td>
@@ -1298,13 +1277,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Rackner</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e9eb0e4-92be-4d45-9e4f-164462841ac8">AI/ML Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rackner/jobs/4733529005">Apply</a></td>
-<td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1a4f2e41-4d55-4b8d-9377-e116d41fe018">Data Engineer</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rackner/jobs/4733525005">Apply</a></td>
@@ -1616,13 +1588,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d9d45ca6-026c-4374-8621-cc0a230995a2">Software Engineer - Platform Productivity | Spain | Remote</a> 🌐</td>
 <td>Remote — Spain, Ireland, United Kingdom</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/grafanalabs/jobs/6135790004">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8d7b32cf-e569-4a84-83a4-2e593131e495">Software Engineer - Platform Productivity | United Kingdom | Remote</a> 🌐</td>
-<td>Remote — United Kingdom, Ireland, Spain</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/grafanalabs/jobs/6135792004">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>

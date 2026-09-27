@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**63 open roles.**
+**60 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,13 +64,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a8218c78-a554-481d-a18c-08e2df9f9ed7">Machine Learning Engineer</a> 🌐</td>
 <td>Remote — United States, Canada<br/>Waltham, Massachusetts, United States</td>
 <td align="center"><a href="https://www.zoominfo.com/careers?gh_jid=8769474002">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/8df9d535-431b-4a4e-a16d-1c3c5123fe31">Embedded Systems Applications Engineer</a></td>
-<td>US, MA, Wilmington, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Embedded-Systems-Applications-Engineer_R265602">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -347,13 +340,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/90ff5191-a4c4-4b4e-8ff6-a5ce64dc255f">Systems Engineer, Battlespace</a></td>
-<td>Waltham, Massachusetts, United States<br/>Broomfield, Colorado, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5213231007?gh_jid=5213231007">Apply</a></td>
-<td align="center">16 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Merlin Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/7edcee20-d383-4042-a493-51357a39b487">Process Engineer, Configuration Management</a></td>
 <td>Boston, MA</td>
@@ -366,13 +352,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, MA, Chelmsford, Elizabeth, United States of America<br/>US, NC, Durham</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Elizabeth/RF-Microwave-Amplifier-MMIC-Design-Engineer_R264830">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Autodesk</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fc61453-1bc1-4463-acb0-521b1345577a">Research Engineer</a></td>
-<td>Boston, MA, USA, United States of America</td>
-<td align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Research-Engineer_26WD97952-1">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>

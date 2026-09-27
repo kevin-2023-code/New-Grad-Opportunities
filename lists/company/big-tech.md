@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**500 open roles.** 465 in the United States & Canada · 35 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**495 open roles.** 458 in the United States & Canada · 37 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -63,13 +63,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8da3e33b-3d27-428b-a735-adcfec4a009e">Optical Systems and Manufacturing Development Engineer</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Optical-Systems-and-Manufacturing-Development-Engineer_JR0287418">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e89b3cfb-c6cc-4ea5-bb87-c6028a9293c4">Silicon/Electrical Validation Engineer</a></td>
 <td>US, Oregon, Hillsboro, United States of America<br/>US, Arizona, Phoenix</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Electrical-Validation-Engineer_JR0285546">Apply</a></td>
@@ -108,13 +101,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/da73c816-f20e-456a-8026-77be6e31919e">Software Engineer (L6) - Compute Runtime</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317912743">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/90e33f94-5777-4c1f-b37b-3723ef213cf6">Software Engineering L5, Open Connect Platform</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790318653296">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -249,13 +235,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United States, Multiple Locations, Multiple Locations</td>
 <td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557004929">Apply</a></td>
 <td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f3b152a-f76a-4ed7-b814-10bf30e302a7">Autonomy Platform Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8225722">Apply</a></td>
-<td align="center">23 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Google</strong></td>
@@ -465,13 +444,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e306be7b-3119-41b0-b40b-265540c4979f">Server Platform Design Engineer</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/92701?lang=en-us">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/8df9d535-431b-4a4e-a16d-1c3c5123fe31">Embedded Systems Applications Engineer</a></td>
-<td>US, MA, Wilmington, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Embedded-Systems-Applications-Engineer_R265602">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -1322,13 +1294,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/8ed13cca-ceb6-4b2d-a996-e64a8cb3c4fa">Support Engineer I, MLDOPs</a></td>
-<td>IN, TN, Chennai</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10541351/support-engineer-i-mldops">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>DoorDash</strong></td>
 <td><a href="https://trueinterview.io/jobs/3cf8afc7-2deb-4821-981e-b7a4b219d4d8">Software Engineer, Code Quality</a></td>
 <td>San Francisco, CA<br/>Seattle, WA<br/>New York, NY<br/>+1 more</td>
@@ -2040,13 +2005,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fb9a62e6-35b7-4bd3-a635-fd17639c2c48">Data Center Engineer</a></td>
 <td>US, TX, Austin<br/>US, TX, Home Office<br/>Austin, Texas, United States<br/>+1 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/88872?lang=en-us">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8f57edf6-94a9-41c5-baa8-e2a3aea5b086">SRAM Physical Design Engineer</a></td>
-<td>US, MA, Boxborough<br/>Boxborough, Massachusetts, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90109?lang=en-us">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
@@ -2818,6 +2776,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, CA</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971774409">Apply</a></td>
 <td align="center">19 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Netflix</strong></td>
+<td><a href="https://trueinterview.io/jobs/e49e094e-5f1e-410d-ac36-da475cf9129c">Distributed Systems Engineer (L5) - Compute</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317912171">Apply</a></td>
+<td align="center">19 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/addee22f-4017-422d-b97c-d4700689115c">NVIDIA 2027 Internships: Deep Learning</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397026418">Apply</a></td>
+<td align="center">19 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9540b709-298c-45d2-875d-f75591a16641">NVIDIA 2027 Internships: Software Engineering</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397026205">Apply</a></td>
+<td align="center">19 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f45eab34-22f9-42ee-af35-6d6427ea6c34">NVIDIA 2027 Internships: Systems Software Engineering</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397026201">Apply</a></td>
+<td align="center">19 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a6abc3a1-c7f1-4ca1-9501-e1caab87edb8">NVIDIA Spring 2027 Internships: Developer and Performance Technology</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397026396">Apply</a></td>
+<td align="center">19 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/9fbbf9e9-4506-4109-aef1-95c7c5469cc7">Brand Designer, Events &amp; Experiential, AWS Advertising &amp; Social Media</a></td>
+<td>Seattle, Washington, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10505544/brand-designer-events-experiential-aws-advertising-social-media">Apply</a></td>
+<td align="center">18 Aug 2026</td>
 </tr>
 </tbody>
 </table>

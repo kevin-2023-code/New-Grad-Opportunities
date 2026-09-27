@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**146 open roles.** 104 in the United States & Canada · 42 elsewhere in the world. Early-stage technology companies.
+**143 open roles.** 102 in the United States & Canada · 41 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -417,24 +417,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Retell AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f230eb8-386d-4f3e-882c-0a470c1a7acd">Applied AI Engineer (Customer Facing)</a></td>
-<td>San Francisco Bay Area</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/retell-ai/1fcd6e82-2a31-4e2f-abcf-be069ebb6e8c/application">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Standard Bots</strong></td>
 <td><a href="https://trueinterview.io/jobs/49501370-3348-49b1-8a8b-e685278edb22">Applications Engineer (Florida)</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/standardbots/3d6559ab-9340-457f-8b75-f481bf50d296/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/904ab390-5244-4e72-8d0b-86b801127e77">NPI TPM, Product Engineering</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/95281a44-f8d5-43c2-92c2-e5f311634bd6/application">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
@@ -1014,13 +1000,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5ffc311a-a291-4151-8197-c2cd0c421b0a">Field Application Engineer - Fixed term - Part-time - Hokkaido (copy)</a></td>
 <td>Hokkaido</td>
 <td align="center"><a href="https://jobs.lever.co/field-ai/56da4b01-aec7-4217-909a-3d08007c1401/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Skydropx Frenet</strong></td>
-<td><a href="https://trueinterview.io/jobs/90ec46a6-46e7-451d-b29f-6ceb95bb82a9">Data Analyst</a></td>
-<td>Colombia<br/>Venezuela<br/>Panamá<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydropx/03857582-7532-401f-bad9-61d187b87f36/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>

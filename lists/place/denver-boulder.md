@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**37 open roles.**
+**36 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -240,13 +240,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Colorado Springs, Colorado, United States<br/>US-CO-Col Springs-Bldg C</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/53892?lang=en-us">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/90ff5191-a4c4-4b4e-8ff6-a5ce64dc255f">Systems Engineer, Battlespace</a></td>
-<td>Broomfield, Colorado, United States<br/>Waltham, Massachusetts, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5213231007?gh_jid=5213231007">Apply</a></td>
-<td align="center">16 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Trace3</strong></td>

@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**294 open roles.** 290 in the United States & Canada · 4 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**291 open roles.** 287 in the United States & Canada · 4 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -57,13 +57,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/40f0cccb-a235-4a04-ba39-dd9db52ad99f">NM HOP Sort Contract Module Equipment Technician</a></td>
 <td>US, New Mexico, Albuquerque, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/NM-HOP-Sort-Contract-Module-Equipment-Technician_JR0287468">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8da3e33b-3d27-428b-a735-adcfec4a009e">Optical Systems and Manufacturing Development Engineer</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Optical-Systems-and-Manufacturing-Development-Engineer_JR0287418">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -274,13 +267,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e306be7b-3119-41b0-b40b-265540c4979f">Server Platform Design Engineer</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/92701?lang=en-us">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/8df9d535-431b-4a4e-a16d-1c3c5123fe31">Embedded Systems Applications Engineer</a></td>
-<td>US, MA, Wilmington, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Embedded-Systems-Applications-Engineer_R265602">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -1205,13 +1191,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fb9a62e6-35b7-4bd3-a635-fd17639c2c48">Data Center Engineer</a></td>
 <td>US, TX, Austin<br/>US, TX, Home Office<br/>Austin, Texas, United States<br/>+1 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/88872?lang=en-us">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8f57edf6-94a9-41c5-baa8-e2a3aea5b086">SRAM Physical Design Engineer</a></td>
-<td>US, MA, Boxborough<br/>Boxborough, Massachusetts, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90109?lang=en-us">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>

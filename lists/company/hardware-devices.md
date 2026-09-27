@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**157 open roles.** 141 in the United States & Canada · 16 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**156 open roles.** 140 in the United States & Canada · 16 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -940,13 +940,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Los Angeles, CA (On-site)<br/>Headquarters</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826615003">Apply</a></td>
 <td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Amax</strong></td>
-<td><a href="https://trueinterview.io/jobs/8dcb8011-c93f-4b71-984c-022dfe6d762a">Quality Engineer</a></td>
-<td>Fremont, California, United States</td>
-<td align="center"><a href="https://jobs.workable.com/view/cnE7JHdG9kuJbA82bgZJX8/quality-engineer-in-fremont-at-amax">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Formlabs</strong></td>

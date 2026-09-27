@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**54 open roles.** 8 in the United States & Canada · 46 elsewhere in the world.
+**52 open roles.** 7 in the United States & Canada · 45 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -65,13 +65,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>London, UK<br/>San Francisco, CA<br/>Seattle, WA<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/ca300a6d-a2a7-4580-aad7-323fbdfee7b1/application">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/46068e53-2b51-4128-bd7e-22bf8d862c99">Software Engineer, Cloudflare Network Interconnect</a></td>
-<td>London, United Kingdom<br/>Austin, TX<br/>Hybrid<br/>+1 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751">Apply</a></td>
-<td align="center">29 Jul 2026</td>
 </tr>
 </tbody>
 </table>
@@ -349,13 +342,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/244fa1d5-a042-4295-bb06-5961727483dd">Field Application Engineer - Temporary Part Time - Manchester, UK</a></td>
 <td>Manchester</td>
 <td align="center"><a href="https://jobs.lever.co/field-ai/4bff79b4-4bc6-461f-876e-7f4917ba8716/apply">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Margo</strong></td>
-<td><a href="https://trueinterview.io/jobs/900b2c24-a003-48fe-9baa-7a60896cff6b">CyberArk SME Engineer</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.lever.co/margo-group/02d078e9-b13d-41b6-8dda-e93153330d91/apply">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>

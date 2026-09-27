@@ -424,6 +424,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Yext</strong></td>
+<td><a href="https://trueinterview.io/jobs/908f44f8-5ecd-497e-9919-54fe372fe32f">Specialist, Concierge Services</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/yext/jobs/8157597">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Mapbox</strong></td>
 <td><a href="https://trueinterview.io/jobs/1d2f9be2-ecff-4866-817d-7aa0d579e795">IT Administrator</a></td>
 <td>Mapbox US</td>
@@ -478,13 +485,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA</td>
 <td align="center"><a href="https://jobs.lever.co/gmo/18b0a6c1-1b79-47d8-a631-4188bebda2b5/apply">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anyscale</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fcae117-f7b3-4934-8175-0f3f918a61a7">IT Specialist</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/anyscale/d92a68e9-c2cc-452f-afbc-ae1bde5080b7/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>8vc</strong></td>
@@ -821,6 +821,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Upgrade</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e63ae6b-9aee-4e2c-acd2-4f0902cdd91a">Merchant Support Specialist</a></td>
+<td>Phoenix</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/upgrade/jobs/4736882005">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Optimove</strong></td>
 <td><a href="https://trueinterview.io/jobs/17fbda0a-0635-4e74-a3ec-c55473370c97">ProdOps &amp; Support Engineer</a></td>
 <td>Dundee, Scotland<br/>Scotland</td>
@@ -1014,13 +1021,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cb11f769-5c5a-4310-8a5b-bf0fefab9787">Automotive Technical Support Analyst</a></td>
 <td>Naucalpan de Juarez, MEX, Mexico</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67672">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Docplanner</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f990eff-dca2-48aa-bef8-68cdd8978133">Junior IT Support Specialist (Warsaw Office)</a></td>
-<td>Warsaw</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/docplanner/244b3a49-2ad0-4ce6-b0fb-00b114a4b63c/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>

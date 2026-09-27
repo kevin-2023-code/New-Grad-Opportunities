@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**133 open roles.** 100 in the United States & Canada · 33 elsewhere in the world.
+**129 open roles.** 97 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,13 +51,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Montréal, Quebec, Canada<br/>Québec, Quebec, Canada</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/vooban/jobs/4736633005">Apply</a></td>
 <td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Neros Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f88f111-681a-40b2-b1d9-d91a5cad8cd4">Web &amp; Digital Experience Designer</a></td>
-<td>Torrance, California, United States<br/>HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/nerostechnologies/jobs/5246222007">Apply</a></td>
-<td align="center">22 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Lessen</strong></td>
@@ -417,25 +410,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/904ab390-5244-4e72-8d0b-86b801127e77">NPI TPM, Product Engineering</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/95281a44-f8d5-43c2-92c2-e5f311634bd6/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Hasbro</strong></td>
 <td><a href="https://trueinterview.io/jobs/9df142fa-4f2d-49a0-8982-8fc1391d7107">Associate Product Development Manager, D&amp;D Softlines</a></td>
 <td>Renton, Washington, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/hasbro/jobs/4367290009">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Sagesure</strong></td>
-<td><a href="https://trueinterview.io/jobs/90cbd5f0-7ed5-4044-88cf-0d186ce50e9d">Associate Designer</a></td>
-<td>Jersey City, New Jersey, United States<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.sagesure.com/careers/current-job-openings/?gh_jid=4707275006">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Scan.com</strong></td>
@@ -819,13 +798,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bogotá, , Colombia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000147975259-product-owner?oga=true">Apply</a></td>
 <td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lia</strong></td>
-<td><a href="https://trueinterview.io/jobs/904de36b-e756-4693-9bd9-ccc121760d69">PL UX Researcher</a></td>
-<td>Brasil<br/>Remoto</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/ilia/jobs/6181909004">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Resend</strong></td>

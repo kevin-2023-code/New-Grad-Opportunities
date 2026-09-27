@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**60 open roles.**
+**59 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -78,13 +78,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b7c27f1a-97d6-4051-b8c5-7bb42360e2d3">software developer</a></td>
 <td>Toronto, ON</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50344302">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Astra North Infoteck Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/90e06dbe-93d0-4e7e-991d-d06469d140f0">cloud engineer</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50338199">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>

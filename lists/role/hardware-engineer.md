@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**74 open roles.** 72 in the United States & Canada · 2 elsewhere in the world.
+**72 open roles.** 70 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -347,10 +347,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Lumilens</strong></td>
-<td><a href="https://trueinterview.io/jobs/8eb28e3e-d8c2-44ae-b32e-9b4319231049">Silicon Photonic Engineer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lumilens/ca72562b-120f-4357-bb66-c328f8ffb0fe/application">Apply</a></td>
+<td><strong>Eight Sleep</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e21d821-8018-4032-8c0f-cf4977ff28d9">Electrical Engineer (New Grad / Spring 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/eightsleep/ce1bebc3-42f5-4010-93cb-b31090b16294/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
@@ -366,13 +366,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>USA-CA Irvine Alton Parkway Bldg 2, United States of America<br/>USA-CA San Jose Innovation Drive</td>
 <td align="center"><a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/R-D-IC-Design-Engineer_R024631">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/8deb81ce-c645-4e92-ae32-ad03fd7dec25">Network Hardware Engineer</a></td>
-<td>Austin, TX<br/>Hybrid</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8147174?gh_jid=8147174">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>AMD</strong></td>
@@ -436,13 +429,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US-CO-Col Springs-Bldg C<br/>Colorado Springs, Colorado, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/53892?lang=en-us">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fae0930-3c55-4a62-b686-27458d9b4472">Hardware Reliability Engineer, Components (Starshield)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696659002?gh_jid=8696659002">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>

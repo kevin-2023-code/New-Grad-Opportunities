@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**33 open roles.** 16 in the United States & Canada · 17 elsewhere in the world.
+**32 open roles.** 16 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -252,13 +252,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bogotá</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydropx/35d8afdc-6043-4ee2-8bb7-f4b1eb218a83/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/90ec46a6-46e7-451d-b29f-6ceb95bb82a9">Data Analyst</a></td>
-<td>Colombia<br/>Venezuela<br/>Panamá<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydropx/03857582-7532-401f-bad9-61d187b87f36/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

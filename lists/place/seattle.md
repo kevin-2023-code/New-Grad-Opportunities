@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**94 open roles.**
+**93 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -225,13 +225,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fddeba72-d9ce-481c-a8eb-c285d918f272">Materials Engineer, Metals (Starlink)</a></td>
 <td>Redmond, WA<br/>Hawthorne, CA<br/>Starbase, TX<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8795738002?gh_jid=8795738002">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f6fd521-cbb5-42e2-b3b7-15cbc9d697be">Rack Integration Operations Engineer</a></td>
-<td>Seattle, WA<br/>Austin, TX<br/>San Francisco, CA<br/>+2 more (hybrid)</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8196631?gh_jid=8196631">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
