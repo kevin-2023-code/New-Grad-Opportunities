@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**136 open roles.**
+**127 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,13 +22,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6b7c13d5-f2c6-440c-aed1-fda2969146aa">Systems Engineer, Space Emerging Talent</a></td>
 <td>Costa Mesa, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/74e94d4c-041c-4d55-bcd8-a6478a0dc308">Mechanical Engineer - Lethality</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5249368007?gh_jid=5249368007">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -151,13 +144,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c7dfbdd-5d3a-4766-8cfe-90a6dca03392">Spacecraft Propulsion Components Engineer I</a></td>
-<td>Long Beach, CA<br/>RL Headquarters</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/8001348003">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/d65bab50-152e-4108-8f76-45dac2de5a41">Software Engineer - Surface Dominance</a></td>
 <td>Costa Mesa, California, United States</td>
@@ -235,13 +221,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a1c805a-fb0d-47ea-8def-9fd1f4f4e418">Mechanical Engineer, Space Emerging Talent</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236641007?gh_jid=5236641007">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/b66556bf-9a98-40a3-af72-fd5f39dfd4c0">Additive Manufacturing Engineer (Raptor)</a></td>
 <td>Hawthorne, CA</td>
@@ -277,13 +256,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7cf0f804-0286-499a-adbd-2df43be1475e">Dynamics Engineer (Falcon &amp; Dragon)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8806124002?gh_jid=8806124002">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Rocket Lab Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/a8376de7-700f-47a4-a7e1-4b8f5c0ecd2f">Systems Engineer I</a></td>
 <td>Long Beach, CA<br/>RL Headquarters</td>
@@ -302,13 +274,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dd43656f-f7c3-4046-994e-1a27343eebf5">Harness Design Engineer I</a></td>
 <td>Long Beach, CA<br/>RL Headquarters</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7996416003">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7714bf45-2334-4cf7-b3f5-929f49a556aa">Electrical Engineer I</a></td>
-<td>Long Beach, CA<br/>RL Headquarters</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7996354003">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
@@ -578,13 +543,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Gt's Living Foods</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a802c38-3015-4a4a-9148-11a87bac6f59">Help Desk Technician I</a></td>
-<td>Los Angeles, CA - Vernon, CA</td>
-<td align="center"><a href="https://gtslivingfoods.com/pages/job-board?gh_jid=4706557006">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/d81bfa7a-ff5b-4560-aa64-71c3cbb2af1f">PLM Engineer - DBA/Infrastructure</a> 🌐</td>
 <td>Remote — United States<br/>Costa Mesa, CA</td>
@@ -838,13 +796,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/793bf6fc-2241-4305-8635-8aa15dc956b6">Power Electronics Engineer (Starship)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8692894002?gh_jid=8692894002">Apply</a></td>
-<td align="center">9 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c66e4962-a1de-4857-a8a0-9cad3f923691">Automation &amp; Controls Engineer (Starlink)</a></td>
 <td>Hawthorne, CA<br/>Redmond, WA<br/>Cape Canaveral, FL<br/>+2 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8676957002?gh_jid=8676957002">Apply</a></td>
@@ -954,20 +905,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Hawthorne, CA<br/>Redmond, WA, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8631217002?gh_jid=8631217002">Apply</a></td>
 <td align="center">29 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fcb3dd73-376f-4ac3-91b3-2fc83981578b">Operations Engineer, Applied AI (Application Software)</a></td>
-<td>Hawthorne, CA<br/>Bastrop, TX<br/>Starbase, TX<br/>+5 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8652229002?gh_jid=8652229002">Apply</a></td>
-<td align="center">28 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a610d4b6-bcaf-4bfb-94b0-7cc379be8b08">Reliability Engineer, Satellite Systems (Starshield)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8652841002?gh_jid=8652841002">Apply</a></td>
-<td align="center">28 Jul 2026</td>
 </tr>
 </tbody>
 </table>

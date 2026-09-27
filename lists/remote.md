@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**249 open roles.** 169 in the United States & Canada · 80 elsewhere in the world. Postings the pipeline classified as remote.
+**243 open roles.** 166 in the United States & Canada · 77 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -200,6 +200,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Bungie</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ba61d4b-710d-430e-8517-383650e34957">Marathon Producer (Contract)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/bungie/jobs/6193604004">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Grafana Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/6ea0e6b6-8f1d-48db-b5c5-c815f0b40bb9">Solutions Engineer, Acquisition</a> 🌐</td>
 <td>Remote — United States</td>
@@ -368,13 +375,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Standard Bots</strong></td>
-<td><a href="https://trueinterview.io/jobs/776a20a2-6215-4518-adb9-abb8474ae0c2">AI Applications Engineer (Texas)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/standardbots/c6b014e5-a05b-4c32-997f-a41dfa2bfc82/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Coinbase</strong></td>
 <td><a href="https://trueinterview.io/jobs/eed4de1f-26c9-48e9-8c8b-78f2652034b8">Software Engineer, Developer Infrastructure</a> 🌐</td>
 <td>Remote — United States</td>
@@ -393,6 +393,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5d67e642-016c-4b1e-8245-119aab9b39af">Forward Deployed Engineer</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/nash/cc65498a-6b71-4276-994e-4dcc585da61b/application">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Zscaler</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b860352-7a1c-48ae-b067-f6b3cdbed6ec">Sales Account Executive - East</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/zscaler/jobs/4656399007">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
@@ -669,13 +676,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/78b53e61-377f-423e-a629-620d482e93a1">Physical Security System Designer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/vultr/960016f7-70cc-4a0e-850b-d76ec927b1b9/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Coinbase</strong></td>
 <td><a href="https://trueinterview.io/jobs/a2621b9b-d20f-4523-8a97-02db6041b4de">Software Engineer, CDP - Payment Acceptance</a> 🌐</td>
 <td>Remote — United States</td>
@@ -708,13 +708,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/868e6f50-d34d-4b7c-bc12-3d2324c069da">Forward Deployed Engineer, Public Sector</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/domino-data-lab/job/8160818?gh_jid=8160818">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Defense Unicorns</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c38986c-5982-4696-802d-b5059ac0285c">Platform Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/defenseunicorns/jobs/5223131007">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
@@ -862,13 +855,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b42a6472-6320-4563-9355-5b2437afb9f0">Developer, Authorization</a> 🌐</td>
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/1password/d8e8cf3f-c994-43a7-854c-86849b95db41/application">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Netflix</strong></td>
-<td><a href="https://trueinterview.io/jobs/75b12db2-11b0-4c06-8405-37d515d2d528">Software Engineer - Customer Service Platform</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317897268">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
@@ -1107,13 +1093,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/07258211-4510-4af6-a62b-7aac59d8c149">Field Engineer, Healthcare &amp; SLED</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cursor/1cfacf1a-4ba7-4e68-9f65-4fb8e3525bde/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Celerion</strong></td>
-<td><a href="https://trueinterview.io/jobs/76a2be4c-abe5-44b2-996b-1e818f180a0f">Veeva Clinical Database Programmer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.lever.co/celerion/e1d04ca4-897f-4c62-acf0-47126d4aaeac/apply">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
@@ -1395,13 +1374,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Improbable</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ba188f0-c770-4d71-a782-2fe30edc59a0">AI Researcher - Bolter</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/improbable/ae45d80a-f76f-4292-b97e-09cd74a26b2d/application">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Händlerbund</strong></td>
 <td><a href="https://trueinterview.io/jobs/25092c15-df55-45b6-9277-ef1572e73fc7">Backend Developer</a> 🌐</td>
 <td>Remote — Germany</td>
@@ -1612,13 +1584,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>The Browser Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c0da6c9-459f-4f99-9a10-0ca59b4fa670">Full Stack Software Engineer, Dia Enterprise</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/The%20Browser%20Company/8f66fbf3-9ec5-43a2-968a-5ac030492562/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Voltus</strong></td>
 <td><a href="https://trueinterview.io/jobs/cf00bf95-2ef5-421f-9b18-4925c213003e">Project Engineer</a> 🌐</td>
 <td>Remote</td>
@@ -1749,13 +1714,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a27b6910-8221-41ea-902c-663c56ebca3e">Enterprise Solutions Engineer - UK</a> 🌐</td>
 <td>Remote — United Kingdom</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/dash0/6526471a-8f48-425c-9329-2a8dcb175783/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7a142e17-34bf-4b8f-8c35-37c3ff2d36fc">Commercial Solutions Engineer - Benelux</a> 🌐</td>
-<td>Remote — Netherlands, Germany</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/dash0/200ea521-948d-4c08-90c2-33ebb9fdf6db/application">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 <tr>

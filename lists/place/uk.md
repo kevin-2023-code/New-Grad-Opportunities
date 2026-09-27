@@ -149,13 +149,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/76143882-cadf-4fa3-bfc4-bab1a06c0052">Business Intelligence Engineer, Amazon Leo Europe Consumer</a></td>
-<td>GB, London</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553402/business-intelligence-engineer-amazon-leo-europe-consumer">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Slice</strong></td>
 <td><a href="https://trueinterview.io/jobs/991dc4f6-4fd0-4605-aadd-104badd8cc45">Salesforce Developer</a> 🌐</td>
 <td>Remote — United Kingdom<br/>Office - UK - Belfast</td>
@@ -329,6 +322,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774781">Apply</a></td>
 <td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>LG Ad Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bd7d309-635c-4d2e-b49b-f787157b9674">Global Reporting &amp; Analytics Analyst</a> 🛂</td>
+<td>London, UK</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lgads/b583063e-60fc-4985-b2ee-11fa83d75943/application">Apply</a></td>
+<td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Graphcore</strong></td>

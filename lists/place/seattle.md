@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**104 open roles.**
+**101 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -85,13 +85,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ff5684e2-0e71-4a49-a456-390ded618aff">Software Development Engineer I, Annapurna Labs, Early Career - 2027</a></td>
 <td>US, WA, Seattle<br/>Cupertino, California, USA<br/>US, TX, Austin<br/>+2 more</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7a2be812-a75b-47c8-86e8-0df18ebd7605">Software Development Engineer, Amazon Shopping Videos (Ads)</a></td>
-<td>US, WA, Seattle<br/>US, NY, New York</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10559049/software-development-engineer-amazon-shopping-videos-ads">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -585,13 +578,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/7d419f36-de08-4faf-a18c-12d6ac64ad64">Hardware Development Engineer, PCBA (STARLINK)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8702819002?gh_jid=8702819002">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/e93718cf-a18d-4065-842e-e1fe1dcde802">Software Engineer, Developer Platform</a></td>
 <td>Seattle, WA<br/>Boston, Massachusetts, United States</td>
@@ -737,13 +723,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Redmond, WA, United States<br/>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8631217002?gh_jid=8631217002">Apply</a></td>
 <td align="center">29 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fcb3dd73-376f-4ac3-91b3-2fc83981578b">Operations Engineer, Applied AI (Application Software)</a></td>
-<td>Redmond, WA<br/>Hawthorne, CA<br/>Bastrop, TX<br/>+5 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8652229002?gh_jid=8652229002">Apply</a></td>
-<td align="center">28 Jul 2026</td>
 </tr>
 </tbody>
 </table>

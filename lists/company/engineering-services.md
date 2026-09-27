@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**60 open roles.** 53 in the United States & Canada · 7 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**59 open roles.** 52 in the United States & Canada · 7 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -295,13 +295,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7b0f2fc8-924b-4a91-860f-5b7cb5dc8ee1">Early Career Water Resources Engineer</a></td>
 <td>Houston, TX, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91151">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/75ae98d3-af9c-4083-a5e8-32e22120413f">Intermediate Professional, Civil Engineering</a></td>
-<td>Baltimore, MD, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93687">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>

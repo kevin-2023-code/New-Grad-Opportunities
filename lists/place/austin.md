@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**128 open roles.**
+**123 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -110,13 +110,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/7cfd2833-9cc4-460c-9af1-bbac4ffe5b2b">Advanced Packaging Technologist (Mechanical Modeling)</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92459?lang=en-us">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f3557f7e-2e14-4b21-ab79-c0e2bcd43de5">Hardware Test Engineer</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/92365?lang=en-us">Apply</a></td>
@@ -127,6 +120,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/38948fa8-1c5e-4924-8303-c184352b9125">Software Engineer Complier I (Full Time) – United States</a></td>
 <td>Austin, TX<br/>Austin, Texas, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Austin-Texas-US/Software-Engineer-Complier-I--Full-Time----United-States_2025313">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Dell</strong></td>
+<td><a href="https://trueinterview.io/jobs/76277e0b-cdf2-4957-9023-be55b2647793">Principal Test Technician</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/298191">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -155,13 +155,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e306be7b-3119-41b0-b40b-265540c4979f">Server Platform Design Engineer</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/92701?lang=en-us">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7585004e-0bc1-43cd-b165-97a9284cc0d6">Software Solutions Engineer</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92706?lang=en-us">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -340,13 +333,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/75f86592-cc86-416e-a88b-6cf15c7af075">IAM Security Engineer</a></td>
-<td>Austin, TX<br/>Hybrid</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8157997?gh_jid=8157997">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Kettle</strong></td>
 <td><a href="https://trueinterview.io/jobs/e864d240-5187-4132-9741-7bedf2db2ae4">Production Designer</a> 🌐</td>
 <td>Remote — United States<br/>Austin, TX</td>
@@ -393,13 +379,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/122b8c32-6c00-4c5c-a60e-05e432aa6712">Fluids / Mechanical Engineer, R&amp;D</a></td>
 <td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/2d717643-6e6b-4429-be6b-208baa7a627f/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Roshal Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/77932e67-ea05-4cb2-af88-0bd2c7b681ee">CT Technologist - PRN - Austin, TX</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/a1a2ecda-defb-4500-a069-6b22bb87817a/apply">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
@@ -898,20 +877,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>London, United Kingdom<br/>Hybrid<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751">Apply</a></td>
 <td align="center">29 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/08b4a9c0-4392-403c-b06d-9e88c28a468d">Failure Analysis Planner &amp; On-site Engineer</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/88945?lang=en-us">Apply</a></td>
-<td align="center">29 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/fcb3dd73-376f-4ac3-91b3-2fc83981578b">Operations Engineer, Applied AI (Application Software)</a></td>
-<td>Bastrop, TX<br/>Hawthorne, CA<br/>Starbase, TX<br/>+5 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8652229002?gh_jid=8652229002">Apply</a></td>
-<td align="center">28 Jul 2026</td>
 </tr>
 </tbody>
 </table>

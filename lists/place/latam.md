@@ -62,13 +62,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/767d2128-d650-494b-8fd3-5496a8acc235">QA Engineer - COM INGLÊS - Remoto</a></td>
-<td>Brazil - Sao Paulo</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8211836">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>C6 Bank</strong></td>
 <td><a href="https://trueinterview.io/jobs/e74f33be-0671-4339-8251-c46d545112c6">Pessoa Desenvolvedora IOS |  Core Business Products Engineering</a></td>
 <td>São Paulo, Brazil<br/>C6 Bank</td>
@@ -200,6 +193,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City</td>
 <td align="center"><a href="https://www.monks.com/careers/6175775004/job?gh_jid=6175775004">Apply</a></td>
 <td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Orion Innovation</strong></td>
+<td><a href="https://trueinterview.io/jobs/834c8efa-dd8e-4975-bb8d-20ef163af776">Data Engineer | CDMX | Híbrido</a></td>
+<td>Mexico City, Mexico City, Mexico<br/>Ciudad de México</td>
+<td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4709148006">Apply</a></td>
+<td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Egis Group</strong></td>

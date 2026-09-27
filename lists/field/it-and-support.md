@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**138 open roles.** 100 in the United States & Canada · 38 elsewhere in the world.
+**139 open roles.** 101 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -109,6 +109,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Hawk Eye Innovations (hei</strong></td>
+<td><a href="https://trueinterview.io/jobs/7716f7fb-986b-43cb-ac3b-d14833bca3bd">College Sports Systems Technician - UGA</a></td>
+<td>University of Georgia (UGA)</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hawkeyeinnovations/4776b21f-e3c6-4c38-a1b3-f2ec36c6bc78/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Shopify</strong></td>
 <td><a href="https://trueinterview.io/jobs/5e6a97d7-ab71-44db-b41f-aa557b2f6f6c">Technical Security Analyst, IAM</a> 🌐</td>
 <td>Remote — Canada</td>
@@ -151,13 +158,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>NetApp</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a3817ad-7e2c-4737-a8c9-d299d4f69194">Information Systems Engineer - NOC</a></td>
-<td>Morrisville, North Carolina, United States</td>
-<td align="center"><a href="https://careers.netapp.com/job/morrisville/information-systems-engineer-noc/27600/99209594512">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>D.a. Davidson</strong></td>
 <td><a href="https://trueinterview.io/jobs/04ab7bc8-4fa4-4fea-98f7-0ab6215bce0e">Computer Support Specialist</a></td>
 <td>New York, NY<br/>Chicago, IL<br/>Plano, TX</td>
@@ -190,6 +190,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6a37b086-cd67-43e5-9d3f-0c53e3100d62">IT Support Specialist</a></td>
 <td>Quantico, VA</td>
 <td align="center"><a href="https://jobs.lever.co/anavationllc/7b65d970-88b2-4bea-aafe-1ad5953957c8/apply">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>National Information Solutions Cooperative (nisc</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ce42897-77dc-4595-824d-9f9c17d22d47">Support Specialist - Capital Credits</a></td>
+<td>Any NISC Location or Virtual<br/>Cedar Rapids, IA<br/>Lake Saint Louis, MO<br/>+2 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/nisc/jobs/8188482">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
@@ -375,13 +382,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Gt's Living Foods</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a802c38-3015-4a4a-9148-11a87bac6f59">Help Desk Technician I</a></td>
-<td>Los Angeles, CA - Vernon, CA</td>
-<td align="center"><a href="https://gtslivingfoods.com/pages/job-board?gh_jid=4706557006">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Bluesight</strong></td>
 <td><a href="https://trueinterview.io/jobs/c8707049-a84d-47ff-9a16-d65d769c1659">Technical Support Engineer - PrivacyPro</a> 🌐</td>
 <td>Remote — United States</td>
@@ -471,20 +471,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/anyscale/d92a68e9-c2cc-452f-afbc-ae1bde5080b7/application">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Form Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/74f77aff-43aa-443e-87bd-ddc562745db9">IT Support Technician</a></td>
-<td>Weirton, WV</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/formenergy/68b3b04b-6485-4fdb-873c-ef5b8874a2b2/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Corridor</strong></td>
-<td><a href="https://trueinterview.io/jobs/7b91e5a7-581d-4180-875e-df6a24aa079b">Technical Support Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/corridor/ef8f72b0-20c6-49c8-a798-65ea6dcbf051/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>8vc</strong></td>
@@ -683,6 +669,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/74e8bdb8-f08f-4784-884c-85bc597cbfdb">Customer Experience Customer Success Specialist I (Full Time) United States</a></td>
+<td>RTP, North Carolina, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Customer-Experience-Customer-Success-Specialist-I--Full-Time--United-States_2019858">Apply</a></td>
+<td align="center">11 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Lunar Energy</strong></td>
 <td><a href="https://trueinterview.io/jobs/c13b372e-7236-4adc-8bc4-e0ce40e2a663">IT Support Technician</a></td>
 <td>Mountain View, CA<br/>HQ</td>
@@ -695,6 +688,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/coursera/jobs/6132360004">Apply</a></td>
 <td align="center">6 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Agile Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/75628b5b-2212-4184-ba45-1927393728d0">Test and Evaluation Analyst (Cyber Survivability)</a></td>
+<td>Fort Huachuca, AZ</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/b882eec4-bfa9-43ed-a08b-265096136528/apply">Apply</a></td>
+<td align="center">6 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Lessen</strong></td>
+<td><a href="https://trueinterview.io/jobs/7cc37419-5d93-4cf1-ac12-a169f2df5eaa">Systems Engineer I</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://jobs.lever.co/lessen/3f81dd73-db0a-4f18-8375-2f141d41fb5d/apply">Apply</a></td>
+<td align="center">5 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Together AI</strong></td>

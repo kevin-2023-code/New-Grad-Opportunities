@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**213 open roles.** 178 in the United States & Canada · 35 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**211 open roles.** 177 in the United States & Canada · 34 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -851,13 +851,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/77fe4366-bd73-4832-b52a-28f75a576b31">Front End Engineer, Marketing</a></td>
-<td>San Francisco, CA<br/>New York City, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5386971008">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>xAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/ebdcb208-66af-4eac-b48e-3a3a3a06c7e0">OSP Engineer</a></td>
 <td>Memphis, Tennessee<br/>Southaven, Mississippi<br/>Memphis, TN<br/>+1 more</td>
@@ -1344,13 +1337,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Almaty, Kazakhstan</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/higgsfieldai/a1c3bffb-7243-45f8-ace6-ceb89239c475/application">Apply</a></td>
 <td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lovable</strong></td>
-<td><a href="https://trueinterview.io/jobs/76463977-5823-4bad-ad50-cc7484fd9e54">Content Designer (Contract)</a></td>
-<td>London<br/>Stockholm</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lovable/8a196add-25ef-4dfa-a196-c54c986bda60/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Cursor</strong></td>

@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**36 open roles.** 21 in the United States & Canada · 15 elsewhere in the world.
+**33 open roles.** 20 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -137,13 +137,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Commure</strong></td>
-<td><a href="https://trueinterview.io/jobs/79824560-f8d6-4122-a067-e4cfb050fb77">Fullstack Engineer, Ambient AI</a></td>
-<td>Mountain View, CA<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/commure/d5f91cfa-48ab-430d-b618-ba77c82c64a2/application">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Krea</strong></td>
 <td><a href="https://trueinterview.io/jobs/0ad97e50-d9a8-421e-944d-0f872dabee48">Fullstack Engineer</a></td>
 <td>San Francisco, CA</td>
@@ -240,13 +233,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Lexroom</strong></td>
-<td><a href="https://trueinterview.io/jobs/75be79c8-9599-4631-8773-5d0381b68d05">Full Stack Engineer</a></td>
-<td>Sofia</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lexroom/a3bba04b-ae53-4142-9107-a913dd139efd/application">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Kiss My Apps</strong></td>
 <td><a href="https://trueinterview.io/jobs/bf59782d-ddfd-4bb3-beca-43e0b2248720">Full Stack Developer (React/Next.js + Node.js)</a></td>
 <td>Ukraine</td>
@@ -266,13 +252,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/zenjob/cb4a5fc7-ee05-41f0-b07a-0d91403c3d8e/application">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>The Browser Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c0da6c9-459f-4f99-9a10-0ca59b4fa670">Full Stack Software Engineer, Dia Enterprise</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/The%20Browser%20Company/8f66fbf3-9ec5-43a2-968a-5ac030492562/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Anaplan</strong></td>

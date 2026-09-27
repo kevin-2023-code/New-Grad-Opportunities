@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**159 open roles.** 112 in the United States & Canada · 47 elsewhere in the world. Early-stage technology companies.
+**153 open roles.** 110 in the United States & Canada · 43 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -130,13 +130,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Outtake</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bd77bd0-4e9c-408d-bb2f-dc0706f3440e">Software Engineer, Infastructure</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/outtake/62200017-3aee-4ace-b430-33e3ef973fd1/application">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Exa</strong></td>
 <td><a href="https://trueinterview.io/jobs/e61a9a5f-c6a2-45e3-a21e-59b411d94730">IT Engineer</a></td>
 <td>San Francisco, California</td>
@@ -228,14 +221,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Standard Bots</strong></td>
-<td><a href="https://trueinterview.io/jobs/776a20a2-6215-4518-adb9-abb8474ae0c2">AI Applications Engineer (Texas)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/standardbots/c6b014e5-a05b-4c32-997f-a41dfa2bfc82/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9f0be56b-303e-4e6b-a67f-c4e4d9c25e9b">Security Engineer, Threat Intelligence</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/9068a6c7-6278-4aa3-a968-ffc0e2a2a636/application">Apply</a></td>
@@ -885,13 +871,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Skydropx Frenet</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c7ef0c9-ca12-4312-894a-5aa0b7e325f8">UX Writer (Portugués-Español)</a></td>
-<td>Colombia<br/>Venezuela<br/>Panamá<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydropx/957406c3-e58a-4d73-b39a-6c180859cf57/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0000674d-9187-4328-bfa7-df2a61e7c38f">Product Analytics Coordinator</a></td>
 <td>México</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydropx/4eaa4745-9f7b-46df-9e41-b3cad560ba11/application">Apply</a></td>
@@ -947,13 +926,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Lovable</strong></td>
-<td><a href="https://trueinterview.io/jobs/76463977-5823-4bad-ad50-cc7484fd9e54">Content Designer (Contract)</a></td>
-<td>London<br/>Stockholm</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lovable/8a196add-25ef-4dfa-a196-c54c986bda60/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Tiger Data</strong></td>
 <td><a href="https://trueinterview.io/jobs/d61789f8-4649-4544-95fb-bf566bd9a0a5">Database Support Engineer, EMEA</a> 🌐</td>
 <td>Remote</td>
@@ -966,13 +938,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Delft</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/quantware/44ae2864-733d-4259-a93b-e156372d44c3/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>The Browser Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c0da6c9-459f-4f99-9a10-0ca59b4fa670">Full Stack Software Engineer, Dia Enterprise</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/The%20Browser%20Company/8f66fbf3-9ec5-43a2-968a-5ac030492562/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Prefect</strong></td>
@@ -1126,13 +1091,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ed1bbc1e-9e20-4b10-898b-8928a35dd5d5">Commercial Solutions Engineer - UK</a></td>
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/dash0/c54c629d-91db-4f21-817c-17cc188c221f/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7a142e17-34bf-4b8f-8c35-37c3ff2d36fc">Commercial Solutions Engineer - Benelux</a> 🌐</td>
-<td>Remote — Netherlands, Germany</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/dash0/200ea521-948d-4c08-90c2-33ebb9fdf6db/application">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 <tr>

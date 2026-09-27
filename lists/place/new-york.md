@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**167 open roles.**
+**160 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,13 +64,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ff5684e2-0e71-4a49-a456-390ded618aff">Software Development Engineer I, Annapurna Labs, Early Career - 2027</a></td>
 <td>US, NY, New York<br/>Cupertino, California, USA<br/>US, TX, Austin<br/>+2 more</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7a2be812-a75b-47c8-86e8-0df18ebd7605">Software Development Engineer, Amazon Shopping Videos (Ads)</a></td>
-<td>US, NY, New York<br/>US, WA, Seattle</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10559049/software-development-engineer-amazon-shopping-videos-ads">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -184,13 +177,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>New York, New York, United States of America</td>
 <td align="center"><a href="https://bloomberg.avature.net/careers/JobDetail/Video-Analytics-Contract/21572">Apply</a></td>
 <td align="center">20 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Pallet</strong></td>
-<td><a href="https://trueinterview.io/jobs/75e6c398-5d2e-4e11-a54f-e14afde5a417">Software Engineer, Agent Delivery</a></td>
-<td>New York, NY<br/>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pallet/jobs/5242991007">Apply</a></td>
-<td align="center">19 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Decagon</strong></td>
@@ -347,13 +333,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Outtake</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bd77bd0-4e9c-408d-bb2f-dc0706f3440e">Software Engineer, Infastructure</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/outtake/62200017-3aee-4ace-b430-33e3ef973fd1/application">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Spotify</strong></td>
 <td><a href="https://trueinterview.io/jobs/ecff9629-a588-47df-8e20-f05a56b5ab54">Backend Engineer, Mimir, Personalization</a></td>
 <td>New York, NY</td>
@@ -438,13 +417,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Metal</strong></td>
-<td><a href="https://trueinterview.io/jobs/799ec45e-c0ee-492a-9fec-ec9128c80908">Forward Deployed Engineer - Strategic Account</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/metal/536f32ad-b84f-4164-9ed2-9928c9aac7a5/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Palo Alto Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/f2abf24f-358c-4ca6-adbe-713385ebf8b4">Transformation Success Engineer</a></td>
 <td>New York City, United States of America<br/>Boston, MA<br/>Atlanta, GA<br/>+12 more</td>
@@ -477,13 +449,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9d216624-02fe-45e0-8d15-2a16f6193219">Associate Product Manager - Paid Search</a></td>
 <td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4973720101">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Schrödinger</strong></td>
-<td><a href="https://trueinterview.io/jobs/765b8bbd-ed5b-446c-addb-501eefb1c9fe">Infrastructure Developer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/schrdinger/jobs/7991930003">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
@@ -676,13 +641,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7ac0f98a-d209-4673-8b1b-a7de2053eca3">AI Engineer - Workflows</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/build/f4360a0b-36fc-4c93-963b-118913a43b1e/application">Apply</a></td>
-<td align="center">29 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Beloved Community &amp; Empowerment Academy Charter Schools</strong></td>
 <td><a href="https://trueinterview.io/jobs/9bedd409-4fd6-4819-b6e9-0d2ef2449240">Help Desk &amp; IOT Technician</a></td>
 <td>Jersey City, New Jersey, United States</td>
@@ -722,6 +680,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/faab4dce-a404-44c9-9439-4e871d3c67c7">Integrations Operations Engineer</a></td>
 <td>New York City Office<br/>San Francisco HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/plaid/f3d63f67-d689-469b-b6fc-e88301496ee3/application">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Grapevine</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a9dad22-20fa-496c-bf58-6a0a517ef07a">Product &amp; Savings Intelligence Analyst</a></td>
+<td>NYC HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/grapevine/b785642f-d4a4-466b-9458-9e7e422bc1af/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
@@ -865,13 +830,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/77fe4366-bd73-4832-b52a-28f75a576b31">Front End Engineer, Marketing</a></td>
-<td>New York City, NY<br/>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5386971008">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Mio Partners</strong></td>
 <td><a href="https://trueinterview.io/jobs/cbf34161-10e0-4f67-a279-cca52b274813">Quantitative Associate, Risk Special Projects</a></td>
 <td>New York, NY</td>
@@ -894,13 +852,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Simile</strong></td>
-<td><a href="https://trueinterview.io/jobs/78cd93ba-37cf-4a95-b08e-8a8156c3c6bb">Brand Designer</a></td>
-<td>New York, NY<br/>Palo Alto, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/simile/f9f1a847-f8bb-43f1-9012-8aeed56c2566/application">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fb8f32d6-c883-438a-964f-aa7f8380e3f9">Product Designer</a></td>
 <td>New York, NY<br/>Palo Alto, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/simile/e3a653fd-2d8a-4bf5-ab9c-e630aa7f5eec/application">Apply</a></td>

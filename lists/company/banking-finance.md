@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**72 open roles.** 33 in the United States & Canada · 39 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**71 open roles.** 32 in the United States & Canada · 39 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -177,13 +177,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/153024">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7b302e54-a42d-40a3-a3e7-cd3232c7f66e">Technology Risk - Dallas - Security Engineering - Associate</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180769">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Mio Partners</strong></td>

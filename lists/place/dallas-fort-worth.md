@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**25 open roles.**
+**22 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -102,13 +102,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/7cd6edae-7dd1-4944-b9d2-fdc996c210b4">SoC Physical Verification Engineer, HBM</a></td>
-<td>Richardson, TX, US<br/>Folsom, CA, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43052746">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1734dbe-4d9c-47c7-a44a-c7914fac7119">Forward Deployed Engineer (FDE) — Agentforce Orchestration</a></td>
 <td>Texas - Dallas<br/>Georgia - Atlanta, United States of America<br/>Illinois - Chicago<br/>+8 more</td>
@@ -130,13 +123,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Goldman Sachs</strong></td>
-<td><a href="https://trueinterview.io/jobs/7b302e54-a42d-40a3-a3e7-cd3232c7f66e">Technology Risk - Dallas - Security Engineering - Associate</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180769">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Lpa, Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/e55b0bb6-6598-4e75-ac78-2c039e27c2bc">Structural Designer</a></td>
 <td>Dallas, TX</td>
@@ -156,13 +142,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Arlington, TX<br/>Saratoga, CA</td>
 <td align="center"><a href="https://jobs.lever.co/espace/2c6f6a13-0133-4d6d-ae35-c6d2a848d618/apply">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Roshal Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/7962a889-819d-4306-aec8-6fd712a7cfdb">CT Technologist - Full-time - Plano, TX</a></td>
-<td>Plano, TX</td>
-<td align="center"><a href="https://jobs.lever.co/roshalimaging/9ca85c57-a743-4364-a6b5-f5ff73ca5af8/apply">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Goldman Sachs</strong></td>

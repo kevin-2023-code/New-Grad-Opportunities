@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**23 open roles.**
+**21 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -116,13 +116,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Defense Unicorns</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c38986c-5982-4696-802d-b5059ac0285c">Platform Engineer</a> 🌐</td>
-<td>Remote — United States<br/>San Antonio, Texas</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/defenseunicorns/jobs/5223131007">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Accenture Federal Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/9dea08dd-528b-426b-9c8d-cb94ba9e1c0e">Design Quality Engineer</a></td>
 <td>San Antonio, TX</td>
@@ -134,13 +127,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/63729eb2-a001-4b53-a1c3-3ec577bea1d6">Mechanical Design Engineer</a></td>
 <td>San Antonio, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4708282006?gh_jid=4708282006">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/799bbf4d-9dc5-4464-99a5-99ebccb6d4cc">Cloud Developer</a></td>
-<td>Houston, Texas, United States of America<br/>Spring, Texas, United States of America<br/>Durham, North Carolina, United States of America<br/>+2 more</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas/Cloud-Developer_1212916">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**11 open roles.**
+**10 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,13 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Lehi, Utah<br/>Office - Lehi<br/>Office - Santa Clara<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8211966">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7aad2f4a-a71f-41ac-b7ac-5c338c5c1a5b">Platform Services Engineer, Advanced Services (Professional Services)</a></td>
-<td>Lehi, Utah<br/>Office - Lehi</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8191524">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Onebrief</strong></td>

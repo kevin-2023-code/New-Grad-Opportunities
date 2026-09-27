@@ -2,7 +2,7 @@
 
 # Platform Engineer
 
-**31 open roles.** 22 in the United States & Canada · 9 elsewhere in the world.
+**30 open roles.** 20 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -67,13 +67,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Pure Storage</strong></td>
-<td><a href="https://trueinterview.io/jobs/7aad2f4a-a71f-41ac-b7ac-5c338c5c1a5b">Platform Services Engineer, Advanced Services (Professional Services)</a></td>
-<td>Lehi, Utah<br/>Office - Lehi</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8191524">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/bec820ec-e7ef-415f-abe2-f05d00cefe85">Post-Training Platform Infrastructure Engineer</a></td>
 <td>US, CA, San Jose<br/>San Jose, California, United States</td>
@@ -121,13 +114,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Pittsburgh, United States</td>
 <td align="center"><a href="https://4dayweek.io/job/platform-engineer-at-duolingo-5fa28b15">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Defense Unicorns</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c38986c-5982-4696-802d-b5059ac0285c">Platform Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/defenseunicorns/jobs/5223131007">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Solace</strong></td>
@@ -231,6 +217,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City, Mexico City, Mexico</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/wpp/jobs/8487083002">Apply</a></td>
 <td align="center">19 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Govtech</strong></td>
+<td><a href="https://trueinterview.io/jobs/7633934e-4012-4ae6-a112-a12433bbd6fa">Software Engineer - Kubernetes Platform</a></td>
+<td>Singapore<br/>CEP Core Engineering Products</td>
+<td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005732201?gh_jid=4005732201">Apply</a></td>
+<td align="center">16 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Limble</strong></td>

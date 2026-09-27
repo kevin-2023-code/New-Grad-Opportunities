@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**15 open roles.** 9 in the United States & Canada · 6 elsewhere in the world.
+**12 open roles.** 7 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -66,20 +66,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.lever.co/court-avenue/f6d49791-96f3-487e-818b-2858ec4edffc/apply">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Bask Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/75512db9-95f9-43e0-af01-fdf97ee350c4">Three.js Front End Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.workable.com/view/fCYXGsm4CSCbHfgtpP1M9J/remote-three.js-front-end-engineer-in-united-states-at-bask-health">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/77fe4366-bd73-4832-b52a-28f75a576b31">Front End Engineer, Marketing</a></td>
-<td>San Francisco, CA<br/>New York City, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5386971008">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -119,13 +105,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>India Bengaluru Karnataka</td>
 <td align="center"><a href="https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Junior-Web-Developer_JREQ203099-1">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Latamcent</strong></td>
-<td><a href="https://trueinterview.io/jobs/77570c76-0161-4dae-81a6-47047a458eb3">Frontend Software Engineer</a></td>
-<td>Argentina</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/latamcent/e1785df2-4836-4192-b951-b1dee51082b4/application">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Canva</strong></td>

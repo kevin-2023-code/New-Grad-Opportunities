@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**32 open roles.** 16 in the United States & Canada · 16 elsewhere in the world.
+**33 open roles.** 16 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -217,6 +217,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774755">Apply</a></td>
 <td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>LG Ad Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bd7d309-635c-4d2e-b49b-f787157b9674">Global Reporting &amp; Analytics Analyst</a> 🛂</td>
+<td>London, UK</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lgads/b583063e-60fc-4985-b2ee-11fa83d75943/application">Apply</a></td>
+<td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Lightcast</strong></td>

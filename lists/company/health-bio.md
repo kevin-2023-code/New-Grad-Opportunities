@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**58 open roles.** 44 in the United States & Canada · 14 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**53 open roles.** 39 in the United States & Canada · 14 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -85,13 +85,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/039610d1-a5d0-4d0b-8c3d-93d4834fd073">Data Scientist 2</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000148860049-data-scientist-2?oga=true">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Schrödinger</strong></td>
-<td><a href="https://trueinterview.io/jobs/765b8bbd-ed5b-446c-addb-501eefb1c9fe">Infrastructure Developer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/schrdinger/jobs/7991930003">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
@@ -214,13 +207,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/75a7bfd9-30ae-44b2-85e7-bfb0becc3b88">Associate Engineer/ Analyst (Automation)</a></td>
-<td>Barceloneta, Barceloneta, Puerto Rico</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014758156-associate-engineer-analyst-automation-?oga=true">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Simonmed</strong></td>
 <td><a href="https://trueinterview.io/jobs/983225e3-b0df-401d-90a4-f0db10826b20">Ultrasound Technologist - Non ARDMS</a></td>
 <td>14901 N Scottsdale Rd, Scottsdale, AZ 85254</td>
@@ -228,24 +214,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Bask Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/75512db9-95f9-43e0-af01-fdf97ee350c4">Three.js Front End Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.workable.com/view/fCYXGsm4CSCbHfgtpP1M9J/remote-three.js-front-end-engineer-in-united-states-at-bask-health">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>AbbVie</strong></td>
 <td><a href="https://trueinterview.io/jobs/46d70953-6b6f-4a67-8312-9fd8101a1a56">Associate Business System Analyst, MES</a></td>
 <td>Barceloneta, Barceloneta, Puerto Rico</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014689316-associate-business-system-analyst-mes?oga=true">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Commure</strong></td>
-<td><a href="https://trueinterview.io/jobs/79824560-f8d6-4122-a067-e4cfb050fb77">Fullstack Engineer, Ambient AI</a></td>
-<td>Mountain View, CA<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/commure/d5f91cfa-48ab-430d-b618-ba77c82c64a2/application">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
@@ -296,13 +268,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/bayesianhealth/f3d96335-cfb0-4bc5-9109-5925516da5d1/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Celerion</strong></td>
-<td><a href="https://trueinterview.io/jobs/76a2be4c-abe5-44b2-996b-1e818f180a0f">Veeva Clinical Database Programmer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.lever.co/celerion/e1d04ca4-897f-4c62-acf0-47126d4aaeac/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Orcabiosystems</strong></td>

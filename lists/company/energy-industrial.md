@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**40 open roles.** 35 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**38 open roles.** 33 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Mountain View, CA<br/>HQ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/lunarenergy/jobs/6207133004">Apply</a></td>
 <td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Oklo</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c2a0870-3628-4878-9626-05066cbff47a">Fuel Fabrication Project Engineer</a></td>
-<td>Idaho Falls, Idaho<br/>Any location</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/oklo/jobs/6201116004">Apply</a></td>
-<td align="center">22 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>T1 Energy</strong></td>
@@ -121,13 +114,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>1235 Activity Drive, Vista, CA</td>
 <td align="center"><a href="https://jobs.lever.co/invinity/bdc2b349-f5a7-408a-809a-1b92263b3012/apply">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Form Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/74f77aff-43aa-443e-87bd-ddc562745db9">IT Support Technician</a></td>
-<td>Weirton, WV</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/formenergy/68b3b04b-6485-4fdb-873c-ef5b8874a2b2/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Hyliion</strong></td>

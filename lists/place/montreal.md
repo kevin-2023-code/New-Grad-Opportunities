@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**24 open roles.**
+**23 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -163,13 +163,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Montréal, Quebec, Canada<br/>Canada, Montréal</td>
 <td align="center"><a href="https://mthree.com/careers/job/?gh_jid=4704268006">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Mthree Recruiting Portal</strong></td>
-<td><a href="https://trueinterview.io/jobs/7cb9e1e7-7a84-4045-9893-971128feb188">Développeur Java / Java Developer</a></td>
-<td>Montréal, Quebec, Canada<br/>Canada, Montréal</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4703132006">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Ubisoft</strong></td>

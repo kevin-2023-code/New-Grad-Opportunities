@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**40 open roles.** 37 in the United States & Canada · 3 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**38 open roles.** 36 in the United States & Canada · 2 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -215,13 +215,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/75b12db2-11b0-4c06-8405-37d515d2d528">Software Engineer - Customer Service Platform</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317897268">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/93111598-1f28-4750-b36a-7ba4f8f91305">Software Engineer (L5) - JavaScript Platform</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317859053">Apply</a></td>
@@ -296,14 +289,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">7 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>The Browser Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c0da6c9-459f-4f99-9a10-0ca59b4fa670">Full Stack Software Engineer, Dia Enterprise</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/The%20Browser%20Company/8f66fbf3-9ec5-43a2-968a-5ac030492562/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Kiss My Apps</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9db031f4-3bc0-4e21-924e-8e9be5a00343">Android Developer</a></td>
 <td>Ukraine</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/kissmyapps/8533c309-3850-4d32-a2f6-be64d68a1f2e/application">Apply</a></td>

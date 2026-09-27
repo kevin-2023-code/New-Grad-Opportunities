@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**132 open roles.** 67 in the United States & Canada · 65 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**131 open roles.** 67 in the United States & Canada · 64 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -151,17 +151,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Mthree Recruiting Portal</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b6179b0-e7f5-49b1-8e76-4a4f6a85b6ad">Junior Software Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4713126006">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Anavation</strong></td>
 <td><a href="https://trueinterview.io/jobs/6a37b086-cd67-43e5-9d3f-0c53e3100d62">IT Support Specialist</a></td>
 <td>Quantico, VA</td>
 <td align="center"><a href="https://jobs.lever.co/anavationllc/7b65d970-88b2-4bea-aafe-1ad5953957c8/apply">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Orion Innovation</strong></td>
-<td><a href="https://trueinterview.io/jobs/78c57f5c-2433-4b58-9c2c-318e563dd888">Test Engineer</a></td>
-<td>Chicago, Illinois, United States</td>
-<td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4712633006">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
@@ -473,10 +473,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Mthree Recruiting Portal</strong></td>
-<td><a href="https://trueinterview.io/jobs/7cb9e1e7-7a84-4045-9893-971128feb188">Développeur Java / Java Developer</a></td>
-<td>Montréal, Quebec, Canada<br/>Canada, Montréal</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4703132006">Apply</a></td>
+<td><strong>Agile Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/75628b5b-2212-4184-ba45-1927393728d0">Test and Evaluation Analyst (Cyber Survivability)</a></td>
+<td>Fort Huachuca, AZ</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/b882eec4-bfa9-43ed-a08b-265096136528/apply">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
@@ -625,14 +625,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Capco</strong></td>
-<td><a href="https://trueinterview.io/jobs/767d2128-d650-494b-8fd3-5496a8acc235">QA Engineer - COM INGLÊS - Remoto</a></td>
-<td>Brazil - Sao Paulo</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8211836">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PwC</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e2b6cb41-0cc4-4df3-b301-d2b700e8faea">IN_Senior Associate_ Java Backend Developer_GCC_Advisory_Hyderabad</a></td>
 <td>Hyderabad - Salarpuria</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Python-GCC-Advisory-Bangalore_746234WD-1">Apply</a></td>
@@ -842,17 +835,17 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Orion Innovation</strong></td>
+<td><a href="https://trueinterview.io/jobs/834c8efa-dd8e-4975-bb8d-20ef163af776">Data Engineer | CDMX | Híbrido</a></td>
+<td>Mexico City, Mexico City, Mexico<br/>Ciudad de México</td>
+<td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4709148006">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Modus Create</strong></td>
 <td><a href="https://trueinterview.io/jobs/a3fd043f-e1fb-4730-a8c0-460a618db6ff">Forward Deployed Engineer (Python, AI/ML, Generative AI) - UK based</a></td>
 <td>Greece<br/>Europe</td>
 <td align="center"><a href="https://moduscreate.com/careers/7978821003?gh_jid=7978821003">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Latamcent</strong></td>
-<td><a href="https://trueinterview.io/jobs/77570c76-0161-4dae-81a6-47047a458eb3">Frontend Software Engineer</a></td>
-<td>Argentina</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/latamcent/e1785df2-4836-4192-b951-b1dee51082b4/application">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
