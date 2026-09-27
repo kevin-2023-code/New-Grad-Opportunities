@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**59 open roles.** 37 in the United States & Canada · 22 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**58 open roles.** 36 in the United States & Canada · 22 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -170,13 +170,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, ON</td>
 <td align="center"><a href="https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Business-Systems-Engineer---AI_JR160709">Apply</a></td>
 <td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Faherty Brand</strong></td>
-<td><a href="https://trueinterview.io/jobs/7fd3e1df-b1c4-4c1a-b2b3-e130529eee00">Digital Designer, Brand &amp; Site</a></td>
-<td>New York, NY<br/>New York, New York, United States<br/>NYC HQ Office</td>
-<td align="center"><a href="https://fahertybrand.com/pages/faherty-applications?gh_jid=5231373007">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>DoorDash</strong></td>

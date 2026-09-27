@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**160 open roles.**
+**158 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -319,13 +319,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Polymarket</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e7b2bc3-0621-4093-8488-28c33e703610">Quantitative Researcher</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/polymarket/a8f161f3-2126-4888-aa6e-74e23ae49686/application">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Anthropic</strong></td>
 <td><a href="https://trueinterview.io/jobs/9bf11005-d494-49e5-8201-d8156f0260cc">Salesforce Developer, Partnerships</a></td>
 <td>New York City, NY<br/>San Francisco, CA</td>
@@ -540,13 +533,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dfb703c8-8d14-4518-be72-609c22375fa3">Fraud Engineer</a></td>
 <td>New York, NY<br/>Denver, CO<br/>Dubai<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/ether.fi/d3b62f6a-8555-4b34-a219-b2f062e9aaf8/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Faherty Brand</strong></td>
-<td><a href="https://trueinterview.io/jobs/7fd3e1df-b1c4-4c1a-b2b3-e130529eee00">Digital Designer, Brand &amp; Site</a></td>
-<td>New York, NY<br/>New York, New York, United States<br/>NYC HQ Office</td>
-<td align="center"><a href="https://fahertybrand.com/pages/faherty-applications?gh_jid=5231373007">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>

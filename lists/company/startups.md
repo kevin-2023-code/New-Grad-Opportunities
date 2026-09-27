@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**153 open roles.** 110 in the United States & Canada · 43 elsewhere in the world. Early-stage technology companies.
+**148 open roles.** 106 in the United States & Canada · 42 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -116,13 +116,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Polymarket</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e7b2bc3-0621-4093-8488-28c33e703610">Quantitative Researcher</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/polymarket/a8f161f3-2126-4888-aa6e-74e23ae49686/application">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Higharc</strong></td>
 <td><a href="https://trueinterview.io/jobs/f4605f76-851e-436e-b5f3-a4d82f0e7bd7">Software Engineer, Home Design Experience</a> 🌐</td>
 <td>Remote — United States</td>
@@ -176,13 +169,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e94ce908-54fb-4379-a650-f17b63247138">Software Engineer, AI Productivity</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/physicalintelligence/7f8397a4-c3cd-45c6-90c7-13c4481f4699/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Deepgram</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ec445af-89f7-4a37-b3f4-3b89719b1ce0">People AI &amp; Automation Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316/application">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
@@ -697,13 +683,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Tigera</strong></td>
-<td><a href="https://trueinterview.io/jobs/7dd2b6d6-35dd-45b6-98ba-69edb7e153c5">QA Engineer</a></td>
-<td>Vancouver, BC</td>
-<td align="center"><a href="https://boards.greenhouse.io/tigera/jobs/4720168005?gh_jid=4720168005">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Oneleet</strong></td>
 <td><a href="https://trueinterview.io/jobs/9c7e097f-5da6-46cb-90f0-4ff27c233dfa">Framework Engineer</a></td>
 <td>United States</td>
@@ -771,13 +750,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e0c98ea0-e895-4e56-930e-8e1113d1af57">Network Engineer, Wireless</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/567a54e0-b9ce-4fff-ae8a-4edee9d55e85/application">Apply</a></td>
-<td align="center">3 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Physical Intelligence</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ee29284-7a07-42d3-9ee0-cd08e28030de">Production Test Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/physicalintelligence/81d1eb25-ada9-40fd-8708-e1e42ecb2b7e/application">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>
@@ -1021,13 +993,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/aa8493da-4d20-4517-b61e-9ec584cff779">Platform Engineer - m/f/d</a></td>
 <td>Berlin</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/langdock/e92df507-d2cc-4cfa-8a3e-ce59b767771e/application">Apply</a></td>
-<td align="center">9 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7f6da5dd-1639-4770-b6d2-f5ae2f8fbec4">Systems Engineer - m/f/d</a></td>
-<td>Berlin</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/langdock/a9b93572-71a1-469f-8d91-f1eaf218658c/application">Apply</a></td>
 <td align="center">9 Aug 2026</td>
 </tr>
 <tr>

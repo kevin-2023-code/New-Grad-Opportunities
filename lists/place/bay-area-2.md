@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**454 open roles.**
+**447 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,41 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Baseten</strong></td>
-<td><a href="https://trueinterview.io/jobs/bb5b4596-0a41-4910-a6d2-c03685864742">Software Engineer - Continuous Delivery</a></td>
-<td>San Francisco, CA<br/>Toronto, ON<br/>New York, NY<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/baseten/fb886b59-fdc3-4315-a9b3-c49808bcd2ce/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Mariana Minerals</strong></td>
-<td><a href="https://trueinterview.io/jobs/f609b832-0ccc-4dc9-9c02-1dfa55d6d639">Product Designer, MarianaOS</a></td>
-<td>San Francisco HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/marianaminerals/9e8fef14-ebf8-4298-906a-e08f6ae04cb4/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/7416d491-c760-4924-b07d-16ca8bdc9ecd">Compute Engineer, Deployment</a> 🌐</td>
-<td>Remote — United States<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/73a25138-e2eb-4490-8fdb-c7b9f4938395/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/71bffff6-65f6-45d8-bbf5-54d39b84923e">Product Designer, People Products</a> 🌐</td>
-<td>Remote — United States<br/>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5383660008">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lunar Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/c13b372e-7236-4adc-8bc4-e0ce40e2a663">IT Support Technician</a></td>
-<td>Mountain View, CA<br/>HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lunarenergy/jobs/6140237004">Apply</a></td>
-<td align="center">10 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>Verse</strong></td>
 <td><a href="https://trueinterview.io/jobs/b92164a0-7eb6-47a1-b235-247733d20201">Software Engineer, Distributed Systems</a></td>
@@ -219,13 +184,6 @@
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>xAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e693008-6ab3-4aa5-ac0a-9dcc53b38a9d">Software Engineer - Search Infrastructure</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5205179007">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Chime</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3fba2e1-06fd-4cb1-94c4-8152172aef06">Product Designer</a></td>
 <td>San Francisco, CA<br/>San Francisco Office<br/>New York, NY</td>
@@ -335,13 +293,6 @@
 <td><a href="https://trueinterview.io/jobs/e0c98ea0-e895-4e56-930e-8e1113d1af57">Network Engineer, Wireless</a> 🌐</td>
 <td>Remote — United States<br/>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/567a54e0-b9ce-4fff-ae8a-4edee9d55e85/application">Apply</a></td>
-<td align="center">3 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Physical Intelligence</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ee29284-7a07-42d3-9ee0-cd08e28030de">Production Test Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/physicalintelligence/81d1eb25-ada9-40fd-8708-e1e42ecb2b7e/application">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>

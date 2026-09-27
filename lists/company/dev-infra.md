@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**89 open roles.** 54 in the United States & Canada · 35 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**85 open roles.** 51 in the United States & Canada · 34 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -270,13 +270,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>GitLab</strong></td>
-<td><a href="https://trueinterview.io/jobs/8266bae4-0718-4e56-9254-d71604f587d3">Backend Engineer, AI Engineering: Duo Chat</a> 🌐</td>
-<td>Remote — Canada, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8698314002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>SonarSource</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec014430-2db0-4126-b0f3-2676295c7192">Customer Success Engineer - America</a></td>
 <td>Austin, TX<br/>Austin, Texas</td>
@@ -340,13 +333,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Tigera</strong></td>
-<td><a href="https://trueinterview.io/jobs/7dd2b6d6-35dd-45b6-98ba-69edb7e153c5">QA Engineer</a></td>
-<td>Vancouver, BC</td>
-<td align="center"><a href="https://boards.greenhouse.io/tigera/jobs/4720168005?gh_jid=4720168005">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Forward Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/8cc197dd-14c8-4caf-b406-4a2776fb6ad8">AI Engineer</a></td>
 <td>Santa Clara<br/>Northern California</td>
@@ -380,13 +366,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="http://www.circleci.com/careers/jobs/8657507002/?gh_jid=8657507002">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Veeam Software</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f9e9b75-a29a-430a-9964-1f15ffec1f7e">Site Reliability Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4744735101">Apply</a></td>
-<td align="center">3 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
@@ -455,13 +434,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/supabase/fab1525f-3d89-4d1c-9094-84d21647415e/application">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Databricks</strong></td>
-<td><a href="https://trueinterview.io/jobs/82095e16-d415-4305-9720-b019827106aa">Scale Solution Engineer</a></td>
-<td>Heredia, Costa Rica<br/>Costa Rica</td>
-<td align="center"><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8779023002">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Storyblok</strong></td>

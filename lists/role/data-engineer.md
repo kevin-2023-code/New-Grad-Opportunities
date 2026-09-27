@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**70 open roles.** 45 in the United States & Canada · 25 elsewhere in the world.
+**71 open roles.** 46 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -263,6 +263,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/812d8f7b-44ed-4d14-9aae-631bd5fea2ad">OneFM Oracle Fusion Cloud Developer</a></td>
+<td>Washington, DC<br/>Arlington, VA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4706300006?gh_jid=4706300006">Apply</a></td>
+<td align="center">18 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Ontic</strong></td>
 <td><a href="https://trueinterview.io/jobs/92db2bb7-e13b-4623-bd45-1fb60b01776a">Analytics Engineer</a> 🌐</td>
 <td>Remote — United States</td>
@@ -457,18 +464,18 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Orion Innovation</strong></td>
-<td><a href="https://trueinterview.io/jobs/834c8efa-dd8e-4975-bb8d-20ef163af776">Data Engineer | CDMX | Híbrido</a></td>
-<td>Mexico City, Mexico City, Mexico<br/>Ciudad de México</td>
-<td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4709148006">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Ci&amp;t</strong></td>
 <td><a href="https://trueinterview.io/jobs/b70a288a-f328-4a25-9744-c055666e45b2">[Job - 31308] Specialist AWS Data Developer, Brasil</a></td>
 <td>Brazil</td>
 <td align="center"><a href="https://jobs.lever.co/ciandt/c78866f3-6345-4eab-a1a2-7636df5a3d36/apply">Apply</a></td>
 <td align="center">26 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Orion Innovation</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cf20a5b-f127-484a-9cd9-83cd4552228c">206238 - ETL/Data Engineer</a></td>
+<td>Mexico City, Mexico City, Mexico<br/>Mexico, Mexico</td>
+<td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4706843006">Apply</a></td>
+<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Experian</strong></td>

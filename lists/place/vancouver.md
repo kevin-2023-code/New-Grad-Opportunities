@@ -88,6 +88,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Bardel Entertainment</strong></td>
+<td><a href="https://trueinterview.io/jobs/82ad6d7b-0759-415e-97e0-ceedfd152774">2D Storyboard Artist (YouTube Series)</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://jobs.workable.com/view/oSDcj6RW2RfDDpCnxSHwPT/hybrid-2d-storyboard-artist-(youtube-series)-in-vancouver-at-bardel-entertainment">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Fortinet</strong></td>
 <td><a href="https://trueinterview.io/jobs/d2c04e1a-3c6d-4053-b565-e7855a76cdce">Intermediate Software Developer in Test</a></td>
 <td>Burnaby, BC, Canada</td>
@@ -120,13 +127,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/53fb8d2a-b3fc-4733-9420-1940939a1565">Data Analyst</a></td>
 <td>Vancouver, BC</td>
 <td align="center"><a href="https://jobs.lever.co/kabam/cbdbaeeb-1228-40c6-a022-48306ea63635/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Tigera</strong></td>
-<td><a href="https://trueinterview.io/jobs/7dd2b6d6-35dd-45b6-98ba-69edb7e153c5">QA Engineer</a></td>
-<td>Vancouver, BC</td>
-<td align="center"><a href="https://boards.greenhouse.io/tigera/jobs/4720168005?gh_jid=4720168005">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 </tbody>

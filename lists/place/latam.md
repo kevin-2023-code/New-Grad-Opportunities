@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**47 open roles.**
+**48 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -160,6 +160,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Awin</strong></td>
+<td><a href="https://trueinterview.io/jobs/8234768b-9b0d-4cf7-94ea-8bc2ef756693">Technical Consultant (f/m/d)</a></td>
+<td>São Paulo, São Paulo, Brazil<br/>Sao Paulo</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/awin/jobs/7984749003">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Genius Sports</strong></td>
 <td><a href="https://trueinterview.io/jobs/ee740f65-0c04-4073-9049-49a5926272b3">Full Time Tennis Trader</a></td>
 <td>Medellín, Antioquia, Colombia<br/>Medellin, Colombia</td>
@@ -195,13 +202,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Orion Innovation</strong></td>
-<td><a href="https://trueinterview.io/jobs/834c8efa-dd8e-4975-bb8d-20ef163af776">Data Engineer | CDMX | Híbrido</a></td>
-<td>Mexico City, Mexico City, Mexico<br/>Ciudad de México</td>
-<td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4709148006">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Egis Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/2c02f8ad-ab77-48b2-a073-b82fff1fc0bf">Analista Técnico Pleno - Geotecnia</a></td>
 <td>São Paulo, SP, Brazil</td>
@@ -214,6 +214,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City</td>
 <td align="center"><a href="https://www.monks.com/careers/6162594004/job?gh_jid=6162594004">Apply</a></td>
 <td align="center">25 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Orion Innovation</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cf20a5b-f127-484a-9cd9-83cd4552228c">206238 - ETL/Data Engineer</a></td>
+<td>Mexico City, Mexico City, Mexico<br/>Mexico, Mexico</td>
+<td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4706843006">Apply</a></td>
+<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Percona</strong></td>
@@ -300,18 +307,18 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>C6 Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/832e7aef-4aa9-4724-a6e6-2aac42447f89">Especialista de Customer Journey | Jornada do Cliente</a></td>
+<td>São Paulo, Brazil<br/>C6 Bank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4724341005">Apply</a></td>
+<td align="center">14 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Xp Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/43ca54e8-f7c4-43ed-a276-bef759be65f5">Trading - Fundos &amp; ETFs (Mercado Secundário)</a></td>
 <td>São Paulo, SP</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xpinc/jobs/8710018002">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lia</strong></td>
-<td><a href="https://trueinterview.io/jobs/810e3f2e-4a0c-4d7c-ba66-63e93f2d4ef5">PL Desenvolvimento Full Stack Mobile (Flutter/Java)</a></td>
-<td>São Paulo - BR<br/>Remoto</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/ilia/jobs/6142586004">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Welo Global</strong></td>

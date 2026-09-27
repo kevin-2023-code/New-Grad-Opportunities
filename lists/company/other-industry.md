@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**64 open roles.** 36 in the United States & Canada · 28 elsewhere in the world. A real classification that none of the other sectors covers.
+**63 open roles.** 36 in the United States & Canada · 27 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -357,13 +357,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Field</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/gofibre/jobs/4966391101">Apply</a></td>
 <td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tegna Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/803f1567-6325-47e3-a82c-d3d977140221">Broadcast Radio/TV Engineer</a></td>
-<td>WBNS-TV Columbus</td>
-<td align="center"><a href="https://boards.greenhouse.io/tegnainc/jobs/5226362007?gh_jid=5226362007">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Jigsaw Homes Group</strong></td>

@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**59 open roles.** 52 in the United States & Canada · 7 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**57 open roles.** 50 in the United States & Canada · 7 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,13 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96187">Apply</a></td>
 <td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/81997cf8-e533-4192-894f-28281dc2f1e1">Safety Investigations Engineer</a></td>
-<td>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70873">Apply</a></td>
-<td align="center">23 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -358,13 +351,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0196b482-424e-4a98-9ef4-78561c3293a8">Early Professional, Transmission Line Engineer/Designer</a></td>
 <td>Edmonton, AB, Canada<br/>Kelowna, BC, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92504">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7f84677b-93d8-4c15-9551-f63930565aa6">Instructional Designer</a></td>
-<td>Montreal, QC, Canada</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92485">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>

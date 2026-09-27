@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**123 open roles.**
+**122 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -169,13 +169,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a0b1445a-a8b8-4681-aef1-1a585a4eaee5">Machine Learning Operations (MLOps) Engineer</a></td>
 <td>Austin, TX<br/>San Francisco, CA<br/>El Segundo, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/gallatin/0be59879-c60a-4c7d-8d8d-cf5205871ef2/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e262e0c-cf82-4556-bdb6-8365f4983a61">Embedded Firmware Development Engineer</a></td>
-<td>Austin, Texas, United States<br/>US, TX, Austin_Research Park</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92403?lang=en-us">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>

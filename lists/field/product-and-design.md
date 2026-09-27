@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**139 open roles.** 106 in the United States & Canada · 33 elsewhere in the world.
+**139 open roles.** 105 in the United States & Canada · 34 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -305,13 +305,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Faherty Brand</strong></td>
-<td><a href="https://trueinterview.io/jobs/7fd3e1df-b1c4-4c1a-b2b3-e130529eee00">Digital Designer, Brand &amp; Site</a></td>
-<td>New York, NY<br/>New York, New York, United States<br/>NYC HQ Office</td>
-<td align="center"><a href="https://fahertybrand.com/pages/faherty-applications?gh_jid=5231373007">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Hertz</strong></td>
 <td><a href="https://trueinterview.io/jobs/8487fa36-88c6-46e5-8063-232f7043d6a7">Product Owner - Commercial Analysis &amp; Data Visualization</a></td>
 <td>Atlanta, GA</td>
@@ -512,6 +505,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b16916ab-2a4e-4c02-bbf8-717232d5c9f3">UI Graphic Designer</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sleeper/441ba4d4-d693-4d21-949b-e3e1e6b86b79/application">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Bardel Entertainment</strong></td>
+<td><a href="https://trueinterview.io/jobs/82ad6d7b-0759-415e-97e0-ceedfd152774">2D Storyboard Artist (YouTube Series)</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://jobs.workable.com/view/oSDcj6RW2RfDDpCnxSHwPT/hybrid-2d-storyboard-artist-(youtube-series)-in-vancouver-at-bardel-entertainment">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
@@ -733,13 +733,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f84677b-93d8-4c15-9551-f63930565aa6">Instructional Designer</a></td>
-<td>Montreal, QC, Canada</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92485">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7e10e893-10b2-4298-9532-f3559a71a1b4">Mechanical Designer - Buildings systems</a></td>
 <td>Ottawa, ON, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92586">Apply</a></td>
@@ -945,6 +938,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/scarlet/56adf81f-c42d-4a64-ae74-529346ecdc40/application">Apply</a></td>
 <td align="center">19 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>C6 Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/832e7aef-4aa9-4724-a6e6-2aac42447f89">Especialista de Customer Journey | Jornada do Cliente</a></td>
+<td>São Paulo, Brazil<br/>C6 Bank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4724341005">Apply</a></td>
+<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Telus Digital</strong></td>

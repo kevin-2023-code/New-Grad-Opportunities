@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**55 open roles.** 8 in the United States & Canada · 47 elsewhere in the world.
+**54 open roles.** 8 in the United States & Canada · 46 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -175,13 +175,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Manchester, United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/ios-developer-at-hedgehog-lab-ec35c6b5">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/835f46fc-11e8-4219-bd6f-0901bce807ae">Applied AI Engineer, Government, International</a></td>
-<td>London, UK</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/6c01266f-6ddb-42d1-a529-84736ae8587a/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Abound</strong></td>

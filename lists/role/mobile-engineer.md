@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**12 open roles.** 4 in the United States & Canada · 8 elsewhere in the world.
+**11 open roles.** 4 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -105,13 +105,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Ukraine</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/kissmyapps/8533c309-3850-4d32-a2f6-be64d68a1f2e/application">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lia</strong></td>
-<td><a href="https://trueinterview.io/jobs/810e3f2e-4a0c-4d7c-ba66-63e93f2d4ef5">PL Desenvolvimento Full Stack Mobile (Flutter/Java)</a></td>
-<td>São Paulo - BR<br/>Remoto</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/ilia/jobs/6142586004">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>

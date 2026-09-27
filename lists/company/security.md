@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**49 open roles.** 42 in the United States & Canada · 7 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**48 open roles.** 42 in the United States & Canada · 6 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -350,13 +350,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Taipei, Taiwan</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/obsidiansecurity/jobs/5406173008">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Verkada</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ecde9ce-9246-4875-8778-4441127e0e4a">Technical Support Engineer</a></td>
-<td>Sydney, Australia<br/>Sydney Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5223282007">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Avertium</strong></td>

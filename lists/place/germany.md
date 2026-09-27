@@ -2,7 +2,7 @@
 
 # 🇩🇪 Berlin, Munich & Germany
 
-**17 open roles.** 2 in the United States & Canada · 15 elsewhere in the world.
+**16 open roles.** 2 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -132,13 +132,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/aa8493da-4d20-4517-b61e-9ec584cff779">Platform Engineer - m/f/d</a></td>
 <td>Berlin</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/langdock/e92df507-d2cc-4cfa-8a3e-ce59b767771e/application">Apply</a></td>
-<td align="center">9 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7f6da5dd-1639-4770-b6d2-f5ae2f8fbec4">Systems Engineer - m/f/d</a></td>
-<td>Berlin</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/langdock/a9b93572-71a1-469f-8d91-f1eaf218658c/application">Apply</a></td>
 <td align="center">9 Aug 2026</td>
 </tr>
 <tr>
