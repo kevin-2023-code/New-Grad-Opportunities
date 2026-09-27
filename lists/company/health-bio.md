@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**51 open roles.** 37 in the United States & Canada · 14 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**50 open roles.** 36 in the United States & Canada · 14 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -163,13 +163,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.lever.co/bluesight/f9259a83-4f47-4e44-9898-e6a443369d68/apply">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Avalere Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/8ccbbfb3-9785-4d23-9023-465b091a1e08">Research Scientist I</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.lever.co/avalerehealth/690e65f2-2081-42d2-9bae-f246572ab331/apply">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>AbbVie</strong></td>

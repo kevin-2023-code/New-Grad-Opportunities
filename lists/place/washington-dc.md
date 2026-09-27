@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**63 open roles.**
+**62 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -190,13 +190,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cbb5746e-ae3c-46e0-a6b5-9c098daea85a">Associate Fire Protection Engineer</a></td>
 <td>Columbia, Maryland, United States<br/>Columbia, MD</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5362942008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Avalere Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/8ccbbfb3-9785-4d23-9023-465b091a1e08">Research Scientist I</a> 🌐</td>
-<td>Remote — United States<br/>Washington, DC</td>
-<td align="center"><a href="https://jobs.lever.co/avalerehealth/690e65f2-2081-42d2-9bae-f246572ab331/apply">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>

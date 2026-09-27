@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**25 open roles.** 11 in the United States & Canada · 14 elsewhere in the world.
+**24 open roles.** 11 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -196,13 +196,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Campinas, São Paulo, Brazil<br/>Campinas, Brazil</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8687792002">Apply</a></td>
 <td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Mutt Data</strong></td>
-<td><a href="https://trueinterview.io/jobs/8bc6a045-7f57-4964-baba-c3f03b05dc75">Java Back End Developer</a></td>
-<td>Argentina</td>
-<td align="center"><a href="https://jobs.lever.co/muttdata/573cc5e4-985d-4b68-9f18-d35c30b946ef/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

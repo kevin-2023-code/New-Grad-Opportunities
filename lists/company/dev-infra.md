@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**85 open roles.** 51 in the United States & Canada · 34 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**84 open roles.** 50 in the United States & Canada · 34 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -331,13 +331,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, Washington, United States of America<br/>Atlanta, GA<br/>Austin, TX<br/>+31 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Seattle-Washington-US/Applied-AI-Scientist_2018334">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Forward Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cc197dd-14c8-4caf-b406-4a2776fb6ad8">AI Engineer</a></td>
-<td>Santa Clara<br/>Northern California</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/forwardnetworks/jobs/7822161003">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Vultr</strong></td>

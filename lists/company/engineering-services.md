@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**57 open roles.** 50 in the United States & Canada · 7 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**56 open roles.** 49 in the United States & Canada · 7 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -268,13 +268,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Holland, MI, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93786">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/893ce3ee-f2b8-4ce4-934f-228196b294a7">Civil Engineer - Transportation</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93671">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>

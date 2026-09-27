@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**88 open roles.** 71 in the United States & Canada · 17 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**84 open roles.** 67 in the United States & Canada · 17 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -165,13 +165,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Torc Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/8ae23c77-1389-48b8-84ef-b7a6ae684b11">Software Engineer, II - Data Engineering</a></td>
-<td>Ann Arbor, MI, Blacksburg, Va<br/>Blacksburg, VA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/torcrobotics/jobs/8649374002">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Ford Motor Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/c8a1306f-249e-4aa3-82d2-856db6400354">AI Engineer- Agentic AI Solutions</a></td>
 <td>Dearborn, MI, United States</td>
@@ -249,13 +242,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8d535c0d-826d-45af-b2fc-fcc5924a7fe5">Design and Release Engineer-Cockpit and Trim</a></td>
-<td>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69343">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Applied intuition</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec78e2e9-f98a-4790-8f5f-a0095595ab4a">Enterprise Security Engineer</a></td>
 <td>Sunnyvale, CA</td>
@@ -292,9 +278,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Zipline</strong></td>
-<td><a href="https://trueinterview.io/jobs/1ac2b0b5-1dcd-40e8-9390-d92f044d0eed">Engineering Technician, Powertrain</a></td>
+<td><a href="https://trueinterview.io/jobs/885bc73d-573e-4477-bc0b-be89ed8336a0">Solder Engineering Technician, Powertrain</a></td>
 <td>South San Francisco, California, USA<br/>Aviary - SSF</td>
-<td align="center"><a href="https://www.zipline.com/open-roles?gh_jid=7978929003">Apply</a></td>
+<td align="center"><a href="https://www.zipline.com/open-roles?gh_jid=7978932003">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
@@ -473,13 +459,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8a8cfd83-768e-4cbd-95c5-43c371b97580">Material Flow Engineer, Ford Energy</a></td>
-<td>Glendale, KY, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68077">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Zoox</strong></td>
 <td><a href="https://trueinterview.io/jobs/d02e0627-5814-4099-994c-66da964156a8">Embedded Software Engineer - Battery Management Systems</a></td>
 <td>San Diego, CA<br/>Foster City, CA</td>
@@ -494,14 +473,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Waabi</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d0cc918-ea0d-4fc9-9d98-517bb9ac3bf1">Bringup Electrical Engineer</a></td>
-<td>Pittsburgh, PA</td>
-<td align="center"><a href="https://jobs.lever.co/waabi/3ac83400-7d28-4ad4-8d70-88583e9af981/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Zoox</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1070992a-ff5e-4a07-b314-11dda9de704d">Mechanical Design Engineer - Sensor Cleaning</a></td>
 <td>Foster City, CA</td>
 <td align="center"><a href="https://jobs.lever.co/zoox/5027566b-0449-4f0b-8ebc-6b2205799723/apply">Apply</a></td>

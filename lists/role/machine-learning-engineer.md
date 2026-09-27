@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**44 open roles.** 35 in the United States & Canada · 9 elsewhere in the world.
+**43 open roles.** 34 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -246,13 +246,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9995ab56-0dc0-4caa-b429-f74714dad7f3">Machine Learning Engineer – Digital Intelligence</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777054">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cognition</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cbc322e-50e5-41d3-a230-314294181bb9">Research Engineer, ML Infrastructure</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cognition/b6f96827-ce14-44f4-98fa-b1b8640858b6/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>

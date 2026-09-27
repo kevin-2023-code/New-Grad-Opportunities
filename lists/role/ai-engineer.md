@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**100 open roles.** 67 in the United States & Canada · 33 elsewhere in the world.
+**97 open roles.** 64 in the United States & Canada · 33 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,13 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Richardson, TX, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44531589">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/8abc5839-4d9d-4362-8ac7-e6ebdb5db951">AI Engineer (Computer Vision/Signal Processing)</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Percepta</strong></td>
@@ -436,20 +429,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, Washington, United States of America<br/>Atlanta, GA<br/>Austin, TX<br/>+31 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Seattle-Washington-US/Applied-AI-Scientist_2018334">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Forward Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cc197dd-14c8-4caf-b406-4a2776fb6ad8">AI Engineer</a></td>
-<td>Santa Clara<br/>Northern California</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/forwardnetworks/jobs/7822161003">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/89a04dd3-90f0-4306-ac6c-275ac6d2eff4">AI Applied Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/clera/7235450e-ea39-45e2-bcd7-e431b1614a33/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Normal Computing Corporation</strong></td>

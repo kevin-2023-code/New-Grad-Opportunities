@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**137 open roles.** 103 in the United States & Canada · 34 elsewhere in the world.
+**133 open roles.** 100 in the United States & Canada · 33 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -186,21 +186,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Samsung</strong></td>
-<td><a href="https://trueinterview.io/jobs/8c2fd977-3546-418c-8995-6a48a5067cea">UX Analyst</a></td>
-<td>3245 146th Place SE, Bellevue, WA, USA, United States of America</td>
-<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/3245-146th-Place-SE-Bellevue-WA-USA/UX-Analyst_R120548">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Acorn Product Development, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a363071-8da5-47d6-9e72-09f7443b709c">Industrial Design Contractor</a></td>
-<td>Waltham, Massachusetts, United States</td>
-<td align="center"><a href="https://jobs.workable.com/view/4X1uyog4p6PHR66CJrCCZ5/hybrid-industrial-design-contractor-in-waltham-at-acorn-product-development%2C-inc.">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Benesch</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c62e1024-87c5-4680-b432-2d7a47cdcf0b">Land Development Designer</a></td>
 <td>Glastonbury, CT</td>
 <td align="center"><a href="https://www.benesch.com/job-openings/5239127007?gh_jid=5239127007">Apply</a></td>
@@ -373,13 +359,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/first-resonance/b3593940-2496-47cd-aa29-c809370005f9/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Eames Institute</strong></td>
-<td><a href="https://trueinterview.io/jobs/8841e3c0-e879-4814-a69b-231de95ea364">Junior Photographer</a></td>
-<td>Richmond, California</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/eamesinstitute/jobs/6178820004">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Caseware</strong></td>
@@ -758,13 +737,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cfb9a37-c28b-4c3d-94b2-5110220f53bd">Sound Designer</a></td>
-<td>Mexico City</td>
-<td align="center"><a href="https://www.monks.com/careers/6185801004/job?gh_jid=6185801004">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Viabill</strong></td>
 <td><a href="https://trueinterview.io/jobs/2327af7e-6d83-4387-9561-d623012673e5">Product Designer (UI/UX)</a></td>
 <td>Warsaw</td>
@@ -933,13 +905,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Telus Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a3e3260-7271-4041-b0e9-ab6a502679c8">Learning Experience Designer</a></td>
-<td>Guatemala City, Guatemala<br/>San Salvador, El Salvador</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/telus-digital/fd3d9cdb-5b78-44b8-ad31-88e561a1f4a4/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Silhouette</strong></td>
 <td><a href="https://trueinterview.io/jobs/e6a030a9-5f78-4b65-a0bc-415512b24f20">Marketing Graphic Designer</a></td>
 <td>Beverly Hills</td>
@@ -959,6 +924,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>City, Country<br/>LATAM</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/oliver/jobs/8076959">Apply</a></td>
 <td align="center">6 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Sonicwall</strong></td>
+<td><a href="https://trueinterview.io/jobs/8bc7f035-b433-42be-9b2b-16481034a437">Product Design Researcher</a></td>
+<td>Bengaluru, Karnataka, India<br/>Bangalore</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sonicwall/jobs/8103476">Apply</a></td>
+<td align="center">5 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>C6 Bank</strong></td>

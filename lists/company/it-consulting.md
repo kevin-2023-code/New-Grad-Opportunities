@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**130 open roles.** 68 in the United States & Canada · 62 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**127 open roles.** 68 in the United States & Canada · 59 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -801,13 +801,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Pingwind</strong></td>
-<td><a href="https://trueinterview.io/jobs/88a882ad-099a-48e3-88e3-f07e65b3d098">Junior Systems Administrator</a></td>
-<td>Quantico VA</td>
-<td align="center"><a href="https://jobs.lever.co/pingwind/b0dca662-2862-4b35-bbc5-d7a7405883d5/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e9cca52a-2e82-46bb-a0a1-f3205986cd2c">Intermediate Appian Developer</a></td>
 <td>Quantico VA</td>
 <td align="center"><a href="https://jobs.lever.co/pingwind/34dd101b-867b-4c59-8323-194c62c2dbd2/apply">Apply</a></td>
@@ -891,25 +884,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Telus Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a3e3260-7271-4041-b0e9-ab6a502679c8">Learning Experience Designer</a></td>
-<td>Guatemala City, Guatemala<br/>San Salvador, El Salvador</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/telus-digital/fd3d9cdb-5b78-44b8-ad31-88e561a1f4a4/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Silver.dev</strong></td>
 <td><a href="https://trueinterview.io/jobs/3ef2de1f-19ba-4d17-94e1-b5687a74cd38">Cognition - Deployed Engineer (BR/MX/AR)</a></td>
 <td>Brazil<br/>Mexico</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/silver/3212c549-df46-4edc-b9d5-d25466a01174/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Mutt Data</strong></td>
-<td><a href="https://trueinterview.io/jobs/8bc6a045-7f57-4964-baba-c3f03b05dc75">Java Back End Developer</a></td>
-<td>Argentina</td>
-<td align="center"><a href="https://jobs.lever.co/muttdata/573cc5e4-985d-4b68-9f18-d35c30b946ef/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Truelogic</strong></td>
