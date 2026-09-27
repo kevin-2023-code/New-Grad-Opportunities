@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**16 open roles.**
+**15 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -106,13 +106,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/57a93eea-8a19-46f0-81b6-c66b4b2154be">Designer - Thinkingbox</a></td>
 <td>Vancouver, BC</td>
 <td align="center"><a href="https://jobs.lever.co/thinkingbox/a90629b1-9cea-4a33-bdb8-da5e9ef55ba9/apply">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/86805430-d2c5-4378-b72b-9bcb0f7efa4c">Junior Designer - Thinkingbox</a></td>
-<td>Vancouver, BC</td>
-<td align="center"><a href="https://jobs.lever.co/thinkingbox/6d229005-9282-47bb-903b-c97fd046ac68/apply">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>

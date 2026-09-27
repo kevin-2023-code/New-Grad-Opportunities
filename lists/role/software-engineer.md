@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**356 open roles.** 252 in the United States & Canada · 104 elsewhere in the world.
+**354 open roles.** 251 in the United States & Canada · 103 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -330,13 +330,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9924589f-8509-4dc5-88c8-e586b629e2f9">Systems / Software Engineer I Graduate</a></td>
 <td>Roseville, California, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Systems---Software-Engineer-I-Graduate_1214984">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>QUALCOMM</strong></td>
-<td><a href="https://trueinterview.io/jobs/85b497e1-1fb8-4bbd-9653-a1676255b9f6">#Software Engineer - Power and Limits Management</a></td>
-<td>San Diego, CA, US</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446719426158">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -1026,6 +1019,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Applied intuition</strong></td>
+<td><a href="https://trueinterview.io/jobs/84351134-2806-48fb-aede-9b6c7b765041">Forward Deployed Engineer - New Grad (December 2026)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Sift Stack, Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/caed328d-b509-4f8d-92cc-40062f2370ba">Software Engineer – New College Graduate</a></td>
 <td>Marina Del Rey, CA</td>
@@ -1118,13 +1118,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/8719aba7-c1f9-4636-9b56-2e1a40070e92">Software Engineer, Collision Avoidance (Starshield)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8749208002?gh_jid=8749208002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d2c7295a-609e-4bde-814e-3fdea813da50">Software Engineer, HITL - Top Secret Clearance</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8749210002?gh_jid=8749210002">Apply</a></td>
@@ -1205,6 +1198,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/99a88bee-9a34-433b-91c8-074676bbd85a">Software Engineer, Marketing &amp; Web</a></td>
 <td>Bay Area</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/arena/577240cb-96fd-424f-a178-147ff5413ab1/application">Apply</a></td>
+<td align="center">27 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Domino Data Lab</strong></td>
+<td><a href="https://trueinterview.io/jobs/868e6f50-d34d-4b7c-bc12-3d2324c069da">Forward Deployed Engineer, Public Sector</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://app.careerpuck.com/job-board/domino-data-lab/job/8160818?gh_jid=8160818">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
@@ -1415,6 +1415,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3158cd87-165e-49dd-a6c4-0145f5abfa8a">Saleforce Developer</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4684380006?gh_jid=4684380006">Apply</a></td>
+<td align="center">19 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/87b30a31-f82e-4580-bc1f-4f3286ab72a4">Software Engineer, Inference (AI Data Engineering)</a></td>
+<td>Palo Alto, CA<br/>Palo Alto - 1530</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
@@ -1649,13 +1656,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>SharkNinja</strong></td>
-<td><a href="https://trueinterview.io/jobs/865772e2-13cd-48c3-962f-fcdf66f65f6d">Associate Product Developer - Floorcare</a></td>
-<td>Needham, MA, United States<br/>MA - Needham</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4701492006">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>CrowdStrike</strong></td>
 <td><a href="https://trueinterview.io/jobs/6a766ea9-4eb4-4dea-a7bf-5aa234ccb2c2">Software Engineer - Sensor, MacOS  (Hybrid)</a></td>
 <td>USA - Sunnyvale, CA, United States of America<br/>USA - Austin, TX<br/>USA - Redmond, WA</td>
@@ -1772,13 +1772,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/46068e53-2b51-4128-bd7e-22bf8d862c99">Software Engineer, Cloudflare Network Interconnect</a></td>
 <td>Austin, TX<br/>London, United Kingdom<br/>Hybrid<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751">Apply</a></td>
-<td align="center">29 Jul 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/8aca2983-97a5-4688-b517-abe526969d18">Software Engineer, Data (Starlink)</a></td>
-<td>Hawthorne, CA<br/>Redmond, WA, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8631217002?gh_jid=8631217002">Apply</a></td>
 <td align="center">29 Jul 2026</td>
 </tr>
 </tbody>
@@ -2211,13 +2204,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/df7eee05-c6c7-4564-a593-2b25322aa17a">Software Engineer - Java Spring Boot</a></td>
 <td>Pune, India</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289581">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/87e149ef-58e8-484c-be62-50e54bc0b0e7">Developer Relations Engineer - Ecosystem &amp; Product Operations</a></td>
-<td>Penang, Malaysia</td>
-<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Developer-Relations-Engineer---Ecosystem---Product-Operations_R65242">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>

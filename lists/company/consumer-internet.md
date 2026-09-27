@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**38 open roles.** 36 in the United States & Canada · 2 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**37 open roles.** 35 in the United States & Canada · 2 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -191,13 +191,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United States</td>
 <td align="center"><a href="https://jobs.lever.co/matchgroup/da9ca7cf-1270-4cd4-b676-84957a3c4381/apply">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/84a30062-4047-48bb-8573-71bfb6e0722d">Software Engineer, ML (Technical Leadership)</a></td>
-<td>Tel Aviv, Israel, IL</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1063563173314893/">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Sleeper</strong></td>

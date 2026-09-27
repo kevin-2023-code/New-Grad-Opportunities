@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**65 open roles.**
+**64 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -415,13 +415,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA<br/>Stockholm<br/>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lovable/d92292d5-a9f5-4637-9d86-77e95bf66970/application">Apply</a></td>
 <td align="center">9 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SharkNinja</strong></td>
-<td><a href="https://trueinterview.io/jobs/865772e2-13cd-48c3-962f-fcdf66f65f6d">Associate Product Developer - Floorcare</a></td>
-<td>Needham, MA, United States<br/>MA - Needham</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4701492006">Apply</a></td>
-<td align="center">7 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Man Group</strong></td>

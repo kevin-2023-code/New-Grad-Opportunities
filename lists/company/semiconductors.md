@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**299 open roles.** 295 in the United States & Canada · 4 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**297 open roles.** 293 in the United States & Canada · 4 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -326,13 +326,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/85b497e1-1fb8-4bbd-9653-a1676255b9f6">#Software Engineer - Power and Limits Management</a></td>
-<td>San Diego, CA, US</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446719426158">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/36983473-06da-461d-8498-e44eeadc0717">2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA</a></td>
 <td>Gloucester, MA, US</td>
@@ -421,13 +414,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cc7c0034-163b-4d09-a500-44f28e0aa3c2">PLC Controls Engineer</a></td>
 <td>Ann Arbor, MI, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/PLC-Controls-Engineer_2635272">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/85262538-1bce-47ab-a9a7-b3e2dc7298a3">Research Scientist - Plasma Light Source Development</a></td>
-<td>Ann Arbor, MI, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist---Plasma-Light-Source-Development_2635441">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>

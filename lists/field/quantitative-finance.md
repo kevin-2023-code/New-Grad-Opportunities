@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**18 open roles.** 10 in the United States & Canada · 8 elsewhere in the world.
+**17 open roles.** 9 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,13 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/atomic-invest/5e25b966-08aa-4095-9165-21bb657c11bf/application">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Goldman Sachs</strong></td>
-<td><a href="https://trueinterview.io/jobs/873fa250-12e9-47d6-aabe-ff1192942de7">Quantitative Strategist, Global Banking &amp; Markets, FICC Resource Management</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/182192">Apply</a></td>
-<td align="center">7 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Man Group</strong></td>

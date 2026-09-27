@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**240 open roles.** 164 in the United States & Canada · 76 elsewhere in the world. Postings the pipeline classified as remote.
+**238 open roles.** 163 in the United States & Canada · 75 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -99,13 +99,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/912b1b02-2e69-45ee-ab96-da5db7ae7f88">Solutions Engineer, Ohio (Enterprise)</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://cribl.io/job-detail/?gh_jid=6203143004">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/849168fe-768d-4794-9b23-a0f1c7bf563e">Site Reliability Engineer (SRE) - FEDRAMP  |  NIGHTS  | Remote</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer--SRE----FEDRAMP-----NIGHTS----Remote_2024247-1">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -1339,6 +1332,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">13 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Pyka</strong></td>
+<td><a href="https://trueinterview.io/jobs/86551fe1-c088-4006-8c48-9d65b7734e37">Certification and Airworthiness Specialist (Remote, US-only)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.lever.co/pyka/376cbf9b-f9c9-4381-91a6-afe0efb4be15/apply">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Hivemind Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/10a8c7cd-43b2-4232-8bc3-b4596b04f44c">Data Engineer</a> 🌐</td>
 <td>Remote — Germany</td>
@@ -1535,13 +1535,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Intelligent Technical Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/855d7fe8-adda-49c4-8802-f21918241f19">Network Administrator (Remote)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/its/jobs/7897192003">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Blue Coding</strong></td>
 <td><a href="https://trueinterview.io/jobs/d8c30b61-59cf-4b05-92a1-2c8c26c897d7">QA Automation Engineer (A)</a> 🌐</td>
 <td>Remote</td>
@@ -1602,13 +1595,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/23f3bc90-1eff-4bf6-a58f-76812912cc85">Freelance Payment Tester – Apple Pay &amp; Google Pay (Remote)</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/testlio/jobs/8129526">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Outpost</strong></td>
-<td><a href="https://trueinterview.io/jobs/879f0826-bd02-4d52-9ed2-231603542d65">Machine Learning Data Engineer (Contract)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/outpost/0653bc36-22ee-4922-aab7-5fafdf589443/application">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>

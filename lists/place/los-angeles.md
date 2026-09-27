@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**124 open roles.**
+**118 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -250,13 +250,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/86660e87-a15a-41c1-90d3-cea597371dec">RF Phased Array Engineer I</a></td>
-<td>Long Beach, CA<br/>RL Headquarters</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7996425003">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/dd43656f-f7c3-4046-994e-1a27343eebf5">Harness Design Engineer I</a></td>
 <td>Long Beach, CA<br/>RL Headquarters</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7996416003">Apply</a></td>
@@ -403,13 +396,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Cesiumastro</strong></td>
-<td><a href="https://trueinterview.io/jobs/8430474d-48eb-4f16-a5b0-169cd0e22c5b">Radiation Effects Engineer I</a></td>
-<td>El Segundo, CA</td>
-<td align="center"><a href="https://jobs.lever.co/CesiumAstro/9e51c48b-593f-4775-9484-64d2465d7cf3/apply">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Field AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/f12fa9f1-1f85-4473-be19-e39527978e26">Software Integration Engineer - Federal</a></td>
 <td>Irvine, CA</td>
@@ -544,13 +530,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8719aba7-c1f9-4636-9b56-2e1a40070e92">Software Engineer, Collision Avoidance (Starshield)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8749208002?gh_jid=8749208002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d2c7295a-609e-4bde-814e-3fdea813da50">Software Engineer, HITL - Top Secret Clearance</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8749210002?gh_jid=8749210002">Apply</a></td>
@@ -562,13 +541,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8749199002?gh_jid=8749199002">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/854f9f4c-933f-43e5-831c-4898a7f97a52">Design Criteria Engineer (Starship)</a></td>
-<td>Hawthorne, CA<br/>Starbase, TX<br/>Brownsville, TX, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8760091002?gh_jid=8760091002">Apply</a></td>
-<td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Cohere</strong></td>
@@ -760,14 +732,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Varda Space Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/84ea7d72-c05b-4804-8083-81a93d310179">Mission Operations Engineer, Python</a></td>
-<td>El Segundo, California, United States<br/>225 S Aviation</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/7854791003">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hadrian Automation</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/daa0f876-de35-4440-96b5-b3fa9b652ea0">Data Engineer</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/ece57d19-3718-41d9-8647-3448fcf94849/application">Apply</a></td>
@@ -877,13 +842,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8640537002?gh_jid=8640537002">Apply</a></td>
 <td align="center">30 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8aca2983-97a5-4688-b517-abe526969d18">Software Engineer, Data (Starlink)</a></td>
-<td>Hawthorne, CA<br/>Redmond, WA, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8631217002?gh_jid=8631217002">Apply</a></td>
-<td align="center">29 Jul 2026</td>
 </tr>
 </tbody>
 </table>

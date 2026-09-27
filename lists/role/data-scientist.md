@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**41 open roles.** 26 in the United States & Canada · 15 elsewhere in the world.
+**40 open roles.** 25 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -30,13 +30,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, ON<br/>Toronto, Canada</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Field-Data-Scientist_R-291566">Apply</a></td>
 <td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/85d8090d-fe62-4689-b71b-1a08b5ce9e46">Data Scientist New College Grad- Bachelor's/Master's (Austin, TX)</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318333503">Apply</a></td>
-<td align="center">24 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>MLSE</strong></td>

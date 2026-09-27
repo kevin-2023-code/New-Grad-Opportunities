@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**24 open roles.** 11 in the United States & Canada · 13 elsewhere in the world.
+**25 open roles.** 11 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -106,6 +106,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cabify</strong></td>
+<td><a href="https://trueinterview.io/jobs/85b03b34-814b-4814-b6db-d03477b77c2d">Software Engineer - Backend + AI</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://4dayweek.io/job/software-engineer-backend-ai-at-cabify-d4827e17">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Heidi Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac5f91de-a22b-44d0-a378-f9e0238613d7">Backend Software Engineer - New Bets</a></td>

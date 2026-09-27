@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**63 open roles.** 36 in the United States & Canada · 27 elsewhere in the world. A real classification that none of the other sectors covers.
+**62 open roles.** 35 in the United States & Canada · 27 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -247,13 +247,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York City</td>
 <td align="center"><a href="https://www.fanduel.careers/open-positions?gh_jid=8120545">Apply</a></td>
 <td align="center">10 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Top Hat</strong></td>
-<td><a href="https://trueinterview.io/jobs/87363ca8-3e3d-4431-9ddc-a9fb7c53ffa2">Junior Analytics Engineer</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/top-hat/86f97853-9b2b-433e-9077-e977cf00e43b/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Lessen</strong></td>

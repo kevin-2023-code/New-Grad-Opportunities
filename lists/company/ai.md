@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**206 open roles.** 174 in the United States & Canada · 32 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**205 open roles.** 173 in the United States & Canada · 32 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -660,13 +660,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lm-studio/0a18f160-9671-43d0-91a3-f3d132db256f/application">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>CoreWeave</strong></td>
-<td><a href="https://trueinterview.io/jobs/84f2004e-094f-4494-9c16-f18d134e2d50">Production Engineer, Support Tooling (Tooling and Frameworks)</a></td>
-<td>Bellevue, WA</td>
-<td align="center"><a href="https://coreweave.com/careers/job?4708261006&amp;board=coreweave&amp;gh_jid=4708261006">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Field AI</strong></td>

@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**162 open roles.** 145 in the United States & Canada · 17 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**159 open roles.** 143 in the United States & Canada · 16 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/849168fe-768d-4794-9b23-a0f1c7bf563e">Site Reliability Engineer (SRE) - FEDRAMP  |  NIGHTS  | Remote</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer--SRE----FEDRAMP-----NIGHTS----Remote_2024247-1">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Keysight</strong></td>
 <td><a href="https://trueinterview.io/jobs/656ce3fc-44f6-4eec-baa6-d9f8fcb641ad">Solution Engineer - NAS, Recent Graduate</a></td>
@@ -320,9 +313,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/844fdb8e-95e7-4714-a593-fb742a1b26e3">Optical Hardware Engineer (Sunnyvale, CA.)</a></td>
-<td>Sunnyvale, California, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Optical-Hardware-Engineer--Sunnyvale--CA-_1211922-2">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/870b74ec-cc73-4c2a-90b7-e63ad48eac9f">HPC Technical Consultant, Onsite (LANL) Los Alamos, NM</a></td>
+<td>All, New Mexico, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-New-Mexico-United-States-of-America/HPC-Technical-Consultant--Onsite--LANL--Los-Alamos--NM_1207025">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -963,13 +956,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>SharkNinja</strong></td>
-<td><a href="https://trueinterview.io/jobs/865772e2-13cd-48c3-962f-fcdf66f65f6d">Associate Product Developer - Floorcare</a></td>
-<td>Needham, MA, United States<br/>MA - Needham</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4701492006">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Amax</strong></td>
 <td><a href="https://trueinterview.io/jobs/8dcb8011-c93f-4b71-984c-022dfe6d762a">Quality Engineer</a></td>
 <td>Fremont, California, United States</td>
@@ -1106,13 +1092,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Budapest, Hungary</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8180700/apply/?gh_jid=8180700">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/87e149ef-58e8-484c-be62-50e54bc0b0e7">Developer Relations Engineer - Ecosystem &amp; Product Operations</a></td>
-<td>Penang, Malaysia</td>
-<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Developer-Relations-Engineer---Ecosystem---Product-Operations_R65242">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Ciena</strong></td>

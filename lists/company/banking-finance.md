@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**71 open roles.** 32 in the United States & Canada · 39 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**70 open roles.** 31 in the United States & Canada · 39 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -93,13 +93,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, Ontario</td>
 <td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/ServiceNow-Junior-Developer_JR00125721">Apply</a></td>
 <td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Goldman Sachs</strong></td>
-<td><a href="https://trueinterview.io/jobs/873fa250-12e9-47d6-aabe-ff1192942de7">Quantitative Strategist, Global Banking &amp; Markets, FICC Resource Management</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/182192">Apply</a></td>
-<td align="center">7 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>BMO</strong></td>

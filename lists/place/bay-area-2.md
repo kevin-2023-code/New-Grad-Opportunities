@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**447 open roles.**
+**444 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,20 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Verse</strong></td>
-<td><a href="https://trueinterview.io/jobs/b92164a0-7eb6-47a1-b235-247733d20201">Software Engineer, Distributed Systems</a></td>
-<td>San Francisco, CA<br/>US-San Francisco</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/verse/jobs/5383955008">Apply</a></td>
-<td align="center">9 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/ebfa7b6d-4a02-4f8d-96f8-d75352967da8">OFS Developer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/clera/8dd459c0-e188-4633-ba55-5c5e03808e98/application">Apply</a></td>
-<td align="center">9 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/97b2172d-47ee-4933-99bf-a22e469e871e">Early Career Mechanical Engineer - Buildings</a></td>
@@ -69,13 +55,6 @@
 <td><a href="https://trueinterview.io/jobs/891ba09a-cf62-4d38-a887-2c09115d381d">Android Systems Engineer, Consumer Devices</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/b08126cc-8134-45f0-aeb3-4b00e96547de/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Sciforium</strong></td>
-<td><a href="https://trueinterview.io/jobs/87310dd5-056c-44b9-9def-59ab91e9a307">GPU Cluster Engineer, Networking</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sciforium/2def66ac-5273-4730-86c0-b8ac0f045acb/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>

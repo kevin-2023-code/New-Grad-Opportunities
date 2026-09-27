@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**47 open roles.** 37 in the United States & Canada · 10 elsewhere in the world.
+**44 open roles.** 35 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -214,13 +214,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/84a30062-4047-48bb-8573-71bfb6e0722d">Software Engineer, ML (Technical Leadership)</a></td>
-<td>Tel Aviv, Israel, IL</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1063563173314893/">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/addee22f-4017-422d-b97c-d4700689115c">NVIDIA 2027 Internships: Deep Learning</a></td>
 <td>Santa Clara, CA, US</td>
@@ -240,13 +233,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto Hybrid<br/>NYC Hybrid</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/gptzero/d0b64cd5-101a-4581-a101-5f1d6a62d14e/application">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Mill</strong></td>
-<td><a href="https://trueinterview.io/jobs/86dc5075-ee8e-4b67-8fab-0234b27535da">Computer Vision Engineer</a></td>
-<td>San Bruno, California<br/>Mill</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/mill/jobs/4723231005">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Applied intuition</strong></td>
@@ -343,13 +329,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Greece<br/>Europe</td>
 <td align="center"><a href="https://moduscreate.com/careers/7978821003?gh_jid=7978821003">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Outpost</strong></td>
-<td><a href="https://trueinterview.io/jobs/879f0826-bd02-4d52-9ed2-231603542d65">Machine Learning Data Engineer (Contract)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/outpost/0653bc36-22ee-4922-aab7-5fafdf589443/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Exa</strong></td>

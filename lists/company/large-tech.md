@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**236 open roles.** 186 in the United States & Canada · 50 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**234 open roles.** 184 in the United States & Canada · 50 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -802,13 +802,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>CoreWeave</strong></td>
-<td><a href="https://trueinterview.io/jobs/84f2004e-094f-4494-9c16-f18d134e2d50">Production Engineer, Support Tooling (Tooling and Frameworks)</a></td>
-<td>Bellevue, WA</td>
-<td align="center"><a href="https://coreweave.com/careers/job?4708261006&amp;board=coreweave&amp;gh_jid=4708261006">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Anthropic</strong></td>
 <td><a href="https://trueinterview.io/jobs/d8093b28-2ebb-4bcf-8fcf-fee7fe33a41b">IT Systems Engineer, Mobile Client Platform Engineer</a> 🌐</td>
 <td>Remote — United States</td>
@@ -1205,13 +1198,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/16f0e452-e066-4773-8dc4-dd6c50545a22">AI Tutor - Czech</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207418007">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SharkNinja</strong></td>
-<td><a href="https://trueinterview.io/jobs/865772e2-13cd-48c3-962f-fcdf66f65f6d">Associate Product Developer - Floorcare</a></td>
-<td>Needham, MA, United States<br/>MA - Needham</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4701492006">Apply</a></td>
 <td align="center">7 Aug 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**79 open roles.** 77 in the United States & Canada · 2 elsewhere in the world.
+**77 open roles.** 75 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -123,13 +123,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/8403f79e-26cf-4cdd-af47-7d84924e4ab4">Hardware Dev. Engineer I (Electrical), One Materials Handling System (OMHS)</a></td>
-<td>Bellevue, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553866/hardware-dev-engineer-i-electrical-one-materials-handling-system-omhs">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3d81524-7341-4154-9421-721346806508">ASIC Design Verification Eng II Full Time - United States</a></td>
 <td>San Jose, California, US, United States of America<br/>RTP, North Carolina, US</td>
@@ -169,13 +162,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e21101d1-6a8d-44ae-9e37-402b77cf2ff4">ASIC Design Verification Engineer, Google Cloud</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/77174102632080070-asic-design-verification-engineer-google-cloud">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/844fdb8e-95e7-4714-a593-fb742a1b26e3">Optical Hardware Engineer (Sunnyvale, CA.)</a></td>
-<td>Sunnyvale, California, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Optical-Hardware-Engineer--Sunnyvale--CA-_1211922-2">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

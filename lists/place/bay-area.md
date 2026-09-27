@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**447 open roles.**
+**444 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -822,13 +822,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a1a16349-a1dd-46b0-878a-0fe516f96ce7">Product Design Engineer, Pixel Earbuds</a></td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/112624297326846662-product-design-engineer-pixel-earbuds">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/844fdb8e-95e7-4714-a593-fb742a1b26e3">Optical Hardware Engineer (Sunnyvale, CA.)</a></td>
-<td>Sunnyvale, California, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Optical-Hardware-Engineer--Sunnyvale--CA-_1211922-2">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -2729,13 +2722,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Mill</strong></td>
-<td><a href="https://trueinterview.io/jobs/86dc5075-ee8e-4b67-8fab-0234b27535da">Computer Vision Engineer</a></td>
-<td>San Bruno, California<br/>Mill</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/mill/jobs/4723231005">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Applied intuition</strong></td>
 <td><a href="https://trueinterview.io/jobs/a93ef964-b3b6-46a8-914a-372cc5c07742">Machine Learning Performance Engineer - Offboard Training &amp; Inference</a></td>
 <td>Sunnyvale, CA</td>
@@ -2818,6 +2804,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Mountain View, CA<br/>HQ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/lunarenergy/jobs/6140237004">Apply</a></td>
 <td align="center">10 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Verse</strong></td>
+<td><a href="https://trueinterview.io/jobs/b92164a0-7eb6-47a1-b235-247733d20201">Software Engineer, Distributed Systems</a></td>
+<td>San Francisco, CA<br/>US-San Francisco</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verse/jobs/5383955008">Apply</a></td>
+<td align="center">9 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Clera</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebfa7b6d-4a02-4f8d-96f8-d75352967da8">OFS Developer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/clera/8dd459c0-e188-4633-ba55-5c5e03808e98/application">Apply</a></td>
+<td align="center">9 Aug 2026</td>
 </tr>
 </tbody>
 </table>

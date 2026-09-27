@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**30 open roles.** 27 in the United States & Canada · 3 elsewhere in the world.
+**28 open roles.** 25 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -60,25 +60,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/85ae8518-c721-4100-8374-daa79b85f1a2">Applied Scientist - Amazon Robotics, Amazon Robotics - Vulcan Stow</a></td>
-<td>US, WA, Seattle</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553505/applied-scientist-amazon-robotics-amazon-robotics-vulcan-stow">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/fe7db549-bc9b-4457-b556-4f20d7a9474b">Research Scientist, Networking Research - PhD New College Grad 2026</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397526517">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/85262538-1bce-47ab-a9a7-b3e2dc7298a3">Research Scientist - Plasma Light Source Development</a></td>
-<td>Ann Arbor, MI, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist---Plasma-Light-Source-Development_2635441">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Spotify</strong></td>

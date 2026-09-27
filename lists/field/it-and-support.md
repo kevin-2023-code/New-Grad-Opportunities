@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**141 open roles.** 102 in the United States & Canada · 39 elsewhere in the world.
+**143 open roles.** 105 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -162,6 +162,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/04ab7bc8-4fa4-4fea-98f7-0ab6215bce0e">Computer Support Specialist</a></td>
 <td>New York, NY<br/>Chicago, IL<br/>Plano, TX</td>
 <td align="center"><a href="https://jobs.lever.co/dadavidson/899a1106-ba6a-4c4a-bb9b-6980c18226fe/apply">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/870b74ec-cc73-4c2a-90b7-e63ad48eac9f">HPC Technical Consultant, Onsite (LANL) Los Alamos, NM</a></td>
+<td>All, New Mexico, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-New-Mexico-United-States-of-America/HPC-Technical-Consultant--Onsite--LANL--Los-Alamos--NM_1207025">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -634,6 +641,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/87a75e82-88c4-4fa3-8c2c-d114c954ba39">Oracle Cloud HCM Absence Management Specialist</a></td>
+<td>Washington, DC<br/>Arlington, VA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4704717006?gh_jid=4704717006">Apply</a></td>
+<td align="center">12 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Makpar</strong></td>
 <td><a href="https://trueinterview.io/jobs/e936e307-f6dd-4715-83a9-db0ef740c822">Application Systems Admin</a> 🌐</td>
 <td>Remote — United States</td>
@@ -673,6 +687,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/21b1ec29-0d90-4dbc-a879-4557def818bb">Security Engineer (Active Top Secret Clearance)</a></td>
 <td>Herndon, VA</td>
 <td align="center"><a href="https://jobs.lever.co/uvcyber/3a5a2754-0dfc-4b72-86d3-67ba88f997fd/apply">Apply</a></td>
+<td align="center">11 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Huntress</strong></td>
+<td><a href="https://trueinterview.io/jobs/851c05e6-797b-40a4-882d-4e99bef8bbf9">SOC Support Specialist- Pacific or MountainTime Zone, Weekend Shift</a></td>
+<td>United States of America</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/huntress/jobs/7855135003">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
@@ -952,13 +973,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/moxie/97b464c8-bdf0-4ea0-a30e-6a6fcf2dd326/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Intelligent Technical Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/855d7fe8-adda-49c4-8802-f21918241f19">Network Administrator (Remote)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/its/jobs/7897192003">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Spektrum</strong></td>

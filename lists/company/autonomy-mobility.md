@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**87 open roles.** 71 in the United States & Canada · 16 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**88 open roles.** 71 in the United States & Canada · 17 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -553,6 +553,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/glydways/jobs/5238232007">Apply</a></td>
 <td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Pyka</strong></td>
+<td><a href="https://trueinterview.io/jobs/86551fe1-c088-4006-8c48-9d65b7734e37">Certification and Airworthiness Specialist (Remote, US-only)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.lever.co/pyka/376cbf9b-f9c9-4381-91a6-afe0efb4be15/apply">Apply</a></td>
+<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Applied intuition</strong></td>

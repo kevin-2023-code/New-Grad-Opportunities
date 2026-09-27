@@ -2,13 +2,15 @@
 
 # 🔧 Hardware & Engineering
 
-**399 open roles.** 369 in the United States & Canada · 30 elsewhere in the world.
+**401 open roles.** 370 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
 > Every posting the catalog classified into the Hardware & Engineering field. A posting is in exactly one field, so these six pages hold the whole list between them.
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
+
+<sub>Page 1 of 2 · [Page 2 →](hardware-and-engineering-2.md)</sub>
 
 ## United States & Canada
 
@@ -85,6 +87,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fdf8bc5a-771b-49d9-bca1-75355739ea19">Quality Engineer</a></td>
 <td>Toronto, ON<br/>Toronto, Canada</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8187448?t=gh_src=&amp;gh_jid=8187448">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/83d380bf-c6c9-4ba7-99d4-b5b9747b8d7b">Graduate - Quality Control Engineer</a></td>
+<td>Leominster, MA, US</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808972068062">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -326,13 +335,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/862fdcdd-2e2c-41e2-937a-51bebe3e43f0">CAD Engineer</a></td>
-<td>Richardson, TX, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/42328538">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>VMware</strong></td>
 <td><a href="https://trueinterview.io/jobs/77ada88d-9309-4794-9257-0c72d37f5262">Emulation Engineer</a></td>
 <td>USA-CA San Jose Innovation Drive, United States of America</td>
@@ -421,13 +423,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6772ec4a-c41c-4ea7-b9f3-3a63b41aa65b">Field Service Engineer - Orlando</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8214452/apply/?gh_jid=8214452">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/8403f79e-26cf-4cdd-af47-7d84924e4ab4">Hardware Dev. Engineer I (Electrical), One Materials Handling System (OMHS)</a></td>
-<td>Bellevue, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553866/hardware-dev-engineer-i-electrical-one-materials-handling-system-omhs">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -613,13 +608,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/844fdb8e-95e7-4714-a593-fb742a1b26e3">Optical Hardware Engineer (Sunnyvale, CA.)</a></td>
-<td>Sunnyvale, California, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Optical-Hardware-Engineer--Sunnyvale--CA-_1211922-2">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/4dec7685-60fe-41e8-aa6c-2ab67124ae78">Thin Films Module Development Engineer</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
@@ -715,6 +703,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/576efad4-b09c-4544-a21e-d726a024b188">Hardware Engineer I (Full Time) - United States</a></td>
 <td>San Jose, California, US, United States of America<br/>Austin, TX<br/>Austin, Texas, US<br/>+2 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Full-Time----United-States_2024649">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/87b7b592-7121-40d0-98a3-22d1713ac439">Back End( BE) Process Integration Engineer</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Back-End--BE--Process-Integration-Engineer_JR0286141">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -971,6 +966,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/845fcd5d-27de-4fdc-a47f-2e35fb446217">Entry Level Assistant Transmission Line Engineer</a></td>
+<td>Overland Park, KS, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95109">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/17cdda7b-c574-4e4b-9b5a-98d04baaad9e">Early Career Substation Assistant Electrical Engineer</a></td>
 <td>Overland Park, KS, United States<br/>Fort Worth, TX, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95107">Apply</a></td>
@@ -2076,6 +2078,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>World View Enterprises Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/8596ba47-f009-474c-813c-aa5a1e10f1d2">Mechanical Designer</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://jobs.lever.co/world-view-enterprises-inc./5f3716d8-fab1-4734-bca7-48ffa1e006e8/apply">Apply</a></td>
+<td align="center">17 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Field AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/258bda5e-f4fb-4606-831a-8988067c8c93">Field Application Engineer (Off-Road Vehicles) - Irvine, CA</a></td>
 <td>Irvine, CA</td>
@@ -2676,6 +2685,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Pyka</strong></td>
+<td><a href="https://trueinterview.io/jobs/86551fe1-c088-4006-8c48-9d65b7734e37">Certification and Airworthiness Specialist (Remote, US-only)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.lever.co/pyka/376cbf9b-f9c9-4381-91a6-afe0efb4be15/apply">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Gdh</strong></td>
 <td><a href="https://trueinterview.io/jobs/c15d5aa4-e85c-4725-8e36-4dac369c5ea2">Mechanical Engineer - Water, Expression of Interest</a></td>
 <td>AUCKLAND, New Zealand</td>
@@ -2815,14 +2831,9 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/b8bfbcb7-b641-4901-9b59-04529cc7d4cd/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/df9ff0dd-6a3d-4ac9-a5e4-63998af5cd9a">Module Reliability Engineer - Imaging and Sensing</a></td>
-<td>Cupertino</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200674882-0836/module-reliability-engineer-imaging-and-sensing">Apply</a></td>
-<td align="center">30 Jul 2026</td>
-</tr>
 </tbody>
 </table>
+
+<sub>Page 1 of 2 · [Page 2 →](hardware-and-engineering-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

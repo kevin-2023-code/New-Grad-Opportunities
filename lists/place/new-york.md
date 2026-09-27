@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**158 open roles.**
+**157 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -513,13 +513,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US - New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817/application">Apply</a></td>
 <td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Goldman Sachs</strong></td>
-<td><a href="https://trueinterview.io/jobs/873fa250-12e9-47d6-aabe-ff1192942de7">Quantitative Strategist, Global Banking &amp; Markets, FICC Resource Management</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/182192">Apply</a></td>
-<td align="center">7 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Savvy Wealth</strong></td>

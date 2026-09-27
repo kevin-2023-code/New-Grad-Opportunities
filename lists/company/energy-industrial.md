@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**38 open roles.** 33 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**37 open roles.** 32 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -72,13 +72,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>York, PA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/oldcastlebuildingenvelope/jobs/4400901009">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Altalink</strong></td>
-<td><a href="https://trueinterview.io/jobs/87d2cb1b-2ed6-4f2b-a1cf-d8c447cdfa14">Substation Technologist</a></td>
-<td>Acheson, Alberta, Canada</td>
-<td align="center"><a href="https://jobs.workable.com/view/9DkdtDDfV5VgAGhWT1cS2S/substation-technologist-in-acheson-at-altalink">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Captiveaire</strong></td>

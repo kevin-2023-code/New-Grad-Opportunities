@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**139 open roles.** 105 in the United States & Canada · 34 elsewhere in the world.
+**137 open roles.** 103 in the United States & Canada · 34 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -550,13 +550,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>World View Enterprises Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/8596ba47-f009-474c-813c-aa5a1e10f1d2">Mechanical Designer</a></td>
-<td>Irvine, CA</td>
-<td align="center"><a href="https://jobs.lever.co/world-view-enterprises-inc./5f3716d8-fab1-4734-bca7-48ffa1e006e8/apply">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Vizcom</strong></td>
 <td><a href="https://trueinterview.io/jobs/7420f369-d315-410f-9590-09198cd26467">Creative Adovcate</a></td>
 <td>San Francisco, CA</td>
@@ -631,13 +624,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/57a93eea-8a19-46f0-81b6-c66b4b2154be">Designer - Thinkingbox</a></td>
 <td>Vancouver, BC</td>
 <td align="center"><a href="https://jobs.lever.co/thinkingbox/a90629b1-9cea-4a33-bdb8-da5e9ef55ba9/apply">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/86805430-d2c5-4378-b72b-9bcb0f7efa4c">Junior Designer - Thinkingbox</a></td>
-<td>Vancouver, BC</td>
-<td align="center"><a href="https://jobs.lever.co/thinkingbox/6d229005-9282-47bb-903b-c97fd046ac68/apply">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>

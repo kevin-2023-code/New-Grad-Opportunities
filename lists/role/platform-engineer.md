@@ -2,7 +2,7 @@
 
 # Platform Engineer
 
-**30 open roles.** 20 in the United States & Canada · 10 elsewhere in the world.
+**29 open roles.** 19 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Menlo Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/8454e2d1-244a-464d-b913-a7a89a3fab13">Platform Infrastructure Engineer (SRE Core)</a></td>
-<td>US - Distributed</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/menlosecurity/56ed8b53-8b4d-49a1-bd1e-bce39b8fc132/application">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Bet365</strong></td>
 <td><a href="https://trueinterview.io/jobs/d3ac207f-c845-46e0-8b37-3e79ef88d890">Cloud Platform Engineer</a></td>

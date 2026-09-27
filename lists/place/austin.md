@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**122 open roles.**
+**119 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/876f866c-c433-479a-94bc-44418fb2ceed">Full Stack Software Engineer, Internal Applications</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8848604002?gh_jid=8848604002">Apply</a></td>
-<td align="center">26 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/d5c0dce5-0e6e-49d8-abba-e7dbd038e082">Software Engineer, Energy Management</a></td>
@@ -683,13 +676,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/84b435fb-a481-405b-abb8-566645c5c1ac">BAW Device Engineer (Starlink/Akoustis)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8728515002?gh_jid=8728515002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>SonarSource</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec014430-2db0-4126-b0f3-2676295c7192">Customer Success Engineer - America</a></td>
 <td>Austin, TX<br/>Austin, Texas</td>
@@ -845,13 +831,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/859e386d-f97d-4f98-a09e-330cc0d657ab">Fluid Systems Engineer, Solar Cell Factory (Starlink)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8672670002?gh_jid=8672670002">Apply</a></td>
-<td align="center">3 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/eefcceb1-6250-4375-a72f-4b2347dc4f32">Manufacturing Engineer, Next-Gen Compute Systems (Starlink)</a></td>
 <td>Bastrop, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8658511002?gh_jid=8658511002">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**14 open roles.** 10 in the United States & Canada · 4 elsewhere in the world.
+**13 open roles.** 9 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/849168fe-768d-4794-9b23-a0f1c7bf563e">Site Reliability Engineer (SRE) - FEDRAMP  |  NIGHTS  | Remote</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer--SRE----FEDRAMP-----NIGHTS----Remote_2024247-1">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/8a0f4bdd-aa2a-429d-884f-06070f8c1285">Site Reliability Engineer</a></td>

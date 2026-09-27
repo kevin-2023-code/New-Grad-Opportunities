@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**340 open roles.** 264 in the United States & Canada · 76 elsewhere in the world. Everything the employers put up this week.
+**334 open roles.** 258 in the United States & Canada · 76 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/876f866c-c433-479a-94bc-44418fb2ceed">Full Stack Software Engineer, Internal Applications</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8848604002?gh_jid=8848604002">Apply</a></td>
-<td align="center">26 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/475bbc77-5032-48ec-88d0-7f9e8f19369b">Building Sciences Technologist</a></td>
@@ -141,13 +134,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dcb34318-8df9-411c-a347-f01e6b241fd6">X-Ray Technologist/CT Positioning</a></td>
 <td>Arizona<br/>6185 Paseo Del Norte, Carlsbad, CA 92011</td>
 <td align="center"><a href="https://jobs.lever.co/simonmed/039720b2-11ba-4758-bfbb-a85040f02089/apply">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Menlo Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/8454e2d1-244a-464d-b913-a7a89a3fab13">Platform Infrastructure Engineer (SRE Core)</a></td>
-<td>US - Distributed</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/menlosecurity/56ed8b53-8b4d-49a1-bd1e-bce39b8fc132/application">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -687,13 +673,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/85d8090d-fe62-4689-b71b-1a08b5ce9e46">Data Scientist New College Grad- Bachelor's/Master's (Austin, TX)</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318333503">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/849168fe-768d-4794-9b23-a0f1c7bf563e">Site Reliability Engineer (SRE) - FEDRAMP  |  NIGHTS  | Remote</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer--SRE----FEDRAMP-----NIGHTS----Remote_2024247-1">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -1677,13 +1656,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Meter</strong></td>
-<td><a href="https://trueinterview.io/jobs/873eb5c9-8224-4844-b51b-47f9ee030566">Firmware Engineer, Data Center</a></td>
-<td>San Francisco or Sunnyvale</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/meter/3883b996-d880-4205-87a9-7e3dce3c23fb/application">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>xAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/ea69230c-6c2d-41a0-b1a3-1456d1144df6">Fluids Engineer (Power Generation) - Memphis</a></td>
 <td>Southaven, MS<br/>Memphis, TN</td>
@@ -1810,13 +1782,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/85b497e1-1fb8-4bbd-9653-a1676255b9f6">#Software Engineer - Power and Limits Management</a></td>
-<td>San Diego, CA, US</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446719426158">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Bloomberg</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3e12709-20a8-4686-b124-6ed207309db3">Technical Trainer - Software Engineering</a></td>
 <td>New York, NY<br/>New York, New York, United States of America</td>
@@ -1857,13 +1822,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Gloucester, MA, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790317913273">Apply</a></td>
 <td align="center">20 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/cbe2eb01-5866-4649-ab42-c6845017a9a5">Electrical Engineer, Battery (Falcon &amp; Dragon)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8825367002?gh_jid=8825367002">Apply</a></td>
-<td align="center">19 Sep 2026</td>
 </tr>
 </tbody>
 </table>

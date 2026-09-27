@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**131 open roles.** 67 in the United States & Canada · 64 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**130 open roles.** 68 in the United States & Canada · 62 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -278,6 +278,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8539a2a3-8b0b-4b42-afe5-c1a6265d4650">Associate Talent Program</a> 🛂</td>
+<td>US - Dallas<br/>Dallas, TX</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8152949">Apply</a></td>
+<td align="center">24 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1129397c-3f7e-426d-9e9c-89c6c11dff37">Capco Associate Talent Program - Dallas June 2027</a></td>
 <td>US - Dallas</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8108838">Apply</a></td>
@@ -382,17 +389,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/86805430-d2c5-4378-b72b-9bcb0f7efa4c">Junior Designer - Thinkingbox</a></td>
-<td>Vancouver, BC</td>
-<td align="center"><a href="https://jobs.lever.co/thinkingbox/6d229005-9282-47bb-903b-c97fd046ac68/apply">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Accenture Federal Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/37916a7c-f339-4444-95d1-143aef9ac759">Oracle Cloud HCM HR HelpDesk Specialist</a></td>
 <td>Washington, DC<br/>Arlington, VA</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4704739006?gh_jid=4704739006">Apply</a></td>
+<td align="center">12 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/87a75e82-88c4-4fa3-8c2c-d114c954ba39">Oracle Cloud HCM Absence Management Specialist</a></td>
+<td>Washington, DC<br/>Arlington, VA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4704717006?gh_jid=4704717006">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
@@ -591,13 +598,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>PwC</strong></td>
-<td><a href="https://trueinterview.io/jobs/84bd9c78-3fc6-44e9-962a-4d3b85981bb4">Data Engineer / FCU Technology Team</a></td>
-<td>8 Locations</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Senior-Data-Engineer---FCU-Technology-Team_715408WD">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/97a7d6b9-870e-4e73-beac-cad70ef50c5c">Data Scientist</a></td>
 <td>2 Locations</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Data-Scientist_753895WD">Apply</a></td>
@@ -854,13 +854,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City, Mexico City, Mexico<br/>Mexico, Mexico</td>
 <td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4706843006">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Intelligent Technical Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/855d7fe8-adda-49c4-8802-f21918241f19">Network Administrator (Remote)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/its/jobs/7897192003">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Blue Coding</strong></td>

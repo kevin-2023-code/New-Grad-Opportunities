@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**71 open roles.** 46 in the United States & Canada · 25 elsewhere in the world.
+**69 open roles.** 46 in the United States & Canada · 23 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6d658af9-591d-4b44-a6fc-c6eca79868e9">Data Engineer, Early Career - 2026 (CAN)</a></td>
 <td>CA, ON, Toronto</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/85d8090d-fe62-4689-b71b-1a08b5ce9e46">Data Scientist New College Grad- Bachelor's/Master's (Austin, TX)</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318333503">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -319,13 +326,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Top Hat</strong></td>
-<td><a href="https://trueinterview.io/jobs/87363ca8-3e3d-4431-9ddc-a9fb7c53ffa2">Junior Analytics Engineer</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/top-hat/86f97853-9b2b-433e-9077-e977cf00e43b/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Ostium Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/cbee6b3c-7822-410a-b895-24cca80d83da">Data Engineer</a></td>
 <td>New York City</td>
@@ -394,13 +394,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>PwC</strong></td>
-<td><a href="https://trueinterview.io/jobs/84bd9c78-3fc6-44e9-962a-4d3b85981bb4">Data Engineer / FCU Technology Team</a></td>
-<td>8 Locations</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Senior-Data-Engineer---FCU-Technology-Team_715408WD">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Inter Carreiras</strong></td>
 <td><a href="https://trueinterview.io/jobs/dcfe7715-bae3-4291-9dee-f2aed5bf1ca4">DATA ENGINEER II | MARKETING STRATEGY MG</a></td>
 <td>Belo Horizonte, MG<br/>BANCO INTER</td>
@@ -455,13 +448,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Montpellier</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Montpellier/Data-Engineer-expriment-F-H_759196WD">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Serverfarm</strong></td>
-<td><a href="https://trueinterview.io/jobs/87ae7ab0-c1e3-435d-9b47-230994dae3f6">Junior Data Center Shift Engineer</a></td>
-<td>Amsterdam<br/>AMS1</td>
-<td align="center"><a href="https://jobs.lever.co/serverfarm/acbcb1c3-0a33-4fcf-8083-215a7ed6d184/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Ci&amp;t</strong></td>

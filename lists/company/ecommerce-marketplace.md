@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**58 open roles.** 36 in the United States & Canada · 22 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**56 open roles.** 34 in the United States & Canada · 22 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -75,13 +75,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/85ae8518-c721-4100-8374-daa79b85f1a2">Applied Scientist - Amazon Robotics, Amazon Robotics - Vulcan Stow</a></td>
-<td>US, WA, Seattle</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553505/applied-scientist-amazon-robotics-amazon-robotics-vulcan-stow">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cb87b2c7-cdd8-4f93-93ed-b40f7f2b14fa">Front-End Engineer, Core Shopping</a></td>
 <td>US, WA, Seattle</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10553458/front-end-engineer-core-shopping">Apply</a></td>
@@ -92,13 +85,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c9b23cbd-184e-4cbe-93ca-7ff430fc0533">Software Development Engineer, Prime Video ML Infrastructure</a></td>
 <td>US, WA, Seattle</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10553195/software-development-engineer-prime-video-ml-infrastructure">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8403f79e-26cf-4cdd-af47-7d84924e4ab4">Hardware Dev. Engineer I (Electrical), One Materials Handling System (OMHS)</a></td>
-<td>Bellevue, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553866/hardware-dev-engineer-i-electrical-one-materials-handling-system-omhs">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**22 open roles.**
+**23 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -107,6 +107,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Texas - Dallas<br/>Georgia - Atlanta, United States of America<br/>Illinois - Chicago<br/>+8 more</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Forward-Deployed-Engineer--FDE----Agentforce-Orchestration_JR357427">Apply</a></td>
 <td align="center">25 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Capco</strong></td>
+<td><a href="https://trueinterview.io/jobs/8539a2a3-8b0b-4b42-afe5-c1a6265d4650">Associate Talent Program</a> 🛂</td>
+<td>Dallas, TX<br/>US - Dallas</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8152949">Apply</a></td>
+<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Goldman Sachs</strong></td>

@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**101 open roles.**
+**97 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -152,13 +152,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/85ae8518-c721-4100-8374-daa79b85f1a2">Applied Scientist - Amazon Robotics, Amazon Robotics - Vulcan Stow</a></td>
-<td>US, WA, Seattle</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553505/applied-scientist-amazon-robotics-amazon-robotics-vulcan-stow">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cb87b2c7-cdd8-4f93-93ed-b40f7f2b14fa">Front-End Engineer, Core Shopping</a></td>
 <td>US, WA, Seattle</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10553458/front-end-engineer-core-shopping">Apply</a></td>
@@ -169,13 +162,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c9b23cbd-184e-4cbe-93ca-7ff430fc0533">Software Development Engineer, Prime Video ML Infrastructure</a></td>
 <td>US, WA, Seattle</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10553195/software-development-engineer-prime-video-ml-infrastructure">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8403f79e-26cf-4cdd-af47-7d84924e4ab4">Hardware Dev. Engineer I (Electrical), One Materials Handling System (OMHS)</a></td>
-<td>Bellevue, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553866/hardware-dev-engineer-i-electrical-one-materials-handling-system-omhs">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -429,13 +415,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Renton, Washington, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/hasbro/jobs/4367290009">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>CoreWeave</strong></td>
-<td><a href="https://trueinterview.io/jobs/84f2004e-094f-4494-9c16-f18d134e2d50">Production Engineer, Support Tooling (Tooling and Frameworks)</a></td>
-<td>Bellevue, WA</td>
-<td align="center"><a href="https://coreweave.com/careers/job?4708261006&amp;board=coreweave&amp;gh_jid=4708261006">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
@@ -715,13 +694,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ba1389a4-811f-4973-9fa6-018dd28bc0bc">Space Lasers Engineer, Satellites (Starlink)</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8656960002?gh_jid=8656960002">Apply</a></td>
-<td align="center">29 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8aca2983-97a5-4688-b517-abe526969d18">Software Engineer, Data (Starlink)</a></td>
-<td>Redmond, WA, United States<br/>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8631217002?gh_jid=8631217002">Apply</a></td>
 <td align="center">29 Jul 2026</td>
 </tr>
 </tbody>

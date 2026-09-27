@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**102 open roles.** 68 in the United States & Canada · 34 elsewhere in the world.
+**100 open roles.** 67 in the United States & Canada · 33 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -326,13 +326,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/87b30a31-f82e-4580-bc1f-4f3286ab72a4">Software Engineer, Inference (AI Data Engineering)</a></td>
-<td>Palo Alto, CA<br/>Palo Alto - 1530</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Infineon</strong></td>
 <td><a href="https://trueinterview.io/jobs/7bf694e1-36a7-42cf-ab79-64ad5e75699d">International Graduate Program – System Application Engineer for AI Power</a></td>
 <td>San Jose, CA</td>
@@ -505,13 +498,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Cabify</strong></td>
-<td><a href="https://trueinterview.io/jobs/85b03b34-814b-4814-b6db-d03477b77c2d">Software Engineer - Backend + AI</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://4dayweek.io/job/software-engineer-backend-ai-at-cabify-d4827e17">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Motorola Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/90752cfd-c5d7-4f70-ae19-411f174a1677">System Automation Engineer - AI &amp; Python Developer Experience</a></td>

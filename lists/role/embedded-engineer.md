@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**23 open roles.** 22 in the United States & Canada · 1 elsewhere in the world.
+**22 open roles.** 21 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,13 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Costa Mesa, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007">Apply</a></td>
 <td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Meter</strong></td>
-<td><a href="https://trueinterview.io/jobs/873eb5c9-8224-4844-b51b-47f9ee030566">Firmware Engineer, Data Center</a></td>
-<td>San Francisco or Sunnyvale</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/meter/3883b996-d880-4205-87a9-7e3dce3c23fb/application">Apply</a></td>
-<td align="center">21 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>

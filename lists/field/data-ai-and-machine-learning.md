@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**363 open roles.** 244 in the United States & Canada · 119 elsewhere in the world.
+**353 open roles.** 238 in the United States & Canada · 115 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -285,13 +285,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/85ae8518-c721-4100-8374-daa79b85f1a2">Applied Scientist - Amazon Robotics, Amazon Robotics - Vulcan Stow</a></td>
-<td>US, WA, Seattle</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553505/applied-scientist-amazon-robotics-amazon-robotics-vulcan-stow">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c9b23cbd-184e-4cbe-93ca-7ff430fc0533">Software Development Engineer, Prime Video ML Infrastructure</a></td>
 <td>US, WA, Seattle</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10553195/software-development-engineer-prime-video-ml-infrastructure">Apply</a></td>
@@ -372,13 +365,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/db637da9-1af7-4137-a848-a918d00a1f9a">AI Engineer – Software Development Tools</a></td>
 <td>San Juan, Puerto Rico, Puerto Rico</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Juan-Puerto-Rico-Puerto-Rico/AI-Engineer---Software-Development-Tools_1214810">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/85262538-1bce-47ab-a9a7-b3e2dc7298a3">Research Scientist - Plasma Light Source Development</a></td>
-<td>Ann Arbor, MI, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist---Plasma-Light-Source-Development_2635441">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -1159,13 +1145,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/84a30062-4047-48bb-8573-71bfb6e0722d">Software Engineer, ML (Technical Leadership)</a></td>
-<td>Tel Aviv, Israel, IL</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1063563173314893/">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/9d0830ac-9e11-4c55-bbf7-567a6afdd158">Agentic AI / Data Engineer - DC GPU</a></td>
 <td>US, IN, Home Office<br/>Indiana, United States</td>
@@ -1261,13 +1240,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/27421dde-05ed-41a1-853b-660b162cda24">Data Conversion Developer</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4706291006?gh_jid=4706291006">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/87b30a31-f82e-4580-bc1f-4f3286ab72a4">Software Engineer, Inference (AI Data Engineering)</a></td>
-<td>Palo Alto, CA<br/>Palo Alto - 1530</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
@@ -1453,13 +1425,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Mill</strong></td>
-<td><a href="https://trueinterview.io/jobs/86dc5075-ee8e-4b67-8fab-0234b27535da">Computer Vision Engineer</a></td>
-<td>San Bruno, California<br/>Mill</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/mill/jobs/4723231005">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Applied intuition</strong></td>
 <td><a href="https://trueinterview.io/jobs/a93ef964-b3b6-46a8-914a-372cc5c07742">Machine Learning Performance Engineer - Offboard Training &amp; Inference</a></td>
 <td>Sunnyvale, CA</td>
@@ -1621,13 +1586,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Top Hat</strong></td>
-<td><a href="https://trueinterview.io/jobs/87363ca8-3e3d-4431-9ddc-a9fb7c53ffa2">Junior Analytics Engineer</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/top-hat/86f97853-9b2b-433e-9077-e977cf00e43b/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>JPMorgan Chase</strong></td>
 <td><a href="https://trueinterview.io/jobs/9995ab56-0dc0-4caa-b429-f74714dad7f3">Machine Learning Engineer – Digital Intelligence</a></td>
 <td>Palo Alto, CA</td>
@@ -1743,13 +1701,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Victoria (BC)</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50371823">Apply</a></td>
 <td align="center">26 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cabify</strong></td>
-<td><a href="https://trueinterview.io/jobs/85b03b34-814b-4814-b6db-d03477b77c2d">Software Engineer - Backend + AI</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://4dayweek.io/job/software-engineer-backend-ai-at-cabify-d4827e17">Apply</a></td>
-<td align="center">25 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Motorola Solutions</strong></td>
@@ -1893,13 +1844,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>PwC</strong></td>
-<td><a href="https://trueinterview.io/jobs/84bd9c78-3fc6-44e9-962a-4d3b85981bb4">Data Engineer / FCU Technology Team</a></td>
-<td>8 Locations</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Senior-Data-Engineer---FCU-Technology-Team_715408WD">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/97a7d6b9-870e-4e73-beac-cad70ef50c5c">Data Scientist</a></td>
 <td>2 Locations</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Warszawa/Data-Scientist_753895WD">Apply</a></td>
@@ -2312,13 +2256,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Serverfarm</strong></td>
-<td><a href="https://trueinterview.io/jobs/87ae7ab0-c1e3-435d-9b47-230994dae3f6">Junior Data Center Shift Engineer</a></td>
-<td>Amsterdam<br/>AMS1</td>
-<td align="center"><a href="https://jobs.lever.co/serverfarm/acbcb1c3-0a33-4fcf-8083-215a7ed6d184/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Modus Create</strong></td>
 <td><a href="https://trueinterview.io/jobs/a3fd043f-e1fb-4730-a8c0-460a618db6ff">Forward Deployed Engineer (Python, AI/ML, Generative AI) - UK based</a></td>
 <td>Greece<br/>Europe</td>
@@ -2422,13 +2359,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hybrid (UK)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/posthog/8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3/application">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Outpost</strong></td>
-<td><a href="https://trueinterview.io/jobs/879f0826-bd02-4d52-9ed2-231603542d65">Machine Learning Data Engineer (Contract)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/outpost/0653bc36-22ee-4922-aab7-5fafdf589443/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Iambic Therapeutics</strong></td>

@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**512 open roles.** 476 in the United States & Canada · 36 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**505 open roles.** 470 in the United States & Canada · 35 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,48 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/18220039-0b7d-4d51-95f8-25bf9d730eeb">Software Engineer - ML Compilation</a></td>
-<td>US, CA, San Jose<br/>San Jose, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/89971?lang=en-us">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/34811d0a-bec5-4759-ad6a-61bd7f8c0a1e">Associate Manufacturing Engineer</a></td>
-<td>US, MA, Wilmington, United States of America<br/>US, OR, Beaverton<br/>US, MA, Chelmsford, Alpha</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Manufacturing-Engineer_R265295">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/790a8292-d312-4e52-abea-babbf1af9bc9">Associate Product Applications Engineer</a></td>
-<td>US, MA, Wilmington, United States of America<br/>US, CO, Colorado Springs, Centennial<br/>US, NC, Durham</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Applications-Engineer_R265307">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6ef5bdb9-dc48-4d65-a2e8-02e075ae07d5">Associate Test Engineer</a></td>
-<td>US, NC, Durham, United States of America<br/>US, MA, Wilmington</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-Test-Engineer_R265308">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d145b417-ea6b-4577-afea-c904755cccd3">Forward Deployed Engineer</a></td>
-<td>US, CA, San Jose, Rio Robles, United States of America<br/>US, MA, Boston</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Forward-Deployed-Engineer_R264808">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Coherent Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0a1a1b8-8c2a-4237-ad05-2bd9e3e8ceb8">Production Engineer</a></td>
-<td>Easton, PA, United States</td>
-<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014196">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/9e8f5daa-98af-4eb0-a9e4-14f3384c5090">Customer Engagement Applications Engineer (Capres) – USA</a></td>
@@ -735,14 +693,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/87e149ef-58e8-484c-be62-50e54bc0b0e7">Developer Relations Engineer - Ecosystem &amp; Product Operations</a></td>
-<td>Penang, Malaysia</td>
-<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Developer-Relations-Engineer---Ecosystem---Product-Operations_R65242">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PayPal</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9f5e024c-78a6-4132-bbf1-d5de69a034f4">Systems Engineer</a></td>
 <td>Tokyo, Tokyo Prefecture, Japan</td>
 <td align="center"><a href="https://paypal.wd1.myworkdayjobs.com/jobs/job/Tokyo-Tokyo-Prefecture-Japan/Systems-Engineer_R0137490">Apply</a></td>

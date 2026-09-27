@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**53 open roles.** 39 in the United States & Canada · 14 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**51 open roles.** 37 in the United States & Canada · 14 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -200,13 +200,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Genscript/probio</strong></td>
-<td><a href="https://trueinterview.io/jobs/872e2a1f-6469-4ce0-a0be-5ea4b889d511">Automation Engineer</a></td>
-<td>Piscataway, New Jersey, United States<br/>USA- Piscataway, NJ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/genscript/jobs/5220214007">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Simonmed</strong></td>
 <td><a href="https://trueinterview.io/jobs/983225e3-b0df-401d-90a4-f0db10826b20">Ultrasound Technologist - Non ARDMS</a></td>
 <td>14901 N Scottsdale Rd, Scottsdale, AZ 85254</td>
@@ -240,13 +233,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Ottawa, ON<br/>Calgary, AB<br/>Toronto, ON<br/>+1 more</td>
 <td align="center"><a href="https://jobs.lever.co/fullscript/a52e4915-8239-4581-8828-84661f070424/apply">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/8777a643-3973-4641-b54d-3585a9f8b0cd">Scientific Technical Engineer - PDS&amp;T CMC</a></td>
-<td>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014609206-scientific-technical-engineer-pds-t-cmc?oga=true">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Nuna</strong></td>
