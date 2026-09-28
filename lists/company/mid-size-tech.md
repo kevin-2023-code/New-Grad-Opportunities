@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**89 open roles.** 63 in the United States & Canada · 26 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**89 open roles.** 64 in the United States & Canada · 25 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -347,6 +347,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Megaport</strong></td>
+<td><a href="https://trueinterview.io/jobs/92d5992d-9a2c-4543-9eac-031c6d857e21">Network Strategy Officer</a></td>
+<td>United States of America</td>
+<td align="center"><a href="https://jobs.lever.co/megaport/df1c2afd-786e-42ed-9ec8-dc3b4f012065/apply">Apply</a></td>
+<td align="center">18 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Netgear</strong></td>
 <td><a href="https://trueinterview.io/jobs/acd7319b-694d-4675-8c9e-459b1e81ccaa">Associate Product Manager</a></td>
 <td>San Jose, CA</td>
@@ -511,13 +518,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bengaluru, India<br/>Bengaluru/Bangalore, India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/earnin/jobs/8204726">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Clearstreet</strong></td>
-<td><a href="https://trueinterview.io/jobs/93a12463-f944-4eff-ae6b-bd383bbd4a85">Software Engineer - Payments Systems</a></td>
-<td>London, UK</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/clearstreet/jobs/8152978">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Socure</strong></td>

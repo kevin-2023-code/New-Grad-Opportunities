@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**36 open roles.**
+**35 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,13 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Broomfield, Colorado, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5124336007?gh_jid=5124336007">Apply</a></td>
 <td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Palantir Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/9199a180-ea63-4066-b2a5-10c4f3c18f7d">Security Systems Engineer</a></td>
-<td>Denver, CO<br/>Seattle, WA<br/>Palo Alto, CA<br/>+1 more</td>
-<td align="center"><a href="https://jobs.lever.co/palantir/98c244fc-444b-43ba-b152-30227191170b/apply">Apply</a></td>
-<td align="center">23 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>AMD</strong></td>

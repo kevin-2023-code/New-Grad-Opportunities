@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**427 open roles.**
+**424 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -244,13 +244,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Palantir Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/9199a180-ea63-4066-b2a5-10c4f3c18f7d">Security Systems Engineer</a></td>
-<td>Palo Alto, CA<br/>Seattle, WA<br/>Denver, CO<br/>+1 more</td>
-<td align="center"><a href="https://jobs.lever.co/palantir/98c244fc-444b-43ba-b152-30227191170b/apply">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Outset</strong></td>
 <td><a href="https://trueinterview.io/jobs/a7583774-80e4-4192-8435-8ed4761acf69">IT Automation Engineer</a></td>
 <td>San Francisco, CA</td>
@@ -269,13 +262,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cde4bada-25cc-4467-8688-e4c9f186171c">Analytics Engineer</a></td>
 <td>San Francisco, CA<br/>New York, NY<br/>Stockholm</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/modal/a518f2cd-e0c7-4105-9004-d7971f7b1daf/application">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Replit</strong></td>
-<td><a href="https://trueinterview.io/jobs/921f1abb-36f6-48eb-af63-43ff571ade12">Support Engineer I (NYC, Weekend Shift)</a></td>
-<td>Foster City, CA<br/>NYC (SoHo)</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/replit/4e64e46f-f69d-4454-89b6-bd27302a464d/application">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -2624,6 +2610,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Lumafield</strong></td>
+<td><a href="https://trueinterview.io/jobs/943b6305-fcf5-4ab8-ae49-f76ce499b915">Field Service Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.lever.co/lumafield/7af170cc-41f3-4af5-b420-e3d8f2ada675/apply">Apply</a></td>
+<td align="center">12 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Plain</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc9f94cc-320c-48f1-84ba-9e9d3682d9fc">Forward Deployed Engineer</a></td>
 <td>San Francisco office</td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b461d48e-7b8b-49ab-813a-d3a52cb5fdbd">Software Engineer, Infrastructure</a></td>
 <td>San Francisco, CA<br/>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cognition/13fdacf7-b4dc-4b9a-ac43-addc87de79ec/application">Apply</a></td>
+<td align="center">6 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f50afff8-4e74-42df-9a80-961b68851152">Software Engineer</a></td>
+<td>San Francisco, CA<br/>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cognition/e8086415-62bc-4cc0-96a4-84bb56182d35/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 </tbody>

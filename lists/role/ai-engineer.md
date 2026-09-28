@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**93 open roles.** 62 in the United States & Canada · 31 elsewhere in the world.
+**91 open roles.** 60 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -436,20 +436,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, CA, San Jose<br/>San Jose, California, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/88534?lang=en-us">Apply</a></td>
 <td align="center">31 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b7885d5c-c40a-4790-83bb-a3b7ebb860f2">Applied AI Engineer, Top Hardware Priorities</a></td>
-<td>US, CA, Santa Clara<br/>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/87872?lang=en-us">Apply</a></td>
-<td align="center">30 Jul 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2b0e15f3-1cdc-4a92-92f5-c0ead5a0e37a">Thermal Engineer-Data Center AI GPU Thermal Design</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/88520?lang=en-us">Apply</a></td>
-<td align="center">30 Jul 2026</td>
 </tr>
 </tbody>
 </table>

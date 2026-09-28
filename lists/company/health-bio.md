@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**49 open roles.** 36 in the United States & Canada · 13 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**48 open roles.** 36 in the United States & Canada · 12 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -329,13 +329,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hyderabad, India<br/>India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/truveta/jobs/6178427004">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Moderna</strong></td>
-<td><a href="https://trueinterview.io/jobs/92608547-5563-41fb-9d80-9d0426664a88">Engineer I, Process Development, Pilot Scale Operations</a></td>
-<td>—</td>
-<td align="center"><a href="https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Engineer-I--Process-Development--Pilot-Scale-Operations_R19565-1">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Iambic Therapeutics</strong></td>

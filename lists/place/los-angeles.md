@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**114 open roles.**
+**113 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -582,13 +582,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/411399c2-ccf9-44c5-9e43-19485c1c985d">Test Technician</a></td>
 <td>Anaheim, CA</td>
 <td align="center"><a href="https://jobs.lever.co/vesync/32b93522-2455-4e96-ae61-aca20ca7cdc8/apply">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Otter</strong></td>
-<td><a href="https://trueinterview.io/jobs/927af726-6545-4213-a04d-ce053a4862ef">Middleware Solutions Engineer I</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/otter/jobs/8716964002">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>

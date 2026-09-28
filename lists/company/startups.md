@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**143 open roles.** 102 in the United States & Canada · 41 elsewhere in the world. Early-stage technology companies.
+**139 open roles.** 98 in the United States & Canada · 41 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -50,13 +50,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c4982bdc-a214-415e-af7c-07332c50de4c">Electronics Manufacturing Engineer</a></td>
 <td>Glen Cove, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/standardbots/7ea413c0-82ad-48c2-a706-2fa8d6dba91a/application">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Replit</strong></td>
-<td><a href="https://trueinterview.io/jobs/921f1abb-36f6-48eb-af63-43ff571ade12">Support Engineer I (NYC, Weekend Shift)</a></td>
-<td>NYC (SoHo)<br/>Foster City, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/replit/4e64e46f-f69d-4454-89b6-bd27302a464d/application">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -298,13 +291,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Sienci Labs Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/915c1fb5-8cf7-497e-b132-7ef43297515e">cloud developer</a></td>
-<td>Waterloo, ON</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50224637">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Sift Stack, Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/caed328d-b509-4f8d-92cc-40062f2370ba">Software Engineer – New College Graduate</a></td>
 <td>Marina Del Rey, CA</td>
@@ -324,13 +310,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://greenzie.applytojob.com/apply">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Stability Ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/94d2f77e-4144-465d-afce-714f7e043ef2">Forward Deployed Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="http://stability.ai/careers?gh_jid=4966000101">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Gray Swan Ai</strong></td>
@@ -403,14 +382,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Arizeai</strong></td>
-<td><a href="https://trueinterview.io/jobs/921362dc-88af-4ecc-b2f0-8a89d1e9fc49">Developer Relations Documentation Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/arizeai/jobs/6128122004">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ace9bd4d-230f-44ef-a5a9-cac2b97c3d47">Field Application Engineer - Sulphur, LA - Temporary Part Time</a></td>
 <td>Sulphur, LA</td>
 <td align="center"><a href="https://jobs.lever.co/field-ai/18096724-a8b0-444b-b1db-6cb468d7e3b1/apply">Apply</a></td>

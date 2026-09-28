@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**69 open roles.** 39 in the United States & Canada · 30 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**67 open roles.** 39 in the United States & Canada · 28 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -303,13 +303,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>PayPal</strong></td>
-<td><a href="https://trueinterview.io/jobs/9459547f-8f16-4751-9544-7ea6eb51933c">Software Engineer 1 - 2027 Graduate</a></td>
-<td>2 Locations</td>
-<td align="center"><a href="https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Software-Engineer-1---2027-Graduate_R0137558">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Ebanx</strong></td>
 <td><a href="https://trueinterview.io/jobs/f6bbf1af-5a7c-412a-833f-577a5fac75b6">Data Science Specialist</a></td>
 <td>Curitiba<br/>On-site<br/>EBANX</td>
@@ -364,13 +357,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, , United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000148615804-software-engineer-recurring-payin?oga=true">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Clearstreet</strong></td>
-<td><a href="https://trueinterview.io/jobs/93a12463-f944-4eff-ae6b-bd383bbd4a85">Software Engineer - Payments Systems</a></td>
-<td>London, UK</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/clearstreet/jobs/8152978">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Socure</strong></td>

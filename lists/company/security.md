@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**49 open roles.** 42 in the United States & Canada · 7 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**48 open roles.** 41 in the United States & Canada · 7 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -247,13 +247,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/virtru/jobs/4724504005">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Beyondtrust</strong></td>
-<td><a href="https://trueinterview.io/jobs/93f39cb3-ff1d-4abf-a940-aa049ed550fb">Technical Support Engineer - Temp Employment</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/beyondtrust/jobs/8130315">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>1password</strong></td>
