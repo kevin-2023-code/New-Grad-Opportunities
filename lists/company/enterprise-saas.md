@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**109 open roles.** 75 in the United States & Canada · 34 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**108 open roles.** 74 in the United States & Canada · 34 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -121,13 +121,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Charlotte, NC<br/>Debtbook-HQ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/debtbook/jobs/4735120005">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Syndio</strong></td>
-<td><a href="https://trueinterview.io/jobs/96562988-8165-4c6f-900c-d0940ead2376">Software Developer, Integrations (Calgary)</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://synd.io/careers/?gh_jid=6195274004">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Customer.io</strong></td>
@@ -653,13 +646,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Ashby</strong></td>
-<td><a href="https://trueinterview.io/jobs/95c07bf3-9ed7-4384-a288-e47ed8750789">Product Support Engineer - EMEA</a></td>
-<td>United Kingdom<br/>Belgium<br/>Italy<br/>+11 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ashby/2d03f0fe-2f3c-4c8e-9b89-7c6a35f9e7a4/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/082e8091-8861-47d1-bda5-a65e8308b52a">Software Engineering, MTS/ SMTS (Full-Stack)</a></td>
 <td>2 Locations</td>
@@ -769,6 +755,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/dbe15fe4-e353-42d5-87d9-753876763f0d">Salesforce Platform Engineer</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/limble/35137a07-3143-4f00-9572-8ecd2a2cf6f8/application">Apply</a></td>
+<td align="center">13 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Notion</strong></td>
+<td><a href="https://trueinterview.io/jobs/96818748-f2fc-40f7-aae9-46f1cc17eff0">Workplace Technology Operation (Contractor), Tokyo</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/notion/5ea0ebb1-296a-4b41-b598-b2696d20d238/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>

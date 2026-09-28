@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**113 open roles.**
+**111 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -291,13 +291,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>SHEIN</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a4ff804-790f-4940-a3ba-c0927c353cea">Digital Designer</a></td>
-<td>Los Angeles, CA<br/>Los Angeles Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/shein/jobs/5422177008">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Kettle</strong></td>
 <td><a href="https://trueinterview.io/jobs/e864d240-5187-4132-9741-7bedf2db2ae4">Production Designer</a> 🌐</td>
 <td>Remote — United States<br/>San Francisco, Los Angeles, Portland OR, Austin TX</td>
@@ -530,13 +523,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/96a061d7-482e-447b-a8cb-f664865918bb">Flight Software (FSW) Engineer - Platform - HITL Infrastructure</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5054523007?gh_jid=5054523007">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b9bf7c42-6eec-42b8-8704-5f86ac7e92c6">Embedded Firmware Engineer</a></td>
 <td>Costa Mesa, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5224716007?gh_jid=5224716007">Apply</a></td>

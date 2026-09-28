@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**28 open roles.**
+**27 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -148,13 +148,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f28c0d5e-f2bf-41cc-909b-4996839cd42c">Salesforce Revenue Cloud Solution Engineer</a></td>
 <td>Charlotte, North Carolina, United States<br/>Corporate</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/cpisecurity/jobs/4707436006">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Bandwidth</strong></td>
-<td><a href="https://trueinterview.io/jobs/96231a8d-0660-4ae5-8693-54a44a483b7b">NetSuite Application Developer</a></td>
-<td>Raleigh, NC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/bandwidth/jobs/8148069">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>

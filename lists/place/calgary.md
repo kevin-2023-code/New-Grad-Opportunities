@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**10 open roles.**
+**8 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Calgary, AB</td>
 <td align="center"><a href="https://jobs.lever.co/dialogdesign/ed91084f-712f-4f1b-a267-5e88e5af7e0c/apply">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Syndio</strong></td>
-<td><a href="https://trueinterview.io/jobs/96562988-8165-4c6f-900c-d0940ead2376">Software Developer, Integrations (Calgary)</a> 🌐</td>
-<td>Remote — Canada<br/>Calgary, AB</td>
-<td align="center"><a href="https://synd.io/careers/?gh_jid=6195274004">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Neo Financial</strong></td>
@@ -72,13 +65,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Calgary, AB<br/>Ottawa, ON<br/>Toronto, ON<br/>+1 more</td>
 <td align="center"><a href="https://jobs.lever.co/fullscript/a52e4915-8239-4581-8828-84661f070424/apply">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Altalink</strong></td>
-<td><a href="https://trueinterview.io/jobs/9535ad1d-e5fd-4ca2-bac6-55e8bab7584c">Telecom Lifecycle Engineer</a></td>
-<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
-<td align="center"><a href="https://jobs.workable.com/view/dj5g1EpQb9xsvWnb7HYnGC/telecom-lifecycle-engineer-in-calgary-at-altalink">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>WSP</strong></td>

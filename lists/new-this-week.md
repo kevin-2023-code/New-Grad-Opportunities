@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**321 open roles.** 246 in the United States & Canada · 75 elsewhere in the world. Everything the employers put up this week.
+**319 open roles.** 244 in the United States & Canada · 75 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f12b87e4-08f4-4a4d-ada8-aa26a601e98a">Mechanical Engineer - Rack &amp; PDU Systems</a></td>
 <td>Ann Arbor, MI, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechanical-Engineer---Rack---PDU-Systems_2641525">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/54d94fe5-f109-4f12-9614-cbf3456188d3">Software QA Engineer, Host BMC</a></td>
+<td>Yokne'am Illit, North District, IL</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397887884">Apply</a></td>
 <td align="center">28 Sep 2026</td>
 </tr>
 <tr>
@@ -564,13 +571,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Vitol Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/99b33d5e-39b9-47cc-bbae-b011c104d252">Data Engineer</a></td>
-<td>Houston, TX, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Vitol/744000151665145-data-engineer?oga=true">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Lens Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/a627e6dd-c594-4e55-850d-4e267d0d1f27">Systems Engineer</a></td>
 <td>Los Angeles, CA</td>
@@ -904,13 +904,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/81dbc0d4-309a-472c-b71c-efb438c15e85">UI Developer</a></td>
 <td>Washington, DC<br/>Arlington, VA</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4713342006?gh_jid=4713342006">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/981c1643-705a-49ce-89f2-08c7ed0ffeaa">Software Developer (RICEFW/Bolt-on)</a></td>
-<td>Washington, DC<br/>Arlington, VA</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4713341006?gh_jid=4713341006">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -1524,13 +1517,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/96576cb5-b939-4e8d-85d8-d58e90d2c4b8">Operating Systems Engineer, On-Device Inference | Consumer Devices</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/4a9774e2-6505-4cc2-92eb-22a8450aacdc/application">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d9593210-6377-49f1-bfdd-cdd7e2bc13df">Operating Systems Engineer, Linux Kernel | Consumer Devices</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/f0529a1d-fb6a-4229-a590-8caff1785bb3/application">Apply</a></td>
@@ -1752,6 +1738,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/aee2ceb4-21c2-41d1-8059-55839a1ea024">IN_Senior Associate_MERN Full Stack Developer_GCC_Advisory_Bangalore</a></td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-AEM-Lead-GCC-Advisory-Bangalore_746445WD-2">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Retelit</strong></td>
+<td><a href="https://trueinterview.io/jobs/d21f52d1-fc87-4ed8-bb31-49eb5a0b332d">Cloud Engineer</a></td>
+<td>Milano, Italy</td>
+<td align="center"><a href="https://4dayweek.io/job/cloud-engineer-at-retelit-4650df48">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Oracle</strong></td>
 <td><a href="https://trueinterview.io/jobs/c911812a-dc49-4a19-b3a6-07c5dafe6006">User Assistance Developer</a></td>
 <td>BRNO, Czech Republic</td>
@@ -1764,13 +1764,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hyderabad, , India</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000152033408-assoc-machine-learning-engineer?oga=true">Apply</a></td>
 <td align="center">27 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Buyerlink</strong></td>
-<td><a href="https://trueinterview.io/jobs/97d21ba9-eec6-4328-a5ae-c944cb28f953">data engineer</a></td>
-<td>Victoria (BC)</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50371823">Apply</a></td>
-<td align="center">26 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Grafana Labs</strong></td>
@@ -2022,13 +2015,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/da84fecc-df4c-4d7d-850f-7caa8eaac366">Data Scientist</a></td>
 <td>2 Locations</td>
 <td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Data-Scientist_JR00128241">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/992d9b35-e6fe-430b-879b-c6c023ada236">ETL Informatica Developer</a></td>
-<td>Gurugram, Haryana</td>
-<td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Gurugram-Haryana/ETL-Informatica-Developer_JR00127325">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>

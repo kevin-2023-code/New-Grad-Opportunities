@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**147 open roles.**
+**144 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -179,13 +179,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>JPMorgan Chase</strong></td>
-<td><a href="https://trueinterview.io/jobs/991d4f99-33ca-4238-bf6f-66dd17c5e7f5">Hiring Event - Security Architecture &amp; Engineering - Sep 24-25th 2026</a></td>
-<td>Jersey City, NJ, United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778894">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/4496a3d7-1772-4638-80d9-e175d7414682">Researcher Web Security, Detection</a></td>
 <td>New York, NY<br/>New York, New York, United States<br/>Hybrid</td>
@@ -257,6 +250,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/98b1cfc2-26d9-4bd9-8a46-a44dfb2816a5">Information Technology Apprenticeship, February 2027 Start</a></td>
+<td>New York, NY<br/>Austin, TX</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/127161382939304646-information-technology-apprenticeship-february-2027-start">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/06d14536-e8b9-4a2a-8799-c71580958815">User Experience Design Apprenticeship, February 2027 Start</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/79970343875158726-user-experience-design-apprenticeship-february-2027-start">Apply</a></td>
@@ -536,13 +536,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Clad (YC W23)</strong></td>
-<td><a href="https://trueinterview.io/jobs/97f1c5e8-5440-43b9-ac94-76502c9564ed">Clad (YC W23) / Software Engineer / NYC / withclad.com</a></td>
-<td>NYC</td>
-<td align="center"><a href="https://www.ycombinator.com/companies/clad/jobs/YHGyRSf-software-engineer">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Valon</strong></td>
 <td><a href="https://trueinterview.io/jobs/7e57f527-b0c7-4a8a-840c-7aa6213f07a8">Software Engineer New Grad</a></td>
 <td>New York, NY<br/>San Francisco, CA</td>
@@ -590,13 +583,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Jersey City, New Jersey, United States</td>
 <td align="center"><a href="https://jobs.workable.com/view/c6GoDuwfqvF3C86bBgc4Nb/help-desk-%26-iot-technician-in-jersey-city-at-beloved-community-%26-empowerment-academy-charter-schools">Apply</a></td>
 <td align="center">29 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Crusoe</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a72a59b-62a7-4645-95ae-98e321246b29">Enablement Engineer</a></td>
-<td>New York, NY<br/>Denver, CO<br/>San Francisco, CA<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/crusoe/1eb50f41-8a4b-4db0-953e-1bee91e3f40e/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Parallel Web Systems</strong></td>
@@ -680,13 +666,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a1b181b5-8164-49d8-848d-46c75b89f0af">Applied AI ML Associate</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783433">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Scan.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/9839e60b-bb73-458a-b117-24ae0712118f">Associate Product Manager</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/scan-com/e3460b05-078d-4050-ab6a-e62a0f8733a7/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**92 open roles.**
+**90 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -333,13 +333,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Crusoe</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a72a59b-62a7-4645-95ae-98e321246b29">Enablement Engineer</a></td>
-<td>Bellevue, WA<br/>Denver, CO<br/>San Francisco, CA<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/crusoe/1eb50f41-8a4b-4db0-953e-1bee91e3f40e/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Cohere</strong></td>
 <td><a href="https://trueinterview.io/jobs/4464f0c8-37e5-4b95-a0cd-b019d44d161d">Forward Deployed Engineer, Agentic Platform (West Coast)</a></td>
 <td>Seattle, WA<br/>San Francisco, CA<br/>Los Angeles, CA<br/>+11 more</td>
@@ -537,13 +530,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/98e2fdb6-ada6-4121-afa6-98442bafcc00">Hardware Development Engineer, Failure Analysis (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8698331002?gh_jid=8698331002">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/05baa9a5-5325-488b-8a9e-e85e07d715c8">Signal Integrity Engineer - Serdes, Satellites (Starlink)</a></td>
 <td>Redmond, WA<br/>Palo Alto, CA<br/>Palo Alto - 1200</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8698729002?gh_jid=8698729002">Apply</a></td>

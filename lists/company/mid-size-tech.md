@@ -632,11 +632,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Clickhouse</strong></td>
-<td><a href="https://trueinterview.io/jobs/970dad0b-053c-4462-9932-576ff14a4e62">AI Operations Engineer</a></td>
-<td>AMER<br/>EMEA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/clickhouse/jobs/6143997004">Apply</a></td>
-<td align="center">14 Aug 2026</td>
+<td><strong>Notion</strong></td>
+<td><a href="https://trueinterview.io/jobs/96818748-f2fc-40f7-aae9-46f1cc17eff0">Workplace Technology Operation (Contractor), Tokyo</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/notion/5ea0ebb1-296a-4b41-b598-b2696d20d238/application">Apply</a></td>
+<td align="center">13 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Docker</strong></td>

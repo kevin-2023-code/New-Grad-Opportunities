@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**91 open roles.** 60 in the United States & Canada · 31 elsewhere in the world.
+**86 open roles.** 58 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -221,13 +221,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>M9 Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/969d1895-8151-417d-b3a7-a02a0a7c9f05">Jr. Federal AI Engineer</a></td>
-<td>Ft. Belvoir, VA - Secret clearance required<br/>M9 Solutions</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/m9solutions/jobs/5227236007">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Build Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/f5082c63-b82c-4b7b-a22a-be2db957794e">AI Engineer - Platform</a></td>
 <td>London<br/>New York City</td>
@@ -389,13 +382,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>The Nuclear Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/9658a3c4-7996-431f-8394-15882f5d32c0">Platform &amp; AI Pre-Engineer</a> 🛂</td>
-<td>Washington, DC<br/>Washington, D.C.</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5386220008">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Nuro</strong></td>
 <td><a href="https://trueinterview.io/jobs/84ee8fae-a698-4c59-82d0-92daae87353c">Applied AI Researcher, Agent Systems &amp; Evaluation</a></td>
 <td>Mountain View, California (HQ)<br/>California - HQ</td>
@@ -520,13 +506,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Applied intuition</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ac9da05-9536-47e7-a81d-469c5fa22b96">Software Engineer - Defense Physical AI</a></td>
-<td>Ann Arbor</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/applied/8cd214ac-8934-4585-a4d0-c3ab46ba7756/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Ford Motor Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/a527de12-77f3-4235-a8a0-a6970360bc3d">AI Engineer</a></td>
 <td>Chennai, Tamil Nadu, India</td>
@@ -630,20 +609,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Manila<br/>Bogota</td>
 <td align="center"><a href="https://jobs.lever.co/spreetail/f9f06e90-b991-4cff-92b9-5fb28b8919e6/apply">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Clickhouse</strong></td>
-<td><a href="https://trueinterview.io/jobs/970dad0b-053c-4462-9932-576ff14a4e62">AI Operations Engineer</a></td>
-<td>AMER<br/>EMEA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/clickhouse/jobs/6143997004">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/97b7ab0d-0de2-4c0c-adb5-7b2fcafcf11c">Applied AI Engineer, Digital Natives</a></td>
-<td>São Paulo</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/0ed5f6c7-3977-4da9-9961-202fe76de456/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Trawa</strong></td>

@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**36 open roles.** 31 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**34 open roles.** 29 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -165,13 +165,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>The Nuclear Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/9658a3c4-7996-431f-8394-15882f5d32c0">Platform &amp; AI Pre-Engineer</a> 🛂</td>
-<td>Washington, DC<br/>Washington, D.C.</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5386220008">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Hunter Douglas</strong></td>
 <td><a href="https://trueinterview.io/jobs/a4326b2e-9ada-4fbe-bf48-9aff2e091107">Industrial Engineer</a></td>
 <td>Salt Lake City, UT, United States<br/>UT</td>
@@ -198,13 +191,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Grand Prairie, TX 75050<br/>Houston, TX 77028</td>
 <td align="center"><a href="https://jobs.lever.co/sunsrce/52e838a5-b19a-4ad0-8b21-89f9a5c8a58a/apply">Apply</a></td>
 <td align="center">10 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Altalink</strong></td>
-<td><a href="https://trueinterview.io/jobs/9535ad1d-e5fd-4ca2-bac6-55e8bab7584c">Telecom Lifecycle Engineer</a></td>
-<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
-<td align="center"><a href="https://jobs.workable.com/view/dj5g1EpQb9xsvWnb7HYnGC/telecom-lifecycle-engineer-in-calgary-at-altalink">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Vulcan Elements</strong></td>

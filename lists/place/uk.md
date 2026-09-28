@@ -142,13 +142,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Slice</strong></td>
-<td><a href="https://trueinterview.io/jobs/991dc4f6-4fd0-4605-aadd-104badd8cc45">Salesforce Developer</a> 🌐</td>
-<td>Remote — United Kingdom<br/>Office - UK - Belfast</td>
-<td align="center"><a href="https://slice.careers/careers-listing?gh_jid=8210978">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Seamflow</strong></td>
 <td><a href="https://trueinterview.io/jobs/b97b3ddd-58a5-4da4-af1b-b61e85519b88">Front End Design Engineer</a></td>
 <td>London</td>
@@ -322,6 +315,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/caribou/95869cef-0efc-418a-a98c-6d7ae1a16d29/application">Apply</a></td>
 <td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Digital Catapult</strong></td>
+<td><a href="https://trueinterview.io/jobs/99e05502-d2d6-45d0-8cdc-656f06e56ff0">Technology Specialist - AI</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.workable.com/view/svJRd8zwVNq1sBgairJabK/hybrid-technology-specialist---ai-in-london-at-digital-catapult">Apply</a></td>
+<td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Field AI</strong></td>

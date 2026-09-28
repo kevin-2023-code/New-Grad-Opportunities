@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**129 open roles.** 97 in the United States & Canada · 32 elsewhere in the world.
+**127 open roles.** 95 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -221,13 +221,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>SHEIN</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a4ff804-790f-4940-a3ba-c0927c353cea">Digital Designer</a></td>
-<td>Los Angeles, CA<br/>Los Angeles Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/shein/jobs/5422177008">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Kettle</strong></td>
 <td><a href="https://trueinterview.io/jobs/e864d240-5187-4132-9741-7bedf2db2ae4">Production Designer</a> 🌐</td>
 <td>Remote — United States</td>
@@ -415,13 +408,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Renton, Washington, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/hasbro/jobs/4367290009">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Scan.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/9839e60b-bb73-458a-b117-24ae0712118f">Associate Product Manager</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/scan-com/e3460b05-078d-4050-ab6a-e62a0f8733a7/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Sunday</strong></td>

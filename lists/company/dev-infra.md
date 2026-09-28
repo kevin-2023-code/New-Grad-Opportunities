@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**77 open roles.** 45 in the United States & Canada · 32 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**75 open roles.** 44 in the United States & Canada · 31 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -232,13 +232,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f980c702-40f2-4ab2-b03b-8baef0939bd4">Software Engineer L2-Messaging API</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/twilio/jobs/7816159">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Bandwidth</strong></td>
-<td><a href="https://trueinterview.io/jobs/96231a8d-0660-4ae5-8693-54a44a483b7b">NetSuite Application Developer</a></td>
-<td>Raleigh, NC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/bandwidth/jobs/8148069">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
@@ -497,13 +490,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>GB-London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/snowflake/03631337-d2e8-452c-917c-b5906c518de2/application">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Clickhouse</strong></td>
-<td><a href="https://trueinterview.io/jobs/970dad0b-053c-4462-9932-576ff14a4e62">AI Operations Engineer</a></td>
-<td>AMER<br/>EMEA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/clickhouse/jobs/6143997004">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Incident.io</strong></td>

@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**32 open roles.** 18 in the United States & Canada · 14 elsewhere in the world.
+**34 open roles.** 18 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -157,6 +157,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/aee2ceb4-21c2-41d1-8059-55839a1ea024">IN_Senior Associate_MERN Full Stack Developer_GCC_Advisory_Bangalore</a></td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-AEM-Lead-GCC-Advisory-Bangalore_746445WD-2">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/733f1124-3acf-419f-8973-3332cd0920e6">IN_Senior Associate_.Net Fullstack Developer_GCC_Advisory_Banaglore</a></td>
 <td>Hyderabad - Salarpuria</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Adobe-Experience-Manager-content-management-system-GCC-Advisory-Banaglore_744222WD-1">Apply</a></td>
@@ -252,6 +259,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Gurugram - Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/anaplan/jobs/8636271002">Apply</a></td>
 <td align="center">13 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Lia</strong></td>
+<td><a href="https://trueinterview.io/jobs/987a69cb-aceb-4717-8b1e-df540cab5e80">PL Desenvolvimento Fullstack (Java e Angular)</a></td>
+<td>São Paulo - BR<br/>Híbrido<br/>Brasil<br/>+1 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/ilia/jobs/6138158004">Apply</a></td>
+<td align="center">7 Aug 2026</td>
 </tr>
 </tbody>
 </table>

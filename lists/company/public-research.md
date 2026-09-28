@@ -2,7 +2,7 @@
 
 # 🏛️ Government, research & non-profits
 
-**14 open roles.** 4 in the United States & Canada · 10 elsewhere in the world. Agencies, national laboratories, universities, research institutes and charities.
+**13 open roles.** 4 in the United States & Canada · 9 elsewhere in the world. Agencies, national laboratories, universities, research institutes and charities.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -94,13 +94,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>The City Of Fort Worth</strong></td>
-<td><a href="https://trueinterview.io/jobs/9953b42c-bb08-4dc4-ad44-1c1814dcc13f">Professional Engineer - Infrastructure Plan Review</a></td>
-<td>Development Services<br/>City Hall</td>
-<td align="center"><a href="https://boards.greenhouse.io/cityoffortworth/jobs/7980726003?gh_jid=7980726003">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c2d2e49a-8da3-494c-b1aa-611bc3764de1">Recreation Programmer</a></td>
 <td>Park &amp; Recreation<br/>None</td>
 <td align="center"><a href="https://boards.greenhouse.io/cityoffortworth/jobs/7979753003?gh_jid=7979753003">Apply</a></td>

@@ -307,13 +307,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">16 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/97b7ab0d-0de2-4c0c-adb5-7b2fcafcf11c">Applied AI Engineer, Digital Natives</a></td>
-<td>São Paulo</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/0ed5f6c7-3977-4da9-9961-202fe76de456/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>C6 Bank</strong></td>
 <td><a href="https://trueinterview.io/jobs/832e7aef-4aa9-4724-a6e6-2aac42447f89">Especialista de Customer Journey | Jornada do Cliente</a></td>
 <td>São Paulo, Brazil<br/>C6 Bank</td>
@@ -347,6 +340,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Ciudad de México, México<br/>México</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/cobre/jobs/4363684009">Apply</a></td>
 <td align="center">11 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Lia</strong></td>
+<td><a href="https://trueinterview.io/jobs/987a69cb-aceb-4717-8b1e-df540cab5e80">PL Desenvolvimento Fullstack (Java e Angular)</a></td>
+<td>São Paulo - BR<br/>Híbrido<br/>Brasil<br/>+1 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/ilia/jobs/6138158004">Apply</a></td>
+<td align="center">7 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>C6 Bank</strong></td>

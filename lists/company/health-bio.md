@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**48 open roles.** 36 in the United States & Canada · 12 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**45 open roles.** 34 in the United States & Canada · 11 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -186,20 +186,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Scan.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/9839e60b-bb73-458a-b117-24ae0712118f">Associate Product Manager</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/scan-com/e3460b05-078d-4050-ab6a-e62a0f8733a7/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Simonmed</strong></td>
-<td><a href="https://trueinterview.io/jobs/983225e3-b0df-401d-90a4-f0db10826b20">Ultrasound Technologist - Non ARDMS</a></td>
-<td>14901 N Scottsdale Rd, Scottsdale, AZ 85254</td>
-<td align="center"><a href="https://jobs.lever.co/simonmed/1d509761-2cbc-4a97-8353-5e48b0452e40/apply">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>AbbVie</strong></td>
 <td><a href="https://trueinterview.io/jobs/46d70953-6b6f-4a67-8312-9fd8101a1a56">Associate Business System Analyst, MES</a></td>
 <td>Barceloneta, Barceloneta, Puerto Rico</td>
@@ -329,13 +315,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hyderabad, India<br/>India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/truveta/jobs/6178427004">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Iambic Therapeutics</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a3f8a1b-b3af-4379-8a86-f7dd7275d8c1">Research Scientist I/II, Bioanalytical Sciences &amp; Assay Development</a></td>
-<td>San Diego HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/iambic-therapeutics/4a04c67c-1be5-4109-8f9f-b3e8dd818e37/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Docplanner</strong></td>
