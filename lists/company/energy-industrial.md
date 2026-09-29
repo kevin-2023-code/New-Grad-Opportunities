@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**34 open roles.** 29 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**32 open roles.** 27 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -152,24 +152,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Panasonic</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4f7c126-0434-47eb-bd06-1432c8b92481">SCADA Engineer I</a></td>
-<td>Sparks, Nevada, United States</td>
-<td align="center"><a href="https://careers.na.panasonic.com/jobs/50367?lang=en-us">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8fa429fc-a211-4dcf-8ff6-8d957e81d152">Software Engineer I – Embedded Systems</a></td>
 <td>Irvine, California, United States</td>
 <td align="center"><a href="https://careers.na.panasonic.com/jobs/50269?lang=en-us">Apply</a></td>
 <td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hunter Douglas</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4326b2e-9ada-4fbe-bf48-9aff2e091107">Industrial Engineer</a></td>
-<td>Salt Lake City, UT, United States<br/>UT</td>
-<td align="center"><a href="https://jobs.hunterdouglas.com/division/hunterdouglas/job/7855727003?gh_jid=7855727003">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Albireo Energy</strong></td>

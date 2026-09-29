@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**10 open roles.**
+**9 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -74,14 +74,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Hunter Douglas</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4326b2e-9ada-4fbe-bf48-9aff2e091107">Industrial Engineer</a></td>
-<td>Salt Lake City, UT, United States<br/>UT</td>
-<td align="center"><a href="https://jobs.hunterdouglas.com/division/hunterdouglas/job/7855727003?gh_jid=7855727003">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Goldman Sachs</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c13cb650-7632-4156-b705-9a59c581b9c4">Risk-Dallas-Associate-Software Engineering</a></td>
 <td>Salt Lake City, UT, United States<br/>Dallas, TX, United States</td>
 <td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180914">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**60 open roles.** 33 in the United States & Canada · 27 elsewhere in the world. A real classification that none of the other sectors covers.
+**58 open roles.** 31 in the United States & Canada · 27 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -193,13 +193,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Caddell Construction</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4ca8334-2bc1-40fb-8b63-c59d983c2bca">Field Engineer - Governmental</a></td>
-<td>Phoenix, Arizona, United States<br/>Governmental</td>
-<td align="center"><a href="https://caddell.com/job-application/?gh_jid=5291721008">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Level99 Entertainment</strong></td>
 <td><a href="https://trueinterview.io/jobs/ae4bb09c-14ba-43b9-8e57-424ca75dd16d">Design Engineer</a></td>
 <td>Greater Boston, MA</td>
@@ -226,13 +219,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Syracuse, NY, United States</td>
 <td align="center"><a href="https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16977">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fanduel</strong></td>
-<td><a href="https://trueinterview.io/jobs/a2b5c346-ce2d-463b-9333-ff257d38fe99">Data Scientist</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://www.fanduel.careers/open-positions?gh_jid=8120545">Apply</a></td>
-<td align="center">10 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Lessen</strong></td>
