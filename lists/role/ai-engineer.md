@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**83 open roles.** 55 in the United States & Canada · 28 elsewhere in the world.
+**85 open roles.** 54 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -284,13 +284,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Snowflake</strong></td>
-<td><a href="https://trueinterview.io/jobs/a679b389-3fa4-4064-9c99-bfd2dcc14b16">Developer Advocate - AI &amp; Developer Experiences</a></td>
-<td>US-CA-Menlo Park<br/>US-WA-Bellevue<br/>CA-Ontario-Toronto</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/267d8514-2580-4ade-b5d1-0ea41d11cf62/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Cresta</strong></td>
 <td><a href="https://trueinterview.io/jobs/da173934-ab11-4829-b477-9832f32d0663">Solutions Engineer, AI Agent</a> 🌐</td>
 <td>Remote — United States</td>
@@ -415,10 +408,31 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/48d4ba16-cb9a-4001-baa0-dc8ade9d6d70">AI Tools and Cloud Software Developer</a></td>
+<td>Israel, Haifa</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/Israel-Haifa/AI-Tools-and-Cloud-Software-Developer_JR0286561">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/417b236a-2de6-4e25-9845-0eddd576adc3">IN_Associate_ AI Engineer_GCC_Advisory_Mumbai</a></td>
+<td>Mumbai Shivaji Park</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Associate--AI-Engineer-GCC-Advisory-Mumbai_764516WD-1">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Shape</strong></td>
 <td><a href="https://trueinterview.io/jobs/712513e3-0754-4e74-acc3-6b45fd17f125">AI Engineer</a> 🌐</td>
 <td>Remote — Portugal</td>
 <td align="center"><a href="https://4dayweek.io/job/ai-engineer-at-shape-063be131">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Thomson Reuters</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1a8504b-d209-43e0-ab4d-8545a80f7c6b">AI &amp; Automation Engineer</a></td>
+<td>India Bengaluru Karnataka</td>
+<td align="center"><a href="https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/AI---Automation-Engineer_JREQ201411-1">Apply</a></td>
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>

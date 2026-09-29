@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**123 open roles.** 91 in the United States & Canada · 32 elsewhere in the world.
+**122 open roles.** 90 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -212,13 +212,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8199973?t=gh_src=&amp;gh_jid=8199973">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Broccoli Ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/a71a4d28-24b9-481f-8704-f4f86415d01b">Webflow Designer (Contractor)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/broccoli/ef70b77f-1a67-42c3-9938-786d50ca1c7d/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Fieldguide</strong></td>

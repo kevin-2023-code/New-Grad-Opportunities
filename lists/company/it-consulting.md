@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**127 open roles.** 67 in the United States & Canada · 60 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**130 open roles.** 67 in the United States & Canada · 63 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -498,6 +498,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/417b236a-2de6-4e25-9845-0eddd576adc3">IN_Associate_ AI Engineer_GCC_Advisory_Mumbai</a></td>
+<td>Mumbai Shivaji Park</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Associate--AI-Engineer-GCC-Advisory-Mumbai_764516WD-1">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e5d10d32-7441-4560-840f-6c1038730487">IN_Manager_ GCP Devops Engineer_ GCC_ Advisory_ Hyderabad</a></td>
+<td>Hyderabad - Salarpuria</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-GCP-Agentic-AI-SME-AI-50-Advisory-Bangalore_758215WD-1">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ccb3515f-f06d-4315-9f17-d3f3dcfcac2b">IN_Senior Associate_Site Reliability Engineering_GCC_Advisory_Bangalore</a></td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-DevOps-Engineer-GCC-Advisory-Bangalore_746421WD-1">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Ci&amp;t</strong></td>
 <td><a href="https://trueinterview.io/jobs/0b51b677-bc7d-4d60-8f5c-893b0cd1855b">[Job-31680] Master AWS I Python Developer, Brazil</a></td>
