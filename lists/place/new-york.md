@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**136 open roles.**
+**137 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Spotify</strong></td>
+<td><a href="https://trueinterview.io/jobs/26bfec4a-ca0a-4901-989a-0acc490a149b">Backend Engineer, Music</a></td>
+<td>New York, NY<br/>Boston, MA<br/>Miami</td>
+<td align="center"><a href="https://www.lifeatspotify.com/jobs/backend-engineer-music">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Anthropic</strong></td>
 <td><a href="https://trueinterview.io/jobs/f88d4466-6266-490f-98fe-9f10e07c7d9b">Product Designer, Claude Developer Platform</a> 🌐</td>

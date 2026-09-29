@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**394 open roles.** 362 in the United States & Canada · 32 elsewhere in the world.
+**395 open roles.** 363 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nebius Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/fca9e3b0-ccb9-4bfe-be4d-3c87623a3451">Field Data Center Hardware Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://careers.nebius.com/?gh_jid=4981615101">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/8045307a-247a-45d4-ac69-209eb94762ab">Post-Silicon Memory Subsystem Validation Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92306?lang=en-us">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d5e60e5-5265-4fa1-ba35-ef170b119260">Engineer, Reliability Engineering</a></td>
+<td>US, MA, Wilmington, United States of America</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Engineer--Reliability-Engineering_R266604">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Mcadams</strong></td>
 <td><a href="https://trueinterview.io/jobs/da93e557-a883-4408-9a7d-a428cd3f8460">SUE CAD Technician</a></td>
@@ -456,20 +477,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1941b0ce-f153-4d04-ab83-ff13e7bafcc2">New College Grad - Engineer, Node Development PE</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44544545">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6745c330-1df6-4580-a11a-8f52f8aaf0e8">New College Grad - Films, Metals, and Implant MDE Shift Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44544640">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/09e677d6-7d24-4d75-972d-42e7575be86a">New College Grad - Photolithography MDE Shift Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44544569">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>

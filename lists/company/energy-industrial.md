@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**32 open roles.** 27 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**31 open roles.** 26 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -149,13 +149,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Washington, DC<br/>Columbia, SC or Washington, DC<br/>Columbia, South Carolina<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5389735008">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Panasonic</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fa429fc-a211-4dcf-8ff6-8d957e81d152">Software Engineer I – Embedded Systems</a></td>
-<td>Irvine, California, United States</td>
-<td align="center"><a href="https://careers.na.panasonic.com/jobs/50269?lang=en-us">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Albireo Energy</strong></td>

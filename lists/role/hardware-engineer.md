@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**70 open roles.** 68 in the United States & Canada · 2 elsewhere in the world.
+**72 open roles.** 70 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nebius Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/fca9e3b0-ccb9-4bfe-be4d-3c87623a3451">Field Data Center Hardware Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://careers.nebius.com/?gh_jid=4981615101">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/8045307a-247a-45d4-ac69-209eb94762ab">Post-Silicon Memory Subsystem Validation Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92306?lang=en-us">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/c3438360-1094-4d6e-8a8e-64ecc80ea156">Data Center Hardware Quality &amp; Reliability Engineer</a></td>

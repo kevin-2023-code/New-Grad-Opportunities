@@ -244,7 +244,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Snowflake</strong></td>
 <td><a href="https://trueinterview.io/jobs/fe2afb15-3e0a-4b2c-b00d-6439a482c8ec">Solution Engineer, Enterprise Acquisition</a></td>
-<td>US-NY-New York<br/>US-TN-Remote<br/>Nashville, TN<br/>+4 more</td>
+<td>US-NY-New York<br/>US-TN-Remote<br/>Nashville, TN<br/>+5 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/snowflake/b93dd7ef-bb2b-4cc5-aef6-19576a7157fb/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>

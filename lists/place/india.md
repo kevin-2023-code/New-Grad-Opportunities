@@ -2,7 +2,7 @@
 
 # 🇮🇳 Bengaluru & India
 
-**29 open roles.**
+**30 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -24,6 +24,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c7028ff3-35d9-432f-82e5-1ae5aa57a19d">Software Engineer Applications _Intern</a></td>
 <td>Pune</td>
 <td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Pune/Software-Engineer-Applications--Intern_R031681">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/40b27eac-92e7-4dae-b7bf-598951575396">Full stack Engineer(Java, Angular)</a></td>
+<td>Bangalore, India</td>
+<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Full-stack-Engineer-Java--Angular-_R68231">Apply</a></td>
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>

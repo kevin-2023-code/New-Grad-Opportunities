@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**85 open roles.** 54 in the United States & Canada · 31 elsewhere in the world.
+**86 open roles.** 55 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Jetsupport</strong></td>
+<td><a href="https://trueinterview.io/jobs/41f3b158-b256-454e-a70b-84c59cd3de07">AI Engineer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://jobs.lever.co/jetsupport/7bf02396-4215-48f4-856d-4ec64b2a5400/apply">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Aifund</strong></td>
 <td><a href="https://trueinterview.io/jobs/ae1e31f7-2e5c-490d-a14b-89cdf669eef0">Software Engineer, AI Systems (Canada)</a></td>

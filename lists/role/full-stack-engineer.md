@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**34 open roles.** 18 in the United States & Canada · 16 elsewhere in the world.
+**35 open roles.** 18 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -155,6 +155,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/40b27eac-92e7-4dae-b7bf-598951575396">Full stack Engineer(Java, Angular)</a></td>
+<td>Bangalore, India</td>
+<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Full-stack-Engineer-Java--Angular-_R68231">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/aee2ceb4-21c2-41d1-8059-55839a1ea024">IN_Senior Associate_MERN Full Stack Developer_GCC_Advisory_Bangalore</a></td>

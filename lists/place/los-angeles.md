@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**108 open roles.**
+**107 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -666,13 +666,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/728b4e59-ffd6-40d7-b387-706ba9c4642b">Guidance, Navigation &amp; Control (GNC) Engineer - Navigation and Estimation- Air Dominance &amp; Strike</a></td>
 <td>Costa Mesa, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5210670007?gh_jid=5210670007">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Panasonic</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fa429fc-a211-4dcf-8ff6-8d957e81d152">Software Engineer I – Embedded Systems</a></td>
-<td>Irvine, California, United States</td>
-<td align="center"><a href="https://careers.na.panasonic.com/jobs/50269?lang=en-us">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
