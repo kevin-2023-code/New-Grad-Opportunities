@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**69 open roles.**
+**71 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,7 +18,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>LinkedIn</strong></td>
+<td><a href="https://trueinterview.io/jobs/f02df977-0300-4cd5-94d0-0fda4347273e">Engineer, Data Center</a></td>
+<td>Hillsboro, OR, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/LinkedIn3/744000152527599-engineer-data-center?oga=true">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3ee8fdb-66c2-4110-a8e2-9a52cb82b96e">FFEO FORGE Technical Leads Exhaust Engineer</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/FFEO-FORGE-Technical-Leads-Exhaust-Engineer_JR0287570">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/41ec13aa-656e-43a4-bd86-c50d047f0c01">Manufacturing Systems Software Development Engineer</a></td>
 <td>US, Oregon, Hillsboro, United States of America<br/>US, Arizona, Phoenix</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Manufacturing-Systems-Software-Development-Engineer_JR0287191">Apply</a></td>

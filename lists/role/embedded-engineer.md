@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**21 open roles.** 20 in the United States & Canada · 1 elsewhere in the world.
+**21 open roles.** 19 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -68,13 +68,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f71c7b2-7d10-4209-9dba-47d1183588d1">Entry Electrical Engineering Embedded Power Solutions (ON-SITE Houston, TX)</a></td>
-<td>Spring, Texas, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Entry-Electrical-Engineering-Embedded-Power-Solutions_1211914-2">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6ba626f3-4008-4117-ad3d-bf002fd6d739">Embedded Software Test Engineer Graduate</a></td>
 <td>Spring, Texas, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Embedded-Software-Test-Engineer-Graduate_1213438-1">Apply</a></td>
@@ -169,6 +162,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Miovision</strong></td>
+<td><a href="https://trueinterview.io/jobs/d926b754-88b6-4f4a-8cd9-a127b703b4a9">Firmware Developer</a></td>
+<td>Kitchener</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/miovision/4299ecd6-f3dd-4d14-a0b0-872cd089dcf2/application">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Delart</strong></td>
 <td><a href="https://trueinterview.io/jobs/e67dd4fe-46df-4fc7-b505-1de71402ba0f">Board Support Package (BSP) Firmware Engineer</a></td>

@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**217 open roles.** 171 in the United States & Canada · 46 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**220 open roles.** 175 in the United States & Canada · 45 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Airbnb</strong></td>
+<td><a href="https://trueinterview.io/jobs/391d71b2-92e1-45ed-adb7-4ef937331d0d">Software Engineer, Passport &amp; Commerce, Web</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers.airbnb.com/positions/8239930?gh_jid=8239930">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Anthropic</strong></td>
+<td><a href="https://trueinterview.io/jobs/069be446-04dc-4d34-b3ac-cb1d83e92efd">Research Engineer / Research Scientist, RL Frontiers</a></td>
+<td>San Francisco, CA<br/>Seattle, WA<br/>New York City, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5438044008">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a449d641-c2b5-40da-9ead-22ca3aa7fb88">Research Engineer / Performance Engineer, RL Distributed Systems</a></td>
+<td>San Francisco, CA<br/>Seattle, WA<br/>New York City, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5438030008">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Spotify</strong></td>
 <td><a href="https://trueinterview.io/jobs/26bfec4a-ca0a-4901-989a-0acc490a149b">Backend Engineer, Music</a></td>
 <td>Boston, MA<br/>New York, NY<br/>Miami</td>
 <td align="center"><a href="https://www.lifeatspotify.com/jobs/backend-engineer-music">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Snowflake</strong></td>
+<td><a href="https://trueinterview.io/jobs/b19cef8a-810e-4e89-858b-a7b02de8ed2e">Software Engineer - SnowConvert AI</a></td>
+<td>US-CA-Menlo Park</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/2a928b93-a5d4-4285-a92c-032fb389faa2">Apply</a></td>
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>
@@ -1287,13 +1315,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e74f33be-0671-4339-8251-c46d545112c6">Pessoa Desenvolvedora IOS |  Core Business Products Engineering</a></td>
 <td>São Paulo, Brazil<br/>C6 Bank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4734634005">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Arista Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/efd88f84-9504-44dd-9e58-f8d554d60d09">Software Engineer Graduate 2026/2027</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149958449-software-engineer-graduate-2026-2027?oga=true">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

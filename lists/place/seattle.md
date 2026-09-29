@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**90 open roles.**
+**93 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,7 +18,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Genscript/probio</strong></td>
+<td><a href="https://trueinterview.io/jobs/022af072-2168-4c2e-a632-c50639569c44">Research Scientist, Lipid Chemistry</a></td>
+<td>Redmond, Washington, United States<br/>USA- Redmond, WA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/genscript/jobs/5252287007">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Anthropic</strong></td>
+<td><a href="https://trueinterview.io/jobs/069be446-04dc-4d34-b3ac-cb1d83e92efd">Research Engineer / Research Scientist, RL Frontiers</a></td>
+<td>Seattle, WA<br/>San Francisco, CA<br/>New York City, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5438044008">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a449d641-c2b5-40da-9ead-22ca3aa7fb88">Research Engineer / Performance Engineer, RL Distributed Systems</a></td>
+<td>Seattle, WA<br/>San Francisco, CA<br/>New York City, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5438030008">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f88d4466-6266-490f-98fe-9f10e07c7d9b">Product Designer, Claude Developer Platform</a> 🌐</td>
 <td>Remote — United States<br/>Seattle, WA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5397654008">Apply</a></td>

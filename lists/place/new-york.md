@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**137 open roles.**
+**140 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Rogo</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0144ab2-8c1c-491a-b9f3-d41aa81f4a55">Security Engineer, Cloud</a></td>
+<td>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rogo/4ba0410d-e51e-4ad2-b850-ffa62d58c24b/application">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Anthropic</strong></td>
+<td><a href="https://trueinterview.io/jobs/069be446-04dc-4d34-b3ac-cb1d83e92efd">Research Engineer / Research Scientist, RL Frontiers</a></td>
+<td>New York City, NY<br/>San Francisco, CA<br/>Seattle, WA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5438044008">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a449d641-c2b5-40da-9ead-22ca3aa7fb88">Research Engineer / Performance Engineer, RL Distributed Systems</a></td>
+<td>New York City, NY<br/>San Francisco, CA<br/>Seattle, WA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5438030008">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Spotify</strong></td>
 <td><a href="https://trueinterview.io/jobs/26bfec4a-ca0a-4901-989a-0acc490a149b">Backend Engineer, Music</a></td>

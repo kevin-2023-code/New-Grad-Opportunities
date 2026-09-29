@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**43 open roles.** 33 in the United States & Canada · 10 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**45 open roles.** 35 in the United States & Canada · 10 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Genscript/probio</strong></td>
+<td><a href="https://trueinterview.io/jobs/022af072-2168-4c2e-a632-c50639569c44">Research Scientist, Lipid Chemistry</a></td>
+<td>Redmond, Washington, United States<br/>USA- Redmond, WA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/genscript/jobs/5252287007">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Natera</strong></td>
+<td><a href="https://trueinterview.io/jobs/f548ee87-f6dc-44c6-b0e0-e8f031efa50e">Salesforce Software Engineer</a></td>
+<td>Austin, TX<br/>US - TX - Austin</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/natera/jobs/6209754004">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Neuralink</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed6ba189-4117-4be9-acfc-600ff28f34cd">Robotics Engineer</a></td>

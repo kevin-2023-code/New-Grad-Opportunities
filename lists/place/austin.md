@@ -25,6 +25,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Natera</strong></td>
+<td><a href="https://trueinterview.io/jobs/f548ee87-f6dc-44c6-b0e0-e8f031efa50e">Salesforce Software Engineer</a></td>
+<td>Austin, TX<br/>US - TX - Austin</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/natera/jobs/6209754004">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/05989bef-26c2-45f3-b720-9209fca5c7b0">GFXIP Architecture Engineer</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States</td>
@@ -456,13 +463,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9e024099-4639-4753-922c-f9c5da123686">Entry Level Digital Validation Engineer</a></td>
 <td>Austin (Oakhill, Office), United States of America</td>
 <td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Validation-Engineer_R-10065559">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/496d9f7b-09f3-41ec-bd0a-138d83ee1dfb">Entry Level Digital Verification Engineer</a></td>
-<td>Austin (Oakhill, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Verification-Engineer_R-10065543">Apply</a></td>
 <td align="center">7 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**59 open roles.** 39 in the United States & Canada · 20 elsewhere in the world.
+**60 open roles.** 39 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -302,6 +302,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Skydropx Frenet</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5a6d065-0e5f-4687-8f6f-03d814b5a70e">Data Engineer</a></td>
+<td>Colombia</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydropx/52f30663-cca5-40d8-80fb-19cf4ff5b297/application">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/79fbcd23-8924-46d4-9fc4-48b96a23ed84">IN_Senior Manager_Azure Data Engineer_OC-Data &amp; Analytics AITH_Advisory_Bhubaneswar</a></td>

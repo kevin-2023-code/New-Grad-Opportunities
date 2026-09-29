@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**220 open roles.** 149 in the United States & Canada · 71 elsewhere in the world. Postings the pipeline classified as remote.
+**222 open roles.** 150 in the United States & Canada · 72 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Airbnb</strong></td>
+<td><a href="https://trueinterview.io/jobs/391d71b2-92e1-45ed-adb7-4ef937331d0d">Software Engineer, Passport &amp; Commerce, Web</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers.airbnb.com/positions/8239930?gh_jid=8239930">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/0e6a4b9b-3a85-48ff-b81b-d86e48a45775">Security Engineer, GPU Kernel Driver</a> 🌐</td>
@@ -1072,6 +1079,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tenex.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4d52ee4-1232-46e4-b970-8c50db0f3f23">Forward Deployed Implementation Engineer (Dubai)</a> 🌐</td>
+<td>Remote — United Arab Emirates</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/tenex/1488b267-037e-4094-9198-8d82ae43a703/application">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Shape</strong></td>
 <td><a href="https://trueinterview.io/jobs/712513e3-0754-4e74-acc3-6b45fd17f125">AI Engineer</a> 🌐</td>

@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**340 open roles.** 223 in the United States & Canada · 117 elsewhere in the world.
+**352 open roles.** 233 in the United States & Canada · 119 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,80 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Genscript/probio</strong></td>
+<td><a href="https://trueinterview.io/jobs/022af072-2168-4c2e-a632-c50639569c44">Research Scientist, Lipid Chemistry</a></td>
+<td>Redmond, Washington, United States<br/>USA- Redmond, WA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/genscript/jobs/5252287007">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Anthropic</strong></td>
+<td><a href="https://trueinterview.io/jobs/069be446-04dc-4d34-b3ac-cb1d83e92efd">Research Engineer / Research Scientist, RL Frontiers</a></td>
+<td>San Francisco, CA<br/>Seattle, WA<br/>New York City, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5438044008">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a449d641-c2b5-40da-9ead-22ca3aa7fb88">Research Engineer / Performance Engineer, RL Distributed Systems</a></td>
+<td>San Francisco, CA<br/>Seattle, WA<br/>New York City, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5438030008">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Oracle</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7ccab98-edaf-4feb-ad94-f6312c3737be">Data Quality &amp; Governance Analyst (Nashville, TN)</a></td>
+<td>Nashville, TN, United States</td>
+<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/343895">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Jetsupport</strong></td>
 <td><a href="https://trueinterview.io/jobs/41f3b158-b256-454e-a70b-84c59cd3de07">AI Engineer</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://jobs.lever.co/jetsupport/7bf02396-4215-48f4-856d-4ec64b2a5400/apply">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/361c16b4-1532-464d-84fc-e7ee9e5c0904">Research Engineer, Privacy Evals - Meta Superintelligence Labs</a></td>
+<td>Menlo Park, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1083634127930537/">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/a51a7395-18d4-44e1-bc86-e08283d3ee11">Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026</a></td>
+<td>Santa Clara, CA, US<br/>US, CA, Santa Clara</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a2245e51-c5b6-4e62-9572-5c9b2f05bd98">Research Scientist, Fundamental Generative AI - New College Grad 2026</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397928927">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Parsons Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/1022a654-9083-4993-aaa4-e0314931e8d4">Software Engineer / Research Scientist</a></td>
+<td>Aberdeen, United States</td>
+<td align="center"><a href="https://4dayweek.io/job/software-engineer-research-scientist-at-parsons-corporation-218039bd">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bf9ae43-a675-4503-9d48-d142db9b91f4">Machine Learning Engineer</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.servicenow.com/jobs/744000152540769/machine-learning-engineer/">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Snowflake</strong></td>
+<td><a href="https://trueinterview.io/jobs/b19cef8a-810e-4e89-858b-a7b02de8ed2e">Software Engineer - SnowConvert AI</a></td>
+<td>US-CA-Menlo Park</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/2a928b93-a5d4-4285-a92c-032fb389faa2">Apply</a></td>
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>
@@ -1590,6 +1660,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Skydropx Frenet</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5a6d065-0e5f-4687-8f6f-03d814b5a70e">Data Engineer</a></td>
+<td>Colombia</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydropx/52f30663-cca5-40d8-80fb-19cf4ff5b297/application">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cobot</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc5bd20b-30ea-4317-8509-6dfef0057cba">Mechanical Engineer, AI Data Collection</a></td>
+<td>Santa Clara</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cobot/f060d83e-3b73-4a41-b8e1-c19359d572b4/application">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Desjardins</strong></td>
 <td><a href="https://trueinterview.io/jobs/016fc0fe-69aa-46b5-85bc-1038526d3385">Data Scientist, Validation of Financial and AI Models</a></td>

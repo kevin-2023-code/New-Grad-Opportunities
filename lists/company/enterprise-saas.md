@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**101 open roles.** 69 in the United States & Canada · 32 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**103 open roles.** 71 in the United States & Canada · 32 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Oracle</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7ccab98-edaf-4feb-ad94-f6312c3737be">Data Quality &amp; Governance Analyst (Nashville, TN)</a></td>
+<td>Nashville, TN, United States</td>
+<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/343895">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bf9ae43-a675-4503-9d48-d142db9b91f4">Machine Learning Engineer</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.servicenow.com/jobs/744000152540769/machine-learning-engineer/">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/cb59eb92-a2f6-451d-8900-8b4aab49ad36">Software Engineer, AI Systems (PMTS)</a></td>

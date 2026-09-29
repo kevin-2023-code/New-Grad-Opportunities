@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**25 open roles.** 23 in the United States & Canada · 2 elsewhere in the world.
+**31 open roles.** 29 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Genscript/probio</strong></td>
+<td><a href="https://trueinterview.io/jobs/022af072-2168-4c2e-a632-c50639569c44">Research Scientist, Lipid Chemistry</a></td>
+<td>Redmond, Washington, United States<br/>USA- Redmond, WA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/genscript/jobs/5252287007">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Anthropic</strong></td>
+<td><a href="https://trueinterview.io/jobs/069be446-04dc-4d34-b3ac-cb1d83e92efd">Research Engineer / Research Scientist, RL Frontiers</a></td>
+<td>San Francisco, CA<br/>Seattle, WA<br/>New York City, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5438044008">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a449d641-c2b5-40da-9ead-22ca3aa7fb88">Research Engineer / Performance Engineer, RL Distributed Systems</a></td>
+<td>San Francisco, CA<br/>Seattle, WA<br/>New York City, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5438030008">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/361c16b4-1532-464d-84fc-e7ee9e5c0904">Research Engineer, Privacy Evals - Meta Superintelligence Labs</a></td>
+<td>Menlo Park, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1083634127930537/">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2245e51-c5b6-4e62-9572-5c9b2f05bd98">Research Scientist, Fundamental Generative AI - New College Grad 2026</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397928927">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Parsons Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/1022a654-9083-4993-aaa4-e0314931e8d4">Software Engineer / Research Scientist</a></td>
+<td>Aberdeen, United States</td>
+<td align="center"><a href="https://4dayweek.io/job/software-engineer-research-scientist-at-parsons-corporation-218039bd">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Hud</strong></td>
 <td><a href="https://trueinterview.io/jobs/cac3c550-c650-4137-b09c-de9cc254cba9">Research Engineer, Robotics Data</a> 🌐</td>

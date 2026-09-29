@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**42 open roles.** 40 in the United States & Canada · 2 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**44 open roles.** 42 in the United States & Canada · 2 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>LinkedIn</strong></td>
+<td><a href="https://trueinterview.io/jobs/f02df977-0300-4cd5-94d0-0fda4347273e">Engineer, Data Center</a></td>
+<td>Hillsboro, OR, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/LinkedIn3/744000152527599-engineer-data-center?oga=true">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Spotify</strong></td>
 <td><a href="https://trueinterview.io/jobs/26bfec4a-ca0a-4901-989a-0acc490a149b">Backend Engineer, Music</a></td>
 <td>Boston, MA<br/>New York, NY<br/>Miami</td>
 <td align="center"><a href="https://www.lifeatspotify.com/jobs/backend-engineer-music">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/361c16b4-1532-464d-84fc-e7ee9e5c0904">Research Engineer, Privacy Evals - Meta Superintelligence Labs</a></td>
+<td>Menlo Park, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1083634127930537/">Apply</a></td>
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>

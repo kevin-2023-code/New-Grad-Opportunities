@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**130 open roles.** 67 in the United States & Canada · 63 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**131 open roles.** 68 in the United States & Canada · 63 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Agile Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/372a5f6e-d9f7-4d2a-9d27-f89efaf243db">Java Engineer</a></td>
+<td>Rosslyn, VA</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/fd51b24e-dcbd-45e5-a6fc-ecde758dfee7/apply">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/caa40f9f-8009-491a-9fe6-e94e411c035f">Endpoint Systems Administrator</a></td>
 <td>Redstone Arsenal, AL</td>
 <td align="center"><a href="https://jobs.lever.co/agile-defense/f4c668d4-685b-4912-8f2b-7904db0c3b1f/apply">Apply</a></td>

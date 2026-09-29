@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**164 open roles.** 152 in the United States & Canada · 12 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**166 open roles.** 154 in the United States & Canada · 12 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,10 +25,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/e90e4b32-d313-4fe9-a54d-112cd87234d4">Systems Engineer, Strategic Defense</a></td>
+<td>Huntsville, Alabama, United States<br/>Irvine, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5252183007?gh_jid=5252183007">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Parsons Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/e2b87b9f-b641-48f5-8828-14bc847a9d5a">CNO Python Developer</a></td>
 <td>Field Location, United States</td>
 <td align="center"><a href="https://4dayweek.io/job/cno-python-developer-at-parsons-corporation-aca55b8d">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1022a654-9083-4993-aaa4-e0314931e8d4">Software Engineer / Research Scientist</a></td>
+<td>Aberdeen, United States</td>
+<td align="center"><a href="https://4dayweek.io/job/software-engineer-research-scientist-at-parsons-corporation-218039bd">Apply</a></td>
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**107 open roles.**
+**108 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/e90e4b32-d313-4fe9-a54d-112cd87234d4">Systems Engineer, Strategic Defense</a></td>
+<td>Irvine, California, United States<br/>Huntsville, Alabama, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5252183007?gh_jid=5252183007">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d9dfd8e4-41f7-41a7-9299-ade88bd32c88">Automation Test Software Engineer, Manufacturing</a></td>
 <td>Irvine, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5250595007?gh_jid=5250595007">Apply</a></td>

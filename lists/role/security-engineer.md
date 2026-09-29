@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**52 open roles.** 36 in the United States & Canada · 16 elsewhere in the world.
+**53 open roles.** 37 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Rogo</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0144ab2-8c1c-491a-b9f3-d41aa81f4a55">Security Engineer, Cloud</a></td>
+<td>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rogo/4ba0410d-e51e-4ad2-b850-ffa62d58c24b/application">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/0e6a4b9b-3a85-48ff-b81b-d86e48a45775">Security Engineer, GPU Kernel Driver</a> 🌐</td>

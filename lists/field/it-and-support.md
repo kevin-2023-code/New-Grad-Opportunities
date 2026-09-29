@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Eos</strong></td>
+<td><a href="https://trueinterview.io/jobs/73817f70-85cb-40ec-a517-ec4d5dc29791">Data Center Technician</a></td>
+<td>Cheyenne, Wyoming, United States<br/>Jeffersonville, Indiana, United States</td>
+<td align="center"><a href="https://eosits.com/company/careers/?gh_jid=8853931002">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Socket</strong></td>
 <td><a href="https://trueinterview.io/jobs/ca0bfd64-f06a-402b-8279-8cc5cd9948c6">Technical Support Engineer</a> 🌐</td>
 <td>Remote — United States</td>
@@ -29,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/99842958-be7a-4de3-a3d5-52de31a8bf25">Technical Customer Support Representative</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/medrio/jobs/8854042002">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Eos</strong></td>
-<td><a href="https://trueinterview.io/jobs/73817f70-85cb-40ec-a517-ec4d5dc29791">Data Center FieldOps Technician</a></td>
-<td>Cheyenne, Wyoming, United States</td>
-<td align="center"><a href="https://eosits.com/company/careers/?gh_jid=8853931002">Apply</a></td>
 <td align="center">28 Sep 2026</td>
 </tr>
 <tr>

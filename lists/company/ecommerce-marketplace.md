@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**51 open roles.** 29 in the United States & Canada · 22 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**53 open roles.** 30 in the United States & Canada · 23 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Airbnb</strong></td>
+<td><a href="https://trueinterview.io/jobs/391d71b2-92e1-45ed-adb7-4ef937331d0d">Software Engineer, Passport &amp; Commerce, Web</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers.airbnb.com/positions/8239930?gh_jid=8239930">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/bbcde7a6-22ec-42df-8fc1-d4399593da1b">ASIC Engineer I, Annapurna Labs, Early Career - 2027</a></td>
@@ -232,6 +239,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Skydropx Frenet</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5a6d065-0e5f-4687-8f6f-03d814b5a70e">Data Engineer</a></td>
+<td>Colombia</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydropx/52f30663-cca5-40d8-80fb-19cf4ff5b297/application">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/de266138-0905-4590-a1a5-05a49f14a8f0">Controls Engineer, Thailand Data Center Controls Deployment &amp; Service (CDS)</a></td>

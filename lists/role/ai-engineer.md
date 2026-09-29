@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**86 open roles.** 55 in the United States & Canada · 31 elsewhere in the world.
+**88 open roles.** 56 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/41f3b158-b256-454e-a70b-84c59cd3de07">AI Engineer</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://jobs.lever.co/jetsupport/7bf02396-4215-48f4-856d-4ec64b2a5400/apply">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Snowflake</strong></td>
+<td><a href="https://trueinterview.io/jobs/b19cef8a-810e-4e89-858b-a7b02de8ed2e">Software Engineer - SnowConvert AI</a></td>
+<td>US-CA-Menlo Park</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/2a928b93-a5d4-4285-a92c-032fb389faa2">Apply</a></td>
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>
@@ -414,6 +421,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cobot</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc5bd20b-30ea-4317-8509-6dfef0057cba">Mechanical Engineer, AI Data Collection</a></td>
+<td>Santa Clara</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cobot/f060d83e-3b73-4a41-b8e1-c19359d572b4/application">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/48d4ba16-cb9a-4001-baa0-dc8ade9d6d70">AI Tools and Cloud Software Developer</a></td>
