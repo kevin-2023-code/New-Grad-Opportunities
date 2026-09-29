@@ -2,7 +2,7 @@
 
 # Platform Engineer
 
-**29 open roles.** 18 in the United States & Canada · 11 elsewhere in the world.
+**28 open roles.** 18 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -196,13 +196,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Needham</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/hyannisportresearch/jobs/7985899003">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Assist World</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1a9bd0f-bd5c-4737-9377-0384a109b876">Junior/Mid-Level SharePoint &amp; Power Platform Developer</a></td>
-<td>South Africa</td>
-<td align="center"><a href="https://jobs.lever.co/assist-world/f69ee6d3-1318-449f-830f-cd7f6b1280ea/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Wpp</strong></td>

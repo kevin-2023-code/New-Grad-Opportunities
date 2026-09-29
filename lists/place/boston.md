@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**59 open roles.**
+**57 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -110,13 +110,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/c36cba99-f8e9-433c-b552-bddf97b5c20d">1st Shift Quality Engineer</a></td>
-<td>US, MA, Chelmsford, Alpha, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/XMLNAME-1st-Shift-Quality-Engineer_R264743">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d772451e-6833-4a08-b6a0-15db5ee0c9c3">2nd Shift Manufacturing Test Engineer</a></td>
 <td>US, MA, Chelmsford, Alpha, United States of America</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/XMLNAME-2nd-Shift-Manufacturing-Test-Engineer_R264834">Apply</a></td>
@@ -400,13 +393,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d1dac222-a623-4098-9ff0-b18412428e70">R&amp;D Reliability/Test Engineer</a></td>
 <td>Boston, MA<br/>Somerville, Massachusetts</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8109836/apply/?gh_jid=8109836">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b621e655-8fcc-4c2a-8cd2-dcbef6ea540a">3D Print Optimization Engineer</a></td>
-<td>Boston, MA<br/>Somerville, Massachusetts</td>
-<td align="center"><a href="https://careers.formlabs.com/job/8109821/apply/?gh_jid=8109821">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>

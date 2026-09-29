@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**114 open roles.**
+**115 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Heygen</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e456f23-23a2-4e5b-95a1-3471af7f3c56">Software Engineer, GPU Performance</a></td>
+<td>Los Angeles, CA<br/>Palo Alto, CA<br/>San Francisco, CA<br/>+2 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/heygen/jobs/5250979007">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Rocket Lab Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/8c3faee5-0b37-4998-a537-57cdc02f0d33">Avionics Test Engineer I</a></td>
+<td>Long Beach, CA<br/>RL Headquarters</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/8007235003">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/d9dfd8e4-41f7-41a7-9299-ade88bd32c88">Automation Test Software Engineer, Manufacturing</a></td>
@@ -494,13 +508,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>First Resonance</strong></td>
-<td><a href="https://trueinterview.io/jobs/a0e870e4-9d75-4c45-a1bf-06db916006ed">Associate Product Manager</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/first-resonance/b3593940-2496-47cd-aa29-c809370005f9/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/de875d2b-141b-40ad-97a7-3d89555a4101">Mission Integration Engineer (Starshield)</a></td>
 <td>Hawthorne, CA</td>
@@ -669,6 +676,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>World View Enterprises Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/8596ba47-f009-474c-813c-aa5a1e10f1d2">Mechanical Designer</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://jobs.lever.co/world-view-enterprises-inc./5f3716d8-fab1-4734-bca7-48ffa1e006e8/apply">Apply</a></td>
+<td align="center">17 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Field AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/258bda5e-f4fb-4606-831a-8988067c8c93">Field Application Engineer (Off-Road Vehicles) - Irvine, CA</a></td>
 <td>Irvine, CA</td>
@@ -757,13 +771,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b83ced2b-ec4a-4846-9458-74c24afdbc60">Harnessing Engineer</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/antares/999f09b9-b661-4c36-94bb-f41a35a35e0e/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2664634-34f5-4879-8c72-00b7ff64938d">Design Reliability Engineer (Falcon &amp; Dragon)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8682164002?gh_jid=8682164002">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>

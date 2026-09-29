@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**86 open roles.** 58 in the United States & Canada · 28 elsewhere in the world.
+**85 open roles.** 57 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -415,13 +415,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Bastrop, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8677846002?gh_jid=8677846002">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/4809f06f-55ae-4ebe-9e8b-f273d0a94ef0">AI/ML Silicon Verification Solutions Engineer – Tools</a></td>
-<td>US, CA, San Jose<br/>San Jose, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/88534?lang=en-us">Apply</a></td>
-<td align="center">31 Jul 2026</td>
 </tr>
 </tbody>
 </table>

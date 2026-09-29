@@ -2,7 +2,7 @@
 
 # 🇦🇺 Sydney, Melbourne & Aotearoa
 
-**13 open roles.**
+**14 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Halter</strong></td>
+<td><a href="https://trueinterview.io/jobs/50a4c4a5-731d-4e8c-819e-c46a56431271">Device Performance Engineer</a></td>
+<td>Auckland</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/halter/39b8b9a5-35e5-428f-812e-12cd9decd23d/application">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Rocket Lab Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/f06cb225-fd04-4f59-81a8-6e0aa2933f43">Software Build Engineer</a></td>

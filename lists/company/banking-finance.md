@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**64 open roles.** 26 in the United States & Canada · 38 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**62 open roles.** 25 in the United States & Canada · 37 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -123,13 +123,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a1b181b5-8164-49d8-848d-46c75b89f0af">Applied AI ML Associate</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783433">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>8vc</strong></td>
 <td><a href="https://trueinterview.io/jobs/375704d8-e2ee-4a33-b7e4-e834db397bfd">Systems Administrator, IT &amp; TechOps</a></td>
 <td>San Francisco, CA</td>
@@ -211,13 +204,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Experian</strong></td>
-<td><a href="https://trueinterview.io/jobs/a012b069-0749-42e3-957d-1515095c1408">Analytics Engineer Pleno - CRM</a></td>
-<td>São Paulo, , Brazil</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000152241799-analytics-engineer-pleno-crm?oga=true">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Desjardins</strong></td>
 <td><a href="https://trueinterview.io/jobs/59d4c64a-e8f2-4f66-b81c-2b78b8f520ff">Data Scientist, Credit Risk Quantification</a></td>

@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**18 open roles.**
+**17 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -127,13 +127,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/334efd44-b5ce-40eb-af0c-02f6f0554ac7">Process Engineer</a></td>
 <td>Atlanta, GA<br/>Atlanta, Georgia<br/>Green Bay, Wisconsin<br/>+3 more</td>
 <td align="center"><a href="https://jobs.lever.co/foth/e19dfe89-19ee-440c-9e7d-fae89dc955b4/apply">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Salesforce</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1734dbe-4d9c-47c7-a44a-c7914fac7119">Forward Deployed Engineer (FDE) — Agentforce Orchestration</a></td>
-<td>Georgia - Atlanta, United States of America<br/>Illinois - Chicago<br/>New York - New York<br/>+8 more</td>
-<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Forward-Deployed-Engineer--FDE----Agentforce-Orchestration_JR357427">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>

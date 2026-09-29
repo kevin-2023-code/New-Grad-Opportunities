@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**52 open roles.**
+**50 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,13 +19,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Experian</strong></td>
-<td><a href="https://trueinterview.io/jobs/a012b069-0749-42e3-957d-1515095c1408">Analytics Engineer Pleno - CRM</a></td>
-<td>São Paulo, , Brazil</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000152241799-analytics-engineer-pleno-crm?oga=true">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Capco</strong></td>
 <td><a href="https://trueinterview.io/jobs/932dcfbb-ab02-4493-b722-f60281c33bdf">Engenheiro de Poços - Remoto</a></td>
@@ -290,13 +283,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/71da6ab1-017b-46e2-ad6c-05670c970b1f">Power Platform Support Engineer</a></td>
 <td>Mexico City, Mexico City, Mexico</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/wpp/jobs/8487083002">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Avertium</strong></td>
-<td><a href="https://trueinterview.io/jobs/a051ee63-5f58-442e-867b-a2d7bfc60cfc">CyberSecurity Engineer | LogRhythm</a></td>
-<td>Guadalajara, Mexico</td>
-<td align="center"><a href="https://jobs.lever.co/avertium/b8eed3c9-a43e-4683-9201-b8cfc78fd218/apply">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>

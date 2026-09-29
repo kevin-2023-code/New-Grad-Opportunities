@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**74 open roles.** 43 in the United States & Canada · 31 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**75 open roles.** 43 in the United States & Canada · 32 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -545,6 +545,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8697428f-43ba-436a-a9a3-4045f2fe4cbc">Service Desk Engineer</a></td>
 <td>Cambridge</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/red-gate/154b8894-aaa2-4063-8d88-60b62f0538f7/application">Apply</a></td>
+<td align="center">4 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Dash0</strong></td>
+<td><a href="https://trueinterview.io/jobs/ed7e266b-b486-48b4-b9e6-74a393873e5f">Commercial Solutions Engineer - Nordics</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/dash0/31c63bf9-c837-43c4-9deb-ba0da290cdd7/application">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 </tbody>

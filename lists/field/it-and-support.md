@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**147 open roles.** 110 in the United States & Canada · 37 elsewhere in the world.
+**149 open roles.** 112 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,11 +18,25 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Abacus</strong></td>
-<td><a href="https://trueinterview.io/jobs/b908d25c-2159-4418-b9bc-95319feeeec8">Escalation Engineer, Enterprise Service Desk</a> 🌐</td>
+<td><strong>Socket</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca0bfd64-f06a-402b-8279-8cc5cd9948c6">Technical Support Engineer</a> 🌐</td>
 <td>Remote — United States</td>
-<td align="center"><a href="https://abacustechnology.com/about/careers/current-vacancies/?gh_jid=8004978003">Apply</a></td>
-<td align="center">24 Sep 2026</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/socket/38de2d3a-a711-4ee5-a022-0bde5390f440/application">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Datacor</strong></td>
+<td><a href="https://trueinterview.io/jobs/92fdb87f-9786-47d0-9230-f429d2f177d2">IT Help Desk Specialist</a></td>
+<td>San Jose, CA<br/>San Jose, Costa Rica<br/>International - Costa Rica</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/datacor/jobs/5250766007">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Zipline</strong></td>
+<td><a href="https://trueinterview.io/jobs/9acf30ef-31a8-4799-ac27-ffe01ec47407">Support Operations Specialist</a></td>
+<td>Las Vegas, Nevada, USA<br/>Aviary - SSF</td>
+<td align="center"><a href="https://www.zipline.com/open-roles/8007174003?gh_jid=8007174003">Apply</a></td>
+<td align="center">28 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Agile Defense</strong></td>
@@ -800,13 +814,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/223c40ce-5d2a-459e-a628-d132e734cf7a">Capital Technical Support Specialist</a></td>
-<td>Heredia, Heredia Province, Costa Rica</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990015735616-capital-technical-support-specialist?oga=true">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Intuitive Surgical</strong></td>
 <td><a href="https://trueinterview.io/jobs/06262add-a70f-457e-9f45-6b17a3e24215">Network Security Operations Center Analyst - Nights</a></td>
 <td>Mexicali, MEXICO, Mexico</td>
@@ -931,6 +938,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Warrington, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.workable.com/view/sxc47dQaGQ2Z5wTUPUodVp/hybrid-soc-analyst-in-warrington-at-allwyn-uk">Apply</a></td>
 <td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ruby Hotels</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0c95203-82ae-4476-aacf-023580697ec5">Specialist Commercial Systems (m/f/d)</a></td>
+<td>Munich<br/>Corporate Office</td>
+<td align="center"><a href="http://job-boards.eu.greenhouse.io/rubyhotels/jobs/4968087101?gh_jid=4968087101">Apply</a></td>
+<td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Awin</strong></td>

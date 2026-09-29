@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,032 open roles.** 763 in the United States & Canada · 269 elsewhere in the world.
+**1,033 open roles.** 763 in the United States & Canada · 270 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Heidi Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/ac5f91de-a22b-44d0-a378-f9e0238613d7">Backend Software Engineer - New Bets</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/heidihealth.com.au/68074198-b723-4db9-af97-5f33392593f4/application">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Barnett Waddingham</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab1bc146-05d4-4db2-8e03-64feb8989c72">IT Operations Engineer</a></td>
+<td>Amersham, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.workable.com/view/jCA7qAG2NwYRtG3YL6opH9/hybrid-it-operations-engineer-in-amersham-at-barnett-waddingham">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Astra North Infoteck Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/c417fd48-18af-4a96-b2cb-047e363bf150">software developer</a></td>
+<td>Mirabel (QC)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50347862">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>CGI</strong></td>
 <td><a href="https://trueinterview.io/jobs/e09ae529-9111-44b5-8f0a-d9d6e2f2be6c">software developer</a></td>
@@ -107,13 +128,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mississauga (ON)</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50331573">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>CASA Mental Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/a0cd078e-ec31-40aa-9828-956393648806">software developer</a></td>
-<td>Edmonton (AB)</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50321553">Apply</a></td>
-<td align="center">19 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Lucidya</strong></td>
@@ -275,13 +289,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Copenhagen, Denmark (Arne Jacobsens)</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Copenhagen-Denmark-Arne-Jacobsens/Cloud-Automation-Engineer_R-291016">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Esri</strong></td>
-<td><a href="https://trueinterview.io/jobs/a04cb953-9d63-499c-bb37-d9cd2e18abbc">Software Development Engineer – Test Automation Infrastructure (SDET)</a></td>
-<td>New Delhi, Delhi, India<br/>New Delhi R&amp;D Center</td>
-<td align="center"><a href="https://www.esri.com/careers/5205062007?gh_jid=5205062007">Apply</a></td>
-<td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Defense Unicorns</strong></td>
@@ -984,13 +991,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Assist World</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1a9bd0f-bd5c-4737-9377-0384a109b876">Junior/Mid-Level SharePoint &amp; Power Platform Developer</a></td>
-<td>South Africa</td>
-<td align="center"><a href="https://jobs.lever.co/assist-world/f69ee6d3-1318-449f-830f-cd7f6b1280ea/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Pingwind</strong></td>
 <td><a href="https://trueinterview.io/jobs/e9cca52a-2e82-46bb-a0a1-f3205986cd2c">Intermediate Appian Developer</a></td>
 <td>Quantico VA</td>
@@ -1205,13 +1205,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/71da6ab1-017b-46e2-ad6c-05670c970b1f">Power Platform Support Engineer</a></td>
 <td>Mexico City, Mexico City, Mexico</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/wpp/jobs/8487083002">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Avertium</strong></td>
-<td><a href="https://trueinterview.io/jobs/a051ee63-5f58-442e-867b-a2d7bfc60cfc">CyberSecurity Engineer | LogRhythm</a></td>
-<td>Guadalajara, Mexico</td>
-<td align="center"><a href="https://jobs.lever.co/avertium/b8eed3c9-a43e-4683-9201-b8cfc78fd218/apply">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
@@ -1537,6 +1530,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">6 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Clera</strong></td>
+<td><a href="https://trueinterview.io/jobs/a104ef02-9dee-4ba9-8a13-db4c9657cc60">Lifecycle Stamp Test</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/clera/ddb462b8-946f-4ec7-9d8b-d66a557831f4/application">Apply</a></td>
+<td align="center">6 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Silver.dev</strong></td>
 <td><a href="https://trueinterview.io/jobs/3ef2de1f-19ba-4d17-94e1-b5687a74cd38">Cognition - Deployed Engineer (BR/MX/AR)</a></td>
 <td>Brazil<br/>Mexico</td>
@@ -1625,6 +1625,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ed1bbc1e-9e20-4b10-898b-8928a35dd5d5">Commercial Solutions Engineer - UK</a></td>
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/dash0/c54c629d-91db-4f21-817c-17cc188c221f/application">Apply</a></td>
+<td align="center">4 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ed7e266b-b486-48b4-b9e6-74a393873e5f">Commercial Solutions Engineer - Nordics</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/dash0/31c63bf9-c837-43c4-9deb-ba0da290cdd7/application">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 <tr>

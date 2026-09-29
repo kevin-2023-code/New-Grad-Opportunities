@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**60 open roles.**
+**61 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Heygen</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e456f23-23a2-4e5b-95a1-3471af7f3c56">Software Engineer, GPU Performance</a></td>
+<td>Toronto, ON<br/>Los Angeles, CA<br/>Palo Alto, CA<br/>+2 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/heygen/jobs/5250979007">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>BMO</strong></td>
 <td><a href="https://trueinterview.io/jobs/43045bc3-9145-47c5-b060-1f5ae44a8961">RPA Platform Admin / Platform Engineer</a></td>

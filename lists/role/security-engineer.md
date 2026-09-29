@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**56 open roles.** 36 in the United States & Canada · 20 elsewhere in the world.
+**56 open roles.** 37 in the United States & Canada · 19 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Patch My Pc</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea91827c-fdb4-490a-91ad-747e6727b300">Cloud Security Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://jobs.lever.co/patchmypc/c6ae9e75-99a1-47fd-8e1b-6b8477fb1902/apply">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Bastion</strong></td>
 <td><a href="https://trueinterview.io/jobs/c0bdc92f-01c8-47b1-bd4c-d8e98d9be913">Security Engineer</a> 🌐</td>
@@ -378,13 +385,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Taipei, Taiwan</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/obsidiansecurity/jobs/5406173008">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Avertium</strong></td>
-<td><a href="https://trueinterview.io/jobs/a051ee63-5f58-442e-867b-a2d7bfc60cfc">CyberSecurity Engineer | LogRhythm</a></td>
-<td>Guadalajara, Mexico</td>
-<td align="center"><a href="https://jobs.lever.co/avertium/b8eed3c9-a43e-4683-9201-b8cfc78fd218/apply">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Govtech</strong></td>

@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**11 open roles.** 3 in the United States & Canada · 8 elsewhere in the world.
+**13 open roles.** 5 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hud</strong></td>
+<td><a href="https://trueinterview.io/jobs/cac3c550-c650-4137-b09c-de9cc254cba9">Research Engineer, Robotics Data</a> 🌐</td>
+<td>Remote — United States, Singapore<br/>Singapore</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hud/3fd8c6f6-e42a-484f-9de8-b51f5849be91/application">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Heygen</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e456f23-23a2-4e5b-95a1-3471af7f3c56">Software Engineer, GPU Performance</a></td>
+<td>Los Angeles, Palo Alto, San Francisco, Toronto, Singapore<br/>Los Angeles, CA<br/>Palo Alto, CA<br/>+2 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/heygen/jobs/5250979007">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Hud</strong></td>
 <td><a href="https://trueinterview.io/jobs/e64205aa-3ebe-4e75-9624-7a7d4a719c14">Research Engineer, Privacy and Anonymization</a></td>

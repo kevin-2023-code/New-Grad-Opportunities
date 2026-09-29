@@ -44,13 +44,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d98612a-4ca5-41c3-bf88-771551cb64d2">Deployment Strategist / Success Engineer</a></td>
-<td>Berlin</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/clera/eb9b0a6d-1a61-4b99-b2ca-cd24f202bada/application">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>The Exploration Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/00263bf5-207a-458b-bc20-414498da4fe4">AIT Test Engineer</a></td>
 <td>Munich, Germany</td>
@@ -98,6 +91,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin, Germany</td>
 <td align="center"><a href="https://4dayweek.io/job/application-security-engineer-at-awin-7b5039da">Apply</a></td>
 <td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ruby Hotels</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0c95203-82ae-4476-aacf-023580697ec5">Specialist Commercial Systems (m/f/d)</a></td>
+<td>Munich<br/>Corporate Office</td>
+<td align="center"><a href="http://job-boards.eu.greenhouse.io/rubyhotels/jobs/4968087101?gh_jid=4968087101">Apply</a></td>
+<td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Zenjob</strong></td>

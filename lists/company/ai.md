@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**189 open roles.** 158 in the United States & Canada · 31 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**190 open roles.** 159 in the United States & Canada · 31 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,13 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/91df63d0-7bbc-40e0-b8a8-20416620378b">Software Engineer, DevOps</a></td>
+<td><a href="https://trueinterview.io/jobs/78022d00-887c-4701-9ee7-5b119aad3fd5">Software Engineer, Product Velocity</a></td>
 <td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b/application">Apply</a></td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/9909555b-3dc4-4ba2-859e-43eae7c97a34/application">Apply</a></td>
 <td align="center">28 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Anthropic</strong></td>
+<td><a href="https://trueinterview.io/jobs/f88d4466-6266-490f-98fe-9f10e07c7d9b">Product Designer, Claude Developer Platform</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5397654008">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/c3438360-1094-4d6e-8a8e-64ecc80ea156">Data Center Hardware Quality &amp; Reliability Engineer</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/e7594296-a38b-43a1-b4f8-01253a3b7732/application">Apply</a></td>

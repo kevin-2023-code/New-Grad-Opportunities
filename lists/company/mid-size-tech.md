@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**87 open roles.** 62 in the United States & Canada · 25 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**86 open roles.** 61 in the United States & Canada · 25 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -428,13 +428,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d1dac222-a623-4098-9ff0-b18412428e70">R&amp;D Reliability/Test Engineer</a></td>
 <td>Boston, MA<br/>Somerville, Massachusetts</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8109836/apply/?gh_jid=8109836">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b621e655-8fcc-4c2a-8cd2-dcbef6ea540a">3D Print Optimization Engineer</a></td>
-<td>Boston, MA<br/>Somerville, Massachusetts</td>
-<td align="center"><a href="https://careers.formlabs.com/job/8109821/apply/?gh_jid=8109821">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 <tr>
