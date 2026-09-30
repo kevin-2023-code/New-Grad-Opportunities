@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**122 open roles.** 90 in the United States & Canada · 32 elsewhere in the world.
+**121 open roles.** 90 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -679,13 +679,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Warsaw</td>
 <td align="center"><a href="https://jobs.lever.co/viabill/2f2f7160-1446-432a-a327-f5326dd5ef42/apply">Apply</a></td>
 <td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/c46fb8b5-44e8-4528-8d71-07362b67f6ce">Product Designer, Amazon Pay India</a></td>
-<td>IN, KA, Bengaluru</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10558482/product-designer-amazon-pay-india">Apply</a></td>
-<td align="center">24 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Lia</strong></td>
