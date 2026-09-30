@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**66 open roles.** 38 in the United States & Canada · 28 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**67 open roles.** 38 in the United States & Canada · 29 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -295,6 +295,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SonarSource</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc64c875-2d1b-47bc-a4c6-305b732ae4da">Cloud Platform Automation Engineer (f/m/d)</a></td>
+<td>Geneva<br/>Bochum</td>
+<td align="center"><a href="https://jobs.lever.co/sonarsource/7a76fc2f-d21a-4e99-a31b-79b5431b610a/apply">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Grafana Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b3b477e-5a90-4d57-9265-34405ca119e9">Solutions Engineer</a> 🌐</td>

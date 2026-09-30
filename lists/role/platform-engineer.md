@@ -2,7 +2,7 @@
 
 # Platform Engineer
 
-**25 open roles.** 15 in the United States & Canada · 10 elsewhere in the world.
+**27 open roles.** 15 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -134,6 +134,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Wise</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d0ea7df-6abd-468c-9fa4-b1bda4414c8a">Platform Engineer - Compute</a></td>
+<td>London, , United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000152722719-platform-engineer-compute?oga=true">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>SonarSource</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc64c875-2d1b-47bc-a4c6-305b732ae4da">Cloud Platform Automation Engineer (f/m/d)</a></td>
+<td>Geneva<br/>Bochum</td>
+<td align="center"><a href="https://jobs.lever.co/sonarsource/7a76fc2f-d21a-4e99-a31b-79b5431b610a/apply">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Isolocity</strong></td>
 <td><a href="https://trueinterview.io/jobs/4f78821a-02ba-412d-9cae-02f8fd639fa8">cloud infrastructure engineer</a></td>

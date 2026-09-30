@@ -6,9 +6,347 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-30T12:23:30.792Z",
-  "count": 1933,
+  "listingsChangedAt": "2026-09-30T18:22:43.708Z",
+  "count": 1938,
   "listings": [
+    {
+      "id": "3451435e-6aae-4735-a468-f0e39e132293",
+      "company": "Atlassian",
+      "title": "Data Scientist, 2027 Graduate U.S.",
+      "locations": [
+        "Seattle - United States - Seattle, Washington United States",
+        "Remote - Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job?mode=apply",
+      "url": "https://trueinterview.io/jobs/3451435e-6aae-4735-a468-f0e39e132293",
+      "postedAt": "2026-09-30T17:53:40.000Z",
+      "updatedAt": "2026-09-30T17:53:40.000Z"
+    },
+    {
+      "id": "8ec49fcc-43b9-45d4-8f80-0eaa4c848146",
+      "company": "Nbcuniversal",
+      "title": "Set/Scenic & Props Engineer",
+      "locations": [
+        "Bedford, , United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.smartrecruiters.com/NBCUniversal3/744000152725341-set-scenic-props-engineer?oga=true",
+      "url": "https://trueinterview.io/jobs/8ec49fcc-43b9-45d4-8f80-0eaa4c848146",
+      "postedAt": "2026-09-30T16:21:03.000Z",
+      "updatedAt": "2026-09-30T16:21:03.000Z"
+    },
+    {
+      "id": "ed90d467-fecc-4f02-a117-78895f170970",
+      "company": "Beyondtrust",
+      "title": "Service Desk Analyst",
+      "locations": [
+        "Hybrid Halifax, NS",
+        "Hybrid Halifax, NS"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "hybrid",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/beyondtrust/jobs/8231687",
+      "url": "https://trueinterview.io/jobs/ed90d467-fecc-4f02-a117-78895f170970",
+      "postedAt": "2026-09-30T16:19:05.000Z",
+      "updatedAt": "2026-09-30T16:19:05.000Z"
+    },
+    {
+      "id": "629fc9d1-b82c-41b6-87c7-6bd187b37c37",
+      "company": "Anduril Industries",
+      "title": "Supplier Quality Engineer, Dive-LD",
+      "locations": [
+        "Quonset, Rhode Island, United States",
+        "Quonset, RI (QRI-01)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5233319007?gh_jid=5233319007",
+      "url": "https://trueinterview.io/jobs/629fc9d1-b82c-41b6-87c7-6bd187b37c37",
+      "postedAt": "2026-09-30T16:09:06.000Z",
+      "updatedAt": "2026-09-30T16:09:06.000Z"
+    },
+    {
+      "id": "8d0ea7df-6abd-468c-9fa4-b1bda4414c8a",
+      "company": "Wise",
+      "title": "Platform Engineer - Compute",
+      "locations": [
+        "London, , United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Platform Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.smartrecruiters.com/Wise/744000152722719-platform-engineer-compute?oga=true",
+      "url": "https://trueinterview.io/jobs/8d0ea7df-6abd-468c-9fa4-b1bda4414c8a",
+      "postedAt": "2026-09-30T16:06:29.000Z",
+      "updatedAt": "2026-09-30T16:06:29.000Z"
+    },
+    {
+      "id": "cc64c875-2d1b-47bc-a4c6-305b732ae4da",
+      "company": "Sonarsource",
+      "title": "Cloud Platform Automation Engineer (f/m/d)",
+      "locations": [
+        "Bochum",
+        "Geneva"
+      ],
+      "cities": [
+        "Geneva"
+      ],
+      "countries": [
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Platform Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/sonarsource/7a76fc2f-d21a-4e99-a31b-79b5431b610a/apply",
+      "url": "https://trueinterview.io/jobs/cc64c875-2d1b-47bc-a4c6-305b732ae4da",
+      "postedAt": "2026-09-30T16:01:06.000Z",
+      "updatedAt": "2026-09-30T16:01:06.000Z"
+    },
+    {
+      "id": "657d4e0f-e576-421e-81e0-e74bf5bc1c80",
+      "company": "Applied Materials",
+      "title": "Process Engineer III - New College Grad (Kalispell, MT)",
+      "locations": [
+        "Kalispell, MT, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318726523",
+      "url": "https://trueinterview.io/jobs/657d4e0f-e576-421e-81e0-e74bf5bc1c80",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "9af79495-ecb2-48a5-a289-8bd8ad99d596",
+      "company": "Intel",
+      "title": "Finance Data Scientist",
+      "locations": [
+        "US, Arizona, Phoenix",
+        "US, California, Santa Clara",
+        "US, Oregon, Hillsboro",
+        "US, Arizona, Phoenix, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Finance-Data-Scientist_JR0287625",
+      "url": "https://trueinterview.io/jobs/9af79495-ecb2-48a5-a289-8bd8ad99d596",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "2d73ed9c-8261-44eb-ab2b-b489e2341ee7",
+      "company": "Micron Technology",
+      "title": "New College Grad - Product Yield Enhancement Engineer, HBM",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/42813179",
+      "url": "https://trueinterview.io/jobs/2d73ed9c-8261-44eb-ab2b-b489e2341ee7",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "ffec12e2-e4dd-47fd-9833-2c47a6242f22",
+      "company": "MLSE",
+      "title": "[C] Salesforce Engineer / Developer",
+      "locations": [
+        "Toronto, Ontario"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/XMLNAME--C--Salesforce-Engineer_JR0000580",
+      "url": "https://trueinterview.io/jobs/ffec12e2-e4dd-47fd-9833-2c47a6242f22",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "3eca1faf-92dc-4025-9044-aa703e919ef5",
+      "company": "NVIDIA",
+      "title": "System Design Engineer - New College Grad 2026",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893392898537",
+      "url": "https://trueinterview.io/jobs/3eca1faf-92dc-4025-9044-aa703e919ef5",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "ad6b6e70-63b1-4be9-97be-7d51d60e8e0e",
+      "company": "NXP Semiconductors",
+      "title": "Yield Enhancement Engineering Tech",
+      "locations": [
+        "Chandler (Manufacturing), United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Manufacturing/Yield-Enhancement-Engineering-Tech_R-10067029-1",
+      "url": "https://trueinterview.io/jobs/ad6b6e70-63b1-4be9-97be-7d51d60e8e0e",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "2c97111c-7ca6-45e5-91a3-ef91cf8bf8a2",
+      "company": "Palo Alto Networks",
+      "title": "Account Executive - Federal",
+      "locations": [
+        "Arlington, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Arlington-United-States-of-America/Account-Executive---Federal_JR-022964-1",
+      "url": "https://trueinterview.io/jobs/2c97111c-7ca6-45e5-91a3-ef91cf8bf8a2",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
     {
       "id": "28102c38-bd94-49e2-956f-d5c2df0573b4",
       "company": "Macquarie Technology Group",
@@ -1220,32 +1558,6 @@
       "url": "https://trueinterview.io/jobs/c67b307c-73ec-4adc-9619-7f013adaf946",
       "postedAt": "2026-09-27T16:15:48.000Z",
       "updatedAt": "2026-09-27T16:15:48.000Z"
-    },
-    {
-      "id": "5e0edb97-8cdf-45c2-9102-c01dcd637aca",
-      "company": "Intel",
-      "title": "Physical Design Engineer",
-      "locations": [
-        "US, Massachusetts, Beaver Brook, United States of America",
-        "US, Arizona, Phoenix"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Massachusetts-Beaver-Brook/Physical-Design-Engineer_JR0285374",
-      "url": "https://trueinterview.io/jobs/5e0edb97-8cdf-45c2-9102-c01dcd637aca",
-      "postedAt": "2026-09-27T00:00:00.000Z",
-      "updatedAt": "2026-09-27T00:00:00.000Z"
     },
     {
       "id": "475bbc77-5032-48ec-88d0-7f9e8f19369b",
@@ -3058,57 +3370,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.keysight.com/external/jobs/54647?lang=en-us",
       "url": "https://trueinterview.io/jobs/656ce3fc-44f6-4eec-baa6-d9f8fcb641ad",
-      "postedAt": "2026-09-24T00:00:00.000Z",
-      "updatedAt": "2026-09-24T00:00:00.000Z"
-    },
-    {
-      "id": "381cfbf5-0a0e-431f-a869-974b732042ae",
-      "company": "KLA",
-      "title": "Software Applications Engineer",
-      "locations": [
-        "Milpitas, CA, United States of America",
-        "Virtual/Remote USA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
-      "url": "https://trueinterview.io/jobs/381cfbf5-0a0e-431f-a869-974b732042ae",
-      "postedAt": "2026-09-24T00:00:00.000Z",
-      "updatedAt": "2026-09-24T00:00:00.000Z"
-    },
-    {
-      "id": "b064f551-b5d0-4633-9d37-2a7c75cd94f9",
-      "company": "Micron Technology",
-      "title": "MTS, Interface Pathfinding Hardware Development Engineer",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44634713",
-      "url": "https://trueinterview.io/jobs/b064f551-b5d0-4633-9d37-2a7c75cd94f9",
       "postedAt": "2026-09-24T00:00:00.000Z",
       "updatedAt": "2026-09-24T00:00:00.000Z"
     },
@@ -16693,32 +16954,6 @@
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
     {
-      "id": "8fb09dec-5573-4881-bb53-656edd67314f",
-      "company": "KLA",
-      "title": "Optical Engineer",
-      "locations": [
-        "Milpitas, CA",
-        "Milpitas, CA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optical-Engineer_2640298-1",
-      "url": "https://trueinterview.io/jobs/8fb09dec-5573-4881-bb53-656edd67314f",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "updatedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
       "id": "4ade3a60-cbfc-4a42-b27d-a9acff598579",
       "company": "Micron Technology",
       "title": "Package Reliability Engineer",
@@ -18518,31 +18753,6 @@
       "source": "trueinterview",
       "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-MTS_JR338172-1",
       "url": "https://trueinterview.io/jobs/082e8091-8861-47d1-bda5-a65e8308b52a",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "869d7e68-5f44-49f7-881d-3f16ae8250bc",
-      "company": "Thomson Reuters",
-      "title": "Software Engineer",
-      "locations": [
-        "Sri Lanka Colombo"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "trueinterview",
-      "applyUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sri-Lanka-Colombo/Software-Engineer_JREQ200014",
-      "url": "https://trueinterview.io/jobs/869d7e68-5f44-49f7-881d-3f16ae8250bc",
       "postedAt": "2026-09-11T00:00:00.000Z",
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
@@ -21350,31 +21560,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44125757",
       "url": "https://trueinterview.io/jobs/51663b19-f60b-4c67-85ca-41395688995d",
-      "postedAt": "2026-09-09T00:00:00.000Z",
-      "updatedAt": "2026-09-09T00:00:00.000Z"
-    },
-    {
-      "id": "fd50f07b-f447-4476-8c8f-a663c080ae76",
-      "company": "Micron Technology",
-      "title": "New College Grad - Operations Improvement Engineer",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44080725",
-      "url": "https://trueinterview.io/jobs/fd50f07b-f447-4476-8c8f-a663c080ae76",
       "postedAt": "2026-09-09T00:00:00.000Z",
       "updatedAt": "2026-09-09T00:00:00.000Z"
     },
@@ -33087,31 +33272,6 @@
       "url": "https://trueinterview.io/jobs/e149bc01-800d-494d-80ea-1a863c7f6b99",
       "postedAt": "2026-08-27T19:44:34.000Z",
       "updatedAt": "2026-08-27T19:44:34.000Z"
-    },
-    {
-      "id": "a5ca2465-54e9-4890-80d1-4d78cf817810",
-      "company": "Oracle",
-      "title": "Associate Support Engineer",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/343409",
-      "url": "https://trueinterview.io/jobs/a5ca2465-54e9-4890-80d1-4d78cf817810",
-      "postedAt": "2026-08-27T19:39:00.000Z",
-      "updatedAt": "2026-08-27T19:39:00.000Z"
     },
     {
       "id": "a4f73a76-7e30-48ba-b479-f33109c253b1",
@@ -50007,32 +50167,6 @@
       "url": "https://trueinterview.io/jobs/4fd4a845-a299-4649-aeb0-68456bf841c2",
       "postedAt": "2026-08-04T21:40:41.000Z",
       "updatedAt": "2026-08-04T21:40:41.000Z"
-    },
-    {
-      "id": "e765bfd7-4b82-4c2a-9141-e44557f6d080",
-      "company": "Spacex",
-      "title": "Hardware Reliability Engineer (Starlink)",
-      "locations": [
-        "Redmond, WA",
-        "Hawthorne, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8656524002?gh_jid=8656524002",
-      "url": "https://trueinterview.io/jobs/e765bfd7-4b82-4c2a-9141-e44557f6d080",
-      "postedAt": "2026-08-04T21:39:08.000Z",
-      "updatedAt": "2026-08-04T21:39:08.000Z"
     },
     {
       "id": "cf0bc505-9c81-4ed0-9f46-a6d6e8d53ec7",

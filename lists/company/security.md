@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**43 open roles.** 37 in the United States & Canada · 6 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**45 open roles.** 39 in the United States & Canada · 6 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Beyondtrust</strong></td>
+<td><a href="https://trueinterview.io/jobs/ed90d467-fecc-4f02-a117-78895f170970">Service Desk Analyst</a></td>
+<td>Hybrid Halifax, NS</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/beyondtrust/jobs/8231687">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Palo Alto Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c97111c-7ca6-45e5-91a3-ef91cf8bf8a2">Account Executive - Federal</a></td>
+<td>Arlington, United States of America</td>
+<td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Arlington-United-States-of-America/Account-Executive---Federal_JR-022964-1">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Delinea</strong></td>
 <td><a href="https://trueinterview.io/jobs/b36d39c7-e696-4a26-bc08-f266e37a4529">Advanced Support Engineer I</a> 🌐</td>
