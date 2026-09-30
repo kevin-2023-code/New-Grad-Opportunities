@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**208 open roles.** 141 in the United States & Canada · 67 elsewhere in the world. Postings the pipeline classified as remote.
+**216 open roles.** 148 in the United States & Canada · 68 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Jamf</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ecc8d2e-6e5f-4cd4-b895-830c0db4c065">Systems Development Engineer I</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.jamf.com/about/careers/jobs/?gh_jid=6207117004&amp;gh_jid=6207117004">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Weka</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a2e4d08-5d92-4434-962e-186b17786d99">Designated Services Engineer (Remote US)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.weka.io/company/careers/?gh_jid=5252700007">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Power Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/96da6ba6-c4b6-43e7-8cbf-ca899c0d8f71">Systems Administrator</a> 🌐</td>
+<td>Remote — Brazil, Canada, Mexico</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5253386007">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hud</strong></td>
+<td><a href="https://trueinterview.io/jobs/9acf86f0-b10b-47b4-9904-a2e54360c86f">Product Engineer</a> 🌐</td>
+<td>Remote — United States, Singapore</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hud/efebb114-5ae0-4b19-b934-972e8fb8161f/application">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/671f4d56-67e3-4616-bbef-631ba1f12364">Software Engineer, Data Quality</a> 🌐</td>
+<td>Remote — United States, Singapore</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hud/19908f5d-bcad-45a7-80a5-f4efff641dac/application">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Block</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b52f356-38d6-44a9-82ef-a6958569fd7a">AI Evaluation Infrastructure Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="http://block.xyz/careers/jobs/5434157008?gh_jid=5434157008">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Addepar</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b75ba52-0d62-4cea-9b97-14482e274c8f">Technical Success Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/addepar1/jobs/8852932002">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/3451435e-6aae-4735-a468-f0e39e132293">Data Scientist, 2027 Graduate U.S.</a> 🌐</td>
@@ -1016,6 +1065,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Guidepoint Security</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6d14912-5fb2-4a47-9e81-c44bd99819f4">Vulnerability Management Engineer (ServiceNow) - Mid-Atlantic region (Remote)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6212201004?gh_jid=6212201004">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Shape</strong></td>
 <td><a href="https://trueinterview.io/jobs/712513e3-0754-4e74-acc3-6b45fd17f125">AI Engineer</a> 🌐</td>

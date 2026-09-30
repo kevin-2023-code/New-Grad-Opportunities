@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**57 open roles.** 30 in the United States & Canada · 27 elsewhere in the world. A real classification that none of the other sectors covers.
+**58 open roles.** 31 in the United States & Canada · 27 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Michels Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/f022f0fd-3e8e-4b29-adc3-b4b060136212">Estimator - Michels Energy Solutions, Inc.</a></td>
+<td>Brownsville, WI Corporate Office</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4974938101">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>MLSE</strong></td>
 <td><a href="https://trueinterview.io/jobs/ffec12e2-e4dd-47fd-9833-2c47a6242f22">[C] Salesforce Engineer / Developer</a></td>

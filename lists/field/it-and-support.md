@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**151 open roles.** 115 in the United States & Canada · 36 elsewhere in the world.
+**154 open roles.** 118 in the United States & Canada · 36 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Forgen</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3b5cb7d-a37b-436e-815b-bef8e7ec00a4">IT Desktop Support</a></td>
+<td>Rocklin, California<br/>California</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/forgen/jobs/5253394007">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Power Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/96da6ba6-c4b6-43e7-8cbf-ca899c0d8f71">Systems Administrator</a> 🌐</td>
+<td>Remote — Brazil, Canada, Mexico</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5253386007">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Axle</strong></td>
+<td><a href="https://trueinterview.io/jobs/a765fabd-1959-43dc-884f-558278b8ec2b">It Specialist</a></td>
+<td>Rockville, MD<br/>Axle Informatics LLC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/axle/jobs/5253459007">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Beyondtrust</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed90d467-fecc-4f02-a117-78895f170970">Service Desk Analyst</a></td>
