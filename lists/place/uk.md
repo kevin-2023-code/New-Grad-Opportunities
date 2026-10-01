@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**52 open roles.** 7 in the United States & Canada · 45 elsewhere in the world.
+**50 open roles.** 7 in the United States & Canada · 43 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -78,20 +78,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Trainline</strong></td>
-<td><a href="https://trueinterview.io/jobs/709e1958-8ce9-424c-82e5-b21ad4855d69">Data Analyst</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/trainline/874365d1-fc59-4e29-a92f-cbc98dc06b63/application">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Wise</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d0ea7df-6abd-468c-9fa4-b1bda4414c8a">Platform Engineer - Compute</a></td>
-<td>London, , United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000152722719-platform-engineer-compute?oga=true">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/08d1cb84-509e-430e-9a54-35d62a0fb1d0">Drone Firmware Software Dev Engineer, Ring Robotics Platform Engineering</a></td>

@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**23 open roles.** 17 in the United States & Canada · 6 elsewhere in the world.
+**22 open roles.** 17 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -148,13 +148,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Orion Innovation</strong></td>
-<td><a href="https://trueinterview.io/jobs/4eced7ad-655f-4927-8c43-45ce7d4ed255">Product Owner (Técnico)</a></td>
-<td>Mexico City, Mexico City, Mexico<br/>Ciudad de México</td>
-<td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4717834006">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Experian</strong></td>
 <td><a href="https://trueinterview.io/jobs/efc2fe2a-43f5-44cf-ae2a-fabedf43e921">Product owner</a></td>

@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**125 open roles.** 67 in the United States & Canada · 58 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**124 open roles.** 67 in the United States & Canada · 57 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -499,20 +499,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Encora</strong></td>
-<td><a href="https://trueinterview.io/jobs/81237476-67cf-49b1-91c8-375e15bd7f57">Systems Validation &amp; Certification Engineer</a></td>
-<td>Campinas</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/encora10/jobs/5253473007">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Orion Innovation</strong></td>
-<td><a href="https://trueinterview.io/jobs/4eced7ad-655f-4927-8c43-45ce7d4ed255">Product Owner (Técnico)</a></td>
-<td>Mexico City, Mexico City, Mexico<br/>Ciudad de México</td>
-<td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4717834006">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Ci&amp;t</strong></td>
 <td><a href="https://trueinterview.io/jobs/0b51b677-bc7d-4d60-8f5c-893b0cd1855b">[Job-31680] Master AWS I Python Developer, Brazil</a></td>
 <td>Brazil</td>
@@ -833,6 +819,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brazil</td>
 <td align="center"><a href="https://jobs.lever.co/ciandt/c78866f3-6345-4eab-a1a2-7636df5a3d36/apply">Apply</a></td>
 <td align="center">26 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Orion Innovation</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cf20a5b-f127-484a-9cd9-83cd4552228c">206238 - ETL/Data Engineer</a></td>
+<td>Mexico City, Mexico City, Mexico<br/>Mexico, Mexico</td>
+<td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4706843006">Apply</a></td>
+<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Blue Coding</strong></td>

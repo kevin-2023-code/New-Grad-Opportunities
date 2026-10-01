@@ -18,11 +18,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Knowbe4</strong></td>
-<td><a href="https://trueinterview.io/jobs/b3a6c13b-55cd-4b70-be2e-f1f757dcd431">Cybersecurity Threat Researcher (Hybrid)</a></td>
-<td>Arlington, Virginia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8856509002">Apply</a></td>
-<td align="center">30 Sep 2026</td>
+<td><strong>Jet Propulsion Laboratory</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb52c838-1a56-470a-bac1-f21d8706aab5">Enterprise Cybersecurity Engineer</a></td>
+<td>Pasadena, United States</td>
+<td align="center"><a href="https://4dayweek.io/job/enterprise-cybersecurity-engineer-at-jet-propulsion-laboratory-43cd003f">Apply</a></td>
+<td align="center">1 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Spotify</strong></td>

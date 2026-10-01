@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**132 open roles.**
+**130 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Schrödinger</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb193b82-6d91-4bfe-b28f-1b50a0612bdc">Scientific Machine Learning Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/schrdinger/jobs/8008663003">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Empire State Realty Trust</strong></td>
-<td><a href="https://trueinterview.io/jobs/06fc8dc0-2a96-45c7-8452-67de375bfba9">Engineer</a></td>
-<td>New York, NY<br/>New York, New York, United States</td>
-<td align="center"><a href="https://jobs.lever.co/esrtreit/7cd0c078-6142-4f54-a224-c843b176bd43/apply">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Evolutioniq</strong></td>
 <td><a href="https://trueinterview.io/jobs/dd2ac24a-a8fa-477c-a47e-0e458ee865fd">Associate Data Engineer (Python / AI Insurance SaaS)</a></td>

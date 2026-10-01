@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**25 open roles.** 22 in the United States & Canada · 3 elsewhere in the world.
+**23 open roles.** 21 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/baaa9651-9f03-49f4-aaca-195c337e5431">AI Research Scientist</a></td>
-<td>Bellevue, Washington, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92921?lang=en-us">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/a2245e51-c5b6-4e62-9572-5c9b2f05bd98">Research Scientist, Fundamental Generative AI - New College Grad 2026</a></td>
@@ -183,13 +176,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Astera Institute</strong></td>
-<td><a href="https://trueinterview.io/jobs/bc1a4b4c-d852-4f3c-8aa2-1b3981c7433b">Research Scientist - Computational Neuroscience</a></td>
-<td>Emeryville HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/astera/0a1a566e-c48d-4605-b78f-458c234df670/application">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Iambic Therapeutics</strong></td>
 <td><a href="https://trueinterview.io/jobs/b33da88a-a9cb-4d8d-8a00-011253fbc209">Research Scientist I/II, Purification Sciences</a></td>

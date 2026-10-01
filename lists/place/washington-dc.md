@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**57 open roles.**
+**55 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Axle</strong></td>
-<td><a href="https://trueinterview.io/jobs/a765fabd-1959-43dc-884f-558278b8ec2b">It Specialist</a></td>
-<td>Rockville, MD<br/>Axle Informatics LLC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/axle/jobs/5253459007">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Knowbe4</strong></td>
-<td><a href="https://trueinterview.io/jobs/b3a6c13b-55cd-4b70-be2e-f1f757dcd431">Cybersecurity Threat Researcher (Hybrid)</a></td>
-<td>Arlington, Virginia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8856509002">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Shield AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/7029b977-ce9a-4796-a39d-935a711bfa82">Assistant Product Owner, CCA Mission Autonomy (Platform Integration) (R5849)</a></td>

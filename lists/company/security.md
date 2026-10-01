@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**47 open roles.** 40 in the United States & Canada · 7 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**44 open roles.** 38 in the United States & Canada · 6 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Knowbe4</strong></td>
-<td><a href="https://trueinterview.io/jobs/b3a6c13b-55cd-4b70-be2e-f1f757dcd431">Cybersecurity Threat Researcher (Hybrid)</a></td>
-<td>Arlington, Virginia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8856509002">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Beyondtrust</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed90d467-fecc-4f02-a117-78895f170970">Service Desk Analyst</a></td>
-<td>Hybrid Halifax, NS</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/beyondtrust/jobs/8231687">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Palo Alto Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/2c97111c-7ca6-45e5-91a3-ef91cf8bf8a2">Account Executive - Federal</a></td>
@@ -309,13 +295,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Guidepoint Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/e6d14912-5fb2-4a47-9e81-c44bd99819f4">Vulnerability Management Engineer (ServiceNow) - Mid-Atlantic region (Remote)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6212201004?gh_jid=6212201004">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Knowbe4</strong></td>
 <td><a href="https://trueinterview.io/jobs/d1d85bc6-04e5-4ea4-8c7f-b723429a4cc1">Product Security Engineer (Position located in Brazil)</a></td>

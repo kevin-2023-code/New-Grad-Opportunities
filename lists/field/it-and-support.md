@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**154 open roles.** 118 in the United States & Canada · 36 elsewhere in the world.
+**153 open roles.** 116 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,31 +18,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Forgen</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3b5cb7d-a37b-436e-815b-bef8e7ec00a4">IT Desktop Support</a></td>
-<td>Rocklin, California<br/>California</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/forgen/jobs/5253394007">Apply</a></td>
-<td align="center">30 Sep 2026</td>
+<td><strong>Jet Propulsion Laboratory</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb52c838-1a56-470a-bac1-f21d8706aab5">Enterprise Cybersecurity Engineer</a></td>
+<td>Pasadena, United States</td>
+<td align="center"><a href="https://4dayweek.io/job/enterprise-cybersecurity-engineer-at-jet-propulsion-laboratory-43cd003f">Apply</a></td>
+<td align="center">1 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Power Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/96da6ba6-c4b6-43e7-8cbf-ca899c0d8f71">Systems Administrator</a> 🌐</td>
-<td>Remote — Brazil, Canada, Mexico</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5253386007">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Axle</strong></td>
-<td><a href="https://trueinterview.io/jobs/a765fabd-1959-43dc-884f-558278b8ec2b">It Specialist</a></td>
-<td>Rockville, MD<br/>Axle Informatics LLC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/axle/jobs/5253459007">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Beyondtrust</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed90d467-fecc-4f02-a117-78895f170970">Service Desk Analyst</a></td>
-<td>Hybrid Halifax, NS</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/beyondtrust/jobs/8231687">Apply</a></td>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/2679616b-cb04-4451-bf93-1d57dd5b6c67">IT Solutions Analyst - New College Grad (Bachelors - Santa Clara, CA)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790313923468">Apply</a></td>
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>
@@ -855,6 +841,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Veeva Qualityone Japan</strong></td>
+<td><a href="https://trueinterview.io/jobs/509b5e13-c78e-499f-9246-9b756b8f05bb">NetSuite Developer</a></td>
+<td>India - Hyderabad</td>
+<td align="center"><a href="https://jobs.lever.co/veeva/a89d4ff8-b50b-4e56-9b74-0823d2751c66/apply">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Macquarie Technology Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/28102c38-bd94-49e2-956f-d5c2df0573b4">Graduate Program: Networking, Operations and Cyber</a></td>

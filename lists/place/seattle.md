@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**86 open roles.**
+**82 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,34 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Axon</strong></td>
-<td><a href="https://trueinterview.io/jobs/daff1156-ecdb-4168-9140-8381cfee3bef">Embedded software automation Engineer</a></td>
-<td>Seattle, Washington, United States<br/>Washington-Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/axon/jobs/7750157003">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d2daf35-d4bb-42e3-9333-ef13f356ac6f">RF Silicon Software Engineer (RFIC Engineering)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8856971002?gh_jid=8856971002">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Atlassian</strong></td>
-<td><a href="https://trueinterview.io/jobs/3451435e-6aae-4735-a468-f0e39e132293">Data Scientist, 2027 Graduate U.S.</a> 🌐</td>
-<td>Remote — United States<br/>Seattle - United States - Seattle, Washington United States</td>
-<td align="center"><a href="https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job?mode=apply">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/baaa9651-9f03-49f4-aaca-195c337e5431">AI Research Scientist</a></td>
-<td>Bellevue, Washington, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92921?lang=en-us">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Gdh</strong></td>
 <td><a href="https://trueinterview.io/jobs/cb4861b2-94d5-4668-9428-f0ecd96d3296">Graduate Water Engineer</a></td>

@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**58 open roles.** 22 in the United States & Canada · 36 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**57 open roles.** 22 in the United States & Canada · 35 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -183,13 +183,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Mastercard</strong></td>
-<td><a href="https://trueinterview.io/jobs/138423af-ca13-4f32-8327-10ffff01f0be">Site Reliability Engineer, Data Protection</a></td>
-<td>Mexico City, Mexico</td>
-<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Site-Reliability-Engineer--Data-Protection_R-277822">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Desjardins</strong></td>
 <td><a href="https://trueinterview.io/jobs/59d4c64a-e8f2-4f66-b81c-2b78b8f520ff">Data Scientist, Credit Risk Quantification</a></td>

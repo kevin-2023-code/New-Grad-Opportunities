@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**40 open roles.** 37 in the United States & Canada · 3 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**39 open roles.** 37 in the United States & Canada · 2 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -288,13 +288,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Nbcuniversal</strong></td>
-<td><a href="https://trueinterview.io/jobs/8ec49fcc-43b9-45d4-8f80-0eaa4c848146">Set/Scenic &amp; Props Engineer</a></td>
-<td>Bedford, , United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NBCUniversal3/744000152725341-set-scenic-props-engineer?oga=true">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Kiss My Apps</strong></td>
 <td><a href="https://trueinterview.io/jobs/bf59782d-ddfd-4bb3-beca-43e0b2248720">Full Stack Developer (React/Next.js + Node.js)</a></td>

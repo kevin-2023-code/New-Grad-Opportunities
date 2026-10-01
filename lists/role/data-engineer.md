@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**58 open roles.** 39 in the United States & Canada · 19 elsewhere in the world.
+**59 open roles.** 39 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -385,6 +385,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brazil</td>
 <td align="center"><a href="https://jobs.lever.co/ciandt/c78866f3-6345-4eab-a1a2-7636df5a3d36/apply">Apply</a></td>
 <td align="center">26 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Orion Innovation</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cf20a5b-f127-484a-9cd9-83cd4552228c">206238 - ETL/Data Engineer</a></td>
+<td>Mexico City, Mexico City, Mexico<br/>Mexico, Mexico</td>
+<td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4706843006">Apply</a></td>
+<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Experian</strong></td>

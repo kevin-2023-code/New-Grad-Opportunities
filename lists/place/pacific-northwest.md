@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**60 open roles.**
+**58 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,20 +19,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/aa07137e-b9c8-4031-aa48-938eee1c918d">AMHS Equipment Engineer</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AMHS-Equipment-Engineer_JR0287565">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5ca3d3d6-3e16-4143-8d56-d6fb3827282d">Defect Metrology Engineer</a></td>
-<td>US, Oregon, Hillsboro<br/>US, Arizona, Phoenix, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Defect-Metrology-Engineer_JR0287573">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9af79495-ecb2-48a5-a289-8bd8ad99d596">Finance Data Scientist</a></td>
 <td>US, Oregon, Hillsboro<br/>US, Arizona, Phoenix, United States of America<br/>US, California, Santa Clara</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Finance-Data-Scientist_JR0287625">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**19 open roles.** 18 in the United States & Canada · 1 elsewhere in the world.
+**18 open roles.** 17 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Axon</strong></td>
-<td><a href="https://trueinterview.io/jobs/daff1156-ecdb-4168-9140-8381cfee3bef">Embedded software automation Engineer</a></td>
-<td>Seattle, Washington, United States<br/>Washington-Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/axon/jobs/7750157003">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Mill</strong></td>
 <td><a href="https://trueinterview.io/jobs/b7f13997-8c9b-424a-8073-99bcc09eba8e">Firmware Engineer</a></td>

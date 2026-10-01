@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**25 open roles.** 10 in the United States & Canada · 15 elsewhere in the world.
+**24 open roles.** 10 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -99,13 +99,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Resend</strong></td>
-<td><a href="https://trueinterview.io/jobs/90d3d5b8-e4a0-491a-a091-fe40547ee430">Backend Engineer, MTA</a></td>
-<td>Europe</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/resend/c4c5eb8c-e6ac-49f5-9dc7-a68ce0948929/application">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Cabify</strong></td>
 <td><a href="https://trueinterview.io/jobs/85b03b34-814b-4814-b6db-d03477b77c2d">Software Engineer - Backend + AI</a></td>

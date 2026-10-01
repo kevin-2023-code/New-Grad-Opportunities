@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**443 open roles.** 413 in the United States & Canada · 30 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**433 open roles.** 404 in the United States & Canada · 29 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,42 +20,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Block</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b52f356-38d6-44a9-82ef-a6958569fd7a">AI Evaluation Infrastructure Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="http://block.xyz/careers/jobs/5434157008?gh_jid=5434157008">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Atlassian</strong></td>
-<td><a href="https://trueinterview.io/jobs/3451435e-6aae-4735-a468-f0e39e132293">Data Scientist, 2027 Graduate U.S.</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job?mode=apply">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/fab3f4c7-2223-4707-b53e-1623a141e24a">3D IC and SoC CAD ENGINEER</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92822?lang=en-us">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/baaa9651-9f03-49f4-aaca-195c337e5431">AI Research Scientist</a></td>
-<td>Bellevue, Washington, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92921?lang=en-us">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b2c33c0e-09da-4fe4-b557-a5a79b006717">Quality Systems Engineer – AI Transformation</a></td>
-<td>Austin, TX<br/>San Jose, California, United States<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92487?lang=en-us">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/2679616b-cb04-4451-bf93-1d57dd5b6c67">IT Solutions Analyst - New College Grad (Bachelors - Santa Clara, CA)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790313923468">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/657d4e0f-e576-421e-81e0-e74bf5bc1c80">Process Engineer III - New College Grad (Kalispell, MT)</a></td>
 <td>Kalispell, MT, US<br/>Santa Clara, CA, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318726523">Apply</a></td>
@@ -63,20 +35,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/aa07137e-b9c8-4031-aa48-938eee1c918d">AMHS Equipment Engineer</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AMHS-Equipment-Engineer_JR0287565">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5ca3d3d6-3e16-4143-8d56-d6fb3827282d">Defect Metrology Engineer</a></td>
-<td>US, Arizona, Phoenix, United States of America<br/>US, Oregon, Hillsboro</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Defect-Metrology-Engineer_JR0287573">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9af79495-ecb2-48a5-a289-8bd8ad99d596">Finance Data Scientist</a></td>
 <td>US, Arizona, Phoenix, United States of America<br/>US, California, Santa Clara<br/>US, Oregon, Hillsboro</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Finance-Data-Scientist_JR0287625">Apply</a></td>
@@ -84,9 +42,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/95f0a6b9-324d-488f-a8e6-61682b5d1c59">Ocotillo Technology Fabrication Defect Metrology Systems Engineer</a></td>
-<td>US, Arizona, Phoenix, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Ocotillo-Technology-Fabrication-Defect-Metrology-Systems-Engineer_JR0287017">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/8dd332d4-679b-47ee-9090-8bc3e14f801f">Server Test Quality and Reliability Engineer</a></td>
+<td>Costa Rica, San Jose</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Server-Test-Quality-and-Reliability-Engineer_JR0287434">Apply</a></td>
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>
@@ -94,13 +52,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/76c354a1-a1e0-4c18-82b4-2cf4108e3cac">Customer Support Engineer - NCG</a></td>
 <td>Chandler, AZ, United States of America<br/>Hillsboro, OR</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Customer-Support-Engineer---NCG_2641918">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ebdde3c9-e0a4-4369-8ea3-722d1d8cf83d">Mechatronics Systems Engineer</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Systems-Engineer_2641536-1">Apply</a></td>
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>
@@ -118,13 +69,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/ad6b6e70-63b1-4be9-97be-7d51d60e8e0e">Yield Enhancement Engineering Tech</a></td>
-<td>Chandler (Manufacturing), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Manufacturing/Yield-Enhancement-Engineering-Tech_R-10067029-1">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Oracle</strong></td>
 <td><a href="https://trueinterview.io/jobs/7a5822a4-a9bc-42e8-84ea-9e55a630e172">February 2027 - Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN</a></td>
 <td>Nashville, TN, United States</td>
@@ -136,13 +80,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2c97111c-7ca6-45e5-91a3-ef91cf8bf8a2">Account Executive - Federal</a></td>
 <td>Arlington, United States of America</td>
 <td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Arlington-United-States-of-America/Account-Executive---Federal_JR-022964-1">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>QUALCOMM</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc3633e1-af27-4802-bfa6-1488e7b3d98a">#AI Solution Engineer</a></td>
-<td>San Diego, CA, US</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446721270663">Apply</a></td>
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>
@@ -2818,6 +2755,69 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Phoenix, AZ, United States of America<br/>Taylor, TX<br/>Hillsboro, OR</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Fleet-Engineer_2637290-1">Apply</a></td>
 <td align="center">7 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Lam Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/c80b8138-d76f-407b-a9e8-2c7fcd40d421">Quality Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099554772020">Apply</a></td>
+<td align="center">7 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/419e891a-86c5-45f0-8d14-b86925217daf">Entry Level Software Product Manager</a></td>
+<td>Austin (Oakhill, Office), United States of America</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-Software-Product-Manager_R-10064599">Apply</a></td>
+<td align="center">7 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Sandisk</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ea154b3-054c-4879-b279-fa4e82576616">System Design Engineer - Memory System</a></td>
+<td>Milpitas, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sandisk/744000142015139-system-design-engineer-memory-system-?oga=true">Apply</a></td>
+<td align="center">6 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Coherent Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f2d3118-5eb4-4f42-b2f0-33a5fbd34412">Product Engineer</a></td>
+<td>Sherman, TX, United States</td>
+<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2013958">Apply</a></td>
+<td align="center">6 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Netflix</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1d081d9-f021-4173-b988-69d9293bbc1c">Software Engineer (L6), Platform Security</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317684274">Apply</a></td>
+<td align="center">6 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce6e391c-69d0-4147-8cdd-d05e1a274e5a">Electrical Design Engineer 1</a></td>
+<td>Olathe, Kansas, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/19537?lang=en-us">Apply</a></td>
+<td align="center">5 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1bda8a4c-6052-4c0a-b6f8-e02e1682763a">Quality Analyst 1 - Marine</a></td>
+<td>Olathe, Kansas, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/19512?lang=en-us">Apply</a></td>
+<td align="center">5 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/39d226cc-af6c-4666-9de7-4095a0c1f731">International Graduate Program (IGP) – Engineer SoC Flow and Methodology (f/m/div)</a></td>
+<td>Munich, BY, DE<br/>DU, NRW, DE</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971542513">Apply</a></td>
+<td align="center">4 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c3831cf-b7ea-4413-821e-046f95925f8c">Customer Support Engineer - FaST Products</a></td>
+<td>Phoenix, AZ, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Customer-Support-Engineer---FaST-Products_2637537">Apply</a></td>
+<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>

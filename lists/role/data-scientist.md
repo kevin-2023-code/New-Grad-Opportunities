@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**39 open roles.** 25 in the United States & Canada · 14 elsewhere in the world.
+**37 open roles.** 23 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Human</strong></td>
-<td><a href="https://trueinterview.io/jobs/e44be4dc-4c13-4a4b-ba15-3cc8447541c2">Data Scientist</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/human/729739ea-66fd-4668-945f-46741a6efa5c/application">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Atlassian</strong></td>
-<td><a href="https://trueinterview.io/jobs/3451435e-6aae-4735-a468-f0e39e132293">Data Scientist, 2027 Graduate U.S.</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job?mode=apply">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/9af79495-ecb2-48a5-a289-8bd8ad99d596">Finance Data Scientist</a></td>

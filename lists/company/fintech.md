@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**66 open roles.** 38 in the United States & Canada · 28 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**64 open roles.** 37 in the United States & Canada · 27 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Block</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b52f356-38d6-44a9-82ef-a6958569fd7a">AI Evaluation Infrastructure Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="http://block.xyz/careers/jobs/5434157008?gh_jid=5434157008">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Prosper</strong></td>
 <td><a href="https://trueinterview.io/jobs/26f7c8e3-d866-47ad-b172-32f60733d13c">Escalations Specialist</a></td>
@@ -295,13 +288,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Wise</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d0ea7df-6abd-468c-9fa4-b1bda4414c8a">Platform Engineer - Compute</a></td>
-<td>London, , United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000152722719-platform-engineer-compute?oga=true">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>FIS Global</strong></td>
 <td><a href="https://trueinterview.io/jobs/590a0675-7c92-47bf-b90f-6c3f60248b5a">Site Reliability Engineer (SRE) – Cloud Platform</a></td>

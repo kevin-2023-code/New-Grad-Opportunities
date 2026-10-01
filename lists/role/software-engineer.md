@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**307 open roles.** 217 in the United States & Canada · 90 elsewhere in the world.
+**303 open roles.** 214 in the United States & Canada · 89 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,27 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Hud</strong></td>
-<td><a href="https://trueinterview.io/jobs/671f4d56-67e3-4616-bbef-631ba1f12364">Software Engineer, Data Quality</a> 🌐</td>
-<td>Remote — United States, Singapore</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hud/19908f5d-bcad-45a7-80a5-f4efff641dac/application">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>IMC</strong></td>
-<td><a href="https://trueinterview.io/jobs/34b1f05c-613e-4f1e-92f4-3d34d0873a0c">Software Engineer, Early Career</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4796143101">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>MLSE</strong></td>
-<td><a href="https://trueinterview.io/jobs/ffec12e2-e4dd-47fd-9833-2c47a6242f22">[C] Salesforce Engineer / Developer</a></td>
-<td>Toronto, Ontario</td>
-<td align="center"><a href="https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/XMLNAME--C--Salesforce-Engineer_JR0000580">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Oracle</strong></td>
 <td><a href="https://trueinterview.io/jobs/7a5822a4-a9bc-42e8-84ea-9e55a630e172">February 2027 - Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN</a></td>
@@ -1553,13 +1532,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/509b5e13-c78e-499f-9246-9b756b8f05bb">NetSuite Developer</a></td>
 <td>India - Hyderabad</td>
 <td align="center"><a href="https://jobs.lever.co/veeva/a89d4ff8-b50b-4e56-9b74-0823d2751c66/apply">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cloud Accountant Staffing</strong></td>
-<td><a href="https://trueinterview.io/jobs/fd90a1a8-a94b-4ac8-9312-96dfdfda5fd4">Software Engineer (Next.js / React)</a></td>
-<td>Colombia<br/>Peru<br/>Argentina<br/>+3 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cas/9622e35e-24a4-4d8a-9f7e-f0f3b0a80639/application">Apply</a></td>
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>

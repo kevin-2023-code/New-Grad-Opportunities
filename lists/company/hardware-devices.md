@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**134 open roles.** 122 in the United States & Canada · 12 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**133 open roles.** 121 in the United States & Canada · 12 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Axon</strong></td>
-<td><a href="https://trueinterview.io/jobs/daff1156-ecdb-4168-9140-8381cfee3bef">Embedded software automation Engineer</a></td>
-<td>Seattle, Washington, United States<br/>Washington-Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/axon/jobs/7750157003">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Motorola Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/bb12d1d9-4ecb-482f-89ff-e329a5bc043e">Junior Software Engineer, Emergency Call Handling</a></td>

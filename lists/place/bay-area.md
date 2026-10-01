@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**380 open roles.**
+**376 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,35 +18,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Paraform</strong></td>
-<td><a href="https://trueinterview.io/jobs/e67e1a89-6047-4070-bc25-1e756eebe1f3">Product Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/paraform/b9146ab9-3cd7-478f-aaa7-93f677be441e/application">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hud</strong></td>
-<td><a href="https://trueinterview.io/jobs/9acf86f0-b10b-47b4-9904-a2e54360c86f">Product Engineer</a> 🌐</td>
-<td>Remote — United States, Singapore<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hud/efebb114-5ae0-4b19-b934-972e8fb8161f/application">Apply</a></td>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/2679616b-cb04-4451-bf93-1d57dd5b6c67">IT Solutions Analyst - New College Grad (Bachelors - Santa Clara, CA)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790313923468">Apply</a></td>
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/671f4d56-67e3-4616-bbef-631ba1f12364">Software Engineer, Data Quality</a> 🌐</td>
-<td>Remote — United States, Singapore<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hud/19908f5d-bcad-45a7-80a5-f4efff641dac/application">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/b2c33c0e-09da-4fe4-b557-a5a79b006717">Quality Systems Engineer – AI Transformation</a></td>
-<td>San Jose, California, United States<br/>Austin, TX<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92487?lang=en-us">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/657d4e0f-e576-421e-81e0-e74bf5bc1c80">Process Engineer III - New College Grad (Kalispell, MT)</a></td>
 <td>Santa Clara, CA, US<br/>Kalispell, MT, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318726523">Apply</a></td>
@@ -57,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9af79495-ecb2-48a5-a289-8bd8ad99d596">Finance Data Scientist</a></td>
 <td>US, California, Santa Clara<br/>US, Arizona, Phoenix, United States of America<br/>US, Oregon, Hillsboro</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Finance-Data-Scientist_JR0287625">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/ebdde3c9-e0a4-4369-8ea3-722d1d8cf83d">Mechatronics Systems Engineer</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Systems-Engineer_2641536-1">Apply</a></td>
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>
