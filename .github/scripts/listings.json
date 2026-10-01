@@ -6,9 +6,103 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-01T08:46:08.625Z",
-  "count": 1854,
+  "listingsChangedAt": "2026-10-01T16:16:58.281Z",
+  "count": 1859,
   "listings": [
+    {
+      "id": "6caac6c0-8b35-4f9a-89dd-e6a44aadd676",
+      "company": "Cisco",
+      "title": "PCB Design Engineer - High-speed",
+      "locations": [
+        "Milpitas, California, US, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Hardware-Engineer_2026372",
+      "url": "https://trueinterview.io/jobs/6caac6c0-8b35-4f9a-89dd-e6a44aadd676",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "7e6c13e5-80f4-4c4e-84de-8ce234f664ea",
+      "company": "Flexibits",
+      "title": "Flexibits / Android Software Engineer / Remote / Full-time",
+      "locations": [
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://flexibits.com/jobs",
+      "url": "https://trueinterview.io/jobs/7e6c13e5-80f4-4c4e-84de-8ce234f664ea",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "bc9efaf7-bbdd-43d2-8acd-8b7d91513995",
+      "company": "Hacker News \"Who is hiring?\"",
+      "title": "PrairieLearn (Remote US) — Full-Stack Software Engineer — TypeScript / Postgres / React / AI",
+      "locations": [],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.prairielearn.com/",
+      "url": "https://trueinterview.io/jobs/bc9efaf7-bbdd-43d2-8acd-8b7d91513995",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "adbaa6fb-c36d-43bc-9e4e-2161b50ab583",
+      "company": "Hedgehog Lab",
+      "title": "Quality Assurance Automation Engineer",
+      "locations": [
+        "Newcastle upon Tyne, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://4dayweek.io/job/quality-assurance-automation-engineer-at-hedgehog-lab-5fb989da",
+      "url": "https://trueinterview.io/jobs/adbaa6fb-c36d-43bc-9e4e-2161b50ab583",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
     {
       "id": "eb52c838-1a56-470a-bac1-f21d8706aab5",
       "company": "Jet Propulsion Laboratory",
@@ -31,6 +125,156 @@
       "source": "trueinterview",
       "applyUrl": "https://4dayweek.io/job/enterprise-cybersecurity-engineer-at-jet-propulsion-laboratory-43cd003f",
       "url": "https://trueinterview.io/jobs/eb52c838-1a56-470a-bac1-f21d8706aab5",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "00dfbcc9-8b8d-46c5-a82e-fc55d2cf3c33",
+      "company": "Micron Technology",
+      "title": "New College Grad - R2R FAB Engineer",
+      "locations": [
+        "Manassas, VA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44751803",
+      "url": "https://trueinterview.io/jobs/00dfbcc9-8b8d-46c5-a82e-fc55d2cf3c33",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "7c06e7f1-356b-411a-b4c2-c4261307be45",
+      "company": "PAGNOS",
+      "title": "PAGNOS / Cloud Engineer, AWS Serverless (TypeScript/Node.js) / REMOTE (Germany) / Full-time / €75k–80k / business-fluent German required",
+      "locations": [
+        "REMOTE (Germany)"
+      ],
+      "cities": [],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://germantechjobs.de/jobs/PAGNOS-GmbH-Cloud-AI-Engineer--AWS-Serverless-mwd",
+      "url": "https://trueinterview.io/jobs/7c06e7f1-356b-411a-b4c2-c4261307be45",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "552a08d1-196a-4694-8be1-404374e3b425",
+      "company": "Planlab.ai",
+      "title": "Planlab.ai / / Product Engineer (Design) & Platform Engineer / ONSITE in London, UK / 100k-160k GBP + 0.25-0.75% Equity / Visa sponsorship",
+      "locations": [
+        "Product Engineer (Design) & Platform Engineer"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Platform Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://planlab.ai/jobs",
+      "url": "https://trueinterview.io/jobs/552a08d1-196a-4694-8be1-404374e3b425",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "2ebab8d0-daf3-428d-9399-a11c4ac70e01",
+      "company": "PwC",
+      "title": "IN_Senior Associate_Azure Data Engineer_GCC_Advisory_Mumbai",
+      "locations": [
+        "Mumbai Shivaji Park"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Senior-Associate-GCP-Agentic-AI-SME-AI-50-Advisory-Bangalore_758218WD-1",
+      "url": "https://trueinterview.io/jobs/2ebab8d0-daf3-428d-9399-a11c4ac70e01",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "4ac2ad20-53d4-4be4-8a5d-36819a2123a0",
+      "company": "QUALCOMM",
+      "title": "AI Software Developer",
+      "locations": [
+        "San Diego, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446721360419",
+      "url": "https://trueinterview.io/jobs/4ac2ad20-53d4-4be4-8a5d-36819a2123a0",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "16aaabee-411a-43de-938e-7b058d741b71",
+      "company": "Tactable",
+      "title": "data engineer",
+      "locations": [
+        "Toronto (ON)"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.jobbank.gc.ca/jobsearch/jobposting/50402197",
+      "url": "https://trueinterview.io/jobs/16aaabee-411a-43de-938e-7b058d741b71",
       "postedAt": "2026-10-01T00:00:00.000Z",
       "updatedAt": "2026-10-01T00:00:00.000Z"
     },
@@ -261,34 +505,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318726523",
       "url": "https://trueinterview.io/jobs/657d4e0f-e576-421e-81e0-e74bf5bc1c80",
-      "postedAt": "2026-09-30T00:00:00.000Z",
-      "updatedAt": "2026-09-30T00:00:00.000Z"
-    },
-    {
-      "id": "9af79495-ecb2-48a5-a289-8bd8ad99d596",
-      "company": "Intel",
-      "title": "Finance Data Scientist",
-      "locations": [
-        "US, Arizona, Phoenix",
-        "US, California, Santa Clara",
-        "US, Oregon, Hillsboro",
-        "US, Arizona, Phoenix, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "trueinterview",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Finance-Data-Scientist_JR0287625",
-      "url": "https://trueinterview.io/jobs/9af79495-ecb2-48a5-a289-8bd8ad99d596",
       "postedAt": "2026-09-30T00:00:00.000Z",
       "updatedAt": "2026-09-30T00:00:00.000Z"
     },
@@ -6881,6 +7097,33 @@
       "url": "https://trueinterview.io/jobs/4496a3d7-1772-4638-80d9-e175d7414682",
       "postedAt": "2026-09-18T14:30:13.000Z",
       "updatedAt": "2026-09-18T14:30:13.000Z"
+    },
+    {
+      "id": "26dae050-15b6-47f0-940c-bd0089999ec1",
+      "company": "Arm Holdings",
+      "title": "Applications Engineer",
+      "locations": [
+        "Austin"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.arm.com/job/austin/applications-engineer/33099/97112476448",
+      "url": "https://trueinterview.io/jobs/26dae050-15b6-47f0-940c-bd0089999ec1",
+      "postedAt": "2026-09-18T12:03:11.000Z",
+      "updatedAt": "2026-09-18T12:03:11.000Z"
     },
     {
       "id": "fd269f61-9647-4106-af4d-4936e00b7d98",
@@ -17820,31 +18063,6 @@
       "updatedAt": "2026-09-10T00:00:00.000Z"
     },
     {
-      "id": "58ca909b-315a-4735-ab2e-5091e40e2991",
-      "company": "Micron Technology",
-      "title": "New College Grad - RAM RDA Process Engineer",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44247248",
-      "url": "https://trueinterview.io/jobs/58ca909b-315a-4735-ab2e-5091e40e2991",
-      "postedAt": "2026-09-10T00:00:00.000Z",
-      "updatedAt": "2026-09-10T00:00:00.000Z"
-    },
-    {
       "id": "5598230b-4d05-4fcb-ac39-329d693d61c4",
       "company": "Motorola Solutions",
       "title": "C# Software Engineer - Temporary from 01/01/2027 for 12 months",
@@ -26436,31 +26654,6 @@
       "updatedAt": "2026-09-02T00:00:00.000Z"
     },
     {
-      "id": "31ec863f-8609-44e2-95ce-e051fab6c674",
-      "company": "Motorola Solutions",
-      "title": "Graduate Software Engineer",
-      "locations": [
-        "Glasgow, UK (ZUK118)"
-      ],
-      "cities": [],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "trueinterview",
-      "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R68006",
-      "url": "https://trueinterview.io/jobs/31ec863f-8609-44e2-95ce-e051fab6c674",
-      "postedAt": "2026-09-02T00:00:00.000Z",
-      "updatedAt": "2026-09-02T00:00:00.000Z"
-    },
-    {
       "id": "f2889fda-0d74-44ec-b46b-a17d49e0f0fd",
       "company": "PDQ",
       "title": "Software Engineer (Backend)",
@@ -27586,31 +27779,6 @@
       "source": "trueinterview",
       "applyUrl": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Threat-Analyst--Machine-Learning-Operations---Detection-Efficacy--Remote-_R29964",
       "url": "https://trueinterview.io/jobs/cefcf42d-cff5-4e83-9383-5a1569c3cb03",
-      "postedAt": "2026-09-01T00:00:00.000Z",
-      "updatedAt": "2026-09-01T00:00:00.000Z"
-    },
-    {
-      "id": "7027a32e-fe5a-48f5-a428-92c7dde6cb79",
-      "company": "Micron Technology",
-      "title": "New College Grad - ATE Process Engineer ID1",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/38571652",
-      "url": "https://trueinterview.io/jobs/7027a32e-fe5a-48f5-a428-92c7dde6cb79",
       "postedAt": "2026-09-01T00:00:00.000Z",
       "updatedAt": "2026-09-01T00:00:00.000Z"
     },
@@ -44099,32 +44267,6 @@
       "updatedAt": "2026-08-11T00:00:00.000Z"
     },
     {
-      "id": "74e8bdb8-f08f-4784-884c-85bc597cbfdb",
-      "company": "Cisco",
-      "title": "Customer Experience Customer Success Specialist I (Full Time) United States",
-      "locations": [
-        "RTP, North Carolina, US",
-        "RTP, North Carolina, US, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Customer-Experience-Customer-Success-Specialist-I--Full-Time--United-States_2019858",
-      "url": "https://trueinterview.io/jobs/74e8bdb8-f08f-4784-884c-85bc597cbfdb",
-      "postedAt": "2026-08-11T00:00:00.000Z",
-      "updatedAt": "2026-08-11T00:00:00.000Z"
-    },
-    {
       "id": "a25dad52-695d-46ef-98b5-8ce5bfb766b7",
       "company": "Netflix",
       "title": "Security Software Engineer (L6), Security Protocols & Foundations",
@@ -44146,81 +44288,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://explore.jobs.netflix.net/careers/job/790317577115",
       "url": "https://trueinterview.io/jobs/a25dad52-695d-46ef-98b5-8ce5bfb766b7",
-      "postedAt": "2026-08-11T00:00:00.000Z",
-      "updatedAt": "2026-08-11T00:00:00.000Z"
-    },
-    {
-      "id": "2d60fd46-6a00-4ade-9c32-2ffe8c5640ff",
-      "company": "Splunk",
-      "title": "Applied AI Scientist",
-      "locations": [
-        "Seattle, Washington, United States of America",
-        "Ann Arbor, Michigan, United States of America",
-        "Arlington, Virginia, United States of America",
-        "Ashburn, Virginia, United States of America",
-        "Atlanta, Georgia, United States of America",
-        "Austin, Texas, United States of America",
-        "Bellevue, Washington, United States of America",
-        "Boston, Massachusetts, United States of America",
-        "Boulder, Colorado, United States of America",
-        "Cambridge, Massachusetts, United States of America",
-        "Carlsbad, California, United States of America",
-        "Cary, North Carolina, United States of America",
-        "Centennial, Colorado, United States of America",
-        "Chicago, Illinois, United States of America",
-        "Colorado Springs, Colorado, United States of America",
-        "Columbia, South Carolina, United States of America",
-        "Dallas, Texas, United States of America",
-        "Denver, Colorado, United States of America",
-        "Durham, North Carolina, United States of America",
-        "Hillsboro, Oregon, United States of America",
-        "Seattle, Washington, US",
-        "Oklahoma City, Oklahoma, US",
-        "Nashville, Tennessee, US",
-        "Phoenix, Arizona, US",
-        "Philadelphia, Pennsylvania, US",
-        "Honolulu, Hawaii, US",
-        "Carlsbad, California, US",
-        "Austin, Texas, US",
-        "Maynard, Massachusetts, US",
-        "Arlington, Virginia, US",
-        "Ashburn, Virginia, US",
-        "Atlanta, Georgia, US",
-        "Tempe, Arizona, US",
-        "Hillsboro, Oregon, US",
-        "Cary, North Carolina, US",
-        "Stamford, Connecticut, US",
-        "McLean, Virginia, US",
-        "Tampa, Florida, US",
-        "Durham, North Carolina, US",
-        "Syracuse, New York, US",
-        "Seattle, Washington, US, United States of America"
-      ],
-      "cities": [
-        "Seattle, WA",
-        "Atlanta, GA",
-        "Austin, TX",
-        "Bellevue, WA",
-        "Boston, MA",
-        "Cambridge",
-        "Chicago, IL",
-        "Denver, CO"
-      ],
-      "countries": [
-        "United States",
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Seattle-Washington-US/Applied-AI-Scientist_2018334",
-      "url": "https://trueinterview.io/jobs/2d60fd46-6a00-4ade-9c32-2ffe8c5640ff",
       "postedAt": "2026-08-11T00:00:00.000Z",
       "updatedAt": "2026-08-11T00:00:00.000Z"
     },

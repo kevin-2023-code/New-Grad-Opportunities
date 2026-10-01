@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**152 open roles.** 115 in the United States & Canada · 37 elsewhere in the world.
+**151 open roles.** 114 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -764,13 +764,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/851c05e6-797b-40a4-882d-4e99bef8bbf9">SOC Support Specialist- Pacific or MountainTime Zone, Weekend Shift</a></td>
 <td>United States of America</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/huntress/jobs/7855135003">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/74e8bdb8-f08f-4784-884c-85bc597cbfdb">Customer Experience Customer Success Specialist I (Full Time) United States</a></td>
-<td>RTP, North Carolina, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Customer-Experience-Customer-Success-Specialist-I--Full-Time--United-States_2019858">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
