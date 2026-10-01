@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**14 open roles.**
+**15 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ensafe Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2bcbcfc-71b4-4268-81ae-dbee292d78f1">Process Safety Engineer</a></td>
+<td>Atlanta, GA<br/>Jackson, MS<br/>Charleston, SC<br/>+2 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/ensafeinc/jobs/4429917009">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/d178c5fe-6d70-4347-9425-841c1129eaa0">Early Career Process Water/Plumbing Engineer</a></td>

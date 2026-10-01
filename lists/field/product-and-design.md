@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**115 open roles.** 85 in the United States & Canada · 30 elsewhere in the world.
+**117 open roles.** 85 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -624,6 +624,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Brighte</strong></td>
+<td><a href="https://trueinterview.io/jobs/1990e47a-c43f-4fb0-87d7-30bd94e2ab1a">Product Designer</a></td>
+<td>Sydney, NSW</td>
+<td align="center"><a href="https://jobs.lever.co/brighte/77f8cb27-5742-49dc-86c0-aafe292bb22d/apply">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Greenlight Financial Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a45d701-4c8f-4b88-8767-a0739b7bf7b9">Brand Designer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.lever.co/greenlight/97f0d15e-9719-4211-a734-627379b76564/apply">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Moxie</strong></td>
 <td><a href="https://trueinterview.io/jobs/419e2958-b4d3-4f73-8e57-fb9e5e55e12c">Events Graphic Designer (PH)</a> 🌐</td>

@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**30 open roles.** 17 in the United States & Canada · 13 elsewhere in the world.
+**31 open roles.** 17 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -153,6 +153,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/bc9efaf7-bbdd-43d2-8acd-8b7d91513995">PrairieLearn (Remote US) — Full-Stack Software Engineer — TypeScript / Postgres / React / AI</a></td>
 <td>—</td>
 <td align="center"><a href="https://www.prairielearn.com/">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Plutus</strong></td>
+<td><a href="https://trueinterview.io/jobs/3538ab1a-117b-4f4a-adf9-2504a3d6882f">Plutus / In Person - Kirkland, WA / Fintech / Full Stack Engineer</a></td>
+<td>Fintech</td>
+<td align="center"><a href="https://www.runplutus.com/">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>

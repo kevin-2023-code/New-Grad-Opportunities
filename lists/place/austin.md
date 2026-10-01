@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**93 open roles.**
+**94 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>2K Games</strong></td>
+<td><a href="https://trueinterview.io/jobs/048c4ba9-a74f-495a-b90a-7a6566b8c8fe">Build Systems Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>Los Angeles, California</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/2k/jobs/8010965003">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Yelp</strong></td>
 <td><a href="https://trueinterview.io/jobs/5aae45d0-5801-4207-ae9b-ca53f4661c3d">Retention Restaurant Support Specialist, SaaS Sales - (Remote - US)</a> 🌐</td>
