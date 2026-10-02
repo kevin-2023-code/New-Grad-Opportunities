@@ -18,17 +18,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Tenstorrent</strong></td>
-<td><a href="https://trueinterview.io/jobs/d2175591-d5b0-4909-b698-63c0b9735d77">Datacenter &amp; Agentic AI Workload Performance Analysis Engineer</a></td>
-<td>Santa Clara, California, United States<br/>North America</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5253844007">Apply</a></td>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/37926702-08aa-4124-9211-f1f002e16bf8">AI/ML Solutions Engineer</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92716?lang=en-us">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Gallatin</strong></td>
-<td><a href="https://trueinterview.io/jobs/5379546f-142f-45d9-9ca4-48014d0ee25c">AI Engineer - Allocation and Packing Systems</a></td>
-<td>El Segundo, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gallatin/ec4e0bf9-eb78-42bc-a71c-f8317ebe6946/application">Apply</a></td>
+<td><strong>Dell</strong></td>
+<td><a href="https://trueinterview.io/jobs/c685f854-3e8d-43c2-8369-469a4eb8d829">IT Graduate Development Program (ITDP) – AI-Native Software Engineer</a></td>
+<td>Limerick, Co. Limerick, Ireland</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/298152">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>

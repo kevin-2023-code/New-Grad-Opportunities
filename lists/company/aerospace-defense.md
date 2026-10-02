@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**148 open roles.** 137 in the United States & Canada · 11 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**147 open roles.** 136 in the United States & Canada · 11 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Hadrian Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f0efd06-8101-42cf-9235-c5b0970f3328">Computational Geometry Software Engineer</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/3e8d001a-5df7-49ee-ab64-79c3c914545b/application">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Parsons Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/0f8f78ca-dd1e-4774-83c8-321514a23b1b">DevOps Unmanned Systems Integration Engineer</a></td>

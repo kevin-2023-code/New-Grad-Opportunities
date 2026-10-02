@@ -20,11 +20,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Brighte</strong></td>
-<td><a href="https://trueinterview.io/jobs/1990e47a-c43f-4fb0-87d7-30bd94e2ab1a">Product Designer</a></td>
-<td>Sydney, NSW</td>
-<td align="center"><a href="https://jobs.lever.co/brighte/77f8cb27-5742-49dc-86c0-aafe292bb22d/apply">Apply</a></td>
-<td align="center">1 Oct 2026</td>
+<td><strong>CABLE</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a7d6ff3-ec88-4101-970b-9022db0ed3fa">CABLE / Software Engineer (early team) / Sydney, Australia (ON-SITE) / Full-time /</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://jobs.cable.energy/roles/3e2cd174-71f5-80ae-a1d2-db8b93f2e51d">Apply</a></td>
+<td align="center">2 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Macquarie Technology Group</strong></td>

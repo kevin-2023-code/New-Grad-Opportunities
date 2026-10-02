@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**83 open roles.**
+**80 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,27 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/47c52dd3-7f09-4b90-98d5-0e1ca9ffee78">Frontend Software Engineer, Codex App</a></td>
-<td>Seattle, WA<br/>San Francisco, CA<br/>London, UK</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/5f6685ad-2fba-4e60-8982-fa142b33e194/application">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tin Can</strong></td>
-<td><a href="https://trueinterview.io/jobs/c9a80bd3-0749-4eed-aee6-159bff3ec9a6">IT &amp; Systems Administrator</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/tin-can/b5e939e5-6f4b-44b8-94d0-3b8eba34951c/application">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sanmar</strong></td>
-<td><a href="https://trueinterview.io/jobs/864026c9-0533-4506-afc0-378c50e08370">Product Developer</a></td>
-<td>Issaquah, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/sanmar/jobs/5254276007?gh_jid=5254276007">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Gdh</strong></td>
 <td><a href="https://trueinterview.io/jobs/cb4861b2-94d5-4668-9428-f0ecd96d3296">Graduate Water Engineer</a></td>
