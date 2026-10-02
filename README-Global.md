@@ -18,13 +18,13 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-02 08:20 UTC_
+_Last updated: 2026-10-02 15:41 UTC_
 
-**442 open new-grad roles** from **297 employers** · **39 posted in the last 7 days** · refreshed hourly
+**442 open new-grad roles** from **296 employers** · **40 posted in the last 7 days** · refreshed hourly
 
 ### Browse 442 new-grad roles by field
 
-💻 **[Software Engineering](#-software-engineering)** (236)
+💻 **[Software Engineering](#-software-engineering)** (237)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (101)
 
@@ -34,7 +34,7 @@ _Last updated: 2026-10-02 08:20 UTC_
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (7)
 
-🧰 **[IT & Support](#-it--support)** (37)
+🧰 **[IT & Support](#-it--support)** (36)
 
 ---
 
@@ -50,13 +50,13 @@ _Last updated: 2026-10-02 08:20 UTC_
 
 _Counts are new-grad roles in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🧾 IT services & consulting (48)](lists/company/it-consulting.md) · [🏗️ Large tech (1,000–9,999) (41)](lists/company/large-tech.md) · [🌱 Startups (under 200) (36)](lists/company/startups.md) · [🏦 Banks, insurers & asset managers (32)](lists/company/banking-finance.md) · [🧠 AI labs & AI infrastructure (31)](lists/company/ai.md) · [🏢 Enterprise & business software (28)](lists/company/enterprise-saas.md) · [☁️ Developer tools, cloud & data infrastructure (26)](lists/company/dev-infra.md) · [💼 Other industries (26)](lists/company/other-industry.md) · [💳 Fintech, payments & crypto (25)](lists/company/fintech.md) · [🏤 Mid-sized tech (200–999) (25)](lists/company/mid-size-tech.md) · [+14 more →](lists/README.md)
+🏷️ **By company type** — [🧾 IT services & consulting (49)](lists/company/it-consulting.md) · [🏗️ Large tech (1,000–9,999) (40)](lists/company/large-tech.md) · [🌱 Startups (under 200) (36)](lists/company/startups.md) · [🏦 Banks, insurers & asset managers (32)](lists/company/banking-finance.md) · [🧠 AI labs & AI infrastructure (30)](lists/company/ai.md) · [🏢 Enterprise & business software (28)](lists/company/enterprise-saas.md) · [☁️ Developer tools, cloud & data infrastructure (26)](lists/company/dev-infra.md) · [💼 Other industries (26)](lists/company/other-industry.md) · [💳 Fintech, payments & crypto (25)](lists/company/fintech.md) · [🏤 Mid-sized tech (200–999) (25)](lists/company/mid-size-tech.md) · [+14 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (86)](lists/role/software-engineer.md) · [AI Engineer (29)](lists/role/ai-engineer.md) · [Data Engineer (17)](lists/role/data-engineer.md) · [Security Engineer (17)](lists/role/security-engineer.md) · [Data Analyst (16)](lists/role/data-analyst.md) · [Backend Engineer (12)](lists/role/backend-engineer.md) · [Platform Engineer (11)](lists/role/platform-engineer.md) · [Full-Stack Engineer (10)](lists/role/full-stack-engineer.md) · [Data Scientist (9)](lists/role/data-scientist.md) · [Machine Learning Engineer (9)](lists/role/machine-learning-engineer.md) · [+9 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (87)](lists/role/software-engineer.md) · [AI Engineer (29)](lists/role/ai-engineer.md) · [Data Engineer (17)](lists/role/data-engineer.md) · [Data Analyst (16)](lists/role/data-analyst.md) · [Security Engineer (16)](lists/role/security-engineer.md) · [Backend Engineer (12)](lists/role/backend-engineer.md) · [Platform Engineer (11)](lists/role/platform-engineer.md) · [Full-Stack Engineer (10)](lists/role/full-stack-engineer.md) · [Data Scientist (9)](lists/role/data-scientist.md) · [Machine Learning Engineer (9)](lists/role/machine-learning-engineer.md) · [+9 more →](lists/README.md)
 
 📍 **By location** — [🌎 México, Brazil & Latin America (49)](lists/place/latam.md) · [🇬🇧 London & the UK (39)](lists/place/uk.md) · [🇮🇳 Bengaluru & India (25)](lists/place/india.md) · [🇩🇪 Berlin, Munich & Germany (15)](lists/place/germany.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (13)](lists/place/anz.md) · [🇫🇷 Paris & France (9)](lists/place/france.md) · [🏰 Warsaw, Kraków & Central Europe (7)](lists/place/poland-cee.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (6)](lists/place/greater-china.md) · [🇸🇬 Singapore (6)](lists/place/singapore.md) · [🇪🇸 Madrid, Barcelona & Iberia (5)](lists/place/iberia.md) · [+1 more →](lists/README.md)
 
-⚡ **Quick filters** — [🌐 Remote (66)](lists/remote.md) · [🆕 Posted in the last 7 days (39)](lists/new-this-week.md)
+⚡ **Quick filters** — [🌐 Remote (65)](lists/remote.md) · [🆕 Posted in the last 7 days (40)](lists/new-this-week.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -91,6 +91,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e2ca04aa-f24a-4f1c-ad2f-3e0c91bd724b">Datamint / Rust Systems Engineer, Browser Security / Remote (Global) / Full-time / $120k–$170k + Equity /</a> 🆕 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://datamint.xyz/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd146216-5582-4370-8bf7-9f68db20f53e">Software Engineer – Microsoft Fabric Platform (m/f)</a> 🆕</td>
+<td>Bratislava</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bratislava/Software-Engineer---Microsoft-Fabric-Platform--m-f-_765613WD">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -245,13 +252,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4f78821a-02ba-412d-9cae-02f8fd639fa8">cloud infrastructure engineer</a></td>
 <td>Not Available</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50358308">Apply</a></td>
-<td align="center">8d</td>
-</tr>
-<tr>
-<td><strong>Our Future Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/c633ae1e-fe04-414f-8709-70bd52e12112">Platform Engineer</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://4dayweek.io/job/platform-engineer-at-our-future-health-3f54f829">Apply</a></td>
 <td align="center">8d</td>
 </tr>
 </tbody>
@@ -620,7 +620,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 75 of 236.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 237.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -1717,7 +1717,7 @@ _Nothing posted in the last 14 days. The older roles below are still open._
 </table>
 
 <details>
-<summary>Show 31 more IT & Support roles posted earlier</summary>
+<summary>Show 30 more IT & Support roles posted earlier</summary>
 
 <table>
 <thead>
@@ -1743,13 +1743,6 @@ _Nothing posted in the last 14 days. The older roles below are still open._
 <td><a href="https://trueinterview.io/jobs/a4cbcb04-9368-4305-954f-5fa810309041">L1 Technical Support Agent (Spanish and English Speaking)</a></td>
 <td>LATAM</td>
 <td align="center"><a href="https://jobs.lever.co/canarytechnologies/6911aa00-dae1-458d-963d-779302f512ec/apply">Apply</a></td>
-<td align="center">17d</td>
-</tr>
-<tr>
-<td><strong>Nebius</strong></td>
-<td><a href="https://trueinterview.io/jobs/1475dde7-be34-4314-ab74-758bda7df67f">Network Security Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://careers.nebius.com/?gh_jid=4971845101">Apply</a></td>
 <td align="center">17d</td>
 </tr>
 <tr>

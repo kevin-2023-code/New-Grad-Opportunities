@@ -6,9 +6,61 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-02T08:20:27.150Z",
-  "count": 1758,
+  "listingsChangedAt": "2026-10-02T15:41:22.398Z",
+  "count": 1759,
   "listings": [
+    {
+      "id": "8ff6b66d-6040-4355-9b01-03d3eb41d104",
+      "company": "Arm Holdings",
+      "title": "Power and Performance Engineer, PAI Platforms and Performance Analysis",
+      "locations": [
+        "San Jose"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.arm.com/job/san-jose/power-and-performance-engineer-pai-platforms-and-performance-analysis/33099/77390277488",
+      "url": "https://trueinterview.io/jobs/8ff6b66d-6040-4355-9b01-03d3eb41d104",
+      "postedAt": "2026-10-02T14:33:39.000Z",
+      "updatedAt": "2026-10-02T14:33:39.000Z"
+    },
+    {
+      "id": "81f906d8-0bce-4e8a-aa8f-8228f1381f5a",
+      "company": "Nebius Group",
+      "title": "Critical Infrastructure Engineer",
+      "locations": [
+        "Oklahoma, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.nebius.com/?gh_jid=4995854101",
+      "url": "https://trueinterview.io/jobs/81f906d8-0bce-4e8a-aa8f-8228f1381f5a",
+      "postedAt": "2026-10-02T13:23:41.000Z",
+      "updatedAt": "2026-10-02T13:23:41.000Z"
+    },
     {
       "id": "2a7d6ff3-ec88-4101-970b-9022db0ed3fa",
       "company": "CABLE",
@@ -56,6 +108,60 @@
       "source": "trueinterview",
       "applyUrl": "https://datamint.xyz/",
       "url": "https://trueinterview.io/jobs/e2ca04aa-f24a-4f1c-ad2f-3e0c91bd724b",
+      "postedAt": "2026-10-02T00:00:00.000Z",
+      "updatedAt": "2026-10-02T00:00:00.000Z"
+    },
+    {
+      "id": "1267a293-b812-44c1-b79f-9c8a07623728",
+      "company": "Palo Alto Networks",
+      "title": "Solution Engineer, Identity - Central",
+      "locations": [
+        "Chicago, United States of America",
+        "Oklahoma City, United States of America",
+        "Jefferson City, United States of America",
+        "Austin, United States of America"
+      ],
+      "cities": [
+        "Chicago, IL",
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Chicago-United-States-of-America/Solution-Engineer--Identity---Central_JR-020641",
+      "url": "https://trueinterview.io/jobs/1267a293-b812-44c1-b79f-9c8a07623728",
+      "postedAt": "2026-10-02T00:00:00.000Z",
+      "updatedAt": "2026-10-02T00:00:00.000Z"
+    },
+    {
+      "id": "bd146216-5582-4370-8bf7-9f68db20f53e",
+      "company": "PwC",
+      "title": "Software Engineer – Microsoft Fabric Platform (m/f)",
+      "locations": [
+        "Bratislava"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bratislava/Software-Engineer---Microsoft-Fabric-Platform--m-f-_765613WD",
+      "url": "https://trueinterview.io/jobs/bd146216-5582-4370-8bf7-9f68db20f53e",
       "postedAt": "2026-10-02T00:00:00.000Z",
       "updatedAt": "2026-10-02T00:00:00.000Z"
     },
@@ -8674,33 +8780,6 @@
       "updatedAt": "2026-09-16T21:15:11.000Z"
     },
     {
-      "id": "a9c42b73-241d-44fd-bbeb-adfae5e7bde1",
-      "company": "Apex Companies",
-      "title": "Inspector / Field Engineer",
-      "locations": [
-        "Fullerton, CA",
-        "Roseville, CA",
-        "CA - Fullerton (CWE)"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/apexcompanies/jobs/5426276008",
-      "url": "https://trueinterview.io/jobs/a9c42b73-241d-44fd-bbeb-adfae5e7bde1",
-      "postedAt": "2026-09-16T20:58:35.000Z",
-      "updatedAt": "2026-09-16T20:58:35.000Z"
-    },
-    {
       "id": "dda43150-8805-4d09-a382-dde4aa57355b",
       "company": "Coalition",
       "title": "Frontend Engineer, Underwriting",
@@ -12367,29 +12446,6 @@
       "url": "https://trueinterview.io/jobs/b7188929-fcf3-43d6-ba83-5f96880e514b",
       "postedAt": "2026-09-14T17:25:09.000Z",
       "updatedAt": "2026-09-14T17:25:09.000Z"
-    },
-    {
-      "id": "1475dde7-be34-4314-ab74-758bda7df67f",
-      "company": "Nebius",
-      "title": "Network Security Engineer",
-      "locations": [
-        "Remote - Europe"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "remote",
-      "category": "Software",
-      "family": "IT & Support",
-      "role": "Security Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.nebius.com/?gh_jid=4971845101",
-      "url": "https://trueinterview.io/jobs/1475dde7-be34-4314-ab74-758bda7df67f",
-      "postedAt": "2026-09-14T16:03:51.000Z",
-      "updatedAt": "2026-09-14T16:03:51.000Z"
     },
     {
       "id": "abeb4f36-0dbc-48ae-9291-b3c7410daf51",
@@ -46150,35 +46206,6 @@
       "url": "https://trueinterview.io/jobs/ff4b3f47-adf3-45ae-8e53-b22a2b257fae",
       "postedAt": "2026-08-04T16:00:04.000Z",
       "updatedAt": "2026-08-04T16:00:04.000Z"
-    },
-    {
-      "id": "39d226cc-af6c-4666-9de7-4095a0c1f731",
-      "company": "Infineon",
-      "title": "International Graduate Program (IGP) – Engineer SoC Flow and Methodology (f/m/div)",
-      "locations": [
-        "DU, NRW, DE",
-        "Munich, BY, DE"
-      ],
-      "cities": [
-        "Munich"
-      ],
-      "countries": [
-        "United States",
-        "Germany"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.infineon.com/careers/job/563808971542513",
-      "url": "https://trueinterview.io/jobs/39d226cc-af6c-4666-9de7-4095a0c1f731",
-      "postedAt": "2026-08-04T00:00:00.000Z",
-      "updatedAt": "2026-08-04T00:00:00.000Z"
     },
     {
       "id": "3c3831cf-b7ea-4413-821e-046f95925f8c",

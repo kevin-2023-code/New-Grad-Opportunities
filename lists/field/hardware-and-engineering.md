@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**371 open roles.** 340 in the United States & Canada · 31 elsewhere in the world.
+**370 open roles.** 339 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2360,13 +2360,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/146f2ddb-21b8-450f-92b0-74d0f4b7d514">Embedded Software Engineer - MCU Platforms</a></td>
 <td>Foster City, CA</td>
 <td align="center"><a href="https://jobs.lever.co/zoox/4c16c18c-18c0-433c-bc21-8bd72824a1d9/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/39d226cc-af6c-4666-9de7-4095a0c1f731">International Graduate Program (IGP) – Engineer SoC Flow and Methodology (f/m/div)</a></td>
-<td>Munich, BY, DE<br/>DU, NRW, DE</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971542513">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 <tr>
