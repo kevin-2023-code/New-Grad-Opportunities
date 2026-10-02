@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**12 open roles.** 8 in the United States & Canada · 4 elsewhere in the world.
+**10 open roles.** 7 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -30,13 +30,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/applied/f4c0ee25-b4d4-4f3d-b054-e9c1aeb56104/application">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb87b2c7-cdd8-4f93-93ed-b40f7f2b14fa">Front-End Engineer, Core Shopping</a></td>
-<td>US, WA, Seattle</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553458/front-end-engineer-core-shopping">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Blink Ux</strong></td>
@@ -91,13 +84,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Riyadh, Saudi Arabia</td>
 <td align="center"><a href="https://4dayweek.io/job/frontend-software-engineer-at-lucidya-8fa81b9b">Apply</a></td>
 <td align="center">19 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Seamflow</strong></td>
-<td><a href="https://trueinterview.io/jobs/b97b3ddd-58a5-4da4-af1b-b61e85519b88">Front End Design Engineer</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/seamflow/23808403-8a46-4da0-b374-0a04f099a149/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Manulife</strong></td>

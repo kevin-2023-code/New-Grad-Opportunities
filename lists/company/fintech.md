@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**63 open roles.** 36 in the United States & Canada · 27 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**61 open roles.** 36 in the United States & Canada · 25 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -289,21 +289,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Ebanx</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6bbf1af-5a7c-412a-833f-577a5fac75b6">Data Science Specialist</a></td>
-<td>Curitiba<br/>On-site<br/>EBANX</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/ebanx/jobs/7917890003">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>C6 Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/e74f33be-0671-4339-8251-c46d545112c6">Pessoa Desenvolvedora IOS |  Core Business Products Engineering</a></td>
-<td>São Paulo, Brazil<br/>C6 Bank</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4734634005">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8a9c1787-3aa3-48f4-adb1-34aa9ce7ce27">Pessoa Estagiária em Estratégia e Políticas de Recuperação de Crédito | Cobrança</a></td>
 <td>São Paulo, Brazil<br/>Estágio</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4733467005">Apply</a></td>

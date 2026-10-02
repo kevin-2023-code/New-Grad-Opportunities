@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**44 open roles.** 26 in the United States & Canada · 18 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**36 open roles.** 21 in the United States & Canada · 15 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,13 +19,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d884cdb-ff00-4b52-9cd2-2c507828b3e2">Software Development Engineer, ROBOTICS, Early Career - 2027</a></td>
-<td>North Reading, Massachusetts, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6d658af9-591d-4b44-a6fc-c6eca79868e9">Data Engineer, Early Career - 2026 (CAN)</a></td>
 <td>CA, ON, Toronto</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can">Apply</a></td>
@@ -39,39 +32,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/03f57265-28a0-441b-8d1a-28558fc8065f">Machine Learning Engineer, EXR OPS Tech Team</a></td>
-<td>Bellevue, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10556687/machine-learning-engineer-exr-ops-tech-team">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Shopify</strong></td>
 <td><a href="https://trueinterview.io/jobs/5e6a97d7-ab71-44db-b41f-aa557b2f6f6c">Technical Security Analyst, IAM</a> 🌐</td>
 <td>Remote — Canada</td>
 <td align="center"><a href="https://www.shopify.com/careers/technical-security-analyst-iam_ed446689-e031-4f41-aa1d-e0de6a5940c8">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Faire</strong></td>
-<td><a href="https://trueinterview.io/jobs/d7094e37-ac70-4576-99ea-c75940b1e5da">Growth Platform, Marketing Engineer</a></td>
-<td>Toronto, ON<br/>San Francisco, CA<br/>New York City, NY</td>
-<td align="center"><a href="https://boards.greenhouse.io/faire/jobs/8821336002?gh_jid=8821336002">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb87b2c7-cdd8-4f93-93ed-b40f7f2b14fa">Front-End Engineer, Core Shopping</a></td>
-<td>US, WA, Seattle</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553458/front-end-engineer-core-shopping">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c9b23cbd-184e-4cbe-93ca-7ff430fc0533">Software Development Engineer, Prime Video ML Infrastructure</a></td>
-<td>US, WA, Seattle</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553195/software-development-engineer-prime-video-ml-infrastructure">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Lightspeed Commerce, Inc</strong></td>
@@ -231,27 +196,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brazil</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydropx/15dc51e3-512c-45a2-b429-2e838103940e/application">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/fd269f61-9647-4106-af4d-4936e00b7d98">Data Analyst, UAE National, Supply Chain Planning</a></td>
-<td>AE, Dubai</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553322/data-analyst-uae-national-supply-chain-planning">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dd4a12e4-b543-4848-92cc-f5620bb6a187">Mechanical Process Engineer, Product Engineering</a></td>
-<td>CN, 31, Shanghai<br/>CN, 44, Shenzhen</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553042/mechanical-process-engineer-product-engineering">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f29dc396-ba43-476e-a2c2-19817325abc9">SDE-1, Expansions Tech and Product</a></td>
-<td>IN, TS, Hyderabad</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553343/sde-1-expansions-tech-and-product">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Gorjana</strong></td>

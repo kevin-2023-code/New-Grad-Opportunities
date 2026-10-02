@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**55 open roles.**
+**49 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Tactable</strong></td>
-<td><a href="https://trueinterview.io/jobs/16aaabee-411a-43de-938e-7b058d741b71">data engineer</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50402197">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Gdh</strong></td>
 <td><a href="https://trueinterview.io/jobs/fd7030ff-4f03-4677-8d83-d1d5dbc4345a">Engineering Graduate, Geotechnical (Hiring Day Event ON)</a></td>
@@ -109,46 +102,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Faire</strong></td>
-<td><a href="https://trueinterview.io/jobs/d7094e37-ac70-4576-99ea-c75940b1e5da">Growth Platform, Marketing Engineer</a></td>
-<td>Toronto, ON<br/>San Francisco, CA<br/>New York City, NY</td>
-<td align="center"><a href="https://boards.greenhouse.io/faire/jobs/8821336002?gh_jid=8821336002">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Dept</strong></td>
 <td><a href="https://trueinterview.io/jobs/044f7672-201f-46c3-8f5e-97c0b2b0ada2">Technical Motion Designer (12 months FTC)</a></td>
 <td>Toronto, ON<br/>Canada<br/>PCCA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dept/jobs/8214593">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>CIBC</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0239412-a620-4b70-94af-05217305b89e">Full Stack Developer (.NET, C#, SQL, React, and Azure Databricks)</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Full-Stack-Developer--Azure-Databricks--Oracle--Firco-_2618547">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>YO AI Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/afd75f0d-1017-463d-970f-7d1f9c627208">software developer</a></td>
-<td>Ottawa, ON</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50315027">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sprypoint</strong></td>
-<td><a href="https://trueinterview.io/jobs/c650e26a-dd38-4772-aff7-8dfcdb864a34">Product Owner, CIS</a></td>
-<td>Toronto, ON<br/>Canada<br/>Halifax, Nova Scotia<br/>+5 more</td>
-<td align="center"><a href="https://jobs.lever.co/sprypointservices/729b40fa-9f8a-4802-84b1-9546c8fcf241/apply">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6e5df89-091b-4c27-b9f3-5ab981d15e7a">Software Engineer, Security</a></td>
-<td>Toronto, ON<br/>San Francisco, CA<br/>New York, NY<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Viggle Ai</strong></td>

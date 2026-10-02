@@ -2,7 +2,7 @@
 
 # 🎮 Gaming & interactive
 
-**9 open roles.** 8 in the United States & Canada · 1 elsewhere in the world. Games, game engines and interactive entertainment.
+**7 open roles.** 6 in the United States & Canada · 1 elsewhere in the world. Games, game engines and interactive entertainment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Bungie</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0453983-b421-4b23-a3c9-d366a063794a">Investment Designer (Contract)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/bungie/jobs/6193602004">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Roblox</strong></td>
-<td><a href="https://trueinterview.io/jobs/ceb5d2af-1757-4ee6-b440-f0a7c64ddfc5">Developer Engagement Team  (Contract)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://careers.roblox.com/jobs/8213384?gh_jid=8213384">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Bungie</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ba61d4b-710d-430e-8517-383650e34957">Marathon Producer (Contract)</a> 🌐</td>

@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**10 open roles.** 6 in the United States & Canada · 4 elsewhere in the world.
+**9 open roles.** 5 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/7058ef9c-5702-4c3b-aa81-4bac24d0933d">Site Reliability Engineer II (Full Time) - United States</a></td>
-<td>Boulder, Colorado, US, United States of America<br/>Richardson, Texas, United States of America<br/>RTP, North Carolina, US<br/>+2 more</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Boulder-Colorado-US/Site-Reliability-Engineer-II--Full-Time----United-States_2027109">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Erg</strong></td>
 <td><a href="https://trueinterview.io/jobs/dec8fc29-023b-43a1-a2b4-6a2ec6c6aeb6">On-site Environmental Scientist, Engineer, and Technical Specialist</a></td>

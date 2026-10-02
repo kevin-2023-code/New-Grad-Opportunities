@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**42 open roles.** 36 in the United States & Canada · 6 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**40 open roles.** 34 in the United States & Canada · 6 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -33,13 +33,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Palo Alto Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6074acd-1daa-4348-a5ce-327785e643f3">Academy Systems Engineer</a></td>
-<td>Office - USA - TX, United States of America</td>
-<td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---TX/Academy-Systems-Engineer_JR-011449">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/95a8f68f-5f7c-481e-93f1-617d1f35e62f">Associate Systems Engineer</a></td>
 <td>Office - USA - TX, United States of America</td>
 <td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---TX/Associate-Systems-Engineer_JR-011810">Apply</a></td>
@@ -57,13 +50,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/679bbf3b-1049-4cf0-9c2d-475dd5c22c31">Sr. Machine Learning Engineer</a></td>
 <td>Office - USA - CA - Headquarters, United States of America</td>
 <td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Sr-Machine-Learning-Engineer_JR-013400">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fc1bf5a2-a6e4-4c80-a824-e3c5e66424d2">Technical Data Operations Analyst</a></td>
-<td>Office - USA - CA - Headquarters, United States of America</td>
-<td align="center"><a href="https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Technical-Data-Operations-Analyst_JR-018972-1">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

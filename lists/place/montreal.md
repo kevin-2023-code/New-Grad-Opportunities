@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**23 open roles.**
+**22 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Montreal, QC, Canada</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000150775389-backend-programer-quality-foundation?oga=true">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6e5df89-091b-4c27-b9f3-5ab981d15e7a">Software Engineer, Security</a></td>
-<td>Montreal, QC<br/>Toronto, ON<br/>San Francisco, CA<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Lightspeed Commerce, Inc</strong></td>

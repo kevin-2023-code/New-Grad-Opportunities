@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**23 open roles.** 10 in the United States & Canada · 13 elsewhere in the world.
+**22 open roles.** 10 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -111,13 +111,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2fab814f-7929-4306-9080-c3ca365f7395">Backend Software Engineer</a></td>
 <td>Chengdu, Sichuan</td>
 <td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Chengdu-Sichuan/Backend-Software-Engineer_JR26080605">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PwC</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2b6cb41-0cc4-4df3-b301-d2b700e8faea">IN_Senior Associate_ Java Backend Developer_GCC_Advisory_Hyderabad</a></td>
-<td>Hyderabad - Salarpuria</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Python-GCC-Advisory-Bangalore_746234WD-1">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>

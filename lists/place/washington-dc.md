@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**51 open roles.**
+**49 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -65,20 +65,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Washington, DC<br/>Washington, District of Columbia, United States<br/>Washington, D.C.</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rhombuspower/jobs/8002928003">Apply</a></td>
 <td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Agile Defense</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef1bfc80-ceee-41db-9439-8d557fa9eac5">Applied Data &amp; Software Engineer</a></td>
-<td>Arlington, VA</td>
-<td align="center"><a href="https://jobs.lever.co/agile-defense/9328b001-f353-4b63-8384-8a5f5e36aa57/apply">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Aclu National Office</strong></td>
-<td><a href="https://trueinterview.io/jobs/b47729e8-9e16-4126-bf16-41ec8b51c25b">Analytics Engineer</a></td>
-<td>Washington, DC<br/>Washington, District of Columbia, United States<br/>New York, NY - National<br/>+2 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/aclu/jobs/8816450002">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Anavation</strong></td>

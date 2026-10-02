@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**120 open roles.** 84 in the United States & Canada · 36 elsewhere in the world. Early-stage technology companies.
+**118 open roles.** 82 in the United States & Canada · 36 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -39,24 +39,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Granica</strong></td>
-<td><a href="https://trueinterview.io/jobs/cddd759a-47a9-48bc-a0a2-df5557a0ad01">Forward Deployed Engineer</a></td>
-<td>Bay Area Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/granica/165a62b6-014d-4d83-a800-a0ff3b205745/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Sydecar</strong></td>
 <td><a href="https://trueinterview.io/jobs/f2679ccd-c966-482e-9af4-8f6a0ed0679c">Software Engineer 1, Platform</a></td>
 <td>San Francisco Office - Hybrid</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sydecar/79847304-2735-47ce-ae04-237c8957982a/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Debtbook</strong></td>
-<td><a href="https://trueinterview.io/jobs/d2031283-568f-4f23-94d3-36d8946b03f4">Solutions Engineer</a></td>
-<td>Charlotte, NC<br/>Debtbook-HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/debtbook/jobs/4735120005">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>

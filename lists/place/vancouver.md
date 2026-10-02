@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**12 open roles.**
+**11 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Vancouver, BC</td>
 <td align="center"><a href="https://jobs.lever.co/lvs1/fb9a4d81-6f75-4259-b723-14de479b0e46/apply">Apply</a></td>
 <td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Evismart</strong></td>
-<td><a href="https://trueinterview.io/jobs/c94ad95a-426e-4354-87f6-82559b60ddf0">AI/ML Engineer</a></td>
-<td>Vancouver, BC, Canada<br/>EviSmart™</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/evismart/jobs/4410706009">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Workday</strong></td>

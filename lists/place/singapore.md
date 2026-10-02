@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**10 open roles.** 3 in the United States & Canada · 7 elsewhere in the world.
+**9 open roles.** 3 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -50,13 +50,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Mastercard</strong></td>
-<td><a href="https://trueinterview.io/jobs/ded9a0a2-cee1-4b5f-9ff4-b8ea06b93118">AP Data Scientist - Financial Crime</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/AP-Data-Scientist---Financial-Crime_R-291075">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Hawk Eye Innovations (hei</strong></td>
 <td><a href="https://trueinterview.io/jobs/27076e6b-3a53-4034-b0b8-9cd52854e415">Football Technology Systems Operator - Singapore</a></td>

@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**59 open roles.** 38 in the United States & Canada · 21 elsewhere in the world.
+**50 open roles.** 33 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Tactable</strong></td>
-<td><a href="https://trueinterview.io/jobs/16aaabee-411a-43de-938e-7b058d741b71">data engineer</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50402197">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Evolutioniq</strong></td>
 <td><a href="https://trueinterview.io/jobs/dd2ac24a-a8fa-477c-a47e-0e458ee865fd">Associate Data Engineer (Python / AI Insurance SaaS)</a></td>
@@ -46,39 +39,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Agile Defense</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef1bfc80-ceee-41db-9439-8d557fa9eac5">Applied Data &amp; Software Engineer</a></td>
-<td>Arlington, VA</td>
-<td align="center"><a href="https://jobs.lever.co/agile-defense/9328b001-f353-4b63-8384-8a5f5e36aa57/apply">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Campfire</strong></td>
 <td><a href="https://trueinterview.io/jobs/4728a757-6f00-427b-8719-0d9a47af4fe4">Data Engineer</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/campfire/2b30b7a1-3649-40e5-804a-ea07bfc94318/application">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Modus Create</strong></td>
-<td><a href="https://trueinterview.io/jobs/d27db0b1-911d-419d-99e1-2e072c94a5ba">Data Engineer — Forward Deployed</a></td>
-<td>Colombia<br/>Mexico<br/>Poland<br/>+4 more</td>
-<td align="center"><a href="https://moduscreate.com/careers/7998624003?gh_jid=7998624003">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Aclu National Office</strong></td>
-<td><a href="https://trueinterview.io/jobs/b47729e8-9e16-4126-bf16-41ec8b51c25b">Analytics Engineer</a></td>
-<td>New York, NY - National<br/>San Francisco, California, United States<br/>Washington, DC<br/>+2 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/aclu/jobs/8816450002">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Merlin Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/eab855db-700d-4757-9c50-22bc41ef583e">Data Loop Pipeline Engineer</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://jobs.lever.co/merlinlabs/b00bfd34-80cf-481b-9ea9-c00938afd7dd/apply">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>AMD</strong></td>
@@ -296,39 +261,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>estaffing Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/30df55e4-6046-4055-ba67-d21e49b8e8a9">data engineer</a></td>
-<td>Abbeydale (AB)</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50406121">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>PwC</strong></td>
-<td><a href="https://trueinterview.io/jobs/2ebab8d0-daf3-428d-9399-a11c4ac70e01">IN_Senior Associate_Azure Data Engineer_GCC_Advisory_Mumbai</a></td>
-<td>Mumbai Shivaji Park</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Senior-Associate-GCP-Agentic-AI-SME-AI-50-Advisory-Bangalore_758218WD-1">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/79fbcd23-8924-46d4-9fc4-48b96a23ed84">IN_Senior Manager_Azure Data Engineer_OC-Data &amp; Analytics AITH_Advisory_Bhubaneswar</a></td>
 <td>Bhubaneswar - Ihub</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bhubaneswar---Ihub/IN-Manager-Azure-Data-Engineer-OC-Data---Analytics-Advisory-Bhubaneswar_738417WD-1">Apply</a></td>
 <td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ci&amp;t</strong></td>
-<td><a href="https://trueinterview.io/jobs/bc6c42d9-867a-497b-aba5-49953bcfdbc4">[Job - 31720] Data developer (Python, FICO DMPS e FICO DM (ou Blaze Advisor), Brasil</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://jobs.lever.co/ciandt/1965d2b9-efd1-4585-907d-4b2e89b8ed6a/apply">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cc1c4785-8078-40ae-a9f3-712be5b8b0ae">[Job - 31856]  Mid Data Developer ( Azure + Databricks ), Brasil</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://jobs.lever.co/ciandt/9e899fb9-28f5-4ca1-a816-9abb83887acd/apply">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Inter Carreiras</strong></td>

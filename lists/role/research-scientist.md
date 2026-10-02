@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**21 open roles.** 19 in the United States & Canada · 2 elsewhere in the world.
+**18 open roles.** 16 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -30,27 +30,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Mountain View, CA<br/>San Francisco, CA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/74431926638650054-research-scientist-ai-secure-code-deepmind">Apply</a></td>
 <td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mercor</strong></td>
-<td><a href="https://trueinterview.io/jobs/a77d5329-5086-496d-bd6b-e636466079ad">Research Engineer - Environments, Data and Post-Training</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/mercor/1dcab154-b92d-4a5f-aed5-b1b8c049cdbc/application">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/fe7db549-bc9b-4457-b556-4f20d7a9474b">Research Scientist, Networking Research - PhD New College Grad 2026</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397526517">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Spotify</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf5d0865-a3c7-4478-ae56-8853ed32c6bc">Research Scientist, Generative Audio</a></td>
-<td>New York, NY<br/>Seoul</td>
-<td align="center"><a href="https://www.lifeatspotify.com/jobs/research-scientist-generative-audio">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>KLA</strong></td>

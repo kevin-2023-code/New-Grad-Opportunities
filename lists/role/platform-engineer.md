@@ -25,11 +25,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Faire</strong></td>
-<td><a href="https://trueinterview.io/jobs/d7094e37-ac70-4576-99ea-c75940b1e5da">Growth Platform, Marketing Engineer</a></td>
-<td>Toronto, ON<br/>San Francisco, CA<br/>New York City, NY</td>
-<td align="center"><a href="https://boards.greenhouse.io/faire/jobs/8821336002?gh_jid=8821336002">Apply</a></td>
-<td align="center">18 Sep 2026</td>
+<td><strong>Sydecar</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2679ccd-c966-482e-9af4-8f6a0ed0679c">Software Engineer 1, Platform</a></td>
+<td>San Francisco Office - Hybrid</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sydecar/79847304-2735-47ce-ae04-237c8957982a/application">Apply</a></td>
+<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>AMD</strong></td>

@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**16 open roles.** 9 in the United States & Canada · 7 elsewhere in the world.
+**15 open roles.** 8 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, ON</td>
 <td align="center"><a href="https://jobs.lever.co/eqbank/be4c61df-81ee-48e8-9a39-4b929193a4ff/apply">Apply</a></td>
 <td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Chicago Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/e036a8f8-20bc-48da-a9db-c796247dde8b">Quant Developer - Research Engineering</a></td>
-<td>Chicago, Illinois, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/chicagotrading/jobs/4624603005">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>DRW</strong></td>

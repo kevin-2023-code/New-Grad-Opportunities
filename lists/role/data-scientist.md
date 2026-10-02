@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**35 open roles.** 22 in the United States & Canada · 13 elsewhere in the world.
+**30 open roles.** 21 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,13 +43,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/14aed7fd-86d6-4594-a931-63655e75d43c">Data Scientist, Music Mission</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.lifeatspotify.com/jobs/data-scientist-music-mission">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f162ce19-dba4-40f8-84d9-a837964c3f16">Data Scientist, Music Promotion</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.lifeatspotify.com/jobs/data-scientist-music-promotion">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -203,34 +196,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/isometric/4c429294-d580-4c4a-a6f4-27b0b06d21a0/application">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ebanx</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6bbf1af-5a7c-412a-833f-577a5fac75b6">Data Science Specialist</a></td>
-<td>Curitiba<br/>On-site<br/>EBANX</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/ebanx/jobs/7917890003">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Adobe</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd86f9bf-f073-474e-bd7e-fa71873f4edc">Data Scientist</a></td>
-<td>2 Locations</td>
-<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Data-Scientist_R171177-1">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Desjardins</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7250d4a-601c-4a17-8bb5-06d35b06c7f2">Data Scientist, Model Validation</a></td>
-<td>2 Locations</td>
-<td align="center"><a href="https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/1-Complexe-Desjardins-Montral/Conseiller-principal-ou-conseillre-principale-en-actuariat--Validation-des-modles_R2608377-1">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mastercard</strong></td>
-<td><a href="https://trueinterview.io/jobs/ded9a0a2-cee1-4b5f-9ff4-b8ea06b93118">AP Data Scientist - Financial Crime</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/AP-Data-Scientist---Financial-Crime_R-291075">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>C6 Bank</strong></td>

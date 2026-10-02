@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**27 open roles.**
+**23 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,13 +18,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/7058ef9c-5702-4c3b-aa81-4bac24d0933d">Site Reliability Engineer II (Full Time) - United States</a></td>
-<td>Research Triangle Park, North Carolina, United States of America<br/>Boulder, Colorado, US, United States of America<br/>Richardson, Texas, United States of America<br/>+2 more</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Boulder-Colorado-US/Site-Reliability-Engineer-II--Full-Time----United-States_2027109">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/f7c61afd-6cf4-40ec-a0d2-7e5550cf0eba">ASIC Verification Engineer, Memory Management - New College Grad 2027</a></td>
 <td>Durham, NC, US<br/>Madison, AL, US<br/>Hillsboro, OR, US</td>
@@ -37,27 +30,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Charlotte, North Carolina, United States<br/>Charlotte, NC</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/mcadams/jobs/5242648007">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Debtbook</strong></td>
-<td><a href="https://trueinterview.io/jobs/d2031283-568f-4f23-94d3-36d8946b03f4">Solutions Engineer</a></td>
-<td>Charlotte, NC<br/>Debtbook-HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/debtbook/jobs/4735120005">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NetApp</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8f2b8b6-def8-4b62-a061-041c23832091">Forward Deployed Engineer, Agentic Product Management</a></td>
-<td>Morrisville, North Carolina, United States</td>
-<td align="center"><a href="https://careers.netapp.com/job/morrisville/forward-deployed-engineer-agentic-product-management/27600/100111237008">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fd6a8610-e235-413d-9112-147bf4c0d5f0">Software Engineer - Core Systems and Storage Roles (Multiple Individual Contributor Levels)</a></td>
-<td>Morrisville, North Carolina, United States<br/>San Jose, California, United States<br/>Bellevue, Washington, United States<br/>+2 more</td>
-<td align="center"><a href="https://careers.netapp.com/job/san-jose/software-engineer-core-systems-and-storage-roles-multiple-individual-contributor-levels/27600/92614166496">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Benesch</strong></td>

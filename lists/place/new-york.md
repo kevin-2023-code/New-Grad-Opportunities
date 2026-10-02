@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**124 open roles.**
+**119 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Radar Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/08fb7598-8a66-46b3-a053-b36544a2994f">Radar Labs / Software Engineers (SRE, ML, backend, full-stack, mobile, security, QA) / Remote (US), NYC / Full Time /</a> 🌐</td>
+<td>Remote — United States<br/>Remote (US), NYC</td>
+<td align="center"><a href="https://radar.com/">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Evolutioniq</strong></td>
 <td><a href="https://trueinterview.io/jobs/dd2ac24a-a8fa-477c-a47e-0e458ee865fd">Associate Data Engineer (Python / AI Insurance SaaS)</a></td>
@@ -95,13 +102,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Faire</strong></td>
-<td><a href="https://trueinterview.io/jobs/d7094e37-ac70-4576-99ea-c75940b1e5da">Growth Platform, Marketing Engineer</a></td>
-<td>New York City, NY<br/>Toronto, ON<br/>San Francisco, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/faire/jobs/8821336002?gh_jid=8821336002">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Formlabs</strong></td>
 <td><a href="https://trueinterview.io/jobs/6772ec4a-c41c-4ea7-b9f3-3a63b41aa65b">Field Service Engineer - Orlando</a> 🌐</td>
 <td>Remote — United States<br/>Newark, NJ</td>
@@ -123,20 +123,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Ro</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa520063-47ce-438c-a562-047585e9084a">Instructional Designer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.lever.co/ro/cef0dd46-026a-4a52-8721-6799d29484f9/apply">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6e5df89-091b-4c27-b9f3-5ab981d15e7a">Software Engineer, Security</a></td>
-<td>New York, NY<br/>Toronto, ON<br/>San Francisco, CA<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Profound</strong></td>
 <td><a href="https://trueinterview.io/jobs/27cf2520-e687-4422-8a92-a1293c165f8b">Support Engineer</a></td>
 <td>New York, NY<br/>New York, New York<br/>London, England</td>
@@ -144,31 +130,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Aclu National Office</strong></td>
-<td><a href="https://trueinterview.io/jobs/b47729e8-9e16-4126-bf16-41ec8b51c25b">Analytics Engineer</a></td>
-<td>New York, NY - National<br/>New York, New York, United States<br/>San Francisco, California, United States<br/>+2 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/aclu/jobs/8816450002">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Spotify</strong></td>
 <td><a href="https://trueinterview.io/jobs/14aed7fd-86d6-4594-a931-63655e75d43c">Data Scientist, Music Mission</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.lifeatspotify.com/jobs/data-scientist-music-mission">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f162ce19-dba4-40f8-84d9-a837964c3f16">Data Scientist, Music Promotion</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.lifeatspotify.com/jobs/data-scientist-music-promotion">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bf5d0865-a3c7-4478-ae56-8853ed32c6bc">Research Scientist, Generative Audio</a></td>
-<td>New York, NY<br/>Seoul</td>
-<td align="center"><a href="https://www.lifeatspotify.com/jobs/research-scientist-generative-audio">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

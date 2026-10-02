@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**72 open roles.** 59 in the United States & Canada · 13 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**71 open roles.** 58 in the United States & Canada · 13 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -72,13 +72,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/applied/f4c0ee25-b4d4-4f3d-b054-e9c1aeb56104/application">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Supernal</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc7b3718-37f4-4881-9a1e-77be5d6e59c3">International Expat: Systems Engineering &amp; Integration Engineer</a></td>
-<td>International Expat<br/>US - Irvine, Laguna Canyon</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/supernal/jobs/7997813003">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Miovision</strong></td>

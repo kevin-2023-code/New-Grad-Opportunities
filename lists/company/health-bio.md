@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**39 open roles.** 30 in the United States & Canada · 9 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**37 open roles.** 28 in the United States & Canada · 9 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,24 +19,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Smile Digital Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd9ef017-eae8-4c94-ac15-fa7be3df7030">Cloud Security Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.lever.co/smiledigitalhealth/65499c1e-33f4-4f24-a9fd-37f204fed86e/apply">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f3dc89be-0298-4118-9a19-e4f4014b7f02">Database Administrator - Remote US</a></td>
 <td>United States</td>
 <td align="center"><a href="https://jobs.lever.co/smiledigitalhealth/71536f5b-b6a4-4a43-8240-1498ee351e6c/apply">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ro</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa520063-47ce-438c-a562-047585e9084a">Instructional Designer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.lever.co/ro/cef0dd46-026a-4a52-8721-6799d29484f9/apply">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Garner Health</strong></td>

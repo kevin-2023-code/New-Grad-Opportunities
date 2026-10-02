@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**203 open roles.** 136 in the United States & Canada · 67 elsewhere in the world. Postings the pipeline classified as remote.
+**199 open roles.** 133 in the United States & Canada · 66 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Radar Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/08fb7598-8a66-46b3-a053-b36544a2994f">Radar Labs / Software Engineers (SRE, ML, backend, full-stack, mobile, security, QA) / Remote (US), NYC / Full Time /</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://radar.com/">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Aledade</strong></td>
 <td><a href="https://trueinterview.io/jobs/06cb083d-503f-4eac-b982-9070e3e50296">Payer Operations Analyst</a> 🌐</td>
@@ -123,10 +130,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Smile Digital Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd9ef017-eae8-4c94-ac15-fa7be3df7030">Cloud Security Engineer</a> 🌐</td>
+<td><strong>Habitat Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5501ee8-40e7-43f0-84d3-578ff6687511">Senior Associate, Product Strategy &amp; Operations</a> 🌐</td>
 <td>Remote — United States</td>
-<td align="center"><a href="https://jobs.lever.co/smiledigitalhealth/65499c1e-33f4-4f24-a9fd-37f204fed86e/apply">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/habitathealth/jobs/5429230008">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -137,24 +144,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Bungie</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0453983-b421-4b23-a3c9-d366a063794a">Investment Designer (Contract)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/bungie/jobs/6193602004">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Toast, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/97419279-be10-45ff-b686-1aa12d64d821">Software Engineer I, Websites</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8191751">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Roblox</strong></td>
-<td><a href="https://trueinterview.io/jobs/ceb5d2af-1757-4ee6-b440-f0a7c64ddfc5">Developer Engagement Team  (Contract)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://careers.roblox.com/jobs/8213384?gh_jid=8213384">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -184,20 +177,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8189730">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ro</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa520063-47ce-438c-a562-047585e9084a">Instructional Designer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.lever.co/ro/cef0dd46-026a-4a52-8721-6799d29484f9/apply">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Customer.io</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff7c6fcf-f7bd-4dcb-baea-120a5d15a6bb">Contract IT Specialist</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/customerio/jobs/8209174">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Zscaler</strong></td>
@@ -982,11 +961,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Flexibits</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e6c13e5-80f4-4c4e-84de-8ce234f664ea">Flexibits / Android Software Engineer / Remote / Full-time</a> 🌐</td>
+<td><strong>Datamint</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2ca04aa-f24a-4f1c-ad2f-3e0c91bd724b">Datamint / Rust Systems Engineer, Browser Security / Remote (Global) / Full-time / $120k–$170k + Equity /</a> 🌐</td>
 <td>Remote</td>
-<td align="center"><a href="https://flexibits.com/jobs">Apply</a></td>
-<td align="center">1 Oct 2026</td>
+<td align="center"><a href="https://datamint.xyz/">Apply</a></td>
+<td align="center">2 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>PAGNOS</strong></td>
@@ -1036,13 +1015,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://www.shopify.com/careers/developer-support-specialist-pst-est_88865df0-0622-4687-b8e1-a03b64918e5e">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Fueled</strong></td>
-<td><a href="https://trueinterview.io/jobs/ebc6e70b-821f-45f3-9c5f-9db123bead5b">Full Stack Web Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fueledcareers/jobs/5428960008">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Oddball</strong></td>

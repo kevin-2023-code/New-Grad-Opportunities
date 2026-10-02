@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**94 open roles.**
+**90 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -123,39 +123,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Vast</strong></td>
-<td><a href="https://trueinterview.io/jobs/c9e6ff15-92b7-4f14-84f2-5df60a401197">Avionics Software Test Engineer</a></td>
-<td>Long Beach, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/vast/jobs/4714389006?gh_jid=4714389006">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Gallatin</strong></td>
 <td><a href="https://trueinterview.io/jobs/a0b1445a-a8b8-4681-aef1-1a585a4eaee5">Machine Learning Operations (MLOps) Engineer</a></td>
 <td>El Segundo, CA<br/>San Francisco, CA<br/>Austin, TX</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/gallatin/0be59879-c60a-4c7d-8d8d-cf5205871ef2/application">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/b66556bf-9a98-40a3-af72-fd5f39dfd4c0">Additive Manufacturing Engineer (Raptor)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8816517002?gh_jid=8816517002">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Snap</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb93252d-9f74-4ecb-a12f-378a2ed8b227">Electrical Engineer</a></td>
-<td>Los Angeles, California</td>
-<td align="center"><a href="https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Electrical-Engineer_H226EE1">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba538938-49a1-4d3e-9d6c-223445317730">Rapid Integration &amp; Test Engineer</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5239473007?gh_jid=5239473007">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Meta</strong></td>

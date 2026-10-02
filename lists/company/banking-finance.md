@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**55 open roles.** 21 in the United States & Canada · 34 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**52 open roles.** 20 in the United States & Canada · 32 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>New York, New York, United States of America</td>
 <td align="center"><a href="https://bloomberg.avature.net/careers/JobDetail/Video-Analytics-Contract/21572">Apply</a></td>
 <td align="center">20 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>CIBC</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0239412-a620-4b70-94af-05217305b89e">Full Stack Developer (.NET, C#, SQL, React, and Azure Databricks)</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Full-Stack-Developer--Azure-Databricks--Oracle--Firco-_2618547">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>OMERS</strong></td>
@@ -219,24 +212,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Desjardins</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7250d4a-601c-4a17-8bb5-06d35b06c7f2">Data Scientist, Model Validation</a></td>
-<td>2 Locations</td>
-<td align="center"><a href="https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/1-Complexe-Desjardins-Montral/Conseiller-principal-ou-conseillre-principale-en-actuariat--Validation-des-modles_R2608377-1">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Manulife</strong></td>
 <td><a href="https://trueinterview.io/jobs/2fab814f-7929-4306-9080-c3ca365f7395">Backend Software Engineer</a></td>
 <td>Chengdu, Sichuan</td>
 <td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Chengdu-Sichuan/Backend-Software-Engineer_JR26080605">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mastercard</strong></td>
-<td><a href="https://trueinterview.io/jobs/ded9a0a2-cee1-4b5f-9ff4-b8ea06b93118">AP Data Scientist - Financial Crime</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/AP-Data-Scientist---Financial-Crime_R-291075">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>

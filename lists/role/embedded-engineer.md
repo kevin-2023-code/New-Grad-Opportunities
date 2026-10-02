@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**17 open roles.** 16 in the United States & Canada · 1 elsewhere in the world.
+**16 open roles.** 15 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -102,14 +102,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/dfb44e36-e96b-4dcd-89f5-3366e77c0a00">Firmware Engineer</a></td>
-<td>ב&quot;ש, South District, IL</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893396869001">Apply</a></td>
-<td align="center">16 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fdceac25-a723-436b-af6f-3af3613128e3">Software Development (Embedded) Engineer</a></td>
 <td>Ottawa, ON, Canada</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68556">Apply</a></td>

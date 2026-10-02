@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**11 open roles.** 3 in the United States & Canada · 8 elsewhere in the world.
+**9 open roles.** 3 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -50,20 +50,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Flexibits</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e6c13e5-80f4-4c4e-84de-8ce234f664ea">Flexibits / Android Software Engineer / Remote / Full-time</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://flexibits.com/jobs">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>C6 Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/e74f33be-0671-4339-8251-c46d545112c6">Pessoa Desenvolvedora IOS |  Core Business Products Engineering</a></td>
-<td>São Paulo, Brazil<br/>C6 Bank</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4734634005">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Hedgehog Lab</strong></td>
 <td><a href="https://trueinterview.io/jobs/92ac75f5-8b4d-4fe5-9fd7-48bb31e0024a">Android Developer</a></td>

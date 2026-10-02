@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**95 open roles.** 65 in the United States & Canada · 30 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**88 open roles.** 60 in the United States & Canada · 28 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -79,41 +79,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, California, United States of America<br/>San Jose, California, United States of America</td>
 <td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018">Apply</a></td>
 <td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/aa118ce0-1a78-4862-932f-d18133830890">Global Engineering Operations Analyst</a></td>
-<td>Nashville, TN, United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/335639">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sprypoint</strong></td>
-<td><a href="https://trueinterview.io/jobs/c650e26a-dd38-4772-aff7-8dfcdb864a34">Product Owner, CIS</a></td>
-<td>Toronto, ON<br/>Canada<br/>Halifax, Nova Scotia<br/>+5 more</td>
-<td align="center"><a href="https://jobs.lever.co/sprypointservices/729b40fa-9f8a-4802-84b1-9546c8fcf241/apply">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Minitab</strong></td>
-<td><a href="https://trueinterview.io/jobs/ad324895-c1ae-4dec-8601-51f20ee954a8">Software Quality Engineer</a></td>
-<td>State College, Pennsylvania, United States<br/>Minitab HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/minitab/jobs/7998483003">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Debtbook</strong></td>
-<td><a href="https://trueinterview.io/jobs/d2031283-568f-4f23-94d3-36d8946b03f4">Solutions Engineer</a></td>
-<td>Charlotte, NC<br/>Debtbook-HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/debtbook/jobs/4735120005">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Customer.io</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff7c6fcf-f7bd-4dcb-baea-120a5d15a6bb">Contract IT Specialist</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/customerio/jobs/8209174">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Ashby</strong></td>
@@ -499,13 +464,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">19 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Outreach</strong></td>
-<td><a href="https://trueinterview.io/jobs/f031b695-50cf-4f32-b7c5-121a664b74cf">Forward Deployed Engineer, Managed Services</a></td>
-<td>India</td>
-<td align="center"><a href="https://jobs.lever.co/outreach/13e953ce-8527-436c-be6c-55d3b659dd60/apply">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Aera Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/2ec3549b-9f2f-47fe-a759-d09f65577e0e">Sustaining Engineer – Modeling Support</a></td>
 <td>Pune, India</td>
@@ -514,13 +472,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Adobe</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd86f9bf-f073-474e-bd7e-fa71873f4edc">Data Scientist</a></td>
-<td>2 Locations</td>
-<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Data-Scientist_R171177-1">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/59d53c58-fbb3-4b15-90d8-1f0efbbfec0b">Photoshop Developer, GPU/Imaging</a></td>
 <td>4 Locations</td>
 <td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Photoshop-Developer--GPU-Imaging_R171014">Apply</a></td>

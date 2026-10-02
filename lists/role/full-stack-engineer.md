@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**31 open roles.** 17 in the United States & Canada · 14 elsewhere in the world.
+**26 open roles.** 16 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,13 +22,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/97419279-be10-45ff-b686-1aa12d64d821">Software Engineer I, Websites</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8191751">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>CIBC</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0239412-a620-4b70-94af-05217305b89e">Full Stack Developer (.NET, C#, SQL, React, and Azure Databricks)</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Full-Stack-Developer--Azure-Databricks--Oracle--Firco-_2618547">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -149,20 +142,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Hacker News &quot;Who is hiring?&quot;</strong></td>
-<td><a href="https://trueinterview.io/jobs/bc9efaf7-bbdd-43d2-8acd-8b7d91513995">PrairieLearn (Remote US) — Full-Stack Software Engineer — TypeScript / Postgres / React / AI</a></td>
-<td>—</td>
-<td align="center"><a href="https://www.prairielearn.com/">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Plutus</strong></td>
-<td><a href="https://trueinterview.io/jobs/3538ab1a-117b-4f4a-adf9-2504a3d6882f">Plutus / In Person - Kirkland, WA / Fintech / Full Stack Engineer</a></td>
-<td>Fintech</td>
-<td align="center"><a href="https://www.runplutus.com/">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/733f1124-3acf-419f-8973-3332cd0920e6">IN_Senior Associate_.Net Fullstack Developer_GCC_Advisory_Banaglore</a></td>
 <td>Hyderabad - Salarpuria</td>
@@ -170,24 +149,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Fueled</strong></td>
-<td><a href="https://trueinterview.io/jobs/ebc6e70b-821f-45f3-9c5f-9db123bead5b">Full Stack Web Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fueledcareers/jobs/5428960008">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PwC</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/72d9713c-eda9-4bc6-b6b9-917ca123693a">Full Stack Developer</a></td>
 <td>3 Locations</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Toronto/Full-Stack-Developer_761839WD">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c35370e4-8510-4000-bc35-7a082b3fa69c">IN_Senior Associate_.NET Full Stack Developer_MS Engg_Advisory_Gurgaon</a></td>
-<td>Gurugram Downtown 4</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-Downtown-4/IN-Senior-Associate-Automation-QA-Digital-Integration-Advisory-Kolkata_751870WD">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>

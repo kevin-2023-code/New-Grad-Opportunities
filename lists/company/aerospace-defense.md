@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**147 open roles.** 136 in the United States & Canada · 11 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**141 open roles.** 129 in the United States & Canada · 12 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,13 +19,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Parsons Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f8f78ca-dd1e-4774-83c8-321514a23b1b">DevOps Unmanned Systems Integration Engineer</a></td>
-<td>Virginia Beach, United States</td>
-<td align="center"><a href="https://4dayweek.io/job/devops-unmanned-systems-integration-engineer-at-parsons-corporation-cc25726d">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e2b87b9f-b641-48f5-8828-14bc847a9d5a">CNO Python Developer</a></td>
 <td>Field Location, United States</td>
 <td align="center"><a href="https://4dayweek.io/job/cno-python-developer-at-parsons-corporation-aca55b8d">Apply</a></td>
@@ -149,48 +142,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://4dayweek.io/job/windows-software-engineer-at-parsons-corporation-32fe20e1">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/cce9708a-aff7-48e5-84ed-03323f4b04ac">Test Stand Design &amp; Build Engineer (Structures/Fluid Systems)</a></td>
-<td>McGregor, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8817336002?gh_jid=8817336002">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b66556bf-9a98-40a3-af72-fd5f39dfd4c0">Additive Manufacturing Engineer (Raptor)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8816517002?gh_jid=8816517002">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Merlin Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/eab855db-700d-4757-9c50-22bc41ef583e">Data Loop Pipeline Engineer</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://jobs.lever.co/merlinlabs/b00bfd34-80cf-481b-9ea9-c00938afd7dd/apply">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>United Launch Alliance</strong></td>
-<td><a href="https://trueinterview.io/jobs/bc694249-ef64-4e02-8e83-3e1c255534b0">Propulsion Systems Engineer</a></td>
-<td>Decatur, United States</td>
-<td align="center"><a href="https://4dayweek.io/job/propulsion-systems-engineer-at-united-launch-alliance-adebf038">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba538938-49a1-4d3e-9d6c-223445317730">Rapid Integration &amp; Test Engineer</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5239473007?gh_jid=5239473007">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>E-Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/b54fa385-4d8b-4247-a864-bbe62008b852">SIM Management, 5G Core Engineer</a></td>
-<td>Santa Clara, CA<br/>Arlington, TX</td>
-<td align="center"><a href="https://jobs.lever.co/espace/cf97ef10-6123-47ff-bf0e-f14e0d37f1fb/apply">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Onebrief</strong></td>
@@ -981,6 +932,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd6190b6-e5c6-4897-94d1-52a87303d531">Relativity Space / In Office (Long Beach, CA ) / Software Engineer</a></td>
+<td>Software Engineer</td>
+<td align="center"><a href="https://www.relativityspace.com/">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>The Exploration Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/00263bf5-207a-458b-bc20-414498da4fe4">AIT Test Engineer</a></td>

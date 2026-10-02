@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**121 open roles.** 66 in the United States & Canada · 55 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**111 open roles.** 63 in the United States & Canada · 48 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -67,13 +67,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Agile Defense</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef1bfc80-ceee-41db-9439-8d557fa9eac5">Applied Data &amp; Software Engineer</a></td>
-<td>Arlington, VA</td>
-<td align="center"><a href="https://jobs.lever.co/agile-defense/9328b001-f353-4b63-8384-8a5f5e36aa57/apply">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Blink Ux</strong></td>
 <td><a href="https://trueinterview.io/jobs/315272c3-6bd3-4f0e-a904-febf2e314644">UI Developer (React)</a></td>
 <td>San Diego, CA</td>
@@ -85,20 +78,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/70a2d730-60c4-442f-96df-04fb12300d07">Entry Level AI-First Transformation – Strategy Consultant 2027</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=130269">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Modus Create</strong></td>
-<td><a href="https://trueinterview.io/jobs/d27db0b1-911d-419d-99e1-2e072c94a5ba">Data Engineer — Forward Deployed</a></td>
-<td>Colombia<br/>Mexico<br/>Poland<br/>+4 more</td>
-<td align="center"><a href="https://moduscreate.com/careers/7998624003?gh_jid=7998624003">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e4dfe03d-0288-471d-9b1b-926bca84ff4e">Database Engineer - Forward Deployed</a></td>
-<td>Colombia<br/>Costa Rica<br/>Mexico<br/>+6 more</td>
-<td align="center"><a href="https://moduscreate.com/careers/7998661003?gh_jid=7998661003">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -492,20 +471,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Hedgehog Lab</strong></td>
-<td><a href="https://trueinterview.io/jobs/adbaa6fb-c36d-43bc-9e4e-2161b50ab583">Quality Assurance Automation Engineer</a></td>
-<td>Newcastle upon Tyne, United Kingdom</td>
-<td align="center"><a href="https://4dayweek.io/job/quality-assurance-automation-engineer-at-hedgehog-lab-5fb989da">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>PwC</strong></td>
-<td><a href="https://trueinterview.io/jobs/2ebab8d0-daf3-428d-9399-a11c4ac70e01">IN_Senior Associate_Azure Data Engineer_GCC_Advisory_Mumbai</a></td>
-<td>Mumbai Shivaji Park</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Senior-Associate-GCP-Agentic-AI-SME-AI-50-Advisory-Bangalore_758218WD-1">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Ci&amp;t</strong></td>
 <td><a href="https://trueinterview.io/jobs/0b51b677-bc7d-4d60-8f5c-893b0cd1855b">[Job-31680] Master AWS I Python Developer, Brazil</a></td>
 <td>Brazil</td>
@@ -555,46 +520,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Ci&amp;t</strong></td>
-<td><a href="https://trueinterview.io/jobs/bc6c42d9-867a-497b-aba5-49953bcfdbc4">[Job - 31720] Data developer (Python, FICO DMPS e FICO DM (ou Blaze Advisor), Brasil</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://jobs.lever.co/ciandt/1965d2b9-efd1-4585-907d-4b2e89b8ed6a/apply">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cc1c4785-8078-40ae-a9f3-712be5b8b0ae">[Job - 31856]  Mid Data Developer ( Azure + Databricks ), Brasil</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://jobs.lever.co/ciandt/9e899fb9-28f5-4ca1-a816-9abb83887acd/apply">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Fueled</strong></td>
-<td><a href="https://trueinterview.io/jobs/ebc6e70b-821f-45f3-9c5f-9db123bead5b">Full Stack Web Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fueledcareers/jobs/5428960008">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/72d9713c-eda9-4bc6-b6b9-917ca123693a">Full Stack Developer</a></td>
 <td>3 Locations</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Toronto/Full-Stack-Developer_761839WD">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c35370e4-8510-4000-bc35-7a082b3fa69c">IN_Senior Associate_.NET Full Stack Developer_MS Engg_Advisory_Gurgaon</a></td>
-<td>Gurugram Downtown 4</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-Downtown-4/IN-Senior-Associate-Automation-QA-Digital-Integration-Advisory-Kolkata_751870WD">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e2b6cb41-0cc4-4df3-b301-d2b700e8faea">IN_Senior Associate_ Java Backend Developer_GCC_Advisory_Hyderabad</a></td>
-<td>Hyderabad - Salarpuria</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Python-GCC-Advisory-Bangalore_746234WD-1">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Oddball</strong></td>

@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**47 open roles.** 7 in the United States & Canada · 40 elsewhere in the world.
+**46 open roles.** 7 in the United States & Canada · 39 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -126,13 +126,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/heidihealth.com.au/69a7f6cd-2bf1-4390-ac51-df68e59cde4c/application">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Seamflow</strong></td>
-<td><a href="https://trueinterview.io/jobs/b97b3ddd-58a5-4da4-af1b-b61e85519b88">Front End Design Engineer</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/seamflow/23808403-8a46-4da0-b374-0a04f099a149/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Hedgehog Lab</strong></td>

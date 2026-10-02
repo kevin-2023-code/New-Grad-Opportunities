@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**175 open roles.** 144 in the United States & Canada · 31 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**172 open roles.** 141 in the United States & Canada · 31 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -46,13 +46,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Mercor</strong></td>
-<td><a href="https://trueinterview.io/jobs/a77d5329-5086-496d-bd6b-e636466079ad">Research Engineer - Environments, Data and Post-Training</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/mercor/1dcab154-b92d-4a5f-aed5-b1b8c049cdbc/application">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Decagon</strong></td>
 <td><a href="https://trueinterview.io/jobs/00975228-354b-4d29-9905-311e031dc709">Business Operations, Growth</a></td>
 <td>San Francisco, CA<br/>New York City</td>
@@ -65,20 +58,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>*HQ - San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cartesia/154b001a-f818-4798-a802-58057c47cb03/application">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Granica</strong></td>
-<td><a href="https://trueinterview.io/jobs/cddd759a-47a9-48bc-a0a2-df5557a0ad01">Forward Deployed Engineer</a></td>
-<td>Bay Area Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/granica/165a62b6-014d-4d83-a800-a0ff3b205745/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6e5df89-091b-4c27-b9f3-5ab981d15e7a">Software Engineer, Security</a></td>
-<td>Toronto, ON<br/>San Francisco, CA<br/>New York, NY<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Viggle Ai</strong></td>

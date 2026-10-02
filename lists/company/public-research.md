@@ -2,7 +2,7 @@
 
 # 🏛️ Government, research & non-profits
 
-**13 open roles.** 4 in the United States & Canada · 9 elsewhere in the world. Agencies, national laboratories, universities, research institutes and charities.
+**12 open roles.** 3 in the United States & Canada · 9 elsewhere in the world. Agencies, national laboratories, universities, research institutes and charities.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Aclu National Office</strong></td>
-<td><a href="https://trueinterview.io/jobs/b47729e8-9e16-4126-bf16-41ec8b51c25b">Analytics Engineer</a></td>
-<td>New York, NY - National<br/>San Francisco, California, United States<br/>Washington, DC<br/>+2 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/aclu/jobs/8816450002">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Canadian Air Transport Security Authority</strong></td>
 <td><a href="https://trueinterview.io/jobs/669a5911-a6e3-411c-9666-948dfcd67484">Data Engineer</a></td>
