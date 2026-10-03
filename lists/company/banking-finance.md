@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**53 open roles.** 21 in the United States & Canada · 32 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**49 open roles.** 20 in the United States & Canada · 29 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Desjardins</strong></td>
-<td><a href="https://trueinterview.io/jobs/95cb79ca-8da9-4cc0-85df-1373b95e3d29">Data Scientist, Data valorization</a></td>
-<td>Calgary, AB<br/>Toronto, ON<br/>Lévis<br/>+2 more</td>
-<td align="center"><a href="https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Lvis/Conseiller-principal-ou-conseillre-principale--Science-de-donnes_R2611990-2">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>BMO</strong></td>
 <td><a href="https://trueinterview.io/jobs/43045bc3-9145-47c5-b060-1f5ae44a8961">RPA Platform Admin / Platform Engineer</a></td>
@@ -226,32 +219,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Intact Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/f26be470-3934-4b80-83be-61003837f46a">AI Developer</a></td>
-<td>Hong Kong Science Park, HK</td>
-<td align="center"><a href="https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Hong-Kong-Science-Park-HK/AI-Developer_R155263">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Mastercard</strong></td>
 <td><a href="https://trueinterview.io/jobs/9008ab00-4fa6-403f-8c5b-bb0811909b24">Cloud Automation Engineer</a></td>
 <td>Copenhagen, Denmark (Arne Jacobsens)</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Copenhagen-Denmark-Arne-Jacobsens/Cloud-Automation-Engineer_R-291016">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>BMO</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce918619-83d3-4a7a-a2a8-9be53023c650">Reporting Automation / AI Developer</a></td>
-<td>2 Locations</td>
-<td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Reporting-Automation---AI-Developer_R260025992">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intesa Sanpaolo</strong></td>
-<td><a href="https://trueinterview.io/jobs/ecd66b98-6212-4a72-8ba0-6413d7887c14">Software Engineer</a></td>
-<td>Milano, Italy</td>
-<td align="center"><a href="https://4dayweek.io/job/software-engineer-at-intesa-sanpaolo-0f39d018">Apply</a></td>
-<td align="center">13 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Experian</strong></td>

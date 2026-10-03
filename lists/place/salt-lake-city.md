@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**7 open roles.**
+**6 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -39,14 +39,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Onebrief</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8a90c07-6b9f-477b-ae03-e2bffec7c20a">Outcome Engineer - Seattle, WA</a></td>
-<td>Salt Lake City, Utah<br/>Seattle, WA<br/>Orlando, Florida</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/onebrief/418a8af0-000e-4283-8799-2426a9a7ac4d/application">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Pure Storage</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b28e47b5-edc9-4d36-9015-1e5dba94ec14">Associate Systems Engineer</a></td>
 <td>Salt Lake City, Utah<br/>Chicago, Illinois<br/>Raleigh, North Carolina<br/>+3 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8155361">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**10 open roles.** 7 in the United States & Canada · 3 elsewhere in the world.
+**9 open roles.** 6 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Diego, CA</td>
 <td align="center"><a href="https://jobs.lever.co/blinkux/47c561a4-0757-4eaa-9416-e758a59a9c61/apply">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Coalition</strong></td>
-<td><a href="https://trueinterview.io/jobs/dda43150-8805-4d09-a382-dde4aa57355b">Frontend Engineer, Underwriting</a> 🌐</td>
-<td>Remote — Canada, United States</td>
-<td align="center"><a href="https://www.coalitioninc.com/job-posting?gh_jid=4734029005">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>FitMate</strong></td>

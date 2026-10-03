@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**79 open roles.** 53 in the United States & Canada · 26 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**73 open roles.** 49 in the United States & Canada · 24 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>ExtraHop Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/9224cb89-2e71-4776-a5ae-ee13f83d6790">Support Engineer I - Seattle, WA</a></td>
-<td>Seattle, WA<br/>500 Seattle Corporate</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/extrahopnetworks/jobs/6215921004">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Vultr</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f70c205-f808-4e2f-98f4-3b27868fa0b2">Linux Systems Administrator</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/vultr/24c3445f-27b2-40fb-870e-e59b71305787/application">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Perplexity</strong></td>
 <td><a href="https://trueinterview.io/jobs/c67b307c-73ec-4adc-9619-7f013adaf946">Member of Technical Staff (New Grad)</a></td>
@@ -74,13 +60,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Locus Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/afe1a7d5-2abb-425d-960f-b5cccfe28181">Onsite Support Engineer, Robotics</a></td>
-<td>Las Vegas, NV</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/locusrobotics/jobs/5240208007">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Vercel</strong></td>
 <td><a href="https://trueinterview.io/jobs/81882e72-2178-4ca0-844a-c6eb0a6eb98c">Software Engineer, Platform</a></td>
 <td>Hybrid - San Francisco, New York City<br/>Remote - United States</td>
@@ -107,13 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United States and Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lambda</strong></td>
-<td><a href="https://trueinterview.io/jobs/c4347207-5785-4188-80e7-c12d1894d23e">Data Center Operations Engineer (Austin)</a></td>
-<td>Austin, TX - Data Center</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lambda/a06bbf3e-e148-4396-be41-efe3d5c82d5c/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Notion</strong></td>
@@ -401,13 +373,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Capital On Tap</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f14b7a7-e010-474f-9b74-e299c814ab73">Cloud Platform Engineer</a></td>
-<td>Poland</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/capitalontap/jobs/8863963002">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>CircleCI</strong></td>
 <td><a href="https://trueinterview.io/jobs/68123578-fc36-4754-b33c-f3c602026bb2">Strategic Account Executive, EMEA</a> 🌐</td>
 <td>Remote — United Kingdom</td>
@@ -441,13 +406,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Dundee, Scotland<br/>Scotland</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/optimove/jobs/4978622101">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>EarnIn</strong></td>
-<td><a href="https://trueinterview.io/jobs/f8c57bd6-70a1-4c78-85f9-6a882b23c3cb">Developer Experience Contractor</a></td>
-<td>Bengaluru, India<br/>Bengaluru/Bangalore, India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/earnin/jobs/8204726">Apply</a></td>
-<td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Storyblok</strong></td>

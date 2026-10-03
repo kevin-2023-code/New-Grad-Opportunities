@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**31 open roles.** 26 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**30 open roles.** 25 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,13 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>De Soto, Kansas, United States</td>
 <td align="center"><a href="https://careers.na.panasonic.com/jobs/51193?lang=en-us">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/de16c672-404c-4425-a6a6-522b7ae8f461">Software Implementation Engineer</a></td>
-<td>Hoffman Estates, Illinois, United States</td>
-<td align="center"><a href="https://careers.na.panasonic.com/jobs/51072?lang=en-us">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>

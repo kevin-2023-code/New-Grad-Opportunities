@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**197 open roles.** 133 in the United States & Canada · 64 elsewhere in the world. Postings the pipeline classified as remote.
+**186 open roles.** 126 in the United States & Canada · 60 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,34 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Instacart</strong></td>
-<td><a href="https://trueinterview.io/jobs/12554d1b-b6e4-4496-830a-db1ce477dc2d">Data Analyst, Platform Excellence Ops Analytics</a> 🌐</td>
-<td>Remote — United States, Canada</td>
-<td align="center"><a href="https://instacart.careers/job/?gh_jid=8249894">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Giga Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b7ac2dc-fc0d-41b7-bbf7-03ba17c3926a">Controls Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gigaenergy/jobs/5442685008">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Xsolla</strong></td>
-<td><a href="https://trueinterview.io/jobs/0d74d5d1-a935-45c9-a938-21063e7a98f5">Product Owner, Xsolla Partner Network</a> 🌐</td>
-<td>Remote — Canada, Spain, Germany</td>
-<td align="center"><a href="https://jobs.lever.co/xsolla/4eb71eae-b475-45e2-899d-b6de4980721d/apply">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Vultr</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f70c205-f808-4e2f-98f4-3b27868fa0b2">Linux Systems Administrator</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/vultr/24c3445f-27b2-40fb-870e-e59b71305787/application">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Radar Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/08fb7598-8a66-46b3-a053-b36544a2994f">Radar Labs / Software Engineers (SRE, ML, backend, full-stack, mobile, security, QA) / Remote (US), NYC / Full Time /</a> 🌐</td>
@@ -214,13 +186,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Coalition</strong></td>
-<td><a href="https://trueinterview.io/jobs/dda43150-8805-4d09-a382-dde4aa57355b">Frontend Engineer, Underwriting</a> 🌐</td>
-<td>Remote — Canada, United States</td>
-<td align="center"><a href="https://www.coalitioninc.com/job-posting?gh_jid=4734029005">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Ashby</strong></td>
 <td><a href="https://trueinterview.io/jobs/1281d7fa-3569-4e8d-906d-5ad688a6481c">Product Support Engineer - Americas</a> 🌐</td>
 <td>Remote — United States, Canada</td>
@@ -233,13 +198,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/kairospower/jobs/6132312004">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Higharc</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4605f76-851e-436e-b5f3-a4d82f0e7bd7">Software Engineer, Home Design Experience</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/higharc/b962dd6e-2abf-43a6-b16c-e4a1c2268cc0/application">Apply</a></td>
-<td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Vercel</strong></td>
@@ -261,13 +219,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://4dayweek.io/job/devops-engineer-at-consensus-6bf18434">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Fieldguide</strong></td>
-<td><a href="https://trueinterview.io/jobs/c3e31968-e493-47bf-b3bb-0829b8975e0d">eLearning Designer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fieldguide/7efed01a-6977-490e-8dad-ac68eecd954f/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Kettle</strong></td>
@@ -1024,17 +975,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Supabase</strong></td>
-<td><a href="https://trueinterview.io/jobs/ded1bad6-58e3-410f-b3b1-948c98a85a2b">FinOps Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/supabase/fab1525f-3d89-4d1c-9094-84d21647415e/application">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Defense Unicorns</strong></td>
-<td><a href="https://trueinterview.io/jobs/dca50e0a-9576-428f-b00a-a8869b6f11dc">IT Systems &amp; Security Engineer (CedD225)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/defenseunicorns/jobs/5239161007">Apply</a></td>
+<td><strong>Loadsmart</strong></td>
+<td><a href="https://trueinterview.io/jobs/e80547f3-4aff-4f2a-b9fe-94f2c41c5469">Sales Development Representative - Mexico City</a> 🌐</td>
+<td>Remote — Mexico</td>
+<td align="center"><a href="https://jobs.lever.co/loadsmart/cc6c74b7-677f-4204-9e16-f8221d1c2c69/apply">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
@@ -1045,31 +989,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Glydways</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef733a7d-b5b9-4da9-9569-c3cc2782a9fb">Localization Systems Engineer</a> 🌐</td>
+<td><strong>Nebius</strong></td>
+<td><a href="https://trueinterview.io/jobs/1475dde7-be34-4314-ab74-758bda7df67f">Network Security Engineer</a> 🌐</td>
 <td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/glydways/jobs/5238232007">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Blueprint Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/c4860c7d-6d91-4ad9-8eba-e84cb62a7aa3">UX Researcher – Rapid Research</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/bpcs/jobs/8202770">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Disher</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea70ca2e-5536-4b55-bd00-efe1e6616a45">Global Solution Design Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/disher/ceca1b7e-bec6-4374-9c0e-634fb5bd3b35/apply">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7188929-fcf3-43d6-ba83-5f96880e514b">AWS Data Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/clera/8414be72-3850-49c3-bff7-6e9e5746092c/application">Apply</a></td>
+<td align="center"><a href="https://careers.nebius.com/?gh_jid=4971845101">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>

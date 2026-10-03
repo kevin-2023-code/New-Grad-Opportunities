@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**27 open roles.**
+**25 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/77539499-666d-4a5a-9751-4bf966c85057">Delivery Consultant- AI/ML, Data &amp; Machine Learning (DML)</a></td>
-<td>US, CO, Denver<br/>US, MD, Jessup<br/>US, VA, Arlington<br/>+1 more</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10567886/delivery-consultant-ai-ml-data-machine-learning-dml">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Yelp</strong></td>
 <td><a href="https://trueinterview.io/jobs/5aae45d0-5801-4207-ae9b-ca53f4661c3d">Retention Restaurant Support Specialist, SaaS Sales - (Remote - US)</a> 🌐</td>
@@ -53,17 +46,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Fanatics Betting &amp; Gaming</strong></td>
-<td><a href="https://trueinterview.io/jobs/d44036e0-6739-462b-93cc-ae039d839eb5">Trader I</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fanaticsfbg/jobs/4392386009">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5d65879-7b5b-4f9f-a49b-d9ff0be1a308">CPU RTL Power, Clocking, Reset Design Engineer</a></td>
-<td>Fort Collins, Colorado, United States<br/>US, CO, Ft Collins</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91296?lang=en-us">Apply</a></td>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2111e4e-05b4-433c-9d0f-9ae3b87374cd">Associate Analog Design Engineer</a></td>
+<td>US, CO, Colorado Springs, Chapel Hills<br/>US, CO, Colorado Springs, Centennial<br/>US, CA, San Jose, Rio Robles, United States of America<br/>+1 more</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Analog-Design-Engineer_R266119">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>

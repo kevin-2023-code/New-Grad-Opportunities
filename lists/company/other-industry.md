@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**54 open roles.** 29 in the United States & Canada · 25 elsewhere in the world. A real classification that none of the other sectors covers.
+**52 open roles.** 27 in the United States & Canada · 25 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,20 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, California, United States<br/>San Francisco HQ</td>
 <td align="center"><a href="https://www.viz.com/company-jobs?gh_jid=5240003007">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Fanatics Betting &amp; Gaming</strong></td>
-<td><a href="https://trueinterview.io/jobs/d44036e0-6739-462b-93cc-ae039d839eb5">Trader I</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fanaticsfbg/jobs/4392386009">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sinclair Broadcast Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/df2ffe73-aee1-4736-9d17-21751e4a9ad8">Photographer/Editor</a></td>
-<td>Saint Louis, MO, United States</td>
-<td align="center"><a href="https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/17207">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Numeris</strong></td>

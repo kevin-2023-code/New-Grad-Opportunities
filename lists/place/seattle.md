@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**74 open roles.**
+**67 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,27 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>ExtraHop Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/9224cb89-2e71-4776-a5ae-ee13f83d6790">Support Engineer I - Seattle, WA</a></td>
-<td>Seattle, WA<br/>500 Seattle Corporate</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/extrahopnetworks/jobs/6215921004">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/448ae05b-dbf9-4498-851b-622df3029463">Software Engineer, Backend – Webex Signaling</a></td>
-<td>Seattle, Washington, US, United States of America<br/>San Jose, California, US</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Seattle-Washington-US/Software-Engineer--Backend---Webex-Signaling_2025041">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/62c567e9-224d-4b04-aa3b-09097ba2ca96">Software Engineer- CoreAI</a></td>
-<td>Redmond, WA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556989020">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Gdh</strong></td>
 <td><a href="https://trueinterview.io/jobs/cb4861b2-94d5-4668-9428-f0ecd96d3296">Graduate Water Engineer</a></td>
@@ -123,24 +102,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/d36ce194-db7e-4f35-840f-7839d149b918">Research Scientist, Polymer Physicist</a></td>
-<td>Redmond, WA, United States<br/>Pasadena, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1631242335025906/">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Cobot</strong></td>
 <td><a href="https://trueinterview.io/jobs/399a7443-a75e-4a8a-96e4-46450289f9f9">Robotics Assistant</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cobot/80ce0222-0e42-4479-8e49-a484cc6126a5/application">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Onebrief</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8a90c07-6b9f-477b-ae03-e2bffec7c20a">Outcome Engineer - Seattle, WA</a></td>
-<td>Seattle, WA<br/>Salt Lake City, Utah<br/>Orlando, Florida</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/onebrief/418a8af0-000e-4283-8799-2426a9a7ac4d/application">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -170,20 +135,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Hub - Seattle<br/>Hub - San Francisco</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/da5e147c-f957-4ba1-9712-1b2dde377cb0/application">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/fddeba72-d9ce-481c-a8eb-c285d918f272">Materials Engineer, Metals (Starlink)</a></td>
-<td>Redmond, WA<br/>Hawthorne, CA<br/>Starbase, TX<br/>+1 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8795738002?gh_jid=8795738002">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/bb9d27ee-3635-4866-ad78-bad3441f6e34">Software Engineer - Developer Experience, Web</a></td>
-<td>Seattle, WA<br/>San Francisco, CA<br/>Sunnyvale, CA<br/>+2 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8197854">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>

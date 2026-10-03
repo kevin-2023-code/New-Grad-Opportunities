@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**75 open roles.** 45 in the United States & Canada · 30 elsewhere in the world.
+**66 open roles.** 40 in the United States & Canada · 26 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,21 +18,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Heygen</strong></td>
-<td><a href="https://trueinterview.io/jobs/acb74b8e-1fa6-4dc9-a7c1-e5f39e94cea4">Applied AI Engineer, Video Agent</a></td>
-<td>San Francisco, CA<br/>Palo Alto, CA<br/>San Francisco, Palo Alto, Los Angeles, Toronto</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/heygen/jobs/5255664007">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Dell</strong></td>
-<td><a href="https://trueinterview.io/jobs/6b8f982e-0ae1-44c0-8a98-d8080553a5df">AI Solution Engineer, Security</a></td>
-<td>Round Rock, TX, United States</td>
-<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/298717">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c685f854-3e8d-43c2-8369-469a4eb8d829">IT Graduate Development Program (ITDP) – AI-Native Software Engineer</a></td>
 <td>Limerick, Co. Limerick, Ireland</td>
 <td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/298152">Apply</a></td>
@@ -60,32 +46,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Percepta</strong></td>
-<td><a href="https://trueinterview.io/jobs/c22147b5-a3a7-4564-ba6b-ae95b243cdde">AI Infrastructure Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/percepta/c6f9f5f0-0e66-4f1d-9f8e-87ca4de2bdad/application">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/0630e779-2c3a-471c-a4b0-6a1f5627e96d">AI Infrastructure Engineer, pAGI</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/b2250643-bfd0-4ce6-abbf-cb7e8c8123ba/application">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Workday</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3b31364-76a6-4656-bd5d-7529d85c29f3">AI Engineer</a></td>
-<td>Canada, BC, Vancouver</td>
-<td align="center"><a href="https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/AI-Engineer_JR-0109305">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/e397710d-a21b-4807-91e3-42406fcd3ac8">Research Engineer, AI for Chip Design</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/bd2b8228-bb0f-42e0-94bd-c853cdd56140/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Physical Intelligence</strong></td>
@@ -345,13 +310,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Claimsorted</strong></td>
-<td><a href="https://trueinterview.io/jobs/aec3b32d-4658-4aef-995a-e65d2f751395">Product Engineer // AI</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/claimsorted/4534e326-06b7-4cc7-8385-cce56e6113f2/application">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Hiring: AI, Data, DevOps &amp; Full Stack Engineers</strong></td>
 <td><a href="https://trueinterview.io/jobs/325516af-07b9-4c3e-b741-4bba1792946e">Hiring: AI, Data, DevOps &amp; Full Stack Engineers / Remote — Americas</a></td>
 <td>—</td>
@@ -380,31 +338,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Loora</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef676286-a291-4abc-8ad4-c072b75602b9">AI Researcher</a></td>
-<td>Tel Aviv</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/loora/54f74705-6d02-4fe5-86b0-ab0fd93163ce/application">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intact Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/f26be470-3934-4b80-83be-61003837f46a">AI Developer</a></td>
-<td>Hong Kong Science Park, HK</td>
-<td align="center"><a href="https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Hong-Kong-Science-Park-HK/AI-Developer_R155263">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>N Ix</strong></td>
 <td><a href="https://trueinterview.io/jobs/36995b52-d58c-41b2-8b02-54fb113b6cd2">Trainee AI Engineer</a></td>
 <td>Ukraine</td>
 <td align="center"><a href="https://careers.n-ix.com/jobs/4975531101?gh_jid=4975531101">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>BMO</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce918619-83d3-4a7a-a2a8-9be53023c650">Reporting Automation / AI Developer</a></td>
-<td>2 Locations</td>
-<td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Reporting-Automation---AI-Developer_R260025992">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>

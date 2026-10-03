@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**9 open roles.** 4 in the United States & Canada · 5 elsewhere in the world.
+**8 open roles.** 3 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Match Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/2405498c-7bac-4aec-b86a-7015478910ad">Software Engineer, Android</a></td>
-<td>Los Angeles, California</td>
-<td align="center"><a href="https://jobs.lever.co/matchgroup/32b18f00-af1a-4067-ad7d-9cba43711d2e/apply">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Motorola Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/4d16c398-50dd-495d-b182-f6078dbd32ae">Android Software Engineer</a></td>
@@ -65,13 +58,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f070b06f-6341-4aae-8a8f-ada315811e3a">iOS Developer</a></td>
-<td>Manchester, United Kingdom</td>
-<td align="center"><a href="https://4dayweek.io/job/ios-developer-at-hedgehog-lab-ec35c6b5">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>FIBROTEK MATÉRIAUX AVANCÉS INC.</strong></td>
 <td><a href="https://trueinterview.io/jobs/47f81553-c6a5-4c9d-9d1c-fd9ac76e01c1">mobile applications developer</a></td>
 <td>Clermont (QC)</td>
@@ -84,6 +70,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin, Barcelona</td>
 <td align="center"><a href="https://n26.com/en-eu/careers/positions/8163941?gh_jid=8163941">Apply</a></td>
 <td align="center">7 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Instacart</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4297b94-6c14-467a-970f-bcfb274a5701">iOS Developer</a></td>
+<td>Israel - Hybrid (3 days/week in office required)<br/>Remote - Israel</td>
+<td align="center"><a href="https://instacart.careers/job/?gh_jid=8154479">Apply</a></td>
+<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Kiss My Apps</strong></td>

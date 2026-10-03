@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**48 open roles.** 33 in the United States & Canada · 15 elsewhere in the world.
+**47 open roles.** 32 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Namespace</strong></td>
-<td><a href="https://trueinterview.io/jobs/5282ff07-dda2-4b51-988f-91d8f724250e">Security Engineer</a></td>
-<td>New York, NY<br/>Switzerland<br/>San Francisco surroundings</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/namespace/41599db0-2a55-4d97-bc92-62636eb3c5bd/application">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Jet Propulsion Laboratory</strong></td>
 <td><a href="https://trueinterview.io/jobs/eb52c838-1a56-470a-bac1-f21d8706aab5">Enterprise Cybersecurity Engineer</a></td>
@@ -268,11 +261,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Defense Unicorns</strong></td>
-<td><a href="https://trueinterview.io/jobs/dca50e0a-9576-428f-b00a-a8869b6f11dc">IT Systems &amp; Security Engineer (CedD225)</a> 🌐</td>
+<td><strong>Nebius</strong></td>
+<td><a href="https://trueinterview.io/jobs/1475dde7-be34-4314-ab74-758bda7df67f">Network Security Engineer</a> 🌐</td>
 <td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/defenseunicorns/jobs/5239161007">Apply</a></td>
-<td align="center">15 Sep 2026</td>
+<td align="center"><a href="https://careers.nebius.com/?gh_jid=4971845101">Apply</a></td>
+<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Business Wire</strong></td>
