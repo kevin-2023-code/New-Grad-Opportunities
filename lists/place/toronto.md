@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**47 open roles.**
+**46 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -142,13 +142,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, ON, Canada</td>
 <td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28730">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Numeris</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc405e36-2ace-48a6-aef1-5154dc0e3b9c">Information Security Engineer (Cloud) - Contract</a></td>
-<td>Toronto, Ontario</td>
-<td align="center"><a href="https://jobs.lever.co/numeris/a429a425-dc12-4058-b43d-68c8cea68421/apply">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Upshop</strong></td>

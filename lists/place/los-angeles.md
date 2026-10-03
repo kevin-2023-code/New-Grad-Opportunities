@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**82 open roles.**
+**81 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -169,13 +169,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d8ffd06c-c2d8-4f4a-ad53-e700647e3370">Robotics Engineer (New Grad): Government Projects</a></td>
 <td>Los Angeles - HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/graymatter-robotics/0f5acd77-6b34-4444-9ddc-1ce91cad177c/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Kettle</strong></td>
-<td><a href="https://trueinterview.io/jobs/e864d240-5187-4132-9741-7bedf2db2ae4">Production Designer</a> 🌐</td>
-<td>Remote — United States<br/>San Francisco, Los Angeles, Portland OR, Austin TX</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/kettle/jobs/8802218002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>

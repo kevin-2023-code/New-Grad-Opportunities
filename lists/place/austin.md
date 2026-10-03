@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**82 open roles.**
+**80 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -184,20 +184,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX</td>
 <td align="center"><a href="https://4dayweek.io/job/security-engineer-at-wise-0b6fa6c9">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>DRW</strong></td>
-<td><a href="https://trueinterview.io/jobs/b033f52d-9e85-4436-94fd-6156fd4ae49f">Service Reliability Engineer</a></td>
-<td>Austin, TX<br/>Chicago, IL</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8167047">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Kettle</strong></td>
-<td><a href="https://trueinterview.io/jobs/e864d240-5187-4132-9741-7bedf2db2ae4">Production Designer</a> 🌐</td>
-<td>Remote — United States<br/>Austin, TX</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/kettle/jobs/8802218002">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Upshop</strong></td>

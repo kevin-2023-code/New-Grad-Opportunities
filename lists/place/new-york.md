@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**116 open roles.**
+**115 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -253,13 +253,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2a1e015b-2801-4728-9ec0-36adaca6e71e">Associate Field Engineer</a></td>
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/pinecone/2cf3b58f-a912-497f-9bfe-84144c4a1e3d/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Kettle</strong></td>
-<td><a href="https://trueinterview.io/jobs/e864d240-5187-4132-9741-7bedf2db2ae4">Production Designer</a> 🌐</td>
-<td>Remote — United States<br/>New York City</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/kettle/jobs/8802218002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>

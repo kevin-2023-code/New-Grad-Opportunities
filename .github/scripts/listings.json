@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-03T06:19:55.121Z",
-  "count": 1685,
+  "listingsChangedAt": "2026-10-03T12:25:33.122Z",
+  "count": 1681,
   "listings": [
     {
       "id": "0e9fa695-3b82-44a1-a596-725ab9cd999e",
@@ -12087,33 +12087,6 @@
       "updatedAt": "2026-09-11T20:18:45.000Z"
     },
     {
-      "id": "cc405e36-2ace-48a6-aef1-5154dc0e3b9c",
-      "company": "Numeris",
-      "title": "Information Security Engineer (Cloud) - Contract",
-      "locations": [
-        "Toronto, Ontario"
-      ],
-      "cities": [
-        "Toronto, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/numeris/a429a425-dc12-4058-b43d-68c8cea68421/apply",
-      "url": "https://trueinterview.io/jobs/cc405e36-2ace-48a6-aef1-5154dc0e3b9c",
-      "postedAt": "2026-09-11T20:11:28.000Z",
-      "updatedAt": "2026-09-11T20:11:28.000Z"
-    },
-    {
       "id": "cf53699f-91be-4486-a302-ae48c6d33746",
       "company": "Fieldai",
       "title": "Field Application Engineer - Den Bosch, Netherlands",
@@ -12124,7 +12097,7 @@
       "countries": [],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "new-grad",
       "level": "newgrad",
@@ -12135,35 +12108,6 @@
       "url": "https://trueinterview.io/jobs/cf53699f-91be-4486-a302-ae48c6d33746",
       "postedAt": "2026-09-11T20:04:00.000Z",
       "updatedAt": "2026-09-11T20:04:00.000Z"
-    },
-    {
-      "id": "b033f52d-9e85-4436-94fd-6156fd4ae49f",
-      "company": "DRW",
-      "title": "Service Reliability Engineer",
-      "locations": [
-        "Chicago",
-        "Austin"
-      ],
-      "cities": [
-        "Chicago, IL",
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/drweng/jobs/8167047",
-      "url": "https://trueinterview.io/jobs/b033f52d-9e85-4436-94fd-6156fd4ae49f",
-      "postedAt": "2026-09-11T19:55:18.000Z",
-      "updatedAt": "2026-09-11T19:55:18.000Z"
     },
     {
       "id": "7dcb775a-923e-4d44-a731-c73b85fd0fac",
@@ -12216,33 +12160,6 @@
       "updatedAt": "2026-09-11T19:46:01.000Z"
     },
     {
-      "id": "dd3ac485-eb49-46b8-a7d0-b2a6f015d4d3",
-      "company": "DRW",
-      "title": "Systems Engineer - Microsoft",
-      "locations": [
-        "Chicago"
-      ],
-      "cities": [
-        "Chicago, IL"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/drweng/jobs/8180036",
-      "url": "https://trueinterview.io/jobs/dd3ac485-eb49-46b8-a7d0-b2a6f015d4d3",
-      "postedAt": "2026-09-11T19:44:11.000Z",
-      "updatedAt": "2026-09-11T19:44:11.000Z"
-    },
-    {
       "id": "9fe50033-7f41-4325-aa6e-b3c830c7ce31",
       "company": "Toptal",
       "title": "Professional Photoshop Artists",
@@ -12271,38 +12188,6 @@
       "url": "https://trueinterview.io/jobs/9fe50033-7f41-4325-aa6e-b3c830c7ce31",
       "postedAt": "2026-09-11T19:37:28.000Z",
       "updatedAt": "2026-09-11T19:37:28.000Z"
-    },
-    {
-      "id": "e864d240-5187-4132-9741-7bedf2db2ae4",
-      "company": "Kettle",
-      "title": "Production Designer",
-      "locations": [
-        "San Francisco, Los Angeles, Portland OR, Austin TX",
-        "Austin, TX",
-        "New York City",
-        "Remote",
-        "San Francisco"
-      ],
-      "cities": [
-        "San Francisco, CA",
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/kettle/jobs/8802218002",
-      "url": "https://trueinterview.io/jobs/e864d240-5187-4132-9741-7bedf2db2ae4",
-      "postedAt": "2026-09-11T19:29:05.000Z",
-      "updatedAt": "2026-09-11T19:29:05.000Z"
     },
     {
       "id": "86551fe1-c088-4006-8c48-9d65b7734e37",

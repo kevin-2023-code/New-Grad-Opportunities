@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**107 open roles.** 79 in the United States & Canada · 28 elsewhere in the world.
+**106 open roles.** 78 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -141,13 +141,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9fe50033-7f41-4325-aa6e-b3c830c7ce31">Professional Photoshop Artists</a></td>
 <td>Anywhere in Europe and South America<br/>APAC Region<br/>Canada, Australia, New Zealand, Asia<br/>+1 more</td>
 <td align="center"><a href="https://jobs.lever.co/toptal/260f32e3-8ea5-4dc5-b92a-0440907b2ab2/apply">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Kettle</strong></td>
-<td><a href="https://trueinterview.io/jobs/e864d240-5187-4132-9741-7bedf2db2ae4">Production Designer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/kettle/jobs/8802218002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**14 open roles.** 12 in the United States & Canada · 2 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**12 open roles.** 10 in the United States & Canada · 2 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -40,20 +40,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>DRW</strong></td>
-<td><a href="https://trueinterview.io/jobs/b033f52d-9e85-4436-94fd-6156fd4ae49f">Service Reliability Engineer</a></td>
-<td>Chicago, IL<br/>Austin, TX</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8167047">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dd3ac485-eb49-46b8-a7d0-b2a6f015d4d3">Systems Engineer - Microsoft</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8180036">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bdb35e9a-e68e-4d5e-8732-3e3539f4f906">Platform Engineer - AI Engineering</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8186711">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**325 open roles.**
+**324 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -646,13 +646,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, CA<br/>Leominster, MA, US</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971949961">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Kettle</strong></td>
-<td><a href="https://trueinterview.io/jobs/e864d240-5187-4132-9741-7bedf2db2ae4">Production Designer</a> 🌐</td>
-<td>Remote — United States<br/>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/kettle/jobs/8802218002">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Physical Intelligence</strong></td>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**764 open roles.** 541 in the United States & Canada · 223 elsewhere in the world.
+**761 open roles.** 539 in the United States & Canada · 222 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -794,20 +794,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2a1e015b-2801-4728-9ec0-36adaca6e71e">Associate Field Engineer</a></td>
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/pinecone/2cf3b58f-a912-497f-9bfe-84144c4a1e3d/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Numeris</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc405e36-2ace-48a6-aef1-5154dc0e3b9c">Information Security Engineer (Cloud) - Contract</a></td>
-<td>Toronto, Ontario</td>
-<td align="center"><a href="https://jobs.lever.co/numeris/a429a425-dc12-4058-b43d-68c8cea68421/apply">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>DRW</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd3ac485-eb49-46b8-a7d0-b2a6f015d4d3">Systems Engineer - Microsoft</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8180036">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2803,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3158cd87-165e-49dd-a6c4-0145f5abfa8a">Saleforce Developer</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4684380006?gh_jid=4684380006">Apply</a></td>
+<td align="center">19 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Anthropic</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef765d05-53ca-4c42-a9f8-815b92222dc9">DevOps / AgentOps Engineer, GTM Systems</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5392856008">Apply</a></td>
+<td align="center">19 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/87b30a31-f82e-4580-bc1f-4f3286ab72a4">Software Engineer, Inference (AI Data Engineering)</a></td>
+<td>Palo Alto, CA<br/>Palo Alto - 1530</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 </tbody>

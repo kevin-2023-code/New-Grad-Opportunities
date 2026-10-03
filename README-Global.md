@@ -18,17 +18,17 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-03 06:19 UTC_
+_Last updated: 2026-10-03 12:25 UTC_
 
 **423 open new-grad roles** from **290 employers** · **32 posted in the last 7 days** · refreshed hourly
 
 ### Browse 423 new-grad roles by field
 
-💻 **[Software Engineering](#-software-engineering)** (223)
+💻 **[Software Engineering](#-software-engineering)** (222)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (97)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (30)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (31)
 
 📱 **[Product & Design](#-product--design)** (28)
 
@@ -223,7 +223,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/08d1cb84-509e-430e-9a54-35d62a0fb1d0">Drone Firmware Software Dev Engineer, Ring Robotics Platform Engineering</a></td>
 <td>GB, Cambridge</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10559120/drone-firmware-software-dev-engineer-ring-robotics-platform-engineering">Apply</a></td>
-<td align="center">8d</td>
+<td align="center">9d</td>
 </tr>
 <tr>
 <td><strong>Framework</strong></td>
@@ -368,13 +368,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Penang, Malaysia</td>
 <td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Electrical---Electronics-Engineer--Fresh-Graduate-_R67941">Apply</a></td>
 <td align="center">19d</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/cf53699f-91be-4486-a302-ae48c6d33746">Field Application Engineer - Den Bosch, Netherlands</a></td>
-<td>Den Bosch</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/0e6628de-9402-452f-b732-c84beda389f4/apply">Apply</a></td>
-<td align="center">21d</td>
 </tr>
 <tr>
 <td><strong>Oneimaging</strong></td>
@@ -607,12 +600,19 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://job-boards.greenhouse.io/clearstreet/jobs/8152992">Apply</a></td>
 <td align="center">24d</td>
 </tr>
+<tr>
+<td><strong>Re Leased</strong></td>
+<td><a href="https://trueinterview.io/jobs/4fab2fbf-6582-49d5-bcae-6aff2e78336e">Onboarding Consultant – EMEA</a></td>
+<td>London<br/>Re-Leased London</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/released/jobs/7989416003">Apply</a></td>
+<td align="center">24d</td>
+</tr>
 </tbody>
 </table>
 
 </details>
 
-**Showing 75 of 223.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 222.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -1158,7 +1158,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </table>
 
 <details>
-<summary>Show 24 more Hardware & Engineering roles posted earlier</summary>
+<summary>Show 25 more Hardware & Engineering roles posted earlier</summary>
 
 <table>
 <thead>
@@ -1184,7 +1184,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/935282f4-d801-41f6-9c1a-7e76ed24068a">Junior Verification Engineer</a></td>
 <td>IL, Haifa</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10542015/junior-verification-engineer">Apply</a></td>
-<td align="center">17d</td>
+<td align="center">18d</td>
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>
@@ -1192,6 +1192,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Ho Chi Minh, Vietnam</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ho-Chi-Minh/Senior-Staff-CAD-Engineer_2600925">Apply</a></td>
 <td align="center">18d</td>
+</tr>
+<tr>
+<td><strong>Field AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf53699f-91be-4486-a302-ae48c6d33746">Field Application Engineer - Den Bosch, Netherlands</a></td>
+<td>Den Bosch</td>
+<td align="center"><a href="https://jobs.lever.co/field-ai/0e6628de-9402-452f-b732-c84beda389f4/apply">Apply</a></td>
+<td align="center">21d</td>
 </tr>
 <tr>
 <td><strong>Pyka</strong></td>

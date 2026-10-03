@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**367 open roles.** 337 in the United States & Canada · 30 elsewhere in the world.
+**367 open roles.** 336 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -974,13 +974,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/222b447a-99bd-4304-a434-2dcc86e20732">Oil Sands Geotechnical Technician</a></td>
 <td>Edmonton, AB, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95225">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>DRW</strong></td>
-<td><a href="https://trueinterview.io/jobs/b033f52d-9e85-4436-94fd-6156fd4ae49f">Service Reliability Engineer</a></td>
-<td>Chicago, IL<br/>Austin, TX</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8167047">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
@@ -2457,6 +2450,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Ho Chi Minh, Vietnam</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ho-Chi-Minh/Senior-Staff-CAD-Engineer_2600925">Apply</a></td>
 <td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Field AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf53699f-91be-4486-a302-ae48c6d33746">Field Application Engineer - Den Bosch, Netherlands</a></td>
+<td>Den Bosch</td>
+<td align="center"><a href="https://jobs.lever.co/field-ai/0e6628de-9402-452f-b732-c84beda389f4/apply">Apply</a></td>
+<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Pyka</strong></td>
