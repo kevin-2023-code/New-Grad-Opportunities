@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-03T12:25:33.122Z",
-  "count": 1681,
+  "listingsChangedAt": "2026-10-03T17:10:22.555Z",
+  "count": 1677,
   "listings": [
     {
       "id": "0e9fa695-3b82-44a1-a596-725ab9cd999e",
@@ -269,6 +269,31 @@
       "source": "trueinterview",
       "applyUrl": "https://datamint.xyz/",
       "url": "https://trueinterview.io/jobs/e2ca04aa-f24a-4f1c-ad2f-3e0c91bd724b",
+      "postedAt": "2026-10-02T00:00:00.000Z",
+      "updatedAt": "2026-10-02T00:00:00.000Z"
+    },
+    {
+      "id": "e4dea1af-a4f0-4056-892b-0690e1a28130",
+      "company": "Microsoft",
+      "title": "Security Engineer - Red Team",
+      "locations": [
+        "Redmond, WA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557022445",
+      "url": "https://trueinterview.io/jobs/e4dea1af-a4f0-4056-892b-0690e1a28130",
       "postedAt": "2026-10-02T00:00:00.000Z",
       "updatedAt": "2026-10-02T00:00:00.000Z"
     },
@@ -44238,133 +44263,6 @@
       "url": "https://trueinterview.io/jobs/2bc2e798-0a3e-4594-a672-9a0ceeccf37f",
       "postedAt": "2026-08-04T17:11:13.000Z",
       "updatedAt": "2026-08-04T17:11:13.000Z"
-    },
-    {
-      "id": "8697428f-43ba-436a-a9a3-4045f2fe4cbc",
-      "company": "Redgate",
-      "title": "Service Desk Engineer",
-      "locations": [
-        "Cambridge"
-      ],
-      "cities": [
-        "Cambridge"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/red-gate/154b8894-aaa2-4063-8d88-60b62f0538f7/application",
-      "url": "https://trueinterview.io/jobs/8697428f-43ba-436a-a9a3-4045f2fe4cbc",
-      "postedAt": "2026-08-04T16:33:44.000Z",
-      "updatedAt": "2026-08-04T16:33:44.000Z"
-    },
-    {
-      "id": "ed7e266b-b486-48b4-b9e6-74a393873e5f",
-      "company": "Dash0",
-      "title": "Commercial Solutions Engineer - Nordics",
-      "locations": [
-        "EMEA - Remote"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/dash0/31c63bf9-c837-43c4-9deb-ba0da290cdd7/application",
-      "url": "https://trueinterview.io/jobs/ed7e266b-b486-48b4-b9e6-74a393873e5f",
-      "postedAt": "2026-08-04T16:28:45.000Z",
-      "updatedAt": "2026-08-04T16:28:45.000Z"
-    },
-    {
-      "id": "aa1c5cff-ba82-4fa9-9158-0a92ce44e34b",
-      "company": "Esri",
-      "title": "GIS Solution Engineer - Local Government (Minneapolis)",
-      "locations": [
-        "Minneapolis, MN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.esri.com/careers/5122116007?gh_jid=5122116007",
-      "url": "https://trueinterview.io/jobs/aa1c5cff-ba82-4fa9-9158-0a92ce44e34b",
-      "postedAt": "2026-08-04T16:11:38.000Z",
-      "updatedAt": "2026-08-04T16:11:38.000Z"
-    },
-    {
-      "id": "4e0e2e8b-c5fb-43a1-a316-c40dbc1c5c74",
-      "company": "Spacex",
-      "title": "Software Engineer, AI Satellites (Starmind)",
-      "locations": [
-        "Bastrop, TX"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8676015002?gh_jid=8676015002",
-      "url": "https://trueinterview.io/jobs/4e0e2e8b-c5fb-43a1-a316-c40dbc1c5c74",
-      "postedAt": "2026-08-04T16:06:43.000Z",
-      "updatedAt": "2026-08-04T16:06:43.000Z"
-    },
-    {
-      "id": "ff4b3f47-adf3-45ae-8e53-b22a2b257fae",
-      "company": "New Era Technology",
-      "title": "Support Engineer",
-      "locations": [
-        "Perth",
-        "Australia-New Zealand"
-      ],
-      "cities": [],
-      "countries": [
-        "Australia",
-        "New Zealand"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/neweratech/jobs/8657940002",
-      "url": "https://trueinterview.io/jobs/ff4b3f47-adf3-45ae-8e53-b22a2b257fae",
-      "postedAt": "2026-08-04T16:00:04.000Z",
-      "updatedAt": "2026-08-04T16:00:04.000Z"
     }
   ]
 }

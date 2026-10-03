@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**104 open roles.** 60 in the United States & Canada · 44 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**103 open roles.** 60 in the United States & Canada · 43 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -748,13 +748,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e3172daa-4f17-4949-a1b5-2076dae4aa10">[Job 30458] AI Engineer (Dev Master) iOS /Android</a></td>
 <td>Brazil</td>
 <td align="center"><a href="https://jobs.lever.co/ciandt/93e62a17-6b5e-42b3-8973-5607bffc3c14/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>New Era Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff4b3f47-adf3-45ae-8e53-b22a2b257fae">Support Engineer</a></td>
-<td>Perth<br/>Australia-New Zealand</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/neweratech/jobs/8657940002">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 </tbody>

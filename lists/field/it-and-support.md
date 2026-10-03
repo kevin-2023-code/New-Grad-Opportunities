@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**152 open roles.** 114 in the United States & Canada · 38 elsewhere in the world.
+**151 open roles.** 114 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1085,13 +1085,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Medellín, Antioquia, Colombia<br/>Medellin, Colombia</td>
 <td align="center"><a href="https://boards.greenhouse.io/geniussports/jobs/7826269003?gh_jid=7826269003">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Redgate</strong></td>
-<td><a href="https://trueinterview.io/jobs/8697428f-43ba-436a-a9a3-4045f2fe4cbc">Service Desk Engineer</a></td>
-<td>Cambridge</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/red-gate/154b8894-aaa2-4063-8d88-60b62f0538f7/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>

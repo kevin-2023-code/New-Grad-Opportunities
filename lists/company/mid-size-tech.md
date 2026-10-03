@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**73 open roles.** 49 in the United States & Canada · 24 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**72 open roles.** 49 in the United States & Canada · 23 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -532,13 +532,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>England<br/>Portugal<br/>Spain<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/docker/4bda5b22-8cd9-49a8-8ba3-8fc456eea2bd/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Redgate</strong></td>
-<td><a href="https://trueinterview.io/jobs/8697428f-43ba-436a-a9a3-4045f2fe4cbc">Service Desk Engineer</a></td>
-<td>Cambridge</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/red-gate/154b8894-aaa2-4063-8d88-60b62f0538f7/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>
