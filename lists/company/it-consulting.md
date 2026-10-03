@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**102 open roles.** 60 in the United States & Canada · 42 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**101 open roles.** 59 in the United States & Canada · 42 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -429,13 +429,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Fort Huachuca, AZ</td>
 <td align="center"><a href="https://jobs.lever.co/agile-defense/b882eec4-bfa9-43ed-a08b-265096136528/apply">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Blink Ux</strong></td>
-<td><a href="https://trueinterview.io/jobs/30b20f33-9961-48ed-960d-e2c2a0aaebe2">Digital Marketing Analyst</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.lever.co/blinkux/ecb6097e-6fca-4b12-ab54-4035b216f9e9/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>

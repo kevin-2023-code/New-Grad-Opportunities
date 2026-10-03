@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**106 open roles.** 74 in the United States & Canada · 32 elsewhere in the world. Early-stage technology companies.
+**105 open roles.** 73 in the United States & Canada · 32 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -527,13 +527,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tailscale/jobs/4721714005">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/3099e826-6b40-4015-a719-ef74211f5d3f">Field Application Engineer - Corpus Christi, TX</a></td>
-<td>Corpus Christi, TX</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/ca422caa-46b7-4ede-8116-e85909bdadbb/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>

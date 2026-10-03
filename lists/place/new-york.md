@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**115 open roles.**
+**114 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -814,13 +814,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/ambrook/65255c6d-5e5f-439a-9b63-c0a68517fdef/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Blink Ux</strong></td>
-<td><a href="https://trueinterview.io/jobs/30b20f33-9961-48ed-960d-e2c2a0aaebe2">Digital Marketing Analyst</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.lever.co/blinkux/ecb6097e-6fca-4b12-ab54-4035b216f9e9/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>

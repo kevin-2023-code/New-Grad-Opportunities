@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**105 open roles.** 78 in the United States & Canada · 27 elsewhere in the world.
+**103 open roles.** 77 in the United States & Canada · 26 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -556,13 +556,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92586">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Blink Ux</strong></td>
-<td><a href="https://trueinterview.io/jobs/30b20f33-9961-48ed-960d-e2c2a0aaebe2">Digital Marketing Analyst</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.lever.co/blinkux/ecb6097e-6fca-4b12-ab54-4035b216f9e9/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -756,13 +749,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo, Brazil<br/>C6 Bank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4720938005">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Canva</strong></td>
-<td><a href="https://trueinterview.io/jobs/908c1a47-3cbd-48aa-95bf-b3c7f97c5122">Motion Designer, Indonesia (6-month Contract)</a></td>
-<td>Jakarta, Jakarta, Indonesia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Canva/6000000001284595-motion-designer-indonesia-6-month-contract-?oga=true">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>
