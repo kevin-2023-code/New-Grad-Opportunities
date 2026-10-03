@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**301 open roles.** 198 in the United States & Canada · 103 elsewhere in the world.
+**299 open roles.** 197 in the United States & Canada · 102 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Accenture Federal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/7b816b7c-1424-4411-9cd6-33b676a3d449">Data Scientist</a></td>
-<td>Chantilly, VA</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4718533006?gh_jid=4718533006">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Instacart</strong></td>
 <td><a href="https://trueinterview.io/jobs/12554d1b-b6e4-4496-830a-db1ce477dc2d">Data Analyst, Platform Excellence Ops Analytics</a> 🌐</td>
@@ -1428,13 +1421,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>DE, BE, Berlin</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10567718/business-intelligence-engineer-bie-eu-stores">Apply</a></td>
 <td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Watershed</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7ea7149-ff1c-4dd7-8c90-d5005b407a10">Customer Data Specialist (fixed-term)</a></td>
-<td>Mexico City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/watershed/b7284a49-8cdf-43ac-ad0e-c93b2dd88778/application">Apply</a></td>
-<td align="center">1 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Hiring: AI, Data, DevOps &amp; Full Stack Engineers</strong></td>

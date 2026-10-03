@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**193 open roles.** 154 in the United States & Canada · 39 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**191 open roles.** 152 in the United States & Canada · 39 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d354b14-8d0b-42ef-9c66-35ad643699d1">Software Engineer, Mobile SDK</a></td>
-<td>Austin, TX<br/>Hybrid</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8248635?gh_jid=8248635">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Instacart</strong></td>
 <td><a href="https://trueinterview.io/jobs/12554d1b-b6e4-4496-830a-db1ce477dc2d">Data Analyst, Platform Excellence Ops Analytics</a> 🌐</td>
@@ -1087,13 +1080,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Minneapolis, MN</td>
 <td align="center"><a href="https://www.esri.com/careers/5122116007?gh_jid=5122116007">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Delinea</strong></td>
-<td><a href="https://trueinterview.io/jobs/9438228d-b087-4d48-b213-4577e41d9d65">Platform Engineer, Developer Experience (DevEx)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/delinea/8f32efea-05da-477b-8219-36e63fc2d551/application">Apply</a></td>
-<td align="center">3 Aug 2026</td>
 </tr>
 </tbody>
 </table>

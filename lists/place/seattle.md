@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**76 open roles.**
+**74 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -211,13 +211,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/146ac455-30d8-4211-a949-d0ccaf90c35c">Decision Engineer, Infrastructure Development &amp; Delivery</a></td>
 <td>Seattle, WA<br/>San Francisco, CA<br/>New York, NY<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/4d9e6d9f-d1f5-4e56-b743-a0f082fb7217/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/04c1da56-f2a0-4d4c-9b0a-872c6cc62dc1">Decision Engineer, Manufacturing &amp; Supply Chain</a></td>
-<td>Seattle, WA<br/>New York, NY<br/>San Francisco, CA<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/717a792e-bd03-40c3-acf6-48e360a9034b/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
@@ -541,13 +534,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8677412002?gh_jid=8677412002">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0c98ea0-e895-4e56-930e-8e1113d1af57">Network Engineer, Wireless</a> 🌐</td>
-<td>Remote — United States<br/>Seattle, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/567a54e0-b9ce-4fff-ae8a-4edee9d55e85/application">Apply</a></td>
-<td align="center">3 Aug 2026</td>
 </tr>
 </tbody>
 </table>

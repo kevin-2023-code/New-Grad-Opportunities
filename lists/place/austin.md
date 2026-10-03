@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**88 open roles.**
+**85 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d354b14-8d0b-42ef-9c66-35ad643699d1">Software Engineer, Mobile SDK</a></td>
-<td>Austin, TX<br/>Hybrid</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8248635?gh_jid=8248635">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Dell</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b8f982e-0ae1-44c0-8a98-d8080553a5df">AI Solution Engineer, Security</a></td>
@@ -274,13 +267,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/146ac455-30d8-4211-a949-d0ccaf90c35c">Decision Engineer, Infrastructure Development &amp; Delivery</a></td>
 <td>Austin, TX<br/>San Francisco, CA<br/>New York, NY<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/4d9e6d9f-d1f5-4e56-b743-a0f082fb7217/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/04c1da56-f2a0-4d4c-9b0a-872c6cc62dc1">Decision Engineer, Manufacturing &amp; Supply Chain</a></td>
-<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/717a792e-bd03-40c3-acf6-48e360a9034b/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
@@ -625,13 +611,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Bastrop, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8676015002?gh_jid=8676015002">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0c98ea0-e895-4e56-930e-8e1113d1af57">Network Engineer, Wireless</a> 🌐</td>
-<td>Remote — United States<br/>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/567a54e0-b9ce-4fff-ae8a-4edee9d55e85/application">Apply</a></td>
-<td align="center">3 Aug 2026</td>
 </tr>
 </tbody>
 </table>

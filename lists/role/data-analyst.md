@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**33 open roles.** 17 in the United States & Canada · 16 elsewhere in the world.
+**32 open roles.** 17 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -148,13 +148,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Watershed</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7ea7149-ff1c-4dd7-8c90-d5005b407a10">Customer Data Specialist (fixed-term)</a></td>
-<td>Mexico City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/watershed/b7284a49-8cdf-43ac-ad0e-c93b2dd88778/application">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Inter Carreiras</strong></td>
 <td><a href="https://trueinterview.io/jobs/a617108e-1837-431c-b052-a285b425bf3d">DATA ANALYTICS COORDINATOR | DATA &amp; INSIGHTS MKP MG</a></td>

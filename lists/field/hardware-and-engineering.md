@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**371 open roles.** 340 in the United States & Canada · 31 elsewhere in the world.
+**367 open roles.** 336 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,13 +18,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Loenbro</strong></td>
-<td><a href="https://trueinterview.io/jobs/18c12416-23c1-4f8e-95a1-31d614f23ad3">Estimator I Mechanical/Structural</a></td>
-<td>Westminster, CO</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/loenbro/jobs/4432520009">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Hadrian Automation</strong></td>
 <td><a href="https://trueinterview.io/jobs/62998558-c937-4ebb-b1c8-5224eb7d58a0">Manufacturing Engineer, Additive</a></td>
 <td>Texarkana, TX</td>
@@ -36,6 +29,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1408593c-f972-484d-aca2-5797a9f58a8a">Entry Level Civil Engineer (Rail Terminal/Intermodal)</a></td>
 <td>Loveland, CO<br/>Omaha, NE</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5442585008">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b01f519-2174-4103-82b1-e78c23610ee7">Product Applications Engineer-Silicon Debug &amp; Embedded Systems</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/93181?lang=en-us">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/587b48bd-90a6-492b-b7e3-54247b8f03a7">2027 New College Grad - Process Engineer III - Doctorate (Winter 2026 Start)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790317896749">Apply</a></td>
 <td align="center">2 Oct 2026</td>
 </tr>
 <tr>
@@ -201,13 +208,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/950ae14a-c786-4e3f-985f-0a1c52b51d2e">ENGINEER, ID1 ME - PH OPERATIONS</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44545684">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/66410ae1-6873-43ad-b4cb-cbab6f5fe15b">Layout/Mask Design Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44700559">Apply</a></td>
@@ -2368,34 +2368,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Foster City, CA</td>
 <td align="center"><a href="https://jobs.lever.co/zoox/4c16c18c-18c0-433c-bc21-8bd72824a1d9/apply">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c3831cf-b7ea-4413-821e-046f95925f8c">Customer Support Engineer - FaST Products</a></td>
-<td>Phoenix, AZ, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Customer-Support-Engineer---FaST-Products_2637537">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Samsung</strong></td>
-<td><a href="https://trueinterview.io/jobs/73cecb91-fd11-484b-85fc-50cb53f8c3cd">2027 New Grad: Samsung Emerging Engineer Development Program</a></td>
-<td>1530 FM 973 Taylor, TX, USA, United States of America</td>
-<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-New-Grad--SEED--Program_R119156-1">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>True Anomaly</strong></td>
-<td><a href="https://trueinterview.io/jobs/3afe45ae-cd06-4c1c-a520-cc0783e14246">Component Test Engineer (I-III)</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5202372007">Apply</a></td>
-<td align="center">3 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/46b95481-9570-4aa3-b983-8b39e6e343b6">Propulsion Engineer I, Combustion Devices</a></td>
-<td>Long Beach, California</td>
-<td align="center"><a href="https://boards.greenhouse.io/relativity/jobs/8659588002?gh_jid=8659588002">Apply</a></td>
-<td align="center">3 Aug 2026</td>
 </tr>
 </tbody>
 </table>

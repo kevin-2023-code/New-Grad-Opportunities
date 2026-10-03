@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**845 open roles.** 602 in the United States & Canada · 243 elsewhere in the world.
+**848 open roles.** 604 in the United States & Canada · 244 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Govtech</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3848a0a-7eab-4b94-83e1-56c9cd489d96">Cybersecurity Engineer</a></td>
+<td>Singapore<br/>CEP Core Engineering Products</td>
+<td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005720201?gh_jid=4005720201">Apply</a></td>
+<td align="center">16 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Thoughtworks</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa762f2c-d14a-4cf2-81bf-d39bf7f1470b">Infrastructure Engineer focused on Observability and GCP</a></td>
+<td>Santiago, Chile<br/>Chile, Chile</td>
+<td align="center"><a href="https://www.thoughtworks.com/careers/jobs/8131779?gh_jid=8131779">Apply</a></td>
+<td align="center">16 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Dkb Code Factory</strong></td>
+<td><a href="https://trueinterview.io/jobs/6845053b-53f1-4e66-909d-e2d87f18ed7d">QA Engineer</a></td>
+<td>Valencia, Spain</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dkbcodefactory/jobs/7821469003">Apply</a></td>
+<td align="center">15 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Litellm</strong></td>
+<td><a href="https://trueinterview.io/jobs/ac49af94-b8f4-47c8-aa37-b2c739e6a19a">Forward Deployed Engineer - India</a></td>
+<td>India</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/litellm/b0879986-2e6d-4167-b2db-3246b5db3d76/application">Apply</a></td>
+<td align="center">15 Aug 2026</td>
+</tr>
 <tr>
 <td><strong>SHEIN</strong></td>
 <td><a href="https://trueinterview.io/jobs/05f8f466-0a1c-4d5e-8cb7-3a4131d8df59">Database Engineer</a></td>
@@ -324,13 +352,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Perth<br/>Australia-New Zealand</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/neweratech/jobs/8657940002">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Oddball</strong></td>
-<td><a href="https://trueinterview.io/jobs/a87b4a2e-1374-4c00-9231-d8015cd1d230">Security Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/oddball/jobs/7821528003">Apply</a></td>
-<td align="center">3 Aug 2026</td>
 </tr>
 </tbody>
 </table>

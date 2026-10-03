@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**49 open roles.** 33 in the United States & Canada · 16 elsewhere in the world.
+**48 open roles.** 33 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -364,13 +364,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/8ee5d640-de2c-4004-8857-210ef8ec3177/application">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Oddball</strong></td>
-<td><a href="https://trueinterview.io/jobs/a87b4a2e-1374-4c00-9231-d8015cd1d230">Security Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/oddball/jobs/7821528003">Apply</a></td>
-<td align="center">3 Aug 2026</td>
 </tr>
 </tbody>
 </table>

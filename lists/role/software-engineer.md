@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**285 open roles.** 198 in the United States & Canada · 87 elsewhere in the world.
+**287 open roles.** 199 in the United States & Canada · 88 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d354b14-8d0b-42ef-9c66-35ad643699d1">Software Engineer, Mobile SDK</a></td>
-<td>Austin, TX<br/>Hybrid</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8248635?gh_jid=8248635">Apply</a></td>
+<td><strong>World View Enterprises Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/83201f01-4ab6-449a-9af0-d08c46c1b6de">Software Engineer</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://jobs.lever.co/world-view-enterprises-inc./914c27c3-f5c3-4a7e-9f80-9e813d5602e5/apply">Apply</a></td>
 <td align="center">2 Oct 2026</td>
 </tr>
 <tr>
@@ -78,6 +78,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ed1c6d00-f30d-4e11-b6d7-9b724eff8dba">Software Developer</a></td>
 <td>MONTRÉAL, Quebec, Canada</td>
 <td align="center"><a href="https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/MONTRAL-Quebec-Canada/Software-Developer_R-0000185999-1">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/35721e01-6014-486d-8f4b-fe786703a4c7">Software Engineer, Core Infrastructure - Moveworks (New Grad)</a></td>
+<td>Mountain View, California, United States</td>
+<td align="center"><a href="https://careers.servicenow.com/jobs/744000153279380/software-engineer-core-infrastructure-moveworks-new-grad/">Apply</a></td>
 <td align="center">2 Oct 2026</td>
 </tr>
 <tr>
@@ -1434,6 +1441,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cd6190b6-e5c6-4897-94d1-52a87303d531">Relativity Space / In Office (Long Beach, CA ) / Software Engineer</a></td>
 <td>Software Engineer</td>
 <td align="center"><a href="https://www.relativityspace.com/">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skanna Security &amp; Investigations Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0c27f0d-f58c-4b40-89eb-46986471c977">software developer</a></td>
+<td>Mississauga (ON)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50412667">Apply</a></td>
 <td align="center">2 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**110 open roles.** 98 in the United States & Canada · 12 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**109 open roles.** 97 in the United States & Canada · 12 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -695,13 +695,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19512?lang=en-us">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Samsung</strong></td>
-<td><a href="https://trueinterview.io/jobs/73cecb91-fd11-484b-85fc-50cb53f8c3cd">2027 New Grad: Samsung Emerging Engineer Development Program</a></td>
-<td>1530 FM 973 Taylor, TX, USA, United States of America</td>
-<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-New-Grad--SEED--Program_R119156-1">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**41 open roles.** 35 in the United States & Canada · 6 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**40 open roles.** 34 in the United States & Canada · 6 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -254,13 +254,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tailscale/jobs/4721714005">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Delinea</strong></td>
-<td><a href="https://trueinterview.io/jobs/9438228d-b087-4d48-b213-4577e41d9d65">Platform Engineer, Developer Experience (DevEx)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/delinea/8f32efea-05da-477b-8219-36e63fc2d551/application">Apply</a></td>
-<td align="center">3 Aug 2026</td>
 </tr>
 </tbody>
 </table>

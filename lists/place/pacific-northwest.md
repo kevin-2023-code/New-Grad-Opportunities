@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**47 open roles.**
+**46 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -47,13 +47,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/950ae14a-c786-4e3f-985f-0a1c52b51d2e">ENGINEER, ID1 ME - PH OPERATIONS</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44545684">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/66410ae1-6873-43ad-b4cb-cbab6f5fe15b">Layout/Mask Design Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44700559">Apply</a></td>

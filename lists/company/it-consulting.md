@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**112 open roles.** 63 in the United States & Canada · 49 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**110 open roles.** 62 in the United States & Canada · 48 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Accenture Federal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/7b816b7c-1424-4411-9cd6-33b676a3d449">Data Scientist</a></td>
-<td>Chantilly, VA</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4718533006?gh_jid=4718533006">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Agile Defense</strong></td>
 <td><a href="https://trueinterview.io/jobs/e69baeaf-c04f-49c0-a5a2-b8557fb499af">Programming Specialist</a></td>
@@ -805,13 +798,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Perth<br/>Australia-New Zealand</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/neweratech/jobs/8657940002">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Oddball</strong></td>
-<td><a href="https://trueinterview.io/jobs/a87b4a2e-1374-4c00-9231-d8015cd1d230">Security Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/oddball/jobs/7821528003">Apply</a></td>
-<td align="center">3 Aug 2026</td>
 </tr>
 </tbody>
 </table>

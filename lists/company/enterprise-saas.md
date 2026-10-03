@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**89 open roles.** 61 in the United States & Canada · 28 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**91 open roles.** 63 in the United States & Canada · 28 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intuit</strong></td>
+<td><a href="https://trueinterview.io/jobs/df762123-cc6e-4c95-ada4-731dc88c7e96">Product Manager 2 - Rotational Product Management (RPM) Program</a></td>
+<td>Mountain View, California</td>
+<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/product-manager-2-rotational-product-management-rpm-program/27595/101456093584">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/35721e01-6014-486d-8f4b-fe786703a4c7">Software Engineer, Core Infrastructure - Moveworks (New Grad)</a></td>
+<td>Mountain View, California, United States</td>
+<td align="center"><a href="https://careers.servicenow.com/jobs/744000153279380/software-engineer-core-infrastructure-moveworks-new-grad/">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/62c567e9-224d-4b04-aa3b-09097ba2ca96">Software Engineer- CoreAI</a></td>

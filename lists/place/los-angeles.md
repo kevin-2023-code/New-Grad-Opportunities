@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**90 open roles.**
+**88 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -632,20 +632,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Irvine, CA, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014439006-reliability-engineer?oga=true">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>True Anomaly</strong></td>
-<td><a href="https://trueinterview.io/jobs/3afe45ae-cd06-4c1c-a520-cc0783e14246">Component Test Engineer (I-III)</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5202372007">Apply</a></td>
-<td align="center">3 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/46b95481-9570-4aa3-b983-8b39e6e343b6">Propulsion Engineer I, Combustion Devices</a></td>
-<td>Long Beach, California</td>
-<td align="center"><a href="https://boards.greenhouse.io/relativity/jobs/8659588002?gh_jid=8659588002">Apply</a></td>
-<td align="center">3 Aug 2026</td>
 </tr>
 </tbody>
 </table>

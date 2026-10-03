@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**28 open roles.**
+**27 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Loenbro</strong></td>
-<td><a href="https://trueinterview.io/jobs/18c12416-23c1-4f8e-95a1-31d614f23ad3">Estimator I Mechanical/Structural</a></td>
-<td>Westminster, CO</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/loenbro/jobs/4432520009">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/77539499-666d-4a5a-9751-4bf966c85057">Delivery Consultant- AI/ML, Data &amp; Machine Learning (DML)</a></td>

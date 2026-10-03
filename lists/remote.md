@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**200 open roles.** 135 in the United States & Canada · 65 elsewhere in the world. Postings the pipeline classified as remote.
+**197 open roles.** 133 in the United States & Canada · 64 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -948,20 +948,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/dash0/288244ba-0623-47f5-8d7c-de3cb0590a49/application">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0c98ea0-e895-4e56-930e-8e1113d1af57">Network Engineer, Wireless</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/567a54e0-b9ce-4fff-ae8a-4edee9d55e85/application">Apply</a></td>
-<td align="center">3 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Delinea</strong></td>
-<td><a href="https://trueinterview.io/jobs/9438228d-b087-4d48-b213-4577e41d9d65">Platform Engineer, Developer Experience (DevEx)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/delinea/8f32efea-05da-477b-8219-36e63fc2d551/application">Apply</a></td>
-<td align="center">3 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1421,13 +1407,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/dash0/31c63bf9-c837-43c4-9deb-ba0da290cdd7/application">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Oddball</strong></td>
-<td><a href="https://trueinterview.io/jobs/a87b4a2e-1374-4c00-9231-d8015cd1d230">Security Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/oddball/jobs/7821528003">Apply</a></td>
-<td align="center">3 Aug 2026</td>
 </tr>
 </tbody>
 </table>

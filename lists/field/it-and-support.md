@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**150 open roles.** 114 in the United States & Canada · 36 elsewhere in the world.
+**149 open roles.** 113 in the United States & Canada · 36 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -807,13 +807,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Lubbock, TX<br/>Buffalo, NY<br/>New Lebanon, IN<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/c1dedbcb-c729-42bf-b90e-e97c2cead3cd/application">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e0c98ea0-e895-4e56-930e-8e1113d1af57">Network Engineer, Wireless</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/567a54e0-b9ce-4fff-ae8a-4edee9d55e85/application">Apply</a></td>
-<td align="center">3 Aug 2026</td>
 </tr>
 </tbody>
 </table>
