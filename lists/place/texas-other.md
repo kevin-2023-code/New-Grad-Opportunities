@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**18 open roles.**
+**16 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -128,20 +128,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Houston, TX 77028<br/>Grand Prairie, TX 75050</td>
 <td align="center"><a href="https://jobs.lever.co/sunsrce/52e838a5-b19a-4ad0-8b21-89f9a5c8a58a/apply">Apply</a></td>
 <td align="center">10 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Forgen</strong></td>
-<td><a href="https://trueinterview.io/jobs/b45513db-ff55-408b-bf3e-a9f9043d1a05">Project Engineer</a></td>
-<td>Houston, Texas<br/>Baton Rouge, Louisiana<br/>Dallas, Texas<br/>+2 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/forgen/jobs/5203382007">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/00a34072-dc96-47dd-827a-9a31aa06d929">Hardware Operator</a></td>
-<td>Lubbock, TX<br/>Buffalo, NY<br/>New Lebanon, IN<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/c1dedbcb-c729-42bf-b90e-e97c2cead3cd/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>

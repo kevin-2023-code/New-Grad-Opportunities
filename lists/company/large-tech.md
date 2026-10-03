@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**185 open roles.** 144 in the United States & Canada · 41 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**183 open roles.** 143 in the United States & Canada · 40 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1018,13 +1018,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.klaviyo.com/careers/jobs/7827030003?gh_jid=7827030003">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff52bd8d-95e3-4d36-bcf9-f05ce4ece93b">Full-Stack Engineer, ChatGPT Education  &amp; Learning</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/ef828b89-41ed-4cde-96a9-94ffe5770d4c/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1315,13 +1308,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/908c1a47-3cbd-48aa-95bf-b3c7f97c5122">Motion Designer, Indonesia (6-month Contract)</a></td>
 <td>Jakarta, Jakarta, Indonesia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Canva/6000000001284595-motion-designer-indonesia-6-month-contract-?oga=true">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/f412b76d-10ac-4145-801a-6656f6aeb555">Field Security Specialist (Cyber Security Solutions Engineer)</a></td>
-<td>Dublin, Ireland</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/8ee5d640-de2c-4004-8857-210ef8ec3177/application">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 </tbody>

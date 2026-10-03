@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**48 open roles.**
+**47 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -347,13 +347,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Medellín, Antioquia, Colombia<br/>Medellin, Colombia</td>
 <td align="center"><a href="https://boards.greenhouse.io/geniussports/jobs/7826269003?gh_jid=7826269003">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Brafton</strong></td>
-<td><a href="https://trueinterview.io/jobs/772ee2aa-0768-4b20-bab3-1544c418c0c5">Remote Designer/Illustrator (Brazil)</a></td>
-<td>São Paulo</td>
-<td align="center"><a href="https://jobs.lever.co/brafton/7603be92-c93a-430e-809b-4a49395187e8/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>

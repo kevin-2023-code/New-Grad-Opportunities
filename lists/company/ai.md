@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**161 open roles.** 131 in the United States & Canada · 30 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**159 open roles.** 129 in the United States & Canada · 30 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -920,20 +920,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/togetherai/jobs/5202015007">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/00a34072-dc96-47dd-827a-9a31aa06d929">Hardware Operator</a></td>
-<td>Lubbock, TX<br/>Buffalo, NY<br/>New Lebanon, IN<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/c1dedbcb-c729-42bf-b90e-e97c2cead3cd/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff52bd8d-95e3-4d36-bcf9-f05ce4ece93b">Full-Stack Engineer, ChatGPT Education  &amp; Learning</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/ef828b89-41ed-4cde-96a9-94ffe5770d4c/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -946,6 +932,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Higgsfield</strong></td>
+<td><a href="https://trueinterview.io/jobs/52aa8050-ded9-4cea-ba44-1134b6eed982">CX Graphic Designer</a></td>
+<td>Almaty, Kazakhstan</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/higgsfieldai/da3e45be-411f-4d29-9eb6-b87fed38d5c8/application">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/0df62237-4184-4567-b903-cd358cdff00d">Dedicated Support Engineer - Tokyo</a></td>
@@ -1148,13 +1141,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/f9df85c5-bcb0-4d75-9728-775e746a0383/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/f412b76d-10ac-4145-801a-6656f6aeb555">Field Security Specialist (Cyber Security Solutions Engineer)</a></td>
-<td>Dublin, Ireland</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/8ee5d640-de2c-4004-8857-210ef8ec3177/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**19 open roles.**
+**18 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -142,13 +142,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Dallas, TX, United States<br/>Salt Lake City, UT, United States</td>
 <td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180914">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Forgen</strong></td>
-<td><a href="https://trueinterview.io/jobs/b45513db-ff55-408b-bf3e-a9f9043d1a05">Project Engineer</a></td>
-<td>Dallas, Texas<br/>Baton Rouge, Louisiana<br/>Houston, Texas<br/>+2 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/forgen/jobs/5203382007">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>

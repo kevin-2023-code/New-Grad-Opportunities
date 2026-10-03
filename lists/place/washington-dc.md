@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**47 open roles.**
+**46 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -337,13 +337,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/19d8d26c-0941-45c2-aee0-2c2fb1648f6c">Senior Engineer, Platform Infrastructure (R5516)</a></td>
 <td>Washington, DC<br/>San Diego, California</td>
 <td align="center"><a href="https://jobs.lever.co/shieldai/b3927595-1e5a-455e-b831-721674088249/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Monumental Sports &amp; Entertainment</strong></td>
-<td><a href="https://trueinterview.io/jobs/a0915c77-898c-483b-a41f-57395a551def">Basketball Data Analyst (Mystics)</a></td>
-<td>Washington, DC 20032<br/>MedStar Health Performance Center (MHPC/ESA)</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/monumentalsports/jobs/5167643007">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 </tbody>

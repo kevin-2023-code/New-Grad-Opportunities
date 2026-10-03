@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**184 open roles.** 125 in the United States & Canada · 59 elsewhere in the world. Postings the pipeline classified as remote.
+**181 open roles.** 123 in the United States & Canada · 58 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -878,20 +878,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/togetherai/jobs/5202015007">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Dash0</strong></td>
-<td><a href="https://trueinterview.io/jobs/309b3be4-b7f2-48ad-8678-c60b48756eb8">Enterprise Solutions Engineer - West Coast</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/dash0/13d63357-a0d4-4829-8d06-eef372f62960/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bc348a9c-0a11-4f1d-aad5-0f34791b9bae">Enterprise Solutions Engineer - East Coast</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/dash0/288244ba-0623-47f5-8d7c-de3cb0590a49/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1309,13 +1295,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.lever.co/weloglobal/1af55554-dad4-48ad-97ca-6550fab8cf4c/apply">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Dash0</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1270eeb-b0d8-46e0-9eb4-0f4d24794e51">Enterprise Solutions Engineer - Munich</a> 🌐</td>
-<td>Remote — Germany, Netherlands</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/dash0/3b237bd4-a2e2-496e-bab2-5d74a03ed638/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>

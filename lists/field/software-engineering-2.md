@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**758 open roles.** 538 in the United States & Canada · 220 elsewhere in the world.
+**749 open roles.** 532 in the United States & Canada · 217 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -939,48 +939,6 @@
 <td align="center"><a href="https://jobs.workable.com/view/c5TVTYhBNSojWXqva8Qjuh/p-%26-c-technologist-in-acheson-at-altalink">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/fac296e5-23d1-4f7d-ae3b-9d6bfb4b224c">Site Engineer</a></td>
-<td>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014438146-site-engineer?oga=true">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Forgen</strong></td>
-<td><a href="https://trueinterview.io/jobs/b45513db-ff55-408b-bf3e-a9f9043d1a05">Project Engineer</a></td>
-<td>Baton Rouge, Louisiana<br/>Houston, Texas<br/>Dallas, Texas<br/>+2 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/forgen/jobs/5203382007">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/ffbb06c7-faae-482b-a633-298116b1a19c">Automation &amp; Controls Engineer, Solar (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8677412002?gh_jid=8677412002">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Dash0</strong></td>
-<td><a href="https://trueinterview.io/jobs/309b3be4-b7f2-48ad-8678-c60b48756eb8">Enterprise Solutions Engineer - West Coast</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/dash0/13d63357-a0d4-4829-8d06-eef372f62960/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bc348a9c-0a11-4f1d-aad5-0f34791b9bae">Enterprise Solutions Engineer - East Coast</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/dash0/288244ba-0623-47f5-8d7c-de3cb0590a49/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff52bd8d-95e3-4d36-bcf9-f05ce4ece93b">Full-Stack Engineer, ChatGPT Education  &amp; Learning</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/ef828b89-41ed-4cde-96a9-94ffe5770d4c/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -993,6 +951,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Clera</strong></td>
+<td><a href="https://trueinterview.io/jobs/f55c652a-4739-4b02-a9d2-89b1e7444b76">Entry-Level Robot Learning Engineer</a></td>
+<td>Munich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/clera/0fe56373-a3d1-48ee-ba8a-f4faeffa37f7/application">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>CABLE</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a7d6ff3-ec88-4101-970b-9022db0ed3fa">CABLE / Software Engineer (early team) / Sydney, Australia (ON-SITE) / Full-time /</a></td>
@@ -2504,34 +2469,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>England<br/>Portugal<br/>Spain<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/docker/4bda5b22-8cd9-49a8-8ba3-8fc456eea2bd/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Acclaro</strong></td>
-<td><a href="https://trueinterview.io/jobs/654e3f18-2dfe-400a-8799-4d18a4deeff2">Freelance Mobile App Tester (Remote, Austria) | No Experience Required</a></td>
-<td>Galway, County Galway, Ireland<br/>Cork, County Cork, Ireland<br/>Dublin, County Dublin, Ireland<br/>+9 more</td>
-<td align="center"><a href="https://jobs.workable.com/view/vbX8nN8eZxFuk4WH9P15nz/freelance-mobile-app-tester-(remote%2C-austria)-%7C-no-experience-required-in-innsbruck-at-acclaro">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/f412b76d-10ac-4145-801a-6656f6aeb555">Field Security Specialist (Cyber Security Solutions Engineer)</a></td>
-<td>Dublin, Ireland</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/8ee5d640-de2c-4004-8857-210ef8ec3177/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Dash0</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1270eeb-b0d8-46e0-9eb4-0f4d24794e51">Enterprise Solutions Engineer - Munich</a> 🌐</td>
-<td>Remote — Germany, Netherlands</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/dash0/3b237bd4-a2e2-496e-bab2-5d74a03ed638/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ed1bbc1e-9e20-4b10-898b-8928a35dd5d5">Commercial Solutions Engineer - UK</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/dash0/c54c629d-91db-4f21-817c-17cc188c221f/application">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**66 open roles.** 40 in the United States & Canada · 26 elsewhere in the world.
+**64 open roles.** 39 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -290,13 +290,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8697063002?gh_jid=8697063002">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/eca40988-809e-4d89-8d87-92d3bb2606ad">GNC Engineer - Embedded Controls, AI Satellites (Starmind)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8677846002?gh_jid=8677846002">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -483,13 +476,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Stockholm</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lovable/8dd92c40-b45d-41b2-ae6b-1680b0a05d92/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ci&amp;t</strong></td>
-<td><a href="https://trueinterview.io/jobs/e3172daa-4f17-4949-a1b5-2076dae4aa10">[Job 30458] AI Engineer (Dev Master) iOS /Android</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://jobs.lever.co/ciandt/93e62a17-6b5e-42b3-8973-5607bffc3c14/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>

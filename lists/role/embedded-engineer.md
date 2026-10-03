@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**18 open roles.** 17 in the United States & Canada · 1 elsewhere in the world.
+**17 open roles.** 16 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -128,13 +128,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Diego, CA<br/>Foster City, CA</td>
 <td align="center"><a href="https://jobs.lever.co/zoox/082ed20c-b8e1-4b1c-9c22-4738ad94055d/apply">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/146f2ddb-21b8-450f-92b0-74d0f4b7d514">Embedded Software Engineer - MCU Platforms</a></td>
-<td>Foster City, CA</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/4c16c18c-18c0-433c-bc21-8bd72824a1d9/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>

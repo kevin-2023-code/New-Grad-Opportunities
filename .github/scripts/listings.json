@@ -6,9 +6,88 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-03T17:10:22.555Z",
-  "count": 1677,
+  "listingsChangedAt": "2026-10-03T20:56:45.824Z",
+  "count": 1659,
   "listings": [
+    {
+      "id": "52aa8050-ded9-4cea-ba44-1134b6eed982",
+      "company": "Higgsfield",
+      "title": "CX Graphic Designer",
+      "locations": [
+        "Almaty, Kazakhstan"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/higgsfieldai/da3e45be-411f-4d29-9eb6-b87fed38d5c8/application",
+      "url": "https://trueinterview.io/jobs/52aa8050-ded9-4cea-ba44-1134b6eed982",
+      "postedAt": "2026-10-03T19:09:07.000Z",
+      "updatedAt": "2026-10-03T19:09:07.000Z"
+    },
+    {
+      "id": "9d04f414-5fef-4ae6-93d8-c49c6dd67187",
+      "company": "Clera",
+      "title": "Data Scientist, Raw Talent Hire",
+      "locations": [
+        "Berlin"
+      ],
+      "cities": [
+        "Berlin"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/clera/d1520952-3c0a-4b7f-8f5e-cb4accce4a5f/application",
+      "url": "https://trueinterview.io/jobs/9d04f414-5fef-4ae6-93d8-c49c6dd67187",
+      "postedAt": "2026-10-03T17:13:46.000Z",
+      "updatedAt": "2026-10-03T17:13:46.000Z"
+    },
+    {
+      "id": "f55c652a-4739-4b02-a9d2-89b1e7444b76",
+      "company": "Clera",
+      "title": "Entry-Level Robot Learning Engineer",
+      "locations": [
+        "Munich"
+      ],
+      "cities": [
+        "Munich"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/clera/0fe56373-a3d1-48ee-ba8a-f4faeffa37f7/application",
+      "url": "https://trueinterview.io/jobs/f55c652a-4739-4b02-a9d2-89b1e7444b76",
+      "postedAt": "2026-10-03T17:05:23.000Z",
+      "updatedAt": "2026-10-03T17:05:23.000Z"
+    },
     {
       "id": "0e9fa695-3b82-44a1-a596-725ab9cd999e",
       "company": "Imentor",
@@ -43699,570 +43778,6 @@
       "url": "https://trueinterview.io/jobs/cf0bc505-9c81-4ed0-9f46-a6d6e8d53ec7",
       "postedAt": "2026-08-04T21:00:03.000Z",
       "updatedAt": "2026-08-04T21:00:03.000Z"
-    },
-    {
-      "id": "772ee2aa-0768-4b20-bab3-1544c418c0c5",
-      "company": "Brafton",
-      "title": "Remote Designer/Illustrator (Brazil)",
-      "locations": [
-        "São Paulo"
-      ],
-      "cities": [
-        "São Paulo"
-      ],
-      "countries": [
-        "Brazil"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/brafton/7603be92-c93a-430e-809b-4a49395187e8/apply",
-      "url": "https://trueinterview.io/jobs/772ee2aa-0768-4b20-bab3-1544c418c0c5",
-      "postedAt": "2026-08-04T20:47:17.000Z",
-      "updatedAt": "2026-08-04T20:47:17.000Z"
-    },
-    {
-      "id": "fac296e5-23d1-4f7d-ae3b-9d6bfb4b224c",
-      "company": "Abbvie",
-      "title": "Site Engineer",
-      "locations": [
-        "North Chicago, IL, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Site Reliability Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990014438146-site-engineer?oga=true",
-      "url": "https://trueinterview.io/jobs/fac296e5-23d1-4f7d-ae3b-9d6bfb4b224c",
-      "postedAt": "2026-08-04T20:21:26.000Z",
-      "updatedAt": "2026-08-04T20:21:26.000Z"
-    },
-    {
-      "id": "b45513db-ff55-408b-bf3e-a9f9043d1a05",
-      "company": "Forgen",
-      "title": "Project Engineer",
-      "locations": [
-        "Baton Rouge, Louisiana",
-        "Houston, Texas",
-        "Dallas, Texas",
-        "Louisiana",
-        "Texas"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/forgen/jobs/5203382007",
-      "url": "https://trueinterview.io/jobs/b45513db-ff55-408b-bf3e-a9f9043d1a05",
-      "postedAt": "2026-08-04T20:06:45.000Z",
-      "updatedAt": "2026-08-04T20:06:45.000Z"
-    },
-    {
-      "id": "a0915c77-898c-483b-a41f-57395a551def",
-      "company": "Monumental Sports & Entertainment",
-      "title": "Basketball Data Analyst (Mystics)",
-      "locations": [
-        "Washington, DC 20032",
-        "MedStar Health Performance Center (MHPC/ESA)"
-      ],
-      "cities": [
-        "Washington, DC"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/monumentalsports/jobs/5167643007",
-      "url": "https://trueinterview.io/jobs/a0915c77-898c-483b-a41f-57395a551def",
-      "postedAt": "2026-08-04T20:02:21.000Z",
-      "updatedAt": "2026-08-04T20:02:21.000Z"
-    },
-    {
-      "id": "34d71858-31e0-4fc8-8ab3-a3c620f4753e",
-      "company": "Velo3d",
-      "title": "Hardware Engineering Technician",
-      "locations": [
-        "Fremont, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/velo3d/e89db5d5-4ff6-4d46-9936-4c10f942ff9e/apply",
-      "url": "https://trueinterview.io/jobs/34d71858-31e0-4fc8-8ab3-a3c620f4753e",
-      "postedAt": "2026-08-04T19:59:40.000Z",
-      "updatedAt": "2026-08-04T19:59:40.000Z"
-    },
-    {
-      "id": "eca40988-809e-4d89-8d87-92d3bb2606ad",
-      "company": "Spacex",
-      "title": "GNC Engineer - Embedded Controls, AI Satellites (Starmind)",
-      "locations": [
-        "Bastrop, TX"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8677846002?gh_jid=8677846002",
-      "url": "https://trueinterview.io/jobs/eca40988-809e-4d89-8d87-92d3bb2606ad",
-      "postedAt": "2026-08-04T19:38:56.000Z",
-      "updatedAt": "2026-08-04T19:38:56.000Z"
-    },
-    {
-      "id": "654e3f18-2dfe-400a-8799-4d18a4deeff2",
-      "company": "Acclaro",
-      "title": "Freelance Mobile App Tester (Remote, Austria) | No Experience Required",
-      "locations": [
-        "Innsbruck, Tyrol, Austria",
-        "Salzburg, Salzburg, Austria",
-        "Graz, Styria, Austria",
-        "Vienna, Vienna, Austria",
-        "Austria",
-        "Ennis, County Clare, Ireland",
-        "Galway, County Galway, Ireland",
-        "Limerick, County Limerick, Ireland",
-        "Cork, County Cork, Ireland",
-        "Dublin, County Dublin, Ireland",
-        "Ireland",
-        "Linz, Upper Austria, Austria"
-      ],
-      "cities": [
-        "Galway",
-        "Cork",
-        "Dublin"
-      ],
-      "countries": [
-        "Ireland"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.workable.com/view/vbX8nN8eZxFuk4WH9P15nz/freelance-mobile-app-tester-(remote%2C-austria)-%7C-no-experience-required-in-innsbruck-at-acclaro",
-      "url": "https://trueinterview.io/jobs/654e3f18-2dfe-400a-8799-4d18a4deeff2",
-      "postedAt": "2026-08-04T19:36:12.000Z",
-      "updatedAt": "2026-08-04T19:36:12.000Z"
-    },
-    {
-      "id": "e3172daa-4f17-4949-a1b5-2076dae4aa10",
-      "company": "Ci&t",
-      "title": "[Job 30458] AI Engineer (Dev Master) iOS /Android",
-      "locations": [
-        "Brazil"
-      ],
-      "cities": [],
-      "countries": [
-        "Brazil"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/ciandt/93e62a17-6b5e-42b3-8973-5607bffc3c14/apply",
-      "url": "https://trueinterview.io/jobs/e3172daa-4f17-4949-a1b5-2076dae4aa10",
-      "postedAt": "2026-08-04T19:19:27.000Z",
-      "updatedAt": "2026-08-04T19:19:27.000Z"
-    },
-    {
-      "id": "18ceffd5-e813-4cc0-a9c2-6debc18099c5",
-      "company": "Layup Parts",
-      "title": "Robotics Engineer",
-      "locations": [
-        "Huntington Beach, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/layup/226baa91-118d-4df3-bdca-2932f8d5cfee/apply",
-      "url": "https://trueinterview.io/jobs/18ceffd5-e813-4cc0-a9c2-6debc18099c5",
-      "postedAt": "2026-08-04T19:00:02.000Z",
-      "updatedAt": "2026-08-04T19:00:02.000Z"
-    },
-    {
-      "id": "ffbb06c7-faae-482b-a633-298116b1a19c",
-      "company": "Spacex",
-      "title": "Automation & Controls Engineer, Solar (Starlink)",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8677412002?gh_jid=8677412002",
-      "url": "https://trueinterview.io/jobs/ffbb06c7-faae-482b-a633-298116b1a19c",
-      "postedAt": "2026-08-04T18:58:16.000Z",
-      "updatedAt": "2026-08-04T18:58:16.000Z"
-    },
-    {
-      "id": "1379da27-4089-4ff4-aa03-2e7314afac35",
-      "company": "Layup Parts",
-      "title": "Machine Learning Engineer",
-      "locations": [
-        "Huntington Beach, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/layup/024d2772-e251-4cdf-9b12-0cd919390b8e/apply",
-      "url": "https://trueinterview.io/jobs/1379da27-4089-4ff4-aa03-2e7314afac35",
-      "postedAt": "2026-08-04T18:53:30.000Z",
-      "updatedAt": "2026-08-04T18:53:30.000Z"
-    },
-    {
-      "id": "00a34072-dc96-47dd-827a-9a31aa06d929",
-      "company": "Fluidstack",
-      "title": "Hardware Operator",
-      "locations": [
-        "Lubbock, TX",
-        "Buffalo, NY",
-        "New Lebanon, IN",
-        "River Bend, LA",
-        "Barber Lake, TX"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/fluidstack/c1dedbcb-c729-42bf-b90e-e97c2cead3cd/application",
-      "url": "https://trueinterview.io/jobs/00a34072-dc96-47dd-827a-9a31aa06d929",
-      "postedAt": "2026-08-04T18:50:22.000Z",
-      "updatedAt": "2026-08-04T18:50:22.000Z"
-    },
-    {
-      "id": "f412b76d-10ac-4145-801a-6656f6aeb555",
-      "company": "Openai",
-      "title": "Field Security Specialist (Cyber Security Solutions Engineer)",
-      "locations": [
-        "Dublin, Ireland"
-      ],
-      "cities": [
-        "Dublin"
-      ],
-      "countries": [
-        "Ireland"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/openai/8ee5d640-de2c-4004-8857-210ef8ec3177/application",
-      "url": "https://trueinterview.io/jobs/f412b76d-10ac-4145-801a-6656f6aeb555",
-      "postedAt": "2026-08-04T18:36:36.000Z",
-      "updatedAt": "2026-08-04T18:36:36.000Z"
-    },
-    {
-      "id": "1070992a-ff5e-4a07-b314-11dda9de704d",
-      "company": "Zoox",
-      "title": "Mechanical Design Engineer - Sensor Cleaning",
-      "locations": [
-        "Foster City, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/zoox/5027566b-0449-4f0b-8ebc-6b2205799723/apply",
-      "url": "https://trueinterview.io/jobs/1070992a-ff5e-4a07-b314-11dda9de704d",
-      "postedAt": "2026-08-04T18:28:33.000Z",
-      "updatedAt": "2026-08-04T18:28:33.000Z"
-    },
-    {
-      "id": "309b3be4-b7f2-48ad-8678-c60b48756eb8",
-      "company": "Dash0",
-      "title": "Enterprise Solutions Engineer - West Coast",
-      "locations": [
-        "United States - remote"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/dash0/13d63357-a0d4-4829-8d06-eef372f62960/application",
-      "url": "https://trueinterview.io/jobs/309b3be4-b7f2-48ad-8678-c60b48756eb8",
-      "postedAt": "2026-08-04T18:01:24.000Z",
-      "updatedAt": "2026-08-04T18:01:24.000Z"
-    },
-    {
-      "id": "bc348a9c-0a11-4f1d-aad5-0f34791b9bae",
-      "company": "Dash0",
-      "title": "Enterprise Solutions Engineer - East Coast",
-      "locations": [
-        "United States - remote"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/dash0/288244ba-0623-47f5-8d7c-de3cb0590a49/application",
-      "url": "https://trueinterview.io/jobs/bc348a9c-0a11-4f1d-aad5-0f34791b9bae",
-      "postedAt": "2026-08-04T18:00:56.000Z",
-      "updatedAt": "2026-08-04T18:00:56.000Z"
-    },
-    {
-      "id": "b1270eeb-b0d8-46e0-9eb4-0f4d24794e51",
-      "company": "Dash0",
-      "title": "Enterprise Solutions Engineer - Munich",
-      "locations": [
-        "Munich - Office",
-        "Berlin",
-        "EMEA - Remote",
-        "Amsterdam"
-      ],
-      "cities": [
-        "Berlin",
-        "Amsterdam"
-      ],
-      "countries": [
-        "Germany",
-        "Netherlands"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/dash0/3b237bd4-a2e2-496e-bab2-5d74a03ed638/application",
-      "url": "https://trueinterview.io/jobs/b1270eeb-b0d8-46e0-9eb4-0f4d24794e51",
-      "postedAt": "2026-08-04T17:57:35.000Z",
-      "updatedAt": "2026-08-04T17:57:35.000Z"
-    },
-    {
-      "id": "ed1bbc1e-9e20-4b10-898b-8928a35dd5d5",
-      "company": "Dash0",
-      "title": "Commercial Solutions Engineer - UK",
-      "locations": [
-        "London"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/dash0/c54c629d-91db-4f21-817c-17cc188c221f/application",
-      "url": "https://trueinterview.io/jobs/ed1bbc1e-9e20-4b10-898b-8928a35dd5d5",
-      "postedAt": "2026-08-04T17:44:50.000Z",
-      "updatedAt": "2026-08-04T17:44:50.000Z"
-    },
-    {
-      "id": "146f2ddb-21b8-450f-92b0-74d0f4b7d514",
-      "company": "Zoox",
-      "title": "Embedded Software Engineer - MCU Platforms",
-      "locations": [
-        "Foster City, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Embedded Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/zoox/4c16c18c-18c0-433c-bc21-8bd72824a1d9/apply",
-      "url": "https://trueinterview.io/jobs/146f2ddb-21b8-450f-92b0-74d0f4b7d514",
-      "postedAt": "2026-08-04T17:23:23.000Z",
-      "updatedAt": "2026-08-04T17:23:23.000Z"
-    },
-    {
-      "id": "ff52bd8d-95e3-4d36-bcf9-f05ce4ece93b",
-      "company": "Openai",
-      "title": "Full-Stack Engineer, ChatGPT Education  & Learning",
-      "locations": [
-        "San Francisco"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/openai/ef828b89-41ed-4cde-96a9-94ffe5770d4c/application",
-      "url": "https://trueinterview.io/jobs/ff52bd8d-95e3-4d36-bcf9-f05ce4ece93b",
-      "postedAt": "2026-08-04T17:13:29.000Z",
-      "updatedAt": "2026-08-04T17:13:29.000Z"
-    },
-    {
-      "id": "2bc2e798-0a3e-4594-a672-9a0ceeccf37f",
-      "company": "Fonio Gmbh",
-      "title": "UI/UX Designer",
-      "locations": [
-        "Vienna"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/fonio/3e70ec87-eee5-4e6b-b3a5-03fe4d4cd53c/application",
-      "url": "https://trueinterview.io/jobs/2bc2e798-0a3e-4594-a672-9a0ceeccf37f",
-      "postedAt": "2026-08-04T17:11:13.000Z",
-      "updatedAt": "2026-08-04T17:11:13.000Z"
     }
   ]
 }

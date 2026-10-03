@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**367 open roles.** 336 in the United States & Canada · 31 elsewhere in the world.
+**363 open roles.** 332 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2339,34 +2339,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cf0bc505-9c81-4ed0-9f46-a6d6e8d53ec7">Reliability Engineer</a></td>
 <td>Irvine, CA, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014439006-reliability-engineer?oga=true">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Velo3d</strong></td>
-<td><a href="https://trueinterview.io/jobs/34d71858-31e0-4fc8-8ab3-a3c620f4753e">Hardware Engineering Technician</a></td>
-<td>Fremont, CA</td>
-<td align="center"><a href="https://jobs.lever.co/velo3d/e89db5d5-4ff6-4d46-9936-4c10f942ff9e/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Layup Parts</strong></td>
-<td><a href="https://trueinterview.io/jobs/18ceffd5-e813-4cc0-a9c2-6debc18099c5">Robotics Engineer</a></td>
-<td>Huntington Beach, CA</td>
-<td align="center"><a href="https://jobs.lever.co/layup/226baa91-118d-4df3-bdca-2932f8d5cfee/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Zoox</strong></td>
-<td><a href="https://trueinterview.io/jobs/1070992a-ff5e-4a07-b314-11dda9de704d">Mechanical Design Engineer - Sensor Cleaning</a></td>
-<td>Foster City, CA</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/5027566b-0449-4f0b-8ebc-6b2205799723/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/146f2ddb-21b8-450f-92b0-74d0f4b7d514">Embedded Software Engineer - MCU Platforms</a></td>
-<td>Foster City, CA</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/4c16c18c-18c0-433c-bc21-8bd72824a1d9/apply">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 </tbody>

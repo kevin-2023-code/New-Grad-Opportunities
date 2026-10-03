@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**106 open roles.** 78 in the United States & Canada · 28 elsewhere in the world.
+**105 open roles.** 78 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -576,6 +576,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Higgsfield</strong></td>
+<td><a href="https://trueinterview.io/jobs/52aa8050-ded9-4cea-ba44-1134b6eed982">CX Graphic Designer</a></td>
+<td>Almaty, Kazakhstan</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/higgsfieldai/da3e45be-411f-4d29-9eb6-b87fed38d5c8/application">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Moxie</strong></td>
 <td><a href="https://trueinterview.io/jobs/419e2958-b4d3-4f73-8e57-fb9e5e55e12c">Events Graphic Designer (PH)</a> 🌐</td>
 <td>Remote</td>
@@ -755,20 +762,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/908c1a47-3cbd-48aa-95bf-b3c7f97c5122">Motion Designer, Indonesia (6-month Contract)</a></td>
 <td>Jakarta, Jakarta, Indonesia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Canva/6000000001284595-motion-designer-indonesia-6-month-contract-?oga=true">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Brafton</strong></td>
-<td><a href="https://trueinterview.io/jobs/772ee2aa-0768-4b20-bab3-1544c418c0c5">Remote Designer/Illustrator (Brazil)</a></td>
-<td>São Paulo</td>
-<td align="center"><a href="https://jobs.lever.co/brafton/7603be92-c93a-430e-809b-4a49395187e8/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fonio Gmbh</strong></td>
-<td><a href="https://trueinterview.io/jobs/2bc2e798-0a3e-4594-a672-9a0ceeccf37f">UI/UX Designer</a></td>
-<td>Vienna</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fonio/3e70ec87-eee5-4e6b-b3a5-03fe4d4cd53c/application">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 </tbody>

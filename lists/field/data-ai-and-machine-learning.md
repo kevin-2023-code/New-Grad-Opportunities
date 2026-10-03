@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**282 open roles.** 185 in the United States & Canada · 97 elsewhere in the world.
+**279 open roles.** 182 in the United States & Canada · 97 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1291,27 +1291,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.lever.co/field-ai/ca422caa-46b7-4ede-8116-e85909bdadbb/apply">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Monumental Sports &amp; Entertainment</strong></td>
-<td><a href="https://trueinterview.io/jobs/a0915c77-898c-483b-a41f-57395a551def">Basketball Data Analyst (Mystics)</a></td>
-<td>Washington, DC 20032<br/>MedStar Health Performance Center (MHPC/ESA)</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/monumentalsports/jobs/5167643007">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/eca40988-809e-4d89-8d87-92d3bb2606ad">GNC Engineer - Embedded Controls, AI Satellites (Starmind)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8677846002?gh_jid=8677846002">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Layup Parts</strong></td>
-<td><a href="https://trueinterview.io/jobs/1379da27-4089-4ff4-aa03-2e7314afac35">Machine Learning Engineer</a></td>
-<td>Huntington Beach, CA</td>
-<td align="center"><a href="https://jobs.lever.co/layup/024d2772-e251-4cdf-9b12-0cd919390b8e/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1324,6 +1303,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Clera</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d04f414-5fef-4ae6-93d8-c49c6dd67187">Data Scientist, Raw Talent Hire</a></td>
+<td>Berlin</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/clera/d1520952-3c0a-4b7f-8f5e-cb4accce4a5f/application">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Quantum</strong></td>
 <td><a href="https://trueinterview.io/jobs/977dd633-6407-4d12-bd96-8af6683a1aaf">Graduate Commercial Insights Analyst</a></td>
@@ -1995,13 +1981,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.lever.co/weloglobal/1af55554-dad4-48ad-97ca-6550fab8cf4c/apply">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ci&amp;t</strong></td>
-<td><a href="https://trueinterview.io/jobs/e3172daa-4f17-4949-a1b5-2076dae4aa10">[Job 30458] AI Engineer (Dev Master) iOS /Android</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://jobs.lever.co/ciandt/93e62a17-6b5e-42b3-8973-5607bffc3c14/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>

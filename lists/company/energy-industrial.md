@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**30 open roles.** 25 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**28 open roles.** 23 in the United States & Canada · 5 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -176,20 +176,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e7f60cac-0cda-4a26-b7e4-fea1fc9c4386">P &amp; C Technologist</a></td>
 <td>Acheson, Alberta, Canada</td>
 <td align="center"><a href="https://jobs.workable.com/view/c5TVTYhBNSojWXqva8Qjuh/p-%26-c-technologist-in-acheson-at-altalink">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Layup Parts</strong></td>
-<td><a href="https://trueinterview.io/jobs/18ceffd5-e813-4cc0-a9c2-6debc18099c5">Robotics Engineer</a></td>
-<td>Huntington Beach, CA</td>
-<td align="center"><a href="https://jobs.lever.co/layup/226baa91-118d-4df3-bdca-2932f8d5cfee/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1379da27-4089-4ff4-aa03-2e7314afac35">Machine Learning Engineer</a></td>
-<td>Huntington Beach, CA</td>
-<td align="center"><a href="https://jobs.lever.co/layup/024d2772-e251-4cdf-9b12-0cd919390b8e/apply">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 </tbody>

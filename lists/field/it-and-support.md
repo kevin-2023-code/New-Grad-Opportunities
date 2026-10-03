@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**151 open roles.** 114 in the United States & Canada · 37 elsewhere in the world.
+**150 open roles.** 113 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -806,13 +806,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ca3b1fcf-9427-47df-b5e5-6d37eaa8c053">Technical Support Engineer (GPU Clusters) - US Weekends</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/togetherai/jobs/5202015007">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/00a34072-dc96-47dd-827a-9a31aa06d929">Hardware Operator</a></td>
-<td>Lubbock, TX<br/>Buffalo, NY<br/>New Lebanon, IN<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/c1dedbcb-c729-42bf-b90e-e97c2cead3cd/application">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 </tbody>

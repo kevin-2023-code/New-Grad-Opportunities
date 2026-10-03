@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**103 open roles.** 60 in the United States & Canada · 43 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**102 open roles.** 60 in the United States & Canada · 42 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -742,13 +742,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City<br/>São Paulo<br/>Santo Domingo<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/truelogic/486754ce-da04-4fa3-b712-bece86805de0/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ci&amp;t</strong></td>
-<td><a href="https://trueinterview.io/jobs/e3172daa-4f17-4949-a1b5-2076dae4aa10">[Job 30458] AI Engineer (Dev Master) iOS /Android</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://jobs.lever.co/ciandt/93e62a17-6b5e-42b3-8973-5607bffc3c14/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>

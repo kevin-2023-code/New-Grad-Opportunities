@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**37 open roles.** 28 in the United States & Canada · 9 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**36 open roles.** 27 in the United States & Canada · 9 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -204,13 +204,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cf0bc505-9c81-4ed0-9f46-a6d6e8d53ec7">Reliability Engineer</a></td>
 <td>Irvine, CA, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014439006-reliability-engineer?oga=true">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fac296e5-23d1-4f7d-ae3b-9d6bfb4b224c">Site Engineer</a></td>
-<td>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014438146-site-engineer?oga=true">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 </tbody>

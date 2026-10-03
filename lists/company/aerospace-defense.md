@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**133 open roles.** 122 in the United States & Canada · 11 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**131 open roles.** 120 in the United States & Canada · 11 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -855,20 +855,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4fd4a845-a299-4649-aeb0-68456bf841c2">Calibration Engineer</a></td>
 <td>Ashville, Ohio, United States<br/>Ashville, OH (Arsenal 1)<br/>Costa Mesa, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5201425007?gh_jid=5201425007">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/eca40988-809e-4d89-8d87-92d3bb2606ad">GNC Engineer - Embedded Controls, AI Satellites (Starmind)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8677846002?gh_jid=8677846002">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ffbb06c7-faae-482b-a633-298116b1a19c">Automation &amp; Controls Engineer, Solar (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8677412002?gh_jid=8677412002">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 </tbody>

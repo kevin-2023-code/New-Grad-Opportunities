@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**324 open roles.**
+**320 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2255,34 +2255,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ca3b1fcf-9427-47df-b5e5-6d37eaa8c053">Technical Support Engineer (GPU Clusters) - US Weekends</a> 🌐</td>
 <td>Remote — United States<br/>San Francisco, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/togetherai/jobs/5202015007">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Velo3d</strong></td>
-<td><a href="https://trueinterview.io/jobs/34d71858-31e0-4fc8-8ab3-a3c620f4753e">Hardware Engineering Technician</a></td>
-<td>Fremont, CA</td>
-<td align="center"><a href="https://jobs.lever.co/velo3d/e89db5d5-4ff6-4d46-9936-4c10f942ff9e/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Zoox</strong></td>
-<td><a href="https://trueinterview.io/jobs/1070992a-ff5e-4a07-b314-11dda9de704d">Mechanical Design Engineer - Sensor Cleaning</a></td>
-<td>Foster City, CA</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/5027566b-0449-4f0b-8ebc-6b2205799723/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/146f2ddb-21b8-450f-92b0-74d0f4b7d514">Embedded Software Engineer - MCU Platforms</a></td>
-<td>Foster City, CA</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/4c16c18c-18c0-433c-bc21-8bd72824a1d9/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff52bd8d-95e3-4d36-bcf9-f05ce4ece93b">Full-Stack Engineer, ChatGPT Education  &amp; Learning</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/ef828b89-41ed-4cde-96a9-94ffe5770d4c/application">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 </tbody>

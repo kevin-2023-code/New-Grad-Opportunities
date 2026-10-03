@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**30 open roles.** 21 in the United States & Canada · 9 elsewhere in the world.
+**31 open roles.** 21 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -176,6 +176,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Clera</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d04f414-5fef-4ae6-93d8-c49c6dd67187">Data Scientist, Raw Talent Hire</a></td>
+<td>Berlin</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/clera/d1520952-3c0a-4b7f-8f5e-cb4accce4a5f/application">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Desjardins</strong></td>
 <td><a href="https://trueinterview.io/jobs/59d4c64a-e8f2-4f66-b81c-2b78b8f520ff">Data Scientist, Credit Risk Quantification</a></td>

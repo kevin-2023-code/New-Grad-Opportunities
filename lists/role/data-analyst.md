@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**33 open roles.** 17 in the United States & Canada · 16 elsewhere in the world.
+**32 open roles.** 16 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -128,13 +128,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Vancouver, BC</td>
 <td align="center"><a href="https://jobs.lever.co/kabam/cbdbaeeb-1228-40c6-a022-48306ea63635/apply">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Monumental Sports &amp; Entertainment</strong></td>
-<td><a href="https://trueinterview.io/jobs/a0915c77-898c-483b-a41f-57395a551def">Basketball Data Analyst (Mystics)</a></td>
-<td>Washington, DC 20032<br/>MedStar Health Performance Center (MHPC/ESA)</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/monumentalsports/jobs/5167643007">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>

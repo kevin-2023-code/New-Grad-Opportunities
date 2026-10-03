@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**39 open roles.** 30 in the United States & Canada · 9 elsewhere in the world.
+**38 open roles.** 29 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -219,13 +219,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/applied/23c60c30-8329-443a-8297-73cfc529c103/application">Apply</a></td>
 <td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Layup Parts</strong></td>
-<td><a href="https://trueinterview.io/jobs/1379da27-4089-4ff4-aa03-2e7314afac35">Machine Learning Engineer</a></td>
-<td>Huntington Beach, CA</td>
-<td align="center"><a href="https://jobs.lever.co/layup/024d2772-e251-4cdf-9b12-0cd919390b8e/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
 </tr>
 </tbody>
 </table>
