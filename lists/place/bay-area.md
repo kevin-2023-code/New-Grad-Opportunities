@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**293 open roles.**
+**290 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2045,27 +2045,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bbed0cdf-60ae-41be-b035-4f1309c3f8c5">Software Engineer, Agent Productivity</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/0432731c-f229-476e-92b6-d53491e79096/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d62cbaf4-11c1-4ec9-8b13-475620287a8b">Mechanical Commissioning Project Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/0f58ac8e-6dd2-400d-9c34-29c62b7804b5/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Mariana Minerals</strong></td>
-<td><a href="https://trueinterview.io/jobs/bba9ad8f-bcd8-4c45-aa83-f40962917d4e">Materials Engineer</a></td>
-<td>San Francisco HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/marianaminerals/11b76624-5564-42a4-820b-16cc09563ff9/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf69c3a2-ae1d-48f2-949a-619c74aa3452">Electrical Design Engineer, Satellites Payload (Starlink)</a></td>
-<td>Palo Alto, CA<br/>Palo Alto - 1200</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8682184002?gh_jid=8682184002">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 </tbody>

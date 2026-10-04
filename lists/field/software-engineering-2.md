@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**642 open roles.** 464 in the United States & Canada · 178 elsewhere in the world.
+**639 open roles.** 462 in the United States & Canada · 177 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Qohash</strong></td>
+<td><a href="https://trueinterview.io/jobs/d72f327c-95c3-4c9d-92a2-2a1cca93d3b9">Solutions Engineer, Bilingual (En, Fr)</a> 🌐</td>
+<td>Remote — Canada</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/qohash/jobs/4722050005">Apply</a></td>
+<td align="center">12 Aug 2026</td>
+</tr>
 <tr>
 <td><strong>DoorDash</strong></td>
 <td><a href="https://trueinterview.io/jobs/fb85b357-29ce-4e47-b373-948929845747">PCB Layout Engineer - DoorDash Dot</a></td>
@@ -440,27 +447,6 @@
 <td><a href="https://trueinterview.io/jobs/bbed0cdf-60ae-41be-b035-4f1309c3f8c5">Software Engineer, Agent Productivity</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/0432731c-f229-476e-92b6-d53491e79096/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d62cbaf4-11c1-4ec9-8b13-475620287a8b">Mechanical Commissioning Project Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/0f58ac8e-6dd2-400d-9c34-29c62b7804b5/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Mariana Minerals</strong></td>
-<td><a href="https://trueinterview.io/jobs/bba9ad8f-bcd8-4c45-aa83-f40962917d4e">Materials Engineer</a></td>
-<td>San Francisco HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/marianaminerals/11b76624-5564-42a4-820b-16cc09563ff9/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf69c3a2-ae1d-48f2-949a-619c74aa3452">Electrical Design Engineer, Satellites Payload (Starlink)</a></td>
-<td>Palo Alto, CA<br/>Palo Alto - 1200</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8682184002?gh_jid=8682184002">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
@@ -1712,13 +1698,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ca52ac0a-6da2-4379-b371-8ad3c3d6c545">Detection Engineer</a></td>
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/f9df85c5-bcb0-4d75-9728-775e746a0383/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Docker</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6af3f20-5f65-4379-ba6b-0d48004651e6">Customer Experience Engineer, CXE-T (EMEA)</a></td>
-<td>England<br/>Portugal<br/>Spain<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/docker/4bda5b22-8cd9-49a8-8ba3-8fc456eea2bd/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 </tbody>

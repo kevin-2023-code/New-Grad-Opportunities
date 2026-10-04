@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**66 open roles.** 48 in the United States & Canada · 18 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**65 open roles.** 48 in the United States & Canada · 17 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -483,13 +483,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Tokyo, Japan</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/notion/5ea0ebb1-296a-4b41-b598-b2696d20d238/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Docker</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6af3f20-5f65-4379-ba6b-0d48004651e6">Customer Experience Engineer, CXE-T (EMEA)</a></td>
-<td>England<br/>Portugal<br/>Spain<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/docker/4bda5b22-8cd9-49a8-8ba3-8fc456eea2bd/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

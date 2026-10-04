@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**42 open roles.** 20 in the United States & Canada · 22 elsewhere in the world. A real classification that none of the other sectors covers.
+**41 open roles.** 20 in the United States & Canada · 21 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -315,13 +315,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>City, Country<br/>LATAM</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/oliver/jobs/8076959">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Genius Sports</strong></td>
-<td><a href="https://trueinterview.io/jobs/9282be33-3c04-4b88-af30-cca785dec1ae">Genius IQ Customer Support Analyst</a></td>
-<td>Medellín, Antioquia, Colombia<br/>Medellin, Colombia</td>
-<td align="center"><a href="https://boards.greenhouse.io/geniussports/jobs/7826269003?gh_jid=7826269003">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

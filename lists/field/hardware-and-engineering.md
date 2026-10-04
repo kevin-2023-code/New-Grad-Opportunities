@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**357 open roles.** 326 in the United States & Canada · 31 elsewhere in the world.
+**356 open roles.** 325 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2290,13 +2290,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/31c4deb0-5150-4680-8f13-cbe4a54d849f">Spacecraft Mechanical Engineer I</a></td>
 <td>Long Beach, CA<br/>RL Headquarters</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7827082003">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/99ffc246-f57e-4b3b-8e4a-09cc01c8f881">Manufacturing Engineer, Solar (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8678343002?gh_jid=8678343002">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 </tbody>

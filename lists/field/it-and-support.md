@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**141 open roles.** 105 in the United States & Canada · 36 elsewhere in the world.
+**139 open roles.** 105 in the United States & Canada · 34 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1000,20 +1000,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cb11f769-5c5a-4310-8a5b-bf0fefab9787">Automotive Technical Support Analyst</a></td>
 <td>Naucalpan de Juarez, MEX, Mexico</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67672">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Appcues</strong></td>
-<td><a href="https://trueinterview.io/jobs/7fe18fe1-03b3-4e1d-9a8d-122d41c49433">Customer Support Specialist (APAC Region)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/appcues-2/75c4551d-ec56-49b6-9843-47c51cd4e890/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Genius Sports</strong></td>
-<td><a href="https://trueinterview.io/jobs/9282be33-3c04-4b88-af30-cca785dec1ae">Genius IQ Customer Support Analyst</a></td>
-<td>Medellín, Antioquia, Colombia<br/>Medellin, Colombia</td>
-<td align="center"><a href="https://boards.greenhouse.io/geniussports/jobs/7826269003?gh_jid=7826269003">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 </tbody>

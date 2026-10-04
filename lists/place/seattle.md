@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**60 open roles.**
+**59 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -428,13 +428,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0f7c0629-f936-4a0c-b03a-dc111efcd483">Product Security Engineer - QRA</a></td>
 <td>Seattle, WA<br/>Boston, MA<br/>Foster City, CA<br/>+1 more</td>
 <td align="center"><a href="https://jobs.lever.co/zoox/896f37b9-80b7-4077-a937-e499151ce5f2/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/99ffc246-f57e-4b3b-8e4a-09cc01c8f881">Manufacturing Engineer, Solar (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8678343002?gh_jid=8678343002">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 </tbody>

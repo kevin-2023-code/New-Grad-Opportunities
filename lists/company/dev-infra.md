@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**51 open roles.** 33 in the United States & Canada · 18 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**50 open roles.** 33 in the United States & Canada · 17 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -377,13 +377,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f0c8f881-6f8e-4272-aab6-4f1d6bbf80e4">Software Engineer - Platform Productivity | Ireland | Remote</a> 🌐</td>
 <td>Remote — Ireland, Spain, United Kingdom</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/grafanalabs/jobs/6135793004">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Docker</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6af3f20-5f65-4379-ba6b-0d48004651e6">Customer Experience Engineer, CXE-T (EMEA)</a></td>
-<td>England<br/>Portugal<br/>Spain<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/docker/4bda5b22-8cd9-49a8-8ba3-8fc456eea2bd/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 </tbody>

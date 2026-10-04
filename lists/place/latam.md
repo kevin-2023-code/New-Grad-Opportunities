@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**44 open roles.**
+**43 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -318,13 +318,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/46c4e1fb-61dd-49f8-b85b-ab09f7f04ec1">Program Management | Jornada do Cliente</a></td>
 <td>São Paulo, Brazil<br/>C6 Bank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4720938005">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Genius Sports</strong></td>
-<td><a href="https://trueinterview.io/jobs/9282be33-3c04-4b88-af30-cca785dec1ae">Genius IQ Customer Support Analyst</a></td>
-<td>Medellín, Antioquia, Colombia<br/>Medellin, Colombia</td>
-<td align="center"><a href="https://boards.greenhouse.io/geniussports/jobs/7826269003?gh_jid=7826269003">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**642 open roles.** 464 in the United States & Canada · 178 elsewhere in the world.
+**639 open roles.** 462 in the United States & Canada · 177 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Samsung</strong></td>
+<td><a href="https://trueinterview.io/jobs/0bf6d102-b4f6-44ef-8a68-64842dd4eaa5">Engineer, CMP Engineering</a></td>
+<td>1530 FM 973 Taylor, TX, USA, United States of America</td>
+<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Engineer--CMP-Engineering_R121003-1">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>World View Enterprises Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/83201f01-4ab6-449a-9af0-d08c46c1b6de">Software Engineer</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a513d8d0-76c4-4e73-a318-ecbca91fc09d">Software Engineer- General Interest</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/uniswap/bb981823-b923-4f53-95ba-19d732c1caf3/application">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Qohash</strong></td>
-<td><a href="https://trueinterview.io/jobs/d72f327c-95c3-4c9d-92a2-2a1cca93d3b9">Solutions Engineer, Bilingual (En, Fr)</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/qohash/jobs/4722050005">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
