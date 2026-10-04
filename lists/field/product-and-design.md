@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**93 open roles.** 71 in the United States & Canada · 22 elsewhere in the world.
+**90 open roles.** 70 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -507,13 +507,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/outset/731d6783-7b2b-4d6a-bffd-ba7a5b51de44/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e10e893-10b2-4298-9532-f3559a71a1b4">Mechanical Designer - Buildings systems</a></td>
-<td>Ottawa, ON, Canada</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92586">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -665,20 +658,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>City, Country<br/>LATAM</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/oliver/jobs/8076959">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Sonicwall</strong></td>
-<td><a href="https://trueinterview.io/jobs/8bc7f035-b433-42be-9b2b-16481034a437">Product Design Researcher</a></td>
-<td>Bengaluru, Karnataka, India<br/>Bangalore</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sonicwall/jobs/8103476">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>C6 Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/46c4e1fb-61dd-49f8-b85b-ab09f7f04ec1">Program Management | Jornada do Cliente</a></td>
-<td>São Paulo, Brazil<br/>C6 Bank</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4720938005">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

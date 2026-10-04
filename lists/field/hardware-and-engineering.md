@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**356 open roles.** 325 in the United States & Canada · 31 elsewhere in the world.
+**353 open roles.** 324 in the United States & Canada · 29 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2285,13 +2285,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92504">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/31c4deb0-5150-4680-8f13-cbe4a54d849f">Spacecraft Mechanical Engineer I</a></td>
-<td>Long Beach, CA<br/>RL Headquarters</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7827082003">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2505,20 +2498,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5ffc311a-a291-4151-8197-c2cd0c421b0a">Field Application Engineer - Fixed term - Part-time - Hokkaido (copy)</a></td>
 <td>Hokkaido</td>
 <td align="center"><a href="https://jobs.lever.co/field-ai/56da4b01-aec7-4217-909a-3d08007c1401/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>The Exploration Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a17bae0-180f-4cb9-89d7-8749962ee2a3">Valve Development Engineer</a></td>
-<td>Bordeaux, France</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/d7e4eb95-b95d-4418-b5f1-c430411c9a27/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c0fd0131-6855-4fc5-9252-09202362f34d">[Nyx Earth] Component Manufacturing Engineer</a></td>
-<td>Bordeaux, France</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/b8bfbcb7-b641-4901-9b59-04529cc7d4cd/application">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
 </tbody>

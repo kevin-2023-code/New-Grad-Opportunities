@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**49 open roles.** 30 in the United States & Canada · 19 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**47 open roles.** 29 in the United States & Canada · 18 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -220,13 +220,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://boards.greenhouse.io/chime/jobs/8525323002?gh_jid=8525323002">Apply</a></td>
 <td align="center">5 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Prosper</strong></td>
-<td><a href="https://trueinterview.io/jobs/f97f9172-db62-45a3-8c53-1c0687ca47d1">Data Scientist, Credit Risk Analytics</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.lever.co/prosper/0ee025d7-922b-436e-92f5-0744ffa3097e/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -364,13 +357,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Moscow<br/>Almaty<br/>Armenia<br/>+5 more</td>
 <td align="center"><a href="https://jobs.lever.co/xsolla/8c0f5e96-f19f-4d7b-a2a2-a2531e925f02/apply">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>C6 Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/46c4e1fb-61dd-49f8-b85b-ab09f7f04ec1">Program Management | Jornada do Cliente</a></td>
-<td>São Paulo, Brazil<br/>C6 Bank</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4720938005">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

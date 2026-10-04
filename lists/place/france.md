@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**9 open roles.**
+**7 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -67,20 +67,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Toulouse, Occitanie</td>
 <td align="center"><a href="https://jobs.lever.co/loftorbital/46a90929-f3de-42f5-82f2-b1710de8f8c9/apply">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>The Exploration Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a17bae0-180f-4cb9-89d7-8749962ee2a3">Valve Development Engineer</a></td>
-<td>Bordeaux, France</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/d7e4eb95-b95d-4418-b5f1-c430411c9a27/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c0fd0131-6855-4fc5-9252-09202362f34d">[Nyx Earth] Component Manufacturing Engineer</a></td>
-<td>Bordeaux, France</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/b8bfbcb7-b641-4901-9b59-04529cc7d4cd/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

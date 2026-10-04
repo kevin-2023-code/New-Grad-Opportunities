@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**94 open roles.** 60 in the United States & Canada · 34 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**93 open roles.** 60 in the United States & Canada · 33 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -679,13 +679,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brazil<br/>Mexico</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/silver/3212c549-df46-4edc-b9d5-d25466a01174/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Truelogic</strong></td>
-<td><a href="https://trueinterview.io/jobs/eb832ac0-fb3a-4088-b4a9-6a48806346bb">Data QA Engineer – Enterprise Data | DR</a></td>
-<td>Mexico City<br/>São Paulo<br/>Santo Domingo<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/truelogic/486754ce-da04-4fa3-b712-bece86805de0/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

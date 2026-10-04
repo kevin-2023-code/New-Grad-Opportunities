@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**30 open roles.** 22 in the United States & Canada · 8 elsewhere in the world.
+**29 open roles.** 21 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -163,13 +163,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Oakville, Canada</td>
 <td align="center"><a href="https://jobs.lever.co/pelmorex/d3299ab7-014e-414d-a9e1-be27875af247/apply">Apply</a></td>
 <td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Prosper</strong></td>
-<td><a href="https://trueinterview.io/jobs/f97f9172-db62-45a3-8c53-1c0687ca47d1">Data Scientist, Credit Risk Analytics</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.lever.co/prosper/0ee025d7-922b-436e-92f5-0744ffa3097e/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

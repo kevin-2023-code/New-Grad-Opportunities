@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**248 open roles.** 164 in the United States & Canada · 84 elsewhere in the world.
+**247 open roles.** 164 in the United States & Canada · 83 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ambrook</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4ab6ce4-9cf5-4f54-9d83-f79a0904b373">Software Engineer, AI</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/ambrook/3b116b4f-d264-4ac4-92cb-deacdd7656ef/application">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Rebar</strong></td>
 <td><a href="https://trueinterview.io/jobs/43c4cf71-e063-4616-96b7-ccb5e451f242">Rebar / Software Engineers (Product, Applied AI, ML Infra, Data Platform) / ONSITE 5 days/week, New York City (union square area!) / Full-time / $150k–$260k + equity /</a></td>
@@ -1158,13 +1165,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/ostium/f4b646e5-cec6-4716-af52-ce9fa02ff6e2/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Prosper</strong></td>
-<td><a href="https://trueinterview.io/jobs/f97f9172-db62-45a3-8c53-1c0687ca47d1">Data Scientist, Credit Risk Analytics</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.lever.co/prosper/0ee025d7-922b-436e-92f5-0744ffa3097e/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1757,13 +1757,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Stockholm</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lovable/8dd92c40-b45d-41b2-ae6b-1680b0a05d92/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Truelogic</strong></td>
-<td><a href="https://trueinterview.io/jobs/eb832ac0-fb3a-4088-b4a9-6a48806346bb">Data QA Engineer – Enterprise Data | DR</a></td>
-<td>Mexico City<br/>São Paulo<br/>Santo Domingo<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/truelogic/486754ce-da04-4fa3-b712-bece86805de0/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>
