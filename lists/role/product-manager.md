@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**16 open roles.** 15 in the United States & Canada · 1 elsewhere in the world.
+**15 open roles.** 14 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -100,13 +100,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fanatics Collectibles</strong></td>
-<td><a href="https://trueinterview.io/jobs/dfdcea0d-6c40-4d39-97e9-e8b66911e0bf">Associate Product Manager, Trading Cards - Basketball</a></td>
-<td>Coppell, TX, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4373056009">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Netgear</strong></td>

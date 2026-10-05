@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**49 open roles.**
+**47 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -193,6 +193,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Ians</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb8f4ab8-bc43-468a-9f89-2e42c66adad2">Client Services Specialist</a></td>
+<td>Boston, MA<br/>Boston-Hybrid</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/ians/jobs/5225117007">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Coherent Corp.</strong></td>
 <td><a href="https://trueinterview.io/jobs/dc41881b-278d-46ef-a12e-b3a81c551de1">Process Engineer</a></td>
 <td>Woburn, MA, United States<br/>Sherman, TX, United States</td>
@@ -247,27 +254,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA<br/>Massachusetts</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4960444101">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Pryzm</strong></td>
-<td><a href="https://trueinterview.io/jobs/e886b845-2f54-4d6f-9275-e0bdaf675ede">Federal Data Analyst</a> 🛂</td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/pryzm/2c40f0bb-e559-49b3-9831-81d7484cc6dc/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8093b28-2ebb-4bcf-8fcf-fee7fe33a41b">IT Systems Engineer, Mobile Client Platform Engineer</a> 🌐</td>
-<td>Remote — United States<br/>Boston, MA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5396384008">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cargurus</strong></td>
-<td><a href="https://trueinterview.io/jobs/c376796f-4bcb-4efb-9fce-b7d3a6bbf36c">Application Security Engineer I</a></td>
-<td>Boston, Massachusetts, United States<br/>Boston (1001 Boylston Street)</td>
-<td align="center"><a href="https://careers.cargurus.com/us/en/job/8050976?gh_jid=8050976">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>

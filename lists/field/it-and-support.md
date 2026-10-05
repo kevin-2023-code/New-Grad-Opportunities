@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**134 open roles.** 102 in the United States & Canada · 32 elsewhere in the world.
+**129 open roles.** 100 in the United States & Canada · 29 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/da441dc1-ebb3-4edc-a518-dbe6dbade2da">Success Service Manager Graduate</a></td>
+<td>Westford, Massachusetts, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Westford-Massachusetts-United-States-of-America/Success-Service-Manager-Graduate_1215017-1">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Imentor</strong></td>
 <td><a href="https://trueinterview.io/jobs/0e9fa695-3b82-44a1-a596-725ab9cd999e">Salesforce Administrator</a></td>
@@ -417,10 +424,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Duda</strong></td>
-<td><a href="https://trueinterview.io/jobs/d36b7039-c53f-494a-9192-f86b16891b39">Technical Support Engineer</a></td>
-<td>Louisville, Colorado</td>
-<td align="center"><a href="https://www.duda.co/careers/7978377003?gh_jid=7978377003">Apply</a></td>
+<td><strong>Ians</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb8f4ab8-bc43-468a-9f89-2e42c66adad2">Client Services Specialist</a></td>
+<td>Boston, MA<br/>Boston-Hybrid</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/ians/jobs/5225117007">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
@@ -443,13 +450,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Jersey City, New Jersey, United States</td>
 <td align="center"><a href="https://jobs.workable.com/view/c6GoDuwfqvF3C86bBgc4Nb/help-desk-%26-iot-technician-in-jersey-city-at-beloved-community-%26-empowerment-academy-charter-schools">Apply</a></td>
 <td align="center">29 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Wisetack</strong></td>
-<td><a href="https://trueinterview.io/jobs/d2cbd5e8-aa00-4472-bfdb-5e166539d790">IT Support Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/wisetack/jobs/4727999005">Apply</a></td>
-<td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Vultr</strong></td>
@@ -492,20 +492,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/8vc/b497da63-0dd7-420f-ab79-cbe9682bdbd5/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lendingtree</strong></td>
-<td><a href="https://trueinterview.io/jobs/ffd92c4d-c4d3-46c6-aea3-cb4c29eeb5b6">Service Desk Analyst</a></td>
-<td>Charlotte, NC, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lendingtree/jobs/8155561">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Intelligent Technical Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/e64c745d-9c62-49b8-8b3f-c90d028522b4">System Administrator I Onsite (Sacramento, CA)</a></td>
-<td>Sacramento, CA<br/>Onsite</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/its/jobs/7906825003">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Vanta</strong></td>
@@ -898,13 +884,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Onhires</strong></td>
-<td><a href="https://trueinterview.io/jobs/c8d59fce-1b56-41fb-af59-0fd2a9ade5d2">Junior Network Automation / NOC Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/onhires/768cd15e-ccbc-4d0d-8060-974bbf138113/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Apply Digital</strong></td>
 <td><a href="https://trueinterview.io/jobs/e8a5239c-8d2d-45ff-a1ad-dad665869475">Service Desk Engineer (Weekend)</a></td>
 <td>Santiago<br/>Latin America</td>
@@ -917,20 +896,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore<br/>Hong Kong</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4727919005">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Megaport</strong></td>
-<td><a href="https://trueinterview.io/jobs/bc339912-6a8a-4268-894a-9a7c95f90d66">NOC Engineer</a></td>
-<td>Gurugram</td>
-<td align="center"><a href="https://jobs.lever.co/megaport/b826ffe7-6079-4b82-9a0d-d2919532cbc0/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Percona</strong></td>
-<td><a href="https://trueinterview.io/jobs/d48b5725-2d24-4a7b-96a7-dbd3f476d820">Jr. Service Desk Agent</a></td>
-<td>Mexico City<br/>South America<br/>Sao Paulo<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/percona/87c0e390-193c-4808-94e0-8f0f7d3720ba/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Spektrum</strong></td>

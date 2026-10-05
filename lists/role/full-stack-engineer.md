@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**22 open roles.** 14 in the United States & Canada · 8 elsewhere in the world.
+**19 open roles.** 12 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -67,13 +67,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Lm Studio</strong></td>
-<td><a href="https://trueinterview.io/jobs/c3dcd47e-cb88-4621-b984-3f8f6f96007a">Full Stack Software Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lm-studio/0a18f160-9671-43d0-91a3-f3d132db256f/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/8de8145e-4927-4fd3-9d98-1ffbe4b86e07">Full Stack Software Engineer, Data Platform (Starlink)</a></td>
 <td>Redmond, WA<br/>Hawthorne, CA, United States</td>
@@ -85,13 +78,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/49d00fc1-69ef-49d4-bebb-55b5cd823056">Full-Stack Software Engineer, Reinforcement Learning</a></td>
 <td>San Francisco, CA<br/>Singapore</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/hud/68f5236e-a80f-4d5c-aefc-cc7ceb44f686/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Physical Intelligence</strong></td>
-<td><a href="https://trueinterview.io/jobs/d567d24a-3f03-4496-8da8-e8351fa0a5bc">Fullstack Software Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/physicalintelligence/031e9b1e-6e58-4c81-b608-3cfda0514082/application">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
@@ -161,13 +147,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://www.interviewresources.app/careers">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Zenjob</strong></td>
-<td><a href="https://trueinterview.io/jobs/da03e3c2-42d3-4c9c-ac45-0f76f77da5b0">Full-Stack Engineer (f/m/d)</a></td>
-<td>Berlin</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/zenjob/cb4a5fc7-ee05-41f0-b07a-0d91403c3d8e/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Anaplan</strong></td>

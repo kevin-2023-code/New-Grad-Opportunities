@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**6 open roles.**
+**5 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Lehi, Utah<br/>Office - Lehi<br/>Office - Santa Clara<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8211966">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b28e47b5-edc9-4d36-9015-1e5dba94ec14">Associate Systems Engineer</a></td>
-<td>Salt Lake City, Utah<br/>Chicago, Illinois<br/>Raleigh, North Carolina<br/>+3 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8155361">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Goldman Sachs</strong></td>

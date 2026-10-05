@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**15 open roles.**
+**13 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -72,20 +72,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chicago, IL</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70286">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Pure Storage</strong></td>
-<td><a href="https://trueinterview.io/jobs/b28e47b5-edc9-4d36-9015-1e5dba94ec14">Associate Systems Engineer</a></td>
-<td>Chicago, Illinois<br/>Office - Chicago<br/>Raleigh, North Carolina<br/>+3 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8155361">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Jetsupport</strong></td>
-<td><a href="https://trueinterview.io/jobs/f085d0b6-b6c6-4b73-b1ae-a181eff2781c">Contract AI Data Engineer</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://jobs.lever.co/jetsupport/154759ba-a379-4862-b54b-aa3396873e4c/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Courtavenue</strong></td>

@@ -82,13 +82,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/eece1264-0ded-4d91-9bd3-f355d5861c48">Forward Deployed Engineer, Infrastructure Specialist (North America)</a></td>
-<td>Montreal, QC<br/>Toronto, ON<br/>Vancouver, BC<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4464f0c8-37e5-4b95-a0cd-b019d44d161d">Forward Deployed Engineer, Agentic Platform (West Coast)</a></td>
 <td>Montreal, QC<br/>San Francisco, CA<br/>Seattle, WA<br/>+11 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9/application">Apply</a></td>
@@ -113,6 +106,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1702e89a-268b-4cd1-9679-4ea6910df9fe">Développeur(euse) Mobile</a></td>
 <td>Montréal, QC<br/>Québec, QC</td>
 <td align="center"><a href="https://jobs.lever.co/mirego/11c8bea0-aea3-4d8a-b03f-a8ad0cc90752/apply">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d7b11fd9-f278-4702-8bd1-965a6469eeb9">Développeur(euse) logiciel Back-End / DevOps</a></td>
+<td>Montréal, QC<br/>Québec, QC</td>
+<td align="center"><a href="https://jobs.lever.co/mirego/50a2268a-ac83-4ff9-9952-f6c30486f192/apply">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>

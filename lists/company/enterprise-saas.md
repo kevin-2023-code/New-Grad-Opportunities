@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**75 open roles.** 51 in the United States & Canada · 24 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**66 open roles.** 45 in the United States & Canada · 21 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -200,13 +200,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Duda</strong></td>
-<td><a href="https://trueinterview.io/jobs/d36b7039-c53f-494a-9192-f86b16891b39">Technical Support Engineer</a></td>
-<td>Louisville, Colorado</td>
-<td align="center"><a href="https://www.duda.co/careers/7978377003?gh_jid=7978377003">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Everlaw</strong></td>
 <td><a href="https://trueinterview.io/jobs/68f23bcd-6565-4972-8533-7acfdf65caa2">Software Engineer I</a></td>
 <td>Oakland, California, United States</td>
@@ -214,46 +207,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Fieldwire</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2019118-c06d-4f2d-b2fa-78d40b0a9b0b">AI/ML Engineer</a></td>
-<td>San Francisco, CA (Hybrid) or United States (Remote)<br/>United States - Fieldwire</td>
-<td align="center"><a href="https://www.fieldwire.com/job/8746698002?gh_jid=8746698002">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Handshake</strong></td>
 <td><a href="https://trueinterview.io/jobs/124fd68b-5a56-4b86-a2a6-83d236754163">AI Policy Generalist - Remote US</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/handshake/9c7b3cad-3555-4400-b92d-106bade42c8e/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3c8a3ee-2ebf-4af9-8aca-9287bba690af">AI Systems Engineer (OCI/AI Infrastructure)</a></td>
-<td>Nashville, TN, United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/343962">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Handshake</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc533b6c-4548-47ee-8db7-351d01b2419b">AI Red Teamer, Cybersecurity</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/handshake/41629882-02cf-41c0-ba1c-5ae689183561/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Celonis</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1d9e0b5-01b2-40c7-8cc4-7b7148b2ef52">Transformation Engineer - Oracle</a></td>
-<td>New York, NY<br/>Redwood City, US, California<br/>New York, US, New York</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/7978327003?gh_jid=7978327003">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Checkr</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0fd02a7-d791-4690-81c3-84cefeaa7dba">Solutions Engineer</a></td>
-<td>Denver, Colorado, United States<br/>San Francisco, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/checkr/jobs/8154536">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>ServiceNow</strong></td>
@@ -478,32 +436,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>ZoomInfo</strong></td>
-<td><a href="https://trueinterview.io/jobs/aec5ef11-47ca-42e9-bc8e-b1f563ffbb8a">Software Engineer I - Salesforce</a></td>
-<td>Bengaluru, Karnataka, India<br/>Bangalore, India</td>
-<td align="center"><a href="https://www.zoominfo.com/careers?gh_jid=8759686002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Lightcast</strong></td>
 <td><a href="https://trueinterview.io/jobs/32535ba4-9b27-4225-8a01-98e532794008">Data Analyst(Bulgarian)</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://jobs.lever.co/economicmodeling/36e2eb9d-a7db-4268-a0b7-b26edc60de88/apply">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Highlevel</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3687a2f-44b4-4e0f-a3d9-8985c54f00f2">Graphic Designer I</a></td>
-<td>Mexico</td>
-<td align="center"><a href="https://jobs.lever.co/gohighlevel/b24ee798-08e9-4d83-b195-278e7d7cb6af/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/b2112e48-d1ef-49fb-a96b-b017c96b65d7">Network Developer (Physical Networking Operations)</a></td>
-<td>Israel</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/341591">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Creatoriq</strong></td>

@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**135 open roles.** 110 in the United States & Canada · 25 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**113 open roles.** 88 in the United States & Canada · 25 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -235,34 +235,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>EliseAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/fb336e7f-2341-4ec7-81c1-8465f748d0ae">GTM Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/eliseai/ff53b687-1943-4f54-9d09-66098c20db1a/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Krea</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef3d03d0-e4b7-40b1-86e9-4d2c5bcafc82">Product Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/krea/963516ac-e115-4f1f-b6a2-12532c83ba0a/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cursor</strong></td>
-<td><a href="https://trueinterview.io/jobs/dda39114-fb0a-4b2b-9172-4c695312d5b3">Software Engineer, ML Platform</a></td>
-<td>San Francisco, CA<br/>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cursor/167f0e93-6915-4d56-803a-be89d1441fb5/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/df9d0a1b-5a65-4ba3-9efc-26c393144597">People Research Data Scientist, AI Fairness &amp; Bias</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/cadb7c24-2aea-4b98-a793-65ae9388b5d6/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Parallel Web Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a73c15a-4bfe-40e9-9ef9-0873c5717e89">Deployed Engineer</a></td>
 <td>New York, NY<br/>San Francisco or Palo Alto<br/>New York, New York</td>
@@ -271,13 +243,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/eece1264-0ded-4d91-9bd3-f355d5861c48">Forward Deployed Engineer, Infrastructure Specialist (North America)</a></td>
-<td>Toronto, ON<br/>Vancouver, BC<br/>Ottawa, ON<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4464f0c8-37e5-4b95-a0cd-b019d44d161d">Forward Deployed Engineer, Agentic Platform (West Coast)</a></td>
 <td>San Francisco, CA<br/>Seattle, WA<br/>Los Angeles, CA<br/>+11 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9/application">Apply</a></td>
@@ -291,116 +256,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/f35f28ee-f690-4b3b-abaa-51ebea4a7a44">Forward Deployed Engineer, Sovereign AI</a></td>
-<td>Ottawa, ON<br/>Vancouver, BC<br/>Toronto, ON<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Field AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/2354ca62-392d-44ac-a2a1-dbc60fcc4424">Field Application Engineer - Temporary - Part time - Saline, MI</a></td>
 <td>Saline, MI</td>
 <td align="center"><a href="https://jobs.lever.co/field-ai/94bf09fd-ebd3-4b96-8c72-4139aad1405b/apply">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Mercor</strong></td>
-<td><a href="https://trueinterview.io/jobs/da19ece0-47db-46ef-b920-bd3862083bc9">Research Scientist, APEX Benchmarks</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/mercor/bebd78ce-5f12-46e9-a285-674e33838211/application">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/ace9bd4d-230f-44ef-a5a9-cac2b97c3d47">Field Application Engineer - Sulphur, LA - Temporary Part Time</a></td>
-<td>Sulphur, LA</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/18096724-a8b0-444b-b1db-6cb468d7e3b1/apply">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Mercor</strong></td>
-<td><a href="https://trueinterview.io/jobs/d10c4074-45f3-4fdb-8074-40e501048080">Software Engineer, Agents</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/mercor/f6035e89-f820-482c-9500-efb70226b134/application">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/af57b27b-5d52-4ee1-a1d6-25002ff968f3">Software Engineer, Frontier Data Products</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/mercor/2b1d7c4b-721b-4ed7-b61b-7bdceeaaa702/application">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lm Studio</strong></td>
-<td><a href="https://trueinterview.io/jobs/c3dcd47e-cb88-4621-b984-3f8f6f96007a">Full Stack Software Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lm-studio/0a18f160-9671-43d0-91a3-f3d132db256f/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/e24977db-984c-4883-a955-00da27e5f5b7">Field Application Engineer - Fenton, MI - Temporary Part Time</a></td>
-<td>Fenton, MI</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/cc64a4cb-5217-4be3-b05f-ba14004e54ba/apply">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Descript</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8bbe70e-0773-4965-9ffb-a71bde202a2d">Applied Research Scientist, AI Research</a></td>
-<td>San Francisco, CA<br/>Hybrid or Remote<br/>Remote</td>
-<td align="center"><a href="https://boards.greenhouse.io/descript/jobs/7967440003?gh_jid=7967440003">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8093b28-2ebb-4bcf-8fcf-fee7fe33a41b">IT Systems Engineer, Mobile Client Platform Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5396384008">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Bland</strong></td>
-<td><a href="https://trueinterview.io/jobs/de529977-837e-4d70-ae3c-879954be4248">Product Designer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/bland/25b88b58-c567-4675-b41f-1d94f00192c9/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/b01f01e7-6515-47f0-86f7-e01208c039c0">Software Engineer, AI accelerator Runtime</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/9248eab6-74e0-4940-98eb-ca09b17da532/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c2fb6940-8b21-4867-84db-33277e8e530a">Systems Software Engineer, Silicon Bringup</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/d1121575-a1a7-47c9-97e6-56c70f441143/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bb8ae630-1328-48d7-9bc4-7d30d590506e">Software Engineer, Model Runtime</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ce1b8fa8-7692-46ee-8b83-2eb81bd6f10f">Manufacturing Quality Engineer – Datacenter Infrastructure</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/ece054ea-ac75-4b8a-bdbf-5cdf19368312/application">Apply</a></td>
-<td align="center">23 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/eb61101d-b7c4-4868-ae9e-6447c346a3a7">BIM Designer &amp; Coordinator</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/ad6b55f9-fa63-4860-b852-d90592e49d1c/application">Apply</a></td>
-<td align="center">23 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>ElevenLabs</strong></td>
@@ -415,20 +275,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA<br/>New York, NY<br/>Austin, TX<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/835e6b2c-bf7a-41e8-a308-71ecf4adad07/application">Apply</a></td>
 <td align="center">22 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/b9329d40-5281-4e68-a9a8-0c9da6a751c0">Electrical Engineer, Actuator test infrastructure</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/3fa44620-142a-47fe-b098-92923064d2f5/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Physical Intelligence</strong></td>
-<td><a href="https://trueinterview.io/jobs/d567d24a-3f03-4496-8da8-e8351fa0a5bc">Fullstack Software Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/physicalintelligence/031e9b1e-6e58-4c81-b608-3cfda0514082/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Llamaindex</strong></td>

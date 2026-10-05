@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**65 open roles.** 48 in the United States & Canada · 17 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**55 open roles.** 42 in the United States & Canada · 13 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -165,13 +165,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Duda</strong></td>
-<td><a href="https://trueinterview.io/jobs/d36b7039-c53f-494a-9192-f86b16891b39">Technical Support Engineer</a></td>
-<td>Louisville, Colorado</td>
-<td align="center"><a href="https://www.duda.co/careers/7978377003?gh_jid=7978377003">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Mapbox</strong></td>
 <td><a href="https://trueinterview.io/jobs/1d2f9be2-ecff-4866-817d-7aa0d579e795">IT Administrator</a></td>
 <td>Mapbox US</td>
@@ -201,23 +194,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/eece1264-0ded-4d91-9bd3-f355d5861c48">Forward Deployed Engineer, Infrastructure Specialist (North America)</a></td>
-<td>Toronto, ON<br/>Vancouver, BC<br/>Ottawa, ON<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4464f0c8-37e5-4b95-a0cd-b019d44d161d">Forward Deployed Engineer, Agentic Platform (West Coast)</a></td>
 <td>San Francisco, CA<br/>Seattle, WA<br/>Los Angeles, CA<br/>+11 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f35f28ee-f690-4b3b-abaa-51ebea4a7a44">Forward Deployed Engineer, Sovereign AI</a></td>
-<td>Ottawa, ON<br/>Vancouver, BC<br/>Toronto, ON<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
@@ -228,32 +207,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Psiquantum</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2c6dec5-352e-44b4-ac3f-2e600c871ca2">Associate Characterization and Test Engineer</a></td>
-<td>Milpitas, California, United States</td>
-<td align="center"><a href="https://www.psiquantum.com/apply?gh_jid=7978842003">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Handshake</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc533b6c-4548-47ee-8db7-351d01b2419b">AI Red Teamer, Cybersecurity</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/handshake/41629882-02cf-41c0-ba1c-5ae689183561/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Trm Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/34e5f56b-66a2-4151-a459-5d60c97990a2">Marketing Technology Engineer</a></td>
 <td>Canada<br/>South America<br/>United Kingdom</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/trm-labs/b6ced85a-a8e1-4da7-b065-188edb77ca9e/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b871d891-fe28-48d2-96f6-4397023e6ec3">Customer Solutions Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/trm-labs/e8a7a3d5-938f-4d2b-b9d3-86765d8d1dd2/application">Apply</a></td>
-<td align="center">22 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Vanta</strong></td>
@@ -429,39 +387,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Megaport</strong></td>
-<td><a href="https://trueinterview.io/jobs/bc339912-6a8a-4268-894a-9a7c95f90d66">NOC Engineer</a></td>
-<td>Gurugram</td>
-<td align="center"><a href="https://jobs.lever.co/megaport/b826ffe7-6079-4b82-9a0d-d2919532cbc0/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Graphcore</strong></td>
-<td><a href="https://trueinterview.io/jobs/f30580a7-881c-454f-b384-8b7abca2a272">Software Engineer - Triton</a></td>
-<td>Bristol, UK<br/>Gdańsk, Pomeranian Voivodeship, Poland<br/>Poland</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8543115002">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Percona</strong></td>
 <td><a href="https://trueinterview.io/jobs/3f9284b2-46ce-4d31-9220-6af2b8f9ed0f">Software Developer in Test (Talent Pool)</a></td>
 <td>EMEA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/percona/8982df92-5be8-47db-9a6f-1b5b657cfda5/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Voodoo</strong></td>
-<td><a href="https://trueinterview.io/jobs/f69d1d5f-1a8f-458b-96cb-b145c1ebb907">Game Developer - Puzzle Games</a></td>
-<td>Istanbul</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/voodoo/f7681df7-5316-41ff-9fbb-0d39929e2e17/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Percona</strong></td>
-<td><a href="https://trueinterview.io/jobs/d48b5725-2d24-4a7b-96a7-dbd3f476d820">Jr. Service Desk Agent</a></td>
-<td>Mexico City<br/>South America<br/>Sao Paulo<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/percona/87c0e390-193c-4808-94e0-8f0f7d3720ba/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Creatoriq</strong></td>

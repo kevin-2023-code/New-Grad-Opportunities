@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**54 open roles.** 45 in the United States & Canada · 9 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**48 open roles.** 39 in the United States & Canada · 9 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -165,24 +165,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/badded16-cc62-4242-a352-1f10971ba6f1">Product Development Engineer - Automatic Transmission Hydraulic Components</a></td>
-<td>Livonia, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69244">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Zipline</strong></td>
 <td><a href="https://trueinterview.io/jobs/885bc73d-573e-4477-bc0b-be89ed8336a0">Solder Engineering Technician, Powertrain</a></td>
 <td>South San Francisco, California, USA<br/>Aviary - SSF</td>
 <td align="center"><a href="https://www.zipline.com/open-roles?gh_jid=7978932003">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/e6afe621-5a7f-4b2a-a877-25f05f4dde9a">Product Engineer</a></td>
-<td>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69238">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
@@ -200,13 +186,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f7057820-c210-4cfc-ad97-a3c5e6c50655">Software Engineer - C++ Core Data</a></td>
-<td>Foster City, CA</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/c2abc555-0105-4eda-b9c9-5c9ee28703e7/apply">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Glydways</strong></td>
 <td><a href="https://trueinterview.io/jobs/61c01050-b1ad-4a9d-b863-e28582877a39">Autonomy Software Engineer, Integration</a></td>
 <td>Richmond, CA<br/>Richmond Office</td>
@@ -215,27 +194,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/d283d9a9-cf4a-40f0-98a2-112de4827505">Forward Model Quality Engineer</a></td>
-<td>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68346">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/af0bfcb3-81cc-4b9e-8252-da40d93fe94f">Release Train Engineer</a></td>
-<td>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66570">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c1ce13d8-d1cf-4331-918b-87f1e598f0b2">Failure Mode Avoidance Engineer, Ford Energy</a></td>
-<td>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69201">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d272ecfb-e1c3-4824-8ff9-95a6afa8fd54">Feature Systems Engineer – Customer Connectivity Settings and FordPass Activation</a></td>
 <td>Dearborn, MI, United States</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68599">Apply</a></td>

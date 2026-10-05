@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**33 open roles.** 5 in the United States & Canada · 28 elsewhere in the world.
+**32 open roles.** 5 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -196,13 +196,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, UK</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lgads/b583063e-60fc-4985-b2ee-11fa83d75943/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Graphcore</strong></td>
-<td><a href="https://trueinterview.io/jobs/f30580a7-881c-454f-b384-8b7abca2a272">Software Engineer - Triton</a></td>
-<td>Bristol, UK<br/>Gdańsk, Pomeranian Voivodeship, Poland<br/>Poland</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8543115002">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Caribou</strong></td>

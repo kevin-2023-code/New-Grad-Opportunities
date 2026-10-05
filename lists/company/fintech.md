@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**44 open roles.** 27 in the United States & Canada · 17 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**40 open roles.** 23 in the United States & Canada · 17 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -109,24 +109,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Wisetack</strong></td>
-<td><a href="https://trueinterview.io/jobs/d2cbd5e8-aa00-4472-bfdb-5e166539d790">IT Support Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/wisetack/jobs/4727999005">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Finix</strong></td>
 <td><a href="https://trueinterview.io/jobs/f23f51f6-aced-46c0-a52b-8485b9ab1f82">IT Support Specialist</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.lever.co/finix/938e21fb-20e2-4627-a668-4cbb1c69cff9/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Plaid</strong></td>
-<td><a href="https://trueinterview.io/jobs/faab4dce-a404-44c9-9439-4e871d3c67c7">Integrations Operations Engineer</a></td>
-<td>San Francisco HQ<br/>New York City Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/plaid/f3d63f67-d689-469b-b6fc-e88301496ee3/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
@@ -135,20 +121,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Canada<br/>South America<br/>United Kingdom</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/trm-labs/b6ced85a-a8e1-4da7-b065-188edb77ca9e/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lendingtree</strong></td>
-<td><a href="https://trueinterview.io/jobs/ffd92c4d-c4d3-46c6-aea3-cb4c29eeb5b6">Service Desk Analyst</a></td>
-<td>Charlotte, NC, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lendingtree/jobs/8155561">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Trm Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/b871d891-fe28-48d2-96f6-4397023e6ec3">Customer Solutions Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/trm-labs/e8a7a3d5-938f-4d2b-b9d3-86765d8d1dd2/application">Apply</a></td>
-<td align="center">22 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Wise</strong></td>

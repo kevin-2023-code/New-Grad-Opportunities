@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**30 open roles.** 15 in the United States & Canada · 15 elsewhere in the world.
+**27 open roles.** 12 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -79,27 +79,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Montréal, QC<br/>Québec, QC</td>
 <td align="center"><a href="https://jobs.lever.co/mirego/3e376c52-7eaf-4ced-9086-940510b4735f/apply">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Diligent Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/a9c21f3d-00e2-411a-9adb-5d64bdc44374">Data Analyst, Technical Operations</a></td>
-<td>Anywhere in the US</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/diligentrobotics/jobs/7976676003">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Pryzm</strong></td>
-<td><a href="https://trueinterview.io/jobs/e886b845-2f54-4d6f-9275-e0bdaf675ede">Federal Data Analyst</a> 🛂</td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/pryzm/2c40f0bb-e559-49b3-9831-81d7484cc6dc/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Bet365</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd87a630-fb7c-48d6-94eb-74a84c4b8117">Python Data Analyst (Fraud and Risk)</a></td>
-<td>Denver, Colorado, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000145352460-python-data-analyst-fraud-and-risk-?oga=true">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>xAI</strong></td>

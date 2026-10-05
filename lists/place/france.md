@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**6 open roles.**
+**5 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -39,13 +39,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote — France<br/>Paris, France, Remote</td>
 <td align="center"><a href="https://4dayweek.io/job/software-engineer-at-hedgehog-lab-b2f9f9fb">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Vocca</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2e0d315-41ca-4423-880d-232ce836b942">Software Engineer</a></td>
-<td>Paris</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/vocca/56049107-f9dd-41f3-a091-a29838bb0d5f/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Hexa</strong></td>

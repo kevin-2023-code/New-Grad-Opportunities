@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**22 open roles.** 21 in the United States & Canada · 1 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**21 open roles.** 20 in the United States & Canada · 1 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -110,13 +110,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Sleeper</strong></td>
-<td><a href="https://trueinterview.io/jobs/b16916ab-2a4e-4c02-bbf8-717232d5c9f3">UI Graphic Designer</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sleeper/441ba4d4-d693-4d21-949b-e3e1e6b86b79/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a5223f27-b4cf-4ba2-97b9-403945295355">Computer Systems Analyst</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sleeper/5303f685-390b-4960-9295-833ecc5b134c/application">Apply</a></td>

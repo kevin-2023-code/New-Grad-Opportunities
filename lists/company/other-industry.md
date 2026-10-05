@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**39 open roles.** 19 in the United States & Canada · 20 elsewhere in the world. A real classification that none of the other sectors covers.
+**34 open roles.** 15 in the United States & Canada · 19 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -74,39 +74,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Hasbro</strong></td>
-<td><a href="https://trueinterview.io/jobs/f498cb18-fb10-4dab-a77a-9bbb82835c57">Game Designer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/hasbro/jobs/4374292009">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Business Wire</strong></td>
 <td><a href="https://trueinterview.io/jobs/1fe20c0f-b821-4f9f-a7c7-dde93d5bb5d2">Product Designer</a></td>
 <td>United States</td>
 <td align="center"><a href="https://jobs.lever.co/businesswire/61748cf9-4bff-4067-809a-fd58f42c78ff/apply">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Metrolinx</strong></td>
-<td><a href="https://trueinterview.io/jobs/b8ad62d6-4af8-4cc0-9d6e-194ef92523e5">Engineering Assurance Analyst</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/117197">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fanatics Collectibles</strong></td>
-<td><a href="https://trueinterview.io/jobs/dfdcea0d-6c40-4d39-97e9-e8b66911e0bf">Associate Product Manager, Trading Cards - Basketball</a></td>
-<td>Coppell, TX, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4373056009">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Bet365</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd87a630-fb7c-48d6-94eb-74a84c4b8117">Python Data Analyst (Fraud and Risk)</a></td>
-<td>Denver, Colorado, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000145352460-python-data-analyst-fraud-and-risk-?oga=true">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Cpi Security</strong></td>
@@ -227,13 +199,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/df69d99a-1e24-4c51-9e46-ffb554d403ec">Technical Solutions Engineer</a></td>
-<td>Mexico City</td>
-<td align="center"><a href="https://www.monks.com/careers/6175822004/job?gh_jid=6175822004">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3598b734-2906-4dd4-957d-48147e5c9219">AI Product Owner (banco de talentos)</a></td>
 <td>Mexico City</td>
 <td align="center"><a href="https://www.monks.com/careers/6175775004/job?gh_jid=6175775004">Apply</a></td>

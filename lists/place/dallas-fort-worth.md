@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**16 open roles.**
+**17 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,6 +86,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Arlington, TX - Onsite<br/>Ann Arbor, MI - HQ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/maymobility/jobs/8755620002">Apply</a></td>
 <td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5f48e53-b6cd-433a-8771-9d33cdf0f974">Associate Design Verification Engineer</a></td>
+<td>US, TX, Dallas, Tollway, United States of America</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Dallas-Tollway/Associate-Design-Verification-Engineer_R265415">Apply</a></td>
+<td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Capco</strong></td>

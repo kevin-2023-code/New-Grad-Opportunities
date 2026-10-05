@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**38 open roles.** 26 in the United States & Canada · 12 elsewhere in the world.
+**35 open roles.** 24 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -109,25 +109,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Jetsupport</strong></td>
-<td><a href="https://trueinterview.io/jobs/f085d0b6-b6c6-4b73-b1ae-a181eff2781c">Contract AI Data Engineer</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://jobs.lever.co/jetsupport/154759ba-a379-4862-b54b-aa3396873e4c/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/9d0830ac-9e11-4c55-bbf7-567a6afdd158">Agentic AI / Data Engineer - DC GPU</a></td>
 <td>US, IN, Home Office<br/>Indiana, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91076?lang=en-us">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Power Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd290c15-d33b-4e16-8db2-a77413bec9c0">Data Engineer, AI &amp; Analytics</a> 🌐</td>
-<td>Remote — Spain, United States, Brazil</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5219547007">Apply</a></td>
-<td align="center">23 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Resonate</strong></td>
@@ -238,13 +224,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City</td>
 <td align="center"><a href="https://www.monks.com/careers/6173872004/job?gh_jid=6173872004">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ci&amp;t</strong></td>
-<td><a href="https://trueinterview.io/jobs/b70a288a-f328-4a25-9744-c055666e45b2">[Job - 31308] Specialist AWS Data Developer, Brasil</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://jobs.lever.co/ciandt/c78866f3-6345-4eab-a1a2-7636df5a3d36/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Orion Innovation</strong></td>

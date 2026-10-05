@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**8 open roles.** 3 in the United States & Canada · 5 elsewhere in the world.
+**7 open roles.** 3 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -70,13 +70,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin, Barcelona</td>
 <td align="center"><a href="https://n26.com/en-eu/careers/positions/8163941?gh_jid=8163941">Apply</a></td>
 <td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Instacart</strong></td>
-<td><a href="https://trueinterview.io/jobs/c4297b94-6c14-467a-970f-bcfb274a5701">iOS Developer</a></td>
-<td>Israel - Hybrid (3 days/week in office required)<br/>Remote - Israel</td>
-<td align="center"><a href="https://instacart.careers/job/?gh_jid=8154479">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Kiss My Apps</strong></td>

@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**22 open roles.**
+**21 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -102,18 +102,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Pure Storage</strong></td>
-<td><a href="https://trueinterview.io/jobs/b28e47b5-edc9-4d36-9015-1e5dba94ec14">Associate Systems Engineer</a></td>
-<td>Raleigh, North Carolina<br/>Chicago, Illinois<br/>Salt Lake City, Utah<br/>+3 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8155361">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lendingtree</strong></td>
-<td><a href="https://trueinterview.io/jobs/ffd92c4d-c4d3-46c6-aea3-cb4c29eeb5b6">Service Desk Analyst</a></td>
-<td>Charlotte, NC, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lendingtree/jobs/8155561">Apply</a></td>
-<td align="center">24 Aug 2026</td>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7877779-c728-43c2-8642-638f9c127355">Associate Digital Design Engineer</a></td>
+<td>US, NC, Durham, United States of America<br/>US, CA, San Jose, Rio Robles, United States of America</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Digital-Design-Engineer_R265286">Apply</a></td>
+<td align="center">22 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Cpi Security</strong></td>

@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**57 open roles.**
+**49 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -200,39 +200,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/c7c53e6f-bb12-4cf7-adc8-b05d0d706b7f">GNC Engineer, Starlink Controls (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8755423002?gh_jid=8755423002">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>CrowdStrike</strong></td>
 <td><a href="https://trueinterview.io/jobs/b57c605e-6112-4f53-b08c-9c7670008429">Software Engineer – Sensor, Sensor Performance and Stability (Hybrid)</a></td>
 <td>USA - Redmond, WA, United States of America<br/>USA - Sunnyvale, CA</td>
 <td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/bbc93968-689d-4b08-b8c2-d6723f66535c">Satellite Systems Software Engineer (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8751097002?gh_jid=8751097002">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ab4e50eb-f414-46e6-969f-2daa6441cad8">GNC Engineer, Orbit Determination/Stargaze (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8751036002?gh_jid=8751036002">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Handshake</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc533b6c-4548-47ee-8db7-351d01b2419b">AI Red Teamer, Cybersecurity</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/handshake/41629882-02cf-41c0-ba1c-5ae689183561/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
@@ -249,27 +221,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/e181a0bd-a2a0-42b3-9e08-ece80af26cd7">Software Development Engineer, Amazon Leo, Early Career - 2026</a></td>
-<td>Redmond, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8093b28-2ebb-4bcf-8fcf-fee7fe33a41b">IT Systems Engineer, Mobile Client Platform Engineer</a> 🌐</td>
-<td>Remote — United States<br/>Seattle, WA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5396384008">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/eb61101d-b7c4-4868-ae9e-6447c346a3a7">BIM Designer &amp; Coordinator</a> 🌐</td>
-<td>Remote — United States<br/>Seattle, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/ad6b55f9-fa63-4860-b852-d90592e49d1c/application">Apply</a></td>
-<td align="center">23 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/a2c623a5-f73e-446a-91d1-e282dd2f84a1">Software Engineer, Applied AI</a></td>
 <td>Seattle, WA<br/>San Francisco, CA<br/>New York, NY<br/>+1 more</td>
@@ -278,13 +229,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Sleeper</strong></td>
-<td><a href="https://trueinterview.io/jobs/b16916ab-2a4e-4c02-bbf8-717232d5c9f3">UI Graphic Designer</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sleeper/441ba4d4-d693-4d21-949b-e3e1e6b86b79/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a5223f27-b4cf-4ba2-97b9-403945295355">Computer Systems Analyst</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sleeper/5303f685-390b-4960-9295-833ecc5b134c/application">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**23 open roles.**
+**18 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -88,20 +88,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Duda</strong></td>
-<td><a href="https://trueinterview.io/jobs/d36b7039-c53f-494a-9192-f86b16891b39">Technical Support Engineer</a></td>
-<td>Louisville, Colorado</td>
-<td align="center"><a href="https://www.duda.co/careers/7978377003?gh_jid=7978377003">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cesiumastro</strong></td>
-<td><a href="https://trueinterview.io/jobs/cccb3b83-4f81-4b4b-b361-89cb1af9d8f1">CAD Designer I</a></td>
-<td>Westminster, CO</td>
-<td align="center"><a href="https://jobs.lever.co/CesiumAstro/d98d133a-8e6e-40bd-ab53-04ca9aabfa17/apply">Apply</a></td>
-<td align="center">30 Aug 2026</td>
-</tr>
-<tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/52d02fe5-81b0-4e0b-b675-96e97f9e2341">Electrical Engineer I - SATCOM</a></td>
 <td>Westminster, CO</td>
@@ -121,27 +107,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States<br/>Colorado Springs, CO</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5405742008">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Checkr</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0fd02a7-d791-4690-81c3-84cefeaa7dba">Solutions Engineer</a></td>
-<td>Denver, Colorado, United States<br/>San Francisco, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/checkr/jobs/8154536">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cologix</strong></td>
-<td><a href="https://trueinterview.io/jobs/c640c068-015e-4af6-abc5-f3e5c9eb50f6">NetSuite Developer</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://jobs.lever.co/cologix/dff736f7-1955-425f-88b9-20808eead935/apply">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Bet365</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd87a630-fb7c-48d6-94eb-74a84c4b8117">Python Data Analyst (Fraud and Risk)</a></td>
-<td>Denver, Colorado, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000145352460-python-data-analyst-fraud-and-risk-?oga=true">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>

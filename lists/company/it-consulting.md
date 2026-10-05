@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**91 open roles.** 60 in the United States & Canada · 31 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**83 open roles.** 56 in the United States & Canada · 27 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -179,31 +179,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Levio</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff1ae71b-9513-4393-a3fd-e1b5f43f5678">Web Developer</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/levio/jobs/8766410002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f56864b1-050e-44aa-8e99-479e8cac9edf">UX Designer</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/levio/jobs/8766390002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Iron Bow Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/aade0709-9dcb-4fce-9515-6edb98f4e520">VA Cybersecurity and Compliance Specialist</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://ironbow-com.sandbox.hs-sites.com/job-details?gh_jid=5225629007">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Agile Defense</strong></td>
 <td><a href="https://trueinterview.io/jobs/37517862-c237-4a6a-a123-fc145c1fb4d6">MSS Developer</a></td>
 <td>Peterson Space Force Base, CO</td>
 <td align="center"><a href="https://jobs.lever.co/agile-defense/49bfefa5-b6f6-49fd-9548-cea453483eb7/apply">Apply</a></td>
+<td align="center">27 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Blend360</strong></td>
+<td><a href="https://trueinterview.io/jobs/d203a93c-0158-4264-abe1-1eb99d3add37">People Ops Coordinator</a></td>
+<td>Columbia, MD, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Blend360/744000146046064-people-ops-coordinator?oga=true">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
@@ -222,13 +208,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Capco</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7275512-02c5-4737-bd83-67a2e5a7268e">UX Designer</a></td>
-<td>Canada - Toronto</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8155374">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8539a2a3-8b0b-4b42-afe5-c1a6265d4650">Associate Talent Program</a> 🛂</td>
 <td>US - Dallas<br/>Dallas, TX</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8152949">Apply</a></td>
@@ -247,13 +226,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US - Dallas</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8108838">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Intelligent Technical Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/e64c745d-9c62-49b8-8b3f-c90d028522b4">System Administrator I Onsite (Sacramento, CA)</a></td>
-<td>Sacramento, CA<br/>Onsite</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/its/jobs/7906825003">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Makpar</strong></td>
@@ -597,13 +569,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Zenjob</strong></td>
-<td><a href="https://trueinterview.io/jobs/da03e3c2-42d3-4c9c-ac45-0f76f77da5b0">Full-Stack Engineer (f/m/d)</a></td>
-<td>Berlin</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/zenjob/cb4a5fc7-ee05-41f0-b07a-0d91403c3d8e/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Modus Create</strong></td>
 <td><a href="https://trueinterview.io/jobs/a3fd043f-e1fb-4730-a8c0-460a618db6ff">Forward Deployed Engineer (Python, AI/ML, Generative AI) - UK based</a></td>
 <td>Greece<br/>Europe</td>
@@ -611,32 +576,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Ci&amp;t</strong></td>
-<td><a href="https://trueinterview.io/jobs/b70a288a-f328-4a25-9744-c055666e45b2">[Job - 31308] Specialist AWS Data Developer, Brasil</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://jobs.lever.co/ciandt/c78866f3-6345-4eab-a1a2-7636df5a3d36/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Orion Innovation</strong></td>
 <td><a href="https://trueinterview.io/jobs/4cf20a5b-f127-484a-9cd9-83cd4552228c">206238 - ETL/Data Engineer</a></td>
 <td>Mexico City, Mexico City, Mexico<br/>Mexico, Mexico</td>
 <td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4706843006">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Blue Coding</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8c30b61-59cf-4b05-92a1-2c8c26c897d7">QA Automation Engineer (A)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/bluecoding/6dafb81b-8786-4d90-b6ff-233d5bc58775/apply">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Pluribus Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/fdae3c98-7465-4ab4-8786-dfed6d08c832">Evergreen: Associate Software Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://pluribusdigital.com/join/openings?gh_jid=7931434003">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Thoughtworks</strong></td>

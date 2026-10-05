@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**10 open roles.**
+**8 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -26,23 +26,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/eece1264-0ded-4d91-9bd3-f355d5861c48">Forward Deployed Engineer, Infrastructure Specialist (North America)</a></td>
-<td>Vancouver, BC<br/>Toronto, ON<br/>Ottawa, ON<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4464f0c8-37e5-4b95-a0cd-b019d44d161d">Forward Deployed Engineer, Agentic Platform (West Coast)</a></td>
 <td>Vancouver, BC<br/>San Francisco, CA<br/>Seattle, WA<br/>+11 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f35f28ee-f690-4b3b-abaa-51ebea4a7a44">Forward Deployed Engineer, Sovereign AI</a></td>
-<td>Vancouver, BC<br/>Ottawa, ON<br/>Toronto, ON<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>

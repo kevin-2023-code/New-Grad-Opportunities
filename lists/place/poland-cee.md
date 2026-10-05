@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**6 open roles.**
+**5 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -53,13 +53,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Budapest, Hungary</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8180697/apply/?gh_jid=8180697">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Graphcore</strong></td>
-<td><a href="https://trueinterview.io/jobs/f30580a7-881c-454f-b384-8b7abca2a272">Software Engineer - Triton</a></td>
-<td>Gdańsk, Pomeranian Voivodeship, Poland<br/>Bristol, UK<br/>Poland</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8543115002">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 </tbody>
 </table>

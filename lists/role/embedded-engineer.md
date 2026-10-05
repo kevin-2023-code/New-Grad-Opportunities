@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**17 open roles.** 16 in the United States & Canada · 1 elsewhere in the world.
+**17 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -88,6 +88,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0c35808-f689-4b09-af1c-07b70c4b6875">Systems &amp; Applications Engineer, Entry Level</a></td>
+<td>San Jose (Holger Way), United States of America</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Holger-Way/Systems---Applications-Engineer--Entry-Level_R-10066402-1">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/0b55c324-228f-4b09-93ba-f2389d6c73d7">Firmware Engineer Graduate</a></td>
 <td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
@@ -95,10 +102,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/b9bf7c42-6eec-42b8-8704-5f86ac7e92c6">Embedded Firmware Engineer</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5224716007?gh_jid=5224716007">Apply</a></td>
+<td><strong>Coherent Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/d44f6ba0-c284-48c1-aee5-8b96e37579f2">Embedded Systems Software &amp; FPGA Programmer</a></td>
+<td>Horseheads, NY, United States</td>
+<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010466">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
@@ -128,25 +135,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Diego, CA<br/>Foster City, CA</td>
 <td align="center"><a href="https://jobs.lever.co/zoox/082ed20c-b8e1-4b1c-9c22-4738ad94055d/apply">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-</tbody>
-</table>
-
-## Elsewhere in the world
-
-_Roles outside the United States & Canada, and roles whose country the catalog could not read._
-
-<table>
-<thead>
-<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Delart</strong></td>
-<td><a href="https://trueinterview.io/jobs/e67dd4fe-46df-4fc7-b505-1de71402ba0f">Board Support Package (BSP) Firmware Engineer</a></td>
-<td>New Territories, Hong Kong<br/>Direct</td>
-<td align="center"><a href="https://boards.greenhouse.io/delartech/jobs/4726814005?gh_jid=4726814005">Apply</a></td>
-<td align="center">23 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**50 open roles.** 32 in the United States & Canada · 18 elsewhere in the world.
+**43 open roles.** 26 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -88,38 +88,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Build Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5082c63-b82c-4b7b-a22a-be2db957794e">AI Engineer - Platform</a></td>
-<td>London<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/build/f41776ea-fd3a-4ab3-8b6b-c3f6520a6ec5/application">Apply</a></td>
-<td align="center">29 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dfd4a10b-2ba0-42f7-8b0a-710916b0473e">AI Engineer - Assistant Experience</a></td>
-<td>London<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/build/1eac54d0-ec02-401c-a6fc-42b41dfb74c4/application">Apply</a></td>
-<td align="center">29 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fieldwire</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2019118-c06d-4f2d-b2fa-78d40b0a9b0b">AI/ML Engineer</a></td>
-<td>San Francisco, CA (Hybrid) or United States (Remote)<br/>United States - Fieldwire</td>
-<td align="center"><a href="https://www.fieldwire.com/job/8746698002?gh_jid=8746698002">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Mirego</strong></td>
 <td><a href="https://trueinterview.io/jobs/9b022ff0-cb84-40cd-b659-ac56ee7dfac2">Développeur(euse) IA</a></td>
 <td>Québec, QC<br/>Montréal, QC</td>
 <td align="center"><a href="https://jobs.lever.co/mirego/d4aa28ef-42b2-4471-8b7e-da1433052351/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/f35f28ee-f690-4b3b-abaa-51ebea4a7a44">Forward Deployed Engineer, Sovereign AI</a></td>
-<td>Ottawa, ON<br/>Vancouver, BC<br/>Toronto, ON<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
@@ -128,20 +100,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23932">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3c8a3ee-2ebf-4af9-8aca-9287bba690af">AI Systems Engineer (OCI/AI Infrastructure)</a></td>
-<td>Nashville, TN, United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/343962">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/b01f01e7-6515-47f0-86f7-e01208c039c0">Software Engineer, AI accelerator Runtime</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/9248eab6-74e0-4940-98eb-ca09b17da532/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Cresta</strong></td>
@@ -322,13 +280,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/9fin/72764c55-33d0-4f03-bb39-f8ca8af5eb16/application">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lavendo</strong></td>
-<td><a href="https://trueinterview.io/jobs/cbcbb8f5-a241-4fbc-9f6a-483a38f5d9e1">Forward Deployed Engineer, Voice AI (Redwood City, CA — Onsite)</a></td>
-<td>Redwood City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lavendo/5ff4fefd-0ba7-4320-a575-d2189d91add1/application">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Hexa</strong></td>

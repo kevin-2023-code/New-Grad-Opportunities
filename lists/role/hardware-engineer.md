@@ -214,6 +214,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/efefdc3b-89a7-4835-b555-8b2bdec0592f">Mechanical Engineer New College Grad - BS/MS Degree (Santa Clara, CA)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318269405">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/30736407-4828-4f24-a676-f9e2888899e1">ASIC Floorplan Design Engineer - New College Grad 2026</a></td>
 <td>Santa Clara, CA, US</td>
@@ -242,13 +249,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/ab89c48f-2184-4f11-b248-3d5988a80965">Hardware Systems Design Engineer - Circuit Board</a></td>
-<td>US, NJ, Secaucus_Meadowlands<br/>Secaucus, New Jersey, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/87118?lang=en-us">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/759be8d3-e8ec-447e-a3a2-232938a723b4">New College Grad - ENGINEER, SIG ELECTRICAL DESIGN</a></td>
 <td>Boise, ID, US</td>
@@ -256,18 +256,18 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/c2fb6940-8b21-4867-84db-33277e8e530a">Systems Software Engineer, Silicon Bringup</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/d1121575-a1a7-47c9-97e6-56c70f441143/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2c8e0f22-61e4-48bc-acd4-82733c6f7739">New College Grad - Memory Design Engineer, HBM</a></td>
 <td>Richardson, TX, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/40531254">Apply</a></td>
 <td align="center">24 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7877779-c728-43c2-8642-638f9c127355">Associate Digital Design Engineer</a></td>
+<td>US, CA, San Jose, Rio Robles, United States of America<br/>US, NC, Durham, United States of America</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Digital-Design-Engineer_R265286">Apply</a></td>
+<td align="center">22 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Intel</strong></td>

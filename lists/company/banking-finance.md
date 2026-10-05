@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**35 open roles.** 17 in the United States & Canada · 18 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**33 open roles.** 15 in the United States & Canada · 18 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -60,25 +60,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>JPMorgan Chase</strong></td>
-<td><a href="https://trueinterview.io/jobs/f455f91e-e240-4941-bc1c-fd45d0779914">Applied AI ML [Multiple Positions Available]</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779432">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>8vc</strong></td>
 <td><a href="https://trueinterview.io/jobs/375704d8-e2ee-4a33-b7e4-e834db397bfd">Systems Administrator, IT &amp; TechOps</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/8vc/b497da63-0dd7-420f-ab79-cbe9682bdbd5/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Jefferies Financial Group Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/e4058b5b-2128-40a5-9123-16f53428711b">Associate, Software Developer - Fixed Income Technology (NY Repo, Python)</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4779">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Mio Partners</strong></td>

@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**107 open roles.**
+**97 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -368,24 +368,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>EliseAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/fb336e7f-2341-4ec7-81c1-8465f748d0ae">GTM Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/eliseai/ff53b687-1943-4f54-9d09-66098c20db1a/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Hudson River Trading</strong></td>
 <td><a href="https://trueinterview.io/jobs/1a555ace-fb4a-46e8-bd7d-315efc691351">Design Verification (DV) Engineer - 2027 Grads</a></td>
 <td>New York, NY<br/>New York City</td>
 <td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8167806">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cursor</strong></td>
-<td><a href="https://trueinterview.io/jobs/dda39114-fb0a-4b2b-9172-4c695312d5b3">Software Engineer, ML Platform</a></td>
-<td>New York, NY<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cursor/167f0e93-6915-4d56-803a-be89d1441fb5/application">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
@@ -394,13 +380,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/yext/jobs/8157597">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Build Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/e96cf16f-b567-4aa1-95be-c0ea88965500">Solutions Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/build/528c9e14-442c-4ac1-828d-6b33ed539ffc/application">Apply</a></td>
-<td align="center">29 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Beloved Community &amp; Empowerment Academy Charter Schools</strong></td>
@@ -431,13 +410,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Plaid</strong></td>
-<td><a href="https://trueinterview.io/jobs/faab4dce-a404-44c9-9439-4e871d3c67c7">Integrations Operations Engineer</a></td>
-<td>New York City Office<br/>San Francisco HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/plaid/f3d63f67-d689-469b-b6fc-e88301496ee3/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Grapevine</strong></td>
 <td><a href="https://trueinterview.io/jobs/7a9dad22-20fa-496c-bf58-6a0a517ef07a">Product &amp; Savings Intelligence Analyst</a></td>
 <td>NYC HQ</td>
@@ -452,53 +424,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Mercor</strong></td>
-<td><a href="https://trueinterview.io/jobs/d10c4074-45f3-4fdb-8074-40e501048080">Software Engineer, Agents</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/mercor/f6035e89-f820-482c-9500-efb70226b134/application">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/af57b27b-5d52-4ee1-a1d6-25002ff968f3">Software Engineer, Frontier Data Products</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/mercor/2b1d7c4b-721b-4ed7-b61b-7bdceeaaa702/application">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lm Studio</strong></td>
-<td><a href="https://trueinterview.io/jobs/c3dcd47e-cb88-4621-b984-3f8f6f96007a">Full Stack Software Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lm-studio/0a18f160-9671-43d0-91a3-f3d132db256f/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Celonis</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1d9e0b5-01b2-40c7-8cc4-7b7148b2ef52">Transformation Engineer - Oracle</a></td>
-<td>New York, NY<br/>New York, US, New York<br/>Redwood City, US, California</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/7978327003?gh_jid=7978327003">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Maximor Ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/3d59d004-2098-4025-a3d5-9f9296d54077">Startup Generalist</a></td>
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/maximor/b75360eb-63dc-4cb0-99b7-67e25986c584/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Jefferies Financial Group Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/e4058b5b-2128-40a5-9123-16f53428711b">Associate, Software Developer - Fixed Income Technology (NY Repo, Python)</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4779">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8093b28-2ebb-4bcf-8fcf-fee7fe33a41b">IT Systems Engineer, Mobile Client Platform Engineer</a> 🌐</td>
-<td>Remote — United States<br/>New York City, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5396384008">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>ElevenLabs</strong></td>

@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**26 open roles.** 19 in the United States & Canada · 7 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**24 open roles.** 17 in the United States & Canada · 7 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -81,24 +81,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b2e12ccc-3f7d-4886-8ea3-7a6a837bae51">Project Engineer</a></td>
-<td>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014924517-project-engineer?oga=true">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Grail</strong></td>
 <td><a href="https://trueinterview.io/jobs/15548ad7-2d63-4f8a-9510-0706f0232e3d">Data Engineer 1, Operational Technology - Operations #4941</a></td>
 <td>Durham, NC</td>
 <td align="center"><a href="https://jobs.lever.co/grailbio/36b40389-6f5d-467f-b4b0-e220ca73e89d/apply">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Penumbra</strong></td>
-<td><a href="https://trueinterview.io/jobs/bc787e2c-5737-4c4d-b5d6-43c0cb5b2c8c">Development Quality Engineer I</a></td>
-<td>Alameda, CA</td>
-<td align="center"><a href="https://jobs.lever.co/penumbrainc/c3f03be8-3cbe-475d-9b32-77039799254f/apply">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>

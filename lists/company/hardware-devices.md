@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**95 open roles.** 86 in the United States & Canada · 9 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**87 open roles.** 78 in the United States & Canada · 9 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/da441dc1-ebb3-4edc-a518-dbe6dbade2da">Success Service Manager Graduate</a></td>
+<td>Westford, Massachusetts, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Westford-Massachusetts-United-States-of-America/Success-Service-Manager-Graduate_1215017-1">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/9309d68b-e065-43c8-939b-3a2d47aac56f">Software Consulting Engineer I (Full Time) United States</a></td>
@@ -382,13 +389,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Pure Storage</strong></td>
-<td><a href="https://trueinterview.io/jobs/aaea6c6d-826a-480d-8ada-c0e0e637a83e">Product Engineer, Hardware Lifecycle &amp; Refurbishment</a></td>
-<td>Santa Clara, California<br/>Office - Santa Clara</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8164836">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Eight Sleep</strong></td>
 <td><a href="https://trueinterview.io/jobs/8e21d821-8018-4032-8c0f-cf4977ff28d9">Electrical Engineer (New Grad / Spring 2027)</a></td>
 <td>San Francisco, CA</td>
@@ -438,41 +438,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Pure Storage</strong></td>
-<td><a href="https://trueinterview.io/jobs/e48ab933-565d-46e2-a8d8-edf68408c468">PLM Developer</a></td>
-<td>Santa Clara, California<br/>Office - Santa Clara</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8159882">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Psiquantum</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2c6dec5-352e-44b4-ac3f-2e600c871ca2">Associate Characterization and Test Engineer</a></td>
-<td>Milpitas, California, United States</td>
-<td align="center"><a href="https://www.psiquantum.com/apply?gh_jid=7978842003">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/e34ad22a-6ec8-46ed-87a6-b40f68cbce6f">Resident Engineer, TS/SCI with Poly, Columbia/Fort Meade, MD, Onsite</a></td>
-<td>All, Maryland, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Maryland-United-States-of-America/Resident-Engineer--TS-SCI-with-Poly--Columbia-Fort-Meade--MD--Onsite_1211923-2">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/c48c8cac-e59d-4379-866b-e37ef3a579cf">R&amp;D Software Engineer, Recent Graduate</a></td>
-<td>US-CA-Santa Rosa-Bldg 4<br/>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54048?lang=en-us">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Pure Storage</strong></td>
-<td><a href="https://trueinterview.io/jobs/b28e47b5-edc9-4d36-9015-1e5dba94ec14">Associate Systems Engineer</a></td>
-<td>Chicago, Illinois<br/>Raleigh, North Carolina<br/>Salt Lake City, Utah<br/>+3 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8155361">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Standard Bots</strong></td>
 <td><a href="https://trueinterview.io/jobs/49501370-3348-49b1-8a8b-e685278edb22">Applications Engineer (Florida)</a> 🌐</td>
 <td>Remote — United States</td>
@@ -487,28 +452,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/e918e918-8656-4f43-9d7c-c5613eab232e">RF/uW Solutions Engineer</a></td>
-<td>US-NH-Nashua<br/>Nashua, New Hampshire, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/53935?lang=en-us">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Diligent Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/a9c21f3d-00e2-411a-9adb-5d64bdc44374">Data Analyst, Technical Operations</a></td>
-<td>Anywhere in the US</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/diligentrobotics/jobs/7976676003">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/f413998a-bbd5-411b-9ec2-e4cb3fde5332">C# Software Engineer - Software &amp; Services</a></td>
-<td>Yarmouth, Maine, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19647?lang=en-us">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b22ef331-1fc4-4acd-b61c-97c79de26edb">Software Engineer  - Outdoor</a></td>
 <td>Yarmouth, Maine, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19668?lang=en-us">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**26 open roles.**
+**25 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -128,13 +128,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Phoenix, AZ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/lucidmotors/jobs/5228159007">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lotusworks</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb62f0de-cd82-454b-b7a0-137048fce28d">Wastewater Commissioning Engineer</a></td>
-<td>Chandler, Arizona, United States<br/>Intel - Arizona - Chandler</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/lotusworks/jobs/4963678101">Apply</a></td>
-<td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Intel</strong></td>

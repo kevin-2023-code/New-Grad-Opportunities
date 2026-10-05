@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**47 open roles.** 32 in the United States & Canada · 15 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**42 open roles.** 30 in the United States & Canada · 12 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -179,20 +179,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Cologix</strong></td>
-<td><a href="https://trueinterview.io/jobs/c640c068-015e-4af6-abc5-f3e5c9eb50f6">NetSuite Developer</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://jobs.lever.co/cologix/dff736f7-1955-425f-88b9-20808eead935/apply">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Buildkite</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb82cb0e-9e2e-4385-85c9-e8895aaa1301">IT Engineer</a></td>
-<td>United States - West Coast</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/buildkite/jobs/5398715008">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>SonarSource</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec014430-2db0-4126-b0f3-2676295c7192">Customer Success Engineer - America</a></td>
 <td>Austin, TX<br/>Austin, Texas</td>
@@ -303,32 +289,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Megaport</strong></td>
-<td><a href="https://trueinterview.io/jobs/bc339912-6a8a-4268-894a-9a7c95f90d66">NOC Engineer</a></td>
-<td>Gurugram</td>
-<td align="center"><a href="https://jobs.lever.co/megaport/b826ffe7-6079-4b82-9a0d-d2919532cbc0/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Percona</strong></td>
 <td><a href="https://trueinterview.io/jobs/3f9284b2-46ce-4d31-9220-6af2b8f9ed0f">Software Developer in Test (Talent Pool)</a></td>
 <td>EMEA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/percona/8982df92-5be8-47db-9a6f-1b5b657cfda5/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Tiger Data</strong></td>
-<td><a href="https://trueinterview.io/jobs/d61789f8-4649-4544-95fb-bf566bd9a0a5">Database Support Engineer, EMEA</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/tigerdata/ad4d08bc-1f76-4901-918a-2eb19e619acd/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Percona</strong></td>
-<td><a href="https://trueinterview.io/jobs/d48b5725-2d24-4a7b-96a7-dbd3f476d820">Jr. Service Desk Agent</a></td>
-<td>Mexico City<br/>South America<br/>Sao Paulo<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/percona/87c0e390-193c-4808-94e0-8f0f7d3720ba/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Posthog</strong></td>

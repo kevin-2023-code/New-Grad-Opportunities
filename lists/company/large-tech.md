@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**148 open roles.** 118 in the United States & Canada · 30 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**130 open roles.** 103 in the United States & Canada · 27 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -411,115 +411,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/df9d0a1b-5a65-4ba3-9efc-26c393144597">People Research Data Scientist, AI Fairness &amp; Bias</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/cadb7c24-2aea-4b98-a793-65ae9388b5d6/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Pure Storage</strong></td>
-<td><a href="https://trueinterview.io/jobs/aaea6c6d-826a-480d-8ada-c0e0e637a83e">Product Engineer, Hardware Lifecycle &amp; Refurbishment</a></td>
-<td>Santa Clara, California<br/>Office - Santa Clara</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8164836">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Roblox</strong></td>
-<td><a href="https://trueinterview.io/jobs/b0565718-1c3c-4da0-b567-6c56c8504a14">Software Engineer, Economy Platform</a></td>
-<td>San Mateo, CA, United States</td>
-<td align="center"><a href="https://careers.roblox.com/jobs/8060254?gh_jid=8060254">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/9f12bade-4f3a-4749-9cbe-c5a891e3c333">Web Producer</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/dcc678d2-d0cd-4428-bb68-38a7347d6ded/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Plaid</strong></td>
-<td><a href="https://trueinterview.io/jobs/faab4dce-a404-44c9-9439-4e871d3c67c7">Integrations Operations Engineer</a></td>
-<td>San Francisco HQ<br/>New York City Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/plaid/f3d63f67-d689-469b-b6fc-e88301496ee3/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Pure Storage</strong></td>
-<td><a href="https://trueinterview.io/jobs/e48ab933-565d-46e2-a8d8-edf68408c468">PLM Developer</a></td>
-<td>Santa Clara, California<br/>Office - Santa Clara</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8159882">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b28e47b5-edc9-4d36-9015-1e5dba94ec14">Associate Systems Engineer</a></td>
-<td>Chicago, Illinois<br/>Raleigh, North Carolina<br/>Salt Lake City, Utah<br/>+3 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8155361">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Celonis</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1d9e0b5-01b2-40c7-8cc4-7b7148b2ef52">Transformation Engineer - Oracle</a></td>
-<td>New York, NY<br/>Redwood City, US, California<br/>New York, US, New York</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/7978327003?gh_jid=7978327003">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8093b28-2ebb-4bcf-8fcf-fee7fe33a41b">IT Systems Engineer, Mobile Client Platform Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5396384008">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/b01f01e7-6515-47f0-86f7-e01208c039c0">Software Engineer, AI accelerator Runtime</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/9248eab6-74e0-4940-98eb-ca09b17da532/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c2fb6940-8b21-4867-84db-33277e8e530a">Systems Software Engineer, Silicon Bringup</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/d1121575-a1a7-47c9-97e6-56c70f441143/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cargurus</strong></td>
-<td><a href="https://trueinterview.io/jobs/c376796f-4bcb-4efb-9fce-b7d3a6bbf36c">Application Security Engineer I</a></td>
-<td>Boston, Massachusetts, United States<br/>Boston (1001 Boylston Street)</td>
-<td align="center"><a href="https://careers.cargurus.com/us/en/job/8050976?gh_jid=8050976">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/bb8ae630-1328-48d7-9bc4-7d30d590506e">Software Engineer, Model Runtime</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ce1b8fa8-7692-46ee-8b83-2eb81bd6f10f">Manufacturing Quality Engineer – Datacenter Infrastructure</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/ece054ea-ac75-4b8a-bdbf-5cdf19368312/application">Apply</a></td>
-<td align="center">23 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/eb61101d-b7c4-4868-ae9e-6447c346a3a7">BIM Designer &amp; Coordinator</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/ad6b55f9-fa63-4860-b852-d90592e49d1c/application">Apply</a></td>
-<td align="center">23 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b9329d40-5281-4e68-a9a8-0c9da6a751c0">Electrical Engineer, Actuator test infrastructure</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/3fa44620-142a-47fe-b098-92923064d2f5/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Wise</strong></td>
@@ -954,13 +849,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>ZoomInfo</strong></td>
-<td><a href="https://trueinterview.io/jobs/aec5ef11-47ca-42e9-bc8e-b1f563ffbb8a">Software Engineer I - Salesforce</a></td>
-<td>Bengaluru, Karnataka, India<br/>Bangalore, India</td>
-<td align="center"><a href="https://www.zoominfo.com/careers?gh_jid=8759686002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Scale AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/a57fef53-c5d0-41ea-8e3a-6401a781fb57">Operations Associate</a></td>
 <td>Argentina</td>
@@ -973,20 +861,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Kfar Saba, Israel<br/>IL Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/nextinsurance66/jobs/7979131003">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Airbnb</strong></td>
-<td><a href="https://trueinterview.io/jobs/e5670983-9590-4bd0-96ee-0e670a96a502">Automation Engineer, Quality Engineering</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://careers.airbnb.com/positions/8154749?gh_jid=8154749">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Instacart</strong></td>
-<td><a href="https://trueinterview.io/jobs/c4297b94-6c14-467a-970f-bcfb274a5701">iOS Developer</a></td>
-<td>Israel - Hybrid (3 days/week in office required)<br/>Remote - Israel</td>
-<td align="center"><a href="https://instacart.careers/job/?gh_jid=8154479">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Toss</strong></td>

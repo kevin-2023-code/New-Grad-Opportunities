@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**34 open roles.** 18 in the United States & Canada · 16 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**30 open roles.** 16 in the United States & Canada · 14 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -100,20 +100,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/iseatz/jobs/5406282008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/e181a0bd-a2a0-42b3-9e08-ece80af26cd7">Software Development Engineer, Amazon Leo, Early Career - 2026</a></td>
-<td>Redmond, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cargurus</strong></td>
-<td><a href="https://trueinterview.io/jobs/c376796f-4bcb-4efb-9fce-b7d3a6bbf36c">Application Security Engineer I</a></td>
-<td>Boston, Massachusetts, United States<br/>Boston (1001 Boylston Street)</td>
-<td align="center"><a href="https://careers.cargurus.com/us/en/job/8050976?gh_jid=8050976">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Knix</strong></td>
@@ -217,20 +203,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>—</td>
 <td align="center"><a href="https://nodesk.co/remote-jobs/sticker-mule-software-engineer/">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Airbnb</strong></td>
-<td><a href="https://trueinterview.io/jobs/e5670983-9590-4bd0-96ee-0e670a96a502">Automation Engineer, Quality Engineering</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://careers.airbnb.com/positions/8154749?gh_jid=8154749">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Instacart</strong></td>
-<td><a href="https://trueinterview.io/jobs/c4297b94-6c14-467a-970f-bcfb274a5701">iOS Developer</a></td>
-<td>Israel - Hybrid (3 days/week in office required)<br/>Remote - Israel</td>
-<td align="center"><a href="https://instacart.careers/job/?gh_jid=8154479">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Spreetail</strong></td>

@@ -2,7 +2,7 @@
 
 # 🏛️ Government, research & non-profits
 
-**10 open roles.** 2 in the United States & Canada · 8 elsewhere in the world. Agencies, national laboratories, universities, research institutes and charities.
+**9 open roles.** 2 in the United States & Canada · 7 elsewhere in the world. Agencies, national laboratories, universities, research institutes and charities.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -70,13 +70,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://enveritas.org/jobs/">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>The City Of Fort Worth</strong></td>
-<td><a href="https://trueinterview.io/jobs/c2d2e49a-8da3-494c-b1aa-611bc3764de1">Recreation Programmer</a></td>
-<td>Park &amp; Recreation<br/>None</td>
-<td align="center"><a href="https://boards.greenhouse.io/cityoffortworth/jobs/7979753003?gh_jid=7979753003">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Govtech</strong></td>

@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**38 open roles.** 28 in the United States & Canada · 10 elsewhere in the world.
+**35 open roles.** 25 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -130,32 +130,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Iron Bow Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/aade0709-9dcb-4fce-9515-6edb98f4e520">VA Cybersecurity and Compliance Specialist</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://ironbow-com.sandbox.hs-sites.com/job-details?gh_jid=5225629007">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Handshake</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc533b6c-4548-47ee-8db7-351d01b2419b">AI Red Teamer, Cybersecurity</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/handshake/41629882-02cf-41c0-ba1c-5ae689183561/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Solace</strong></td>
 <td><a href="https://trueinterview.io/jobs/c4c69f55-4b21-4161-8861-c32c5a99314a">Associate Security Engineer (College Grad 2027)</a></td>
 <td>Redwood City, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/solace/b021350f-40dc-4b28-ade4-2ab030bec05d/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cargurus</strong></td>
-<td><a href="https://trueinterview.io/jobs/c376796f-4bcb-4efb-9fce-b7d3a6bbf36c">Application Security Engineer I</a></td>
-<td>Boston, Massachusetts, United States<br/>Boston (1001 Boylston Street)</td>
-<td align="center"><a href="https://careers.cargurus.com/us/en/job/8050976?gh_jid=8050976">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Wise</strong></td>

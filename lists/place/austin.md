@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**67 open roles.**
+**64 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -263,21 +263,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Focused</strong></td>
-<td><a href="https://trueinterview.io/jobs/e4880412-7f46-407b-9698-0994243be225">Laser Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/focused/1b20ec62-61d3-489f-93b1-35f958724152/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/fd2fa3b3-edd0-4c32-a030-224a53273034">Materials Engineer, Solar Cell Characterization</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8753733002?gh_jid=8753733002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cad4591a-c3b1-44f9-a6a9-ce2c74467d24">Embedded Software Engineer (Starlink)</a></td>
 <td>Bastrop, TX</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8706480002?gh_jid=8706480002">Apply</a></td>
@@ -317,13 +303,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94208">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/aa804997-7bfa-4598-9da3-5d9dd485d44d">Product Reliability Engineer – HTOL/Burn-In Development (MCC/C-Breez)</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91166?lang=en-us">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Fluidstack</strong></td>

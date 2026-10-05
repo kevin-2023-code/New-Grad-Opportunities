@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**48 open roles.** 42 in the United States & Canada · 6 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**46 open roles.** 40 in the United States & Canada · 6 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -207,25 +207,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Olsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/e149bc01-800d-494d-80ea-1a863c7f6b99">Entry-Level Transportation Engineer - Traffic Technology</a></td>
-<td>Oklahoma City, OK<br/>Tulsa, OK</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5408674008">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Jensen Hughes</strong></td>
 <td><a href="https://trueinterview.io/jobs/e499f4db-1863-4ced-8384-d2013bb58ca3">Associate - Fire Protection Engineering</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5405742008">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/da200c4d-1b2f-4c0a-a5f3-40b8d1f138c7">Transmission Line Associate Civil Engineer</a></td>
-<td>Fort Lauderdale, FL, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94032">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Foth</strong></td>

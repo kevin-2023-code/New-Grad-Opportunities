@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**13 open roles.** 12 in the United States & Canada · 1 elsewhere in the world.
+**10 open roles.** 9 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -72,27 +72,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US-WA-Bellevue</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698/application">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mercor</strong></td>
-<td><a href="https://trueinterview.io/jobs/da19ece0-47db-46ef-b920-bd3862083bc9">Research Scientist, APEX Benchmarks</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/mercor/bebd78ce-5f12-46e9-a285-674e33838211/application">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Descript</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8bbe70e-0773-4965-9ffb-a71bde202a2d">Applied Research Scientist, AI Research</a></td>
-<td>San Francisco, CA<br/>Hybrid or Remote<br/>Remote</td>
-<td align="center"><a href="https://boards.greenhouse.io/descript/jobs/7967440003?gh_jid=7967440003">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Harmonic</strong></td>
-<td><a href="https://trueinterview.io/jobs/c07eb03d-26e0-41e3-85aa-a83240d93ae4">Research Engineer, Formal Methods</a></td>
-<td>Palo Alto, CA<br/>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/harmonic/74f2ed85-b1cc-40b1-825d-fefd2fcf557c/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Meta</strong></td>

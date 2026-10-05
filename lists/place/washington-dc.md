@@ -130,18 +130,18 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Blend360</strong></td>
+<td><a href="https://trueinterview.io/jobs/d203a93c-0158-4264-abe1-1eb99d3add37">People Ops Coordinator</a></td>
+<td>Columbia, MD, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Blend360/744000146046064-people-ops-coordinator?oga=true">Apply</a></td>
+<td align="center">27 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Hatch It</strong></td>
 <td><a href="https://trueinterview.io/jobs/767ff2b3-9d38-408f-a055-070f913c5e7d">Test Engineer (DEA)</a></td>
 <td>Arlington, VA</td>
 <td align="center"><a href="https://jobs.lever.co/hatchit/60c36015-1d9c-4f3a-b0c8-054ff0187e55/apply">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8093b28-2ebb-4bcf-8fcf-fee7fe33a41b">IT Systems Engineer, Mobile Client Platform Engineer</a> 🌐</td>
-<td>Remote — United States<br/>Washington, DC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5396384008">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Lynk</strong></td>

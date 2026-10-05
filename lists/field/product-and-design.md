@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**87 open roles.** 67 in the United States & Canada · 20 elsewhere in the world.
+**79 open roles.** 60 in the United States & Canada · 19 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -214,13 +214,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Levio</strong></td>
-<td><a href="https://trueinterview.io/jobs/f56864b1-050e-44aa-8e99-479e8cac9edf">UX Designer</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/levio/jobs/8766390002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/9f12bade-4f3a-4749-9cbe-c5a891e3c333">Web Producer</a></td>
 <td>San Francisco, CA</td>
@@ -235,24 +228,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Hasbro</strong></td>
-<td><a href="https://trueinterview.io/jobs/f498cb18-fb10-4dab-a77a-9bbb82835c57">Game Designer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/hasbro/jobs/4374292009">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Business Wire</strong></td>
 <td><a href="https://trueinterview.io/jobs/1fe20c0f-b821-4f9f-a7c7-dde93d5bb5d2">Product Designer</a></td>
 <td>United States</td>
 <td align="center"><a href="https://jobs.lever.co/businesswire/61748cf9-4bff-4067-809a-fd58f42c78ff/apply">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fanatics Collectibles</strong></td>
-<td><a href="https://trueinterview.io/jobs/dfdcea0d-6c40-4d39-97e9-e8b66911e0bf">Associate Product Manager, Trading Cards - Basketball</a></td>
-<td>Coppell, TX, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4373056009">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
@@ -268,34 +247,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Redwood City, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sunday/7baaf3f3-cd11-4e68-b158-7ff287cba5f1/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Capco</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7275512-02c5-4737-bd83-67a2e5a7268e">UX Designer</a></td>
-<td>Canada - Toronto</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8155374">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Bland</strong></td>
-<td><a href="https://trueinterview.io/jobs/de529977-837e-4d70-ae3c-879954be4248">Product Designer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/bland/25b88b58-c567-4675-b41f-1d94f00192c9/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/eb61101d-b7c4-4868-ae9e-6447c346a3a7">BIM Designer &amp; Coordinator</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/ad6b55f9-fa63-4860-b852-d90592e49d1c/application">Apply</a></td>
-<td align="center">23 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Sleeper</strong></td>
-<td><a href="https://trueinterview.io/jobs/b16916ab-2a4e-4c02-bbf8-717232d5c9f3">UI Graphic Designer</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sleeper/441ba4d4-d693-4d21-949b-e3e1e6b86b79/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Bardel Entertainment</strong></td>
@@ -574,13 +525,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London Office</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/tldraw/c52007ee-bac0-4176-a5f0-48fe6e1fe854/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Highlevel</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3687a2f-44b4-4e0f-a3d9-8985c54f00f2">Graphic Designer I</a></td>
-<td>Mexico</td>
-<td align="center"><a href="https://jobs.lever.co/gohighlevel/b24ee798-08e9-4d83-b195-278e7d7cb6af/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Flipper</strong></td>

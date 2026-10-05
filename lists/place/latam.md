@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**41 open roles.**
+**39 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -175,13 +175,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/df69d99a-1e24-4c51-9e46-ffb554d403ec">Technical Solutions Engineer</a></td>
-<td>Mexico City</td>
-<td align="center"><a href="https://www.monks.com/careers/6175822004/job?gh_jid=6175822004">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3598b734-2906-4dd4-957d-48147e5c9219">AI Product Owner (banco de talentos)</a></td>
 <td>Mexico City</td>
 <td align="center"><a href="https://www.monks.com/careers/6175775004/job?gh_jid=6175775004">Apply</a></td>
@@ -206,13 +199,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4cf20a5b-f127-484a-9cd9-83cd4552228c">206238 - ETL/Data Engineer</a></td>
 <td>Mexico City, Mexico City, Mexico<br/>Mexico, Mexico</td>
 <td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4706843006">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Percona</strong></td>
-<td><a href="https://trueinterview.io/jobs/d48b5725-2d24-4a7b-96a7-dbd3f476d820">Jr. Service Desk Agent</a></td>
-<td>Mexico City<br/>Sao Paulo<br/>Buenos Aires<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/percona/87c0e390-193c-4808-94e0-8f0f7d3720ba/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>

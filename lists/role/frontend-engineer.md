@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**8 open roles.** 7 in the United States & Canada · 1 elsewhere in the world.
+**7 open roles.** 6 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,13 +51,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://careers.fitmatecoach.com/roles/junior-frontend-developer">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Levio</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff1ae71b-9513-4393-a3fd-e1b5f43f5678">Web Developer</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/levio/jobs/8766410002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Courtavenue</strong></td>

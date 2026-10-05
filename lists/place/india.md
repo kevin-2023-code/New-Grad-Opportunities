@@ -2,7 +2,7 @@
 
 # 🇮🇳 Bengaluru & India
 
-**16 open roles.**
+**14 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -88,20 +88,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hyderabad<br/>India</td>
 <td align="center"><a href="https://www.frazierdeeter.com/careers/openings/apply/7986994003?gh_jid=7986994003">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>ZoomInfo</strong></td>
-<td><a href="https://trueinterview.io/jobs/aec5ef11-47ca-42e9-bc8e-b1f563ffbb8a">Software Engineer I - Salesforce</a></td>
-<td>Bengaluru, Karnataka, India<br/>Bangalore, India</td>
-<td align="center"><a href="https://www.zoominfo.com/careers?gh_jid=8759686002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Megaport</strong></td>
-<td><a href="https://trueinterview.io/jobs/bc339912-6a8a-4268-894a-9a7c95f90d66">NOC Engineer</a></td>
-<td>Gurugram</td>
-<td align="center"><a href="https://jobs.lever.co/megaport/b826ffe7-6079-4b82-9a0d-d2919532cbc0/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Knowbe4</strong></td>
