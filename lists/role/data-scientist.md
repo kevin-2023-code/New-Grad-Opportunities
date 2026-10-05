@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**27 open roles.** 19 in the United States & Canada · 8 elsewhere in the world.
+**28 open roles.** 19 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -162,6 +162,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Genomics England</strong></td>
+<td><a href="https://trueinterview.io/jobs/31e4cf8d-2c75-436c-aa96-93245e50252f">Genomic Data Scientist</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://4dayweek.io/job/genomic-data-scientist-at-genomics-england-f10142da">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Desjardins</strong></td>
 <td><a href="https://trueinterview.io/jobs/59d4c64a-e8f2-4f66-b81c-2b78b8f520ff">Data Scientist, Credit Risk Quantification</a></td>

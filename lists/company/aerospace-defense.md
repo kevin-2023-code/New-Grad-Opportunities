@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**98 open roles.** 91 in the United States & Canada · 7 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**99 open roles.** 92 in the United States & Canada · 7 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d970c73-e115-4f6f-ae99-7632dd3a2a1b">Power Electronics Engineer, Consumer Hardware &amp; Gateways (Starlink)</a></td>
+<td>Bastrop, TX</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8855894002?gh_jid=8855894002">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5a92414f-3fe4-4dea-a5ac-e9a5359c57c1">Mechanical Hardware Test Engineer - Failure Analysis (Starlink)</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8867581002?gh_jid=8867581002">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/874711b5-7818-48a1-8890-c16c1f27b2af">Photonics Engineer - Fiber Amplifiers, Satellites (Starlink)</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8867559002?gh_jid=8867559002">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>World View Enterprises Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/83201f01-4ab6-449a-9af0-d08c46c1b6de">Software Engineer</a></td>
@@ -639,20 +660,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Starbase, TX<br/>Brownsville, TX, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8689262002?gh_jid=8689262002">Apply</a></td>
 <td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b2928ac6-8476-4296-87d1-131e3260da30">ASIC/SOC DFT Engineer (Silicon Engineering)</a></td>
-<td>Austin, TX<br/>Palo Alto, CA<br/>Austin - 800<br/>+2 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8686199002?gh_jid=8686199002">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c910224-0a94-466d-afa3-b33aa68356cb">RF Integration Engineer</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/4748076007?gh_jid=4748076007">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

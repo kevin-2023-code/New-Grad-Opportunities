@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**35 open roles.** 24 in the United States & Canada · 11 elsewhere in the world.
+**39 open roles.** 26 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nebius Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/3dfa5737-4f84-429f-9bae-6c59cfe640f0">Data Center Facilities Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://careers.nebius.com/?gh_jid=4995877101">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cipherhealth</strong></td>
+<td><a href="https://trueinterview.io/jobs/f81b65f0-b371-483f-9f76-a27789a33a47">Data Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/cipherhealth/jobs/8257191">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Atlassian</strong></td>
+<td><a href="https://trueinterview.io/jobs/a664e30d-f509-47dc-a26a-3b384c5c8623">Data Engineer, 2027 Graduate U.S</a></td>
+<td>Seattle - United States - Seattle, Washington United States</td>
+<td align="center"><a href="https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job?mode=apply">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Evolutioniq</strong></td>
 <td><a href="https://trueinterview.io/jobs/dd2ac24a-a8fa-477c-a47e-0e458ee865fd">Associate Data Engineer (Python / AI Insurance SaaS)</a></td>
@@ -178,13 +199,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/lovable/d92292d5-a9f5-4637-9d86-77e95bf66970/application">Apply</a></td>
 <td align="center">9 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Ostium Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/cbee6b3c-7822-410a-b895-24cca80d83da">Data Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ostium/f4b646e5-cec6-4716-af52-ce9fa02ff6e2/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -197,6 +211,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Neara</strong></td>
+<td><a href="https://trueinterview.io/jobs/c457314d-9d1b-412a-ba2d-a534434630d1">Data Engineer</a></td>
+<td>Vilnius</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neara/fbd77ceb-6c50-493e-b543-03f21682eb03/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Seccl</strong></td>
+<td><a href="https://trueinterview.io/jobs/f47ce75e-0094-442a-9714-a3a04fc0e1d3">Data analytics engineer</a></td>
+<td>London<br/>Edinburgh<br/>Bath</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/seccl/0e63508b-cf7e-466b-af55-78e619057a0f/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/79fbcd23-8924-46d4-9fc4-48b96a23ed84">IN_Senior Manager_Azure Data Engineer_OC-Data &amp; Analytics AITH_Advisory_Bhubaneswar</a></td>

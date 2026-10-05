@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**40 open roles.** 23 in the United States & Canada · 17 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**37 open roles.** 22 in the United States & Canada · 15 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4e8eaba-debb-482d-a14c-3d3b96daa2ba">Full Stack Engineer, Builder Experience</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8206731">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Prosper</strong></td>
 <td><a href="https://trueinterview.io/jobs/26f7c8e3-d866-47ad-b172-32f60733d13c">Escalations Specialist</a></td>
@@ -51,13 +58,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8191751">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Stripe</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e3b4740-0aab-4386-9526-434a8718ff5b">Software Engineer, Early Career — Immediate Start</a></td>
-<td>San Francisco, CA<br/>San Francisco, Seattle, New York<br/>Toronto<br/>+1 more</td>
-<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8212508">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Sydecar</strong></td>
@@ -170,13 +170,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — Canada, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/hiive/ef18ebc7-99f6-4cdc-b75c-5f51b518cfad/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ostium Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/cbee6b3c-7822-410a-b895-24cca80d83da">Data Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ostium/f4b646e5-cec6-4716-af52-ce9fa02ff6e2/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>
@@ -294,20 +287,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Ciudad de México, México<br/>México</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/cobre/jobs/4363684009">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Xsolla</strong></td>
-<td><a href="https://trueinterview.io/jobs/738bbab7-d3d9-4381-bb5f-6de13741eb7d">Developer Evangelist - Integrations</a></td>
-<td>Moscow<br/>Almaty<br/>Armenia<br/>+5 more</td>
-<td align="center"><a href="https://jobs.lever.co/xsolla/d00d0e70-7c03-4fe9-8ebe-884721476c10/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/42f6a996-5571-4b7a-bda6-c3458480be7a">Developer Evangelist - Community</a></td>
-<td>Moscow<br/>Almaty<br/>Armenia<br/>+5 more</td>
-<td align="center"><a href="https://jobs.lever.co/xsolla/8c0f5e96-f19f-4d7b-a2a2-a2531e925f02/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

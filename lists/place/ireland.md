@@ -2,7 +2,7 @@
 
 # 🇮🇪 Dublin & Ireland
 
-**5 open roles.** 3 in the United States & Canada · 2 elsewhere in the world.
+**7 open roles.** 3 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,18 +51,32 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Fanatics Betting &amp; Gaming</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f3edbaf-bbc3-46d1-abf1-837a6d165979">Quantitative Analyst I</a></td>
+<td>Dublin, Ireland</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fanaticsfbg/jobs/4433935009">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Asana</strong></td>
+<td><a href="https://trueinterview.io/jobs/87687268-d53f-4633-8c55-15527af5ae0e">Designated Support Engineer</a></td>
+<td>Dublin</td>
+<td align="center"><a href="https://www.asana.com/jobs/apply/8250168?gh_jid=8250168">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Iex Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/892c3db5-da49-4df3-8751-92cc027a7cb5">Network Engineer - Ireland</a></td>
+<td>Dublin, Ireland</td>
+<td align="center"><a href="https://iex.io/careers/apply?gh_jid=8141528">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Notion</strong></td>
 <td><a href="https://trueinterview.io/jobs/a27c7c2f-01ac-4bc9-8d0e-1d8a236c4fcc">Workplace Technology Operation (Contractor), Dublin</a></td>
 <td>Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/notion/e0971bdd-0e09-4299-b161-74a382d54741/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Amax</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d3edc55-31b3-4272-9163-fc64081db781">Hardware Solutions Engineer</a></td>
-<td>Cork, County Cork, Ireland<br/>Galway, County Galway, Ireland<br/>Dublin, County Dublin, Ireland<br/>+1 more</td>
-<td align="center"><a href="https://jobs.workable.com/view/3d12W627af3NLofw2A2qed/hardware-solutions-engineer-in-cork-at-amax">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

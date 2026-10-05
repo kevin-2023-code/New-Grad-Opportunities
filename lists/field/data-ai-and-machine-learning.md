@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**225 open roles.** 145 in the United States & Canada · 80 elsewhere in the world.
+**230 open roles.** 146 in the United States & Canada · 84 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nebius Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/3dfa5737-4f84-429f-9bae-6c59cfe640f0">Data Center Facilities Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://careers.nebius.com/?gh_jid=4995877101">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bloomberg</strong></td>
+<td><a href="https://trueinterview.io/jobs/d41dba9e-0730-4577-afe7-72c98863cea0">Legal Data Analyst - Data Enrichment</a></td>
+<td>Princeton, New Jersey, United States of America</td>
+<td align="center"><a href="https://bloomberg.avature.net/careers/JobDetail/Legal-Data-Analyst-Data-Enrichment/45084">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cipherhealth</strong></td>
+<td><a href="https://trueinterview.io/jobs/f81b65f0-b371-483f-9f76-a27789a33a47">Data Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/cipherhealth/jobs/8257191">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Atlassian</strong></td>
+<td><a href="https://trueinterview.io/jobs/a664e30d-f509-47dc-a26a-3b384c5c8623">Data Engineer, 2027 Graduate U.S</a></td>
+<td>Seattle - United States - Seattle, Washington United States</td>
+<td align="center"><a href="https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job?mode=apply">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Autodesk</strong></td>
 <td><a href="https://trueinterview.io/jobs/709f19fb-0014-4ca1-b40f-4eacedf4b10f">Phd Researcher, Machine Learning for Construction</a></td>
@@ -907,13 +935,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Nuro</strong></td>
-<td><a href="https://trueinterview.io/jobs/84ee8fae-a698-4c59-82d0-92daae87353c">Applied AI Researcher, Agent Systems &amp; Evaluation</a></td>
-<td>Mountain View, California (HQ)<br/>California - HQ</td>
-<td align="center"><a href="https://nuro.ai/careersitem?gh_jid=7793005">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/f6c2b0de-451b-4d7d-9ff6-c6788d885774">Manufacturing Engineer, AI Satellites (Starmind)</a></td>
 <td>Bastrop, TX</td>
@@ -1018,20 +1039,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207418007">Apply</a></td>
 <td align="center">7 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Kabam</strong></td>
-<td><a href="https://trueinterview.io/jobs/53fb8d2a-b3fc-4733-9420-1940939a1565">Data Analyst</a></td>
-<td>Vancouver, BC</td>
-<td align="center"><a href="https://jobs.lever.co/kabam/cbdbaeeb-1228-40c6-a022-48306ea63635/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ostium Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/cbee6b3c-7822-410a-b895-24cca80d83da">Data Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ostium/f4b646e5-cec6-4716-af52-ce9fa02ff6e2/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1044,6 +1051,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Neara</strong></td>
+<td><a href="https://trueinterview.io/jobs/c457314d-9d1b-412a-ba2d-a534434630d1">Data Engineer</a></td>
+<td>Vilnius</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neara/fbd77ceb-6c50-493e-b543-03f21682eb03/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Neura Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/73d0d13d-056f-497c-af3d-028ec743c0e0">Edge AI Engineer (Mensch)</a></td>
+<td>Metzingen / Riederich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/40c07866-7a69-42fd-8924-29842373a0cf/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Seccl</strong></td>
+<td><a href="https://trueinterview.io/jobs/f47ce75e-0094-442a-9714-a3a04fc0e1d3">Data analytics engineer</a></td>
+<td>London<br/>Edinburgh<br/>Bath</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/seccl/0e63508b-cf7e-466b-af55-78e619057a0f/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Genomics England</strong></td>
+<td><a href="https://trueinterview.io/jobs/31e4cf8d-2c75-436c-aa96-93245e50252f">Genomic Data Scientist</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://4dayweek.io/job/genomic-data-scientist-at-genomics-england-f10142da">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e50523e-9e37-4328-b72d-754ff3a4f3f1">C++ Software Engineer – AI Developer Tools</a> 🌐</td>
+<td>Remote — United Kingdom, Switzerland</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/C---Software-Engineer---AI-Developer-Tools_JR2026661">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Clera</strong></td>
 <td><a href="https://trueinterview.io/jobs/f55c652a-4739-4b02-a9d2-89b1e7444b76">Entry-Level Robot Learning Engineer</a></td>
@@ -1596,13 +1638,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/exa/f6bd612e-a4ee-4c75-a205-5cd70901661f/application">Apply</a></td>
 <td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lovable</strong></td>
-<td><a href="https://trueinterview.io/jobs/d21aec7b-8ad4-41ea-8968-7cca811cc318">AI Ops Engineer (People Team)</a></td>
-<td>Stockholm</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lovable/8dd92c40-b45d-41b2-ae6b-1680b0a05d92/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

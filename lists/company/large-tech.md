@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**130 open roles.** 103 in the United States & Canada · 27 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**127 open roles.** 103 in the United States & Canada · 24 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/c35ab62d-68ab-46b7-8e9b-859a57350cdf">Performance Engineer, Kernel and Memory</a></td>
+<td>Austin, TX<br/>New York, NY<br/>Washington, DC<br/>+2 more (hybrid)</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8214470?gh_jid=8214470">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4e8eaba-debb-482d-a14c-3d3b96daa2ba">Full Stack Engineer, Builder Experience</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8206731">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GitLab</strong></td>
+<td><a href="https://trueinterview.io/jobs/573142d3-8685-4449-ac20-877e8834d82e">Support Engineer, U.S. Government Support</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8859063002">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Grammarly</strong></td>
 <td><a href="https://trueinterview.io/jobs/1a9da32f-cb68-4888-8b27-07e54e58001e">Software Engineer, Full-Stack - Agents Cross-FA</a></td>
 <td>Hub - Toronto</td>
@@ -26,6 +47,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Yelp</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f345a23-c136-477e-9dd8-cf91aaadbc07">Solutions Engineer, API Integration</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://uscareers-yelp.icims.com/jobs/14073/solutions-engineer%2c-api-integration/job">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5aae45d0-5801-4207-ae9b-ca53f4661c3d">Retention Restaurant Support Specialist, SaaS Sales - (Remote - US)</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://uscareers-yelp.icims.com/jobs/14071/retention-restaurant-support-specialist%2c-saas-sales---%28remote---us%29/job">Apply</a></td>
@@ -135,13 +163,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://4dayweek.io/job/solutions-engineer-acquisition-at-grafana-labs-4919acc2">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Stripe</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e3b4740-0aab-4386-9526-434a8718ff5b">Software Engineer, Early Career — Immediate Start</a></td>
-<td>San Francisco, CA<br/>San Francisco, Seattle, New York<br/>Toronto<br/>+1 more</td>
-<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8212508">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Pure Storage</strong></td>
@@ -717,27 +738,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/e961c9df-caa0-4b29-b37c-a3e02c564615/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Coursera</strong></td>
-<td><a href="https://trueinterview.io/jobs/26d51152-3ea3-4294-a1ee-06b23a20dd95">IT Support Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/coursera/jobs/6132360004">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/bfc0a385-f2e6-4af5-9e25-e3d6fa697187">Product Designer, Engineering Acceleration</a></td>
-<td>Seattle, WA<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/73fdf2c0-4318-4b13-addc-b66bc1308ba4/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ee4c445b-9650-467e-9c04-8764f82954c9">Product Designer, Payments</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/3813977e-5940-456d-bf5a-16efcdc3a6dc/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -805,13 +805,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Ho Chi Minh, Vietnam</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ho-Chi-Minh/Senior-Staff-CAD-Engineer_2600925">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Nebius</strong></td>
-<td><a href="https://trueinterview.io/jobs/1475dde7-be34-4314-ab74-758bda7df67f">Network Security Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://careers.nebius.com/?gh_jid=4971845101">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>C6 Bank</strong></td>
@@ -924,20 +917,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>NZ: Auckland: Xero 4 (96 St Georges Bay Rd, Level 2 &amp; 3)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/xero/8dd95e1d-5376-41a7-a8b1-4dc88f392134/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Xsolla</strong></td>
-<td><a href="https://trueinterview.io/jobs/738bbab7-d3d9-4381-bb5f-6de13741eb7d">Developer Evangelist - Integrations</a></td>
-<td>Moscow<br/>Almaty<br/>Armenia<br/>+5 more</td>
-<td align="center"><a href="https://jobs.lever.co/xsolla/d00d0e70-7c03-4fe9-8ebe-884721476c10/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/42f6a996-5571-4b7a-bda6-c3458480be7a">Developer Evangelist - Community</a></td>
-<td>Moscow<br/>Almaty<br/>Armenia<br/>+5 more</td>
-<td align="center"><a href="https://jobs.lever.co/xsolla/8c0f5e96-f19f-4d7b-a2a2-a2531e925f02/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

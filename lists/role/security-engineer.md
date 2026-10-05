@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**35 open roles.** 25 in the United States & Canada · 10 elsewhere in the world.
+**33 open roles.** 25 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -212,13 +212,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Nebius</strong></td>
-<td><a href="https://trueinterview.io/jobs/1475dde7-be34-4314-ab74-758bda7df67f">Network Security Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://careers.nebius.com/?gh_jid=4971845101">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Business Wire</strong></td>
 <td><a href="https://trueinterview.io/jobs/49e69398-9c9f-42dd-b520-caeaec450c99">Cybersecurity Engineer</a> 🌐</td>
 <td>Remote</td>
@@ -266,13 +259,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/bpcs/jobs/8129208">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Happyrobot Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed0b516a-8e08-4e74-9f27-6063abfff641">Cloud Security Engineer</a></td>
-<td>Madrid<br/>Barcelona</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/happyrobot.ai/039cf27f-591f-435a-84be-9b4b2df568f1/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**184 open roles.** 181 in the United States & Canada · 3 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**188 open roles.** 184 in the United States & Canada · 4 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tenstorrent</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec577568-aeed-4040-a3c1-cbd0e94f5a2a">Performance Analysis Engineer</a></td>
+<td>Toronto, Ontario, Canada<br/>Santa Clara, California, United States<br/>North America</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5257063007">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/ac3ba515-0731-4547-8391-fd1febaddb8f">CPU Core Verification Engineer</a></td>
+<td>Fort Collins, Colorado, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92849?lang=en-us">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7e40846d-ff96-4f8b-88f6-c116ab34b820">Software Development Engineer - Networking</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92606?lang=en-us">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/69e866f7-9532-483f-b60e-237d04aa71b7">Software Engineer - Networking, firmware and C++</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92603?lang=en-us">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/623662d3-20da-41b3-b25e-f858870e7a7c">Cloud Software Development Engineer</a></td>
+<td>Costa Rica, San Jose</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Cloud-Software-Development-Engineer_JR0287842">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9469f8fa-e835-4cc3-8ab4-f6a52dfe4bf7">Module Engineer On-Shift (MEOS) – Night Shift (4)</a></td>
+<td>US, Arizona, Phoenix, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Module-Engineer-On-Shift--MEOS----Night-Shift--4-_JR0287815">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/587b48bd-90a6-492b-b7e3-54247b8f03a7">2027 New College Grad - Process Engineer III - Doctorate (Winter 2026 Start)</a></td>
@@ -50,13 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/657d4e0f-e576-421e-81e0-e74bf5bc1c80">Process Engineer III - New College Grad (Kalispell, MT)</a></td>
 <td>Kalispell, MT, US<br/>Santa Clara, CA, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318726523">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/8dd332d4-679b-47ee-9090-8bc3e14f801f">Server Test Quality and Reliability Engineer</a></td>
-<td>Costa Rica, San Jose</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Server-Test-Quality-and-Reliability-Engineer_JR0287434">Apply</a></td>
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>
@@ -197,6 +232,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/85d8090d-fe62-4689-b71b-1a08b5ce9e46">Data Scientist New College Grad- Bachelor's/Master's (Austin, TX)</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318333503">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/381cfbf5-0a0e-431f-a869-974b732042ae">Software Applications Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -600,13 +642,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7a472eb-d59d-436a-8cd6-f6ea72b71ae6">Advanced Packaging Quality and Reliability Engineer</a></td>
-<td>US, New Mexico, Albuquerque, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/Advanced-Packaging-Quality-and-Reliability-Engineer_JR0286145">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/382d9ff9-d5ea-471a-81f1-182d9574273e">RTL Design Engineer</a></td>
 <td>US, Texas, Austin, United States of America<br/>US, Arizona, Phoenix<br/>US, Oregon, Hillsboro</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/RTL-Design-Engineer_JR0287272">Apply</a></td>
@@ -621,13 +656,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Coherent Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/2192b189-b881-4e04-af4e-409a0a3f9f74">Equipment Engineer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014729">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bf7b26cf-0fde-46ba-89f8-30cf7f8571c3">R&amp;D Engineering Technician</a></td>
 <td>Newark, DE, United States</td>
 <td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014550">Apply</a></td>
@@ -708,13 +736,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/16d0709b-0279-4b23-9a9e-fe62750f8987">Sr. Software Development Engineer</a></td>
 <td>US, NJ, Secaucus_Meadowlands<br/>Secaucus, New Jersey, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91803?lang=en-us">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6701b1d-c2a7-4c69-9ee2-67a9133c2be7">Product Line Management I- New College Grad- Bachelor's (Santa Clara, CA)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318092839">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
@@ -1296,6 +1317,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e50523e-9e37-4328-b72d-754ff3a4f3f1">C++ Software Engineer – AI Developer Tools</a> 🌐</td>
+<td>Remote — United Kingdom, Switzerland</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/C---Software-Engineer---AI-Developer-Tools_JR2026661">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/48d4ba16-cb9a-4001-baa0-dc8ade9d6d70">AI Tools and Cloud Software Developer</a></td>

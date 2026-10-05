@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**79 open roles.** 60 in the United States & Canada · 19 elsewhere in the world.
+**75 open roles.** 57 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,17 +18,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>IXL Learning</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1324f11-a1f1-42e5-979c-805f3839543a">Graphic Designer (Freelance)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.ixl.com/company/jobs?gh_jid=8868988002">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3ca6767-7462-4ff1-a34c-87dc9955c76e">Product Management Specialist</a></td>
+<td>Washington - Seattle, United States of America</td>
+<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Product-Management-Specialist_JR362469-1">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Intuit</strong></td>
 <td><a href="https://trueinterview.io/jobs/df762123-cc6e-4c95-ada4-731dc88c7e96">Product Manager 2 - Rotational Product Management (RPM) Program</a></td>
 <td>Mountain View, California</td>
 <td align="center"><a href="https://jobs.intuit.com/job/mountain-view/product-manager-2-rotational-product-management-rpm-program/27595/101456093584">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Salesforce</strong></td>
-<td><a href="https://trueinterview.io/jobs/750d39ef-34d4-4593-b996-49d1f8839e26">Associate Product Manager (starting summer 2027)</a></td>
-<td>California - San Francisco, United States of America</td>
-<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1">Apply</a></td>
 <td align="center">2 Oct 2026</td>
 </tr>
 <tr>
@@ -205,13 +212,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, ON</td>
 <td align="center"><a href="https://jobs.lever.co/caseware/35366087-6670-40a2-ba0e-7eee4d4a8db0/apply">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>IXL Learning</strong></td>
-<td><a href="https://trueinterview.io/jobs/37e9228d-696f-4ed1-a61d-a4ba591cb8d0">Associate Product Manager, New Grad</a></td>
-<td>San Mateo, CA</td>
-<td align="center"><a href="https://www.ixl.com/company/jobs?gh_jid=8765765002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>OpenAI</strong></td>
@@ -416,27 +416,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-Software-Product-Manager_R-10064599">Apply</a></td>
 <td align="center">7 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Solace</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a069215-6ea5-46a1-9f6a-b7d2ec901653">Associate Product Designer (College Grad 2027)</a></td>
-<td>Redwood City, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/solace/8c77b80c-957a-4861-87f9-63b05f09f5be/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/bfc0a385-f2e6-4af5-9e25-e3d6fa697187">Product Designer, Engineering Acceleration</a></td>
-<td>Seattle, WA<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/73fdf2c0-4318-4b13-addc-b66bc1308ba4/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ee4c445b-9650-467e-9c04-8764f82954c9">Product Designer, Payments</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/3813977e-5940-456d-bf5a-16efcdc3a6dc/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -573,13 +552,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b68e5d4a-5a63-475f-a9e4-0fbddb72b0d4">E-commerce Photographer - WPP Production Melbourne</a></td>
 <td>Melbourne, Australia</td>
 <td align="center"><a href="https://www.wppproduction.com/careers/jobs/6121015004?gh_jid=6121015004">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Oliver Agency</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b73550f-6895-46d3-9469-fb45a6c73b8f">Motion Designer - BAIS ARGENTINA</a></td>
-<td>City, Country<br/>LATAM</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/oliver/jobs/8076959">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 </tbody>

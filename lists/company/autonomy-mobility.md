@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**47 open roles.** 38 in the United States & Canada · 9 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**46 open roles.** 38 in the United States & Canada · 8 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/276f5f24-94af-4c79-a370-e7d70add164a">Manufacturing Engineer- New Model Launch</a></td>
+<td>Allen Park, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71883">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nuro</strong></td>
+<td><a href="https://trueinterview.io/jobs/a62efe23-26dd-4da8-bcb4-2f0ae5936db5">New Grad Software Engineer, Routing</a></td>
+<td>Mountain View, California (HQ)<br/>California - HQ</td>
+<td align="center"><a href="https://nuro.ai/careersitem?gh_jid=8248317">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Bot Auto</strong></td>
 <td><a href="https://trueinterview.io/jobs/9ef6da32-202d-459b-8644-41b3997c8f39">Planning &amp; Control Engineer, Early Career</a></td>
@@ -263,25 +277,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Nuro</strong></td>
-<td><a href="https://trueinterview.io/jobs/84ee8fae-a698-4c59-82d0-92daae87353c">Applied AI Researcher, Agent Systems &amp; Evaluation</a></td>
-<td>Mountain View, California (HQ)<br/>California - HQ</td>
-<td align="center"><a href="https://nuro.ai/careersitem?gh_jid=7793005">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Ford Motor Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/f5725c99-2eda-420d-ac05-35908794ba11">Ford Racing Chassis D&amp;R Engineer</a></td>
 <td>Allen Park, MI, United States</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66597">Apply</a></td>
 <td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Zoox</strong></td>
-<td><a href="https://trueinterview.io/jobs/d02e0627-5814-4099-994c-66da964156a8">Embedded Software Engineer - Battery Management Systems</a></td>
-<td>San Diego, CA<br/>Foster City, CA</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/082ed20c-b8e1-4b1c-9c22-4738ad94055d/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>
@@ -350,13 +350,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Alameda HQ</td>
 <td align="center"><a href="https://jobs.lever.co/pyka/4b778d4b-9fab-4df8-9a91-0728e6658a48/apply">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d4918f8d-fadc-4f17-9741-d0b82b2ee3f0">Deployed Flight Test Engineer</a></td>
-<td>Alameda HQ</td>
-<td align="center"><a href="https://jobs.lever.co/pyka/e7f3540f-b228-4359-8595-a4a6ac596e3b/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

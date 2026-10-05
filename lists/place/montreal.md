@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**21 open roles.**
+**20 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -156,13 +156,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Montréal, Quebec, Canada<br/>Canada, Montréal</td>
 <td align="center"><a href="https://mthree.com/careers/job/?gh_jid=4704268006">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ubisoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ce0e488-d289-4f2b-9230-2d14407e744b">Tools Programer - Quality Foundation</a></td>
-<td>Montreal, QC, Canada</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000141991169-tools-programer-quality-foundation?oga=true">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

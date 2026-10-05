@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**7 open roles.**
+**6 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -58,13 +58,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Diego, California</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/trelliswaretechnologies/jobs/4356871009">Apply</a></td>
 <td align="center">15 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Zoox</strong></td>
-<td><a href="https://trueinterview.io/jobs/d02e0627-5814-4099-994c-66da964156a8">Embedded Software Engineer - Battery Management Systems</a></td>
-<td>San Diego, CA<br/>Foster City, CA</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/082ed20c-b8e1-4b1c-9c22-4738ad94055d/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

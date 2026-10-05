@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**63 open roles.**
+**62 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -450,13 +450,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Los Angeles, CA (On-site)<br/>Headquarters</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826615003">Apply</a></td>
 <td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c910224-0a94-466d-afa3-b33aa68356cb">RF Integration Engineer</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/4748076007?gh_jid=4748076007">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

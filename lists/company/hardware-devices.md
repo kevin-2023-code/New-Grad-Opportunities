@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**89 open roles.** 78 in the United States & Canada · 11 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**93 open roles.** 82 in the United States & Canada · 11 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1407b78-a910-4e16-9d21-22aa6a7ec0b2">Hardware Post-Silicon Validation Engineer (Hybrid)</a></td>
+<td>San Jose, California, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Post-Silicon-Validation-Engineer--Hybrid-_2027725">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d2688c09-3939-4ed2-899d-9550e57001a1">Software Engineer in Test (Network Security, Performance), Hybrid, RTP, NC</a></td>
+<td>RTP, North Carolina, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer-in-Test--Network-Security--Performance---Hybrid--RTP--NC_2027548">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dell</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb595212-b081-455f-afb2-59441f4ae844">Consultant, Data Engineering</a></td>
+<td>TX, United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/300054">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf19f460-6ecf-4853-a032-32b919af58c8">Mechanical Design Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40738">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Samsung</strong></td>
 <td><a href="https://trueinterview.io/jobs/7c86b79b-be3c-4b0a-b8ad-23c149c056d9">Metals Process Engineer FEOL</a></td>
@@ -576,6 +604,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Neura Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/73d0d13d-056f-497c-af3d-028ec743c0e0">Edge AI Engineer (Mensch)</a></td>
+<td>Metzingen / Riederich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/40c07866-7a69-42fd-8924-29842373a0cf/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Motorola Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/1ba093cf-bf86-493a-a1f0-ab00916298a8">JAVA Developer (Java Springboot,Microservices)</a></td>
 <td>Bangalore, India</td>
@@ -644,13 +679,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Chennai, India</td>
 <td align="center"><a href="https://jobs.lever.co/extremenetworks/8b82c64d-32db-42bc-9070-c80a491d7534/apply">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Amax</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d3edc55-31b3-4272-9163-fc64081db781">Hardware Solutions Engineer</a></td>
-<td>Cork, County Cork, Ireland<br/>Galway, County Galway, Ireland<br/>Dublin, County Dublin, Ireland<br/>+1 more</td>
-<td align="center"><a href="https://jobs.workable.com/view/3d12W627af3NLofw2A2qed/hardware-solutions-engineer-in-cork-at-amax">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

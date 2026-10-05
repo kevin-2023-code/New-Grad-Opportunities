@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**129 open roles.** 100 in the United States & Canada · 29 elsewhere in the world.
+**127 open roles.** 98 in the United States & Canada · 29 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -703,20 +703,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/lunarenergy/jobs/6140237004">Apply</a></td>
 <td align="center">10 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Coursera</strong></td>
-<td><a href="https://trueinterview.io/jobs/26d51152-3ea3-4294-a1ee-06b23a20dd95">IT Support Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/coursera/jobs/6132360004">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Agile Defense</strong></td>
-<td><a href="https://trueinterview.io/jobs/75628b5b-2212-4184-ba45-1927393728d0">Test and Evaluation Analyst (Cyber Survivability)</a></td>
-<td>Fort Huachuca, AZ</td>
-<td align="center"><a href="https://jobs.lever.co/agile-defense/b882eec4-bfa9-43ed-a08b-265096136528/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -729,6 +715,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Iex Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/892c3db5-da49-4df3-8751-92cc027a7cb5">Network Engineer - Ireland</a></td>
+<td>Dublin, Ireland</td>
+<td align="center"><a href="https://iex.io/careers/apply?gh_jid=8141528">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Motorola Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/2746d65e-23f4-4333-a4d3-b5429364100e">Graduate Systems Engineer - Mobile MDT</a></td>
@@ -797,13 +790,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a4cbcb04-9368-4305-954f-5fa810309041">L1 Technical Support Agent (Spanish and English Speaking)</a></td>
 <td>LATAM</td>
 <td align="center"><a href="https://jobs.lever.co/canarytechnologies/6911aa00-dae1-458d-963d-779302f512ec/apply">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Nebius</strong></td>
-<td><a href="https://trueinterview.io/jobs/1475dde7-be34-4314-ab74-758bda7df67f">Network Security Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://careers.nebius.com/?gh_jid=4971845101">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>

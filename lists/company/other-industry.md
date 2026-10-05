@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>IXL Learning</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1324f11-a1f1-42e5-979c-805f3839543a">Graphic Designer (Freelance)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.ixl.com/company/jobs?gh_jid=8868988002">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>MLSE</strong></td>
 <td><a href="https://trueinterview.io/jobs/79fcf777-8594-4310-b31a-2659b78341ec">Data Scientist, Biomechanics</a></td>
 <td>Toronto, Ontario</td>
@@ -58,13 +65,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39184">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>IXL Learning</strong></td>
-<td><a href="https://trueinterview.io/jobs/37e9228d-696f-4ed1-a61d-a4ba591cb8d0">Associate Product Manager, New Grad</a></td>
-<td>San Mateo, CA</td>
-<td align="center"><a href="https://www.ixl.com/company/jobs?gh_jid=8765765002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Beloved Community &amp; Empowerment Academy Charter Schools</strong></td>
@@ -127,6 +127,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Fanatics Betting &amp; Gaming</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f3edbaf-bbc3-46d1-abf1-837a6d165979">Quantitative Analyst I</a></td>
+<td>Dublin, Ireland</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fanaticsfbg/jobs/4433935009">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Monks</strong></td>
 <td><a href="https://trueinterview.io/jobs/4a9db71d-fc44-4d1a-8d0a-af1333af1010">Visual QA</a></td>
@@ -251,13 +258,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b68e5d4a-5a63-475f-a9e4-0fbddb72b0d4">E-commerce Photographer - WPP Production Melbourne</a></td>
 <td>Melbourne, Australia</td>
 <td align="center"><a href="https://www.wppproduction.com/careers/jobs/6121015004?gh_jid=6121015004">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Oliver Agency</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b73550f-6895-46d3-9469-fb45a6c73b8f">Motion Designer - BAIS ARGENTINA</a></td>
-<td>City, Country<br/>LATAM</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/oliver/jobs/8076959">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 </tbody>

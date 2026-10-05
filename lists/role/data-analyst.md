@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Bloomberg</strong></td>
+<td><a href="https://trueinterview.io/jobs/d41dba9e-0730-4577-afe7-72c98863cea0">Legal Data Analyst - Data Enrichment</a></td>
+<td>Princeton, New Jersey, United States of America</td>
+<td align="center"><a href="https://bloomberg.avature.net/careers/JobDetail/Legal-Data-Analyst-Data-Enrichment/45084">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Aledade</strong></td>
 <td><a href="https://trueinterview.io/jobs/06cb083d-503f-4eac-b982-9070e3e50296">Payer Operations Analyst</a> 🌐</td>
 <td>Remote — United States</td>
@@ -93,13 +100,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>South Salt Lake City, UT</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/leavitt/c989b74f-e8f2-4b84-91d3-a50c1acebdf2/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Kabam</strong></td>
-<td><a href="https://trueinterview.io/jobs/53fb8d2a-b3fc-4733-9420-1940939a1565">Data Analyst</a></td>
-<td>Vancouver, BC</td>
-<td align="center"><a href="https://jobs.lever.co/kabam/cbdbaeeb-1228-40c6-a022-48306ea63635/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

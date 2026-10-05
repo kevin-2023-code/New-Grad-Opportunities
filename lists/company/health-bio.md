@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**24 open roles.** 17 in the United States & Canada · 7 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**23 open roles.** 17 in the United States & Canada · 6 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -189,13 +189,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>San Diego HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/iambic-therapeutics/41e94f6a-c5ea-4c52-b527-e2976a08347d/application">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ansible Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/8815729f-4a04-4ee2-a7d1-4e3b100637be">QA / Test Engineer</a></td>
-<td>Philippines</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ansiblehealth/dbc0a9b5-0c38-466b-96e0-e5eae5b7ec29/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

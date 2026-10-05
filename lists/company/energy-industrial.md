@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**21 open roles.** 18 in the United States & Canada · 3 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**20 open roles.** 17 in the United States & Canada · 3 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -135,13 +135,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Grand Prairie, TX 75050<br/>Houston, TX 77028</td>
 <td align="center"><a href="https://jobs.lever.co/sunsrce/52e838a5-b19a-4ad0-8b21-89f9a5c8a58a/apply">Apply</a></td>
 <td align="center">10 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Vulcan Elements</strong></td>
-<td><a href="https://trueinterview.io/jobs/b65c4d5d-7a72-4249-965e-7fafefb9cc71">Mechanical Engineer</a></td>
-<td>Research Triangle Park, NC<br/>HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/vulcanelements/jobs/5381418008">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

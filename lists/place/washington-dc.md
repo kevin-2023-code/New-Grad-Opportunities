@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**44 open roles.**
+**45 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/c35ab62d-68ab-46b7-8e9b-859a57350cdf">Performance Engineer, Kernel and Memory</a></td>
+<td>Washington, DC<br/>Austin, TX<br/>New York, NY<br/>+2 more (hybrid)</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8214470?gh_jid=8214470">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anavation</strong></td>
+<td><a href="https://trueinterview.io/jobs/f793b993-db45-4d6b-afad-6c901b43fa49">Microsoft 365 Collaboration &amp; SharePoint Administrator/Engineer</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://jobs.lever.co/anavationllc/5ca4e92e-7592-4da4-a288-9480347646b9/apply">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Shield AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/7029b977-ce9a-4796-a39d-935a711bfa82">Assistant Product Owner, CCA Mission Autonomy (Platform Integration) (R5849)</a></td>
@@ -317,13 +331,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Washington, DC</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8691059002?gh_jid=8691059002">Apply</a></td>
 <td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lynk</strong></td>
-<td><a href="https://trueinterview.io/jobs/659f3f9c-1406-4375-a4d1-69c5e7906feb">Electrical Engineer</a></td>
-<td>Chantilly, VA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lynk/91da7c62-6815-4a8e-9fd0-0056e82388b6/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

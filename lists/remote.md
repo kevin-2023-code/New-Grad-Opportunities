@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**139 open roles.** 97 in the United States & Canada · 42 elsewhere in the world. Postings the pipeline classified as remote.
+**148 open roles.** 105 in the United States & Canada · 43 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -18,10 +18,52 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4e8eaba-debb-482d-a14c-3d3b96daa2ba">Full Stack Engineer, Builder Experience</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8206731">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IXL Learning</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1324f11-a1f1-42e5-979c-805f3839543a">Graphic Designer (Freelance)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.ixl.com/company/jobs?gh_jid=8868988002">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/5c70aeee-a054-4d87-8146-24b185eff487">Project Engineer - Site Design</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5444165008">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cipherhealth</strong></td>
+<td><a href="https://trueinterview.io/jobs/f81b65f0-b371-483f-9f76-a27789a33a47">Data Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/cipherhealth/jobs/8257191">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GitLab</strong></td>
+<td><a href="https://trueinterview.io/jobs/573142d3-8685-4449-ac20-877e8834d82e">Support Engineer, U.S. Government Support</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8859063002">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Autodesk</strong></td>
 <td><a href="https://trueinterview.io/jobs/e8dc6e4a-52a6-4401-9312-0599cddcc933">PhD Researcher, Multimodal AI for Human Experience</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/PhD-Researcher--Multimodal-AI-for-Human-Experience_26WD101433-1">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sphinx Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/04978eae-333b-4eab-99a6-d1dbe1a39ad7">Sphinx Defense / Software Engineering / Remote (US Only) /</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.sphinxdefense.com/">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
@@ -37,6 +79,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.lever.co/aledade/a4d5d93f-fcf8-40c4-a370-7ebec80bb1ab/apply">Apply</a></td>
 <td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Yelp</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f345a23-c136-477e-9dd8-cf91aaadbc07">Solutions Engineer, API Integration</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://uscareers-yelp.icims.com/jobs/14073/solutions-engineer%2c-api-integration/job">Apply</a></td>
+<td align="center">29 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Medrio</strong></td>
@@ -109,7 +158,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/381cfbf5-0a0e-431f-a869-974b732042ae">Software Applications Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>GitLab</strong></td>
 <td><a href="https://trueinterview.io/jobs/f0e49859-c9d2-4550-869b-1ffab2c1a726">Strategic Account Executive - San Francisco</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8691382002">Apply</a></td>
@@ -709,6 +765,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Dremio</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e7a4966-8995-4c56-9773-5c0672938b37">Software Engineer - Query Execution</a> 🌐</td>
+<td>Remote — Portugal</td>
+<td align="center"><a href="https://www.dremio.com/careers/job-postings/?gh_jid=8005826003">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e50523e-9e37-4328-b72d-754ff3a4f3f1">C++ Software Engineer – AI Developer Tools</a> 🌐</td>
+<td>Remote — United Kingdom, Switzerland</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/C---Software-Engineer---AI-Developer-Tools_JR2026661">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PVcase</strong></td>
+<td><a href="https://trueinterview.io/jobs/8467e3f8-282a-4976-b0a4-8a614caeb45d">Software Engineer (.NET)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://4dayweek.io/job/software-engineer-net-at-pvcase-4453b0f1">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Datamint</strong></td>
 <td><a href="https://trueinterview.io/jobs/e2ca04aa-f24a-4f1c-ad2f-3e0c91bd724b">Datamint / Rust Systems Engineer, Browser Security / Remote (Global) / Full-time / $120k–$170k + Equity /</a> 🌐</td>
 <td>Remote</td>
@@ -784,13 +861,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote — United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/infrastructure-engineer-at-griffin-070b444e">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Nebius</strong></td>
-<td><a href="https://trueinterview.io/jobs/1475dde7-be34-4314-ab74-758bda7df67f">Network Security Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://careers.nebius.com/?gh_jid=4971845101">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Rackner</strong></td>
@@ -994,13 +1064,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/nexus/jobs/5383509008">Apply</a></td>
 <td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/a104ef02-9dee-4ba9-8a13-db4c9657cc60">Lifecycle Stamp Test</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/clera/ddb462b8-946f-4ec7-9d8b-d66a557831f4/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

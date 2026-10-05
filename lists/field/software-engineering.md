@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**532 open roles.** 374 in the United States & Canada · 158 elsewhere in the world.
+**542 open roles.** 386 in the United States & Canada · 156 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,160 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/c35ab62d-68ab-46b7-8e9b-859a57350cdf">Performance Engineer, Kernel and Memory</a></td>
+<td>Austin, TX<br/>New York, NY<br/>Washington, DC<br/>+2 more (hybrid)</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8214470?gh_jid=8214470">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4e8eaba-debb-482d-a14c-3d3b96daa2ba">Full Stack Engineer, Builder Experience</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8206731">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anavation</strong></td>
+<td><a href="https://trueinterview.io/jobs/f793b993-db45-4d6b-afad-6c901b43fa49">Microsoft 365 Collaboration &amp; SharePoint Administrator/Engineer</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://jobs.lever.co/anavationllc/5ca4e92e-7592-4da4-a288-9480347646b9/apply">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d970c73-e115-4f6f-ae99-7632dd3a2a1b">Power Electronics Engineer, Consumer Hardware &amp; Gateways (Starlink)</a></td>
+<td>Bastrop, TX</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8855894002?gh_jid=8855894002">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Medeloop</strong></td>
+<td><a href="https://trueinterview.io/jobs/5bb274c7-01c1-4600-aed8-3516ba18be20">Forward Deployed Engineer</a></td>
+<td>San Francisco, California, United States<br/>SF - Hybrid</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/medeloop/jobs/4434047009">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/5c70aeee-a054-4d87-8146-24b185eff487">Project Engineer - Site Design</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5444165008">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nbcuniversal</strong></td>
+<td><a href="https://trueinterview.io/jobs/2d23d812-eb1d-4294-9728-23af61de7bf5">IAM Service Integration Engineer</a></td>
+<td>New York, NY<br/>New York, NEW YORK, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NBCUniversal3/744000153599549-iam-service-integration-engineer?oga=true">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GitLab</strong></td>
+<td><a href="https://trueinterview.io/jobs/573142d3-8685-4449-ac20-877e8834d82e">Support Engineer, U.S. Government Support</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8859063002">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nuro</strong></td>
+<td><a href="https://trueinterview.io/jobs/a62efe23-26dd-4da8-bcb4-2f0ae5936db5">New Grad Software Engineer, Routing</a></td>
+<td>Mountain View, California (HQ)<br/>California - HQ</td>
+<td align="center"><a href="https://nuro.ai/careersitem?gh_jid=8248317">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ExtraHop Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/ccb07b38-1397-4a73-882e-e7a663d211d2">Support Engineer I - NC</a></td>
+<td>North Carolina<br/>Raleigh, NC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/extrahopnetworks/jobs/6211107004">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Encord</strong></td>
+<td><a href="https://trueinterview.io/jobs/51cc3ff8-7d84-458f-b02b-bc9fb11a8828">Product Engineer, DaaS</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/encord/eb543661-f25f-42c7-a196-1d5489123ea6/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Flow Engineering</strong></td>
+<td><a href="https://trueinterview.io/jobs/51b77ff7-7535-4f88-9aef-7f552cd2f82a">GTM Engineer (Revenue Operations)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/flowengineering/236c4f86-58f7-461d-a396-d9ae3bff7d0b/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/874711b5-7818-48a1-8890-c16c1f27b2af">Photonics Engineer - Fiber Amplifiers, Satellites (Starlink)</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8867559002?gh_jid=8867559002">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/ac3ba515-0731-4547-8391-fd1febaddb8f">CPU Core Verification Engineer</a></td>
+<td>Fort Collins, Colorado, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92849?lang=en-us">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7e40846d-ff96-4f8b-88f6-c116ab34b820">Software Development Engineer - Networking</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92606?lang=en-us">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/69e866f7-9532-483f-b60e-237d04aa71b7">Software Engineer - Networking, firmware and C++</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92603?lang=en-us">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2688c09-3939-4ed2-899d-9550e57001a1">Software Engineer in Test (Network Security, Performance), Hybrid, RTP, NC</a></td>
+<td>RTP, North Carolina, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer-in-Test--Network-Security--Performance---Hybrid--RTP--NC_2027548">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dell</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb595212-b081-455f-afb2-59441f4ae844">Consultant, Data Engineering</a></td>
+<td>TX, United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/300054">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/623662d3-20da-41b3-b25e-f858870e7a7c">Cloud Software Development Engineer</a></td>
+<td>Costa Rica, San Jose</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Cloud-Software-Development-Engineer_JR0287842">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9469f8fa-e835-4cc3-8ab4-f6a52dfe4bf7">Module Engineer On-Shift (MEOS) – Night Shift (4)</a></td>
+<td>US, Arizona, Phoenix, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Module-Engineer-On-Shift--MEOS----Night-Shift--4-_JR0287815">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf19f460-6ecf-4853-a032-32b919af58c8">Mechanical Design Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40738">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sphinx Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/04978eae-333b-4eab-99a6-d1dbe1a39ad7">Sphinx Defense / Software Engineering / Remote (US Only) /</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.sphinxdefense.com/">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>SSI</strong></td>
 <td><a href="https://trueinterview.io/jobs/f0f438b0-64fb-407d-b09e-0365dc1ca3f3">full stack developer</a></td>
@@ -83,6 +237,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4f739fd-0d76-4b6d-91e0-af16d4944377">Software Engineer - Forward Deployed Engineer</a></td>
+<td>Redmond, WA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557004814">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/388c01b2-9af0-4834-b4ca-8ffa2bdb6738">Systems Software Engineer - New College Grad 2026</a></td>
 <td>Hillsboro, OR, US<br/>US, OR, Hillsboro</td>
@@ -122,6 +283,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e2b87b9f-b641-48f5-8828-14bc847a9d5a">CNO Python Developer</a></td>
 <td>Field Location, United States</td>
 <td align="center"><a href="https://4dayweek.io/job/cno-python-developer-at-parsons-corporation-aca55b8d">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Yelp</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f345a23-c136-477e-9dd8-cf91aaadbc07">Solutions Engineer, API Integration</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://uscareers-yelp.icims.com/jobs/14073/solutions-engineer%2c-api-integration/job">Apply</a></td>
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>
@@ -241,6 +409,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/656ce3fc-44f6-4eec-baa6-d9f8fcb641ad">Solution Engineer - NAS, Recent Graduate</a></td>
 <td>Santa Clara, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54647?lang=en-us">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/381cfbf5-0a0e-431f-a869-974b732042ae">Software Applications Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -459,13 +634,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://4dayweek.io/job/windows-software-engineer-at-parsons-corporation-32fe20e1">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Stripe</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e3b4740-0aab-4386-9526-434a8718ff5b">Software Engineer, Early Career — Immediate Start</a></td>
-<td>San Francisco, CA<br/>San Francisco, Seattle, New York<br/>Toronto<br/>+1 more</td>
-<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8212508">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Blink Ux</strong></td>
@@ -2553,90 +2721,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/cursor/1cfacf1a-4ba7-4e68-9f65-4fb8e3525bde/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Oneleet</strong></td>
-<td><a href="https://trueinterview.io/jobs/9c7e097f-5da6-46cb-90f0-4ff27c233dfa">Framework Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/oneleet/675c326c-af58-437b-a922-8976666bb068/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Goldman Sachs</strong></td>
-<td><a href="https://trueinterview.io/jobs/c13cb650-7632-4156-b705-9a59c581b9c4">Risk-Dallas-Associate-Software Engineering</a></td>
-<td>Dallas, TX, United States<br/>Salt Lake City, UT, United States</td>
-<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180914">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Mercor</strong></td>
-<td><a href="https://trueinterview.io/jobs/61e382a0-81ef-4783-b792-c6a68b72d8d6">Software Engineer, Marketplace</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/mercor/160c8177-765b-4bdc-a5be-5f646dccc98a/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>EliseAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/f13a8864-56ba-4ca5-b8b3-30fbb15a6988">Associate Solutions Engineer | Housing</a></td>
-<td>San Francisco, CA<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/eliseai/469230dd-a9f3-4fc1-9904-04d3e052253b/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c910224-0a94-466d-afa3-b33aa68356cb">RF Integration Engineer</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/4748076007?gh_jid=4748076007">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Zoox</strong></td>
-<td><a href="https://trueinterview.io/jobs/d02e0627-5814-4099-994c-66da964156a8">Embedded Software Engineer - Battery Management Systems</a></td>
-<td>San Diego, CA<br/>Foster City, CA</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/082ed20c-b8e1-4b1c-9c22-4738ad94055d/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ubisoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ce0e488-d289-4f2b-9230-2d14407e744b">Tools Programer - Quality Foundation</a></td>
-<td>Montreal, QC, Canada</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000141991169-tools-programer-quality-foundation?oga=true">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cognition</strong></td>
-<td><a href="https://trueinterview.io/jobs/b8e47c7f-437c-4a51-b791-b706064de4ba">Site Reliability Engineer</a></td>
-<td>San Francisco, CA<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cognition/d50d94b0-60c8-4dae-9c36-234f072ee4e3/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d708466e-bcb0-43f6-ae33-6bcac5cc616f">Product Engineer</a></td>
-<td>San Francisco, CA<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cognition/439404bb-3185-4d22-b6df-4a5e39a510d6/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b461d48e-7b8b-49ab-813a-d3a52cb5fdbd">Software Engineer, Infrastructure</a></td>
-<td>San Francisco, CA<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cognition/13fdacf7-b4dc-4b9a-ac43-addc87de79ec/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f50afff8-4e74-42df-9a80-961b68851152">Software Engineer</a></td>
-<td>San Francisco, CA<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cognition/e8086415-62bc-4cc0-96a4-84bb56182d35/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd92af9c-3015-4f45-98fd-88084bc6baf5">Model Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/clera/842059ef-1c9f-4abc-b5b0-48408315b3f7/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2650,6 +2734,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Tensordyne</strong></td>
+<td><a href="https://trueinterview.io/jobs/d68c58e8-2f6d-4d97-9c6d-6cc8ab3b1bc5">Forward Deployed Inference Engineer</a></td>
+<td>Munich, Germany</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tensordyne/jobs/8869023002">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Neara</strong></td>
+<td><a href="https://trueinterview.io/jobs/dffab5aa-f603-4732-ab43-b4225cd1afcb">Implementation Engineer</a></td>
+<td>Vilnius</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neara/b4bb1d89-2863-4eb8-b00a-a8f787fb99d4/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>All.space</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b4af616-9eb7-4812-92a8-522716e3b020">Embedded Software Engineer</a></td>
+<td>Reading, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.workable.com/view/4Hf3hUe1D5YGjptbQdp4NZ/hybrid-embedded-software-engineer-in-reading-at-all.space">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Asana</strong></td>
+<td><a href="https://trueinterview.io/jobs/87687268-d53f-4633-8c55-15527af5ae0e">Designated Support Engineer</a></td>
+<td>Dublin</td>
+<td align="center"><a href="https://www.asana.com/jobs/apply/8250168?gh_jid=8250168">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dremio</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e7a4966-8995-4c56-9773-5c0672938b37">Software Engineer - Query Execution</a> 🌐</td>
+<td>Remote — Portugal</td>
+<td align="center"><a href="https://www.dremio.com/careers/job-postings/?gh_jid=8005826003">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Motorola Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/1ba093cf-bf86-493a-a1f0-ab00916298a8">JAVA Developer (Java Springboot,Microservices)</a></td>
 <td>Bangalore, India</td>
@@ -2661,6 +2780,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a636b65f-94fe-4977-a805-593e572c7b1f">JAVA+NodeJS+Angular Developer</a></td>
 <td>Bangalore, India</td>
 <td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/JAVA-NodeJS-Angular-Developer_R69466">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PVcase</strong></td>
+<td><a href="https://trueinterview.io/jobs/8467e3f8-282a-4976-b0a4-8a614caeb45d">Software Engineer (.NET)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://4dayweek.io/job/software-engineer-net-at-pvcase-4453b0f1">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
@@ -2704,132 +2830,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Product Engineer (Design) &amp; Platform Engineer</td>
 <td align="center"><a href="https://planlab.ai/jobs">Apply</a></td>
 <td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CertiK</strong></td>
-<td><a href="https://trueinterview.io/jobs/7458d713-1da3-4f73-b1b4-68f3b39bff71">Strategic Account Executive, Financial Institutions, Brazil</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://jobs.lever.co/certik/88a8115f-b52b-4667-9393-e1f506911e6b/apply">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Despegar</strong></td>
-<td><a href="https://trueinterview.io/jobs/21a8dc71-391d-4d67-a715-425808174ec2">Jovem Aprendiz - Taboão da Serra</a></td>
-<td>Taboão da Serra</td>
-<td align="center"><a href="https://jobs.lever.co/despegar/5bfb3111-3ccc-4340-9727-f51c15c9f655/apply">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>FIS Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/590a0675-7c92-47bf-b90f-6c3f60248b5a">Site Reliability Engineer (SRE) – Cloud Platform</a></td>
-<td>IND PUNE FL7</td>
-<td align="center"><a href="https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Site-Reliability-Engineer--SRE----Cloud-Platform_JR0309828">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/48d4ba16-cb9a-4001-baa0-dc8ade9d6d70">AI Tools and Cloud Software Developer</a></td>
-<td>Israel, Haifa</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/Israel-Haifa/AI-Tools-and-Cloud-Software-Developer_JR0286561">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Despegar</strong></td>
-<td><a href="https://trueinterview.io/jobs/4184a634-75d4-4dc9-bbaa-d339416e6414">Assistente de Legal Ops</a></td>
-<td>Alphaville</td>
-<td align="center"><a href="https://jobs.lever.co/despegar/b603fc2c-a99e-4c79-aeca-167026e77a6a/apply">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ci&amp;t</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b51b677-bc7d-4d60-8f5c-893b0cd1855b">[Job-31680] Master AWS I Python Developer, Brazil</a></td>
-<td>Brazil</td>
-<td align="center"><a href="https://jobs.lever.co/ciandt/0862878b-2d23-4a3c-8c3f-6e88c139a0e2/apply">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Historic England</strong></td>
-<td><a href="https://trueinterview.io/jobs/2ac5c95a-40a3-472f-a9a9-1ccc3b5c3f6f">Software Developer (Arches Platform)</a></td>
-<td>Swindon, United Kingdom</td>
-<td align="center"><a href="https://4dayweek.io/job/software-developer-arches-platform-at-historic-england-2c3c77cb">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>LeapAP Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/75a97387-7fa2-4324-8024-96112f158ec5">software developer</a></td>
-<td>Aurora (ON)</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50385301">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Grafana Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/6b3b477e-5a90-4d57-9265-34405ca119e9">Solutions Engineer</a> 🌐</td>
-<td>Remote — France</td>
-<td align="center"><a href="https://4dayweek.io/job/solutions-engineer-at-grafana-labs-235ac4d0">Apply</a></td>
-<td align="center">26 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>JPMorgan Chase</strong></td>
-<td><a href="https://trueinterview.io/jobs/42004ab9-6ebc-46f3-9f82-7998b5820fb1">Mainframe SCM Infrastructure Engineer</a></td>
-<td>Buenos Aires, Argentina</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794992">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cabify</strong></td>
-<td><a href="https://trueinterview.io/jobs/85b03b34-814b-4814-b6db-d03477b77c2d">Software Engineer - Backend + AI</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://4dayweek.io/job/software-engineer-backend-ai-at-cabify-d4827e17">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mastercard</strong></td>
-<td><a href="https://trueinterview.io/jobs/26dd27bf-ff5b-460a-9282-b2fa8a9495cd">Software Engineer I-1</a></td>
-<td>Pune, India</td>
-<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I-1_R-290795">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/90752cfd-c5d7-4f70-ae19-411f174a1677">System Automation Engineer - AI &amp; Python Developer Experience</a></td>
-<td>Krakow, Poland</td>
-<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/CM-SCM-DevOps-Engineer_R67159">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Shield AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/612b28af-902c-4b36-aa67-345e90c4e09c">SVS Tester (R5985)</a></td>
-<td>Melbourne</td>
-<td align="center"><a href="https://jobs.lever.co/shieldai/d7a24b6e-caac-4bbd-84d3-44d089721f92/apply">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/4a9db71d-fc44-4d1a-8d0a-af1333af1010">Visual QA</a></td>
-<td>Buenos Aires<br/>Mexico</td>
-<td align="center"><a href="https://www.monks.com/careers/6207952004/job?gh_jid=6207952004">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Btg Pactual</strong></td>
-<td><a href="https://trueinterview.io/jobs/d6fb9b4a-1564-48dc-8835-e5df49ec71bb">Software Engineer | Collateral &amp; Margin Platform</a></td>
-<td>São Paulo<br/>BR - SAO PAULO</td>
-<td align="center"><a href="https://carreiras.btgpactual.com/vagas?gh_jid=6196645004">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/08d1cb84-509e-430e-9a54-35d62a0fb1d0">Drone Firmware Software Dev Engineer, Ring Robotics Platform Engineering</a></td>
-<td>GB, Cambridge</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10559120/drone-firmware-software-dev-engineer-ring-robotics-platform-engineering">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Framework</strong></td>
-<td><a href="https://trueinterview.io/jobs/f13d059a-192a-49d4-bbe0-98a9c1e4db1d">System Software Engineer</a></td>
-<td>Taipei, Taiwan</td>
-<td align="center"><a href="https://4dayweek.io/job/system-software-engineer-at-framework-6a7fd510">Apply</a></td>
-<td align="center">24 Sep 2026</td>
 </tr>
 </tbody>
 </table>

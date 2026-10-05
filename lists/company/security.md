@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>ExtraHop Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/ccb07b38-1397-4a73-882e-e7a663d211d2">Support Engineer I - NC</a></td>
+<td>North Carolina<br/>Raleigh, NC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/extrahopnetworks/jobs/6211107004">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Palo Alto Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/2c97111c-7ca6-45e5-91a3-ef91cf8bf8a2">Account Executive - Federal</a></td>
 <td>Arlington, United States of America</td>
@@ -177,13 +184,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>USA - Sunnyvale, CA, United States of America<br/>USA - Austin, TX<br/>USA - Redmond, WA</td>
 <td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Software-Engineer---Sensor--macOS---Hybrid-_R29279">Apply</a></td>
 <td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Oneleet</strong></td>
-<td><a href="https://trueinterview.io/jobs/9c7e097f-5da6-46cb-90f0-4ff27c233dfa">Framework Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/oneleet/675c326c-af58-437b-a922-8976666bb068/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

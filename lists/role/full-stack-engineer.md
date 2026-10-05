@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**20 open roles.** 13 in the United States & Canada · 7 elsewhere in the world.
+**21 open roles.** 14 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4e8eaba-debb-482d-a14c-3d3b96daa2ba">Full Stack Engineer, Builder Experience</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8206731">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>SSI</strong></td>
 <td><a href="https://trueinterview.io/jobs/f0f438b0-64fb-407d-b09e-0365dc1ca3f3">full stack developer</a></td>

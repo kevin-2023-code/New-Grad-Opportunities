@@ -2,7 +2,7 @@
 
 # 🇪🇸 Madrid, Barcelona & Iberia
 
-**7 open roles.** 2 in the United States & Canada · 5 elsewhere in the world.
+**6 open roles.** 2 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -70,13 +70,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Valencia, Spain</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dkbcodefactory/jobs/7821469003">Apply</a></td>
 <td align="center">15 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Happyrobot Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed0b516a-8e08-4e74-9f27-6063abfff641">Cloud Security Engineer</a></td>
-<td>Madrid<br/>Barcelona</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/happyrobot.ai/039cf27f-591f-435a-84be-9b4b2df568f1/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

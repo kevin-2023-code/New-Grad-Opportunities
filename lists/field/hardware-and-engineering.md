@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**345 open roles.** 319 in the United States & Canada · 26 elsewhere in the world.
+**339 open roles.** 315 in the United States & Canada · 24 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tenstorrent</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec577568-aeed-4040-a3c1-cbd0e94f5a2a">Performance Analysis Engineer</a></td>
+<td>Toronto, Ontario, Canada<br/>Santa Clara, California, United States<br/>North America</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5257063007">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/276f5f24-94af-4c79-a370-e7d70add164a">Manufacturing Engineer- New Model Launch</a></td>
+<td>Allen Park, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71883">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lg Electronics</strong></td>
+<td><a href="https://trueinterview.io/jobs/3636e01a-748d-4981-9332-1c6a9ac0825b">Quality Engineer</a></td>
+<td>Farmers Branch, TX</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/lgelectronics/jobs/5444042008">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a92414f-3fe4-4dea-a5ac-e9a5359c57c1">Mechanical Hardware Test Engineer - Failure Analysis (Starlink)</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8867581002?gh_jid=8867581002">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1407b78-a910-4e16-9d21-22aa6a7ec0b2">Hardware Post-Silicon Validation Engineer (Hybrid)</a></td>
+<td>San Jose, California, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Post-Silicon-Validation-Engineer--Hybrid-_2027725">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Samsung</strong></td>
 <td><a href="https://trueinterview.io/jobs/7c86b79b-be3c-4b0a-b8ad-23c149c056d9">Metals Process Engineer FEOL</a></td>
@@ -92,13 +127,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/657d4e0f-e576-421e-81e0-e74bf5bc1c80">Process Engineer III - New College Grad (Kalispell, MT)</a></td>
 <td>Kalispell, MT, US<br/>Santa Clara, CA, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318726523">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/8dd332d4-679b-47ee-9090-8bc3e14f801f">Server Test Quality and Reliability Engineer</a></td>
-<td>Costa Rica, San Jose</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Server-Test-Quality-and-Reliability-Engineer_JR0287434">Apply</a></td>
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>
@@ -929,13 +957,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7a472eb-d59d-436a-8cd6-f6ea72b71ae6">Advanced Packaging Quality and Reliability Engineer</a></td>
-<td>US, New Mexico, Albuquerque, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/Advanced-Packaging-Quality-and-Reliability-Engineer_JR0286145">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/382d9ff9-d5ea-471a-81f1-182d9574273e">RTL Design Engineer</a></td>
 <td>US, Texas, Austin, United States of America<br/>US, Arizona, Phoenix<br/>US, Oregon, Hillsboro</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/RTL-Design-Engineer_JR0287272">Apply</a></td>
@@ -978,13 +999,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Coherent Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/2192b189-b881-4e04-af4e-409a0a3f9f74">Equipment Engineer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014729">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bf7b26cf-0fde-46ba-89f8-30cf7f8571c3">R&amp;D Engineering Technician</a></td>
 <td>Newark, DE, United States</td>
 <td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014550">Apply</a></td>
@@ -1191,13 +1205,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b2eee021-a4da-45af-b21e-b1a793ccc4d1">Entry Level Environmental Engineer/Scientist 2026/2027 Career Fair</a></td>
 <td>Washington, DC<br/>Fairfax, VA<br/>Arlington, VA<br/>+1 more</td>
 <td align="center"><a href="https://jobs.lever.co/erg/a43d3070-1dda-4e92-894c-cb2ae7bd7c64/apply">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6701b1d-c2a7-4c69-9ee2-67a9133c2be7">Product Line Management I- New College Grad- Bachelor's (Santa Clara, CA)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318092839">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
@@ -2215,41 +2222,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.smartrecruiters.com/Sandisk/744000142015139-system-design-engineer-memory-system-?oga=true">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/b2928ac6-8476-4296-87d1-131e3260da30">ASIC/SOC DFT Engineer (Silicon Engineering)</a></td>
-<td>Austin, TX<br/>Palo Alto, CA<br/>Austin - 800<br/>+2 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8686199002?gh_jid=8686199002">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/30381329-0d76-4e92-9e3f-3b9696fece57">Commissioning - Field Services</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92733">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lynk</strong></td>
-<td><a href="https://trueinterview.io/jobs/659f3f9c-1406-4375-a4d1-69c5e7906feb">Electrical Engineer</a></td>
-<td>Chantilly, VA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lynk/91da7c62-6815-4a8e-9fd0-0056e82388b6/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/5b542108-0b85-47e8-8764-3f993b92b3f5">Early Career Traffic Engineer</a></td>
-<td>Morristown, NJ, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92708">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Vulcan Elements</strong></td>
-<td><a href="https://trueinterview.io/jobs/b65c4d5d-7a72-4249-965e-7fafefb9cc71">Mechanical Engineer</a></td>
-<td>Research Triangle Park, NC<br/>HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/vulcanelements/jobs/5381418008">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2429,20 +2401,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Toulouse, Occitanie</td>
 <td align="center"><a href="https://jobs.lever.co/loftorbital/46a90929-f3de-42f5-82f2-b1710de8f8c9/apply">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Amax</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d3edc55-31b3-4272-9163-fc64081db781">Hardware Solutions Engineer</a></td>
-<td>Cork, County Cork, Ireland<br/>Galway, County Galway, Ireland<br/>Dublin, County Dublin, Ireland<br/>+1 more</td>
-<td align="center"><a href="https://jobs.workable.com/view/3d12W627af3NLofw2A2qed/hardware-solutions-engineer-in-cork-at-amax">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/36749d13-307f-4f5f-b806-34251f102124">Field Application Engineer - Escondida, Antofagasta - Temporary Full Time</a></td>
-<td>Escondida, Antofagasta</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/3ce85869-7125-4ac5-8f3f-bd72c3d3ac49/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

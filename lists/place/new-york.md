@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**98 open roles.**
+**93 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/c35ab62d-68ab-46b7-8e9b-859a57350cdf">Performance Engineer, Kernel and Memory</a></td>
+<td>New York, NY<br/>New York, New York, United States<br/>Austin, TX<br/>+2 more (hybrid)</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8214470?gh_jid=8214470">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nbcuniversal</strong></td>
+<td><a href="https://trueinterview.io/jobs/2d23d812-eb1d-4294-9728-23af61de7bf5">IAM Service Integration Engineer</a></td>
+<td>New York, NY<br/>New York, NEW YORK, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NBCUniversal3/744000153599549-iam-service-integration-engineer?oga=true">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Autodesk</strong></td>
 <td><a href="https://trueinterview.io/jobs/e8dc6e4a-52a6-4401-9312-0599cddcc933">PhD Researcher, Multimodal AI for Human Experience</a> 🌐</td>
@@ -652,55 +666,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/07258211-4510-4af6-a62b-7aac59d8c149">Field Engineer, Healthcare &amp; SLED</a> 🌐</td>
 <td>Remote — United States<br/>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cursor/1cfacf1a-4ba7-4e68-9f65-4fb8e3525bde/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>EliseAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/f13a8864-56ba-4ca5-b8b3-30fbb15a6988">Associate Solutions Engineer | Housing</a></td>
-<td>New York City<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/eliseai/469230dd-a9f3-4fc1-9904-04d3e052253b/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/30381329-0d76-4e92-9e3f-3b9696fece57">Commissioning - Field Services</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92733">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cognition</strong></td>
-<td><a href="https://trueinterview.io/jobs/b8e47c7f-437c-4a51-b791-b706064de4ba">Site Reliability Engineer</a></td>
-<td>New York City<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cognition/d50d94b0-60c8-4dae-9c36-234f072ee4e3/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d708466e-bcb0-43f6-ae33-6bcac5cc616f">Product Engineer</a></td>
-<td>New York City<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cognition/439404bb-3185-4d22-b6df-4a5e39a510d6/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b461d48e-7b8b-49ab-813a-d3a52cb5fdbd">Software Engineer, Infrastructure</a></td>
-<td>New York City<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cognition/13fdacf7-b4dc-4b9a-ac43-addc87de79ec/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f50afff8-4e74-42df-9a80-961b68851152">Software Engineer</a></td>
-<td>New York City<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cognition/e8086415-62bc-4cc0-96a4-84bb56182d35/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ostium Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/cbee6b3c-7822-410a-b895-24cca80d83da">Data Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ostium/f4b646e5-cec6-4716-af52-ce9fa02ff6e2/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 </tbody>

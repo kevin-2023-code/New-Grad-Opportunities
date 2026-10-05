@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**113 open roles.** 88 in the United States & Canada · 25 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**101 open roles.** 80 in the United States & Canada · 21 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -577,62 +577,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/cursor/1cfacf1a-4ba7-4e68-9f65-4fb8e3525bde/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Mercor</strong></td>
-<td><a href="https://trueinterview.io/jobs/61e382a0-81ef-4783-b792-c6a68b72d8d6">Software Engineer, Marketplace</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/mercor/160c8177-765b-4bdc-a5be-5f646dccc98a/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>EliseAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/f13a8864-56ba-4ca5-b8b3-30fbb15a6988">Associate Solutions Engineer | Housing</a></td>
-<td>San Francisco, CA<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/eliseai/469230dd-a9f3-4fc1-9904-04d3e052253b/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cognition</strong></td>
-<td><a href="https://trueinterview.io/jobs/b8e47c7f-437c-4a51-b791-b706064de4ba">Site Reliability Engineer</a></td>
-<td>San Francisco, CA<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cognition/d50d94b0-60c8-4dae-9c36-234f072ee4e3/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d708466e-bcb0-43f6-ae33-6bcac5cc616f">Product Engineer</a></td>
-<td>San Francisco, CA<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cognition/439404bb-3185-4d22-b6df-4a5e39a510d6/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b461d48e-7b8b-49ab-813a-d3a52cb5fdbd">Software Engineer, Infrastructure</a></td>
-<td>San Francisco, CA<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cognition/13fdacf7-b4dc-4b9a-ac43-addc87de79ec/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f50afff8-4e74-42df-9a80-961b68851152">Software Engineer</a></td>
-<td>San Francisco, CA<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cognition/e8086415-62bc-4cc0-96a4-84bb56182d35/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/bfc0a385-f2e6-4af5-9e25-e3d6fa697187">Product Designer, Engineering Acceleration</a></td>
-<td>Seattle, WA<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/73fdf2c0-4318-4b13-addc-b66bc1308ba4/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ee4c445b-9650-467e-9c04-8764f82954c9">Product Designer, Payments</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/3813977e-5940-456d-bf5a-16efcdc3a6dc/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -658,13 +602,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Almaty, Kazakhstan</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/higgsfieldai/17c014cf-55fe-4bbb-aa6e-0bbd98adb795/application">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Nebius</strong></td>
-<td><a href="https://trueinterview.io/jobs/1475dde7-be34-4314-ab74-758bda7df67f">Network Security Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://careers.nebius.com/?gh_jid=4971845101">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Field AI</strong></td>
@@ -798,27 +735,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/exa/f6bd612e-a4ee-4c75-a205-5cd70901661f/application">Apply</a></td>
 <td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/36749d13-307f-4f5f-b806-34251f102124">Field Application Engineer - Escondida, Antofagasta - Temporary Full Time</a></td>
-<td>Escondida, Antofagasta</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/3ce85869-7125-4ac5-8f3f-bd72c3d3ac49/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Happyrobot Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed0b516a-8e08-4e74-9f27-6063abfff641">Cloud Security Engineer</a></td>
-<td>Madrid<br/>Barcelona</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/happyrobot.ai/039cf27f-591f-435a-84be-9b4b2df568f1/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lovable</strong></td>
-<td><a href="https://trueinterview.io/jobs/d21aec7b-8ad4-41ea-8968-7cca811cc318">AI Ops Engineer (People Team)</a></td>
-<td>Stockholm</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lovable/8dd92c40-b45d-41b2-ae6b-1680b0a05d92/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

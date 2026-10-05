@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**8 open roles.**
+**7 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -65,13 +65,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — Canada, United States<br/>Vancouver, BC (HQ)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/hiive/ef18ebc7-99f6-4cdc-b75c-5f51b518cfad/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Kabam</strong></td>
-<td><a href="https://trueinterview.io/jobs/53fb8d2a-b3fc-4733-9420-1940939a1565">Data Analyst</a></td>
-<td>Vancouver, BC</td>
-<td align="center"><a href="https://jobs.lever.co/kabam/cbdbaeeb-1228-40c6-a022-48306ea63635/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

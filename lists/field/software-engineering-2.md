@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**532 open roles.** 374 in the United States & Canada · 158 elsewhere in the world.
+**542 open roles.** 386 in the United States & Canada · 156 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,132 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CertiK</strong></td>
+<td><a href="https://trueinterview.io/jobs/7458d713-1da3-4f73-b1b4-68f3b39bff71">Strategic Account Executive, Financial Institutions, Brazil</a></td>
+<td>Brazil</td>
+<td align="center"><a href="https://jobs.lever.co/certik/88a8115f-b52b-4667-9393-e1f506911e6b/apply">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Despegar</strong></td>
+<td><a href="https://trueinterview.io/jobs/21a8dc71-391d-4d67-a715-425808174ec2">Jovem Aprendiz - Taboão da Serra</a></td>
+<td>Taboão da Serra</td>
+<td align="center"><a href="https://jobs.lever.co/despegar/5bfb3111-3ccc-4340-9727-f51c15c9f655/apply">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>FIS Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/590a0675-7c92-47bf-b90f-6c3f60248b5a">Site Reliability Engineer (SRE) – Cloud Platform</a></td>
+<td>IND PUNE FL7</td>
+<td align="center"><a href="https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Site-Reliability-Engineer--SRE----Cloud-Platform_JR0309828">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/48d4ba16-cb9a-4001-baa0-dc8ade9d6d70">AI Tools and Cloud Software Developer</a></td>
+<td>Israel, Haifa</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/Israel-Haifa/AI-Tools-and-Cloud-Software-Developer_JR0286561">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Despegar</strong></td>
+<td><a href="https://trueinterview.io/jobs/4184a634-75d4-4dc9-bbaa-d339416e6414">Assistente de Legal Ops</a></td>
+<td>Alphaville</td>
+<td align="center"><a href="https://jobs.lever.co/despegar/b603fc2c-a99e-4c79-aeca-167026e77a6a/apply">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ci&amp;t</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b51b677-bc7d-4d60-8f5c-893b0cd1855b">[Job-31680] Master AWS I Python Developer, Brazil</a></td>
+<td>Brazil</td>
+<td align="center"><a href="https://jobs.lever.co/ciandt/0862878b-2d23-4a3c-8c3f-6e88c139a0e2/apply">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Historic England</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ac5c95a-40a3-472f-a9a9-1ccc3b5c3f6f">Software Developer (Arches Platform)</a></td>
+<td>Swindon, United Kingdom</td>
+<td align="center"><a href="https://4dayweek.io/job/software-developer-arches-platform-at-historic-england-2c3c77cb">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>LeapAP Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/75a97387-7fa2-4324-8024-96112f158ec5">software developer</a></td>
+<td>Aurora (ON)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50385301">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Grafana Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b3b477e-5a90-4d57-9265-34405ca119e9">Solutions Engineer</a> 🌐</td>
+<td>Remote — France</td>
+<td align="center"><a href="https://4dayweek.io/job/solutions-engineer-at-grafana-labs-235ac4d0">Apply</a></td>
+<td align="center">26 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/42004ab9-6ebc-46f3-9f82-7998b5820fb1">Mainframe SCM Infrastructure Engineer</a></td>
+<td>Buenos Aires, Argentina</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794992">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cabify</strong></td>
+<td><a href="https://trueinterview.io/jobs/85b03b34-814b-4814-b6db-d03477b77c2d">Software Engineer - Backend + AI</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://4dayweek.io/job/software-engineer-backend-ai-at-cabify-d4827e17">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mastercard</strong></td>
+<td><a href="https://trueinterview.io/jobs/26dd27bf-ff5b-460a-9282-b2fa8a9495cd">Software Engineer I-1</a></td>
+<td>Pune, India</td>
+<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-I-1_R-290795">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/90752cfd-c5d7-4f70-ae19-411f174a1677">System Automation Engineer - AI &amp; Python Developer Experience</a></td>
+<td>Krakow, Poland</td>
+<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/CM-SCM-DevOps-Engineer_R67159">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/612b28af-902c-4b36-aa67-345e90c4e09c">SVS Tester (R5985)</a></td>
+<td>Melbourne</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/d7a24b6e-caac-4bbd-84d3-44d089721f92/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Monks</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a9db71d-fc44-4d1a-8d0a-af1333af1010">Visual QA</a></td>
+<td>Buenos Aires<br/>Mexico</td>
+<td align="center"><a href="https://www.monks.com/careers/6207952004/job?gh_jid=6207952004">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Btg Pactual</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6fb9b4a-1564-48dc-8835-e5df49ec71bb">Software Engineer | Collateral &amp; Margin Platform</a></td>
+<td>São Paulo<br/>BR - SAO PAULO</td>
+<td align="center"><a href="https://carreiras.btgpactual.com/vagas?gh_jid=6196645004">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/08d1cb84-509e-430e-9a54-35d62a0fb1d0">Drone Firmware Software Dev Engineer, Ring Robotics Platform Engineering</a></td>
+<td>GB, Cambridge</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10559120/drone-firmware-software-dev-engineer-ring-robotics-platform-engineering">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Framework</strong></td>
+<td><a href="https://trueinterview.io/jobs/f13d059a-192a-49d4-bbe0-98a9c1e4db1d">System Software Engineer</a></td>
+<td>Taipei, Taiwan</td>
+<td align="center"><a href="https://4dayweek.io/job/system-software-engineer-at-framework-6a7fd510">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Isolocity</strong></td>
 <td><a href="https://trueinterview.io/jobs/4f78821a-02ba-412d-9cae-02f8fd639fa8">cloud infrastructure engineer</a></td>
@@ -884,62 +1010,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo - BR<br/>Híbrido<br/>Brasil<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/ilia/jobs/6138158004">Apply</a></td>
 <td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Pyka</strong></td>
-<td><a href="https://trueinterview.io/jobs/d4918f8d-fadc-4f17-9741-d0b82b2ee3f0">Deployed Flight Test Engineer</a></td>
-<td>Alameda HQ</td>
-<td align="center"><a href="https://jobs.lever.co/pyka/e7f3540f-b228-4359-8595-a4a6ac596e3b/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Xsolla</strong></td>
-<td><a href="https://trueinterview.io/jobs/738bbab7-d3d9-4381-bb5f-6de13741eb7d">Developer Evangelist - Integrations</a></td>
-<td>Moscow<br/>Almaty<br/>Armenia<br/>+5 more</td>
-<td align="center"><a href="https://jobs.lever.co/xsolla/d00d0e70-7c03-4fe9-8ebe-884721476c10/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/42f6a996-5571-4b7a-bda6-c3458480be7a">Developer Evangelist - Community</a></td>
-<td>Moscow<br/>Almaty<br/>Armenia<br/>+5 more</td>
-<td align="center"><a href="https://jobs.lever.co/xsolla/8c0f5e96-f19f-4d7b-a2a2-a2531e925f02/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Distro</strong></td>
-<td><a href="https://trueinterview.io/jobs/b135f068-8dcb-4927-b7e3-45bca45c7f51">Software Engineer — Node.js / Angular</a></td>
-<td>Noida, Uttar Pradesh</td>
-<td align="center"><a href="https://jobs.lever.co/distro/3085b25c-753a-4d16-8e94-389f993afd6a/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Happyrobot Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed0b516a-8e08-4e74-9f27-6063abfff641">Cloud Security Engineer</a></td>
-<td>Madrid<br/>Barcelona</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/happyrobot.ai/039cf27f-591f-435a-84be-9b4b2df568f1/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/a104ef02-9dee-4ba9-8a13-db4c9657cc60">Lifecycle Stamp Test</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/clera/ddb462b8-946f-4ec7-9d8b-d66a557831f4/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Silver.dev</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ef2de1f-19ba-4d17-94e1-b5687a74cd38">Cognition - Deployed Engineer (BR/MX/AR)</a></td>
-<td>Brazil<br/>Mexico</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/silver/3212c549-df46-4edc-b9d5-d25466a01174/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ansible Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/8815729f-4a04-4ee2-a7d1-4e3b100637be">QA / Test Engineer</a></td>
-<td>Philippines</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ansiblehealth/dbc0a9b5-0c38-466b-96e0-e5eae5b7ec29/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

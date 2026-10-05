@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**83 open roles.** 56 in the United States & Canada · 27 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**82 open roles.** 56 in the United States & Canada · 26 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Anavation</strong></td>
+<td><a href="https://trueinterview.io/jobs/f793b993-db45-4d6b-afad-6c901b43fa49">Microsoft 365 Collaboration &amp; SharePoint Administrator/Engineer</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://jobs.lever.co/anavationllc/5ca4e92e-7592-4da4-a288-9480347646b9/apply">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Agile Defense</strong></td>
 <td><a href="https://trueinterview.io/jobs/e69baeaf-c04f-49c0-a5a2-b8557fb499af">Programming Specialist</a></td>
@@ -402,13 +409,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.lever.co/anavationllc/0660611b-e9a5-4b22-9d8a-c33a218c58ca/apply">Apply</a></td>
 <td align="center">10 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Agile Defense</strong></td>
-<td><a href="https://trueinterview.io/jobs/75628b5b-2212-4184-ba45-1927393728d0">Test and Evaluation Analyst (Cyber Survivability)</a></td>
-<td>Fort Huachuca, AZ</td>
-<td align="center"><a href="https://jobs.lever.co/agile-defense/b882eec4-bfa9-43ed-a08b-265096136528/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -602,13 +602,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brazil<br/>Argentina<br/>Peru<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/latamcent/57d975c5-ebfc-4adb-ab86-9681348ab2ca/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Silver.dev</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ef2de1f-19ba-4d17-94e1-b5687a74cd38">Cognition - Deployed Engineer (BR/MX/AR)</a></td>
-<td>Brazil<br/>Mexico</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/silver/3212c549-df46-4edc-b9d5-d25466a01174/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

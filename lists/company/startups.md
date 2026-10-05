@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**77 open roles.** 53 in the United States & Canada · 24 elsewhere in the world. Early-stage technology companies.
+**72 open roles.** 51 in the United States & Canada · 21 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -374,20 +374,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/lm-studio/87a31fb9-6c5e-4f8a-b226-f3adb44ec7c7/application">Apply</a></td>
 <td align="center">7 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Oneleet</strong></td>
-<td><a href="https://trueinterview.io/jobs/9c7e097f-5da6-46cb-90f0-4ff27c233dfa">Framework Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/oneleet/675c326c-af58-437b-a922-8976666bb068/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ostium Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/cbee6b3c-7822-410a-b895-24cca80d83da">Data Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ostium/f4b646e5-cec6-4716-af52-ce9fa02ff6e2/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -546,27 +532,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/exa/f6bd612e-a4ee-4c75-a205-5cd70901661f/application">Apply</a></td>
 <td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/36749d13-307f-4f5f-b806-34251f102124">Field Application Engineer - Escondida, Antofagasta - Temporary Full Time</a></td>
-<td>Escondida, Antofagasta</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/3ce85869-7125-4ac5-8f3f-bd72c3d3ac49/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Happyrobot Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed0b516a-8e08-4e74-9f27-6063abfff641">Cloud Security Engineer</a></td>
-<td>Madrid<br/>Barcelona</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/happyrobot.ai/039cf27f-591f-435a-84be-9b4b2df568f1/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lovable</strong></td>
-<td><a href="https://trueinterview.io/jobs/d21aec7b-8ad4-41ea-8968-7cca811cc318">AI Ops Engineer (People Team)</a></td>
-<td>Stockholm</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lovable/8dd92c40-b45d-41b2-ae6b-1680b0a05d92/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

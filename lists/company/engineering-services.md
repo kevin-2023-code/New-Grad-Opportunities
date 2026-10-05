@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**46 open roles.** 40 in the United States & Canada · 6 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**45 open roles.** 39 in the United States & Canada · 6 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/5c70aeee-a054-4d87-8146-24b185eff487">Project Engineer - Site Design</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5444165008">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cannondesign</strong></td>
 <td><a href="https://trueinterview.io/jobs/ab7747d8-dcc4-41c9-bec3-0a9c2a52dd37">Mechanical - Entry Level</a></td>
@@ -282,20 +289,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92736">Apply</a></td>
 <td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/30381329-0d76-4e92-9e3f-3b9696fece57">Commissioning - Field Services</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92733">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5b542108-0b85-47e8-8764-3f993b92b3f5">Early Career Traffic Engineer</a></td>
-<td>Morristown, NJ, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92708">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

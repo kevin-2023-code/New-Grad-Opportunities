@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**55 open roles.** 42 in the United States & Canada · 13 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**57 open roles.** 43 in the United States & Canada · 14 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tenstorrent</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec577568-aeed-4040-a3c1-cbd0e94f5a2a">Performance Analysis Engineer</a></td>
+<td>Toronto, Ontario, Canada<br/>Santa Clara, California, United States<br/>North America</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5257063007">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ExtraHop Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/ccb07b38-1397-4a73-882e-e7a663d211d2">Support Engineer I - NC</a></td>
+<td>North Carolina<br/>Raleigh, NC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/extrahopnetworks/jobs/6211107004">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Perplexity</strong></td>
 <td><a href="https://trueinterview.io/jobs/c67b307c-73ec-4adc-9619-7f013adaf946">Member of Technical Staff (New Grad)</a></td>
@@ -304,13 +318,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/quantcast/09271839-e273-472b-948d-3d362867f809/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Kabam</strong></td>
-<td><a href="https://trueinterview.io/jobs/53fb8d2a-b3fc-4733-9420-1940939a1565">Data Analyst</a></td>
-<td>Vancouver, BC</td>
-<td align="center"><a href="https://jobs.lever.co/kabam/cbdbaeeb-1228-40c6-a022-48306ea63635/apply">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -323,6 +330,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Neura Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/73d0d13d-056f-497c-af3d-028ec743c0e0">Edge AI Engineer (Mensch)</a></td>
+<td>Metzingen / Riederich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/40c07866-7a69-42fd-8924-29842373a0cf/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>CircleCI</strong></td>
 <td><a href="https://trueinterview.io/jobs/68123578-fc36-4754-b33c-f3c602026bb2">Strategic Account Executive, EMEA</a> 🌐</td>

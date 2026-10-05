@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**44 open roles.** 27 in the United States & Canada · 17 elsewhere in the world.
+**44 open roles.** 26 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -193,13 +193,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Nuro</strong></td>
-<td><a href="https://trueinterview.io/jobs/84ee8fae-a698-4c59-82d0-92daae87353c">Applied AI Researcher, Agent Systems &amp; Evaluation</a></td>
-<td>Mountain View, California (HQ)<br/>California - HQ</td>
-<td align="center"><a href="https://nuro.ai/careersitem?gh_jid=7793005">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/f6c2b0de-451b-4d7d-9ff6-c6788d885774">Manufacturing Engineer, AI Satellites (Starmind)</a></td>
 <td>Bastrop, TX</td>
@@ -218,6 +211,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Neura Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/73d0d13d-056f-497c-af3d-028ec743c0e0">Edge AI Engineer (Mensch)</a></td>
+<td>Metzingen / Riederich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/40c07866-7a69-42fd-8924-29842373a0cf/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e50523e-9e37-4328-b72d-754ff3a4f3f1">C++ Software Engineer – AI Developer Tools</a> 🌐</td>
+<td>Remote — United Kingdom, Switzerland</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/C---Software-Engineer---AI-Developer-Tools_JR2026661">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Hiring: AI, Data, DevOps &amp; Full Stack Engineers</strong></td>
 <td><a href="https://trueinterview.io/jobs/325516af-07b9-4c3e-b741-4bba1792946e">Hiring: AI, Data, DevOps &amp; Full Stack Engineers / Remote — Americas</a></td>
@@ -329,13 +336,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/trawa/c8b15b19-984f-43e7-9fb3-ff28a1d970f3/application">Apply</a></td>
 <td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lovable</strong></td>
-<td><a href="https://trueinterview.io/jobs/d21aec7b-8ad4-41ea-8968-7cca811cc318">AI Ops Engineer (People Team)</a></td>
-<td>Stockholm</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lovable/8dd92c40-b45d-41b2-ae6b-1680b0a05d92/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

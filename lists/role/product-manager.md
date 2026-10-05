@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**15 open roles.** 14 in the United States & Canada · 1 elsewhere in the world.
+**14 open roles.** 13 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,17 +18,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3ca6767-7462-4ff1-a34c-87dc9955c76e">Product Management Specialist</a></td>
+<td>Washington - Seattle, United States of America</td>
+<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Product-Management-Specialist_JR362469-1">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Intuit</strong></td>
 <td><a href="https://trueinterview.io/jobs/df762123-cc6e-4c95-ada4-731dc88c7e96">Product Manager 2 - Rotational Product Management (RPM) Program</a></td>
 <td>Mountain View, California</td>
 <td align="center"><a href="https://jobs.intuit.com/job/mountain-view/product-manager-2-rotational-product-management-rpm-program/27595/101456093584">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Salesforce</strong></td>
-<td><a href="https://trueinterview.io/jobs/750d39ef-34d4-4593-b996-49d1f8839e26">Associate Product Manager (starting summer 2027)</a></td>
-<td>California - San Francisco, United States of America</td>
-<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1">Apply</a></td>
 <td align="center">2 Oct 2026</td>
 </tr>
 <tr>
@@ -86,13 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, ON</td>
 <td align="center"><a href="https://jobs.lever.co/caseware/35366087-6670-40a2-ba0e-7eee4d4a8db0/apply">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>IXL Learning</strong></td>
-<td><a href="https://trueinterview.io/jobs/37e9228d-696f-4ed1-a61d-a4ba591cb8d0">Associate Product Manager, New Grad</a></td>
-<td>San Mateo, CA</td>
-<td align="center"><a href="https://www.ixl.com/company/jobs?gh_jid=8765765002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>

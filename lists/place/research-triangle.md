@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>ExtraHop Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/ccb07b38-1397-4a73-882e-e7a663d211d2">Support Engineer I - NC</a></td>
+<td>Raleigh, NC<br/>North Carolina</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/extrahopnetworks/jobs/6211107004">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/f7c61afd-6cf4-40ec-a0d2-7e5550cf0eba">ASIC Verification Engineer, Memory Management - New College Grad 2027</a></td>
 <td>Durham, NC, US<br/>Madison, AL, US<br/>Hillsboro, OR, US</td>
@@ -149,13 +156,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Columbia, South Carolina<br/>Washington, DC<br/>Columbia, SC or Washington, DC<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5389735008">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Vulcan Elements</strong></td>
-<td><a href="https://trueinterview.io/jobs/b65c4d5d-7a72-4249-965e-7fafefb9cc71">Mechanical Engineer</a></td>
-<td>Research Triangle Park, NC<br/>HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/vulcanelements/jobs/5381418008">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>
