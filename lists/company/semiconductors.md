@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**189 open roles.** 185 in the United States & Canada · 4 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**188 open roles.** 184 in the United States & Canada · 4 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1303,13 +1303,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5ea154b3-054c-4879-b279-fa4e82576616">System Design Engineer - Memory System</a></td>
 <td>Milpitas, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Sandisk/744000142015139-system-design-engineer-memory-system-?oga=true">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Coherent Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f2d3118-5eb4-4f42-b2f0-33a5fbd34412">Product Engineer</a></td>
-<td>Sherman, TX, United States</td>
-<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2013958">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 </tbody>

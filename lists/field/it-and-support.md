@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**138 open roles.** 105 in the United States & Canada · 33 elsewhere in the world.
+**134 open roles.** 102 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -410,20 +410,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Robinhood</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6ada4a8-6c62-4c9c-906b-2f4ef742b182">Investment Accounts Associate, Help Desk</a></td>
-<td>Westlake, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8168392?t=gh_src=&amp;gh_jid=8168392">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/d81bfa7a-ff5b-4560-aa64-71c3cbb2af1f">PLM Engineer - DBA/Infrastructure</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5226855007?gh_jid=5226855007">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Iseatz</strong></td>
 <td><a href="https://trueinterview.io/jobs/02b8d5bf-93db-4b71-a968-962d79e671b9">Cybersecurity Compliance Engineer</a> 🌐</td>
 <td>Remote — United States</td>
@@ -745,13 +731,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.lever.co/agile-defense/b882eec4-bfa9-43ed-a08b-265096136528/apply">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Lessen</strong></td>
-<td><a href="https://trueinterview.io/jobs/7cc37419-5d93-4cf1-ac12-a169f2df5eaa">Systems Engineer I</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://jobs.lever.co/lessen/3f81dd73-db0a-4f18-8375-2f141d41fb5d/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -910,13 +889,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Pampanga, PHL</td>
 <td align="center"><a href="https://jobs.lever.co/jetsupport/1c945b93-6497-428e-9241-cec94ba09861/apply">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Truveta</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8a2ba54-ae77-45b8-9424-3bb318cb8136">IT Administrator</a></td>
-<td>Hyderabad, India<br/>India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/truveta/jobs/6178427004">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Genius Sports</strong></td>

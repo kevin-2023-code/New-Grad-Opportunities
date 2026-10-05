@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**110 open roles.**
+**107 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Ambrook</strong></td>
-<td><a href="https://trueinterview.io/jobs/d4ab6ce4-9cf5-4f54-9d83-f79a0904b373">Software Engineer, AI</a> 🌐</td>
-<td>Remote — United States<br/>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ambrook/3b116b4f-d264-4ac4-92cb-deacdd7656ef/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Imentor</strong></td>
 <td><a href="https://trueinterview.io/jobs/0e9fa695-3b82-44a1-a596-725ab9cd999e">Salesforce Administrator</a></td>
@@ -772,20 +765,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/ostium/f4b646e5-cec6-4716-af52-ce9fa02ff6e2/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Chime</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3fba2e1-06fd-4cb1-94c4-8152172aef06">Product Designer</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>San Francisco Office</td>
-<td align="center"><a href="https://boards.greenhouse.io/chime/jobs/8525323002?gh_jid=8525323002">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ambrook</strong></td>
-<td><a href="https://trueinterview.io/jobs/22afa15b-27ec-4c9b-8276-f2eeab0d76f9">Talent Engineer</a></td>
-<td>New York, NY<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ambrook/65255c6d-5e5f-439a-9b63-c0a68517fdef/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**50 open roles.** 43 in the United States & Canada · 7 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**48 open roles.** 42 in the United States & Canada · 6 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -311,13 +311,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92708">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0196b482-424e-4a98-9ef4-78561c3293a8">Early Professional, Transmission Line Engineer/Designer</a></td>
-<td>Edmonton, AB, Canada<br/>Kelowna, BC, Canada</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92504">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -332,13 +325,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/3391bbc8-f76c-4fb4-bbba-9321f59533d2">Vehicle Hardware Engineering Integration Ford Champ</a></td>
-<td>Naucalpan de Juarez, MEX, Mexico</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71550">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/558ff3e0-f8f3-431b-89e8-f5307a200c35">EOI: Join our Power &amp; Energy Group at WSP</a></td>
 <td>Brisbane, Queensland, Australia</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95839">Apply</a></td>

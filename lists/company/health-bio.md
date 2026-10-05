@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**27 open roles.** 19 in the United States & Canada · 8 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**26 open roles.** 19 in the United States & Canada · 7 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -182,13 +182,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexicali, MEXICO, Mexico</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000147338408-engineering-technician?oga=true">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Truveta</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8a2ba54-ae77-45b8-9424-3bb318cb8136">IT Administrator</a></td>
-<td>Hyderabad, India<br/>India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/truveta/jobs/6178427004">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Docplanner</strong></td>

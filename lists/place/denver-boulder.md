@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**24 open roles.**
+**23 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Ambrook</strong></td>
-<td><a href="https://trueinterview.io/jobs/d4ab6ce4-9cf5-4f54-9d83-f79a0904b373">Software Engineer, AI</a> 🌐</td>
-<td>Remote — United States<br/>Denver, CO</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ambrook/3b116b4f-d264-4ac4-92cb-deacdd7656ef/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Yelp</strong></td>
 <td><a href="https://trueinterview.io/jobs/5aae45d0-5801-4207-ae9b-ca53f4661c3d">Retention Restaurant Support Specialist, SaaS Sales - (Remote - US)</a> 🌐</td>

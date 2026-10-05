@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**38 open roles.** 18 in the United States & Canada · 20 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**35 open roles.** 17 in the United States & Canada · 18 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -58,13 +58,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3002/job/179775">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Gore Mutual Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/f0873e00-e877-451d-8933-43e242a1544f">Associate Data Engineer</a></td>
-<td>Cambridge, Ontario, Canada<br/>Toronto, Ontario</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/goremutualinsurance/jobs/4709293006">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
@@ -258,20 +251,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/bdc58b68-047f-4b96-98d0-16ad95416cb1">2027 Data &amp; AI - Full Time Analyst - London, Glasgow</a></td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774755">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c470c016-aa68-4003-a1a9-cf4c2c3e3796">2027 Quantitative Research - Risk and Treasury - Off-Cycle - Associate – London</a></td>
-<td>LONDON, LONDON, United Kingdom</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776873">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ead908be-267f-4d8d-8ab8-14c478112083">2027 Quantitative Research - Risk and Treasury - Off-Cycle – Analyst – Paris</a></td>
-<td>Paris, Paris, France<br/>LONDON, LONDON, United Kingdom</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776890">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>

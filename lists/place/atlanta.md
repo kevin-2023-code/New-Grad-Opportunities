@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**13 open roles.**
+**12 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -92,13 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/06bdc96f-5a5f-4230-b094-e0f363257634">Site Reliability Engineer I</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/pagerduty/jobs/6162484004">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Onetrust</strong></td>
-<td><a href="https://trueinterview.io/jobs/d88d1565-c669-4941-ba95-724361a03889">Software Engineer</a></td>
-<td>Atlanta, GA<br/>Atlanta, Georgia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/onetrust/jobs/8167257">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>

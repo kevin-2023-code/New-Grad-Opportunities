@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**71 open roles.**
+**70 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -289,13 +289,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Marina Del Rey, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/d81bfa7a-ff5b-4560-aa64-71c3cbb2af1f">PLM Engineer - DBA/Infrastructure</a> 🌐</td>
-<td>Remote — United States<br/>Costa Mesa, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5226855007?gh_jid=5226855007">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>

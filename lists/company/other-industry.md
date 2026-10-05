@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**41 open roles.** 20 in the United States & Canada · 21 elsewhere in the world. A real classification that none of the other sectors covers.
+**39 open roles.** 19 in the United States & Canada · 20 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -150,13 +150,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16977">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Lessen</strong></td>
-<td><a href="https://trueinterview.io/jobs/7cc37419-5d93-4cf1-ac12-a169f2df5eaa">Systems Engineer I</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://jobs.lever.co/lessen/3f81dd73-db0a-4f18-8375-2f141d41fb5d/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -227,13 +220,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Genius Sports</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee740f65-0c04-4073-9049-49a5926272b3">Full Time Tennis Trader</a></td>
-<td>Medellín, Antioquia, Colombia<br/>Medellin, Colombia</td>
-<td align="center"><a href="https://boards.greenhouse.io/geniussports/jobs/7983846003?gh_jid=7983846003">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/347545e2-54fc-446c-a217-079c1fb4349a">Streaming Technical Support Analyst</a></td>
 <td>Medellín, Antioquia, Colombia<br/>Medellin, Colombia</td>
 <td align="center"><a href="https://boards.greenhouse.io/geniussports/jobs/7983804003?gh_jid=7983804003">Apply</a></td>

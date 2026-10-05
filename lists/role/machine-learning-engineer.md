@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**35 open roles.** 25 in the United States & Canada · 10 elsewhere in the world.
+**33 open roles.** 23 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -135,20 +135,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>On-Site (Cambridge, MA)</td>
 <td align="center"><a href="https://jobs.polymer.co/foray-bioscience/41044?source=Hacker%20News">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Krea</strong></td>
-<td><a href="https://trueinterview.io/jobs/d93c4c70-3954-4408-ad1d-189643ed48ec">ML Researcher - Image / Video Diffusion</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/krea/845dce21-e270-49a2-9229-5becd256b829/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>CrowdStrike</strong></td>
-<td><a href="https://trueinterview.io/jobs/cefcf42d-cff5-4e83-9383-5a1569c3cb03">Threat Analyst – Machine Learning Operations &amp; Detection Efficacy (Remote)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Threat-Analyst--Machine-Learning-Operations---Detection-Efficacy--Remote-_R29964">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cursor</strong></td>

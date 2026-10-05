@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**90 open roles.** 70 in the United States & Canada · 20 elsewhere in the world.
+**87 open roles.** 67 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -204,13 +204,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7aa67149-7bf7-4fbc-a38c-6f99e48d72f2">Product Analyst — Growth &amp; GTM</a></td>
 <td>Toronto, ON</td>
 <td align="center"><a href="https://jobs.lever.co/caseware/35366087-6670-40a2-ba0e-7eee4d4a8db0/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Match Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4d09b00-181c-49e5-871c-98e193990262">UX Researcher (Temp-6 month)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.lever.co/matchgroup/da9ca7cf-1270-4cd4-b676-84957a3c4381/apply">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
@@ -492,20 +485,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/3813977e-5940-456d-bf5a-16efcdc3a6dc/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Chime</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3fba2e1-06fd-4cb1-94c4-8152172aef06">Product Designer</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>San Francisco Office</td>
-<td align="center"><a href="https://boards.greenhouse.io/chime/jobs/8525323002?gh_jid=8525323002">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Outset</strong></td>
-<td><a href="https://trueinterview.io/jobs/e179ef2f-ee1c-40bd-a742-5c47c4f386ab">Product Designer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/outset/731d6783-7b2b-4d6a-bffd-ba7a5b51de44/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

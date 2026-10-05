@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**27 open roles.** 25 in the United States & Canada · 2 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**26 open roles.** 24 in the United States & Canada · 2 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -89,13 +89,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>CrowdStrike</strong></td>
-<td><a href="https://trueinterview.io/jobs/cefcf42d-cff5-4e83-9383-5a1569c3cb03">Threat Analyst – Machine Learning Operations &amp; Detection Efficacy (Remote)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Threat-Analyst--Machine-Learning-Operations---Detection-Efficacy--Remote-_R29964">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b57c605e-6112-4f53-b08c-9c7670008429">Software Engineer – Sensor, Sensor Performance and Stability (Hybrid)</a></td>
 <td>USA - Redmond, WA, United States of America<br/>USA - Sunnyvale, CA</td>
 <td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874">Apply</a></td>

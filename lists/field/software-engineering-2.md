@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**641 open roles.** 457 in the United States & Canada · 184 elsewhere in the world.
+**618 open roles.** 448 in the United States & Canada · 170 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,41 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Qohash</strong></td>
-<td><a href="https://trueinterview.io/jobs/d72f327c-95c3-4c9d-92a2-2a1cca93d3b9">Solutions Engineer, Bilingual (En, Fr)</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/qohash/jobs/4722050005">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/fb85b357-29ce-4e47-b373-948929845747">PCB Layout Engineer - DoorDash Dot</a></td>
-<td>Oakland, CA<br/>San Francisco</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8125396">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/416c5c05-d5cd-4447-bc2e-56343d4df450">Associate Software Engineer 1</a> 🛂</td>
-<td>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014551564-associate-software-engineer-i?oga=true">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Motional</strong></td>
-<td><a href="https://trueinterview.io/jobs/34cd3502-c2f6-4096-86df-a6582f7576e5">Associate AV Test Engineer</a></td>
-<td>Pittsburgh, Pennsylvania, United States</td>
-<td align="center"><a href="https://motional.com/open-positions/?gh_jid=7855051003">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Brooks Running</strong></td>
-<td><a href="https://trueinterview.io/jobs/c77a8a53-a488-4bf8-8899-fac534523a74">Footwear Developer I</a></td>
-<td>US, Washington, Seattle</td>
-<td align="center"><a href="https://jobs.lever.co/brooksrunning/c3fe53a2-d5bb-45dc-8763-aca427f9e15c/apply">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>Bayesianhealth</strong></td>
 <td><a href="https://trueinterview.io/jobs/cffa4584-ecbe-4805-8af6-537c5b4847f9">Software Engineer, Application Integration</a> 🌐</td>
@@ -386,34 +351,6 @@
 <td align="center"><a href="https://jobs.ashbyhq.com/clera/842059ef-1c9f-4abc-b5b0-48408315b3f7/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Netflix</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1d081d9-f021-4173-b988-69d9293bbc1c">Software Engineer (L6), Platform Security</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317684274">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ambrook</strong></td>
-<td><a href="https://trueinterview.io/jobs/22afa15b-27ec-4c9b-8276-f2eeab0d76f9">Talent Engineer</a></td>
-<td>New York, NY<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ambrook/65255c6d-5e5f-439a-9b63-c0a68517fdef/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/14f85a64-2abc-4d18-a122-244bb4bceb18">Software Engineer, Distributed Data Systems - Robotics</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/da07ba71-81fd-47c7-adb1-2b2d1eaed325/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/f600b5b8-37d8-40d8-886c-598858e4a043">Software Engineer, C++ Simulations (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8682197002?gh_jid=8682197002">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -426,62 +363,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>ElevenLabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/20b10b51-89cf-48d5-a213-1b93dc3ab843">Forward Deployed Engineer - Software Engineer - Turkey</a></td>
-<td>Turkey</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/73ba8a21-bf66-4f37-8e94-05143a481fb8/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e731d7b2-1db5-43c3-bf38-fa4242854a42">Enterprise Solutions Engineer - Greece</a></td>
-<td>Europe<br/>Greece</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/d05779a0-51da-417f-9921-39be5271402a/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/56fb149f-c467-40db-ba40-ee46cf96e8ae">Forward Deployed Engineer - Software Engineer - Mexico</a></td>
-<td>Mexico</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/8a573932-b1fb-4df7-9023-e13a6cecbbbb/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a7e022a1-87c9-408f-84be-0247a6220d60">Enterprise Solutions Engineer - Mexico</a></td>
-<td>Mexico</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/8a587dcd-f3ff-4768-82d4-5f5e952edf6b/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/68229685-ba1a-46c8-aa6e-655aef8b7740">Enterprise Solutions Engineer - Colombia</a></td>
-<td>Colombia</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/ec04799b-6567-4032-8d6c-3c27261618e1/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6c73fcb1-e3b2-417f-beeb-283430e86c15">Forward Deployed Engineer - Software Engineer - Argentina</a></td>
-<td>Argentina</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/1f7a2786-46d3-46c9-81f3-c3849b412988/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1c73730e-ec02-467c-9dd9-0264022714b4">Forward Deployed Engineer - Software Engineer - United Kingdom</a></td>
-<td>London<br/>United Kingdom</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/3391bbc8-f76c-4fb4-bbba-9321f59533d2">Vehicle Hardware Engineering Integration Ford Champ</a></td>
-<td>Naucalpan de Juarez, MEX, Mexico</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71550">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>CABLE</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a7d6ff3-ec88-4101-970b-9022db0ed3fa">CABLE / Software Engineer (early team) / Sydney, Australia (ON-SITE) / Full-time /</a></td>
@@ -1127,24 +1008,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Pingwind</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9cca52a-2e82-46bb-a0a1-f3205986cd2c">Intermediate Appian Developer</a></td>
-<td>Quantico VA</td>
-<td align="center"><a href="https://jobs.lever.co/pingwind/34dd101b-867b-4c59-8323-194c62c2dbd2/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>JPMorgan Chase</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1f425c0-d9ad-4146-b6d7-690ab9643f5d">2027 Software Engineer Program - Full-time - Glasgow &amp; London</a></td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774781">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Redhorse Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7fee452-fb3e-48ee-bb04-3a4489855aa8">Everything Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/redhorsecorp/d7ed4589-b010-4665-a80c-47e8017802ff/apply">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
@@ -1685,34 +1552,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Philippines</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/ansiblehealth/dbc0a9b5-0c38-466b-96e0-e5eae5b7ec29/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Distro</strong></td>
-<td><a href="https://trueinterview.io/jobs/40ec94c4-ccf2-44a9-a71d-0254d232f578">Product Management Analyst</a></td>
-<td>Noida, Uttar Pradesh</td>
-<td align="center"><a href="https://jobs.lever.co/distro/68d23d1c-b990-419a-aa90-a63bdb45c84f/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ee4c7693-b118-4fe8-9a2c-7d0160d66290">Software Engineer — UniData</a></td>
-<td>Noida, Uttar Pradesh</td>
-<td align="center"><a href="https://jobs.lever.co/distro/60fcaaf2-5b95-4f4a-80fd-e3ad2cf5a01d/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Grafana Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9d45ca6-026c-4374-8621-cc0a230995a2">Software Engineer - Platform Productivity | Spain | Remote</a> 🌐</td>
-<td>Remote — Spain, Ireland, United Kingdom</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/grafanalabs/jobs/6135790004">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f0c8f881-6f8e-4272-aab6-4f1d6bbf80e4">Software Engineer - Platform Productivity | Ireland | Remote</a> 🌐</td>
-<td>Remote — Ireland, Spain, United Kingdom</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/grafanalabs/jobs/6135793004">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

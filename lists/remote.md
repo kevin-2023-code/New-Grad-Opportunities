@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**158 open roles.** 109 in the United States & Canada · 49 elsewhere in the world. Postings the pipeline classified as remote.
+**149 open roles.** 103 in the United States & Canada · 46 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Ambrook</strong></td>
-<td><a href="https://trueinterview.io/jobs/d4ab6ce4-9cf5-4f54-9d83-f79a0904b373">Software Engineer, AI</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ambrook/3b116b4f-d264-4ac4-92cb-deacdd7656ef/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Radar Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/08fb7598-8a66-46b3-a053-b36544a2994f">Radar Labs / Software Engineers (SRE, ML, backend, full-stack, mobile, security, QA) / Remote (US), NYC / Full Time /</a> 🌐</td>
@@ -354,39 +347,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Gray Swan Ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/c31518d8-97f4-41e4-800a-69ac00062601">Software Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gray%20swan%20ai/2edf0f4c-d356-41da-a7b8-9b54e95f140c/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/aec2e7b9-fee4-4b53-bde1-72c483b40de1">Red Team Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gray%20swan%20ai/e22e9376-8158-4b1d-bddf-e059bb846d6a/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>CrowdStrike</strong></td>
-<td><a href="https://trueinterview.io/jobs/cefcf42d-cff5-4e83-9383-5a1569c3cb03">Threat Analyst – Machine Learning Operations &amp; Detection Efficacy (Remote)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Threat-Analyst--Machine-Learning-Operations---Detection-Efficacy--Remote-_R29964">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Potere</strong></td>
 <td><a href="https://trueinterview.io/jobs/7874077f-0fe4-41e7-8b66-f26960ffb15f">Electrical Application Engineer</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://www.indeed.com/viewjob?jk=74cc3f174e716e05">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/d81bfa7a-ff5b-4560-aa64-71c3cbb2af1f">PLM Engineer - DBA/Infrastructure</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5226855007?gh_jid=5226855007">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Iseatz</strong></td>
@@ -773,13 +738,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/cursor/1cfacf1a-4ba7-4e68-9f65-4fb8e3525bde/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Netflix</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1d081d9-f021-4173-b988-69d9293bbc1c">Software Engineer (L6), Platform Security</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317684274">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -975,13 +933,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Redhorse Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7fee452-fb3e-48ee-bb04-3a4489855aa8">Everything Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/redhorsecorp/d7ed4589-b010-4665-a80c-47e8017802ff/apply">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Onhires</strong></td>
 <td><a href="https://trueinterview.io/jobs/c8d59fce-1b56-41fb-af59-0fd2a9ade5d2">Junior Network Automation / NOC Engineer</a> 🌐</td>
 <td>Remote</td>
@@ -1120,20 +1071,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/clera/ddb462b8-946f-4ec7-9d8b-d66a557831f4/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Grafana Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9d45ca6-026c-4374-8621-cc0a230995a2">Software Engineer - Platform Productivity | Spain | Remote</a> 🌐</td>
-<td>Remote — Spain, Ireland, United Kingdom</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/grafanalabs/jobs/6135790004">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f0c8f881-6f8e-4272-aab6-4f1d6bbf80e4">Software Engineer - Platform Productivity | Ireland | Remote</a> 🌐</td>
-<td>Remote — Ireland, Spain, United Kingdom</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/grafanalabs/jobs/6135793004">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

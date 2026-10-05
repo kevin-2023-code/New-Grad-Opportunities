@@ -186,6 +186,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bf19fc24-983e-40f0-8841-8d8e025712b1">Quality Development Program</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/intersystems/jobs/7827897003">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Coherent Corp.</strong></td>
 <td><a href="https://trueinterview.io/jobs/dc41881b-278d-46ef-a12e-b3a81c551de1">Process Engineer</a></td>
 <td>Woburn, MA, United States<br/>Sherman, TX, United States</td>
@@ -352,13 +359,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA<br/>Stockholm<br/>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lovable/d92292d5-a9f5-4637-9d86-77e95bf66970/application">Apply</a></td>
 <td align="center">9 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Man Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/49f8c8fe-5e3b-437e-8612-9523c80a4a18">Portfolio Analyst</a></td>
-<td>Boston, MA<br/>Massachusetts</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4943310101">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

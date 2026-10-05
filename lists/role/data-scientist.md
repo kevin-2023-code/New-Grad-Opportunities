@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**29 open roles.** 21 in the United States & Canada · 8 elsewhere in the world.
+**28 open roles.** 20 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -92,13 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ff7fcb7f-30b0-40d7-a473-28cbde9989c4">Associate Scientist, Data I</a></td>
 <td>North Chicago, IL, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014999256-associate-scientist-data-i?oga=true">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Red Hat</strong></td>
-<td><a href="https://trueinterview.io/jobs/f57ac0ac-425f-4977-8500-9103623589de">Data Scientist</a></td>
-<td>Raleigh, United States of America</td>
-<td align="center"><a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Data-Scientist_R-059044">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
@@ -226,11 +219,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Funding Circle</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5f44c83-feec-438e-bcbc-0aeeb1637396">Data Scientist</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fundingcircle/e97e0bd0-0c97-42cc-98a7-e74ce6a544d9/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/bdc58b68-047f-4b96-98d0-16ad95416cb1">2027 Data &amp; AI - Full Time Analyst - London, Glasgow</a></td>
+<td>LONDON, LONDON, United Kingdom</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774755">Apply</a></td>
+<td align="center">31 Aug 2026</td>
 </tr>
 </tbody>
 </table>

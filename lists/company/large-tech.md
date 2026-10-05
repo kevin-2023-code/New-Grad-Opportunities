@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**155 open roles.** 123 in the United States & Canada · 32 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**148 open roles.** 118 in the United States & Canada · 30 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -403,20 +403,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Onetrust</strong></td>
-<td><a href="https://trueinterview.io/jobs/d88d1565-c669-4941-ba95-724361a03889">Software Engineer</a></td>
-<td>Atlanta, GA<br/>Atlanta, Georgia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/onetrust/jobs/8167257">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Match Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4d09b00-181c-49e5-871c-98e193990262">UX Researcher (Temp-6 month)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.lever.co/matchgroup/da9ca7cf-1270-4cd4-b676-84957a3c4381/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/7accbf10-70d9-4110-85b7-1afe6ae277fc">Systems Test Engineer, End-to-End Validation | Consumer Devices</a></td>
 <td>San Francisco, CA</td>
@@ -424,14 +410,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Robinhood</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6ada4a8-6c62-4c9c-906b-2f4ef742b182">Investment Accounts Associate, Help Desk</a></td>
-<td>Westlake, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8168392?t=gh_src=&amp;gh_jid=8168392">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/df9d0a1b-5a65-4ba3-9efc-26c393144597">People Research Data Scientist, AI Fairness &amp; Bias</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/cadb7c24-2aea-4b98-a793-65ae9388b5d6/application">Apply</a></td>
@@ -864,20 +843,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/3813977e-5940-456d-bf5a-16efcdc3a6dc/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Chime</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3fba2e1-06fd-4cb1-94c4-8152172aef06">Product Designer</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>San Francisco Office</td>
-<td align="center"><a href="https://boards.greenhouse.io/chime/jobs/8525323002?gh_jid=8525323002">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/14f85a64-2abc-4d18-a122-244bb4bceb18">Software Engineer, Distributed Data Systems - Robotics</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/da07ba71-81fd-47c7-adb1-2b2d1eaed325/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1099,20 +1064,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Moscow<br/>Almaty<br/>Armenia<br/>+5 more</td>
 <td align="center"><a href="https://jobs.lever.co/xsolla/8c0f5e96-f19f-4d7b-a2a2-a2531e925f02/apply">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Grafana Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9d45ca6-026c-4374-8621-cc0a230995a2">Software Engineer - Platform Productivity | Spain | Remote</a> 🌐</td>
-<td>Remote — Spain, Ireland, United Kingdom</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/grafanalabs/jobs/6135790004">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f0c8f881-6f8e-4272-aab6-4f1d6bbf80e4">Software Engineer - Platform Productivity | Ireland | Remote</a> 🌐</td>
-<td>Remote — Ireland, Spain, United Kingdom</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/grafanalabs/jobs/6135793004">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

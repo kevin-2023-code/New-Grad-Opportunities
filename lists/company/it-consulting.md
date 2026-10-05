@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**93 open roles.** 60 in the United States & Canada · 33 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**91 open roles.** 60 in the United States & Canada · 31 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -588,20 +588,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote — France</td>
 <td align="center"><a href="https://4dayweek.io/job/software-engineer-at-hedgehog-lab-b2f9f9fb">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Pingwind</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9cca52a-2e82-46bb-a0a1-f3205986cd2c">Intermediate Appian Developer</a></td>
-<td>Quantico VA</td>
-<td align="center"><a href="https://jobs.lever.co/pingwind/34dd101b-867b-4c59-8323-194c62c2dbd2/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Redhorse Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7fee452-fb3e-48ee-bb04-3a4489855aa8">Everything Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/redhorsecorp/d7ed4589-b010-4665-a80c-47e8017802ff/apply">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Apply Digital</strong></td>

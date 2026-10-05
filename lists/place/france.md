@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**7 open roles.**
+**6 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -39,13 +39,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote — France<br/>Paris, France, Remote</td>
 <td align="center"><a href="https://4dayweek.io/job/software-engineer-at-hedgehog-lab-b2f9f9fb">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>JPMorgan Chase</strong></td>
-<td><a href="https://trueinterview.io/jobs/ead908be-267f-4d8d-8ab8-14c478112083">2027 Quantitative Research - Risk and Treasury - Off-Cycle – Analyst – Paris</a></td>
-<td>Paris, Paris, France<br/>LONDON, LONDON, United Kingdom</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776890">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Vocca</strong></td>

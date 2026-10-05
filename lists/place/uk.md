@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**37 open roles.** 5 in the United States & Canada · 32 elsewhere in the world.
+**33 open roles.** 5 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,13 +64,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>ElevenLabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c73730e-ec02-467c-9dd9-0264022714b4">Forward Deployed Engineer - Software Engineer - United Kingdom</a></td>
-<td>London<br/>United Kingdom</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Quantum</strong></td>
 <td><a href="https://trueinterview.io/jobs/977dd633-6407-4d12-bd96-8af6683a1aaf">Graduate Commercial Insights Analyst</a></td>
@@ -184,31 +177,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Funding Circle</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5f44c83-feec-438e-bcbc-0aeeb1637396">Data Scientist</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fundingcircle/e97e0bd0-0c97-42cc-98a7-e74ce6a544d9/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>JPMorgan Chase</strong></td>
 <td><a href="https://trueinterview.io/jobs/bdc58b68-047f-4b96-98d0-16ad95416cb1">2027 Data &amp; AI - Full Time Analyst - London, Glasgow</a></td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774755">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c470c016-aa68-4003-a1a9-cf4c2c3e3796">2027 Quantitative Research - Risk and Treasury - Off-Cycle - Associate – London</a></td>
-<td>LONDON, LONDON, United Kingdom</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776873">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ead908be-267f-4d8d-8ab8-14c478112083">2027 Quantitative Research - Risk and Treasury - Off-Cycle – Analyst – Paris</a></td>
-<td>LONDON, LONDON, United Kingdom<br/>Paris, Paris, France</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776890">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>

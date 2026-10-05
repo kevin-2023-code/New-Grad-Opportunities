@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**58 open roles.**
+**57 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -415,13 +415,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, WA<br/>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/73fdf2c0-4318-4b13-addc-b66bc1308ba4/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/f600b5b8-37d8-40d8-886c-598858e4a043">Software Engineer, C++ Simulations (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8682197002?gh_jid=8682197002">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

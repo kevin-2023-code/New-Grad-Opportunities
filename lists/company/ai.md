@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**148 open roles.** 115 in the United States & Canada · 33 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**135 open roles.** 110 in the United States & Canada · 25 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -228,35 +228,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Gray Swan Ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/c31518d8-97f4-41e4-800a-69ac00062601">Software Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gray%20swan%20ai/2edf0f4c-d356-41da-a7b8-9b54e95f140c/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/aec2e7b9-fee4-4b53-bde1-72c483b40de1">Red Team Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gray%20swan%20ai/e22e9376-8158-4b1d-bddf-e059bb846d6a/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/b49a4f5c-1ce7-4e17-bea1-28fe8fa5b5b3">Field Application Engineer - Sterling, VA - Temporary Part Time</a></td>
-<td>Sterling, VA</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/034be341-94c1-49d4-be5a-5d9d20c53091/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Krea</strong></td>
-<td><a href="https://trueinterview.io/jobs/d93c4c70-3954-4408-ad1d-189643ed48ec">ML Researcher - Image / Video Diffusion</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/krea/845dce21-e270-49a2-9229-5becd256b829/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/7accbf10-70d9-4110-85b7-1afe6ae277fc">Systems Test Engineer, End-to-End Validation | Consumer Devices</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/393b88d7-1fbc-466a-9108-a7c1bafeb8d8/application">Apply</a></td>
@@ -815,13 +787,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/3813977e-5940-456d-bf5a-16efcdc3a6dc/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/14f85a64-2abc-4d18-a122-244bb4bceb18">Software Engineer, Distributed Data Systems - Robotics</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/da07ba71-81fd-47c7-adb1-2b2d1eaed325/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -834,55 +799,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>ElevenLabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/20b10b51-89cf-48d5-a213-1b93dc3ab843">Forward Deployed Engineer - Software Engineer - Turkey</a></td>
-<td>Turkey</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/73ba8a21-bf66-4f37-8e94-05143a481fb8/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e731d7b2-1db5-43c3-bf38-fa4242854a42">Enterprise Solutions Engineer - Greece</a></td>
-<td>Europe<br/>Greece</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/d05779a0-51da-417f-9921-39be5271402a/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/56fb149f-c467-40db-ba40-ee46cf96e8ae">Forward Deployed Engineer - Software Engineer - Mexico</a></td>
-<td>Mexico</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/8a573932-b1fb-4df7-9023-e13a6cecbbbb/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a7e022a1-87c9-408f-84be-0247a6220d60">Enterprise Solutions Engineer - Mexico</a></td>
-<td>Mexico</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/8a587dcd-f3ff-4768-82d4-5f5e952edf6b/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/68229685-ba1a-46c8-aa6e-655aef8b7740">Enterprise Solutions Engineer - Colombia</a></td>
-<td>Colombia</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/ec04799b-6567-4032-8d6c-3c27261618e1/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6c73fcb1-e3b2-417f-beeb-283430e86c15">Forward Deployed Engineer - Software Engineer - Argentina</a></td>
-<td>Argentina</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/1f7a2786-46d3-46c9-81f3-c3849b412988/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1c73730e-ec02-467c-9dd9-0264022714b4">Forward Deployed Engineer - Software Engineer - United Kingdom</a></td>
-<td>London<br/>United Kingdom</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/0df62237-4184-4567-b903-cd358cdff00d">Dedicated Support Engineer - Tokyo</a></td>
@@ -1057,13 +973,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Stockholm</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lovable/8dd92c40-b45d-41b2-ae6b-1680b0a05d92/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/5ffc311a-a291-4151-8197-c2cd0c421b0a">Field Application Engineer - Fixed term - Part-time - Hokkaido (copy)</a></td>
-<td>Hokkaido</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/56da4b01-aec7-4217-909a-3d08007c1401/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

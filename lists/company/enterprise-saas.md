@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**76 open roles.** 52 in the United States & Canada · 24 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**75 open roles.** 51 in the United States & Canada · 24 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -191,13 +191,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Nashville, TN, United States</td>
 <td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/344360">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Onetrust</strong></td>
-<td><a href="https://trueinterview.io/jobs/d88d1565-c669-4941-ba95-724361a03889">Software Engineer</a></td>
-<td>Atlanta, GA<br/>Atlanta, Georgia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/onetrust/jobs/8167257">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Caseware</strong></td>

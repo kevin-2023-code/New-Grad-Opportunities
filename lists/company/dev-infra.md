@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**50 open roles.** 33 in the United States & Canada · 17 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**47 open roles.** 32 in the United States & Canada · 15 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -148,13 +148,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/06bdc96f-5a5f-4230-b094-e0f363257634">Site Reliability Engineer I</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/pagerduty/jobs/6162484004">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Red Hat</strong></td>
-<td><a href="https://trueinterview.io/jobs/f57ac0ac-425f-4977-8500-9103623589de">Data Scientist</a></td>
-<td>Raleigh, United States of America</td>
-<td align="center"><a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Data-Scientist_R-059044">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
@@ -364,20 +357,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/incident/b4edacb2-1008-476f-9b96-d5c9f39b81a9/application">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Grafana Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9d45ca6-026c-4374-8621-cc0a230995a2">Software Engineer - Platform Productivity | Spain | Remote</a> 🌐</td>
-<td>Remote — Spain, Ireland, United Kingdom</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/grafanalabs/jobs/6135790004">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f0c8f881-6f8e-4272-aab6-4f1d6bbf80e4">Software Engineer - Platform Productivity | Ireland | Remote</a> 🌐</td>
-<td>Remote — Ireland, Spain, United Kingdom</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/grafanalabs/jobs/6135793004">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

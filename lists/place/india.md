@@ -2,7 +2,7 @@
 
 # 🇮🇳 Bengaluru & India
 
-**17 open roles.**
+**16 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -88,13 +88,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hyderabad<br/>India</td>
 <td align="center"><a href="https://www.frazierdeeter.com/careers/openings/apply/7986994003?gh_jid=7986994003">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Truveta</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8a2ba54-ae77-45b8-9424-3bb318cb8136">IT Administrator</a></td>
-<td>Hyderabad, India<br/>India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/truveta/jobs/6178427004">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>ZoomInfo</strong></td>

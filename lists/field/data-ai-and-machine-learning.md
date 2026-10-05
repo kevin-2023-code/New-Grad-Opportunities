@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**247 open roles.** 164 in the United States & Canada · 83 elsewhere in the world.
+**241 open roles.** 159 in the United States & Canada · 82 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Ambrook</strong></td>
-<td><a href="https://trueinterview.io/jobs/d4ab6ce4-9cf5-4f54-9d83-f79a0904b373">Software Engineer, AI</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ambrook/3b116b4f-d264-4ac4-92cb-deacdd7656ef/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Rebar</strong></td>
 <td><a href="https://trueinterview.io/jobs/43c4cf71-e063-4616-96b7-ccb5e451f242">Rebar / Software Engineers (Product, Applied AI, ML Infra, Data Platform) / ONSITE 5 days/week, New York City (union square area!) / Full-time / $150k–$260k + equity /</a></td>
@@ -561,34 +554,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/979a4941-886f-4530-ba06-8a51f8a14543">Prompt Systems Engineer</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.lever.co/noodle/febb7056-ce75-41d9-a8e2-5755aa1d6579/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Gore Mutual Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/f0873e00-e877-451d-8933-43e242a1544f">Associate Data Engineer</a></td>
-<td>Cambridge, Ontario, Canada<br/>Toronto, Ontario</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/goremutualinsurance/jobs/4709293006">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Krea</strong></td>
-<td><a href="https://trueinterview.io/jobs/d93c4c70-3954-4408-ad1d-189643ed48ec">ML Researcher - Image / Video Diffusion</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/krea/845dce21-e270-49a2-9229-5becd256b829/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>CrowdStrike</strong></td>
-<td><a href="https://trueinterview.io/jobs/cefcf42d-cff5-4e83-9383-5a1569c3cb03">Threat Analyst – Machine Learning Operations &amp; Detection Efficacy (Remote)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Threat-Analyst--Machine-Learning-Operations---Detection-Efficacy--Remote-_R29964">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Red Hat</strong></td>
-<td><a href="https://trueinterview.io/jobs/f57ac0ac-425f-4977-8500-9103623589de">Data Scientist</a></td>
-<td>Raleigh, United States of America</td>
-<td align="center"><a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Data-Scientist_R-059044">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
@@ -1512,13 +1477,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hybrid (Leuven, Belgium<br/>remote 3 days/week)</td>
 <td align="center"><a href="https://klassif.ai/careers/ai-ml-engineer">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Funding Circle</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5f44c83-feec-438e-bcbc-0aeeb1637396">Data Scientist</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fundingcircle/e97e0bd0-0c97-42cc-98a7-e74ce6a544d9/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>

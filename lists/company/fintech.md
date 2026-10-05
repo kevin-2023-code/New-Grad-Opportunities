@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**47 open roles.** 29 in the United States & Canada · 18 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**44 open roles.** 27 in the United States & Canada · 17 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -109,13 +109,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Robinhood</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6ada4a8-6c62-4c9c-906b-2f4ef742b182">Investment Accounts Associate, Help Desk</a></td>
-<td>Westlake, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8168392?t=gh_src=&amp;gh_jid=8168392">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Wisetack</strong></td>
 <td><a href="https://trueinterview.io/jobs/d2cbd5e8-aa00-4472-bfdb-5e166539d790">IT Support Engineer</a> 🌐</td>
 <td>Remote — United States</td>
@@ -213,13 +206,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/ostium/f4b646e5-cec6-4716-af52-ce9fa02ff6e2/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Chime</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3fba2e1-06fd-4cb1-94c4-8152172aef06">Product Designer</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>San Francisco Office</td>
-<td align="center"><a href="https://boards.greenhouse.io/chime/jobs/8525323002?gh_jid=8525323002">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -294,13 +280,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>2 Locations</td>
 <td align="center"><a href="https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer_R0137281-1">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Funding Circle</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5f44c83-feec-438e-bcbc-0aeeb1637396">Data Scientist</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fundingcircle/e97e0bd0-0c97-42cc-98a7-e74ce6a544d9/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Next Insurance</strong></td>

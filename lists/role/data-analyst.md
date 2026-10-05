@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**31 open roles.** 15 in the United States & Canada · 16 elsewhere in the world.
+**30 open roles.** 15 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -210,13 +210,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo</td>
 <td align="center"><a href="https://jobs.lever.co/bv/eee25902-bbab-44b1-ae74-7eb3439ef9a3/apply">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>JPMorgan Chase</strong></td>
-<td><a href="https://trueinterview.io/jobs/bdc58b68-047f-4b96-98d0-16ad95416cb1">2027 Data &amp; AI - Full Time Analyst - London, Glasgow</a></td>
-<td>LONDON, LONDON, United Kingdom</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774755">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>LG Ad Solutions</strong></td>

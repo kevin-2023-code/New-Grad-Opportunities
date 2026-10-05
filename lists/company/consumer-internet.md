@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**24 open roles.** 23 in the United States & Canada · 1 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**22 open roles.** 21 in the United States & Canada · 1 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -109,13 +109,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Match Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4d09b00-181c-49e5-871c-98e193990262">UX Researcher (Temp-6 month)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.lever.co/matchgroup/da9ca7cf-1270-4cd4-b676-84957a3c4381/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Sleeper</strong></td>
 <td><a href="https://trueinterview.io/jobs/b16916ab-2a4e-4c02-bbf8-717232d5c9f3">UI Graphic Designer</a></td>
 <td>Seattle, WA</td>
@@ -169,13 +162,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/26d51152-3ea3-4294-a1ee-06b23a20dd95">IT Support Engineer</a></td>
 <td>United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/coursera/jobs/6132360004">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Netflix</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1d081d9-f021-4173-b988-69d9293bbc1c">Software Engineer (L6), Platform Security</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317684274">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 </tbody>

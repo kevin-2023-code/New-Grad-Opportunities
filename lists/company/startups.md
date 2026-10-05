@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**92 open roles.** 66 in the United States & Canada · 26 elsewhere in the world. Early-stage technology companies.
+**87 open roles.** 62 in the United States & Canada · 25 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -165,35 +165,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Gray Swan Ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/c31518d8-97f4-41e4-800a-69ac00062601">Software Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gray%20swan%20ai/2edf0f4c-d356-41da-a7b8-9b54e95f140c/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/aec2e7b9-fee4-4b53-bde1-72c483b40de1">Red Team Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gray%20swan%20ai/e22e9376-8158-4b1d-bddf-e059bb846d6a/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/b49a4f5c-1ce7-4e17-bea1-28fe8fa5b5b3">Field Application Engineer - Sterling, VA - Temporary Part Time</a></td>
-<td>Sterling, VA</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/034be341-94c1-49d4-be5a-5d9d20c53091/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Krea</strong></td>
-<td><a href="https://trueinterview.io/jobs/d93c4c70-3954-4408-ad1d-189643ed48ec">ML Researcher - Image / Video Diffusion</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/krea/845dce21-e270-49a2-9229-5becd256b829/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ef3d03d0-e4b7-40b1-86e9-4d2c5bcafc82">Product Engineer</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/krea/963516ac-e115-4f1f-b6a2-12532c83ba0a/application">Apply</a></td>
@@ -665,13 +637,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Stockholm</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lovable/8dd92c40-b45d-41b2-ae6b-1680b0a05d92/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/5ffc311a-a291-4151-8197-c2cd0c421b0a">Field Application Engineer - Fixed term - Part-time - Hokkaido (copy)</a></td>
-<td>Hokkaido</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/56da4b01-aec7-4217-909a-3d08007c1401/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

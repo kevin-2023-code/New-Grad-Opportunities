@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**641 open roles.** 457 in the United States & Canada · 184 elsewhere in the world.
+**618 open roles.** 448 in the United States & Canada · 170 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,13 +19,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Samsung</strong></td>
-<td><a href="https://trueinterview.io/jobs/0bf6d102-b4f6-44ef-8a68-64842dd4eaa5">Engineer, CMP Engineering</a></td>
-<td>1530 FM 973 Taylor, TX, USA, United States of America</td>
-<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Engineer--CMP-Engineering_R121003-1">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>World View Enterprises Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/83201f01-4ab6-449a-9af0-d08c46c1b6de">Software Engineer</a></td>
@@ -1308,34 +1301,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Onetrust</strong></td>
-<td><a href="https://trueinterview.io/jobs/d88d1565-c669-4941-ba95-724361a03889">Software Engineer</a></td>
-<td>Atlanta, GA<br/>Atlanta, Georgia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/onetrust/jobs/8167257">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Altalink</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba26133b-0842-43ed-80cc-bbbe4a35a707">Commercial Development Engineer</a></td>
-<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
-<td align="center"><a href="https://jobs.workable.com/view/xbKabfTJTFCmaiQQFBPRTG/commercial-development-engineer-in-calgary-at-altalink">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Gray Swan Ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/c31518d8-97f4-41e4-800a-69ac00062601">Software Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gray%20swan%20ai/2edf0f4c-d356-41da-a7b8-9b54e95f140c/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/aec2e7b9-fee4-4b53-bde1-72c483b40de1">Red Team Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gray%20swan%20ai/e22e9376-8158-4b1d-bddf-e059bb846d6a/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>InterSystems</strong></td>
 <td><a href="https://trueinterview.io/jobs/8c148f25-fa87-4290-b52f-a00007bc32cd">Core Development Program</a></td>
 <td>Boston, MA</td>
@@ -1343,17 +1308,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bf19fc24-983e-40f0-8841-8d8e025712b1">Quality Development Program</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/intersystems/jobs/7827897003">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Dev Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/67822c57-9e54-4c66-adfe-75ca97d52981">Software Developer – Identity &amp; Access Management (IAM)</a></td>
 <td>Tysons Corner, VA - HYBRID</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/devtechnology/jobs/8768969002">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/b49a4f5c-1ce7-4e17-bea1-28fe8fa5b5b3">Field Application Engineer - Sterling, VA - Temporary Part Time</a></td>
-<td>Sterling, VA</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/034be341-94c1-49d4-be5a-5d9d20c53091/apply">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
@@ -1371,18 +1336,18 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>St. Michael's Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/c2affcff-f482-4496-ba49-d2c6229a9f7d">Maritime Systems Engineer (Top Secret Clearance with SCI Required)</a></td>
-<td>Tampa, FL</td>
-<td align="center"><a href="https://www.stmichaelsinc.com/jobs?gh_jid=5411709008">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/e92ab15c-de1d-4d07-8955-98b70510e107">Applied Systems Engineering Rotation Engineer - New College Graduate 2026</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397529283">Apply</a></td>
 <td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sierra</strong></td>
+<td><a href="https://trueinterview.io/jobs/b29a33d8-54f1-416e-b86e-04fa0dd7f85b">APX (New Grad 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sierra/d9c445da-c7b4-43a3-8d71-d367681c3015/application">Apply</a></td>
+<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>EliseAI</strong></td>
@@ -2818,6 +2783,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/uniswap/bb981823-b923-4f53-95ba-19d732c1caf3/application">Apply</a></td>
 <td align="center">12 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Qohash</strong></td>
+<td><a href="https://trueinterview.io/jobs/d72f327c-95c3-4c9d-92a2-2a1cca93d3b9">Solutions Engineer, Bilingual (En, Fr)</a> 🌐</td>
+<td>Remote — Canada</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/qohash/jobs/4722050005">Apply</a></td>
+<td align="center">12 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/fb85b357-29ce-4e47-b373-948929845747">PCB Layout Engineer - DoorDash Dot</a></td>
+<td>Oakland, CA<br/>San Francisco</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8125396">Apply</a></td>
+<td align="center">12 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/416c5c05-d5cd-4447-bc2e-56343d4df450">Associate Software Engineer 1</a> 🛂</td>
+<td>North Chicago, IL, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014551564-associate-software-engineer-i?oga=true">Apply</a></td>
+<td align="center">12 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Motional</strong></td>
+<td><a href="https://trueinterview.io/jobs/34cd3502-c2f6-4096-86df-a6582f7576e5">Associate AV Test Engineer</a></td>
+<td>Pittsburgh, Pennsylvania, United States</td>
+<td align="center"><a href="https://motional.com/open-positions/?gh_jid=7855051003">Apply</a></td>
+<td align="center">11 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Brooks Running</strong></td>
+<td><a href="https://trueinterview.io/jobs/c77a8a53-a488-4bf8-8899-fac534523a74">Footwear Developer I</a></td>
+<td>US, Washington, Seattle</td>
+<td align="center"><a href="https://jobs.lever.co/brooksrunning/c3fe53a2-d5bb-45dc-8763-aca427f9e15c/apply">Apply</a></td>
+<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>

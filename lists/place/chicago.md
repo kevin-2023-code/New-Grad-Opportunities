@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**16 open roles.**
+**15 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -121,13 +121,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chicago Office<br/>New York, NY<br/>New York office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/flowtraders/jobs/8026227">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lessen</strong></td>
-<td><a href="https://trueinterview.io/jobs/7cc37419-5d93-4cf1-ac12-a169f2df5eaa">Systems Engineer I</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://jobs.lever.co/lessen/3f81dd73-db0a-4f18-8375-2f141d41fb5d/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

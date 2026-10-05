@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**22 open roles.** 19 in the United States & Canada · 3 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**21 open roles.** 18 in the United States & Canada · 3 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,13 +64,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/19c0a8d6-be20-49cb-8e39-591fc633f917">Controls Engineer</a></td>
 <td>Tulsa, Oklahoma</td>
 <td align="center"><a href="https://jobs.lever.co/zeeco/48ab06e1-d002-4eea-a801-c3bda39d1d25/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Altalink</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba26133b-0842-43ed-80cc-bbbe4a35a707">Commercial Development Engineer</a></td>
-<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
-<td align="center"><a href="https://jobs.workable.com/view/xbKabfTJTFCmaiQQFBPRTG/commercial-development-engineer-in-calgary-at-altalink">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**353 open roles.** 324 in the United States & Canada · 29 elsewhere in the world.
+**347 open roles.** 320 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1411,13 +1411,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Gdh</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1376162-96b2-4c5f-a189-8813ce2ba031">Graduate Electrical Engineer</a></td>
-<td>BOWIE, MD, United States</td>
-<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28151">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Ford Motor Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/385d5cf4-23ee-4cb8-99fc-e29e6ac36bcb">Manufacturing Engineer- Body Shop</a></td>
 <td>Dearborn, MI, United States</td>
@@ -1430,13 +1423,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://www.indeed.com/viewjob?jk=74cc3f174e716e05">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd83d26c-ec58-4dc0-90dc-93db2e8fb413">Manufacturing Engineer, Supply Chain (Starship)</a></td>
-<td>Starbase, TX<br/>Brownsville, TX, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8767419002?gh_jid=8767419002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Gdh</strong></td>
@@ -2271,20 +2257,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/vulcanelements/jobs/5381418008">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Coherent Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f2d3118-5eb4-4f42-b2f0-33a5fbd34412">Product Engineer</a></td>
-<td>Sherman, TX, United States</td>
-<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2013958">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/0196b482-424e-4a98-9ef4-78561c3293a8">Early Professional, Transmission Line Engineer/Designer</a></td>
-<td>Edmonton, AB, Canada<br/>Kelowna, BC, Canada</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92504">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2485,20 +2457,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Escondida, Antofagasta</td>
 <td align="center"><a href="https://jobs.lever.co/field-ai/3ce85869-7125-4ac5-8f3f-bd72c3d3ac49/apply">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1be0c92-802d-41cd-9854-1a7f7da62319">Manufacturing Engineer</a></td>
-<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7825132003">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/5ffc311a-a291-4151-8197-c2cd0c421b0a">Field Application Engineer - Fixed term - Part-time - Hokkaido (copy)</a></td>
-<td>Hokkaido</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/56da4b01-aec7-4217-909a-3d08007c1401/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

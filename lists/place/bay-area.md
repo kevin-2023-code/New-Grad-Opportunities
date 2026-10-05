@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**289 open roles.**
+**284 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Ambrook</strong></td>
-<td><a href="https://trueinterview.io/jobs/d4ab6ce4-9cf5-4f54-9d83-f79a0904b373">Software Engineer, AI</a> 🌐</td>
-<td>Remote — United States<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ambrook/3b116b4f-d264-4ac4-92cb-deacdd7656ef/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Intuit</strong></td>
 <td><a href="https://trueinterview.io/jobs/df762123-cc6e-4c95-ada4-731dc88c7e96">Product Manager 2 - Rotational Product Management (RPM) Program</a></td>
@@ -998,13 +991,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Krea</strong></td>
-<td><a href="https://trueinterview.io/jobs/d93c4c70-3954-4408-ad1d-189643ed48ec">ML Researcher - Image / Video Diffusion</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/krea/845dce21-e270-49a2-9229-5becd256b829/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/7accbf10-70d9-4110-85b7-1afe6ae277fc">Systems Test Engineer, End-to-End Validation | Consumer Devices</a></td>
 <td>San Francisco, CA</td>
@@ -1017,6 +1003,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397529283">Apply</a></td>
 <td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sierra</strong></td>
+<td><a href="https://trueinterview.io/jobs/b29a33d8-54f1-416e-b86e-04fa0dd7f85b">APX (New Grad 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sierra/d9c445da-c7b4-43a3-8d71-d367681c3015/application">Apply</a></td>
+<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Krea</strong></td>
@@ -2011,34 +2004,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/3813977e-5940-456d-bf5a-16efcdc3a6dc/application">Apply</a></td>
 <td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Chime</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3fba2e1-06fd-4cb1-94c4-8152172aef06">Product Designer</a></td>
-<td>San Francisco, CA<br/>San Francisco Office<br/>New York, NY</td>
-<td align="center"><a href="https://boards.greenhouse.io/chime/jobs/8525323002?gh_jid=8525323002">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Outset</strong></td>
-<td><a href="https://trueinterview.io/jobs/e179ef2f-ee1c-40bd-a742-5c47c4f386ab">Product Designer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/outset/731d6783-7b2b-4d6a-bffd-ba7a5b51de44/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ambrook</strong></td>
-<td><a href="https://trueinterview.io/jobs/22afa15b-27ec-4c9b-8276-f2eeab0d76f9">Talent Engineer</a></td>
-<td>San Francisco, CA<br/>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ambrook/65255c6d-5e5f-439a-9b63-c0a68517fdef/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/14f85a64-2abc-4d18-a122-244bb4bceb18">Software Engineer, Distributed Data Systems - Robotics</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/da07ba71-81fd-47c7-adb1-2b2d1eaed325/application">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

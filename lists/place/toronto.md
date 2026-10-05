@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**38 open roles.**
+**37 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -184,13 +184,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Ottawa, Ontario</td>
 <td align="center"><a href="https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Gore Mutual Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/f0873e00-e877-451d-8933-43e242a1544f">Associate Data Engineer</a></td>
-<td>Toronto, Ontario<br/>Cambridge, Ontario, Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/goremutualinsurance/jobs/4709293006">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Caseware</strong></td>

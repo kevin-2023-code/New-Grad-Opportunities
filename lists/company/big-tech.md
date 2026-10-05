@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**309 open roles.** 289 in the United States & Canada · 20 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**304 open roles.** 284 in the United States & Canada · 20 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Samsung</strong></td>
-<td><a href="https://trueinterview.io/jobs/0bf6d102-b4f6-44ef-8a68-64842dd4eaa5">Engineer, CMP Engineering</a></td>
-<td>1530 FM 973 Taylor, TX, USA, United States of America</td>
-<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Engineer--CMP-Engineering_R121003-1">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Intuit</strong></td>
 <td><a href="https://trueinterview.io/jobs/df762123-cc6e-4c95-ada4-731dc88c7e96">Product Manager 2 - Rotational Product Management (RPM) Program</a></td>
@@ -1306,24 +1299,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>CrowdStrike</strong></td>
-<td><a href="https://trueinterview.io/jobs/cefcf42d-cff5-4e83-9383-5a1569c3cb03">Threat Analyst – Machine Learning Operations &amp; Detection Efficacy (Remote)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Threat-Analyst--Machine-Learning-Operations---Detection-Efficacy--Remote-_R29964">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/e92ab15c-de1d-4d07-8955-98b70510e107">Applied Systems Engineering Rotation Engineer - New College Graduate 2026</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397529283">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Red Hat</strong></td>
-<td><a href="https://trueinterview.io/jobs/f57ac0ac-425f-4977-8500-9103623589de">Data Scientist</a></td>
-<td>Raleigh, United States of America</td>
-<td align="center"><a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Data-Scientist_R-059044">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
@@ -2024,20 +2003,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5ea154b3-054c-4879-b279-fa4e82576616">System Design Engineer - Memory System</a></td>
 <td>Milpitas, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Sandisk/744000142015139-system-design-engineer-memory-system-?oga=true">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Coherent Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f2d3118-5eb4-4f42-b2f0-33a5fbd34412">Product Engineer</a></td>
-<td>Sherman, TX, United States</td>
-<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2013958">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Netflix</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1d081d9-f021-4173-b988-69d9293bbc1c">Software Engineer (L6), Platform Security</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317684274">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>
 </tbody>

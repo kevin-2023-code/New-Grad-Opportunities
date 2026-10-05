@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**100 open roles.** 68 in the United States & Canada · 32 elsewhere in the world. Everything the employers put up this week.
+**90 open roles.** 66 in the United States & Canada · 24 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Samsung</strong></td>
-<td><a href="https://trueinterview.io/jobs/0bf6d102-b4f6-44ef-8a68-64842dd4eaa5">Engineer, CMP Engineering</a></td>
-<td>1530 FM 973 Taylor, TX, USA, United States of America</td>
-<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Engineer--CMP-Engineering_R121003-1">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ambrook</strong></td>
-<td><a href="https://trueinterview.io/jobs/d4ab6ce4-9cf5-4f54-9d83-f79a0904b373">Software Engineer, AI</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ambrook/3b116b4f-d264-4ac4-92cb-deacdd7656ef/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Imentor</strong></td>
 <td><a href="https://trueinterview.io/jobs/0e9fa695-3b82-44a1-a596-725ab9cd999e">Salesforce Administrator</a></td>
@@ -505,62 +491,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>ElevenLabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/20b10b51-89cf-48d5-a213-1b93dc3ab843">Forward Deployed Engineer - Software Engineer - Turkey</a></td>
-<td>Turkey</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/73ba8a21-bf66-4f37-8e94-05143a481fb8/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e731d7b2-1db5-43c3-bf38-fa4242854a42">Enterprise Solutions Engineer - Greece</a></td>
-<td>Europe<br/>Greece</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/d05779a0-51da-417f-9921-39be5271402a/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/56fb149f-c467-40db-ba40-ee46cf96e8ae">Forward Deployed Engineer - Software Engineer - Mexico</a></td>
-<td>Mexico</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/8a573932-b1fb-4df7-9023-e13a6cecbbbb/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a7e022a1-87c9-408f-84be-0247a6220d60">Enterprise Solutions Engineer - Mexico</a></td>
-<td>Mexico</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/8a587dcd-f3ff-4768-82d4-5f5e952edf6b/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/68229685-ba1a-46c8-aa6e-655aef8b7740">Enterprise Solutions Engineer - Colombia</a></td>
-<td>Colombia</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/ec04799b-6567-4032-8d6c-3c27261618e1/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6c73fcb1-e3b2-417f-beeb-283430e86c15">Forward Deployed Engineer - Software Engineer - Argentina</a></td>
-<td>Argentina</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/1f7a2786-46d3-46c9-81f3-c3849b412988/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1c73730e-ec02-467c-9dd9-0264022714b4">Forward Deployed Engineer - Software Engineer - United Kingdom</a></td>
-<td>London<br/>United Kingdom</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6/application">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/3391bbc8-f76c-4fb4-bbba-9321f59533d2">Vehicle Hardware Engineering Integration Ford Champ</a></td>
-<td>Naucalpan de Juarez, MEX, Mexico</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71550">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Clera</strong></td>
 <td><a href="https://trueinterview.io/jobs/f55c652a-4739-4b02-a9d2-89b1e7444b76">Entry-Level Robot Learning Engineer</a></td>

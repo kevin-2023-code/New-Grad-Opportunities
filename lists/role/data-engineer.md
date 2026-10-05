@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**39 open roles.** 27 in the United States & Canada · 12 elsewhere in the world.
+**38 open roles.** 26 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -93,13 +93,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, Ontario</td>
 <td align="center"><a href="https://omers.wd3.myworkdayjobs.com/OMERS_External/job/Toronto-Ontario/Data-Engineer--Data-Integration---Performance-Platform_JR-8417-1">Apply</a></td>
 <td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Gore Mutual Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/f0873e00-e877-451d-8933-43e242a1544f">Associate Data Engineer</a></td>
-<td>Cambridge, Ontario, Canada<br/>Toronto, Ontario</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/goremutualinsurance/jobs/4709293006">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Grail</strong></td>

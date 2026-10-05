@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**8 open roles.**
+**6 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -53,25 +53,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Altalink</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba26133b-0842-43ed-80cc-bbbe4a35a707">Commercial Development Engineer</a></td>
-<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
-<td align="center"><a href="https://jobs.workable.com/view/xbKabfTJTFCmaiQQFBPRTG/commercial-development-engineer-in-calgary-at-altalink">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Fullscript</strong></td>
 <td><a href="https://trueinterview.io/jobs/e5527c30-c41a-4daf-b2f5-54c410b22942">Technical Support Specialist</a></td>
 <td>Calgary, AB<br/>Ottawa, ON<br/>Toronto, ON<br/>+1 more</td>
 <td align="center"><a href="https://jobs.lever.co/fullscript/a52e4915-8239-4581-8828-84661f070424/apply">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/0196b482-424e-4a98-9ef4-78561c3293a8">Early Professional, Transmission Line Engineer/Designer</a></td>
-<td>Edmonton, AB, Canada<br/>Kelowna, BC, Canada</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92504">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>

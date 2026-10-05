@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**17 open roles.** 15 in the United States & Canada · 2 elsewhere in the world.
+**16 open roles.** 15 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -140,13 +140,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City</td>
 <td align="center"><a href="https://www.monks.com/careers/6175775004/job?gh_jid=6175775004">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Distro</strong></td>
-<td><a href="https://trueinterview.io/jobs/40ec94c4-ccf2-44a9-a71d-0254d232f578">Product Management Analyst</a></td>
-<td>Noida, Uttar Pradesh</td>
-<td align="center"><a href="https://jobs.lever.co/distro/68d23d1c-b990-419a-aa90-a63bdb45c84f/apply">Apply</a></td>
-<td align="center">5 Aug 2026</td>
 </tr>
 </tbody>
 </table>
