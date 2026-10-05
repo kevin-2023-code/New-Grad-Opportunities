@@ -6,9 +6,192 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-05T06:49:18.160Z",
-  "count": 1316,
+  "listingsChangedAt": "2026-10-05T15:50:18.977Z",
+  "count": 1318,
   "listings": [
+    {
+      "id": "709f19fb-0014-4ca1-b40f-4eacedf4b10f",
+      "company": "Autodesk",
+      "title": "Phd Researcher, Machine Learning for Construction",
+      "locations": [
+        "Boston, MA, USA, United States of America"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430-1",
+      "url": "https://trueinterview.io/jobs/709f19fb-0014-4ca1-b40f-4eacedf4b10f",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "updatedAt": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "id": "e8dc6e4a-52a6-4401-9312-0599cddcc933",
+      "company": "Autodesk",
+      "title": "PhD Researcher, Multimodal AI for Human Experience",
+      "locations": [
+        "Boston, MA, USA, United States of America",
+        "New York, USA - Remote"
+      ],
+      "cities": [
+        "Boston, MA",
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/PhD-Researcher--Multimodal-AI-for-Human-Experience_26WD101433-1",
+      "url": "https://trueinterview.io/jobs/e8dc6e4a-52a6-4401-9312-0599cddcc933",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "updatedAt": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "id": "1ba093cf-bf86-493a-a1f0-ab00916298a8",
+      "company": "Motorola Solutions",
+      "title": "JAVA Developer (Java Springboot,Microservices)",
+      "locations": [
+        "Bangalore, India (ZIN114)"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India-ZIN114/JAVA-Developer--Java-Springboot-Microservices-_R69449",
+      "url": "https://trueinterview.io/jobs/1ba093cf-bf86-493a-a1f0-ab00916298a8",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "updatedAt": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "id": "a636b65f-94fe-4977-a805-593e572c7b1f",
+      "company": "Motorola Solutions",
+      "title": "JAVA+NodeJS+Angular Developer",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/JAVA-NodeJS-Angular-Developer_R69466",
+      "url": "https://trueinterview.io/jobs/a636b65f-94fe-4977-a805-593e572c7b1f",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "updatedAt": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "id": "53df041d-7756-430f-ae7d-64fc72edce7a",
+      "company": "Salesforce",
+      "title": "Software Engineering PMTS",
+      "locations": [
+        "India - Hyderabad"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-PMTS_JR359744",
+      "url": "https://trueinterview.io/jobs/53df041d-7756-430f-ae7d-64fc72edce7a",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "updatedAt": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "id": "7c86b79b-be3c-4b0a-b8ad-23c149c056d9",
+      "company": "Samsung",
+      "title": "Metals Process Engineer FEOL",
+      "locations": [
+        "12100 Samsung Blvd, Austin, TX, USA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Metals-Process-Engineer-FEOL_R121001",
+      "url": "https://trueinterview.io/jobs/7c86b79b-be3c-4b0a-b8ad-23c149c056d9",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "updatedAt": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "id": "f0f438b0-64fb-407d-b09e-0365dc1ca3f3",
+      "company": "SSI",
+      "title": "full stack developer",
+      "locations": [
+        "Toronto (ON)"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://www.jobbank.gc.ca/jobsearch/jobposting/50426073",
+      "url": "https://trueinterview.io/jobs/f0f438b0-64fb-407d-b09e-0365dc1ca3f3",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "updatedAt": "2026-10-05T00:00:00.000Z"
+    },
     {
       "id": "da441dc1-ebb3-4edc-a518-dbe6dbade2da",
       "company": "Hewlett Packard Enterprise",
@@ -11519,32 +11702,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318346239",
       "url": "https://trueinterview.io/jobs/dc7eae7a-6187-4193-bbc0-d9f828c8c56a",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "updatedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
-      "id": "70438bac-0314-4ebc-aebc-97b6f40f8c3a",
-      "company": "Cisco",
-      "title": "Software Engineer- Simulation Models",
-      "locations": [
-        "Milpitas, California, US",
-        "Milpitas, California, US, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer--Simulation-Models_2022348",
-      "url": "https://trueinterview.io/jobs/70438bac-0314-4ebc-aebc-97b6f40f8c3a",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
@@ -23265,57 +23422,6 @@
       "updatedAt": "2026-08-21T21:36:15.000Z"
     },
     {
-      "id": "f28c0d5e-f2bf-41cc-909b-4996839cd42c",
-      "company": "Cpi Security",
-      "title": "Salesforce Revenue Cloud Solution Engineer",
-      "locations": [
-        "Charlotte, North Carolina, United States",
-        "Corporate"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/cpisecurity/jobs/4707436006",
-      "url": "https://trueinterview.io/jobs/f28c0d5e-f2bf-41cc-909b-4996839cd42c",
-      "postedAt": "2026-08-21T19:50:43.000Z",
-      "updatedAt": "2026-08-21T19:50:43.000Z"
-    },
-    {
-      "id": "d272ecfb-e1c3-4824-8ff9-95a6afa8fd54",
-      "company": "Ford Motor Company",
-      "title": "Feature Systems Engineer – Customer Connectivity Settings and FordPass Activation",
-      "locations": [
-        "Dearborn, MI, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68599",
-      "url": "https://trueinterview.io/jobs/d272ecfb-e1c3-4824-8ff9-95a6afa8fd54",
-      "postedAt": "2026-08-21T19:37:12.000Z",
-      "updatedAt": "2026-08-21T19:37:12.000Z"
-    },
-    {
       "id": "c6cd8f98-db1c-4d5c-8b27-e80171144387",
       "company": "Anduril Industries",
       "title": "Thermal Design Engineer",
@@ -23329,7 +23435,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "new-grad",
       "level": "newgrad",
@@ -23365,58 +23471,6 @@
       "url": "https://trueinterview.io/jobs/483fd433-1ed7-4f08-aed4-840269a6fe79",
       "postedAt": "2026-08-21T19:11:36.000Z",
       "updatedAt": "2026-08-21T19:11:36.000Z"
-    },
-    {
-      "id": "f3c71906-b58e-4cce-b2da-9833ec5a02af",
-      "company": "Red Cell Partners",
-      "title": "QA Engineer - Clearance Required",
-      "locations": [
-        "Remote, USA",
-        "RCP HQ (McLean, VA)"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/redcellpartners/jobs/5218881007",
-      "url": "https://trueinterview.io/jobs/f3c71906-b58e-4cce-b2da-9833ec5a02af",
-      "postedAt": "2026-08-21T19:09:23.000Z",
-      "updatedAt": "2026-08-21T19:09:23.000Z"
-    },
-    {
-      "id": "e257e764-03d8-456f-b1ca-6c9311a27fa2",
-      "company": "Defcon Ai",
-      "title": "QA Engineer - Clearance Required",
-      "locations": [
-        "Remote, USA",
-        "RCP HQ (McLean, VA)"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/defcon/jobs/5218880007",
-      "url": "https://trueinterview.io/jobs/e257e764-03d8-456f-b1ca-6c9311a27fa2",
-      "postedAt": "2026-08-21T19:09:21.000Z",
-      "updatedAt": "2026-08-21T19:09:21.000Z"
     },
     {
       "id": "a8d3a958-d8f6-4789-a1d7-2f226f1bc7ab",
