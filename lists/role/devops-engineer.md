@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**10 open roles.** 6 in the United States & Canada · 4 elsewhere in the world.
+**11 open roles.** 7 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Venuiti</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e52bb9c-97c6-4c64-a7f1-823ed1b482e5">devops engineer</a></td>
+<td>Waterloo, ON</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50438260">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Consensus</strong></td>
 <td><a href="https://trueinterview.io/jobs/28dd35ae-119a-46da-8eba-4fa55133aba4">DevOps Engineer</a> 🌐</td>

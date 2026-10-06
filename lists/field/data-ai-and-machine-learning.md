@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**200 open roles.** 125 in the United States & Canada · 75 elsewhere in the world.
+**202 open roles.** 129 in the United States & Canada · 73 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Woolpert</strong></td>
+<td><a href="https://trueinterview.io/jobs/65ddce11-280a-415f-8636-a923ee3ccd25">GEOMAP Data Engineer</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/woolpert/jobs/4433257009">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mindrift</strong></td>
+<td><a href="https://trueinterview.io/jobs/e16f7b74-ad9a-4466-96a5-8b3de7511bd5">Freelance Mechanical CFD Engineer - AI Trainer</a></td>
+<td>New York, NY<br/>Austin, TX<br/>Rhode Island, United States<br/>+108 more</td>
+<td align="center"><a href="https://jobs.workable.com/view/pVqDp9RdPFDcQSy5L8KzeQ/remote-freelance-mechanical-cfd-engineer---ai-trainer-in-rhode-island-at-mindrift">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WHOOP</strong></td>
+<td><a href="https://trueinterview.io/jobs/d356bf23-8a0c-47ad-97b4-a6c14ef49fa9">Software Engineer I (Frontend, AI Platform)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/whoop/ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3/application">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4156c19-bc9c-4a2f-869e-261b3e0ce9af">AI Systems Performance Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91550?lang=en-us">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e283587-fdc4-4287-b4c4-b21e732edfd1">Radio Systems Research Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40656">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/a664e30d-f509-47dc-a26a-3b384c5c8623">Data Engineer, 2027 Graduate U.S</a></td>
@@ -845,13 +880,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/13a1fdc7-cc2f-4baa-bdba-fb2959cc4dd3">AI Tutor - Catalan</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207583007">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/382a54b0-025a-4fab-ac0b-4ca36ce4512b">AI Tutor - Yoruba</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207581007">Apply</a></td>
@@ -1304,13 +1332,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Orion Innovation</strong></td>
-<td><a href="https://trueinterview.io/jobs/4cf20a5b-f127-484a-9cd9-83cd4552228c">206238 - ETL/Data Engineer</a></td>
-<td>Mexico City, Mexico City, Mexico<br/>Mexico, Mexico</td>
-<td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4706843006">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Hexa</strong></td>
 <td><a href="https://trueinterview.io/jobs/9d8242d0-09af-4a07-9507-10f44f4f313f">AI Applied Researcher</a></td>
 <td>Paris</td>
@@ -1421,13 +1442,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Tokyo<br/>Mexico City<br/>Paris<br/>+6 more</td>
 <td align="center"><a href="https://jobs.lever.co/rws/8e99ee27-da01-437c-a0b4-61866dc270d4/apply">Apply</a></td>
 <td align="center">10 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Exa</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b3a50bf-ca95-4866-85a4-ae7896e1d784">Research, Singapore</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/exa/f6bd612e-a4ee-4c75-a205-5cd70901661f/application">Apply</a></td>
-<td align="center">7 Aug 2026</td>
 </tr>
 </tbody>
 </table>

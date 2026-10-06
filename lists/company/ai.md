@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**85 open roles.** 66 in the United States & Canada · 19 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**86 open roles.** 67 in the United States & Canada · 19 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1c50fd3-b5f6-42c9-9618-6ad7f6e8ed8f">Software Engineer, Shop/Feed Ads</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/4d7145cf-ef4e-4a39-b1ef-b58e4e5c06d2/application">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mindrift</strong></td>
+<td><a href="https://trueinterview.io/jobs/e16f7b74-ad9a-4466-96a5-8b3de7511bd5">Freelance Mechanical CFD Engineer - AI Trainer</a></td>
+<td>New York, NY<br/>Austin, TX<br/>Rhode Island, United States<br/>+108 more</td>
+<td align="center"><a href="https://jobs.workable.com/view/pVqDp9RdPFDcQSy5L8KzeQ/remote-freelance-mechanical-cfd-engineer---ai-trainer-in-rhode-island-at-mindrift">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Perplexity</strong></td>
 <td><a href="https://trueinterview.io/jobs/c67b307c-73ec-4adc-9619-7f013adaf946">Member of Technical Staff (New Grad)</a></td>
@@ -328,7 +342,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Exa</strong></td>
 <td><a href="https://trueinterview.io/jobs/2b2a369d-0ced-474e-87b3-c910830b6195">Forward Deployed Engineer</a></td>
-<td>New York City, San Francisco<br/>London</td>
+<td>London<br/>New York City, San Francisco</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/exa/c542d672-691c-46c1-9741-856d66f2c2ea/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
@@ -418,13 +432,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/13a1fdc7-cc2f-4baa-bdba-fb2959cc4dd3">AI Tutor - Catalan</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207583007">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/382a54b0-025a-4fab-ac0b-4ca36ce4512b">AI Tutor - Yoruba</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207581007">Apply</a></td>
@@ -491,6 +498,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc04b957-6824-4f4a-9886-b1be9d136c1a">Security Engineer, Incident Response</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/412f8e9d-c6ae-497f-9f4e-522deeb26861/application">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/0df62237-4184-4567-b903-cd358cdff00d">Dedicated Support Engineer - Tokyo</a></td>
@@ -616,13 +630,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/langdock/e92df507-d2cc-4cfa-8a3e-ce59b767771e/application">Apply</a></td>
 <td align="center">9 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Exa</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b3a50bf-ca95-4866-85a4-ae7896e1d784">Research, Singapore</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/exa/f6bd612e-a4ee-4c75-a205-5cd70901661f/application">Apply</a></td>
-<td align="center">7 Aug 2026</td>
 </tr>
 </tbody>
 </table>

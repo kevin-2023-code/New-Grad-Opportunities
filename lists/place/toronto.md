@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**34 open roles.**
+**36 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CIBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/21cbcb4f-c026-4499-a633-4f4914fb7c4f">Consultant, Java Back End Developer</a></td>
+<td>Toronto, ON</td>
+<td align="center"><a href="https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Consultant--Java-Back-End-Developer_2620612">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Venuiti</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e52bb9c-97c6-4c64-a7f1-823ed1b482e5">devops engineer</a></td>
+<td>Waterloo, ON</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50438260">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Tenstorrent</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec577568-aeed-4040-a3c1-cbd0e94f5a2a">Performance Analysis Engineer</a></td>

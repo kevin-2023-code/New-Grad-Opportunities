@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**30 open roles.** 22 in the United States & Canada · 8 elsewhere in the world.
+**31 open roles.** 22 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -183,6 +183,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc04b957-6824-4f4a-9886-b1be9d136c1a">Security Engineer, Incident Response</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/412f8e9d-c6ae-497f-9f4e-522deeb26861/application">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Factory</strong></td>
 <td><a href="https://trueinterview.io/jobs/f6547d68-8da0-4208-8c56-19e682e15a27">Factory / Security Engineer / / Onsite / San Francisco, CA / Full-time</a></td>

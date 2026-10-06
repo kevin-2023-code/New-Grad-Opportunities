@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**28 open roles.** 18 in the United States & Canada · 10 elsewhere in the world.
+**27 open roles.** 18 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -217,13 +217,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Greece<br/>Europe</td>
 <td align="center"><a href="https://moduscreate.com/careers/7978821003?gh_jid=7978821003">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Exa</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b3a50bf-ca95-4866-85a4-ae7896e1d784">Research, Singapore</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/exa/f6bd612e-a4ee-4c75-a205-5cd70901661f/application">Apply</a></td>
-<td align="center">7 Aug 2026</td>
 </tr>
 </tbody>
 </table>
