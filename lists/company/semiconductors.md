@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**188 open roles.** 184 in the United States & Canada · 4 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**177 open roles.** 174 in the United States & Canada · 3 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,35 +25,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac3ba515-0731-4547-8391-fd1febaddb8f">CPU Core Verification Engineer</a></td>
-<td>Fort Collins, Colorado, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92849?lang=en-us">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7e40846d-ff96-4f8b-88f6-c116ab34b820">Software Development Engineer - Networking</a></td>
-<td>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92606?lang=en-us">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/69e866f7-9532-483f-b60e-237d04aa71b7">Software Engineer - Networking, firmware and C++</a></td>
-<td>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92603?lang=en-us">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/623662d3-20da-41b3-b25e-f858870e7a7c">Cloud Software Development Engineer</a></td>
-<td>Costa Rica, San Jose</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Cloud-Software-Development-Engineer_JR0287842">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9469f8fa-e835-4cc3-8ab4-f6a52dfe4bf7">Module Engineer On-Shift (MEOS) – Night Shift (4)</a></td>
 <td>US, Arizona, Phoenix, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Module-Engineer-On-Shift--MEOS----Night-Shift--4-_JR0287815">Apply</a></td>
@@ -127,6 +99,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/df680497-eb1e-489f-9ec6-e22ee083a980">Field Applications Engineer - Power Management</a></td>
 <td>US, MA, Wilmington, United States of America</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Field-Applications-Engineer---Power-Management_R266686">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/6467d82a-d370-4f53-a4fe-5ec23630ee6b">Physicist/Scientist: FEP chamber Optics engineer (E3)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318686600">Apply</a></td>
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>
@@ -600,13 +579,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/ad27e030-6925-4854-ab95-fefd7efdad95">Algorithm Developer II New College Grad- Master's (Santa Clara, CA)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318190659">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d1fe3cd7-f5bf-48d3-aea0-93a55baf129e">Industrial Engineer I, New College Grad- Bachelor's (Austin, TX)</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318080611">Apply</a></td>
@@ -1026,13 +998,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bdb93d2a-a523-48a2-8e14-a05f0d77696c">Product Release Engineer</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Release-Engineer_2637328">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/f4acd71e-5f5c-43de-b890-3a688cc23922">Architecture Energy Modeling Engineer - New College Grad 2026</a></td>
 <td>Santa Clara, CA, US</td>
@@ -1069,16 +1034,16 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6ef5bdb9-dc48-4d65-a2e8-02e075ae07d5">Associate Test Engineer</a></td>
+<td><a href="https://trueinterview.io/jobs/c9a9e24a-e5a5-4223-9e4b-8b91d8b2b164">Associate System Integration Engineer</a></td>
 <td>US, NC, Durham, United States of America<br/>US, MA, Wilmington</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-Test-Engineer_R265308">Apply</a></td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-System-Integration-Engineer_R265285">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d145b417-ea6b-4577-afea-c904755cccd3">Forward Deployed Engineer</a></td>
-<td>US, CA, San Jose, Rio Robles, United States of America<br/>US, MA, Boston</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Forward-Deployed-Engineer_R264808">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/6ef5bdb9-dc48-4d65-a2e8-02e075ae07d5">Associate Test Engineer</a></td>
+<td>US, NC, Durham, United States of America<br/>US, MA, Wilmington</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-Test-Engineer_R265308">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
@@ -1270,41 +1235,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/product-application-engineer_R026712">Apply</a></td>
 <td align="center">10 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/b983a2bf-060d-451b-9066-1791d915d19b">Customer Engagement Applications Engineer - SFS</a></td>
-<td>Hillsboro, OR, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Customer-Engagement-Applications-Engineer---SFS_2636968">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/538a060f-c4de-4519-8d7b-072373f10574">Fleet Engineer</a></td>
-<td>Phoenix, AZ, United States of America<br/>Taylor, TX<br/>Hillsboro, OR</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Fleet-Engineer_2637290-1">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lam Research</strong></td>
-<td><a href="https://trueinterview.io/jobs/c80b8138-d76f-407b-a9e8-2c7fcd40d421">Quality Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099554772020">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/419e891a-86c5-45f0-8d14-b86925217daf">Entry Level Software Product Manager</a></td>
-<td>Austin (Oakhill, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-Software-Product-Manager_R-10064599">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Sandisk</strong></td>
-<td><a href="https://trueinterview.io/jobs/5ea154b3-054c-4879-b279-fa4e82576616">System Design Engineer - Memory System</a></td>
-<td>Milpitas, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Sandisk/744000142015139-system-design-engineer-memory-system-?oga=true">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1317,13 +1247,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e50523e-9e37-4328-b72d-754ff3a4f3f1">C++ Software Engineer – AI Developer Tools</a> 🌐</td>
-<td>Remote — United Kingdom, Switzerland</td>
-<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/C---Software-Engineer---AI-Developer-Tools_JR2026661">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/48d4ba16-cb9a-4001-baa0-dc8ade9d6d70">AI Tools and Cloud Software Developer</a></td>

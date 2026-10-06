@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**127 open roles.** 98 in the United States & Canada · 29 elsewhere in the world.
+**131 open roles.** 102 in the United States & Canada · 29 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,7 +18,35 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Wordly.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d9bf32a-906b-4ffb-b923-47b07d906b18">Customer Success Associate (Technical Support Level 1 or 2)</a></td>
+<td>UK<br/>Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/wordly.ai%20careers/3c8af31b-3434-464c-a091-232944ca4d62/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gonetspeed</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b5e461e-acba-4fd5-ab93-38dffe9794bb">Lineman- Berlin, CT</a></td>
+<td>Berlin, Connecticut</td>
+<td align="center"><a href="https://jobs.lever.co/gonetspeed/f381a621-f7ed-40d6-bf3c-7135a17386c2/apply">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Agile Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f01e6a2-c376-4802-860d-c9328a2833c3">Unified Communications Specialist</a></td>
+<td>Quantico, VA</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/630e9af6-4505-4095-adb3-7982ee67650b/apply">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4507236-ae23-486d-9024-a3ee0b516c2c">Technical Support Engineer Grad</a></td>
+<td>Alpharetta, Georgia, United States of America<br/>Houston, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Alpharetta-Georgia-United-States-of-America/Technical-Support-Engineer-Grad_1213081">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/da441dc1-ebb3-4edc-a518-dbe6dbade2da">Success Service Manager Graduate</a></td>
 <td>Westford, Massachusetts, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Westford-Massachusetts-United-States-of-America/Success-Service-Manager-Graduate_1215017-1">Apply</a></td>
@@ -494,13 +522,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Vanta</strong></td>
-<td><a href="https://trueinterview.io/jobs/ab799eb1-6b24-49cb-bc18-107240055c8f">People Systems Administrator, Workday</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/vanta/bf4fbf73-e99a-409c-a255-727caeb62f1d/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Makpar</strong></td>
 <td><a href="https://trueinterview.io/jobs/f5d6ad80-c061-4737-b9ef-fae4f1a3cbef">Desktop Imaging, IT Specialist - Test Lab SME</a></td>
 <td>Covington, KY<br/>Cincinnati, OH</td>
@@ -526,6 +547,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/995abf5e-339e-4a50-89c1-6dcf067c32c9">Technical Support Specialist, Sales Operations</a></td>
 <td>Seattle, WA<br/>Chicago, IL<br/>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.lever.co/gettyimages/dabcc694-43d7-41ca-9434-e80b16a55134/apply">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>SonarSource</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec014430-2db0-4126-b0f3-2676295c7192">Customer Success Engineer - America</a></td>
+<td>Austin, TX<br/>Austin, Texas</td>
+<td align="center"><a href="https://jobs.lever.co/sonarsource/e9b34036-4608-452d-a597-28a3c90cdb36/apply">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
@@ -716,13 +744,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Iex Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/892c3db5-da49-4df3-8751-92cc027a7cb5">Network Engineer - Ireland</a></td>
-<td>Dublin, Ireland</td>
-<td align="center"><a href="https://iex.io/careers/apply?gh_jid=8141528">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Motorola Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/2746d65e-23f4-4333-a4d3-b5429364100e">Graduate Systems Engineer - Mobile MDT</a></td>
 <td>Glasgow, UK (ZUK118), More...</td>
@@ -790,6 +811,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a4cbcb04-9368-4305-954f-5fa810309041">L1 Technical Support Agent (Spanish and English Speaking)</a></td>
 <td>LATAM</td>
 <td align="center"><a href="https://jobs.lever.co/canarytechnologies/6911aa00-dae1-458d-963d-779302f512ec/apply">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Nebius</strong></td>
+<td><a href="https://trueinterview.io/jobs/1475dde7-be34-4314-ab74-758bda7df67f">Network Security Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://careers.nebius.com/?gh_jid=4971845101">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>

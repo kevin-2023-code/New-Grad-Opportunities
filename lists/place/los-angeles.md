@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**62 open roles.**
+**61 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -344,13 +344,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/96166314-aef3-408e-af76-cc1b32a6b3c4">Full Stack Software Engineer - Simulation &amp; Flight Systems</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8731959002?gh_jid=8731959002">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cf1aa8cd-715a-4f68-8aa7-51ee73124549">Software Engineer - Simulation &amp; Flight Systems</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8735368002?gh_jid=8735368002">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>

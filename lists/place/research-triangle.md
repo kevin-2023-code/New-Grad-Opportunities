@@ -18,13 +18,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>ExtraHop Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/ccb07b38-1397-4a73-882e-e7a663d211d2">Support Engineer I - NC</a></td>
-<td>Raleigh, NC<br/>North Carolina</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/extrahopnetworks/jobs/6211107004">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/f7c61afd-6cf4-40ec-a0d2-7e5550cf0eba">ASIC Verification Engineer, Memory Management - New College Grad 2027</a></td>
 <td>Durham, NC, US<br/>Madison, AL, US<br/>Hillsboro, OR, US</td>
@@ -134,6 +127,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/790a8292-d312-4e52-abea-babbf1af9bc9">Associate Product Applications Engineer</a></td>
 <td>US, NC, Durham<br/>US, MA, Wilmington, United States of America<br/>US, CO, Colorado Springs, Centennial</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Applications-Engineer_R265307">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c9a9e24a-e5a5-4223-9e4b-8b91d8b2b164">Associate System Integration Engineer</a></td>
+<td>US, NC, Durham, United States of America<br/>US, MA, Wilmington</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-System-Integration-Engineer_R265285">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>

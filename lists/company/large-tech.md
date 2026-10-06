@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**127 open roles.** 103 in the United States & Canada · 24 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**120 open roles.** 95 in the United States & Canada · 25 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,27 +18,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/c35ab62d-68ab-46b7-8e9b-859a57350cdf">Performance Engineer, Kernel and Memory</a></td>
-<td>Austin, TX<br/>New York, NY<br/>Washington, DC<br/>+2 more (hybrid)</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8214470?gh_jid=8214470">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Stripe</strong></td>
-<td><a href="https://trueinterview.io/jobs/b4e8eaba-debb-482d-a14c-3d3b96daa2ba">Full Stack Engineer, Builder Experience</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8206731">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GitLab</strong></td>
-<td><a href="https://trueinterview.io/jobs/573142d3-8685-4449-ac20-877e8834d82e">Support Engineer, U.S. Government Support</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8859063002">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Grammarly</strong></td>
 <td><a href="https://trueinterview.io/jobs/1a9da32f-cb68-4888-8b27-07e54e58001e">Software Engineer, Full-Stack - Agents Cross-FA</a></td>
 <td>Hub - Toronto</td>
@@ -47,13 +26,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Yelp</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f345a23-c136-477e-9dd8-cf91aaadbc07">Solutions Engineer, API Integration</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://uscareers-yelp.icims.com/jobs/14073/solutions-engineer%2c-api-integration/job">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5aae45d0-5801-4207-ae9b-ca53f4661c3d">Retention Restaurant Support Specialist, SaaS Sales - (Remote - US)</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://uscareers-yelp.icims.com/jobs/14071/retention-restaurant-support-specialist%2c-saas-sales---%28remote---us%29/job">Apply</a></td>
@@ -163,6 +135,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://4dayweek.io/job/solutions-engineer-acquisition-at-grafana-labs-4919acc2">Apply</a></td>
 <td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e3b4740-0aab-4386-9526-434a8718ff5b">Software Engineer, Early Career — Immediate Start</a></td>
+<td>San Francisco, CA<br/>San Francisco, Seattle, New York<br/>Toronto<br/>+1 more</td>
+<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8212508">Apply</a></td>
+<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Pure Storage</strong></td>
@@ -438,20 +417,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Wise</strong></td>
-<td><a href="https://trueinterview.io/jobs/eb5ce4d3-739f-4da5-b00a-0f222d03c4be">Application Security Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000144807099-application-security-engineer-?oga=true">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>xAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa473890-47ca-411d-ade9-ec47aaafa2a3">Human Data - Business Operations Analyst</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5216863007">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Anthropic</strong></td>
 <td><a href="https://trueinterview.io/jobs/ef765d05-53ca-4c42-a9f8-815b92222dc9">DevOps / AgentOps Engineer, GTM Systems</a></td>
 <td>San Francisco, CA</td>
@@ -649,13 +614,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/354c330c-0660-461f-9ada-c31cbcfb506b">AI Tutor - Sorani Kurdish</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207597007">Apply</a></td>
-<td align="center">8 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9a4e61b7-86e5-438c-b7ca-000bf63c098b">AI Tutor - Azerbaijani</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207592007">Apply</a></td>
@@ -666,13 +624,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/73223018-5991-4481-8919-e46e320ac43b">AI Tutor - Lithuanian</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207588007">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a3fec239-7016-484b-b32f-71f306bde292">AI Tutor - Malay</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207587007">Apply</a></td>
 <td align="center">7 Aug 2026</td>
 </tr>
 <tr>
@@ -730,13 +681,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5207418007">Apply</a></td>
 <td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f9bb965-fede-409c-b1ba-dfb2cca77342">Software Engineer, Silicon Design Methodology</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/e961c9df-caa0-4b29-b37c-a3e02c564615/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>
@@ -805,6 +749,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Ho Chi Minh, Vietnam</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ho-Chi-Minh/Senior-Staff-CAD-Engineer_2600925">Apply</a></td>
 <td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Nebius</strong></td>
+<td><a href="https://trueinterview.io/jobs/1475dde7-be34-4314-ab74-758bda7df67f">Network Security Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://careers.nebius.com/?gh_jid=4971845101">Apply</a></td>
+<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>C6 Bank</strong></td>

@@ -18,14 +18,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Anavation</strong></td>
-<td><a href="https://trueinterview.io/jobs/f793b993-db45-4d6b-afad-6c901b43fa49">Microsoft 365 Collaboration &amp; SharePoint Administrator/Engineer</a></td>
-<td>Chantilly, VA</td>
-<td align="center"><a href="https://jobs.lever.co/anavationllc/5ca4e92e-7592-4da4-a288-9480347646b9/apply">Apply</a></td>
+<td><strong>Agile Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f01e6a2-c376-4802-860d-c9328a2833c3">Unified Communications Specialist</a></td>
+<td>Quantico, VA</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/630e9af6-4505-4095-adb3-7982ee67650b/apply">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Agile Defense</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e69baeaf-c04f-49c0-a5a2-b8557fb499af">Programming Specialist</a></td>
 <td>Fort Huachuca, AZ</td>
 <td align="center"><a href="https://jobs.lever.co/agile-defense/5ad81bfd-f3ef-4156-95c2-eb962cb5b07a/apply">Apply</a></td>

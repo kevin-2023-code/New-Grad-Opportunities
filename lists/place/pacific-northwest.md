@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**38 open roles.**
+**36 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -268,20 +268,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Hillsboro, OR, US<br/>Henrico, VA, US<br/>Mesa, AZ, US<br/>+12 more</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1626919348826835/">Apply</a></td>
 <td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/b983a2bf-060d-451b-9066-1791d915d19b">Customer Engagement Applications Engineer - SFS</a></td>
-<td>Hillsboro, OR, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Customer-Engagement-Applications-Engineer---SFS_2636968">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/538a060f-c4de-4519-8d7b-072373f10574">Fleet Engineer</a></td>
-<td>Hillsboro, OR<br/>Phoenix, AZ, United States of America<br/>Taylor, TX</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Fleet-Engineer_2637290-1">Apply</a></td>
-<td align="center">7 Aug 2026</td>
 </tr>
 </tbody>
 </table>

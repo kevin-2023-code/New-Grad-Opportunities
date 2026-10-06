@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**39 open roles.** 26 in the United States & Canada · 13 elsewhere in the world.
+**33 open roles.** 23 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Nebius Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/3dfa5737-4f84-429f-9bae-6c59cfe640f0">Data Center Facilities Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://careers.nebius.com/?gh_jid=4995877101">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cipherhealth</strong></td>
-<td><a href="https://trueinterview.io/jobs/f81b65f0-b371-483f-9f76-a27789a33a47">Data Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/cipherhealth/jobs/8257191">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/a664e30d-f509-47dc-a26a-3b384c5c8623">Data Engineer, 2027 Graduate U.S</a></td>
@@ -137,13 +123,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Resonate</strong></td>
-<td><a href="https://trueinterview.io/jobs/b5cee64e-7f40-45cf-96d2-29d78cacf5c6">Data Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/resonate/jobs/5217355007">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Accenture Federal Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/27421dde-05ed-41a1-853b-660b162cda24">Data Conversion Developer</a></td>
 <td>Washington, DC</td>
@@ -212,20 +191,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Neara</strong></td>
-<td><a href="https://trueinterview.io/jobs/c457314d-9d1b-412a-ba2d-a534434630d1">Data Engineer</a></td>
-<td>Vilnius</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/neara/fbd77ceb-6c50-493e-b543-03f21682eb03/application">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Seccl</strong></td>
-<td><a href="https://trueinterview.io/jobs/f47ce75e-0094-442a-9714-a3a04fc0e1d3">Data analytics engineer</a></td>
-<td>London<br/>Edinburgh<br/>Bath</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/seccl/0e63508b-cf7e-466b-af55-78e619057a0f/application">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/79fbcd23-8924-46d4-9fc4-48b96a23ed84">IN_Senior Manager_Azure Data Engineer_OC-Data &amp; Analytics AITH_Advisory_Bhubaneswar</a></td>
 <td>Bhubaneswar - Ihub</td>
@@ -266,13 +231,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo, , Brazil</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000144842431-engenheiro-de-dados-pleno?oga=true">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ruby Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1b839c0-c2d8-4fd7-80bb-1c58405aea0d">Data Analytics Engineer</a></td>
-<td>European Union<br/>Ukraine</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ruby-labs/5fb76187-efa5-486d-8ceb-5309ac0fefd4/application">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Knowbe4</strong></td>

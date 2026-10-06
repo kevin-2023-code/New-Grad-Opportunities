@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**45 open roles.** 39 in the United States & Canada · 6 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**42 open roles.** 36 in the United States & Canada · 6 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Olsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c70aeee-a054-4d87-8146-24b185eff487">Project Engineer - Site Design</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5444165008">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Cannondesign</strong></td>
 <td><a href="https://trueinterview.io/jobs/ab7747d8-dcc4-41c9-bec3-0a9c2a52dd37">Mechanical - Entry Level</a></td>
@@ -236,23 +229,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b8c58ab5-be2a-4460-9bff-b13d386a9b34">Early Professional, Geotechnical Engineering</a></td>
-<td>Lethbridge, AB, Canada</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93586">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7b0f2fc8-924b-4a91-860f-5b7cb5dc8ee1">Early Career Water Resources Engineer</a></td>
 <td>Houston, TX, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91151">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c8dfeded-a079-47ec-8f70-85688bc286b9">Jr. Mechanical Designer</a></td>
-<td>Sudbury, ON, Canada</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92633">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>

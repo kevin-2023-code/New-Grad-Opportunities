@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**71 open roles.** 49 in the United States & Canada · 22 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**65 open roles.** 44 in the United States & Canada · 21 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,39 +25,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Autodesk</strong></td>
-<td><a href="https://trueinterview.io/jobs/709f19fb-0014-4ca1-b40f-4eacedf4b10f">Phd Researcher, Machine Learning for Construction</a></td>
-<td>Boston, MA, USA, United States of America</td>
-<td align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430-1">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e8dc6e4a-52a6-4401-9312-0599cddcc933">PhD Researcher, Multimodal AI for Human Experience</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/PhD-Researcher--Multimodal-AI-for-Human-Experience_26WD101433-1">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Salesforce</strong></td>
-<td><a href="https://trueinterview.io/jobs/c3ca6767-7462-4ff1-a34c-87dc9955c76e">Product Management Specialist</a></td>
-<td>Washington - Seattle, United States of America</td>
-<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Product-Management-Specialist_JR362469-1">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Intuit</strong></td>
 <td><a href="https://trueinterview.io/jobs/df762123-cc6e-4c95-ada4-731dc88c7e96">Product Manager 2 - Rotational Product Management (RPM) Program</a></td>
 <td>Mountain View, California</td>
 <td align="center"><a href="https://jobs.intuit.com/job/mountain-view/product-manager-2-rotational-product-management-rpm-program/27595/101456093584">Apply</a></td>
 <td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/c4f739fd-0d76-4b6d-91e0-af16d4944377">Software Engineer - Forward Deployed Engineer</a></td>
-<td>Redmond, WA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557004814">Apply</a></td>
-<td align="center">1 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Oracle</strong></td>
@@ -256,13 +228,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Front</strong></td>
-<td><a href="https://trueinterview.io/jobs/df7572b4-c9c9-4797-95c1-1157ab113808">Software Engineer (Backend), Foundation</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/frontcareers/6f8123bc-8c6c-479a-9a6d-0935f94b42ca/application">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Figma</strong></td>
 <td><a href="https://trueinterview.io/jobs/9e0f3232-34ad-455b-8c5b-78292284ba7a">Brand Designer,  Product Launches</a></td>
 <td>San Francisco, CA • New York, NY • United States<br/>Canada</td>
@@ -372,13 +337,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Salesforce</strong></td>
-<td><a href="https://trueinterview.io/jobs/53df041d-7756-430f-ae7d-64fc72edce7a">Software Engineering PMTS</a></td>
-<td>India - Hyderabad</td>
-<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Software-Engineering-PMTS_JR359744">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>ServiceNow</strong></td>
 <td><a href="https://trueinterview.io/jobs/88836bce-32fe-4254-addf-2d680c8803c1">Assoc Machine Learning Engineer</a></td>

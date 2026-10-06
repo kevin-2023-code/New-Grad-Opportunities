@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**23 open roles.** 17 in the United States & Canada · 6 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**24 open roles.** 18 in the United States & Canada · 6 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,6 +86,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Durham, NC</td>
 <td align="center"><a href="https://jobs.lever.co/grailbio/36b40389-6f5d-467f-b4b0-e220ca73e89d/apply">Apply</a></td>
 <td align="center">27 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Truveta</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4c78325-0367-457c-8f8b-8c35b8eb3774">Software Engineer - Commerce</a> 🛂</td>
+<td>Seattle, WA<br/>Truveta Main</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/truveta/jobs/6147526004">Apply</a></td>
+<td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>AbbVie</strong></td>

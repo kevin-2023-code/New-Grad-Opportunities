@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**99 open roles.** 92 in the United States & Canada · 7 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**93 open roles.** 86 in the United States & Canada · 7 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,27 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d970c73-e115-4f6f-ae99-7632dd3a2a1b">Power Electronics Engineer, Consumer Hardware &amp; Gateways (Starlink)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8855894002?gh_jid=8855894002">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5a92414f-3fe4-4dea-a5ac-e9a5359c57c1">Mechanical Hardware Test Engineer - Failure Analysis (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8867581002?gh_jid=8867581002">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/874711b5-7818-48a1-8890-c16c1f27b2af">Photonics Engineer - Fiber Amplifiers, Satellites (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8867559002?gh_jid=8867559002">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>World View Enterprises Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/83201f01-4ab6-449a-9af0-d08c46c1b6de">Software Engineer</a></td>
@@ -411,20 +390,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cf1aa8cd-715a-4f68-8aa7-51ee73124549">Software Engineer - Simulation &amp; Flight Systems</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8735368002?gh_jid=8735368002">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/bc70c98d-23a9-4a81-abdf-2a4d6d68c8ef">Launch Operations Engineer I - Launch Operations</a></td>
-<td>Cape Canaveral, Florida, United States<br/>Launch Complex 16 (FL)</td>
-<td align="center"><a href="https://boards.greenhouse.io/relativity/jobs/8734961002?gh_jid=8734961002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/9c96028e-c91c-4a17-8df7-3b87ee3a1c61">Mechanical Engineer - Tooling/Controls, Satellites (Starlink)</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8732313002?gh_jid=8732313002">Apply</a></td>
@@ -652,13 +617,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d6b62ad8-2686-45b7-b78f-ff3c9e9df491">RF Systems Analysis Engineer, Regulatory (Starlink)</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8691059002?gh_jid=8691059002">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/67d10b91-b27c-40a4-9472-c64bcd23f036">Starship Engineer, FOD Control</a></td>
-<td>Starbase, TX<br/>Brownsville, TX, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8689262002?gh_jid=8689262002">Apply</a></td>
 <td align="center">7 Aug 2026</td>
 </tr>
 </tbody>

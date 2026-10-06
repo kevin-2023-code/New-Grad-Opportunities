@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**66 open roles.**
+**59 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/c35ab62d-68ab-46b7-8e9b-859a57350cdf">Performance Engineer, Kernel and Memory</a></td>
-<td>Austin, TX<br/>New York, NY<br/>Washington, DC<br/>+2 more (hybrid)</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8214470?gh_jid=8214470">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d970c73-e115-4f6f-ae99-7632dd3a2a1b">Power Electronics Engineer, Consumer Hardware &amp; Gateways (Starlink)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8855894002?gh_jid=8855894002">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Samsung</strong></td>
 <td><a href="https://trueinterview.io/jobs/7c86b79b-be3c-4b0a-b8ad-23c149c056d9">Metals Process Engineer FEOL</a></td>
@@ -333,20 +319,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Hyliion</strong></td>
-<td><a href="https://trueinterview.io/jobs/fd3587b9-8e2e-4e99-8663-10d19ff946ea">Metrology Engineer</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/hyliion/jobs/6150403004">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Wise</strong></td>
-<td><a href="https://trueinterview.io/jobs/eb5ce4d3-739f-4da5-b00a-0f222d03c4be">Application Security Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000144807099-application-security-engineer-?oga=true">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/9036c3bd-9940-4c8d-94ac-acfe13d0215c">Customer Support Engineer - Nationwide Opportunities - Veterans Make America!</a></td>
 <td>Austin, TX<br/>Malta, NY, United States of America<br/>Phoenix, AZ<br/>+4 more</td>
@@ -457,27 +429,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, TX, Austin<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/89860?lang=en-us">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>CrowdStrike</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a766ea9-4eb4-4dea-a7bf-5aa234ccb2c2">Software Engineer - Sensor, MacOS  (Hybrid)</a></td>
-<td>USA - Austin, TX<br/>USA - Sunnyvale, CA, United States of America<br/>USA - Redmond, WA</td>
-<td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Software-Engineer---Sensor--macOS---Hybrid-_R29279">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lam Research</strong></td>
-<td><a href="https://trueinterview.io/jobs/c80b8138-d76f-407b-a9e8-2c7fcd40d421">Quality Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099554772020">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/419e891a-86c5-45f0-8d14-b86925217daf">Entry Level Software Product Manager</a></td>
-<td>Austin (Oakhill, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-Software-Product-Manager_R-10064599">Apply</a></td>
-<td align="center">7 Aug 2026</td>
 </tr>
 </tbody>
 </table>

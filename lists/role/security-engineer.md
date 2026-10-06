@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**33 open roles.** 25 in the United States & Canada · 8 elsewhere in the world.
+**32 open roles.** 23 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -137,20 +137,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Wise</strong></td>
-<td><a href="https://trueinterview.io/jobs/eb5ce4d3-739f-4da5-b00a-0f222d03c4be">Application Security Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000144807099-application-security-engineer-?oga=true">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Tailscale</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec555e56-d97e-4312-987c-9fa83d30eeb4">Security Infrastructure Engineer</a> 🌐</td>
-<td>Remote — United States, Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tailscale/jobs/4726153005">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Avertium</strong></td>
 <td><a href="https://trueinterview.io/jobs/56f22778-0b46-4a0d-ba6e-46e6c7948c0c">CyberSecurity Engineer | Microsoft</a> 🌐</td>
 <td>Remote — United States</td>
@@ -210,6 +196,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>—</td>
 <td align="center"><a href="https://factory.com/">Apply</a></td>
 <td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nebius</strong></td>
+<td><a href="https://trueinterview.io/jobs/1475dde7-be34-4314-ab74-758bda7df67f">Network Security Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://careers.nebius.com/?gh_jid=4971845101">Apply</a></td>
+<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Business Wire</strong></td>

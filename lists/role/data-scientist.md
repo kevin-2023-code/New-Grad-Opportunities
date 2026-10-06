@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**28 open roles.** 19 in the United States & Canada · 9 elsewhere in the world.
+**25 open roles.** 17 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -102,20 +102,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Known</strong></td>
-<td><a href="https://trueinterview.io/jobs/b2a4b351-a119-490e-89ae-36a223ff56b4">Data Scientist, Media Consultant</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/known/jobs/8728988002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Decagon</strong></td>
-<td><a href="https://trueinterview.io/jobs/aa5f6f10-a630-4954-a269-f22e9f99d7c8">Agent Data Scientist</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/decagon/5433ff3a-9a7c-406b-9dd8-23094141b907/application">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Hasbro</strong></td>
 <td><a href="https://trueinterview.io/jobs/6c9db598-56ba-4d1f-b93f-fe08af631c08">Data Scientist, Marketing Effectiveness &amp; Testing</a></td>
 <td>United States</td>
@@ -162,13 +148,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Genomics England</strong></td>
-<td><a href="https://trueinterview.io/jobs/31e4cf8d-2c75-436c-aa96-93245e50252f">Genomic Data Scientist</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://4dayweek.io/job/genomic-data-scientist-at-genomics-england-f10142da">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Desjardins</strong></td>
 <td><a href="https://trueinterview.io/jobs/59d4c64a-e8f2-4f66-b81c-2b78b8f520ff">Data Scientist, Credit Risk Quantification</a></td>

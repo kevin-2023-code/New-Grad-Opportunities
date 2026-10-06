@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**46 open roles.** 38 in the United States & Canada · 8 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**43 open roles.** 35 in the United States & Canada · 8 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/276f5f24-94af-4c79-a370-e7d70add164a">Manufacturing Engineer- New Model Launch</a></td>
-<td>Allen Park, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71883">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Nuro</strong></td>
 <td><a href="https://trueinterview.io/jobs/a62efe23-26dd-4da8-bcb4-2f0ae5936db5">New Grad Software Engineer, Routing</a></td>
@@ -205,20 +198,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Richmond, CA<br/>Richmond Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/glydways/jobs/5161245007">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/fdbe33ca-e4e3-44e9-852e-3563da3e4e45">Embedded Software and Cybersecurity Engineer, Ford Energy</a></td>
-<td>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69460">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e7854ec5-73f1-4b05-9474-009c164594ac">New Model Programs Engineer</a></td>
-<td>Allen Park, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68653">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Zoox</strong></td>

@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**23 open roles.** 22 in the United States & Canada · 1 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**21 open roles.** 20 in the United States & Canada · 1 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,13 +18,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Nbcuniversal</strong></td>
-<td><a href="https://trueinterview.io/jobs/2d23d812-eb1d-4294-9728-23af61de7bf5">IAM Service Integration Engineer</a></td>
-<td>New York, NY<br/>New York, NEW YORK, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NBCUniversal3/744000153599549-iam-service-integration-engineer?oga=true">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/13f439c6-3b12-48c9-9866-941df8eb0c74">Network Quantitative Engineer</a></td>
 <td>Menlo Park, CA, United States</td>
@@ -33,13 +26,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Yelp</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f345a23-c136-477e-9dd8-cf91aaadbc07">Solutions Engineer, API Integration</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://uscareers-yelp.icims.com/jobs/14073/solutions-engineer%2c-api-integration/job">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5aae45d0-5801-4207-ae9b-ca53f4661c3d">Retention Restaurant Support Specialist, SaaS Sales - (Remote - US)</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://uscareers-yelp.icims.com/jobs/14071/retention-restaurant-support-specialist%2c-saas-sales---%28remote---us%29/job">Apply</a></td>

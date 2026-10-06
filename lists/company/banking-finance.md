@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**34 open roles.** 15 in the United States & Canada · 19 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**32 open roles.** 14 in the United States & Canada · 18 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Bloomberg</strong></td>
-<td><a href="https://trueinterview.io/jobs/d41dba9e-0730-4577-afe7-72c98863cea0">Legal Data Analyst - Data Enrichment</a></td>
-<td>Princeton, New Jersey, United States of America</td>
-<td align="center"><a href="https://bloomberg.avature.net/careers/JobDetail/Legal-Data-Analyst-Data-Enrichment/45084">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>BMO</strong></td>
 <td><a href="https://trueinterview.io/jobs/43045bc3-9145-47c5-b060-1f5ae44a8961">RPA Platform Admin / Platform Engineer</a></td>
@@ -134,13 +127,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Iex Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/892c3db5-da49-4df3-8751-92cc027a7cb5">Network Engineer - Ireland</a></td>
-<td>Dublin, Ireland</td>
-<td align="center"><a href="https://iex.io/careers/apply?gh_jid=8141528">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Desjardins</strong></td>
 <td><a href="https://trueinterview.io/jobs/59d4c64a-e8f2-4f66-b81c-2b78b8f520ff">Data Scientist, Credit Risk Quantification</a></td>

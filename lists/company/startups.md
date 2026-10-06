@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**72 open roles.** 51 in the United States & Canada · 21 elsewhere in the world. Early-stage technology companies.
+**68 open roles.** 48 in the United States & Canada · 20 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -221,27 +221,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Llamaindex</strong></td>
-<td><a href="https://trueinterview.io/jobs/ad7bbf89-fabb-46af-86bc-91d3b640b57d">Developer Evangelist, Growth</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/llamaindex/ee009847-6f1d-42f5-ab9f-805072f7a3e9/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Tailscale</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec555e56-d97e-4312-987c-9fa83d30eeb4">Security Infrastructure Engineer</a> 🌐</td>
-<td>Remote — United States, Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tailscale/jobs/4726153005">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Decagon</strong></td>
-<td><a href="https://trueinterview.io/jobs/aa5f6f10-a630-4954-a269-f22e9f99d7c8">Agent Data Scientist</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/decagon/5433ff3a-9a7c-406b-9dd8-23094141b907/application">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Field AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/017bc2f2-082d-441f-8efa-c8bf754460b8">Field Application Engineer - Sacramento, CA - Temporary Part Time</a></td>
 <td>Sacramento, CA</td>
@@ -448,13 +427,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Delft</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/quantware/44ae2864-733d-4259-a93b-e156372d44c3/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Posthog</strong></td>
-<td><a href="https://trueinterview.io/jobs/d70426f9-4c7f-4d86-92a5-e043e9f654cc">UX Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/posthog/2ef3a11c-e7cc-4d67-861f-45168eb84b87/application">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Field AI</strong></td>

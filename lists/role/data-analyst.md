@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**27 open roles.** 12 in the United States & Canada · 15 elsewhere in the world.
+**25 open roles.** 10 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Bloomberg</strong></td>
-<td><a href="https://trueinterview.io/jobs/d41dba9e-0730-4577-afe7-72c98863cea0">Legal Data Analyst - Data Enrichment</a></td>
-<td>Princeton, New Jersey, United States of America</td>
-<td align="center"><a href="https://bloomberg.avature.net/careers/JobDetail/Legal-Data-Analyst-Data-Enrichment/45084">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Aledade</strong></td>
 <td><a href="https://trueinterview.io/jobs/06cb083d-503f-4eac-b982-9070e3e50296">Payer Operations Analyst</a> 🌐</td>
@@ -86,13 +79,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Montréal, QC<br/>Québec, QC</td>
 <td align="center"><a href="https://jobs.lever.co/mirego/3e376c52-7eaf-4ced-9086-940510b4735f/apply">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>xAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa473890-47ca-411d-ade9-ec47aaafa2a3">Human Data - Business Operations Analyst</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5216863007">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Leavitt Group</strong></td>

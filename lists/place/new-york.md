@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**93 open roles.**
+**86 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,27 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/c35ab62d-68ab-46b7-8e9b-859a57350cdf">Performance Engineer, Kernel and Memory</a></td>
-<td>New York, NY<br/>New York, New York, United States<br/>Austin, TX<br/>+2 more (hybrid)</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8214470?gh_jid=8214470">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nbcuniversal</strong></td>
-<td><a href="https://trueinterview.io/jobs/2d23d812-eb1d-4294-9728-23af61de7bf5">IAM Service Integration Engineer</a></td>
-<td>New York, NY<br/>New York, NEW YORK, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NBCUniversal3/744000153599549-iam-service-integration-engineer?oga=true">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Autodesk</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8dc6e4a-52a6-4401-9312-0599cddcc933">PhD Researcher, Multimodal AI for Human Experience</a> 🌐</td>
-<td>Remote — United States<br/>New York, NY</td>
-<td align="center"><a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/PhD-Researcher--Multimodal-AI-for-Human-Experience_26WD101433-1">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Imentor</strong></td>
 <td><a href="https://trueinterview.io/jobs/0e9fa695-3b82-44a1-a596-725ab9cd999e">Salesforce Administrator</a></td>
@@ -466,20 +445,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>August</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc604728-2ec3-42e4-82b3-f95c44569ef7">Forward Deployed Engineer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/august/ad560be1-9748-4ec0-bc6b-b430419270bc/application">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Known</strong></td>
-<td><a href="https://trueinterview.io/jobs/b2a4b351-a119-490e-89ae-36a223ff56b4">Data Scientist, Media Consultant</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/known/jobs/8728988002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Mio Partners</strong></td>
 <td><a href="https://trueinterview.io/jobs/cbf34161-10e0-4f67-a279-cca52b274813">Quantitative Associate, Risk Special Projects</a></td>
 <td>New York, NY</td>
@@ -653,20 +618,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lm-studio/87a31fb9-6c5e-4f8a-b226-f3adb44ec7c7/application">Apply</a></td>
 <td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Flowtraders</strong></td>
-<td><a href="https://trueinterview.io/jobs/b2f387cb-41a2-4bdf-b129-87c40f0d9bcc">Talent Pool: Trading Systems Engineer</a></td>
-<td>New York, NY<br/>Chicago Office<br/>New York office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/flowtraders/jobs/8026227">Apply</a></td>
-<td align="center">6 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cursor</strong></td>
-<td><a href="https://trueinterview.io/jobs/07258211-4510-4af6-a62b-7aac59d8c149">Field Engineer, Healthcare &amp; SLED</a> 🌐</td>
-<td>Remote — United States<br/>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cursor/1cfacf1a-4ba7-4e68-9f65-4fb8e3525bde/application">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

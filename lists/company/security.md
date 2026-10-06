@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**26 open roles.** 24 in the United States & Canada · 2 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**21 open roles.** 19 in the United States & Canada · 2 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>ExtraHop Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/ccb07b38-1397-4a73-882e-e7a663d211d2">Support Engineer I - NC</a></td>
-<td>North Carolina<br/>Raleigh, NC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/extrahopnetworks/jobs/6211107004">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Palo Alto Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/2c97111c-7ca6-45e5-91a3-ef91cf8bf8a2">Account Executive - Federal</a></td>
@@ -109,27 +102,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Vanta</strong></td>
-<td><a href="https://trueinterview.io/jobs/ab799eb1-6b24-49cb-bc18-107240055c8f">People Systems Administrator, Workday</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/vanta/bf4fbf73-e99a-409c-a255-727caeb62f1d/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Tailscale</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec555e56-d97e-4312-987c-9fa83d30eeb4">Security Infrastructure Engineer</a> 🌐</td>
-<td>Remote — United States, Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tailscale/jobs/4726153005">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fortinet</strong></td>
-<td><a href="https://trueinterview.io/jobs/d2c04e1a-3c6d-4053-b565-e7855a76cdce">Intermediate Software Developer in Test</a></td>
-<td>Burnaby, BC, Canada</td>
-<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23125">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Avertium</strong></td>
 <td><a href="https://trueinterview.io/jobs/56f22778-0b46-4a0d-ba6e-46e6c7948c0c">CyberSecurity Engineer | Microsoft</a> 🌐</td>
 <td>Remote — United States</td>
@@ -177,13 +149,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/1password/7f885c41-7572-439c-886f-bc508eb9a3d7/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>CrowdStrike</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a766ea9-4eb4-4dea-a7bf-5aa234ccb2c2">Software Engineer - Sensor, MacOS  (Hybrid)</a></td>
-<td>USA - Sunnyvale, CA, United States of America<br/>USA - Austin, TX<br/>USA - Redmond, WA</td>
-<td align="center"><a href="https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Software-Engineer---Sensor--macOS---Hybrid-_R29279">Apply</a></td>
-<td align="center">7 Aug 2026</td>
 </tr>
 </tbody>
 </table>

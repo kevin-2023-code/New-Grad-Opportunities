@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**11 open roles.** 7 in the United States & Canada · 4 elsewhere in the world.
+**9 open roles.** 6 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Allworth Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9ecd6b6-d48b-4c73-82c2-117ed5793817">Equity Trader and Research Analyst</a></td>
-<td>Cincinnati, Ohio, United States<br/>Addison, TX<br/>Indianapolis, IN</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/allworthfinancial/jobs/8868862002">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/13f439c6-3b12-48c9-9866-941df8eb0c74">Network Quantitative Engineer</a></td>
@@ -78,13 +71,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Fanatics Betting &amp; Gaming</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f3edbaf-bbc3-46d1-abf1-837a6d165979">Quantitative Analyst I</a></td>
-<td>Dublin, Ireland</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fanaticsfbg/jobs/4433935009">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Stone</strong></td>
 <td><a href="https://trueinterview.io/jobs/06417185-2a79-4fd0-bcf8-a7e48a54067f">Especialista De Riscos De Modelos | Validação de modelos (Remoto)</a></td>

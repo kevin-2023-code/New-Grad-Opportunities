@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**75 open roles.** 57 in the United States & Canada · 18 elsewhere in the world.
+**70 open roles.** 54 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>IXL Learning</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1324f11-a1f1-42e5-979c-805f3839543a">Graphic Designer (Freelance)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://www.ixl.com/company/jobs?gh_jid=8868988002">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Salesforce</strong></td>
-<td><a href="https://trueinterview.io/jobs/c3ca6767-7462-4ff1-a34c-87dc9955c76e">Product Management Specialist</a></td>
-<td>Washington - Seattle, United States of America</td>
-<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Product-Management-Specialist_JR362469-1">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Intuit</strong></td>
 <td><a href="https://trueinterview.io/jobs/df762123-cc6e-4c95-ada4-731dc88c7e96">Product Manager 2 - Rotational Product Management (RPM) Program</a></td>
@@ -214,6 +200,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>IXL Learning</strong></td>
+<td><a href="https://trueinterview.io/jobs/37e9228d-696f-4ed1-a61d-a4ba591cb8d0">Associate Product Manager, New Grad</a></td>
+<td>San Mateo, CA</td>
+<td align="center"><a href="https://www.ixl.com/company/jobs?gh_jid=8765765002">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/9f12bade-4f3a-4749-9cbe-c5a891e3c333">Web Producer</a></td>
 <td>San Francisco, CA</td>
@@ -254,13 +247,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
 <td align="center"><a href="https://jobs.workable.com/view/oSDcj6RW2RfDDpCnxSHwPT/hybrid-2d-storyboard-artist-(youtube-series)-in-vancouver-at-bardel-entertainment">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/c8dfeded-a079-47ec-8f70-85688bc286b9">Jr. Mechanical Designer</a></td>
-<td>Sudbury, ON, Canada</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92633">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Lpa, Inc</strong></td>
@@ -409,13 +395,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/89566?lang=en-us">Apply</a></td>
 <td align="center">10 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/419e891a-86c5-45f0-8d14-b86925217daf">Entry Level Software Product Manager</a></td>
-<td>Austin (Oakhill, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-Software-Product-Manager_R-10064599">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -520,13 +499,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Posthog</strong></td>
-<td><a href="https://trueinterview.io/jobs/d70426f9-4c7f-4d86-92a5-e043e9f654cc">UX Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/posthog/2ef3a11c-e7cc-4d67-861f-45168eb84b87/application">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Scarlet</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e46227d-7f70-492b-8144-1108577cfb98">Product Designer</a> 🌐</td>
 <td>Remote</td>
@@ -546,13 +518,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Beverly Hills</td>
 <td align="center"><a href="https://jobs.lever.co/silhouette/b911b3c4-1810-4a66-ae0a-5547f9e9f8cf/apply">Apply</a></td>
 <td align="center">10 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Wpp Production</strong></td>
-<td><a href="https://trueinterview.io/jobs/b68e5d4a-5a63-475f-a9e4-0fbddb72b0d4">E-commerce Photographer - WPP Production Melbourne</a></td>
-<td>Melbourne, Australia</td>
-<td align="center"><a href="https://www.wppproduction.com/careers/jobs/6121015004?gh_jid=6121015004">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

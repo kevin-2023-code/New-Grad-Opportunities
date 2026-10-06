@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**37 open roles.** 22 in the United States & Canada · 15 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**36 open roles.** 21 in the United States & Canada · 15 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Stripe</strong></td>
-<td><a href="https://trueinterview.io/jobs/b4e8eaba-debb-482d-a14c-3d3b96daa2ba">Full Stack Engineer, Builder Experience</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8206731">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Prosper</strong></td>
 <td><a href="https://trueinterview.io/jobs/26f7c8e3-d866-47ad-b172-32f60733d13c">Escalations Specialist</a></td>
@@ -58,6 +51,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8191751">Apply</a></td>
 <td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e3b4740-0aab-4386-9526-434a8718ff5b">Software Engineer, Early Career — Immediate Start</a></td>
+<td>San Francisco, CA<br/>San Francisco, Seattle, New York<br/>Toronto<br/>+1 more</td>
+<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8212508">Apply</a></td>
+<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Sydecar</strong></td>
@@ -121,13 +121,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Canada<br/>South America<br/>United Kingdom</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/trm-labs/b6ced85a-a8e1-4da7-b065-188edb77ca9e/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Wise</strong></td>
-<td><a href="https://trueinterview.io/jobs/eb5ce4d3-739f-4da5-b00a-0f222d03c4be">Application Security Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000144807099-application-security-engineer-?oga=true">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Ramp</strong></td>

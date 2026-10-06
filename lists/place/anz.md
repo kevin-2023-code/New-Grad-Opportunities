@@ -2,7 +2,7 @@
 
 # 🇦🇺 Sydney, Melbourne & Aotearoa
 
-**10 open roles.**
+**9 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -81,13 +81,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Sydney</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/jcdecaux/jobs/8724233002">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Wpp Production</strong></td>
-<td><a href="https://trueinterview.io/jobs/b68e5d4a-5a63-475f-a9e4-0fbddb72b0d4">E-commerce Photographer - WPP Production Melbourne</a></td>
-<td>Melbourne, Australia</td>
-<td align="center"><a href="https://www.wppproduction.com/careers/jobs/6121015004?gh_jid=6121015004">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

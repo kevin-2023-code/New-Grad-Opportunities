@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**13 open roles.**
+**12 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -100,13 +100,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chicago, IL</td>
 <td align="center"><a href="https://jobs.lever.co/coatesgroup/06d80cfa-b6f0-4e81-83c2-3b34b4083cde/apply">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Flowtraders</strong></td>
-<td><a href="https://trueinterview.io/jobs/b2f387cb-41a2-4bdf-b129-87c40f0d9bcc">Talent Pool: Trading Systems Engineer</a></td>
-<td>Chicago Office<br/>New York, NY<br/>New York office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/flowtraders/jobs/8026227">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

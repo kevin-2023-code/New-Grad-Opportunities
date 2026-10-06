@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**18 open roles.** 17 in the United States & Canada · 1 elsewhere in the world.
+**15 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/69e866f7-9532-483f-b60e-237d04aa71b7">Software Engineer - Networking, firmware and C++</a></td>
-<td>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92603?lang=en-us">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Apptronik</strong></td>
 <td><a href="https://trueinterview.io/jobs/cd1957c0-de69-48dc-936a-b27c1f0dfda1">Firmware Engineer – Hands</a></td>
@@ -124,36 +117,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/fdbe33ca-e4e3-44e9-852e-3563da3e4e45">Embedded Software and Cybersecurity Engineer, Ford Energy</a></td>
-<td>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69460">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fdceac25-a723-436b-af6f-3af3613128e3">Software Development (Embedded) Engineer</a></td>
 <td>Ottawa, ON, Canada</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68556">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-</tbody>
-</table>
-
-## Elsewhere in the world
-
-_Roles outside the United States & Canada, and roles whose country the catalog could not read._
-
-<table>
-<thead>
-<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>All.space</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b4af616-9eb7-4812-92a8-522716e3b020">Embedded Software Engineer</a></td>
-<td>Reading, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.workable.com/view/4Hf3hUe1D5YGjptbQdp4NZ/hybrid-embedded-software-engineer-in-reading-at-all.space">Apply</a></td>
-<td align="center">5 Oct 2026</td>
 </tr>
 </tbody>
 </table>

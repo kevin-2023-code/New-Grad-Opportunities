@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**20 open roles.** 17 in the United States & Canada · 3 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**17 open roles.** 15 in the United States & Canada · 2 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -39,13 +39,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Panasonic</strong></td>
-<td><a href="https://trueinterview.io/jobs/4a5cc2eb-884c-4076-9f9e-36228373066f">Quality Engineer I</a></td>
-<td>De Soto, Kansas, United States</td>
-<td align="center"><a href="https://careers.na.panasonic.com/jobs/51193?lang=en-us">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Layup Parts</strong></td>
 <td><a href="https://trueinterview.io/jobs/96c953ae-794f-4c3a-9908-d59194e591bc">Electrical Engineer</a></td>
 <td>Huntington Beach, CA</td>
@@ -72,13 +65,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>1235 Activity Drive, Vista, CA</td>
 <td align="center"><a href="https://jobs.lever.co/invinity/bdc2b349-f5a7-408a-809a-1b92263b3012/apply">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hyliion</strong></td>
-<td><a href="https://trueinterview.io/jobs/fd3587b9-8e2e-4e99-8663-10d19ff946ea">Metrology Engineer</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/hyliion/jobs/6150403004">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Sunsource</strong></td>
@@ -148,13 +134,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Voltus</strong></td>
-<td><a href="https://trueinterview.io/jobs/cf00bf95-2ef5-421f-9b18-4925c213003e">Project Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/voltus/58a0d4db-bae6-4649-9628-aa5d44072ceb/apply">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>Trawa</strong></td>
 <td><a href="https://trueinterview.io/jobs/1a60c0c4-7513-4dd8-b1e0-4ebc1bf89c50">Operations &amp; Automation Engineer – Renewable Energy</a></td>

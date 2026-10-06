@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**7 open roles.** 6 in the United States & Canada · 1 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**6 open roles.** 5 in the United States & Canada · 1 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,13 +51,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA<br/>Massachusetts</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4960444101">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Flowtraders</strong></td>
-<td><a href="https://trueinterview.io/jobs/b2f387cb-41a2-4bdf-b129-87c40f0d9bcc">Talent Pool: Trading Systems Engineer</a></td>
-<td>New York, NY<br/>Chicago Office<br/>New York office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/flowtraders/jobs/8026227">Apply</a></td>
-<td align="center">6 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**39 open roles.**
+**38 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -213,13 +213,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/1728b0c1-10e5-46f3-a05f-e8d6bd32ea04">Intermediate Frontend Developer</a></td>
 <td>Campinas, São Paulo, Brazil<br/>Campinas, Brazil</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8687792002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c0699e53-666f-488e-ac60-0f733c215cdf">Intermediate Kotlin Developer</a></td>
-<td>Campinas, São Paulo, Brazil<br/>Campinas, Brazil</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8734536002">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**26 open roles.**
+**25 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -191,13 +191,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Tempe, AZ</td>
 <td align="center"><a href="https://jobs.lever.co/gtifabrication/ae952e8d-a962-4e3a-a2c8-0d9252d1996e/apply">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/538a060f-c4de-4519-8d7b-072373f10574">Fleet Engineer</a></td>
-<td>Phoenix, AZ, United States of America<br/>Taylor, TX<br/>Hillsboro, OR</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Fleet-Engineer_2637290-1">Apply</a></td>
-<td align="center">7 Aug 2026</td>
 </tr>
 </tbody>
 </table>

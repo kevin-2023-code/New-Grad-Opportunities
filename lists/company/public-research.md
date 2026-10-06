@@ -2,7 +2,7 @@
 
 # 🏛️ Government, research & non-profits
 
-**10 open roles.** 2 in the United States & Canada · 8 elsewhere in the world. Agencies, national laboratories, universities, research institutes and charities.
+**9 open roles.** 2 in the United States & Canada · 7 elsewhere in the world. Agencies, national laboratories, universities, research institutes and charities.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,13 +43,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Genomics England</strong></td>
-<td><a href="https://trueinterview.io/jobs/31e4cf8d-2c75-436c-aa96-93245e50252f">Genomic Data Scientist</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://4dayweek.io/job/genomic-data-scientist-at-genomics-england-f10142da">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Our Future Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/c633ae1e-fe04-414f-8709-70bd52e12112">Platform Engineer</a></td>

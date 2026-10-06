@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**18 open roles.**
+**16 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Olsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c70aeee-a054-4d87-8146-24b185eff487">Project Engineer - Site Design</a> 🌐</td>
-<td>Remote — United States<br/>Dallas, TX</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5444165008">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Allworth Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9ecd6b6-d48b-4c73-82c2-117ed5793817">Equity Trader and Research Analyst</a></td>
-<td>Addison, TX<br/>Cincinnati, Ohio, United States<br/>Indianapolis, IN</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/allworthfinancial/jobs/8868862002">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/9309d68b-e065-43c8-939b-3a2d47aac56f">Software Consulting Engineer I (Full Time) United States</a></td>
