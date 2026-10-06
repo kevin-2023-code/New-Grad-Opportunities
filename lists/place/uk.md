@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**31 open roles.** 5 in the United States & Canada · 26 elsewhere in the world.
+**29 open roles.** 4 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,13 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>London, UK<br/>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/factory/fa8c6db5-7dbf-4366-aa64-88a6608895cd/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce186936-fe26-43fb-b081-9d5908442428">Software Engineer, Compute Infrastructure</a></td>
-<td>London, UK<br/>San Francisco, CA<br/>Seattle, WA<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/ca300a6d-a2a7-4580-aad7-323fbdfee7b1/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 </tbody>
 </table>
@@ -217,13 +210,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Manchester</td>
 <td align="center"><a href="https://jobs.lever.co/field-ai/4bff79b4-4bc6-461f-876e-7f4917ba8716/apply">Apply</a></td>
 <td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Incident.io</strong></td>
-<td><a href="https://trueinterview.io/jobs/c5cfb39a-c7f6-47d6-8471-4aa57b0e8a84">Product Engineer</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/incident/b4edacb2-1008-476f-9b96-d5c9f39b81a9/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Bet365</strong></td>

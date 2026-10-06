@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**86 open roles.**
+**80 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -445,34 +445,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Mio Partners</strong></td>
-<td><a href="https://trueinterview.io/jobs/cbf34161-10e0-4f67-a279-cca52b274813">Quantitative Associate, Risk Special Projects</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/miopartners/jobs/5394727008">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Goldman Sachs</strong></td>
-<td><a href="https://trueinterview.io/jobs/da4df5b4-d0d7-4291-800b-5c91413c8e61">GBM Public - Systematic Macro Quant Researcher - New York - GBM Public</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/149771">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Simile</strong></td>
-<td><a href="https://trueinterview.io/jobs/fb8f32d6-c883-438a-964f-aa7f8380e3f9">Product Designer</a></td>
-<td>New York, NY<br/>Palo Alto, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/simile/e3a653fd-2d8a-4bf5-ab9c-e630aa7f5eec/application">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Watershed</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0bfd1fe-3fa8-4851-80ab-2e5447abf03a">GTM engineer</a></td>
-<td>New York City<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/watershed/00f1ba3f-67ba-48cb-8e88-1eacc2ebb9f7/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Ramp</strong></td>
 <td><a href="https://trueinterview.io/jobs/7b9c9369-38d9-40d5-ab89-f0628e4793ab">Product Operations | AI Revenue Systems</a></td>
 <td>New York, NY (HQ)</td>
@@ -487,13 +459,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Langchain</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa91ef0f-68fe-49ee-b92d-c4e09a911786">Security Engineer - Detection &amp; Response</a></td>
-<td>New York, NY<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/langchain/7b1e5ff7-4531-4d4a-8379-52a21b6d386d/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Clay Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/11335192-87cd-4425-b642-58181d45443b">Software Engineer, Applied AI</a></td>
 <td>New York, NY</td>
@@ -501,14 +466,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/b99c068f-ce51-4c4a-9423-aee3b50ab42e">IT Support Engineer, Application Administrator</a> 🌐</td>
-<td>Remote — United States<br/>New York City, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5390019008">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Clay Labs</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/55ce118c-322c-4dc4-ac64-98d38a5f6442">Software Engineer, (Full Stack) Product</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/claylabs/4b20eb92-c27c-46fb-8d5b-ead32765a7d8/application">Apply</a></td>

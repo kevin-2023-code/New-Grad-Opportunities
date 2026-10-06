@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**12 open roles.** 8 in the United States & Canada · 4 elsewhere in the world.
+**10 open roles.** 6 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -32,25 +32,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef765d05-53ca-4c42-a9f8-815b92222dc9">DevOps / AgentOps Engineer, GTM Systems</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5392856008">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Dell</strong></td>
 <td><a href="https://trueinterview.io/jobs/96a6c769-4958-4a6e-8a3e-7c0a4c3f2cc5">DevOps Engineer - Federal Customer</a></td>
 <td>Mclean, VA, United States</td>
 <td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/296672">Apply</a></td>
 <td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ac872377-ae0d-4227-8aa1-a26346a589d0">DevOps Storage Engineer - Federal Customer</a></td>
-<td>Mclean, VA, United States</td>
-<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/296702">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Protolabs</strong></td>

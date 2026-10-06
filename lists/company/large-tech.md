@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**120 open roles.** 95 in the United States & Canada · 25 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**109 open roles.** 87 in the United States & Canada · 22 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -417,13 +417,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef765d05-53ca-4c42-a9f8-815b92222dc9">DevOps / AgentOps Engineer, GTM Systems</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5392856008">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Axon</strong></td>
 <td><a href="https://trueinterview.io/jobs/ff1385b3-6189-4003-b286-19b2fd242428">Electrical Engineer I</a></td>
 <td>Sterling, Virginia, United States<br/>Virginia-Sterling Office</td>
@@ -431,24 +424,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>xAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/ebdcb208-66af-4eac-b48e-3a3a3a06c7e0">OSP Engineer</a></td>
-<td>Memphis, Tennessee<br/>Southaven, Mississippi<br/>Memphis, TN<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5215570007">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/2c1aa029-9d65-4582-9dd6-85e9569de3b8">Software Engineer, Plugin Developer Platform</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/71838fdf-4476-490c-81b6-4bf0746f6774/application">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>1password</strong></td>
-<td><a href="https://trueinterview.io/jobs/b42a6472-6320-4563-9355-5b2437afb9f0">Developer, Authorization</a> 🌐</td>
-<td>Remote — United States, Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/1password/d8e8cf3f-c994-43a7-854c-86849b95db41/application">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
@@ -464,41 +443,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA • New York, NY • United States<br/>Canada</td>
 <td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6131079004?gh_jid=6131079004">Apply</a></td>
 <td align="center">15 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce186936-fe26-43fb-b081-9d5908442428">Software Engineer, Compute Infrastructure</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>London, UK<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/ca300a6d-a2a7-4580-aad7-323fbdfee7b1/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/b99c068f-ce51-4c4a-9423-aee3b50ab42e">IT Support Engineer, Application Administrator</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5390019008">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f29ba1c5-1687-4e7a-a29b-ca89911abfb9">AI Operations Engineer, Partnerships</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5391151008">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lightspeed Commerce, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7da5927-a6c2-4415-8f76-2403d7df64d6">Chef d'équipe, ingénieur en analyse (Analytics Engineer)</a></td>
-<td>Montreal, QC</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/63bbe5e5-d0b6-4fe0-9af5-6d88d83205f0/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>1password</strong></td>
-<td><a href="https://trueinterview.io/jobs/bacbf3a4-4d8a-430e-b05a-35c781e7b3a7">Solutions Engineer, SMB</a> 🌐</td>
-<td>Remote — United States, Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/1password/03e43d8b-af31-489e-a97c-a7da66df129b/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>OpenAI</strong></td>
@@ -821,28 +765,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Getnet</strong></td>
-<td><a href="https://trueinterview.io/jobs/bcd23ea3-3a99-45ce-9671-8b42c6fb569d">Automation &amp; AI Engineer – Global Platform Finance Team</a></td>
-<td>Brazil - São Paulo/SP<br/>Getnet T&amp;O Brazil</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/getnet/jobs/4955618101">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Snowflake</strong></td>
-<td><a href="https://trueinterview.io/jobs/faddeb8c-25dd-4afc-b98f-50513792cbf6">Solution Engineer - FSI Emerging Enterprise</a></td>
-<td>GB-London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/03631337-d2e8-452c-917c-b5906c518de2/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Knowbe4</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac050882-21d0-4f4b-b577-9c7ae9e5fcce">Analytics Engineer(Position located in Bengaluru, India)</a></td>
-<td>Bengaluru, India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8721151002">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>C6 Bank</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/832e7aef-4aa9-4724-a6e6-2aac42447f89">Especialista de Customer Journey | Jornada do Cliente</a></td>
 <td>São Paulo, Brazil<br/>C6 Bank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4724341005">Apply</a></td>

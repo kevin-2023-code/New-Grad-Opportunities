@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**33 open roles.** 23 in the United States & Canada · 10 elsewhere in the world.
+**31 open roles.** 22 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -144,13 +144,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Lightspeed Commerce, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7da5927-a6c2-4415-8f76-2403d7df64d6">Chef d'équipe, ingénieur en analyse (Analytics Engineer)</a></td>
-<td>Montreal, QC</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/63bbe5e5-d0b6-4fe0-9af5-6d88d83205f0/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Sunnydata</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a759a05-30d3-4a06-8bab-3459d26f5a50">Data Analytics Engineer</a></td>
 <td>United States</td>
@@ -231,13 +224,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo, , Brazil</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000144842431-engenheiro-de-dados-pleno?oga=true">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Knowbe4</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac050882-21d0-4f4b-b577-9c7ae9e5fcce">Analytics Engineer(Position located in Bengaluru, India)</a></td>
-<td>Bengaluru, India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8721151002">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Loadsmart</strong></td>

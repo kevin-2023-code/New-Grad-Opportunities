@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**70 open roles.** 54 in the United States & Canada · 16 elsewhere in the world.
+**65 open roles.** 48 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -249,38 +249,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Lpa, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/e55b0bb6-6598-4e75-ac78-2c039e27c2bc">Structural Designer</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lpadesignstudios/1da97e88-8a3e-406c-844d-343370800424/application">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee8c4cfb-0da3-4ee3-ad8a-7ad21a458ebd">Electrical Designer (Construction)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8727981002?gh_jid=8727981002">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Simile</strong></td>
-<td><a href="https://trueinterview.io/jobs/fb8f32d6-c883-438a-964f-aa7f8380e3f9">Product Designer</a></td>
-<td>Palo Alto, CA<br/>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/simile/e3a653fd-2d8a-4bf5-ab9c-e630aa7f5eec/application">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Vizcom</strong></td>
 <td><a href="https://trueinterview.io/jobs/7420f369-d315-410f-9590-09198cd26467">Creative Adovcate</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/vizcom/91626b26-7f74-4959-bd59-ad82bd8a9da4/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Netgear</strong></td>
-<td><a href="https://trueinterview.io/jobs/acd7319b-694d-4675-8c9e-459b1e81ccaa">Associate Product Manager</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/netgear/65c8f8c7-46b8-4599-abb8-ff33db2a7ed9/application">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>
@@ -289,20 +261,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA • New York, NY • United States<br/>Canada</td>
 <td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6131079004?gh_jid=6131079004">Apply</a></td>
 <td align="center">15 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Vendavo</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7a189ec-4d65-4cc1-a0e0-43ebbc837a9a">AI Video Creator &amp; Presentation Designer</a></td>
-<td>Bengaluru, IN</td>
-<td align="center"><a href="https://jobs.lever.co/vendavo/d40d7a21-f5dd-418b-8376-e4d261fc56d7/apply">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Infuse</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac2b321d-2dd2-4942-a5e4-070589b80e70">Instructional Designer (Contract, Remote)</a></td>
-<td>Moldova<br/>Lithuania<br/>Latvia<br/>+26 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/infuse/jobs/4724400005">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Kaizen Labs</strong></td>
@@ -504,6 +462,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/scarlet/56adf81f-c42d-4a64-ae74-529346ecdc40/application">Apply</a></td>
 <td align="center">19 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Warner Music Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5cc6f7f-68b0-48a1-bc64-3bdf6b727390">Technical Program Manager</a></td>
+<td>Tel Aviv</td>
+<td align="center"><a href="https://jobs.lever.co/wmg/6dfdc6c8-a1c4-41d2-a821-c288edada1f2/apply">Apply</a></td>
+<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>C6 Bank</strong></td>

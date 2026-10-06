@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**68 open roles.** 48 in the United States & Canada · 20 elsewhere in the world. Early-stage technology companies.
+**63 open roles.** 45 in the United States & Canada · 18 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -235,13 +235,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Langchain</strong></td>
-<td><a href="https://trueinterview.io/jobs/fdcba768-963d-483c-a702-03fafcb8257c">Solutions Engineer (Chicago)</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/langchain/98fcaa18-d323-49cd-b231-b2d4b905419d/application">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Vizcom</strong></td>
 <td><a href="https://trueinterview.io/jobs/7420f369-d315-410f-9590-09198cd26467">Creative Adovcate</a></td>
 <td>San Francisco, CA</td>
@@ -254,20 +247,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Irvine, CA</td>
 <td align="center"><a href="https://jobs.lever.co/field-ai/9a92c550-5f4c-48c6-b4d4-f44a0a146a15/apply">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Langchain</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa91ef0f-68fe-49ee-b92d-c4e09a911786">Security Engineer - Detection &amp; Response</a></td>
-<td>San Francisco, CA<br/>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/langchain/7b1e5ff7-4531-4d4a-8379-52a21b6d386d/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Gptzero</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9101e3b-2d3f-49c7-92ce-122e060ed7f1">Machine Learning Engineer</a></td>
-<td>Toronto Hybrid<br/>NYC Hybrid</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gptzero/d0b64cd5-101a-4581-a101-5f1d6a62d14e/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Exa</strong></td>
@@ -448,20 +427,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hybrid (UK)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/posthog/8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3/application">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Litellm</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac49af94-b8f4-47c8-aa37-b2c739e6a19a">Forward Deployed Engineer - India</a></td>
-<td>India</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/litellm/b0879986-2e6d-4167-b2db-3246b5db3d76/application">Apply</a></td>
-<td align="center">15 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Incident.io</strong></td>
-<td><a href="https://trueinterview.io/jobs/c5cfb39a-c7f6-47d6-8471-4aa57b0e8a84">Product Engineer</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/incident/b4edacb2-1008-476f-9b96-d5c9f39b81a9/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Kiss My Apps</strong></td>

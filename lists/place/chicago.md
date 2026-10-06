@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**12 open roles.**
+**11 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,13 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chicago, IL<br/>Seattle, WA<br/>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.lever.co/gettyimages/dabcc694-43d7-41ca-9434-e80b16a55134/apply">Apply</a></td>
 <td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Langchain</strong></td>
-<td><a href="https://trueinterview.io/jobs/fdcba768-963d-483c-a702-03fafcb8257c">Solutions Engineer (Chicago)</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/langchain/98fcaa18-d323-49cd-b231-b2d4b905419d/application">Apply</a></td>
-<td align="center">18 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Coates Group</strong></td>

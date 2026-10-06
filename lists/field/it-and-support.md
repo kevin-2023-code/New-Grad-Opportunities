@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**131 open roles.** 102 in the United States & Canada · 29 elsewhere in the world.
+**128 open roles.** 99 in the United States & Canada · 29 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -592,20 +592,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Helsing</strong></td>
-<td><a href="https://trueinterview.io/jobs/ccf89334-fd70-4a56-b8ad-7490613ed183">IT Support Specialist</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://helsing.ai/jobs/4954115101?gh_jid=4954115101">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fullscript</strong></td>
-<td><a href="https://trueinterview.io/jobs/e5527c30-c41a-4daf-b2f5-54c410b22942">Technical Support Specialist</a></td>
-<td>Ottawa, ON<br/>Calgary, AB<br/>Toronto, ON<br/>+1 more</td>
-<td align="center"><a href="https://jobs.lever.co/fullscript/a52e4915-8239-4581-8828-84661f070424/apply">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Accenture Federal Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/08f6b453-5f53-4bd5-b38b-7ffce3732f6e">Oracle A2R/R2R Configurator</a></td>
 <td>Washington, DC<br/>Arlington, VA</td>
@@ -625,13 +611,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Lufkin, TX</td>
 <td align="center"><a href="https://jobs.lever.co/t5datacenters/36b05ec2-ed5e-4efe-aeee-cf22cfa13960/apply">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/b99c068f-ce51-4c4a-9423-aee3b50ab42e">IT Support Engineer, Application Administrator</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5390019008">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>xAI</strong></td>

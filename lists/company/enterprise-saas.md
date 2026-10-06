@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**65 open roles.** 44 in the United States & Canada · 21 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**63 open roles.** 43 in the United States & Canada · 20 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -235,13 +235,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Vendavo</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7a189ec-4d65-4cc1-a0e0-43ebbc837a9a">AI Video Creator &amp; Presentation Designer</a></td>
-<td>Bengaluru, IN</td>
-<td align="center"><a href="https://jobs.lever.co/vendavo/d40d7a21-f5dd-418b-8376-e4d261fc56d7/apply">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Clay Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/11335192-87cd-4425-b642-58181d45443b">Software Engineer, Applied AI</a></td>
 <td>New York, NY</td>
@@ -434,13 +427,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.lever.co/economicmodeling/36e2eb9d-a7db-4268-a0b7-b26edc60de88/apply">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Creatoriq</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3eeaa7b-ce8b-4f08-a185-5151a26e0f6e">AI Automation Engineer</a></td>
-<td>São Paulo</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/creatoriq/4b1becd1-eb4a-46c2-abb3-2570b1302f17/application">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Anaplan</strong></td>

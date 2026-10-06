@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**13 open roles.** 12 in the United States & Canada · 1 elsewhere in the world.
+**13 open roles.** 11 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -94,13 +94,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Netgear</strong></td>
-<td><a href="https://trueinterview.io/jobs/acd7319b-694d-4675-8c9e-459b1e81ccaa">Associate Product Manager</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/netgear/65c8f8c7-46b8-4599-abb8-ff33db2a7ed9/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -119,6 +112,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City</td>
 <td align="center"><a href="https://www.monks.com/careers/6175775004/job?gh_jid=6175775004">Apply</a></td>
 <td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Warner Music Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5cc6f7f-68b0-48a1-bc64-3bdf6b727390">Technical Program Manager</a></td>
+<td>Tel Aviv</td>
+<td align="center"><a href="https://jobs.lever.co/wmg/6dfdc6c8-a1c4-41d2-a821-c288edada1f2/apply">Apply</a></td>
+<td align="center">14 Aug 2026</td>
 </tr>
 </tbody>
 </table>

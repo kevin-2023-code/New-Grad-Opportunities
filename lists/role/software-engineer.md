@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**187 open roles.** 137 in the United States & Canada · 50 elsewhere in the world.
+**183 open roles.** 135 in the United States & Canada · 48 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/93a44550-8e01-4206-9fbe-455d72d03cce">Graduate Systems/Software Engineer I</a></td>
 <td>Bloomington, Minnesota, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Graduate-Systems-Software-Engineer-I_1213439">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/623662d3-20da-41b3-b25e-f858870e7a7c">Cloud Software Development Engineer</a></td>
+<td>Costa Rica, San Jose<br/>US, Oregon, Hillsboro, United States of America<br/>US, Arizona, Phoenix, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Cloud-Software-Development-Engineer_JR0287842">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
@@ -781,27 +788,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>1password</strong></td>
-<td><a href="https://trueinterview.io/jobs/b42a6472-6320-4563-9355-5b2437afb9f0">Developer, Authorization</a> 🌐</td>
-<td>Remote — United States, Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/1password/d8e8cf3f-c994-43a7-854c-86849b95db41/application">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce186936-fe26-43fb-b081-9d5908442428">Software Engineer, Compute Infrastructure</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>London, UK<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/ca300a6d-a2a7-4580-aad7-323fbdfee7b1/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Trace3</strong></td>
-<td><a href="https://trueinterview.io/jobs/dea010e3-6006-4f18-af80-e4e28bf88577">Software Engineer (26-362)</a></td>
-<td>Colorado Springs, CO</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/trace3/jobs/8131230">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/4395c5e0-49ea-470b-b905-017bfbf4c136">New Graduate Engineer, Software  - '26/'27  (Starlink)</a></td>
 <td>Palo Alto, CA<br/>Redmond, WA<br/>Bastrop, TX</td>
@@ -1266,20 +1252,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/1d44bbbf-9946-481a-a575-cc11b3c8c4ac">Forward Deployed Engineer - Software Engineer - Saudi Arabia</a></td>
 <td>Saudi Arabia</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/c8216d65-13c9-4f8c-9b57-e14fd02738b0/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c12cc63e-7f95-48ae-a90a-f1b1d4f84625">Forward Deployed Engineer - Software Engineer - Denmark</a></td>
-<td>Denmark</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/16ed3af9-e4a7-4b59-8767-7771604d9165/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a7d677bb-f704-4d86-9de4-6c5e47678b73">Forward Deployed Engineer - Software Engineer - Germany</a></td>
-<td>Germany</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/b1b4fa6b-ad36-4b0d-be89-32f35fcb420a/application">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>

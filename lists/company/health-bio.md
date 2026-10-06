@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**24 open roles.** 18 in the United States & Canada · 6 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**21 open roles.** 16 in the United States & Canada · 5 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -109,20 +109,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Simonmed</strong></td>
-<td><a href="https://trueinterview.io/jobs/f7bf1d49-e705-4a53-a6f8-a7bbe723c939">Nuclear Medicine/PET Technologist</a></td>
-<td>590 Eureka Ave, Reno, NV 89512</td>
-<td align="center"><a href="https://jobs.lever.co/simonmed/34ffc1e1-01fc-46ef-9611-4013607be1df/apply">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fullscript</strong></td>
-<td><a href="https://trueinterview.io/jobs/e5527c30-c41a-4daf-b2f5-54c410b22942">Technical Support Specialist</a></td>
-<td>Ottawa, ON<br/>Calgary, AB<br/>Toronto, ON<br/>+1 more</td>
-<td align="center"><a href="https://jobs.lever.co/fullscript/a52e4915-8239-4581-8828-84661f070424/apply">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Nuna</strong></td>
 <td><a href="https://trueinterview.io/jobs/b693e994-1b5e-4925-8d78-803518756fcc">Software Engineer, AI Evaluation</a></td>
 <td>San Francisco, CA</td>
@@ -189,13 +175,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexicali, MEXICO, Mexico</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000144168469-manufacturing-equipment-engineer-1?oga=true">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Iambic Therapeutics</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf8a47ea-fd20-458f-91ab-e807f47e02f7">Research Scientist I/II, Immunology</a></td>
-<td>San Diego HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/iambic-therapeutics/41e94f6a-c5ea-4c52-b527-e2976a08347d/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 </tbody>
 </table>

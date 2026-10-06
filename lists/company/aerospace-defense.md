@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**93 open roles.** 86 in the United States & Canada · 7 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**85 open roles.** 78 in the United States & Canada · 7 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -410,66 +410,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e45a383e-2a3c-487e-9728-b1cc980457ab">Supplier Development Engineer, PCB/PCBA (Starshield)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8719843002?gh_jid=8719843002">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ee8c4cfb-0da3-4ee3-ad8a-7ad21a458ebd">Electrical Designer (Construction)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8727981002?gh_jid=8727981002">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f1e03d81-d3ad-4d47-8601-6ff117c9b55e">Integration &amp; Test Engineer, AI Satellites (Starmind)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8727656002?gh_jid=8727656002">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Helsing</strong></td>
-<td><a href="https://trueinterview.io/jobs/ccf89334-fd70-4a56-b8ad-7490613ed183">IT Support Specialist</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://helsing.ai/jobs/4954115101?gh_jid=4954115101">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7ecb38e-30ae-4dee-a8f9-6f5f74fdc9bd">Propulsion Build Engineer (Starship)</a></td>
-<td>Starbase, TX<br/>Brownsville, TX, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8721585002?gh_jid=8721585002">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ac0d92d7-99c8-4ae6-bbd1-0d8682c34837">Propulsion Engineer, Propulsion Simulation &amp; Data Analysis</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696839002?gh_jid=8696839002">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>World View Enterprises Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/8596ba47-f009-474c-813c-aa5a1e10f1d2">Mechanical Designer</a></td>
 <td>Irvine, CA</td>
 <td align="center"><a href="https://jobs.lever.co/world-view-enterprises-inc./5f3716d8-fab1-4734-bca7-48ffa1e006e8/apply">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Mach Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/eba50766-9ddb-4ebf-934c-4b786719e101">Integration Reliability Engineer</a></td>
-<td>Huntington Beach, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/mach/5d8bd123-863f-4024-a38d-4a53e20f40a3/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/dfbd4ffd-8a84-429c-a3ef-dd181828ec34">Mechanical Engineer - Battery Pack, Satellites (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8716210002?gh_jid=8716210002">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>

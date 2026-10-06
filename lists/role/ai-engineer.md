@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**40 open roles.** 24 in the United States & Canada · 16 elsewhere in the world.
+**34 open roles.** 19 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -109,13 +109,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1e03d81-d3ad-4d47-8601-6ff117c9b55e">Integration &amp; Test Engineer, AI Satellites (Starmind)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8727656002?gh_jid=8727656002">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Ramp</strong></td>
 <td><a href="https://trueinterview.io/jobs/7b9c9369-38d9-40d5-ab89-f0628e4793ab">Product Operations | AI Revenue Systems</a></td>
 <td>New York, NY (HQ)</td>
@@ -123,38 +116,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/f194bd92-733c-4c37-b35c-4bf40048ff8f">AI Systems Engineer - HPC</a></td>
-<td>US, CA, San Jose<br/>San Jose, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/89700?lang=en-us">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/d0f53483-d940-416c-b6c7-ffb72411d5e7">Software Engineer, Applied AI</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/clera/a624a624-7921-4689-9d49-0e50f1f47d50/application">Apply</a></td>
-<td align="center">15 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Clay Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/11335192-87cd-4425-b642-58181d45443b">Software Engineer, Applied AI</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/claylabs/5e07db20-d96a-4dff-b7d3-3bf1cdde6fc1/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/f29ba1c5-1687-4e7a-a29b-ca89911abfb9">AI Operations Engineer, Partnerships</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5391151008">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>K Group Companies</strong></td>
-<td><a href="https://trueinterview.io/jobs/fcd1f423-8a9d-4399-bd7d-1a43832d72a5">Junior AI Engineer - Onsite</a></td>
-<td>Grand Rapids, Michigan</td>
-<td align="center"><a href="https://jobs.lever.co/kgroupcompanies/26491a9f-ac14-4f12-a1ff-a2b96bf0356e/apply">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>
@@ -197,6 +162,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbc1da5e-6607-428b-b27c-d042ee384d93">IN_Manager_AI/ML Engineer_GCC_Advisory_Bangalore</a></td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-QA-Software-Testing--Data-and-Analytics-Advisory-Bangalore_742709WD-1">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Hiring: AI, Data, DevOps &amp; Full Stack Engineers</strong></td>
 <td><a href="https://trueinterview.io/jobs/325516af-07b9-4c3e-b741-4bba1792946e">Hiring: AI, Data, DevOps &amp; Full Stack Engineers / Remote — Americas</a></td>
@@ -273,20 +245,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Paris</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/hexa/8ab7f165-f414-49ab-875e-1442ebd43d5d/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Creatoriq</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3eeaa7b-ce8b-4f08-a185-5151a26e0f6e">AI Automation Engineer</a></td>
-<td>São Paulo</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/creatoriq/4b1becd1-eb4a-46c2-abb3-2570b1302f17/application">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Getnet</strong></td>
-<td><a href="https://trueinterview.io/jobs/bcd23ea3-3a99-45ce-9671-8b42c6fb569d">Automation &amp; AI Engineer – Global Platform Finance Team</a></td>
-<td>Brazil - São Paulo/SP<br/>Getnet T&amp;O Brazil</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/getnet/jobs/4955618101">Apply</a></td>
-<td align="center">18 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Posthog</strong></td>

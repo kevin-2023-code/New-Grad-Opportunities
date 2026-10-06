@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**94 open roles.** 72 in the United States & Canada · 22 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**85 open roles.** 66 in the United States & Canada · 19 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -291,20 +291,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef765d05-53ca-4c42-a9f8-815b92222dc9">DevOps / AgentOps Engineer, GTM Systems</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5392856008">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>xAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/ebdcb208-66af-4eac-b48e-3a3a3a06c7e0">OSP Engineer</a></td>
-<td>Memphis, Tennessee<br/>Southaven, Mississippi<br/>Memphis, TN<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5215570007">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/2c1aa029-9d65-4582-9dd6-85e9569de3b8">Software Engineer, Plugin Developer Platform</a></td>
 <td>San Francisco, CA</td>
@@ -331,34 +317,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/cresta/jobs/5389409008">Apply</a></td>
 <td align="center">16 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce186936-fe26-43fb-b081-9d5908442428">Software Engineer, Compute Infrastructure</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>London, UK<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/ca300a6d-a2a7-4580-aad7-323fbdfee7b1/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/b99c068f-ce51-4c4a-9423-aee3b50ab42e">IT Support Engineer, Application Administrator</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5390019008">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f29ba1c5-1687-4e7a-a29b-ca89911abfb9">AI Operations Engineer, Partnerships</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5391151008">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Gptzero</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9101e3b-2d3f-49c7-92ce-122e060ed7f1">Machine Learning Engineer</a></td>
-<td>Toronto Hybrid<br/>NYC Hybrid</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gptzero/d0b64cd5-101a-4581-a101-5f1d6a62d14e/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>OpenAI</strong></td>
@@ -616,27 +574,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Saudi Arabia</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/c8216d65-13c9-4f8c-9b57-e14fd02738b0/application">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c12cc63e-7f95-48ae-a90a-f1b1d4f84625">Forward Deployed Engineer - Software Engineer - Denmark</a></td>
-<td>Denmark</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/16ed3af9-e4a7-4b59-8767-7771604d9165/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a7d677bb-f704-4d86-9de4-6c5e47678b73">Forward Deployed Engineer - Software Engineer - Germany</a></td>
-<td>Germany</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/b1b4fa6b-ad36-4b0d-be89-32f35fcb420a/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Litellm</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac49af94-b8f4-47c8-aa37-b2c739e6a19a">Forward Deployed Engineer - India</a></td>
-<td>India</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/litellm/b0879986-2e6d-4167-b2db-3246b5db3d76/application">Apply</a></td>
-<td align="center">15 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Higgsfield</strong></td>

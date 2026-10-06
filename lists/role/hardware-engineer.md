@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**46 open roles.** 45 in the United States & Canada · 1 elsewhere in the world.
+**45 open roles.** 44 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/3eca1faf-92dc-4025-9044-aa703e919ef5">System Design Engineer - New College Grad 2026</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893392898537">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/6467d82a-d370-4f53-a4fe-5ec23630ee6b">Physicist/Scientist: FEP chamber Optics engineer (E3)</a></td>
@@ -291,10 +284,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd66c2e0-39b0-436e-8716-72c7c61ba376">ASIC Digital Design Engineer</a></td>
-<td>US-CO-Col Springs-Bldg C<br/>Colorado Springs, Colorado, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/53892?lang=en-us">Apply</a></td>
+<td><strong>Axon</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff1385b3-6189-4003-b286-19b2fd242428">Electrical Engineer I</a></td>
+<td>Sterling, Virginia, United States<br/>Virginia-Sterling Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/axon/jobs/7823330003">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>

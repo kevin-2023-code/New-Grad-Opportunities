@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**82 open roles.** 56 in the United States & Canada · 26 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**81 open roles.** 55 in the United States & Canada · 26 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -305,13 +305,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Trace3</strong></td>
-<td><a href="https://trueinterview.io/jobs/dea010e3-6006-4f18-af80-e4e28bf88577">Software Engineer (26-362)</a></td>
-<td>Colorado Springs, CO</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/trace3/jobs/8131230">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Thinkingbox</strong></td>
 <td><a href="https://trueinterview.io/jobs/57a93eea-8a19-46f0-81b6-c66b4b2154be">Designer - Thinkingbox</a></td>
 <td>Vancouver, BC</td>
@@ -421,6 +414,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbc1da5e-6607-428b-b27c-d042ee384d93">IN_Manager_AI/ML Engineer_GCC_Advisory_Bangalore</a></td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-QA-Software-Testing--Data-and-Analytics-Advisory-Bangalore_742709WD-1">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Ci&amp;t</strong></td>
 <td><a href="https://trueinterview.io/jobs/0b51b677-bc7d-4d60-8f5c-893b0cd1855b">[Job-31680] Master AWS I Python Developer, Brazil</a></td>
@@ -581,13 +581,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City, Mexico City, Mexico<br/>Mexico, Mexico</td>
 <td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4706843006">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Thoughtworks</strong></td>
-<td><a href="https://trueinterview.io/jobs/aa762f2c-d14a-4cf2-81bf-d39bf7f1470b">Infrastructure Engineer focused on Observability and GCP</a></td>
-<td>Santiago, Chile<br/>Chile, Chile</td>
-<td align="center"><a href="https://www.thoughtworks.com/careers/jobs/8131779?gh_jid=8131779">Apply</a></td>
-<td align="center">16 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>New Era Technology</strong></td>

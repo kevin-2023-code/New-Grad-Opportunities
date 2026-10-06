@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**32 open roles.** 14 in the United States & Canada · 18 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**29 open roles.** 11 in the United States & Canada · 18 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -67,28 +67,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Mio Partners</strong></td>
-<td><a href="https://trueinterview.io/jobs/cbf34161-10e0-4f67-a279-cca52b274813">Quantitative Associate, Risk Special Projects</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/miopartners/jobs/5394727008">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Goldman Sachs</strong></td>
-<td><a href="https://trueinterview.io/jobs/da4df5b4-d0d7-4291-800b-5c91413c8e61">GBM Public - Systematic Macro Quant Researcher - New York - GBM Public</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/149771">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b3841bcc-38e5-4159-9526-eb36743ba7b4">Engineering-L2-Dallas-Analyst-Software Engineering</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/181810">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/da05bdb7-0456-4f91-8e68-fe51d4eeb20f">Systems Engineer, Global Banking &amp; Markets, FIX Connectivity</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180756">Apply</a></td>

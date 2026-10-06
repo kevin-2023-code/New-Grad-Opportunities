@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**8 open roles.** 2 in the United States & Canada · 6 elsewhere in the world.
+**7 open roles.** 2 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -69,13 +69,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7633934e-4012-4ae6-a112-a12433bbd6fa">Software Engineer - Kubernetes Platform</a></td>
 <td>Singapore<br/>CEP Core Engineering Products</td>
 <td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005732201?gh_jid=4005732201">Apply</a></td>
-<td align="center">16 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e3848a0a-7eab-4b94-83e1-56c9cd489d96">Cybersecurity Engineer</a></td>
-<td>Singapore<br/>CEP Core Engineering Products</td>
-<td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005720201?gh_jid=4005720201">Apply</a></td>
 <td align="center">16 Aug 2026</td>
 </tr>
 <tr>

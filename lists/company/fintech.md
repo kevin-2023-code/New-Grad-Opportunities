@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**36 open roles.** 21 in the United States & Canada · 15 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**35 open roles.** 21 in the United States & Canada · 14 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -261,14 +261,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Getnet</strong></td>
-<td><a href="https://trueinterview.io/jobs/bcd23ea3-3a99-45ce-9671-8b42c6fb569d">Automation &amp; AI Engineer – Global Platform Finance Team</a></td>
-<td>Brazil - São Paulo/SP<br/>Getnet T&amp;O Brazil</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/getnet/jobs/4955618101">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>C6 Bank</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/832e7aef-4aa9-4724-a6e6-2aac42447f89">Especialista de Customer Journey | Jornada do Cliente</a></td>
 <td>São Paulo, Brazil<br/>C6 Bank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4724341005">Apply</a></td>

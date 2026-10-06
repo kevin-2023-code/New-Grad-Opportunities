@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**42 open roles.** 36 in the United States & Canada · 6 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**39 open roles.** 34 in the United States & Canada · 5 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -235,21 +235,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Lpa, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/e55b0bb6-6598-4e75-ac78-2c039e27c2bc">Structural Designer</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lpadesignstudios/1da97e88-8a3e-406c-844d-343370800424/application">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Olsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/b430a868-b828-4803-af5c-90667f08e684">Professional Land Surveyor</a></td>
-<td>North Kansas City, MO</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5391864008">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/abc4c18d-4b13-443d-8389-71911ce4c1da">Junior Substation Designer</a></td>
 <td>Minneapolis, MN, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93183">Apply</a></td>
@@ -315,13 +301,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Alto Horizonte, GO, Brazil</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000146058160-engenheiro-a-civil-?oga=true">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Olsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/ab9f044a-d410-4ba4-8215-f00f717d2892">Mechanical Piping Engineer - Data Center</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5394796008">Apply</a></td>
-<td align="center">18 Aug 2026</td>
 </tr>
 </tbody>
 </table>

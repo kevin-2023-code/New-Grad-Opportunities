@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**212 open roles.** 134 in the United States & Canada · 78 elsewhere in the world.
+**201 open roles.** 126 in the United States & Canada · 75 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -676,28 +676,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/addee22f-4017-422d-b97c-d4700689115c">NVIDIA 2027 Internships: Deep Learning</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397026418">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Accenture Federal Services</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/97fef759-8274-462e-ad16-039796e7eae1">Contract Analyst</a></td>
 <td>Arlington, VA</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4706357006?gh_jid=4706357006">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1e03d81-d3ad-4d47-8601-6ff117c9b55e">Integration &amp; Test Engineer, AI Satellites (Starmind)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8727656002?gh_jid=8727656002">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Accenture Federal Services</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/812d8f7b-44ed-4d14-9aae-631bd5fea2ad">OneFM Oracle Fusion Cloud Developer</a></td>
 <td>Washington, DC<br/>Arlington, VA</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4706300006?gh_jid=4706300006">Apply</a></td>
@@ -718,25 +704,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/f194bd92-733c-4c37-b35c-4bf40048ff8f">AI Systems Engineer - HPC</a></td>
-<td>US, CA, San Jose<br/>San Jose, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/89700?lang=en-us">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Cresta</strong></td>
 <td><a href="https://trueinterview.io/jobs/a6c823f1-a81c-4454-b1c5-023ae95be630">Customer Engineer, APAC</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/cresta/jobs/5389409008">Apply</a></td>
 <td align="center">16 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/d0f53483-d940-416c-b6c7-ffb72411d5e7">Software Engineer, Applied AI</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/clera/a624a624-7921-4689-9d49-0e50f1f47d50/application">Apply</a></td>
-<td align="center">15 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Applied Intuition</strong></td>
@@ -746,20 +718,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Anthropic</strong></td>
-<td><a href="https://trueinterview.io/jobs/f29ba1c5-1687-4e7a-a29b-ca89911abfb9">AI Operations Engineer, Partnerships</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5391151008">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lightspeed Commerce, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7da5927-a6c2-4415-8f76-2403d7df64d6">Chef d'équipe, ingénieur en analyse (Analytics Engineer)</a></td>
-<td>Montreal, QC</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/63bbe5e5-d0b6-4fe0-9af5-6d88d83205f0/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Clay Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/9d5f6c11-55bc-4e6c-8adc-723aaf5285d8">Machine Learning Engineer</a></td>
 <td>San Francisco, CA</td>
@@ -767,24 +725,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Gptzero</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9101e3b-2d3f-49c7-92ce-122e060ed7f1">Machine Learning Engineer</a></td>
-<td>Toronto Hybrid<br/>NYC Hybrid</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gptzero/d0b64cd5-101a-4581-a101-5f1d6a62d14e/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Raptive</strong></td>
 <td><a href="https://trueinterview.io/jobs/9698c181-ca76-446d-b66d-050a4c54847c">Ad Performance Analyst</a></td>
 <td>United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/raptive/626d94d3-4ca5-4158-bf3d-48cb41d23fa7/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>K Group Companies</strong></td>
-<td><a href="https://trueinterview.io/jobs/fcd1f423-8a9d-4399-bd7d-1a43832d72a5">Junior AI Engineer - Onsite</a></td>
-<td>Grand Rapids, Michigan</td>
-<td align="center"><a href="https://jobs.lever.co/kgroupcompanies/26491a9f-ac14-4f12-a1ff-a2b96bf0356e/apply">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>
@@ -967,6 +911,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbc1da5e-6607-428b-b27c-d042ee384d93">IN_Manager_AI/ML Engineer_GCC_Advisory_Bangalore</a></td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-QA-Software-Testing--Data-and-Analytics-Advisory-Bangalore_742709WD-1">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Clera</strong></td>
 <td><a href="https://trueinterview.io/jobs/f55c652a-4739-4b02-a9d2-89b1e7444b76">Entry-Level Robot Learning Engineer</a></td>
@@ -1402,20 +1353,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Creatoriq</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3eeaa7b-ce8b-4f08-a185-5151a26e0f6e">AI Automation Engineer</a></td>
-<td>São Paulo</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/creatoriq/4b1becd1-eb4a-46c2-abb3-2570b1302f17/application">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Getnet</strong></td>
-<td><a href="https://trueinterview.io/jobs/bcd23ea3-3a99-45ce-9671-8b42c6fb569d">Automation &amp; AI Engineer – Global Platform Finance Team</a></td>
-<td>Brazil - São Paulo/SP<br/>Getnet T&amp;O Brazil</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/getnet/jobs/4955618101">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Crowdgen By Appen</strong></td>
 <td><a href="https://trueinterview.io/jobs/1f0d12fb-45a2-485d-a846-a0fa4699fd5f">Machine Translation Evaluation – English to Japanese; Project Vistula Q3</a></td>
 <td>Japan</td>
@@ -1428,20 +1365,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hybrid (UK)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/posthog/8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3/application">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Iambic Therapeutics</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf8a47ea-fd20-458f-91ab-e807f47e02f7">Research Scientist I/II, Immunology</a></td>
-<td>San Diego HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/iambic-therapeutics/41e94f6a-c5ea-4c52-b527-e2976a08347d/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Knowbe4</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac050882-21d0-4f4b-b577-9c7ae9e5fcce">Analytics Engineer(Position located in Bengaluru, India)</a></td>
-<td>Bengaluru, India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8721151002">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Spreetail</strong></td>

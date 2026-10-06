@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**38 open roles.**
+**35 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -223,13 +223,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Creatoriq</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3eeaa7b-ce8b-4f08-a185-5151a26e0f6e">AI Automation Engineer</a></td>
-<td>São Paulo</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/creatoriq/4b1becd1-eb4a-46c2-abb3-2570b1302f17/application">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>C6 Bank</strong></td>
 <td><a href="https://trueinterview.io/jobs/169d4690-5036-47a5-ab77-b29f02c69c2e">Analista de Qualidade e Automação de Software Pleno | Onboarding</a></td>
 <td>São Paulo, Brazil<br/>C6 Bank</td>
@@ -237,21 +230,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Getnet</strong></td>
-<td><a href="https://trueinterview.io/jobs/bcd23ea3-3a99-45ce-9671-8b42c6fb569d">Automation &amp; AI Engineer – Global Platform Finance Team</a></td>
-<td>Brazil - São Paulo/SP<br/>Getnet T&amp;O Brazil</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/getnet/jobs/4955618101">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Thoughtworks</strong></td>
-<td><a href="https://trueinterview.io/jobs/aa762f2c-d14a-4cf2-81bf-d39bf7f1470b">Infrastructure Engineer focused on Observability and GCP</a></td>
-<td>Santiago, Chile<br/>Chile, Chile</td>
-<td align="center"><a href="https://www.thoughtworks.com/careers/jobs/8131779?gh_jid=8131779">Apply</a></td>
-<td align="center">16 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>C6 Bank</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/832e7aef-4aa9-4724-a6e6-2aac42447f89">Especialista de Customer Journey | Jornada do Cliente</a></td>
 <td>São Paulo, Brazil<br/>C6 Bank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4724341005">Apply</a></td>

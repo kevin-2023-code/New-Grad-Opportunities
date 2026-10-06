@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**32 open roles.** 15 in the United States & Canada · 17 elsewhere in the world. A real classification that none of the other sectors covers.
+**31 open roles.** 14 in the United States & Canada · 17 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -93,13 +93,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, WA<br/>Chicago, IL<br/>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.lever.co/gettyimages/dabcc694-43d7-41ca-9434-e80b16a55134/apply">Apply</a></td>
 <td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Level99 Entertainment</strong></td>
-<td><a href="https://trueinterview.io/jobs/ae4bb09c-14ba-43b9-8e57-424ca75dd16d">Design Engineer</a></td>
-<td>Greater Boston, MA</td>
-<td align="center"><a href="https://jobs.lever.co/level99/bad65767-b65f-40f8-be2a-ace7098d228f/apply">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Hasbro</strong></td>

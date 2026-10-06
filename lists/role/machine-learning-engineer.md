@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**31 open roles.** 21 in the United States & Canada · 10 elsewhere in the world.
+**29 open roles.** 19 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -137,24 +137,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/addee22f-4017-422d-b97c-d4700689115c">NVIDIA 2027 Internships: Deep Learning</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397026418">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Clay Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/9d5f6c11-55bc-4e6c-8adc-723aaf5285d8">Machine Learning Engineer</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/claylabs/d04f47c4-aed6-481d-a093-74c2ae4f3432/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Gptzero</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9101e3b-2d3f-49c7-92ce-122e060ed7f1">Machine Learning Engineer</a></td>
-<td>Toronto Hybrid<br/>NYC Hybrid</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gptzero/d0b64cd5-101a-4581-a101-5f1d6a62d14e/application">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>

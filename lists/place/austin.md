@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**59 open roles.**
+**58 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -355,13 +355,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1e03d81-d3ad-4d47-8601-6ff117c9b55e">Integration &amp; Test Engineer, AI Satellites (Starmind)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8727656002?gh_jid=8727656002">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4395c5e0-49ea-470b-b905-017bfbf4c136">New Graduate Engineer, Software  - '26/'27  (Starlink)</a></td>
 <td>Bastrop, TX<br/>Palo Alto, CA<br/>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002">Apply</a></td>

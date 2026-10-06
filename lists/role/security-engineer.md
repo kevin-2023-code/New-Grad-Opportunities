@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**32 open roles.** 23 in the United States & Canada · 9 elsewhere in the world.
+**30 open roles.** 22 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -144,13 +144,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Langchain</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa91ef0f-68fe-49ee-b92d-c4e09a911786">Security Engineer - Detection &amp; Response</a></td>
-<td>San Francisco, CA<br/>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/langchain/7b1e5ff7-4531-4d4a-8379-52a21b6d386d/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Palantir</strong></td>
 <td><a href="https://trueinterview.io/jobs/5e5a057f-7acd-4160-bed2-47d85229bac6">Offensive Security Engineer</a></td>
 <td>Washington, DC<br/>New York, NY<br/>Washington, D.C.</td>
@@ -238,13 +231,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Taipei, Taiwan</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/obsidiansecurity/jobs/5406173008">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Govtech</strong></td>
-<td><a href="https://trueinterview.io/jobs/e3848a0a-7eab-4b94-83e1-56c9cd489d96">Cybersecurity Engineer</a></td>
-<td>Singapore<br/>CEP Core Engineering Products</td>
-<td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005720201?gh_jid=4005720201">Apply</a></td>
-<td align="center">16 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Blueprint Technologies</strong></td>

@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**6 open roles.**
+**5 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,13 +51,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Calgary, AB</td>
 <td align="center"><a href="https://jobs.lever.co/dialogdesign/28f9a002-5318-4028-b4e1-70af7bcd9fd2/apply">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Fullscript</strong></td>
-<td><a href="https://trueinterview.io/jobs/e5527c30-c41a-4daf-b2f5-54c410b22942">Technical Support Specialist</a></td>
-<td>Calgary, AB<br/>Ottawa, ON<br/>Toronto, ON<br/>+1 more</td>
-<td align="center"><a href="https://jobs.lever.co/fullscript/a52e4915-8239-4581-8828-84661f070424/apply">Apply</a></td>
-<td align="center">18 Aug 2026</td>
 </tr>
 </tbody>
 </table>

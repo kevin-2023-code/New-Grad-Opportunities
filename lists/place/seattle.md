@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**49 open roles.**
+**47 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -263,25 +263,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/dfbd4ffd-8a84-429c-a3ef-dd181828ec34">Mechanical Engineer - Battery Pack, Satellites (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8716210002?gh_jid=8716210002">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Rover</strong></td>
 <td><a href="https://trueinterview.io/jobs/32ec8e4b-cbb8-4099-93ca-a2409c49fbf7">Software Engineer, Price Experience</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://jobs.lever.co/rover/a81ab324-969a-44f1-89b4-e7ff7487a735/apply">Apply</a></td>
 <td align="center">15 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce186936-fe26-43fb-b081-9d5908442428">Software Engineer, Compute Infrastructure</a></td>
-<td>Seattle, WA<br/>San Francisco, CA<br/>London, UK<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/ca300a6d-a2a7-4580-aad7-323fbdfee7b1/application">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
