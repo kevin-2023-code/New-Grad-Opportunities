@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**63 open roles.** 45 in the United States & Canada · 18 elsewhere in the world. Early-stage technology companies.
+**64 open roles.** 45 in the United States & Canada · 19 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -344,6 +344,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Robco</strong></td>
+<td><a href="https://trueinterview.io/jobs/3adef0fa-eb10-4a43-aa95-70791c74775b">Prototyping Engineer (m/f/d)</a></td>
+<td>Munich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/robco/df53c847-6e4c-4f50-9173-157c3d90e603/application">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Skydropx Frenet</strong></td>
 <td><a href="https://trueinterview.io/jobs/538dcd8c-5007-423c-a252-04e6d97ceee3">Coordenator Data Analyst</a></td>

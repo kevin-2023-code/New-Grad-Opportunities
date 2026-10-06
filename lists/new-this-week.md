@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**94 open roles.** 73 in the United States & Canada · 21 elsewhere in the world. Everything the employers put up this week.
+**100 open roles.** 75 in the United States & Canada · 25 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Roshal Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/861a2dae-6042-415d-9088-882308348f80">Ultrasound Technologist - North Charleston, SC</a></td>
+<td>North Charleston, SC</td>
+<td align="center"><a href="https://jobs.lever.co/roshalimaging/add3462c-2d37-4c9c-a8d6-367f2a42d73a/apply">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Torc Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/506d9fc3-806e-4a7b-a85d-5c85dc4133c4">Commissioning - Systems Engineer I</a></td>
+<td>Ann Arbor, MI</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/torcrobotics/jobs/8864848002">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pure Storage</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a81ca16-c214-47be-ace9-10f84deb91c0">Software Engineer Grad</a></td>
+<td>Santa Clara, California<br/>Office - Santa Clara</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8249851">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/23432519-8725-489c-befa-3b0e15ee711e">STA - CAD Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92751?lang=en-us">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d1fc712-ff26-4955-9b3f-5bfbe93730aa">System Software Engineer, Distributed Systems</a></td>
+<td>US, CA, Santa Clara</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Distributed-Systems_JR2026726-1">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>ParadeDB (YC S23, https://paradedb.com)</strong></td>
 <td><a href="https://trueinterview.io/jobs/41f6fa41-4240-4b99-b26b-47797a0744ca">ParadeDB (YC S23, / Database Internals Engineers, Platform Engineers / Remote or hybrid in San Francisco / Full-time</a></td>
@@ -390,13 +425,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/7d5e60e5-5265-4fa1-ba35-ef170b119260">Engineer, Reliability Engineering</a></td>
-<td>US, MA, Wilmington, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Engineer--Reliability-Engineering_R266604">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/df680497-eb1e-489f-9ec6-e22ee083a980">Field Applications Engineer - Power Management</a></td>
 <td>US, MA, Wilmington, United States of America</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Field-Applications-Engineer---Power-Management_R266686">Apply</a></td>
@@ -514,20 +542,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236290007?gh_jid=5236290007">Apply</a></td>
 <td align="center">28 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Ahead</strong></td>
-<td><a href="https://trueinterview.io/jobs/780f2848-fba0-4a98-812d-61f17f1e4b8a">Diagnostics Specialist of Returned Parts and Systems</a></td>
-<td>1200 Technology Way, Libertyville, Illinois</td>
-<td align="center"><a href="https://jobs.lever.co/thinkahead/65cceed2-497f-448b-a9c8-f6d7b6fa00a9/apply">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sqa Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b299d74-6abf-44ce-9b26-d9afc10609f6">Quality Inspector - Electromechanical</a></td>
-<td>Grand Prairie, TX<br/>Dallas, TX</td>
-<td align="center"><a href="https://jobs.lever.co/sqaservices/050ef80f-e9a4-4e25-aa5a-adbcc2bcd357/apply">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -540,6 +554,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/0057c1c2-17d2-4645-b8a0-4fdfa4759419">BIM Engineer - Public Health</a></td>
+<td>Mumbai, Maharashtra, India</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96919">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vatn Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecfb1456-85ad-466c-8a09-c1fcdefbdd3d">Test Engineer</a></td>
+<td>Bristol RI<br/>Tiverton</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vatnsystems/jobs/4435158009">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Robco</strong></td>
+<td><a href="https://trueinterview.io/jobs/3adef0fa-eb10-4a43-aa95-70791c74775b">Prototyping Engineer (m/f/d)</a></td>
+<td>Munich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/robco/df53c847-6e4c-4f50-9173-157c3d90e603/application">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Desjardins</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c4a29ac-e4a6-4299-8a1d-15f8d499781a">Advisor, Data engineering</a></td>
+<td>Montréal</td>
+<td align="center"><a href="https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Conseiller-ou-conseillre-en-ingnierie-des-donnes_R2612000-1">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/bbc1da5e-6607-428b-b27c-d042ee384d93">IN_Manager_AI/ML Engineer_GCC_Advisory_Bangalore</a></td>

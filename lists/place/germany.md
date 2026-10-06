@@ -2,7 +2,7 @@
 
 # 🇩🇪 Berlin, Munich & Germany
 
-**16 open roles.** 2 in the United States & Canada · 14 elsewhere in the world.
+**17 open roles.** 2 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,6 +43,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Robco</strong></td>
+<td><a href="https://trueinterview.io/jobs/3adef0fa-eb10-4a43-aa95-70791c74775b">Prototyping Engineer (m/f/d)</a></td>
+<td>Munich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/robco/df53c847-6e4c-4f50-9173-157c3d90e603/application">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Clera</strong></td>
 <td><a href="https://trueinterview.io/jobs/f55c652a-4739-4b02-a9d2-89b1e7444b76">Entry-Level Robot Learning Engineer</a></td>

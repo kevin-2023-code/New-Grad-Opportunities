@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**85 open roles.** 78 in the United States & Canada · 7 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**84 open roles.** 77 in the United States & Canada · 7 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -554,13 +554,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c66e4962-a1de-4857-a8a0-9cad3f923691">Automation &amp; Controls Engineer (Starlink)</a></td>
 <td>Redmond, WA<br/>Cape Canaveral, FL<br/>Hawthorne, CA<br/>+2 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8676957002?gh_jid=8676957002">Apply</a></td>
-<td align="center">7 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d6b62ad8-2686-45b7-b78f-ff3c9e9df491">RF Systems Analysis Engineer, Regulatory (Starlink)</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8691059002?gh_jid=8691059002">Apply</a></td>
 <td align="center">7 Aug 2026</td>
 </tr>
 </tbody>

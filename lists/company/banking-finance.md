@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**29 open roles.** 11 in the United States & Canada · 18 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**30 open roles.** 11 in the United States & Canada · 19 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -108,6 +108,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Desjardins</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c4a29ac-e4a6-4299-8a1d-15f8d499781a">Advisor, Data engineering</a></td>
+<td>Montréal</td>
+<td align="center"><a href="https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Conseiller-ou-conseillre-en-ingnierie-des-donnes_R2612000-1">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/59d4c64a-e8f2-4f66-b81c-2b78b8f520ff">Data Scientist, Credit Risk Quantification</a></td>
 <td>Montréal</td>
 <td align="center"><a href="https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Scientifique-de-donnes--Quantification-du-risque-de-crdit_R2611885">Apply</a></td>

@@ -83,7 +83,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/06e3befe-f132-44a8-a82a-79522d5c4430">Data Scientist - Pricing &amp; Profitability</a></td>
-<td>US, CA, San Jose<br/>San Jose, California, United States</td>
+<td>San Jose, California, United States<br/>US, CA, San Jose</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91414?lang=en-us">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
