@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**17 open roles.** 15 in the United States & Canada · 2 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**14 open roles.** 13 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -102,25 +102,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Albireo Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/19c54cbc-3106-4b07-b063-7775c83a1f82">Junior Engineer</a></td>
-<td>Denver, Colorado, United States</td>
-<td align="center"><a href="https://jobs.workable.com/view/uHiBtCCcQNsrtdPVLRjJuc/junior-engineer-in-denver-at-albireo-energy">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lunar Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/c13b372e-7236-4adc-8bc4-e0ce40e2a663">IT Support Technician</a></td>
-<td>Mountain View, CA<br/>HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lunarenergy/jobs/6140237004">Apply</a></td>
-<td align="center">10 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Sunsource</strong></td>
-<td><a href="https://trueinterview.io/jobs/4be76e12-8112-49ce-b2eb-367292b5ae7d">Technical Specialist - Hydraulic Systems Designer</a></td>
-<td>Grand Prairie, TX 75050<br/>Houston, TX 77028</td>
-<td align="center"><a href="https://jobs.lever.co/sunsrce/52e838a5-b19a-4ad0-8b21-89f9a5c8a58a/apply">Apply</a></td>
-<td align="center">10 Aug 2026</td>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b065beff-01b6-40b7-8b61-98f78c95cc1c">Quality Assurance Engineer- Program &amp; Project Delivery</a></td>
+<td>Columbia, SC<br/>Columbia, South Carolina</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5389021008">Apply</a></td>
+<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>
@@ -140,13 +126,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/trawa/0bad5ca2-95a8-4f5a-8a37-cd7892f97bd7/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f06b19ab-f8ff-46c9-a3b8-212b7a57e2cf">AI Solutions &amp; Process Engineer</a></td>
-<td>Berlin HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/trawa/c8b15b19-984f-43e7-9fb3-ff28a1d970f3/application">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>

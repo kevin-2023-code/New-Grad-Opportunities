@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**7 open roles.** 4 in the United States & Canada · 3 elsewhere in the world.
+**6 open roles.** 4 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -70,13 +70,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo, SP</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xpinc/jobs/8710018002">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cobre</strong></td>
-<td><a href="https://trueinterview.io/jobs/bb0ea56b-0fe1-40ca-b42a-80e1b3b5abae">Trader Posición Propia</a></td>
-<td>Ciudad de México, México<br/>México</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/cobre/jobs/4363684009">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>
