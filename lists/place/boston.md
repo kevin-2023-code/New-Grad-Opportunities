@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**48 open roles.**
+**49 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ElevenLabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/a64cf542-4b3c-4582-85cc-8ac8cfba8fba">Full-Stack Engineer (Back-End Leaning)</a></td>
+<td>Boston, MA<br/>Dublin<br/>New York, NY<br/>+8 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/a5efb471-ae6d-4c09-acae-39212fffb240">Systems Safety Engineer, Command &amp; Control (C2)</a></td>

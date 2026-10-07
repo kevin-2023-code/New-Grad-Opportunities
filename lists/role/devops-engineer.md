@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**9 open roles.** 5 in the United States & Canada · 4 elsewhere in the world.
+**11 open roles.** 6 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BDO</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa04d3c7-11a3-43a3-a55f-a5fe9b8bd826">DevOps Engineer - New Grad (January 2027)</a></td>
+<td>Toronto - Bay St</td>
+<td align="center"><a href="https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/DevOps-Engineer---New-Grad--January-2027-_JR7192-1">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Consensus</strong></td>
 <td><a href="https://trueinterview.io/jobs/28dd35ae-119a-46da-8eba-4fa55133aba4">DevOps Engineer</a> 🌐</td>
@@ -64,6 +71,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Swiftlink Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/addcf1ab-d909-44a3-8ebe-c0f85cfb789d">devops engineer</a></td>
+<td>Richmond (BC)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50447969">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Motorola Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/90752cfd-c5d7-4f70-ae19-411f174a1677">System Automation Engineer - AI &amp; Python Developer Experience</a></td>

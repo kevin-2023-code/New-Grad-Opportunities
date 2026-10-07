@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**5 open roles.** 2 in the United States & Canada · 3 elsewhere in the world.
+**7 open roles.** 4 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Zefr</strong></td>
+<td><a href="https://trueinterview.io/jobs/a001402e-8eee-4eda-8051-ed0a0f165485">Site Reliability Engineer</a></td>
+<td>Marina del Rey, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/zefr/4e71ac5e-0785-4d2a-a752-fe23740250d1/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b62718a-6307-4378-a218-f8d2a06c8cfa">Site Reliability Engineer I - Sales Operations</a></td>
+<td>Dallas, Texas, United States of America<br/>Herndon, Virginia, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Dallas-Texas-United-States-of-America/Site-Reliability-Engineer-I---Sales-Operations_1203341-1">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Lightspeed Commerce, Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/7e52f2f4-b979-4afe-81c9-1d746ff7f657">Gestionnaire, Ingénierie de la fiabilité des sites (SRE)</a></td>

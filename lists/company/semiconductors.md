@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**169 open roles.** 167 in the United States & Canada · 2 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**174 open roles.** 172 in the United States & Canada · 2 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,6 +25,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7d6bee89-bc79-4650-bf85-ef241866a3a8">Test Engineer</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/89771?lang=en-us">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Broadcom</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb768292-d1d7-4abe-a1e4-2dd2b4136f76">Spice Modeling Engineer</a></td>
+<td>USA-CA Irvine Alton Parkway Bldg 1, United States of America</td>
+<td align="center"><a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-1/Spice-Modeling-Engineer_R027251">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Infineon</strong></td>
 <td><a href="https://trueinterview.io/jobs/60d72652-7504-436b-9ee1-fe84ee9dcad2">Graduate - Equipment Engineer</a></td>
 <td>Leominster, MA, US</td>
@@ -39,10 +53,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/76737f8c-e83c-462a-a7f2-a1ae843f9b06">Ocotillo Technology Fabrication Vacuum Systems Group (VSG) Module Engineer</a></td>
+<td>US, Arizona, Phoenix, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Ocotillo-Technology-Fabrication-Vacuum-Systems-Group--VSG--Module-Engineer_JR0287824-1">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3d9a083-f274-4aaa-991e-01bbb208b272">Agentic AI Software Engineer - Equipment Data Analytics</a></td>
+<td>Milpitas, CA, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Agentic-AI-Software-Engineer---Equipment-Data-Analytics_2641710">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/5ab8dcf1-9893-49fb-ae68-4e68ba007f9d">Environmental Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44750182">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/078e67f3-8506-4bc9-a2a3-ba23fb64c64a">New College Grad - Facilities Electrical Engineer</a></td>
+<td>Manassas, VA, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44853728">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/5c41163e-f558-4076-9172-7dd7859d55b9">Research Scientist, Autonomous Systems and Physical AI Research - PhD New College Grad 2026</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893398051343">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
@@ -218,13 +260,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d57c5291-f6b8-4ab5-a3c9-24ded9d937fc">Field Application Engineer – Graduate Rotational Program</a></td>
 <td>San Jose, California, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/89552?lang=en-us">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/85d8090d-fe62-4689-b71b-1a08b5ce9e46">Data Scientist New College Grad- Bachelor's/Master's (Austin, TX)</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318333503">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>

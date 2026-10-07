@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**11 open roles.**
+**12 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Chime</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf65e583-bf89-4f46-8089-b63c7c98c123">Software Engineer, Trust &amp; Safety</a></td>
+<td>Chicago, IL<br/>San Francisco, CA<br/>San Francisco Office</td>
+<td align="center"><a href="https://boards.greenhouse.io/chime/jobs/8875663002?gh_jid=8875663002">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Chicago Public Media</strong></td>
 <td><a href="https://trueinterview.io/jobs/2c77ca20-9f68-4976-a6df-1c67109f18b9">Product Analyst</a></td>

@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**64 open roles.** 49 in the United States & Canada · 15 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**68 open roles.** 53 in the United States & Canada · 15 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ElevenLabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/a64cf542-4b3c-4582-85cc-8ac8cfba8fba">Full-Stack Engineer (Back-End Leaning)</a></td>
+<td>Dublin<br/>New York, NY<br/>Madrid<br/>+8 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hippocratic Ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c8caa14-3fd2-406c-a30c-5a007f602823">LLM Inference Systems Engineer</a></td>
+<td>Menlo Park, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hippocratic%20ai/5f6ec723-fb80-4144-b1c1-3b63ea04f8a9/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EliseAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a7f099e-877f-4963-ad9b-2e1932664599">Partnerships Integration Solutions Engineer</a></td>
+<td>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/eliseai/717fbb54-35f6-44df-88dc-d9e7669c9b93/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/b3fffe9c-7abb-4f55-bbec-bb3108b48bdf">Structural Engineer</a></td>
+<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/fd0a5844-a0c4-4b9e-81dc-df88e9ce712c/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Perplexity</strong></td>
 <td><a href="https://trueinterview.io/jobs/c67b307c-73ec-4adc-9619-7f013adaf946">Member of Technical Staff (New Grad)</a></td>

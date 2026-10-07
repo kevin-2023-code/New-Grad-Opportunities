@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**53 open roles.** 38 in the United States & Canada · 15 elsewhere in the world. Early-stage technology companies.
+**56 open roles.** 41 in the United States & Canada · 15 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hippocratic Ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c8caa14-3fd2-406c-a30c-5a007f602823">LLM Inference Systems Engineer</a></td>
+<td>Menlo Park, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hippocratic%20ai/5f6ec723-fb80-4144-b1c1-3b63ea04f8a9/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Incident.io</strong></td>
+<td><a href="https://trueinterview.io/jobs/84444530-582e-4b8d-b436-128fd4f6bc8d">Technical Support Engineer</a></td>
+<td>London<br/>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/incident/7221f4d5-43d8-4cd8-b247-d5a41cd30a5a/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/b3fffe9c-7abb-4f55-bbec-bb3108b48bdf">Structural Engineer</a></td>
+<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/fd0a5844-a0c4-4b9e-81dc-df88e9ce712c/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Ashby</strong></td>
 <td><a href="https://trueinterview.io/jobs/79a9c06c-dfb9-416b-8f12-6694234caa7a">QA Engineer</a> 🌐</td>

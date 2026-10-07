@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**36 open roles.** 21 in the United States & Canada · 15 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**37 open roles.** 22 in the United States & Canada · 15 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Chime</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf65e583-bf89-4f46-8089-b63c7c98c123">Software Engineer, Trust &amp; Safety</a></td>
+<td>Chicago, IL<br/>San Francisco, CA<br/>San Francisco Office</td>
+<td align="center"><a href="https://boards.greenhouse.io/chime/jobs/8875663002?gh_jid=8875663002">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/402922b2-1148-4941-8df6-78384cc5c4d7">Software Engineer - Android</a></td>

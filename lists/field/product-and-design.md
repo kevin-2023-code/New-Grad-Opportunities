@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**60 open roles.** 43 in the United States & Canada · 17 elsewhere in the world.
+**62 open roles.** 43 in the United States & Canada · 19 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -330,6 +330,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Skelar</strong></td>
+<td><a href="https://trueinterview.io/jobs/8bf7fe8f-a50e-4d0d-81cc-298704e162c5">Graphic Designer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skelar/7b925537-b2bd-4caa-b351-7480a449d22e/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c5777149-1555-4706-841d-ff2b55716821">Creative Motion Designer - RiseGuide</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skelar/c66be41e-5bbe-433f-a0a7-2ad24fea9dd4/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Bjak</strong></td>
 <td><a href="https://trueinterview.io/jobs/115689b2-c39e-4509-b442-18f9f759f05d">Product Owner, Technical - AI Finance</a></td>

@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**19 open roles.** 18 in the United States & Canada · 1 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**20 open roles.** 19 in the United States & Canada · 1 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/13f439c6-3b12-48c9-9866-941df8eb0c74">Network Quantitative Engineer</a></td>
 <td>Menlo Park, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/953481613947450/">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/45b03c5c-27d8-43ee-b5ea-21712d6a043c">Foundation Labs Engineer, Production Systems</a></td>
+<td>Austin, TX<br/>Prineville, OR, United States<br/>Fremont, CA, United States<br/>+1 more</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2623937954716288/">Apply</a></td>
 <td align="center">2 Oct 2026</td>
 </tr>
 <tr>

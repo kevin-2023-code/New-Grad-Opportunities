@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**43 open roles.**
+**45 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/63f3bffe-4183-4070-98ca-f9ed9ff376c3">Software Engineer - Security Platform</a></td>
+<td>Seattle, WA<br/>Atlanta, GA<br/>Austin, TX<br/>+9 more (hybrid)</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8243201?gh_jid=8243201">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/b3fffe9c-7abb-4f55-bbec-bb3108b48bdf">Structural Engineer</a></td>
+<td>Seattle, WA<br/>Austin, TX<br/>New York, NY<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/fd0a5844-a0c4-4b9e-81dc-df88e9ce712c/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/a664e30d-f509-47dc-a26a-3b384c5c8623">Data Engineer, 2027 Graduate U.S</a></td>

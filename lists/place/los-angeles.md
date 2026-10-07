@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**52 open roles.**
+**55 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ziprecruiter</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee8264df-a186-485b-95f1-7249dd29c666">IT Support Technician</a></td>
+<td>Santa Monica, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/ziprecruiter/jobs/8261588">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/2344779f-11bb-45c6-9fec-c5a8ab954def">Mission Software Engineer, Mission Systems, Cyber Security</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5260387007?gh_jid=5260387007">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zefr</strong></td>
+<td><a href="https://trueinterview.io/jobs/a001402e-8eee-4eda-8051-ed0a0f165485">Site Reliability Engineer</a></td>
+<td>Marina del Rey, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/zefr/4e71ac5e-0785-4d2a-a752-fe23740250d1/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/d09a3277-6154-4723-87b3-cb1e5d868d18">Space Orbital Software Engineer, Emerging Talent</a></td>

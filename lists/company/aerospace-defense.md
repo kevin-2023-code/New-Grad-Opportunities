@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**77 open roles.** 70 in the United States & Canada · 7 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**80 open roles.** 73 in the United States & Canada · 7 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ursa Major</strong></td>
+<td><a href="https://trueinterview.io/jobs/97d96bdd-3097-482f-a128-a7186b94319e">Systems Engineer</a></td>
+<td>Berthoud, Colorado</td>
+<td align="center"><a href="https://ursamajor.com/careers/?gh_jid=4741627005">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/2344779f-11bb-45c6-9fec-c5a8ab954def">Mission Software Engineer, Mission Systems, Cyber Security</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5260387007?gh_jid=5260387007">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hadrian Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/c37a2374-4e7d-409d-9893-761330602311">Technical Field Engineer</a></td>
+<td>Mesa, AZ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/c4dcabc2-9df8-47e1-978f-113b8f713e9f/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/a5efb471-ae6d-4c09-acae-39212fffb240">Systems Safety Engineer, Command &amp; Control (C2)</a></td>

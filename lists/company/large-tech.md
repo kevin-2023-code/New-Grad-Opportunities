@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**93 open roles.** 72 in the United States & Canada · 21 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**96 open roles.** 74 in the United States & Canada · 22 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/63f3bffe-4183-4070-98ca-f9ed9ff376c3">Software Engineer - Security Platform</a></td>
+<td>Atlanta, GA<br/>Austin, TX<br/>Denver, Colorado, United States<br/>+9 more (hybrid)</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8243201?gh_jid=8243201">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Chime</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf65e583-bf89-4f46-8089-b63c7c98c123">Software Engineer, Trust &amp; Safety</a></td>
+<td>Chicago, IL<br/>San Francisco, CA<br/>San Francisco Office</td>
+<td align="center"><a href="https://boards.greenhouse.io/chime/jobs/8875663002?gh_jid=8875663002">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Affirm</strong></td>
 <td><a href="https://trueinterview.io/jobs/74c8f638-b82a-4500-9658-c8641ba85367">Software Engineer I (New Grad 2027) (SF)</a></td>
@@ -533,6 +547,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Instructure, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/320f0058-a39a-4a21-8edb-195f117c1231">AI Platform Engineer</a></td>
+<td>Budapest, Hungary</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/instructure/76553c83-a3f2-4ec9-a227-ceda339e6d86/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Geotab</strong></td>
 <td><a href="https://trueinterview.io/jobs/2386d124-1dc6-456c-80f6-395c34548d32">Quality Assurance Analyst - Dubai (Full Relocation offered)</a></td>

@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**319 open roles.** 296 in the United States & Canada · 23 elsewhere in the world.
+**325 open roles.** 302 in the United States & Canada · 23 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ecfb7a3-0558-4f7d-9c79-11400b17971e">Entry-Level Civil Engineer - Site Design</a></td>
+<td>North Kansas City, MO<br/>Overland Park, KS</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5447062008">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Valinor Enterprises, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/58310207-ea35-432d-89bc-cadc09248b35">Electrical Engineer, Power Electronics PCB Design</a></td>
+<td>Cookeville, TN</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/valinor/49c9af23-2364-46ff-bd52-49476f5a3ea6/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a41c533-389c-497f-ada4-06c4f31bf10f">Early Career Civil Engineering (Overhead Transmission Lines)</a></td>
+<td>Birmingham, AL, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97100">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/b3fffe9c-7abb-4f55-bbec-bb3108b48bdf">Structural Engineer</a></td>
+<td>Austin, TX<br/>New York, NY<br/>San Francisco, CA<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/fd0a5844-a0c4-4b9e-81dc-df88e9ce712c/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Disher</strong></td>
 <td><a href="https://trueinterview.io/jobs/d38839bc-4fa5-4b07-859c-59e45afa7d46">Industrial Engineer - Contract</a></td>
 <td>Portage, MI</td>
@@ -29,6 +57,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5ab8dcf1-9893-49fb-ae68-4e68ba007f9d">Environmental Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44750182">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/078e67f3-8506-4bc9-a2a3-ba23fb64c64a">New College Grad - Facilities Electrical Engineer</a></td>
+<td>Manassas, VA, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44853728">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/e5bdabb0-0fc9-4b9e-b142-d957bf2817d4">Hardware Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40603">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**15 open roles.** 14 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**16 open roles.** 15 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Altalink</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe11ceda-dccd-4b76-8e5c-0322a808f2d3">Summer Student - Operational Engineering</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://jobs.workable.com/view/i11bwmPFhG4zAfNCELAFsT/summer-student---operational-engineering-in-calgary-at-altalink">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Lunar Energy</strong></td>
 <td><a href="https://trueinterview.io/jobs/131124d9-306f-42cd-ad4d-f3442caebff1">ATE Mechanical Engineer (Contractor)</a></td>

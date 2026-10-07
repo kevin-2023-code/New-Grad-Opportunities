@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**164 open roles.** 120 in the United States & Canada · 44 elsewhere in the world.
+**172 open roles.** 127 in the United States & Canada · 45 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Dlh</strong></td>
+<td><a href="https://trueinterview.io/jobs/79311c5d-e67d-4fd2-8844-738d5086edfb">CANES SME Course Developer  (Job 1488 )</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dlhcorporation/jobs/5260460007">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/dad44b0e-8b61-4c6d-9cbf-abe549b33bad">CANES SME Curriculum Developer (Job 1489)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dlhcorporation/jobs/5260470007">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OtterAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c50e8dc-61b9-47eb-8738-adc12c4f3078">Software Engineer, Front-End (New Grad)</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://otter.ai/careers?gh_jid=8016078003">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Replicant</strong></td>
+<td><a href="https://trueinterview.io/jobs/a90a99bc-d74a-4ad9-a451-2eee38812487">Support Software Engineer</a></td>
+<td>Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Replicant/620ed75e-4d20-40c4-b1e3-21604f99c399/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/63f3bffe-4183-4070-98ca-f9ed9ff376c3">Software Engineer - Security Platform</a></td>
+<td>Atlanta, GA<br/>Austin, TX<br/>Denver, Colorado, United States<br/>+9 more (hybrid)</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8243201?gh_jid=8243201">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/2344779f-11bb-45c6-9fec-c5a8ab954def">Mission Software Engineer, Mission Systems, Cyber Security</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5260387007?gh_jid=5260387007">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Chime</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf65e583-bf89-4f46-8089-b63c7c98c123">Software Engineer, Trust &amp; Safety</a></td>
+<td>Chicago, IL<br/>San Francisco, CA<br/>San Francisco Office</td>
+<td align="center"><a href="https://boards.greenhouse.io/chime/jobs/8875663002?gh_jid=8875663002">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>BMO</strong></td>
 <td><a href="https://trueinterview.io/jobs/345f4b3b-ff0e-4efa-a8ed-f5b22339ca96">Software Developer</a></td>
@@ -869,6 +918,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bees</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3b07364-0b53-4bff-b469-370bfb1de9d6">Intermediate Java Developer</a></td>
+<td>Campinas, São Paulo, Brazil<br/>Campinas, Brazil</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8870815002">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>DLGL TECHNOLOGIES CORPORATION</strong></td>
 <td><a href="https://trueinterview.io/jobs/f178ca8c-e313-4ce5-81ee-626ae07775ff">developer, software</a></td>

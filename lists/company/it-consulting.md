@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**74 open roles.** 49 in the United States & Canada · 25 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**78 open roles.** 53 in the United States & Canada · 25 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/1276a868-166c-4988-b239-f5323cd0f4d7">Service Desk Product &amp; Technical Specialist</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4719930006?gh_jid=4719930006">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dlh</strong></td>
+<td><a href="https://trueinterview.io/jobs/79311c5d-e67d-4fd2-8844-738d5086edfb">CANES SME Course Developer  (Job 1488 )</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dlhcorporation/jobs/5260460007">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/dad44b0e-8b61-4c6d-9cbf-abe549b33bad">CANES SME Curriculum Developer (Job 1489)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dlhcorporation/jobs/5260470007">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Megazone Cloud Us</strong></td>
+<td><a href="https://trueinterview.io/jobs/f506c6fb-0191-4950-a5d4-f973654058ef">AWS-09 — Database &amp; Backup Operations Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/megazone/5371da82-1468-43b6-8972-7300d6c5b31a/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/3891c707-b8ca-4597-9ec3-ea309b302f82">Delivery Consultant – IBM Maximo Application Suite</a></td>

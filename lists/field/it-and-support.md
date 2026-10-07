@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**123 open roles.** 95 in the United States & Canada · 28 elsewhere in the world.
+**127 open roles.** 99 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/1276a868-166c-4988-b239-f5323cd0f4d7">Service Desk Product &amp; Technical Specialist</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4719930006?gh_jid=4719930006">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ziprecruiter</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee8264df-a186-485b-95f1-7249dd29c666">IT Support Technician</a></td>
+<td>Santa Monica, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/ziprecruiter/jobs/8261588">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Incident.io</strong></td>
+<td><a href="https://trueinterview.io/jobs/84444530-582e-4b8d-b436-128fd4f6bc8d">Technical Support Engineer</a></td>
+<td>London<br/>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/incident/7221f4d5-43d8-4cd8-b247-d5a41cd30a5a/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Legora Ab</strong></td>
+<td><a href="https://trueinterview.io/jobs/96e622c1-697b-461a-ab23-2a6dfdda7f93">Workplace Network Engineer</a></td>
+<td>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/legora/d6adf24c-ad91-416e-92f6-b04d09dc767b/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/3891c707-b8ca-4597-9ec3-ea309b302f82">Delivery Consultant – IBM Maximo Application Suite</a></td>
