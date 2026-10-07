@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**49 open roles.** 35 in the United States & Canada · 14 elsewhere in the world. Early-stage technology companies.
+**53 open roles.** 38 in the United States & Canada · 15 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -262,6 +262,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/exa/c542d672-691c-46c1-9741-856d66f2c2ea/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
+<tr>
+<td><strong>Uniswap Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/a513d8d0-76c4-4e73-a318-ecbca91fc09d">Software Engineer- General Interest</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/uniswap/bb981823-b923-4f53-95ba-19d732c1caf3/application">Apply</a></td>
+<td align="center">12 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/7416d491-c760-4924-b07d-16ca8bdc9ecd">Compute Engineer, Deployment</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/73a25138-e2eb-4490-8fdb-c7b9f4938395/application">Apply</a></td>
+<td align="center">11 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Lovable</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a2182f6-d6be-47a6-a724-ee04e60500c7">Analytics Engineer</a></td>
+<td>Stockholm<br/>Boston, MA<br/>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lovable/d92292d5-a9f5-4637-9d86-77e95bf66970/application">Apply</a></td>
+<td align="center">9 Aug 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -371,6 +392,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Almaty, Kazakhstan</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/higgsfieldai/47d807b6-e32b-4e51-9440-cd9eb7cf2e10/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Skydropx Frenet</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ef237bf-b528-4f1f-9e84-c00dcb5d2ad0">Data Analyst Jr</a></td>
+<td>Bogotá</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydropx/35d8afdc-6043-4ee2-8bb7-f4b1eb218a83/application">Apply</a></td>
+<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -236,10 +236,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/abc4c18d-4b13-443d-8389-71911ce4c1da">Junior Substation Designer</a></td>
-<td>Minneapolis, MN, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93183">Apply</a></td>
-<td align="center">13 Aug 2026</td>
+<td><a href="https://trueinterview.io/jobs/be319c33-3cc4-4285-922b-d70f9c9f5ff4">Early Professional, Acoustics and Vibrations Engineering</a></td>
+<td>Aurora, ON, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90849">Apply</a></td>
+<td align="center">10 Aug 2026</td>
 </tr>
 </tbody>
 </table>

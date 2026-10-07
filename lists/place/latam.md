@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**32 open roles.**
+**33 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -242,6 +242,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo, SP</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xpinc/jobs/8710018002">Apply</a></td>
 <td align="center">13 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Bw</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a7d8b88-6389-439d-8e9e-8ff6e0c6b0d1">BW - Especialista Engenheiro Dados</a></td>
+<td>São Paulo - SP<br/>Sao Paulo - Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/bw/jobs/5371054008">Apply</a></td>
+<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>

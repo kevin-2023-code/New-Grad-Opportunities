@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**23 open roles.** 15 in the United States & Canada · 8 elsewhere in the world.
+**24 open roles.** 16 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -121,6 +121,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United States</td>
 <td align="center"><a href="https://www.bill.com/job?6142609004&amp;gh_jid=6142609004">Apply</a></td>
 <td align="center">13 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Pelmorex</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e03e878-73c8-4810-9e96-dd74aad45bed">Data Scientist - Hybrid</a></td>
+<td>Oakville, Canada</td>
+<td align="center"><a href="https://jobs.lever.co/pelmorex/d3299ab7-014e-414d-a9e1-be27875af247/apply">Apply</a></td>
+<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>

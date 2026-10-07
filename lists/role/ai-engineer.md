@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**31 open roles.** 18 in the United States & Canada · 13 elsewhere in the world.
+**30 open roles.** 17 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -128,13 +128,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, CA</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43815479">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Nuna</strong></td>
-<td><a href="https://trueinterview.io/jobs/b693e994-1b5e-4925-8d78-803518756fcc">Software Engineer, AI Evaluation</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/nuna/6d313b04-d9ad-4db7-98d4-cb16d59c3ca1/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Agiloft</strong></td>

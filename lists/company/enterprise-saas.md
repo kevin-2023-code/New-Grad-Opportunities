@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**56 open roles.** 38 in the United States & Canada · 18 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**59 open roles.** 41 in the United States & Canada · 18 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -283,6 +283,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.lever.co/agiloft/da2bdd58-3001-47b3-8dad-fe6a0f90be88/apply">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
+<tr>
+<td><strong>Achievers</strong></td>
+<td><a href="https://trueinterview.io/jobs/13df8fd7-3041-409d-afdb-e4fe920bbab1">Technical Support Analyst</a></td>
+<td>Toronto, ON</td>
+<td align="center"><a href="https://jobs.lever.co/achievers/b0e92c1c-1b9e-4611-838f-f1e83cd82157/apply">Apply</a></td>
+<td align="center">12 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Quantcast</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e51fe60-db3b-4f6c-a62d-6436985753c1">Software Engineer - Full Stack</a> 🛂</td>
+<td>San Francisco, CA<br/>SF</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/quantcast/09271839-e273-472b-948d-3d362867f809/application">Apply</a></td>
+<td align="center">11 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Oracle</strong></td>
+<td><a href="https://trueinterview.io/jobs/29f95713-5f0f-4e8f-9d40-e82a1938bb58">Systems Software Engineer 1</a></td>
+<td>Nashville, TN, United States</td>
+<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/342326">Apply</a></td>
+<td align="center">11 Aug 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -401,13 +422,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Limble</strong></td>
-<td><a href="https://trueinterview.io/jobs/dbe15fe4-e353-42d5-87d9-753876763f0d">Salesforce Platform Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/limble/35137a07-3143-4f00-9572-8ecd2a2cf6f8/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Notion</strong></td>
 <td><a href="https://trueinterview.io/jobs/a27c7c2f-01ac-4bc9-8d0e-1d8a236c4fcc">Workplace Technology Operation (Contractor), Dublin</a></td>
 <td>Dublin, Ireland</td>
@@ -420,6 +434,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Tokyo, Japan</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/notion/5ea0ebb1-296a-4b41-b598-b2696d20d238/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>360dialog Gmbh</strong></td>
+<td><a href="https://trueinterview.io/jobs/4bfc6c25-bfc8-418c-896b-488e97247612">Infrastructure Engineer | Remote</a></td>
+<td>Portugal<br/>Romania<br/>Argentina<br/>+2 more</td>
+<td align="center"><a href="https://jobs.workable.com/view/rBDL3THA7JXWJTFZATTGNb/infrastructure-engineer-%7C-remote-in-portugal-at-360dialog-gmbh">Apply</a></td>
+<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>

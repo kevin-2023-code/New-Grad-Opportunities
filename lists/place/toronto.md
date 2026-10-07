@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**30 open roles.**
+**31 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -226,6 +226,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, ON</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/appdirect/jobs/8722315002">Apply</a></td>
 <td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Achievers</strong></td>
+<td><a href="https://trueinterview.io/jobs/13df8fd7-3041-409d-afdb-e4fe920bbab1">Technical Support Analyst</a></td>
+<td>Toronto, ON</td>
+<td align="center"><a href="https://jobs.lever.co/achievers/b0e92c1c-1b9e-4611-838f-f1e83cd82157/apply">Apply</a></td>
+<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -18,15 +18,15 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-07 02:13 UTC_
+_Last updated: 2026-10-07 10:07 UTC_
 
-**256 open new-grad roles** from **194 employers** · **15 posted in the last 7 days** · refreshed hourly
+**265 open new-grad roles** from **198 employers** · **15 posted in the last 7 days** · refreshed hourly
 
-### Browse 256 new-grad roles by field
+### Browse 265 new-grad roles by field
 
-💻 **[Software Engineering](#-software-engineering)** (119)
+💻 **[Software Engineering](#-software-engineering)** (123)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (67)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (71)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (24)
 
@@ -34,7 +34,7 @@ _Last updated: 2026-10-07 02:13 UTC_
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (2)
 
-🧰 **[IT & Support](#-it--support)** (28)
+🧰 **[IT & Support](#-it--support)** (29)
 
 ---
 
@@ -42,11 +42,11 @@ _Last updated: 2026-10-07 02:13 UTC_
 
 _Counts are new-grad roles in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🧾 IT services & consulting (23)](lists/company/it-consulting.md) · [🏗️ Large tech (1,000–9,999) (20)](lists/company/large-tech.md) · [🏛️ Big Tech (18)](lists/company/big-tech.md) · [🏢 Enterprise & business software (18)](lists/company/enterprise-saas.md) · [🏦 Banks, insurers & asset managers (17)](lists/company/banking-finance.md) · [🌱 Startups (under 200) (14)](lists/company/startups.md) · [🧠 AI labs & AI infrastructure (13)](lists/company/ai.md) · [💳 Fintech, payments & crypto (13)](lists/company/fintech.md) · [🏤 Mid-sized tech (200–999) (13)](lists/company/mid-size-tech.md) · [💼 Other industries (13)](lists/company/other-industry.md) · [+13 more →](lists/README.md)
+🏷️ **By company type** — [🧾 IT services & consulting (23)](lists/company/it-consulting.md) · [🏗️ Large tech (1,000–9,999) (21)](lists/company/large-tech.md) · [🏛️ Big Tech (18)](lists/company/big-tech.md) · [🏢 Enterprise & business software (18)](lists/company/enterprise-saas.md) · [🏦 Banks, insurers & asset managers (17)](lists/company/banking-finance.md) · [🧠 AI labs & AI infrastructure (15)](lists/company/ai.md) · [🌱 Startups (under 200) (15)](lists/company/startups.md) · [🛒 E-commerce & marketplaces (13)](lists/company/ecommerce-marketplace.md) · [💳 Fintech, payments & crypto (13)](lists/company/fintech.md) · [🏤 Mid-sized tech (200–999) (13)](lists/company/mid-size-tech.md) · [+13 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (41)](lists/role/software-engineer.md) · [Data Analyst (14)](lists/role/data-analyst.md) · [AI Engineer (13)](lists/role/ai-engineer.md) · [Backend Engineer (9)](lists/role/backend-engineer.md) · [Machine Learning Engineer (9)](lists/role/machine-learning-engineer.md) · [Platform Engineer (9)](lists/role/platform-engineer.md) · [Data Scientist (8)](lists/role/data-scientist.md) · [Security Engineer (8)](lists/role/security-engineer.md) · [Data Engineer (6)](lists/role/data-engineer.md) · [Full-Stack Engineer (6)](lists/role/full-stack-engineer.md) · [+5 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (43)](lists/role/software-engineer.md) · [Data Analyst (15)](lists/role/data-analyst.md) · [AI Engineer (13)](lists/role/ai-engineer.md) · [Backend Engineer (9)](lists/role/backend-engineer.md) · [Machine Learning Engineer (9)](lists/role/machine-learning-engineer.md) · [Data Engineer (8)](lists/role/data-engineer.md) · [Data Scientist (8)](lists/role/data-scientist.md) · [Platform Engineer (8)](lists/role/platform-engineer.md) · [Security Engineer (8)](lists/role/security-engineer.md) · [Full-Stack Engineer (6)](lists/role/full-stack-engineer.md) · [+5 more →](lists/README.md)
 
-📍 **By location** — [🌎 México, Brazil & Latin America (32)](lists/place/latam.md) · [🇬🇧 London & the UK (22)](lists/place/uk.md) · [🇮🇳 Bengaluru & India (12)](lists/place/india.md) · [🇩🇪 Berlin, Munich & Germany (10)](lists/place/germany.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (9)](lists/place/anz.md) · [🇫🇷 Paris & France (5)](lists/place/france.md) · [🏰 Warsaw, Kraków & Central Europe (5)](lists/place/poland-cee.md) · [🇪🇸 Madrid, Barcelona & Iberia (4)](lists/place/iberia.md) · [🇸🇬 Singapore (4)](lists/place/singapore.md)
+📍 **By location** — [🌎 México, Brazil & Latin America (33)](lists/place/latam.md) · [🇬🇧 London & the UK (22)](lists/place/uk.md) · [🇮🇳 Bengaluru & India (13)](lists/place/india.md) · [🇩🇪 Berlin, Munich & Germany (11)](lists/place/germany.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (9)](lists/place/anz.md) · [🇫🇷 Paris & France (5)](lists/place/france.md) · [🏰 Warsaw, Kraków & Central Europe (5)](lists/place/poland-cee.md) · [🇪🇸 Madrid, Barcelona & Iberia (4)](lists/place/iberia.md) · [🇸🇬 Singapore (4)](lists/place/singapore.md)
 
 ⚡ **Quick filters** — [🌐 Remote (36)](lists/remote.md) · [🆕 Posted in the last 7 days (15)](lists/new-this-week.md)
 
@@ -223,7 +223,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/08d1cb84-509e-430e-9a54-35d62a0fb1d0">Drone Firmware Software Dev Engineer, Ring Robotics Platform Engineering</a></td>
 <td>GB, Cambridge</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10559120/drone-firmware-software-dev-engineer-ring-robotics-platform-engineering">Apply</a></td>
-<td align="center">12d</td>
+<td align="center">13d</td>
 </tr>
 <tr>
 <td><strong>Framework</strong></td>
@@ -612,7 +612,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 75 of 119.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 123.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -1080,7 +1080,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 63 of 67.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 63 of 71.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -1163,7 +1163,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/935282f4-d801-41f6-9c1a-7e76ed24068a">Junior Verification Engineer</a></td>
 <td>IL, Haifa</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10542015/junior-verification-engineer">Apply</a></td>
-<td align="center">21d</td>
+<td align="center">22d</td>
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>
@@ -1513,7 +1513,7 @@ _Nothing posted in the last 14 days. The older roles below are still open._
 </table>
 
 <details>
-<summary>Show 21 more IT & Support roles posted earlier</summary>
+<summary>Show 22 more IT & Support roles posted earlier</summary>
 
 <table>
 <thead>
@@ -1665,6 +1665,13 @@ _Nothing posted in the last 14 days. The older roles below are still open._
 <td><a href="https://trueinterview.io/jobs/96818748-f2fc-40f7-aae9-46f1cc17eff0">Workplace Technology Operation (Contractor), Tokyo</a></td>
 <td>Tokyo, Japan</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/notion/5ea0ebb1-296a-4b41-b598-b2696d20d238/application">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
+<tr>
+<td><strong>Buena</strong></td>
+<td><a href="https://trueinterview.io/jobs/25ede0a7-7273-4c73-a554-85a7758cc188">Software Trainer (m/f/d)</a></td>
+<td>Berlin</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/buena/2850577e-e341-4b80-9658-74dbd37345ab/application">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
 </tbody>

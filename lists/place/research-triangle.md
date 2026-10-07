@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**21 open roles.**
+**20 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -155,13 +155,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/039cc754-c139-45db-bbaa-7d611e4e4a23">Engineering One - Nuclear</a></td>
 <td>Columbia, South Carolina<br/>Washington, DC<br/>Columbia, SC or Washington, DC<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5389735008">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b065beff-01b6-40b7-8b61-98f78c95cc1c">Quality Assurance Engineer- Program &amp; Project Delivery</a></td>
-<td>Columbia, SC<br/>Columbia, South Carolina</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5389021008">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 </tbody>

@@ -31,23 +31,23 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-07 02:13 UTC_
+_Last updated: 2026-10-07 10:07 UTC_
 
-**789 open new-grad roles** from **392 employers** · **58 posted in the last 7 days** · refreshed hourly
+**825 open new-grad roles** from **409 employers** · **58 posted in the last 7 days** · refreshed hourly
 
-### Browse 789 new-grad roles by field
+### Browse 825 new-grad roles by field
 
-💻 **[Software Engineering](#-software-engineering)** (273)
+💻 **[Software Engineering](#-software-engineering)** (280)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (107)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (109)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (278)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (294)
 
-📱 **[Product & Design](#-product--design)** (40)
+📱 **[Product & Design](#-product--design)** (43)
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (4)
 
-🧰 **[IT & Support](#-it--support)** (87)
+🧰 **[IT & Support](#-it--support)** (95)
 
 ---
 
@@ -63,13 +63,13 @@ _Last updated: 2026-10-07 02:13 UTC_
 
 _Counts are new-grad roles in the United States & Canada. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (238)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (156)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (70)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (70)](lists/company/large-tech.md) · [🚀 Aerospace & defence (65)](lists/company/aerospace-defense.md) · [🧠 AI labs & AI infrastructure (46)](lists/company/ai.md) · [🧾 IT services & consulting (42)](lists/company/it-consulting.md) · [🏢 Enterprise & business software (38)](lists/company/enterprise-saas.md) · [🏤 Mid-sized tech (200–999) (35)](lists/company/mid-size-tech.md) · [🌱 Startups (under 200) (35)](lists/company/startups.md) · [+13 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (246)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (162)](lists/company/semiconductors.md) · [🏗️ Large tech (1,000–9,999) (72)](lists/company/large-tech.md) · [🖥️ Hardware, devices & networking (70)](lists/company/hardware-devices.md) · [🚀 Aerospace & defence (69)](lists/company/aerospace-defense.md) · [🧠 AI labs & AI infrastructure (49)](lists/company/ai.md) · [🧾 IT services & consulting (49)](lists/company/it-consulting.md) · [🏢 Enterprise & business software (41)](lists/company/enterprise-saas.md) · [🏤 Mid-sized tech (200–999) (38)](lists/company/mid-size-tech.md) · [🌱 Startups (under 200) (38)](lists/company/startups.md) · [+13 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (115)](lists/role/software-engineer.md) · [Hardware Engineer (42)](lists/role/hardware-engineer.md) · [Security Engineer (20)](lists/role/security-engineer.md) · [Data Engineer (19)](lists/role/data-engineer.md) · [AI Engineer (18)](lists/role/ai-engineer.md) · [Machine Learning Engineer (17)](lists/role/machine-learning-engineer.md) · [Data Scientist (15)](lists/role/data-scientist.md) · [Full-Stack Engineer (15)](lists/role/full-stack-engineer.md) · [Embedded Engineer (14)](lists/role/embedded-engineer.md) · [Backend Engineer (11)](lists/role/backend-engineer.md) · [+7 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (118)](lists/role/software-engineer.md) · [Hardware Engineer (46)](lists/role/hardware-engineer.md) · [Security Engineer (23)](lists/role/security-engineer.md) · [Data Engineer (21)](lists/role/data-engineer.md) · [AI Engineer (17)](lists/role/ai-engineer.md) · [Machine Learning Engineer (17)](lists/role/machine-learning-engineer.md) · [Data Scientist (16)](lists/role/data-scientist.md) · [Full-Stack Engineer (15)](lists/role/full-stack-engineer.md) · [Embedded Engineer (14)](lists/role/embedded-engineer.md) · [Backend Engineer (11)](lists/role/backend-engineer.md) · [+7 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (204)](lists/place/bay-area.md) · [🗽 New York City (68)](lists/place/new-york.md) · [🎸 Austin (52)](lists/place/austin.md) · [🌴 Los Angeles & Orange County (50)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (44)](lists/place/boston.md) · [🌲 Seattle & Puget Sound (41)](lists/place/seattle.md) · [🌧️ Portland, Boise & Spokane (34)](lists/place/pacific-northwest.md) · [🍁 Toronto, Waterloo & Ottawa (30)](lists/place/toronto.md) · [🏛️ Washington DC & Northern Virginia (30)](lists/place/washington-dc.md) · [🌵 Phoenix & Arizona (22)](lists/place/phoenix.md) · [+13 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (206)](lists/place/bay-area.md) · [🗽 New York City (71)](lists/place/new-york.md) · [🎸 Austin (54)](lists/place/austin.md) · [🌴 Los Angeles & Orange County (52)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (46)](lists/place/boston.md) · [🌲 Seattle & Puget Sound (43)](lists/place/seattle.md) · [🌧️ Portland, Boise & Spokane (36)](lists/place/pacific-northwest.md) · [🏛️ Washington DC & Northern Virginia (34)](lists/place/washington-dc.md) · [🍁 Toronto, Waterloo & Ottawa (31)](lists/place/toronto.md) · [🌵 Phoenix & Arizona (25)](lists/place/phoenix.md) · [+14 more →](lists/README.md)
 
-⚡ **Quick filters** — [🌐 Remote (64)](lists/remote.md) · [🆕 Posted in the last 7 days (58)](lists/new-this-week.md)
+⚡ **Quick filters** — [🌐 Remote (69)](lists/remote.md) · [🆕 Posted in the last 7 days (58)](lists/new-this-week.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -619,7 +619,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/3cf8afc7-2deb-4821-981e-b7a4b219d4d8">Software Engineer, Code Quality</a></td>
 <td>San Francisco, CA<br/>Seattle, WA<br/>New York, NY<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8202736">Apply</a></td>
-<td align="center">21d</td>
+<td align="center">22d</td>
 </tr>
 <tr>
 <td><strong>Atlassian</strong></td>
@@ -633,7 +633,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 273.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 280.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -740,7 +740,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/6d658af9-591d-4b44-a6fc-c6eca79868e9">Data Engineer, Early Career - 2026 (CAN)</a></td>
 <td>CA, ON, Toronto</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can">Apply</a></td>
-<td align="center">12d</td>
+<td align="center">13d</td>
 </tr>
 <tr>
 <td><strong>Graphcore</strong></td>
@@ -775,7 +775,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/797071da-7feb-4384-97e0-3078b28dd38a">Research Scientist, AI Secure Code, DeepMind</a></td>
 <td>Mountain View, CA<br/>San Francisco, CA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/74431926638650054-research-scientist-ai-secure-code-deepmind">Apply</a></td>
-<td align="center">13d</td>
+<td align="center">14d</td>
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
@@ -1171,7 +1171,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 73 of 107.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 73 of 109.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -1412,13 +1412,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/9924589f-8509-4dc5-88c8-e586b629e2f9">Systems / Software Engineer I Graduate</a></td>
-<td>Roseville, California, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Systems---Software-Engineer-I-Graduate_1214984">Apply</a></td>
-<td align="center">16d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/454e2523-e06d-478e-ab79-5318fc1792eb">VLSI Engineer I Graduate</a></td>
 <td>Sunnyvale, California, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/VLSI-Engineer-I-Graduate_1214995">Apply</a></td>
@@ -1653,14 +1646,14 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/acb3851c-1789-4173-a762-a39468742a53">Associate Equipment Engineer</a></td>
 <td>US, OR, Beaverton, United States of America</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Associate-Equipment-Engineer_R263682">Apply</a></td>
-<td align="center">20d</td>
+<td align="center">21d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3362f4b4-e8a3-44ef-bf0e-b8de4d4706b3">Product Engineer / Design Evaluation</a></td>
 <td>US, MA, Wilmington, United States of America</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer---RF-System_R263805">Apply</a></td>
-<td align="center">20d</td>
+<td align="center">21d</td>
 </tr>
 <tr>
 <td><strong>Kairos Power</strong></td>
@@ -1718,12 +1711,19 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center"><a href="https://jobs.lever.co/walkerconsultants/287cda6a-7ef8-4dcf-93de-9194c04cbb3f/apply">Apply</a></td>
 <td align="center">21d</td>
 </tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/18ad59bd-3ae0-4ca4-8fd1-dc73de7124ce">ADAS Help Me Drive Verification &amp; Validation Engineer</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66937">Apply</a></td>
+<td align="center">21d</td>
+</tr>
 </tbody>
 </table>
 
 </details>
 
-**Showing 75 of 278.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
+**Showing 75 of 294.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
 
 ## 📱 Product & Design
 
@@ -1794,7 +1794,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </table>
 
 <details>
-<summary>Show 32 more Product & Design roles posted earlier</summary>
+<summary>Show 35 more Product & Design roles posted earlier</summary>
 
 <table>
 <thead>
@@ -1883,7 +1883,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/d3d67369-d61a-46dd-b535-353dd58d9c00">Product Design, Entry-Level (2027 start)</a></td>
 <td>San Francisco, CA<br/>New York, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8188161">Apply</a></td>
-<td align="center">26d</td>
+<td align="center">27d</td>
 </tr>
 <tr>
 <td><strong>Ubisoft</strong></td>
@@ -2012,17 +2012,38 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center">1mo</td>
 </tr>
 <tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/abc4c18d-4b13-443d-8389-71911ce4c1da">Junior Substation Designer</a></td>
-<td>Minneapolis, MN, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93183">Apply</a></td>
-<td align="center">1mo</td>
-</tr>
-<tr>
 <td><strong>Coates Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/581f4886-fbc2-4245-8ced-5a8ca6baae63">Product Designer</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://jobs.lever.co/coatesgroup/06d80cfa-b6f0-4e81-83c2-3b34b4083cde/apply">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
+<tr>
+<td><strong>Thinkingbox</strong></td>
+<td><a href="https://trueinterview.io/jobs/57a93eea-8a19-46f0-81b6-c66b4b2154be">Designer - Thinkingbox</a></td>
+<td>Vancouver, BC</td>
+<td align="center"><a href="https://jobs.lever.co/thinkingbox/a90629b1-9cea-4a33-bdb8-da5e9ef55ba9/apply">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/5705c9e5-acc7-4376-bb8c-dae9199ba27a">Software Product Designer</a></td>
+<td>Somerville, Massachusetts</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8126211/apply/?gh_jid=8126211">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
+<tr>
+<td><strong>Redhorse Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f679bd1-b8dd-4c6c-a999-1c2074d3388f">UX/UI Designer</a></td>
+<td>Huntsville, AL</td>
+<td align="center"><a href="https://jobs.lever.co/redhorsecorp/c9494346-6f29-4349-8266-fde069c302d5/apply">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
+<tr>
+<td><strong>Anthropic</strong></td>
+<td><a href="https://trueinterview.io/jobs/71bffff6-65f6-45d8-bbf5-54d39b84923e">Product Designer, People Products</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5383660008">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
 </tbody>
@@ -2623,7 +2644,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 73 of 87.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
+**Showing 73 of 95.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
 
 <!-- LISTINGS:END -->
 ---
