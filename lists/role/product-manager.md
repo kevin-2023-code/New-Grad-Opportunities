@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**13 open roles.** 11 in the United States & Canada · 2 elsewhere in the world.
+**14 open roles.** 11 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -106,6 +106,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bjak</strong></td>
+<td><a href="https://trueinterview.io/jobs/115689b2-c39e-4509-b442-18f9f759f05d">Product Owner, Technical - AI Finance</a></td>
+<td>Singapore<br/>Sweden<br/>Spain</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/bjakcareer/97fb6275-3f90-420d-9a1a-579d11adcf92/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Monks</strong></td>
 <td><a href="https://trueinterview.io/jobs/3598b734-2906-4dd4-957d-48147e5c9219">AI Product Owner (banco de talentos)</a></td>

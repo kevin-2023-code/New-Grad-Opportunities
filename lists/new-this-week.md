@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**73 open roles.** 58 in the United States & Canada · 15 elsewhere in the world. Everything the employers put up this week.
+**90 open roles.** 68 in the United States & Canada · 22 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,76 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Asana</strong></td>
+<td><a href="https://trueinterview.io/jobs/18216ed1-3d6c-4654-9a04-ed6426323908">Workday Integration Engineer</a></td>
+<td>Vancouver, BC</td>
+<td align="center"><a href="https://www.asana.com/jobs/apply/8214792?gh_jid=8214792">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5efb471-ae6d-4c09-acae-39212fffb240">Systems Safety Engineer, Command &amp; Control (C2)</a></td>
+<td>Waltham, Massachusetts, United States<br/>Broomfield, Colorado, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5260227007?gh_jid=5260227007">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Disher</strong></td>
+<td><a href="https://trueinterview.io/jobs/d38839bc-4fa5-4b07-859c-59e45afa7d46">Industrial Engineer - Contract</a></td>
+<td>Portage, MI</td>
+<td align="center"><a href="https://jobs.lever.co/disher/32482a62-f1a4-4239-ba30-025251e4e26d/apply">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/af4bdf19-0191-4570-b868-79963bb7dd40">Power Methodology and Modelling Engineer</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/93170?lang=en-us">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BMO</strong></td>
+<td><a href="https://trueinterview.io/jobs/345f4b3b-ff0e-4efa-a8ed-f5b22339ca96">Software Developer</a></td>
+<td>Toronto, ON, CAN</td>
+<td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260019384">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/adc8ae4a-b260-4abd-8370-6b32e2254499">Machine Learning Engineer - CTO innovations</a></td>
+<td>San Francisco, California, US, United States of America<br/>San Jose, California, US</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Machine-Learning-Engineer---CTO-innovations_2026806">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/60d72652-7504-436b-9ee1-fe84ee9dcad2">Graduate - Equipment Engineer</a></td>
+<td>Leominster, MA, US</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971997918">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/642265aa-9f0a-42a2-add2-fe928a035e17">Defect Characterization Low Yield Analysis Engineer</a></td>
+<td>US, Arizona, Phoenix, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Defect-Characterization-Low-Yield-Analysis-Engineer_JR0287779">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ab8dcf1-9893-49fb-ae68-4e68ba007f9d">Environmental Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44750182">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PayPal</strong></td>
+<td><a href="https://trueinterview.io/jobs/402922b2-1148-4941-8df6-78384cc5c4d7">Software Engineer - Android</a></td>
+<td>San Jose, California, United States of America<br/>Austin, TX<br/>Austin, Texas, United States of America</td>
+<td align="center"><a href="https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Android_R0138333">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Perpay</strong></td>
 <td><a href="https://trueinterview.io/jobs/4267c013-ce15-44c3-aee8-f1d2d3dd5778">Software Engineer, New Grad - Super Day!</a></td>
@@ -435,6 +505,55 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Geotab</strong></td>
+<td><a href="https://trueinterview.io/jobs/2386d124-1dc6-456c-80f6-395c34548d32">Quality Assurance Analyst - Dubai (Full Relocation offered)</a></td>
+<td>Dubai - Dubai</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/geotab/jobs/5446644008">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nebius</strong></td>
+<td><a href="https://trueinterview.io/jobs/5cb46c9d-219f-417d-bd78-68cc6aea6a20">DWDM-IP Engineer</a></td>
+<td>Amsterdam, Netherlands</td>
+<td align="center"><a href="https://careers.nebius.com/?gh_jid=4986634101">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bjak</strong></td>
+<td><a href="https://trueinterview.io/jobs/5cfb9b34-a0a3-46eb-8026-32c8e2fa6d41">Product Engineer - AI Finance</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/bjakcareer/34732fcc-6d20-4bff-aba4-fe82f407e046/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/115689b2-c39e-4509-b442-18f9f759f05d">Product Owner, Technical - AI Finance</a></td>
+<td>Singapore<br/>Sweden<br/>Spain</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/bjakcareer/97fb6275-3f90-420d-9a1a-579d11adcf92/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DLGL TECHNOLOGIES CORPORATION</strong></td>
+<td><a href="https://trueinterview.io/jobs/f178ca8c-e313-4ce5-81ee-626ae07775ff">developer, software</a></td>
+<td>Blainville (QC)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50444616">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/7911decd-8e90-416b-ad0e-857525278bcc">IN_Associate_ Site Reliability Engineering_GCC_Advisory_Bangalore</a></td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-MERN---AI-GCC-Advisory-Bangalore_746076WD-1">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/498d9bca-f7a8-417a-8c15-a4a4b85eef62">IN_Senior Associate_MERN Full Stack Developer with AI_GCC_Advisory_Bangalore</a></td>
+<td>Bengaluru Millenia</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Assocoiate-AEM-Full-Stack-GCC-Advisory-Bangalore_746320WD-2">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Megaport</strong></td>
 <td><a href="https://trueinterview.io/jobs/f276d9dc-c625-4c04-89dd-e73f73f58624">Network Procurement Officer</a></td>

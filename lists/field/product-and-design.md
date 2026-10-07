@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**59 open roles.** 43 in the United States & Canada · 16 elsewhere in the world.
+**60 open roles.** 43 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -330,6 +330,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bjak</strong></td>
+<td><a href="https://trueinterview.io/jobs/115689b2-c39e-4509-b442-18f9f759f05d">Product Owner, Technical - AI Finance</a></td>
+<td>Singapore<br/>Sweden<br/>Spain</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/bjakcareer/97fb6275-3f90-420d-9a1a-579d11adcf92/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Moxie</strong></td>
 <td><a href="https://trueinterview.io/jobs/419e2958-b4d3-4f73-8e57-fb9e5e55e12c">Events Graphic Designer (PH)</a> 🌐</td>
