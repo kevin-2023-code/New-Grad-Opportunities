@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**411 open roles.** 286 in the United States & Canada · 125 elsewhere in the world.
+**412 open roles.** 287 in the United States & Canada · 125 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intuit</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cd5998f-78ee-4e16-b419-47b06579586e">OpenSource MTV - AI &amp; Platform Engineering Developer Meetup - Fall 2026</a></td>
+<td>Mountain View, California</td>
+<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/opensource-mtv-ai-and-platform-engineering-developer-meetup-fall-2026/27595/101676663728">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>IXL Learning</strong></td>
 <td><a href="https://trueinterview.io/jobs/442cbafa-373c-4921-b668-826265bcfcf0">Software Engineer, New Grad</a></td>
@@ -2034,6 +2041,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Manulife</strong></td>
+<td><a href="https://trueinterview.io/jobs/222be7d9-9076-47fc-8124-92e25f7f090a">Associate Full-stack Software Engineer</a></td>
+<td>Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur</td>
+<td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/Associate-Full-stack-Software-Engineer_JR26100119">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Chalk</strong></td>
 <td><a href="https://trueinterview.io/jobs/52daf82b-e62a-4e00-be97-e209731d8223">Software Engineer - New Grad</a></td>
 <td>SF<br/>NY</td>
@@ -2440,13 +2454,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Salesforce</strong></td>
-<td><a href="https://trueinterview.io/jobs/082e8091-8861-47d1-bda5-a65e8308b52a">Software Engineering, MTS/ SMTS (Full-Stack)</a></td>
-<td>2 Locations</td>
-<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-MTS_JR338172-1">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Hilbert's Ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/473c495e-cd1d-4657-abbb-b72c7004631d">General Application</a></td>
 <td>World wide</td>
@@ -2822,13 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4a054131-f6bd-49ad-aeb0-e11f845bf0b8">Software Engineer - Storage Infrastructure</a></td>
 <td>Singapore<br/>CEP Core Engineering Products</td>
 <td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005734201?gh_jid=4005734201">Apply</a></td>
-<td align="center">16 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7633934e-4012-4ae6-a112-a12433bbd6fa">Software Engineer - Kubernetes Platform</a></td>
-<td>Singapore<br/>CEP Core Engineering Products</td>
-<td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005732201?gh_jid=4005732201">Apply</a></td>
 <td align="center">16 Aug 2026</td>
 </tr>
 </tbody>

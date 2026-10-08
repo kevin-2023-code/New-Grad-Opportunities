@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**166 open roles.** 122 in the United States & Canada · 44 elsewhere in the world.
+**165 open roles.** 122 in the United States & Canada · 43 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1049,13 +1049,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4d410a9f-206b-4d7b-a625-9fff22c63075">Software Engineering, FIS University Program</a></td>
 <td>3 Locations</td>
 <td align="center"><a href="https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineering--FIS-University-Program_JR0309486">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Salesforce</strong></td>
-<td><a href="https://trueinterview.io/jobs/082e8091-8861-47d1-bda5-a65e8308b52a">Software Engineering, MTS/ SMTS (Full-Stack)</a></td>
-<td>2 Locations</td>
-<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-MTS_JR338172-1">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>

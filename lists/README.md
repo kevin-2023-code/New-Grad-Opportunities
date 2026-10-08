@@ -6,9 +6,9 @@ Every cut of the New Grad Opportunities list that has a page of its own. Each on
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-10-08 02:39 UTC_
+_Last updated: 2026-10-08 10:21 UTC_
 
-> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 345 of the 575 employers on this list (75% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
+> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 344 of the 575 employers on this list (75% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
@@ -32,9 +32,9 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [💻 Software Engineering](field/software-engineering.md) | 286 | 125 |
+| [💻 Software Engineering](field/software-engineering.md) | 287 | 125 |
 | [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 299 | 23 |
-| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 108 | 72 |
+| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 108 | 73 |
 | [🧰 IT & Support](field/it-and-support.md) | 95 | 29 |
 | [📱 Product & Design](field/product-and-design.md) | 44 | 16 |
 | [📈 Quantitative Finance](field/quantitative-finance.md) | 4 | 2 |
@@ -45,18 +45,18 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 23 filters hold **828 of the 1,103** new-grad roles on this list (75%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 23 filters hold **829 of the 1,105** new-grad roles on this list (75%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🏛️ Big Tech](company/big-tech.md) | 249 | 18 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
+| [🏛️ Big Tech](company/big-tech.md) | 250 | 17 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
 | [🔬 Semiconductors & chips](company/semiconductors.md) | 164 | 2 | Every employer the company registry files under Semiconductors & chips, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🏗️ Large tech (1,000–9,999)](company/large-tech.md) | 73 | 20 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 1,000 and 9,999 people. An employer the registry does not cover is in no size cut at all. |
 | [🖥️ Hardware, devices & networking](company/hardware-devices.md) | 73 | 8 | Every employer the company registry files under Hardware, devices & networking, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🚀 Aerospace & defence](company/aerospace-defense.md) | 69 | 7 | Every employer the company registry files under Aerospace & defence, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🧾 IT services & consulting](company/it-consulting.md) | 49 | 23 | Every employer the company registry files under IT services & consulting, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🧠 AI labs & AI infrastructure](company/ai.md) | 50 | 15 | Every employer the company registry files under AI labs & AI infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🏢 Enterprise & business software](company/enterprise-saas.md) | 41 | 18 | Every employer the company registry files under Enterprise & business software, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🏢 Enterprise & business software](company/enterprise-saas.md) | 42 | 17 | Every employer the company registry files under Enterprise & business software, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🌱 Startups (under 200)](company/startups.md) | 38 | 15 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as fewer than 200 people. An employer the registry does not cover is in no size cut at all. |
 | [🏤 Mid-sized tech (200–999)](company/mid-size-tech.md) | 38 | 13 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 200 and 999 people. An employer the registry does not cover is in no size cut at all. |
 | [📐 Engineering & architecture firms](company/engineering-services.md) | 34 | 5 | Every employer the company registry files under Engineering & architecture firms, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
@@ -64,7 +64,7 @@ _Between them these 23 filters hold **828 of the 1,103** new-grad roles on this 
 | [☁️ Developer tools, cloud & data infrastructure](company/dev-infra.md) | 25 | 10 | Every employer the company registry files under Developer tools, cloud & data infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [💳 Fintech, payments & crypto](company/fintech.md) | 20 | 13 | Every employer the company registry files under Fintech, payments & crypto, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🛒 E-commerce & marketplaces](company/ecommerce-marketplace.md) | 14 | 13 | Every employer the company registry files under E-commerce & marketplaces, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🏦 Banks, insurers & asset managers](company/banking-finance.md) | 8 | 17 | Every employer the company registry files under Banks, insurers & asset managers, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🏦 Banks, insurers & asset managers](company/banking-finance.md) | 8 | 18 | Every employer the company registry files under Banks, insurers & asset managers, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [💼 Other industries](company/other-industry.md) | 12 | 13 | Every employer the company registry files under Other industries, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [📱 Consumer internet & media](company/consumer-internet.md) | 18 | 1 | Every employer the company registry files under Consumer internet & media, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🧬 Health, biotech & medical devices](company/health-bio.md) | 14 | 5 | Every employer the company registry files under Health, biotech & medical devices, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
@@ -79,24 +79,24 @@ _Between them these 23 filters hold **828 of the 1,103** new-grad roles on this 
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 17 filters hold **499 of the 1,103** new-grad roles on this list (45%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 17 filters hold **501 of the 1,105** new-grad roles on this list (45%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [Software Engineer](role/software-engineer.md) | 122 | 44 |
+| [Software Engineer](role/software-engineer.md) | 122 | 43 |
 | [Hardware Engineer](role/hardware-engineer.md) | 46 | 1 |
 | [AI Engineer](role/ai-engineer.md) | 17 | 14 |
 | [Security Engineer](role/security-engineer.md) | 23 | 8 |
-| [Data Engineer](role/data-engineer.md) | 20 | 8 |
+| [Data Engineer](role/data-engineer.md) | 20 | 9 |
 | [Data Analyst](role/data-analyst.md) | 11 | 16 |
 | [Machine Learning Engineer](role/machine-learning-engineer.md) | 17 | 9 |
 | [Data Scientist](role/data-scientist.md) | 16 | 8 |
-| [Full-Stack Engineer](role/full-stack-engineer.md) | 16 | 6 |
+| [Full-Stack Engineer](role/full-stack-engineer.md) | 16 | 7 |
 | [Backend Engineer](role/backend-engineer.md) | 11 | 9 |
+| [Platform Engineer](role/platform-engineer.md) | 8 | 8 |
 | [Embedded Engineer](role/embedded-engineer.md) | 15 | 0 |
-| [Platform Engineer](role/platform-engineer.md) | 7 | 8 |
 | [Product Manager](role/product-manager.md) | 12 | 2 |
 | [DevOps Engineer](role/devops-engineer.md) | 6 | 4 |
 | [Frontend Engineer](role/frontend-engineer.md) | 7 | 1 |
@@ -109,11 +109,11 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 29 filters hold **687 of the 1,103** new-grad roles on this list (62%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 29 filters hold **688 of the 1,105** new-grad roles on this list (62%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🌉 SF Bay Area](place/bay-area.md) | 211 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
+| [🌉 SF Bay Area](place/bay-area.md) | 212 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
 | [🗽 New York City](place/new-york.md) | 70 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: New York City, Nyc, Manhattan, Brooklyn, Long Island City, Jersey City, Hoboken, New York NY, Queens NY, Newark NJ, Stamford CT. |
 | [🎸 Austin](place/austin.md) | 54 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Austin, Pflugerville, Round Rock, Cedar Park, Bastrop, Georgetown. |
 | [🌴 Los Angeles & Orange County](place/los-angeles.md) | 53 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: Los Angeles, Santa Monica, El Segundo, Culver City, Hawthorne, Van Nuys, Marina Del Rey, Playa Vista, Pasadena, Burbank, Torrance, Long Beach, and 6 more. |
@@ -149,12 +149,12 @@ _Between them these 29 filters hold **687 of the 1,103** new-grad roles on this 
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **177 of the 1,103** new-grad roles on this list (16%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **180 of the 1,105** new-grad roles on this list (16%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
 | [🌐 Remote](remote.md) | 69 | 37 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 62 | 16 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 63 | 18 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 
 ---
 

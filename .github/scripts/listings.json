@@ -6,9 +6,84 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-08T02:39:25.930Z",
-  "count": 1103,
+  "listingsChangedAt": "2026-10-08T10:21:19.424Z",
+  "count": 1105,
   "listings": [
+    {
+      "id": "8cd5998f-78ee-4e16-b419-47b06579586e",
+      "company": "Intuit",
+      "title": "OpenSource MTV - AI & Platform Engineering Developer Meetup - Fall 2026",
+      "locations": [
+        "Mountain View, California"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Platform Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.intuit.com/job/mountain-view/opensource-mtv-ai-and-platform-engineering-developer-meetup-fall-2026/27595/101676663728",
+      "url": "https://trueinterview.io/jobs/8cd5998f-78ee-4e16-b419-47b06579586e",
+      "postedAt": "2026-10-08T03:53:39.000Z",
+      "updatedAt": "2026-10-08T03:53:39.000Z"
+    },
+    {
+      "id": "aca928db-d606-46a7-b0f0-2eb5ebc1c951",
+      "company": "lastminute.com",
+      "title": "Data Engineer",
+      "locations": [
+        "Chiasso, Switzerland"
+      ],
+      "cities": [],
+      "countries": [
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://4dayweek.io/job/data-engineer-at-lastminute-com-2470abfd",
+      "url": "https://trueinterview.io/jobs/aca928db-d606-46a7-b0f0-2eb5ebc1c951",
+      "postedAt": "2026-10-08T00:00:00.000Z",
+      "updatedAt": "2026-10-08T00:00:00.000Z"
+    },
+    {
+      "id": "222be7d9-9076-47fc-8124-92e25f7f090a",
+      "company": "Manulife",
+      "title": "Associate Full-stack Software Engineer",
+      "locations": [
+        "Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/Associate-Full-stack-Software-Engineer_JR26100119",
+      "url": "https://trueinterview.io/jobs/222be7d9-9076-47fc-8124-92e25f7f090a",
+      "postedAt": "2026-10-08T00:00:00.000Z",
+      "updatedAt": "2026-10-08T00:00:00.000Z"
+    },
     {
       "id": "52daf82b-e62a-4e00-be97-e209731d8223",
       "company": "Chalk",
@@ -13426,29 +13501,6 @@
       "source": "trueinterview",
       "applyUrl": "https://4dayweek.io/job/software-developer-at-parsons-corporation-689a88cf",
       "url": "https://trueinterview.io/jobs/a7f5448e-422d-4ae6-bc79-37f96280ac84",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "082e8091-8861-47d1-bda5-a65e8308b52a",
-      "company": "Salesforce",
-      "title": "Software Engineering, MTS/ SMTS (Full-Stack)",
-      "locations": [
-        "2 Locations"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "trueinterview",
-      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-MTS_JR338172-1",
-      "url": "https://trueinterview.io/jobs/082e8091-8861-47d1-bda5-a65e8308b52a",
       "postedAt": "2026-09-11T00:00:00.000Z",
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },

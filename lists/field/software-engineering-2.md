@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**411 open roles.** 286 in the United States & Canada · 125 elsewhere in the world.
+**412 open roles.** 287 in the United States & Canada · 125 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Govtech</strong></td>
+<td><a href="https://trueinterview.io/jobs/7633934e-4012-4ae6-a112-a12433bbd6fa">Software Engineer - Kubernetes Platform</a></td>
+<td>Singapore<br/>CEP Core Engineering Products</td>
+<td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005732201?gh_jid=4005732201">Apply</a></td>
+<td align="center">16 Aug 2026</td>
+</tr>
 <tr>
 <td><strong>Dkb Code Factory</strong></td>
 <td><a href="https://trueinterview.io/jobs/6845053b-53f1-4e66-909d-e2d87f18ed7d">QA Engineer</a></td>
