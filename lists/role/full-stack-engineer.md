@@ -144,7 +144,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Manulife</strong></td>
 <td><a href="https://trueinterview.io/jobs/222be7d9-9076-47fc-8124-92e25f7f090a">Associate Full-stack Software Engineer</a></td>
-<td>Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur</td>
+<td>Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<br/>Quezon City</td>
 <td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/Associate-Full-stack-Software-Engineer_JR26100119">Apply</a></td>
 <td align="center">8 Oct 2026</td>
 </tr>

@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**65 open roles.** 50 in the United States & Canada · 15 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**64 open roles.** 49 in the United States & Canada · 15 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -359,13 +359,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Southaven, MS<br/>Memphis, TN</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5206940007">Apply</a></td>
 <td align="center">10 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lovable</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a2182f6-d6be-47a6-a724-ee04e60500c7">Analytics Engineer</a></td>
-<td>Stockholm<br/>Boston, MA<br/>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lovable/d92292d5-a9f5-4637-9d86-77e95bf66970/application">Apply</a></td>
-<td align="center">9 Aug 2026</td>
 </tr>
 </tbody>
 </table>

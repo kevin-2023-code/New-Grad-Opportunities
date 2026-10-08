@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**27 open roles.** 11 in the United States & Canada · 16 elsewhere in the world.
+**28 open roles.** 12 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Enablecomp</strong></td>
+<td><a href="https://trueinterview.io/jobs/95f157df-37ad-4925-a3fd-06bb3863daec">Data Analyst (Databricks) REMOTE</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.lever.co/enablecomp/8d47ba51-4751-468a-90f2-648400f96422/apply">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/8c359a2c-5ada-432f-acee-1a2a2e0ecbd8">Data Analyst I (Full Time) - United States</a></td>

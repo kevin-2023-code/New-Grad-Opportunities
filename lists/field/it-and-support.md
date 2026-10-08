@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**124 open roles.** 95 in the United States & Canada · 29 elsewhere in the world.
+**125 open roles.** 95 in the United States & Canada · 30 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -694,6 +694,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Kerv</strong></td>
+<td><a href="https://trueinterview.io/jobs/7249f00c-7e3a-44b4-80ba-fd2163792b1a">1st Line Service Desk Engineer</a></td>
+<td>London<br/>UK - London</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/kerv/jobs/5000964101">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Megaport</strong></td>
 <td><a href="https://trueinterview.io/jobs/f276d9dc-c625-4c04-89dd-e73f73f58624">Network Procurement Officer</a></td>

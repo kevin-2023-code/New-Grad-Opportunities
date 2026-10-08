@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**60 open roles.** 44 in the United States & Canada · 16 elsewhere in the world.
+**61 open roles.** 44 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -337,6 +337,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ttec Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea713b5d-b465-49d9-8a66-b558e31b696f">Presentation Designer</a></td>
+<td>Bogota</td>
+<td align="center"><a href="https://jobs.lever.co/ttecdigital/b5ce3d81-6dd3-4b17-9fc4-acfd878a0fc4/apply">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Moxie</strong></td>
 <td><a href="https://trueinterview.io/jobs/419e2958-b4d3-4f73-8e57-fb9e5e55e12c">Events Graphic Designer (PH)</a> 🌐</td>
