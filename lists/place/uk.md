@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**27 open roles.** 4 in the United States & Canada · 23 elsewhere in the world.
+**28 open roles.** 4 in the United States & Canada · 24 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -57,6 +57,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Wise</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cbb347f-912a-4943-b4ba-6fadc7817fa2">Backend Engineer</a></td>
+<td>London, , United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000154518005-backend-engineer?oga=true">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Kerv</strong></td>
 <td><a href="https://trueinterview.io/jobs/7249f00c-7e3a-44b4-80ba-fd2163792b1a">1st Line Service Desk Engineer</a></td>

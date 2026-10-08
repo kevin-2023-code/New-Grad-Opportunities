@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**35 open roles.** 25 in the United States & Canada · 10 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**36 open roles.** 26 in the United States & Canada · 10 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>MongoDB</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b5113e2-4d38-4bd9-b2c2-70c93c5e4f09">Cloud Operations Engineer</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8259719">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cribl</strong></td>
 <td><a href="https://trueinterview.io/jobs/912b1b02-2e69-45ee-ab96-da5db7ae7f88">Solutions Engineer, Ohio (Enterprise)</a> 🌐</td>

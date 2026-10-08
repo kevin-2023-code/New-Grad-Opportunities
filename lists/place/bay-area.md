@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**212 open roles.**
+**220 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Roblox</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6701035-44b3-48d4-a5ca-627c64dab6f3">Software Engineer, Engine Systems</a></td>
+<td>San Mateo, CA, United States</td>
+<td align="center"><a href="https://careers.roblox.com/jobs/8159854?gh_jid=8159854">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tavus</strong></td>
+<td><a href="https://trueinterview.io/jobs/f73177a7-458d-479e-95e9-4f6579a67e87">Solutions Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/tavus/6aefde62-2113-40c2-ac36-14da660bd6a3/application">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/cff788c6-6336-411a-8cbe-645100362fa7">Electrical Design Engineer</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/9cb4555e-4fd1-410b-921b-cc17d56ba5df/application">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Twitch</strong></td>
+<td><a href="https://trueinterview.io/jobs/9059060a-44db-42a4-8d3c-2f1b01f9854a">Software Engineer I</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8879673002">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7b47ba87-91ad-4ffc-b940-f47a07b45662">Applied Scientist</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8872835002">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MongoDB</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b5113e2-4d38-4bd9-b2c2-70c93c5e4f09">Cloud Operations Engineer</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8259719">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Intuitive Surgical</strong></td>
 <td><a href="https://trueinterview.io/jobs/aa9ce470-acdf-493b-8fe1-a2a35730c072">Service Software Developer</a></td>
@@ -36,6 +78,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8cd5998f-78ee-4e16-b419-47b06579586e">OpenSource MTV - AI &amp; Platform Engineering Developer Meetup - Fall 2026</a></td>
 <td>Mountain View, California</td>
 <td align="center"><a href="https://jobs.intuit.com/job/mountain-view/opensource-mtv-ai-and-platform-engineering-developer-meetup-fall-2026/27595/101676663728">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/ccc29d11-97c2-49b5-a7b0-63673d9ebd90">MTS Silicon Design Engineer</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92093?lang=en-us">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cadence Design Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/e24e5425-8622-4f74-a3fe-363220657f46">CST Application Engineer - Physical Systems</a></td>
+<td>San Jose, CA<br/>LIVONIA 01, United States of America</td>
+<td align="center"><a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/LIVONIA-01/CST-Application-Engineer---Physical-Systems_R56675-1">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5a3c7ce-0a45-4ce0-8f8e-4dba49400b74">Project Controls Engineer</a></td>
+<td>Milpitas, CA, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Project-Controls-Engineer_2641467">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lam Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/a709871b-9351-4577-ba85-17ec6f229200">Product Engineer 1</a></td>
+<td>Fremont, CA, US</td>
+<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099555837703">Apply</a></td>
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>
@@ -114,13 +184,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Mountain View, California (HQ)<br/>California - HQ</td>
 <td align="center"><a href="https://nuro.ai/careersitem?gh_jid=8248317">Apply</a></td>
 <td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/13f439c6-3b12-48c9-9866-941df8eb0c74">Network Quantitative Engineer</a></td>
-<td>Menlo Park, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/953481613947450/">Apply</a></td>
-<td align="center">2 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Intuit</strong></td>
@@ -1443,13 +1506,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f03bb908-3f10-4816-a708-61074f23227c">Mechanical Engineer New College Grad - Masters Degree (Santa Clara, CA)</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790311889606">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/dbe68add-9e00-4ff5-bfaa-aab9ff11c0b0">New College Grad - AI Innovation Research Engineer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43815479">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>

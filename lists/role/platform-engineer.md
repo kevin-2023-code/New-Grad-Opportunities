@@ -2,7 +2,7 @@
 
 # Platform Engineer
 
-**16 open roles.** 8 in the United States & Canada · 8 elsewhere in the world.
+**19 open roles.** 8 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -85,6 +85,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Mutt Data</strong></td>
+<td><a href="https://trueinterview.io/jobs/04f59c96-3a3f-4dff-896f-14c8c46f24a7">Backend Platform Engineer (Python/FastAPI)</a></td>
+<td>Buenos Aires</td>
+<td align="center"><a href="https://jobs.lever.co/muttdata/a073ff81-c270-4338-a427-ad3c7e4ef8e6/apply">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lyric</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae1ea7c8-0804-453d-a1b3-95fcb2dfdfb8">Platform Engineer - Full Stack (UI Centric)</a></td>
+<td>BLR/Chennai</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lyric/dfade6d7-2100-41ae-b7d0-fa6ccb64ed25/application">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9a5d4965-6ffc-42e1-b0fe-d838011d10d5">Platform Engineer - Backend</a></td>
+<td>Chennai<br/>BLR/Chennai</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lyric/38531d9a-54ac-484e-94f9-b22182cccb9a/application">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Planlab.ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/552a08d1-196a-4694-8be1-404374e3b425">Planlab.ai / / Product Engineer (Design) &amp; Platform Engineer / ONSITE in London, UK / 100k-160k GBP + 0.25-0.75% Equity / Visa sponsorship</a></td>

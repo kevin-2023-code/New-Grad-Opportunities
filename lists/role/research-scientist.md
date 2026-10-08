@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**8 open roles.**
+**9 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Twitch</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b47ba87-91ad-4ffc-b940-f47a07b45662">Applied Scientist</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8872835002">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/a2245e51-c5b6-4e62-9572-5c9b2f05bd98">Research Scientist, Fundamental Generative AI - New College Grad 2026</a></td>

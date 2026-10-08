@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**6 open roles.** 4 in the United States & Canada · 2 elsewhere in the world.
+**5 open roles.** 3 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/13f439c6-3b12-48c9-9866-941df8eb0c74">Network Quantitative Engineer</a></td>
-<td>Menlo Park, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/953481613947450/">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Eq Bank</strong></td>
 <td><a href="https://trueinterview.io/jobs/9e571ef6-9ed1-43fe-a8f4-cb2794fde96d">Analyst, Credit Risk Scoring</a></td>

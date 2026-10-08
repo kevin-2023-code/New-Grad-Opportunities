@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**170 open roles.** 126 in the United States & Canada · 44 elsewhere in the world.
+**177 open roles.** 129 in the United States & Canada · 48 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Roblox</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6701035-44b3-48d4-a5ca-627c64dab6f3">Software Engineer, Engine Systems</a></td>
+<td>San Mateo, CA, United States</td>
+<td align="center"><a href="https://careers.roblox.com/jobs/8159854?gh_jid=8159854">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bot Auto</strong></td>
+<td><a href="https://trueinterview.io/jobs/3325a5b3-f6bd-4bed-8c7a-e8d33909c0b5">Software Engineer, Core Platforms</a></td>
+<td>Houston, TX<br/>Houston Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/botauto/jobs/5448119008">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Twitch</strong></td>
+<td><a href="https://trueinterview.io/jobs/9059060a-44db-42a4-8d3c-2f1b01f9854a">Software Engineer I</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8879673002">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Intuitive Surgical</strong></td>
 <td><a href="https://trueinterview.io/jobs/aa9ce470-acdf-493b-8fe1-a2a35730c072">Service Software Developer</a></td>
@@ -43,6 +64,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e0afa20a-2016-492b-8060-91456134ee5f">Software Engineer - Manufacturing Data Systems</a></td>
 <td>Sherman, TX, United States</td>
 <td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2015024">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f9a3df9-f8bf-4a95-8bca-b25ecdb2c311">GPU Software Engineer</a></td>
+<td>US, California, Folsom, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Software-Engineer_JR0287695">Apply</a></td>
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>
@@ -92,13 +120,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/93a44550-8e01-4206-9fbe-455d72d03cce">Graduate Systems/Software Engineer I</a></td>
 <td>Bloomington, Minnesota, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Graduate-Systems-Software-Engineer-I_1213439">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/623662d3-20da-41b3-b25e-f858870e7a7c">Cloud Software Development Engineer</a></td>
-<td>Costa Rica, San Jose<br/>US, Oregon, Hillsboro, United States of America<br/>US, Arizona, Phoenix, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Cloud-Software-Development-Engineer_JR0287842">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
@@ -912,10 +933,38 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>G2i Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/d72b2b45-aa87-4f35-ade9-277b0776ab01">Software Engineer</a></td>
+<td>LATAM</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/g2i/d9a764c2-b471-4006-8da1-42f67874fd04/application">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ci&amp;t</strong></td>
+<td><a href="https://trueinterview.io/jobs/e834d9d1-698c-408c-a6c5-29063d1d27ef">[Job - 32040] Analista de Suporte Pleno (Developer L3)</a></td>
+<td>Brazil</td>
+<td align="center"><a href="https://jobs.lever.co/ciandt/ff33f4ce-5822-4b09-a334-5ea5401a91e6/apply">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Appsys Consulting Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/910276f5-0b0c-4410-bdba-bb9a900c0d46">software developer</a></td>
 <td>Burlington (ON)</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50453157">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Canadian Light Source Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc59f143-2fd7-4147-9d7e-c187c1dba53b">developer, software</a></td>
+<td>Saskatoon (SK)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50454686">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Flibco</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebb13b67-e9a6-4dfd-8cfc-faf8a668701c">Business Developer (Central and Southern Italy)</a></td>
+<td>Rome, Italy</td>
+<td align="center"><a href="https://4dayweek.io/job/business-developer-central-and-southern-italy-at-flibco-353fab5d">Apply</a></td>
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>

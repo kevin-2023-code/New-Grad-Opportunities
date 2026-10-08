@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**125 open roles.** 95 in the United States & Canada · 30 elsewhere in the world.
+**128 open roles.** 98 in the United States & Canada · 30 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NetApp</strong></td>
+<td><a href="https://trueinterview.io/jobs/546e7c81-106f-45e9-8786-4a928bef20b7">GSO Systems Administrator</a></td>
+<td>Morrisville, North Carolina, United States</td>
+<td align="center"><a href="https://careers.netapp.com/job/morrisville/gso-systems-administrator/27600/101709456992">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Customer.io</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecfdd279-d165-4c82-80f9-38c1584d343d">Technical Support Engineer, Canada</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/customerio/jobs/8246114">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Panasonic</strong></td>
+<td><a href="https://trueinterview.io/jobs/e32c0860-5b26-4c83-b0f9-fc54ddd2dd6f">Technical Support Specialist</a></td>
+<td>Leawood, Kansas, United States</td>
+<td align="center"><a href="https://careers.na.panasonic.com/jobs/51663?lang=en-us">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/3891c707-b8ca-4597-9ec3-ea309b302f82">Delivery Consultant – IBM Maximo Application Suite</a></td>

@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Cannondesign</strong></td>
+<td><a href="https://trueinterview.io/jobs/e725d200-9543-49f3-91e5-e1458b949e7f">Lighting Designer - Entry Level</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="http://www.cannondesign.com/careers/?gh_jid=8871824002">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Olsson</strong></td>
 <td><a href="https://trueinterview.io/jobs/b73c7af9-526f-4428-ad01-4f2d68c52657">Entry-Level Power Systems Studies Engineer - Data Centers</a></td>
 <td>Overland Park, KS</td>
@@ -30,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Birmingham, AL, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97100">Apply</a></td>
 <td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cannondesign</strong></td>
-<td><a href="https://trueinterview.io/jobs/ab7747d8-dcc4-41c9-bec3-0a9c2a52dd37">Mechanical - Entry Level</a></td>
-<td>St. Louis, MO</td>
-<td align="center"><a href="http://www.cannondesign.com/careers/?gh_jid=8858861002">Apply</a></td>
-<td align="center">30 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Jensen Hughes</strong></td>

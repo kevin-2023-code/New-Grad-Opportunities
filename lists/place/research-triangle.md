@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**22 open roles.**
+**23 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NetApp</strong></td>
+<td><a href="https://trueinterview.io/jobs/546e7c81-106f-45e9-8786-4a928bef20b7">GSO Systems Administrator</a></td>
+<td>Morrisville, North Carolina, United States</td>
+<td align="center"><a href="https://careers.netapp.com/job/morrisville/gso-systems-administrator/27600/101709456992">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/ba021141-2d5f-49f0-9e4b-e6b14ea88532">Analog Design Engineer</a></td>

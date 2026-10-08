@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**20 open roles.** 15 in the United States & Canada · 5 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**21 open roles.** 16 in the United States & Canada · 5 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Heidi Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/67c8715e-7e4d-40df-a4df-f436ad3b6a80">Implementation Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/heidihealth.com.au/1fc1382c-d6c7-442e-80d2-76d62a50e55f/application">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Intuitive Surgical</strong></td>
 <td><a href="https://trueinterview.io/jobs/aa9ce470-acdf-493b-8fe1-a2a35730c072">Service Software Developer</a></td>

@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**61 open roles.** 44 in the United States & Canada · 17 elsewhere in the world.
+**64 open roles.** 47 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Redwood Credit Union</strong></td>
+<td><a href="https://trueinterview.io/jobs/a07c42b6-c928-4f08-bdf4-7227dd392791">UX Designer</a></td>
+<td>Napa, California</td>
+<td align="center"><a href="https://jobs.lever.co/redwoodcu/d6a6c8f7-da87-42bb-9504-ea3a26e31270/apply">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cannondesign</strong></td>
+<td><a href="https://trueinterview.io/jobs/e725d200-9543-49f3-91e5-e1458b949e7f">Lighting Designer - Entry Level</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="http://www.cannondesign.com/careers/?gh_jid=8871824002">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Netgear</strong></td>
+<td><a href="https://trueinterview.io/jobs/ad3ce42c-435b-4b1b-b4e8-984816c6df50">UI/UX Designer (12 mos. Contract)</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/netgear/dc649e0e-b1b9-46d5-84bb-17a5e8d1999a/application">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Figma</strong></td>
 <td><a href="https://trueinterview.io/jobs/ef489dec-f770-4bfc-bd9e-bd0582dc5a32">Early Career, Associate Product Manager (2027)</a></td>

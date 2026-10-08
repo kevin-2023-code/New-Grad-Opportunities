@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**59 open roles.** 42 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**60 open roles.** 43 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Customer.io</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecfdd279-d165-4c82-80f9-38c1584d343d">Technical Support Engineer, Canada</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/customerio/jobs/8246114">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Intuit</strong></td>
 <td><a href="https://trueinterview.io/jobs/8cd5998f-78ee-4e16-b419-47b06579586e">OpenSource MTV - AI &amp; Platform Engineering Developer Meetup - Fall 2026</a></td>

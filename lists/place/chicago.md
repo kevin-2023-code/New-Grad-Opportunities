@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**11 open roles.**
+**12 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cannondesign</strong></td>
+<td><a href="https://trueinterview.io/jobs/e725d200-9543-49f3-91e5-e1458b949e7f">Lighting Designer - Entry Level</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="http://www.cannondesign.com/careers/?gh_jid=8871824002">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Chicago Public Media</strong></td>
 <td><a href="https://trueinterview.io/jobs/2c77ca20-9f68-4976-a6df-1c67109f18b9">Product Analyst</a></td>

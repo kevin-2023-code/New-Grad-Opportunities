@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**320 open roles.** 296 in the United States & Canada · 24 elsewhere in the world.
+**323 open roles.** 299 in the United States & Canada · 24 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Keeley Construction</strong></td>
+<td><a href="https://trueinterview.io/jobs/0868855a-55d0-47db-974e-0218a7f0cc61">Paving Estimator (Dec 2026 Grad)</a></td>
+<td>St. Louis, Missouri, United States<br/>St. Louis, MO</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/keeleyconstruction/jobs/4742126005">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Graphcore</strong></td>
+<td><a href="https://trueinterview.io/jobs/091745a0-2837-4833-be89-0f3922a1ac97">Supply Quality Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>US - Austin</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8880101002">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/ccc29d11-97c2-49b5-a7b0-63673d9ebd90">MTS Silicon Design Engineer</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92093?lang=en-us">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/d15bdf5a-5a2e-4317-9656-38f21b537529">NAND RDA Process Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44868921">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Crusoe</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc68a46a-541b-4e14-aca4-65f0a3d4f039">Mechanical Engineer I</a></td>
@@ -127,13 +155,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fd7030ff-4f03-4677-8d83-d1d5dbc4345a">Engineering Graduate, Geotechnical (Hiring Day Event ON)</a></td>
 <td>Toronto, ON, Canada</td>
 <td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28915">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cannondesign</strong></td>
-<td><a href="https://trueinterview.io/jobs/ab7747d8-dcc4-41c9-bec3-0a9c2a52dd37">Mechanical - Entry Level</a></td>
-<td>St. Louis, MO</td>
-<td align="center"><a href="http://www.cannondesign.com/careers/?gh_jid=8858861002">Apply</a></td>
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>
@@ -673,13 +694,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3063a83d-c521-4cfc-bd54-566ede564d83">Customer Engagement Applications Engineer - X Ray Metrology</a></td>
 <td>USA-ID-Boise-KLA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/USA-ID-Boise-KLA/Customer-Engagement-Applications-Engineer---X-Ray-Metrology_2639479">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4b1b5c0b-a017-4dab-863c-465336a6826f">Product Install Engineer - Chemical Analysis - &gt;80% travel</a></td>
-<td>Totowa, NJ, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Product-Install-Engineer---Chemical-Analysis----80--travel_2638031">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -1307,6 +1321,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/62277e07-87ab-4150-b86e-7dc05e28b4fd">Product Quality &amp; Reliability Engineer</a></td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91560?lang=en-us">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d23d49c3-84fd-4a30-b2d8-3ec67ff90069">Sr. Field Applications Engineer, Datacenter &amp; AI Systems Debug and Deployment Support</a></td>
 <td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91746?lang=en-us">Apply</a></td>

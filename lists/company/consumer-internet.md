@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**19 open roles.** 18 in the United States & Canada · 1 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**20 open roles.** 19 in the United States & Canada · 1 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,11 +18,18 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/13f439c6-3b12-48c9-9866-941df8eb0c74">Network Quantitative Engineer</a></td>
-<td>Menlo Park, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/953481613947450/">Apply</a></td>
-<td align="center">2 Oct 2026</td>
+<td><strong>Twitch</strong></td>
+<td><a href="https://trueinterview.io/jobs/9059060a-44db-42a4-8d3c-2f1b01f9854a">Software Engineer I</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8879673002">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7b47ba87-91ad-4ffc-b940-f47a07b45662">Applied Scientist</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8872835002">Apply</a></td>
+<td align="center">8 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Yelp</strong></td>

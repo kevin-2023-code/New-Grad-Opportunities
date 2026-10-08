@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**25 open roles.** 12 in the United States & Canada · 13 elsewhere in the world. A real classification that none of the other sectors covers.
+**26 open roles.** 13 in the United States & Canada · 13 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Michels Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/45612b6b-41a5-44b3-9de0-4b13995e12d1">Project Engineer I - Michels Trenchless, Inc.</a></td>
+<td>Reston, VA</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/michelscorporation/jobs/5001137101">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>IXL Learning</strong></td>
 <td><a href="https://trueinterview.io/jobs/442cbafa-373c-4921-b668-826265bcfcf0">Software Engineer, New Grad</a></td>

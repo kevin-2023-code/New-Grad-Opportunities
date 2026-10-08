@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**183 open roles.** 109 in the United States & Canada · 74 elsewhere in the world.
+**185 open roles.** 111 in the United States & Canada · 74 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bb4f794-f848-4823-aedf-49af71b53473">AI Engineer (Agentic AI) - Secret cleared</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4719499006?gh_jid=4719499006">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Twitch</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b47ba87-91ad-4ffc-b940-f47a07b45662">Applied Scientist</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8872835002">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Enablecomp</strong></td>
 <td><a href="https://trueinterview.io/jobs/95f157df-37ad-4925-a3fd-06bb3863daec">Data Analyst (Databricks) REMOTE</a> 🌐</td>
 <td>Remote — United States</td>
@@ -32,7 +46,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>QUALCOMM</strong></td>
+<td><a href="https://trueinterview.io/jobs/50f804e7-d1bf-4e91-9bdf-0edbff212ace">#Machine Learning Engineer - Generative AI</a></td>
+<td>San Diego, CA, US</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446721429496">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/8c359a2c-5ada-432f-acee-1a2a2e0ecbd8">Data Analyst I (Full Time) - United States</a></td>
 <td>San Jose, California, US, United States of America<br/>Austin, TX<br/>Austin, Texas, US<br/>+1 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Data-Analyst-I--Full-Time----United-States_2024556-1">Apply</a></td>
@@ -743,13 +764,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6d10ed5c-2bfa-4c8c-9137-58154dc3ec24">Data Scientist – Analytics</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/applovin/jobs/4705263006?gh_jid=4705263006">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/dbe68add-9e00-4ff5-bfaa-aab9ff11c0b0">New College Grad - AI Innovation Research Engineer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43815479">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**51 open roles.** 38 in the United States & Canada · 13 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**55 open roles.** 42 in the United States & Canada · 13 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Graphcore</strong></td>
+<td><a href="https://trueinterview.io/jobs/091745a0-2837-4833-be89-0f3922a1ac97">Supply Quality Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>US - Austin</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8880101002">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2bc48d08-a27e-4d0e-b0c5-5894017c31da">Power and Performance Validation Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>US - Austin</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8880005002">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Customer.io</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecfdd279-d165-4c82-80f9-38c1584d343d">Technical Support Engineer, Canada</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/customerio/jobs/8246114">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Netgear</strong></td>
+<td><a href="https://trueinterview.io/jobs/ad3ce42c-435b-4b1b-b4e8-984816c6df50">UI/UX Designer (12 mos. Contract)</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/netgear/dc649e0e-b1b9-46d5-84bb-17a5e8d1999a/application">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>WHOOP</strong></td>
 <td><a href="https://trueinterview.io/jobs/aa90721f-d3e9-4189-a157-156115a0592c">Retail Experience Design Specialist I</a></td>

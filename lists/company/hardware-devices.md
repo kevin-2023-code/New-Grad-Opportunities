@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**82 open roles.** 74 in the United States & Canada · 8 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**84 open roles.** 76 in the United States & Canada · 8 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NetApp</strong></td>
+<td><a href="https://trueinterview.io/jobs/546e7c81-106f-45e9-8786-4a928bef20b7">GSO Systems Administrator</a></td>
+<td>Morrisville, North Carolina, United States</td>
+<td align="center"><a href="https://careers.netapp.com/job/morrisville/gso-systems-administrator/27600/101709456992">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Netgear</strong></td>
+<td><a href="https://trueinterview.io/jobs/ad3ce42c-435b-4b1b-b4e8-984816c6df50">UI/UX Designer (12 mos. Contract)</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/netgear/dc649e0e-b1b9-46d5-84bb-17a5e8d1999a/application">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/d2be7f6d-d1c6-4b6c-84dd-4aebd6257528">Data Scientist</a></td>

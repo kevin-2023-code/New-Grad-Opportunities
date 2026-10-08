@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**10 open roles.** 6 in the United States & Canada · 4 elsewhere in the world.
+**11 open roles.** 7 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Workwave</strong></td>
+<td><a href="https://trueinterview.io/jobs/bded854e-1727-43e8-9bc9-b58f1127c5ca">DevOps Engineer</a></td>
+<td>Atlanta, GA<br/>Austin, TX</td>
+<td align="center"><a href="https://jobs.lever.co/workwave/d600f58c-5ff9-4a41-a788-004e8cca904e/apply">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>BDO</strong></td>
 <td><a href="https://trueinterview.io/jobs/aa04d3c7-11a3-43a3-a55f-a5fe9b8bd826">DevOps Engineer - New Grad (January 2027)</a></td>

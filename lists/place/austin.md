@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**54 open roles.**
+**59 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/48b60c25-2a4f-47cf-891e-89b1566b89c2">Site Reliability Engineer, Data Center Infrastructure</a></td>
+<td>Bastrop, TX</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8880672002?gh_jid=8880672002">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Workwave</strong></td>
+<td><a href="https://trueinterview.io/jobs/bded854e-1727-43e8-9bc9-b58f1127c5ca">DevOps Engineer</a></td>
+<td>Austin, TX<br/>Atlanta, GA</td>
+<td align="center"><a href="https://jobs.lever.co/workwave/d600f58c-5ff9-4a41-a788-004e8cca904e/apply">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Graphcore</strong></td>
+<td><a href="https://trueinterview.io/jobs/091745a0-2837-4833-be89-0f3922a1ac97">Supply Quality Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>US - Austin</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8880101002">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2bc48d08-a27e-4d0e-b0c5-5894017c31da">Power and Performance Validation Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>US - Austin</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8880005002">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/8c359a2c-5ada-432f-acee-1a2a2e0ecbd8">Data Analyst I (Full Time) - United States</a></td>
@@ -257,6 +285,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/62277e07-87ab-4150-b86e-7dc05e28b4fd">Product Quality &amp; Reliability Engineer</a></td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91560?lang=en-us">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d23d49c3-84fd-4a30-b2d8-3ec67ff90069">Sr. Field Applications Engineer, Datacenter &amp; AI Systems Debug and Deployment Support</a></td>
 <td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91746?lang=en-us">Apply</a></td>

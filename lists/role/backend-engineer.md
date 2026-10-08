@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**20 open roles.** 11 in the United States & Canada · 9 elsewhere in the world.
+**21 open roles.** 11 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -106,6 +106,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Wise</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cbb347f-912a-4943-b4ba-6fadc7817fa2">Backend Engineer</a></td>
+<td>London, , United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000154518005-backend-engineer?oga=true">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cabify</strong></td>
 <td><a href="https://trueinterview.io/jobs/85b03b34-814b-4814-b6db-d03477b77c2d">Software Engineer - Backend + AI</a></td>
