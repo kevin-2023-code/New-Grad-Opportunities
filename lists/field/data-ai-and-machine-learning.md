@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**180 open roles.** 107 in the United States & Canada · 73 elsewhere in the world.
+**179 open roles.** 107 in the United States & Canada · 72 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1281,13 +1281,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bogotá</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydropx/35d8afdc-6043-4ee2-8bb7-f4b1eb218a83/application">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Rws Trainai</strong></td>
-<td><a href="https://trueinterview.io/jobs/6091d23b-3465-4551-9e22-26d0caf1fc73">Social Media Content Evaluator (Marathi)</a></td>
-<td>Tokyo<br/>Mexico City<br/>Paris<br/>+6 more</td>
-<td align="center"><a href="https://jobs.lever.co/rws/8e99ee27-da01-437c-a0b4-61866dc270d4/apply">Apply</a></td>
-<td align="center">10 Aug 2026</td>
 </tr>
 </tbody>
 </table>

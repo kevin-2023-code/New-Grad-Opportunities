@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**411 open roles.** 283 in the United States & Canada · 128 elsewhere in the world.
+**410 open roles.** 283 in the United States & Canada · 127 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,13 +86,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Ottobrunn, Bavaria, Germany<br/>Parsdorf, Germany</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4950930101">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>ElevenLabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/89198972-cf2c-410b-8d8f-0329e3e6a490">Enterprise Solutions Engineer - Sweden</a></td>
-<td>Sweden</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/4738893a-de4f-4a06-b104-315c6a4d366c/application">Apply</a></td>
-<td align="center">10 Aug 2026</td>
 </tr>
 </tbody>
 </table>

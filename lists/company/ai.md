@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**63 open roles.** 48 in the United States & Canada · 15 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**62 open roles.** 48 in the United States & Canada · 14 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -462,13 +462,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London<br/>Spain<br/>Poland<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/b6b6aca9-e9bc-4a6c-955d-60adbbe56d51/application">Apply</a></td>
 <td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/89198972-cf2c-410b-8d8f-0329e3e6a490">Enterprise Solutions Engineer - Sweden</a></td>
-<td>Sweden</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/4738893a-de4f-4a06-b104-315c6a4d366c/application">Apply</a></td>
-<td align="center">10 Aug 2026</td>
 </tr>
 </tbody>
 </table>

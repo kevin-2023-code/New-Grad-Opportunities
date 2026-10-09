@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-09T19:24:56.743Z",
-  "count": 1101,
+  "listingsChangedAt": "2026-10-09T23:57:48.259Z",
+  "count": 1098,
   "listings": [
     {
       "id": "7b99597e-bd48-4871-8d59-371fefeb9c94",
@@ -58,6 +58,31 @@
       "url": "https://trueinterview.io/jobs/e17a0bbe-67a1-43b7-bb74-9bec6cb994d4",
       "postedAt": "2026-10-09T18:21:38.000Z",
       "updatedAt": "2026-10-09T18:21:38.000Z"
+    },
+    {
+      "id": "75d7d6ae-feed-4f47-ace0-0b22f88e7aa5",
+      "company": "Applied Materials",
+      "title": "Systems Engineer, New College Grad- Bachelor's/Master's (Santa Clara, CA)",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318683945",
+      "url": "https://trueinterview.io/jobs/75d7d6ae-feed-4f47-ace0-0b22f88e7aa5",
+      "postedAt": "2026-10-09T00:00:00.000Z",
+      "updatedAt": "2026-10-09T00:00:00.000Z"
     },
     {
       "id": "b2538df3-4c64-4479-acbf-ad01e0f6872f",
@@ -5509,31 +5534,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
       "url": "https://trueinterview.io/jobs/381cfbf5-0a0e-431f-a869-974b732042ae",
-      "postedAt": "2026-09-24T00:00:00.000Z",
-      "updatedAt": "2026-09-24T00:00:00.000Z"
-    },
-    {
-      "id": "1b6ba66e-a822-4eba-9da9-85dff517f4b9",
-      "company": "Micron Technology",
-      "title": "New College Grad - HBM PYE Product Development Failure Analysis Engineer",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44327583",
-      "url": "https://trueinterview.io/jobs/1b6ba66e-a822-4eba-9da9-85dff517f4b9",
       "postedAt": "2026-09-24T00:00:00.000Z",
       "updatedAt": "2026-09-24T00:00:00.000Z"
     },
@@ -28927,98 +28927,6 @@
       "url": "https://trueinterview.io/jobs/a25dad52-695d-46ef-98b5-8ce5bfb766b7",
       "postedAt": "2026-08-11T00:00:00.000Z",
       "updatedAt": "2026-08-11T00:00:00.000Z"
-    },
-    {
-      "id": "6091d23b-3465-4551-9e22-26d0caf1fc73",
-      "company": "Rws Trainai",
-      "title": "Social Media Content Evaluator (Marathi)",
-      "locations": [
-        "New Delhi",
-        "Recife",
-        "Rome",
-        "Tokyo",
-        "Mexico City",
-        "Paris",
-        "Assam",
-        "Dhaka",
-        "Berlin"
-      ],
-      "cities": [
-        "Tokyo",
-        "Mexico City",
-        "Paris",
-        "Berlin"
-      ],
-      "countries": [
-        "Japan",
-        "Mexico",
-        "France",
-        "Germany"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/rws/8e99ee27-da01-437c-a0b4-61866dc270d4/apply",
-      "url": "https://trueinterview.io/jobs/6091d23b-3465-4551-9e22-26d0caf1fc73",
-      "postedAt": "2026-08-10T22:50:04.000Z",
-      "updatedAt": "2026-08-10T22:50:04.000Z"
-    },
-    {
-      "id": "89198972-cf2c-410b-8d8f-0329e3e6a490",
-      "company": "Elevenlabs",
-      "title": "Enterprise Solutions Engineer - Sweden",
-      "locations": [
-        "Sweden"
-      ],
-      "cities": [],
-      "countries": [
-        "Sweden"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/elevenlabs/4738893a-de4f-4a06-b104-315c6a4d366c/application",
-      "url": "https://trueinterview.io/jobs/89198972-cf2c-410b-8d8f-0329e3e6a490",
-      "postedAt": "2026-08-10T22:31:42.000Z",
-      "updatedAt": "2026-08-10T22:31:42.000Z"
-    },
-    {
-      "id": "4be76e12-8112-49ce-b2eb-367292b5ae7d",
-      "company": "Sunsource",
-      "title": "Technical Specialist - Hydraulic Systems Designer",
-      "locations": [
-        "Grand Prairie, TX 75050",
-        "Houston, TX 77028"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/sunsrce/52e838a5-b19a-4ad0-8b21-89f9a5c8a58a/apply",
-      "url": "https://trueinterview.io/jobs/4be76e12-8112-49ce-b2eb-367292b5ae7d",
-      "postedAt": "2026-08-10T21:56:35.000Z",
-      "updatedAt": "2026-08-10T21:56:35.000Z"
     }
   ]
 }
