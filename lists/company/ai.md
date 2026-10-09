@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**64 open roles.** 49 in the United States & Canada · 15 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**63 open roles.** 48 in the United States & Canada · 15 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -352,13 +352,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5383660008">Apply</a></td>
 <td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>xAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/7735408d-12ab-41be-b4c1-1c5640596be9">Mechanical Engineer (Macrohard/Colossus) - Memphis</a></td>
-<td>Southaven, MS<br/>Memphis, TN</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5206940007">Apply</a></td>
-<td align="center">10 Aug 2026</td>
 </tr>
 </tbody>
 </table>

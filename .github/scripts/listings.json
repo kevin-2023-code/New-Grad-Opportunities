@@ -6,9 +6,59 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-09T05:50:57.239Z",
-  "count": 1105,
+  "listingsChangedAt": "2026-10-09T19:24:56.743Z",
+  "count": 1101,
   "listings": [
+    {
+      "id": "7b99597e-bd48-4871-8d59-371fefeb9c94",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Manufacturing - '26/'27 (Starlink)",
+      "locations": [
+        "Bastrop, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8877857002?gh_jid=8877857002",
+      "url": "https://trueinterview.io/jobs/7b99597e-bd48-4871-8d59-371fefeb9c94",
+      "postedAt": "2026-10-09T18:22:11.000Z",
+      "updatedAt": "2026-10-09T18:22:11.000Z"
+    },
+    {
+      "id": "e17a0bbe-67a1-43b7-bb74-9bec6cb994d4",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Automation - '26/'27 (Starlink)",
+      "locations": [
+        "Bastrop, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8877862002?gh_jid=8877862002",
+      "url": "https://trueinterview.io/jobs/e17a0bbe-67a1-43b7-bb74-9bec6cb994d4",
+      "postedAt": "2026-10-09T18:21:38.000Z",
+      "updatedAt": "2026-10-09T18:21:38.000Z"
+    },
     {
       "id": "b2538df3-4c64-4479-acbf-ad01e0f6872f",
       "company": "Manulife",
@@ -56,31 +106,6 @@
       "url": "https://trueinterview.io/jobs/20400afa-9631-4282-9767-b00dbfa81279",
       "postedAt": "2026-10-09T00:00:00.000Z",
       "updatedAt": "2026-10-09T00:00:00.000Z"
-    },
-    {
-      "id": "583a6f9c-f8b4-484c-a478-a2bc9491366c",
-      "company": "Snowflake",
-      "title": "Software Engineer - Customer Experience Engineering",
-      "locations": [
-        "US-CA-Menlo Park"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.ashbyhq.com/snowflake/5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec",
-      "url": "https://trueinterview.io/jobs/583a6f9c-f8b4-484c-a478-a2bc9491366c",
-      "postedAt": "2026-10-08T00:00:00.000Z",
-      "updatedAt": "2026-10-08T23:15:41.000Z"
     },
     {
       "id": "35da2ee0-ad02-460e-9d6d-f22c886c709d",
@@ -9675,32 +9700,6 @@
       "updatedAt": "2026-09-16T22:23:11.000Z"
     },
     {
-      "id": "f2da2daa-7b5c-497f-a08d-0c40b6434d7c",
-      "company": "Intel",
-      "title": "AIG Power Delivery Pathfinding Researcher",
-      "locations": [
-        "US, Oregon, Hillsboro",
-        "US, Oregon, Hillsboro, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AIG-Power-Delivery-Pathfinding-Researcher_JR0284885",
-      "url": "https://trueinterview.io/jobs/f2da2daa-7b5c-497f-a08d-0c40b6434d7c",
-      "postedAt": "2026-09-16T22:23:11.000Z",
-      "updatedAt": "2026-09-16T22:23:11.000Z"
-    },
-    {
       "id": "fefee64c-1005-48c5-bcec-11e7ee8b71c0",
       "company": "Intel",
       "title": "Module Engineer",
@@ -18321,34 +18320,6 @@
       "url": "https://trueinterview.io/jobs/a4b467a9-05b3-4e35-9175-86565394b81c",
       "postedAt": "2026-09-03T02:47:10.000Z",
       "updatedAt": "2026-09-03T02:47:10.000Z"
-    },
-    {
-      "id": "79e35c1b-1dcf-4745-b017-07195f65c531",
-      "company": "AMD",
-      "title": "Audio-Visual Operations Engineer",
-      "locations": [
-        "US,CA,San Jose",
-        "San Jose, California, United States"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.amd.com/careers-home/jobs/91631?lang=en-us",
-      "url": "https://trueinterview.io/jobs/79e35c1b-1dcf-4745-b017-07195f65c531",
-      "postedAt": "2026-09-03T00:00:00.000Z",
-      "updatedAt": "2026-09-03T00:00:00.000Z"
     },
     {
       "id": "d23d49c3-84fd-4a30-b2d8-3ec67ff90069",
@@ -29048,82 +29019,6 @@
       "url": "https://trueinterview.io/jobs/4be76e12-8112-49ce-b2eb-367292b5ae7d",
       "postedAt": "2026-08-10T21:56:35.000Z",
       "updatedAt": "2026-08-10T21:56:35.000Z"
-    },
-    {
-      "id": "7735408d-12ab-41be-b4c1-1c5640596be9",
-      "company": "xAI",
-      "title": "Mechanical Engineer (Macrohard/Colossus) - Memphis",
-      "locations": [
-        "Southaven, MS",
-        "Memphis, TN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5206940007",
-      "url": "https://trueinterview.io/jobs/7735408d-12ab-41be-b4c1-1c5640596be9",
-      "postedAt": "2026-08-10T17:30:42.000Z",
-      "updatedAt": "2026-08-10T17:30:42.000Z"
-    },
-    {
-      "id": "be319c33-3cc4-4285-922b-d70f9c9f5ff4",
-      "company": "Wsp",
-      "title": "Early Professional, Acoustics and Vibrations Engineering",
-      "locations": [
-        "Aurora, ON, Canada"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90849",
-      "url": "https://trueinterview.io/jobs/be319c33-3cc4-4285-922b-d70f9c9f5ff4",
-      "postedAt": "2026-08-10T16:15:23.000Z",
-      "updatedAt": "2026-08-10T16:15:23.000Z"
-    },
-    {
-      "id": "526bbdbc-6b89-4bd2-837e-ea79cfc1f7f6",
-      "company": "Anavation",
-      "title": "Software Engineer",
-      "locations": [
-        "Hanover, MD"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/anavationllc/3bba9df8-4987-4ee3-b878-b13cb8828763/apply",
-      "url": "https://trueinterview.io/jobs/526bbdbc-6b89-4bd2-837e-ea79cfc1f7f6",
-      "postedAt": "2026-08-10T16:14:06.000Z",
-      "updatedAt": "2026-08-10T16:14:06.000Z"
     }
   ]
 }
