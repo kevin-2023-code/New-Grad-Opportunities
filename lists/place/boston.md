@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**50 open roles.**
+**49 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Elevatebio</strong></td>
-<td><a href="https://trueinterview.io/jobs/265de331-c1d9-45ab-bfa6-7d23b7373474">Validation Engineer I</a></td>
-<td>Waltham, Massachusetts, United States<br/>ElevateBio</td>
-<td align="center"><a href="https://elevate.bio/about/jobs/6220844004?gh_jid=6220844004">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/ba021141-2d5f-49f0-9e4b-e6b14ea88532">Analog Design Engineer</a></td>

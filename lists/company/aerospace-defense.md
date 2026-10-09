@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**78 open roles.** 71 in the United States & Canada · 7 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**76 open roles.** 69 in the United States & Canada · 7 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/48b60c25-2a4f-47cf-891e-89b1566b89c2">Site Reliability Engineer, Data Center Infrastructure</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8880672002?gh_jid=8880672002">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ispace, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/f76d26f6-6d6a-43ae-b83b-7e1bb6a0f0b2">Flight Systems Engineer</a></td>
-<td>Englewood, Colorado</td>
-<td align="center"><a href="https://jobs.lever.co/ispace-inc/d93955a5-5f52-4397-b79d-73c6e6e827fd/apply">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>World View Enterprises Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/83201f01-4ab6-449a-9af0-d08c46c1b6de">Software Engineer</a></td>

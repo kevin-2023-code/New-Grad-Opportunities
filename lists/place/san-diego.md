@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**8 open roles.**
+**6 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,21 +18,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Courtavenue</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b9cf3cb-4bd9-4a39-a9c4-c14a13549491">MarTech Solutions Engineer</a></td>
-<td>Office - San Diego, CA<br/>Time Zone - Eastern Standard</td>
-<td align="center"><a href="https://jobs.lever.co/court-avenue/4cefdbcd-0802-4aa6-b821-9bb8c353b2f6/apply">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>QUALCOMM</strong></td>
-<td><a href="https://trueinterview.io/jobs/50f804e7-d1bf-4e91-9bdf-0edbff212ace">#Machine Learning Engineer - Generative AI</a></td>
-<td>San Diego, CA, US</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446721429496">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5b30f3c0-fd42-4bd3-9a85-e166a0e3e155">#Automotive Experience Platform - Engineer</a></td>
 <td>San Diego, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446721162864">Apply</a></td>
