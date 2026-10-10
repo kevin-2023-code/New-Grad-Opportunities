@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**66 open roles.** 54 in the United States & Canada · 12 elsewhere in the world. Everything the employers put up this week.
+**67 open roles.** 55 in the United States & Canada · 12 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Suno</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b267c73-180d-4e13-ac40-033272fee4c7">Software Engineer, Internal Tools</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hhrrm8eg16vbsbay8qt2jn">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/7b99597e-bd48-4871-8d59-371fefeb9c94">New Graduate Engineer, Manufacturing - '26/'27 (Starlink)</a></td>

@@ -31,13 +31,13 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-10 05:39 UTC_
+_Last updated: 2026-10-10 12:19 UTC_
 
-**827 open new-grad roles** from **412 employers** · **54 posted in the last 7 days** · refreshed hourly
+**828 open new-grad roles** from **413 employers** · **55 posted in the last 7 days** · refreshed hourly
 
-### Browse 827 new-grad roles by field
+### Browse 828 new-grad roles by field
 
-💻 **[Software Engineering](#-software-engineering)** (282)
+💻 **[Software Engineering](#-software-engineering)** (283)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (107)
 
@@ -63,13 +63,13 @@ _Last updated: 2026-10-10 05:39 UTC_
 
 _Counts are new-grad roles in the United States & Canada. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (238)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (157)](lists/company/semiconductors.md) · [🏗️ Large tech (1,000–9,999) (73)](lists/company/large-tech.md) · [🚀 Aerospace & defence (71)](lists/company/aerospace-defense.md) · [🖥️ Hardware, devices & networking (71)](lists/company/hardware-devices.md) · [🧾 IT services & consulting (51)](lists/company/it-consulting.md) · [🧠 AI labs & AI infrastructure (48)](lists/company/ai.md) · [🏢 Enterprise & business software (41)](lists/company/enterprise-saas.md) · [🏤 Mid-sized tech (200–999) (38)](lists/company/mid-size-tech.md) · [🌱 Startups (under 200) (37)](lists/company/startups.md) · [+13 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (238)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (157)](lists/company/semiconductors.md) · [🏗️ Large tech (1,000–9,999) (73)](lists/company/large-tech.md) · [🚀 Aerospace & defence (71)](lists/company/aerospace-defense.md) · [🖥️ Hardware, devices & networking (71)](lists/company/hardware-devices.md) · [🧾 IT services & consulting (51)](lists/company/it-consulting.md) · [🧠 AI labs & AI infrastructure (49)](lists/company/ai.md) · [🏢 Enterprise & business software (41)](lists/company/enterprise-saas.md) · [🏤 Mid-sized tech (200–999) (38)](lists/company/mid-size-tech.md) · [🌱 Startups (under 200) (38)](lists/company/startups.md) · [+13 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (121)](lists/role/software-engineer.md) · [Hardware Engineer (46)](lists/role/hardware-engineer.md) · [Security Engineer (21)](lists/role/security-engineer.md) · [Data Engineer (19)](lists/role/data-engineer.md) · [Machine Learning Engineer (19)](lists/role/machine-learning-engineer.md) · [AI Engineer (16)](lists/role/ai-engineer.md) · [Data Scientist (16)](lists/role/data-scientist.md) · [Full-Stack Engineer (16)](lists/role/full-stack-engineer.md) · [Embedded Engineer (14)](lists/role/embedded-engineer.md) · [Backend Engineer (11)](lists/role/backend-engineer.md) · [+7 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (122)](lists/role/software-engineer.md) · [Hardware Engineer (46)](lists/role/hardware-engineer.md) · [Security Engineer (21)](lists/role/security-engineer.md) · [Data Engineer (19)](lists/role/data-engineer.md) · [Machine Learning Engineer (19)](lists/role/machine-learning-engineer.md) · [AI Engineer (16)](lists/role/ai-engineer.md) · [Data Scientist (16)](lists/role/data-scientist.md) · [Full-Stack Engineer (16)](lists/role/full-stack-engineer.md) · [Embedded Engineer (14)](lists/role/embedded-engineer.md) · [Backend Engineer (11)](lists/role/backend-engineer.md) · [+7 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (209)](lists/place/bay-area.md) · [🗽 New York City (69)](lists/place/new-york.md) · [🎸 Austin (56)](lists/place/austin.md) · [🌴 Los Angeles & Orange County (53)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (49)](lists/place/boston.md) · [🌲 Seattle & Puget Sound (43)](lists/place/seattle.md) · [🏛️ Washington DC & Northern Virginia (34)](lists/place/washington-dc.md) · [🌧️ Portland, Boise & Spokane (32)](lists/place/pacific-northwest.md) · [🍁 Toronto, Waterloo & Ottawa (31)](lists/place/toronto.md) · [🌵 Phoenix & Arizona (24)](lists/place/phoenix.md) · [+14 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (209)](lists/place/bay-area.md) · [🗽 New York City (69)](lists/place/new-york.md) · [🎸 Austin (56)](lists/place/austin.md) · [🌴 Los Angeles & Orange County (53)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (50)](lists/place/boston.md) · [🌲 Seattle & Puget Sound (43)](lists/place/seattle.md) · [🏛️ Washington DC & Northern Virginia (34)](lists/place/washington-dc.md) · [🌧️ Portland, Boise & Spokane (32)](lists/place/pacific-northwest.md) · [🍁 Toronto, Waterloo & Ottawa (31)](lists/place/toronto.md) · [🌵 Phoenix & Arizona (24)](lists/place/phoenix.md) · [+14 more →](lists/README.md)
 
-⚡ **Quick filters** — [🌐 Remote (68)](lists/remote.md) · [🆕 Posted in the last 7 days (54)](lists/new-this-week.md)
+⚡ **Quick filters** — [🌐 Remote (68)](lists/remote.md) · [🆕 Posted in the last 7 days (55)](lists/new-this-week.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -92,6 +92,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Suno</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b267c73-180d-4e13-ac40-033272fee4c7">Software Engineer, Internal Tools</a> 🆕</td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hhrrm8eg16vbsbay8qt2jn">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Bot Auto</strong></td>
 <td><a href="https://trueinterview.io/jobs/3325a5b3-f6bd-4bed-8c7a-e8d33909c0b5">Software Engineer, Core Platforms</a> 🆕</td>
@@ -259,13 +266,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td>Houston, TX<br/>Houston Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/botauto/jobs/5441694008">Apply</a></td>
 <td align="center">8d</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/9309d68b-e065-43c8-939b-3a2d47aac56f">Software Consulting Engineer I (Full Time) United States</a></td>
-<td>RTP, North Carolina, US, United States of America<br/>Richardson, Texas, US</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Consulting-Engineer-I--Full-Time--United-States_2025887">Apply</a></td>
-<td align="center">9d</td>
 </tr>
 </tbody>
 </table>
@@ -633,7 +633,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 282.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 283.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -758,7 +758,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/6d658af9-591d-4b44-a6fc-c6eca79868e9">Data Engineer, Early Career - 2026 (CAN)</a></td>
 <td>CA, ON, Toronto</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Graphcore</strong></td>
@@ -786,7 +786,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/797071da-7feb-4384-97e0-3078b28dd38a">Research Scientist, AI Secure Code, DeepMind</a></td>
 <td>Mountain View, CA<br/>San Francisco, CA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/74431926638650054-research-scientist-ai-secure-code-deepmind">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
@@ -1785,7 +1785,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/0c275d8c-fc68-473f-bcc1-af9ed925bcaf">Associate Product Manager (New Grad)</a></td>
 <td>New York, NY<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8199973?t=gh_src=&amp;gh_jid=8199973">Apply</a></td>
-<td align="center">25d</td>
+<td align="center">26d</td>
 </tr>
 <tr>
 <td><strong>Toptal</strong></td>

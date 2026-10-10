@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**164 open roles.** 121 in the United States & Canada · 43 elsewhere in the world.
+**165 open roles.** 122 in the United States & Canada · 43 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Suno</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b267c73-180d-4e13-ac40-033272fee4c7">Software Engineer, Internal Tools</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hhrrm8eg16vbsbay8qt2jn">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>66degrees</strong></td>
 <td><a href="https://trueinterview.io/jobs/d3d90148-05c7-483f-8813-dff7f45a2134">Associate Software Engineer, Gradient Specialist</a></td>

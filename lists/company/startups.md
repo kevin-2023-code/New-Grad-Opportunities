@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**52 open roles.** 37 in the United States & Canada · 15 elsewhere in the world. Early-stage technology companies.
+**53 open roles.** 38 in the United States & Canada · 15 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Suno</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b267c73-180d-4e13-ac40-033272fee4c7">Software Engineer, Internal Tools</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hhrrm8eg16vbsbay8qt2jn">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Ashby</strong></td>
 <td><a href="https://trueinterview.io/jobs/79a9c06c-dfb9-416b-8f12-6694234caa7a">QA Engineer</a> 🌐</td>

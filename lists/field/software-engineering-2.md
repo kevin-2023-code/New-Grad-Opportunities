@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**409 open roles.** 282 in the United States & Canada · 127 elsewhere in the world.
+**410 open roles.** 283 in the United States & Canada · 127 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Dkb Code Factory</strong></td>
+<td><a href="https://trueinterview.io/jobs/6845053b-53f1-4e66-909d-e2d87f18ed7d">QA Engineer</a></td>
+<td>Valencia, Spain</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dkbcodefactory/jobs/7821469003">Apply</a></td>
+<td align="center">15 Aug 2026</td>
+</tr>
 <tr>
 <td><strong>SHEIN</strong></td>
 <td><a href="https://trueinterview.io/jobs/05f8f466-0a1c-4d5e-8cb7-3a4131d8df59">Database Engineer</a></td>

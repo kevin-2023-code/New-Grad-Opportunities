@@ -6,9 +6,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-10T05:39:39.823Z",
-  "count": 1096,
+  "listingsChangedAt": "2026-10-10T12:19:57.021Z",
+  "count": 1097,
   "listings": [
+    {
+      "id": "9b267c73-180d-4e13-ac40-033272fee4c7",
+      "company": "suno",
+      "title": "Software Engineer, Internal Tools",
+      "locations": [
+        "Boston"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hhrrm8eg16vbsbay8qt2jn",
+      "url": "https://trueinterview.io/jobs/9b267c73-180d-4e13-ac40-033272fee4c7",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
     {
       "id": "7b99597e-bd48-4871-8d59-371fefeb9c94",
       "company": "SpaceX",

@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**49 open roles.**
+**50 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Suno</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b267c73-180d-4e13-ac40-033272fee4c7">Software Engineer, Internal Tools</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hhrrm8eg16vbsbay8qt2jn">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/ba021141-2d5f-49f0-9e4b-e6b14ea88532">Analog Design Engineer</a></td>

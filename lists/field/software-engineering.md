@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**409 open roles.** 282 in the United States & Canada · 127 elsewhere in the world.
+**410 open roles.** 283 in the United States & Canada · 127 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Suno</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b267c73-180d-4e13-ac40-033272fee4c7">Software Engineer, Internal Tools</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hhrrm8eg16vbsbay8qt2jn">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Bot Auto</strong></td>
 <td><a href="https://trueinterview.io/jobs/3325a5b3-f6bd-4bed-8c7a-e8d33909c0b5">Software Engineer, Core Platforms</a></td>
@@ -2823,13 +2830,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore<br/>CEP Core Engineering Products</td>
 <td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005732201?gh_jid=4005732201">Apply</a></td>
 <td align="center">16 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Dkb Code Factory</strong></td>
-<td><a href="https://trueinterview.io/jobs/6845053b-53f1-4e66-909d-e2d87f18ed7d">QA Engineer</a></td>
-<td>Valencia, Spain</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/dkbcodefactory/jobs/7821469003">Apply</a></td>
-<td align="center">15 Aug 2026</td>
 </tr>
 </tbody>
 </table>

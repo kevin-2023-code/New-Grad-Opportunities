@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**62 open roles.** 48 in the United States & Canada · 14 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**63 open roles.** 49 in the United States & Canada · 14 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Suno</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b267c73-180d-4e13-ac40-033272fee4c7">Software Engineer, Internal Tools</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hhrrm8eg16vbsbay8qt2jn">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Crusoe</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc68a46a-541b-4e14-aca4-65f0a3d4f039">Mechanical Engineer I</a></td>
