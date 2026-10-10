@@ -6,9 +6,633 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-10T12:19:57.021Z",
-  "count": 1097,
+  "listingsChangedAt": "2026-10-10T17:45:40.026Z",
+  "count": 1121,
   "listings": [
+    {
+      "id": "9c87896f-c2f1-43a2-b210-02ee964a80d8",
+      "company": "acorn-product-development,-inc.",
+      "title": "Mechanical Engineer",
+      "locations": [
+        "Denver, Colorado, United States"
+      ],
+      "cities": [
+        "Denver, CO"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hjmaj21m7h3z14yrvwjaep",
+      "url": "https://trueinterview.io/jobs/9c87896f-c2f1-43a2-b210-02ee964a80d8",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "5ae0040f-a457-4708-af56-eeca1e4ba9ad",
+      "company": "alarm.com",
+      "title": "Quality Engineer I",
+      "locations": [
+        "Tysons, Virginia, Tysons, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hjknbbqz56s7aras8xsm3r",
+      "url": "https://trueinterview.io/jobs/5ae0040f-a457-4708-af56-eeca1e4ba9ad",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "dc2ab2a7-9bbe-4e72-a9d6-6ad6bf07d2ca",
+      "company": "alo",
+      "title": "Computer Programmer",
+      "locations": [
+        "San Ramon Office, San Ramon, CA (LO-SF)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hjrfzqwfc8y87a4szwa7kx",
+      "url": "https://trueinterview.io/jobs/dc2ab2a7-9bbe-4e72-a9d6-6ad6bf07d2ca",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "b85f5ed4-e91b-41be-a0f5-3e81de0e33b0",
+      "company": "anduril",
+      "title": "Power Controls Engineer",
+      "locations": [
+        "Costa Mesa, California, United States, Costa Mesa, CA (OC-00)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hjm0nywcx654rjdt43yz2p",
+      "url": "https://trueinterview.io/jobs/b85f5ed4-e91b-41be-a0f5-3e81de0e33b0",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "f5de42a6-3b10-490e-a3c3-587f16874fbe",
+      "company": "antares",
+      "title": "Thermo-Mechanical Design Engineer - Reactor Cavity Cooling Systems",
+      "locations": [
+        "Los Angeles"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01kwa37bv0vrkz7f6jfq3wk1s0",
+      "url": "https://trueinterview.io/jobs/f5de42a6-3b10-490e-a3c3-587f16874fbe",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "8dd33d11-eea8-4a4b-a28d-04b45ea10c4e",
+      "company": "arista",
+      "title": "FPGA Design Engineer",
+      "locations": [
+        "Santa Clara, CA, United States",
+        "Roseville, CA, United States",
+        "Nashua, NH, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hjmwfzkmxk4vs95c542d35",
+      "url": "https://trueinterview.io/jobs/8dd33d11-eea8-4a4b-a28d-04b45ea10c4e",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "6afec308-a821-4d36-b917-f38ddb2632ad",
+      "company": "babcock-power-services",
+      "title": "Field Engineer",
+      "locations": [
+        "Marlborough, Massachusetts, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01kwa1ws74vwwafchhqjr82wtw",
+      "url": "https://trueinterview.io/jobs/6afec308-a821-4d36-b917-f38ddb2632ad",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "bd63b4ed-5bec-4bf5-8cbe-1911a4f54c9f",
+      "company": "cape",
+      "title": "GRC Engineer",
+      "locations": [
+        "Hybrid, DC, Arlington, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "hybrid",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hhsqjb16y838wb7v0vrr3f",
+      "url": "https://trueinterview.io/jobs/bd63b4ed-5bec-4bf5-8cbe-1911a4f54c9f",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "d76e6113-52ce-454d-9c31-601a6d8def34",
+      "company": "egis-group",
+      "title": "Electrical Designer – Roadway Lighting Design",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hkansts223vs3e9ccp1yvp",
+      "url": "https://trueinterview.io/jobs/d76e6113-52ce-454d-9c31-601a6d8def34",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "f74f5f23-83f6-491c-9829-614c5d7f2e47",
+      "company": "egis-group",
+      "title": "Electrical Engineer – Roadway Lighting Design",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hkanst98md6evahmkmjf9h",
+      "url": "https://trueinterview.io/jobs/f74f5f23-83f6-491c-9829-614c5d7f2e47",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "4ce7dbee-4f67-46e1-85fe-125a838dd084",
+      "company": "encora",
+      "title": "Intelligent Automation Engineer",
+      "locations": [
+        "Bolivia, Cali",
+        "Colombia, Cali",
+        "Peru, Cali",
+        "Costa Rica, Cali"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hjw1fxs5jzgm1rtk4bzwyh",
+      "url": "https://trueinterview.io/jobs/4ce7dbee-4f67-46e1-85fe-125a838dd084",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "571b4222-e60d-4dec-9e7a-b33b90fe1e05",
+      "company": "encora",
+      "title": "Mid Frontend React Engineer",
+      "locations": [
+        "Bolivia, Cali",
+        "Colombia, Cali",
+        "Peru, Cali",
+        "Costa Rica, Cali"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hjw1fxmt59aq4q80smax5n",
+      "url": "https://trueinterview.io/jobs/571b4222-e60d-4dec-9e7a-b33b90fe1e05",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "ce2aa7e5-9114-44db-b22c-5bfe47e7b360",
+      "company": "encora",
+      "title": "Mid Salesforce Developer",
+      "locations": [
+        "Bolivia, Campinas",
+        "Colombia, Campinas",
+        "Peru, Campinas",
+        "Costa Rica, Campinas"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hjw1fya8dsz9410q7fe13d",
+      "url": "https://trueinterview.io/jobs/ce2aa7e5-9114-44db-b22c-5bfe47e7b360",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "b1fa2637-c8bf-4844-932a-b99db25f0efa",
+      "company": "encora",
+      "title": "Web Full Stack Engineer",
+      "locations": [
+        "Bolivia, Cali",
+        "Colombia, Cali",
+        "Peru, Cali",
+        "Costa Rica, Cali"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hjw1g0p11xncqar0s15g43",
+      "url": "https://trueinterview.io/jobs/b1fa2637-c8bf-4844-932a-b99db25f0efa",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "47e3986d-7ce3-4763-882b-827c854d5949",
+      "company": "etched",
+      "title": "SMT Process Engineer (Greenfield Factory)",
+      "locations": [
+        "San Jose"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hht9qkbec70bvjk4nvv0he",
+      "url": "https://trueinterview.io/jobs/47e3986d-7ce3-4763-882b-827c854d5949",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "bdbde0f7-53fc-4869-81e7-a618583ead3d",
+      "company": "ford",
+      "title": "Bill of Material Engineer",
+      "locations": [
+        "Naucalpan de Juarez, MEX, Mexico"
+      ],
+      "cities": [],
+      "countries": [
+        "Mexico"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m3sj0dfr3tpjddxvs9ezh14n",
+      "url": "https://trueinterview.io/jobs/bdbde0f7-53fc-4869-81e7-a618583ead3d",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "7eae59e5-418a-4125-af02-424ff2886f3c",
+      "company": "ford",
+      "title": "Feature Assurance Engineer",
+      "locations": [
+        "Naucalpan de Juarez, MEX, Mexico"
+      ],
+      "cities": [],
+      "countries": [
+        "Mexico"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m1q1ejsghbymzb2n2bksfndf",
+      "url": "https://trueinterview.io/jobs/7eae59e5-418a-4125-af02-424ff2886f3c",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "b855aaff-c942-425b-b40c-50b9839be7f8",
+      "company": "ford",
+      "title": "Functional Safety Engineer (ISO 26262)",
+      "locations": [
+        "Naucalpan de Juarez, MEX, Mexico"
+      ],
+      "cities": [],
+      "countries": [
+        "Mexico"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m26xgj1xddb7ng55hy1r7fra",
+      "url": "https://trueinterview.io/jobs/b855aaff-c942-425b-b40c-50b9839be7f8",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "24e2c88c-04b9-422a-b66a-4367cea1d476",
+      "company": "gallatin",
+      "title": "Backend Engineer",
+      "locations": [
+        "El Segundo, CA, Washington, D.C., Palo Alto, CA, San Francisco, CA, Austin, TX, New York City, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hhtktca8semrx40cb6670z",
+      "url": "https://trueinterview.io/jobs/24e2c88c-04b9-422a-b66a-4367cea1d476",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "a14f278f-12ef-4935-bd30-b2ff34b214e0",
+      "company": "kairos-power",
+      "title": "Fuels IC&E Engineer",
+      "locations": [
+        "Albuquerque, NM, New Mexico (KPSW)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hjz7qjjb334afj326ahegr",
+      "url": "https://trueinterview.io/jobs/a14f278f-12ef-4935-bd30-b2ff34b214e0",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "7d1d5054-9ff8-4075-bf70-ea1d0cee8ff6",
+      "company": "mariana-minerals",
+      "title": "Engineering Coordinator",
+      "locations": [
+        "Houston, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hhvqhfyp58017xxprbewsk",
+      "url": "https://trueinterview.io/jobs/7d1d5054-9ff8-4075-bf70-ea1d0cee8ff6",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "c469cb54-3ba7-44fa-ba99-d54622f01da7",
+      "company": "roblox",
+      "title": "Software Engineer, Account Security",
+      "locations": [
+        "San Mateo, CA, United States, San Mateo, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hjpqgt0jx0r4gp0h70h3sf",
+      "url": "https://trueinterview.io/jobs/c469cb54-3ba7-44fa-ba99-d54622f01da7",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "27577385-ed9d-4b2a-b12c-e2b01059968c",
+      "company": "roblox",
+      "title": "Software Engineer, ROS",
+      "locations": [
+        "San Mateo, CA, United States, San Mateo, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hjpqgtjfvvyd7x0b7px2qn",
+      "url": "https://trueinterview.io/jobs/27577385-ed9d-4b2a-b12c-e2b01059968c",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "1b184b0b-5bf7-4bd9-83d3-255c9a571562",
+      "company": "simonmed",
+      "title": "Technologist Assistant Advanced",
+      "locations": [
+        "208 W Oak St. Kissimmee, FL 34741"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hk53xn035003q725q7wbqr",
+      "url": "https://trueinterview.io/jobs/1b184b0b-5bf7-4bd9-83d3-255c9a571562",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
     {
       "id": "9b267c73-180d-4e13-ac40-033272fee4c7",
       "company": "suno",
@@ -33,6 +657,81 @@
       "source": "1point3acres",
       "applyUrl": "https://www.1point3acres.com/jobs/01m4hhrrm8eg16vbsbay8qt2jn",
       "url": "https://trueinterview.io/jobs/9b267c73-180d-4e13-ac40-033272fee4c7",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "effc7ef3-2c5a-4601-a5be-5677130098db",
+      "company": "vaxcyte",
+      "title": "IT Operations Engineer",
+      "locations": [
+        "San Carlos, California, United States, San Carlos, California"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hk5832m3ga4t5mwdsw1n94",
+      "url": "https://trueinterview.io/jobs/effc7ef3-2c5a-4601-a5be-5677130098db",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "d6f6a2a5-c950-4d09-97e8-dba5175856fb",
+      "company": "zipline",
+      "title": "Structural Engineer",
+      "locations": [
+        "South San Francisco, California, USA, Aviary - SSF"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hjr1sc3rdhj5ejny85qv17",
+      "url": "https://trueinterview.io/jobs/d6f6a2a5-c950-4d09-97e8-dba5175856fb",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "ea582cb5-90f7-4cf0-a4cd-b41fd01c5045",
+      "company": "zone-5-technologies",
+      "title": "Manufacturing Engineer I/II",
+      "locations": [
+        "San Luis Obispo, California, HQ (Buckley)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hk6gr6xycxbaefeebb094h",
+      "url": "https://trueinterview.io/jobs/ea582cb5-90f7-4cf0-a4cd-b41fd01c5045",
       "postedAt": "2026-10-10T00:00:00.000Z",
       "updatedAt": "2026-10-10T00:00:00.000Z"
     },
@@ -28814,95 +29513,6 @@
       "url": "https://trueinterview.io/jobs/4bfc6c25-bfc8-418c-896b-488e97247612",
       "postedAt": "2026-08-11T18:24:31.000Z",
       "updatedAt": "2026-08-11T18:24:31.000Z"
-    },
-    {
-      "id": "7416d491-c760-4924-b07d-16ca8bdc9ecd",
-      "company": "Fluidstack",
-      "title": "Compute Engineer, Deployment",
-      "locations": [
-        "New York, NY",
-        "San Francisco, CA",
-        "Austin, TX",
-        "U.S. Remote",
-        "Seattle, WA"
-      ],
-      "cities": [
-        "New York, NY",
-        "San Francisco, CA",
-        "Austin, TX",
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/fluidstack/73a25138-e2eb-4490-8fdb-c7b9f4938395/application",
-      "url": "https://trueinterview.io/jobs/7416d491-c760-4924-b07d-16ca8bdc9ecd",
-      "postedAt": "2026-08-11T17:35:36.000Z",
-      "updatedAt": "2026-08-11T17:35:36.000Z"
-    },
-    {
-      "id": "71bffff6-65f6-45d8-bbf5-54d39b84923e",
-      "company": "Anthropic",
-      "title": "Product Designer, People Products",
-      "locations": [
-        "San Francisco, CA",
-        "New York City, NY",
-        "Remote-Friendly US (Travel Required)"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5383660008",
-      "url": "https://trueinterview.io/jobs/71bffff6-65f6-45d8-bbf5-54d39b84923e",
-      "postedAt": "2026-08-11T17:04:10.000Z",
-      "updatedAt": "2026-08-11T17:04:10.000Z"
-    },
-    {
-      "id": "8e173c02-e7ba-46c4-b250-dd64cb89f3de",
-      "company": "Isar Aerospace Se",
-      "title": "Application Software Engineer (f/m/d)",
-      "locations": [
-        "Ottobrunn, Bavaria, Germany",
-        "Parsdorf, Germany"
-      ],
-      "cities": [],
-      "countries": [
-        "Germany"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4950930101",
-      "url": "https://trueinterview.io/jobs/8e173c02-e7ba-46c4-b250-dd64cb89f3de",
-      "postedAt": "2026-08-11T16:05:59.000Z",
-      "updatedAt": "2026-08-11T16:05:59.000Z"
     }
   ]
 }
