@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-09T23:57:48.259Z",
-  "count": 1098,
+  "listingsChangedAt": "2026-10-10T05:39:39.823Z",
+  "count": 1096,
   "listings": [
     {
       "id": "7b99597e-bd48-4871-8d59-371fefeb9c94",
@@ -18581,32 +18581,6 @@
       "updatedAt": "2026-09-03T00:00:00.000Z"
     },
     {
-      "id": "57eaa206-e92c-4ddd-840d-30ad03f87ed8",
-      "company": "Samsung",
-      "title": "Entry Level Engineer, Quality & Reliability",
-      "locations": [
-        "1530 FM 973 Taylor, TX, USA",
-        "1530 FM 973 Taylor, TX, USA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Entry-Level-Engineer--Quality---Reliability_R120204",
-      "url": "https://trueinterview.io/jobs/57eaa206-e92c-4ddd-840d-30ad03f87ed8",
-      "postedAt": "2026-09-03T00:00:00.000Z",
-      "updatedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
       "id": "7eae86f7-d776-4d94-bb6e-0372c6aa10ca",
       "company": "Stack Overflow",
       "title": "Data Scientist",
@@ -28902,31 +28876,6 @@
       "url": "https://trueinterview.io/jobs/8e173c02-e7ba-46c4-b250-dd64cb89f3de",
       "postedAt": "2026-08-11T16:05:59.000Z",
       "updatedAt": "2026-08-11T16:05:59.000Z"
-    },
-    {
-      "id": "a25dad52-695d-46ef-98b5-8ce5bfb766b7",
-      "company": "Netflix",
-      "title": "Security Software Engineer (L6), Security Protocols & Foundations",
-      "locations": [
-        "USA - Remote"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://explore.jobs.netflix.net/careers/job/790317577115",
-      "url": "https://trueinterview.io/jobs/a25dad52-695d-46ef-98b5-8ce5bfb766b7",
-      "postedAt": "2026-08-11T00:00:00.000Z",
-      "updatedAt": "2026-08-11T00:00:00.000Z"
     }
   ]
 }
