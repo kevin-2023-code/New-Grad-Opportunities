@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**77 open roles.** 71 in the United States & Canada · 6 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**76 open roles.** 70 in the United States & Canada · 6 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -506,13 +506,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Palo Alto, CA<br/>Redmond, WA<br/>Palo Alto - 1200</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8698729002?gh_jid=8698729002">Apply</a></td>
 <td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hadrian Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/27aeb5af-bf14-4d63-8380-6cca8c0cf641">CAM Programmer, Execution</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/ca2ab5f8-6a99-458a-9148-eee69122de14/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>

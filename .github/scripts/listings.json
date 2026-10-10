@@ -6,9 +6,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-10T17:45:40.026Z",
-  "count": 1121,
+  "listingsChangedAt": "2026-10-10T21:30:32.335Z",
+  "count": 1110,
   "listings": [
+    {
+      "id": "31209d09-1fe9-48cf-a29f-4f09a58ab4ef",
+      "company": "wix",
+      "title": "QA Engineer",
+      "locations": [
+        "Dnipro, Dnipropetrovsk Oblast, Ukraine"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4krbbaweh5b4f4eht730p5e",
+      "url": "https://trueinterview.io/jobs/31209d09-1fe9-48cf-a29f-4f09a58ab4ef",
+      "postedAt": "2026-10-11T00:00:00.000Z",
+      "updatedAt": "2026-10-11T00:00:00.000Z"
+    },
     {
       "id": "9c87896f-c2f1-43a2-b210-02ee964a80d8",
       "company": "acorn-product-development,-inc.",
@@ -29201,318 +29226,6 @@
       "url": "https://trueinterview.io/jobs/8c06b429-f5ae-46cf-8338-44b3dba61d47",
       "postedAt": "2026-08-11T21:41:12.000Z",
       "updatedAt": "2026-08-11T21:41:12.000Z"
-    },
-    {
-      "id": "186c109c-35c8-401b-bae7-4770c6860cbb",
-      "company": "Mthree",
-      "title": "Ingénieur DevOps / DevOps Engineer",
-      "locations": [
-        "Montréal, Quebec, Canada",
-        "Canada, Montréal"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "DevOps Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://mthree.com/careers/job/?gh_jid=4704268006",
-      "url": "https://trueinterview.io/jobs/186c109c-35c8-401b-bae7-4770c6860cbb",
-      "postedAt": "2026-08-11T20:14:36.000Z",
-      "updatedAt": "2026-08-11T20:14:36.000Z"
-    },
-    {
-      "id": "1136162e-1e33-4d2b-ad33-a539f41c68be",
-      "company": "Archive",
-      "title": "CX Operations & AI Enablement Specialist",
-      "locations": [
-        "Remote - United States",
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/Archive/1971d1ae-f5e2-4544-b6cd-d3fe141b2f9f/application",
-      "url": "https://trueinterview.io/jobs/1136162e-1e33-4d2b-ad33-a539f41c68be",
-      "postedAt": "2026-08-11T20:09:44.000Z",
-      "updatedAt": "2026-08-11T20:09:44.000Z"
-    },
-    {
-      "id": "21b1ec29-0d90-4dbc-a879-4557def818bb",
-      "company": "Ultraviolet Cyber",
-      "title": "Security Engineer (Active Top Secret Clearance)",
-      "locations": [
-        "Herndon, VA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "IT & Support",
-      "role": "Security Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/uvcyber/3a5a2754-0dfc-4b72-86d3-67ba88f997fd/apply",
-      "url": "https://trueinterview.io/jobs/21b1ec29-0d90-4dbc-a879-4557def818bb",
-      "postedAt": "2026-08-11T20:05:13.000Z",
-      "updatedAt": "2026-08-11T20:05:13.000Z"
-    },
-    {
-      "id": "6994dff4-d60f-4d9f-bd27-46401300a83a",
-      "company": "1password",
-      "title": "Privacy Engineer",
-      "locations": [
-        "Remote (United States",
-        "Canada)"
-      ],
-      "cities": [],
-      "countries": [
-        "United States",
-        "Canada"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/1password/7f885c41-7572-439c-886f-bc508eb9a3d7/application",
-      "url": "https://trueinterview.io/jobs/6994dff4-d60f-4d9f-bd27-46401300a83a",
-      "postedAt": "2026-08-11T19:55:31.000Z",
-      "updatedAt": "2026-08-11T19:55:31.000Z"
-    },
-    {
-      "id": "28f93675-e46f-4825-b3a0-ca5ccf521249",
-      "company": "Gti Fabrication",
-      "title": "Industrial Electrical  Engineer",
-      "locations": [
-        "Buffalo, NY",
-        "Tempe, AZ"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/gtifabrication/05c3e75d-a8a0-46db-a490-54ce518d2842/apply",
-      "url": "https://trueinterview.io/jobs/28f93675-e46f-4825-b3a0-ca5ccf521249",
-      "postedAt": "2026-08-11T19:53:22.000Z",
-      "updatedAt": "2026-08-11T19:53:22.000Z"
-    },
-    {
-      "id": "5b9695c7-f05a-47a7-8b26-a51713263138",
-      "company": "Gti Fabrication",
-      "title": "Mechanical Design Engineer",
-      "locations": [
-        "Tempe, AZ"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/gtifabrication/ae952e8d-a962-4e3a-a2c8-0d9252d1996e/apply",
-      "url": "https://trueinterview.io/jobs/5b9695c7-f05a-47a7-8b26-a51713263138",
-      "postedAt": "2026-08-11T19:51:25.000Z",
-      "updatedAt": "2026-08-11T19:51:25.000Z"
-    },
-    {
-      "id": "851c05e6-797b-40a4-882d-4e99bef8bbf9",
-      "company": "Huntress",
-      "title": "SOC Support Specialist- Pacific or MountainTime Zone, Weekend Shift",
-      "locations": [
-        "United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/huntress/jobs/7855135003",
-      "url": "https://trueinterview.io/jobs/851c05e6-797b-40a4-882d-4e99bef8bbf9",
-      "postedAt": "2026-08-11T19:42:22.000Z",
-      "updatedAt": "2026-08-11T19:42:22.000Z"
-    },
-    {
-      "id": "27aeb5af-bf14-4d63-8380-6cca8c0cf641",
-      "company": "Hadrian Automation",
-      "title": "CAM Programmer, Execution",
-      "locations": [
-        "Los Angeles, CA"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/hadrian-automation/ca2ab5f8-6a99-458a-9148-eee69122de14/application",
-      "url": "https://trueinterview.io/jobs/27aeb5af-bf14-4d63-8380-6cca8c0cf641",
-      "postedAt": "2026-08-11T19:20:05.000Z",
-      "updatedAt": "2026-08-11T19:20:05.000Z"
-    },
-    {
-      "id": "19c54cbc-3106-4b07-b063-7775c83a1f82",
-      "company": "Albireo Energy",
-      "title": "Junior Engineer",
-      "locations": [
-        "Denver, Colorado, United States"
-      ],
-      "cities": [
-        "Denver, CO"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.workable.com/view/uHiBtCCcQNsrtdPVLRjJuc/junior-engineer-in-denver-at-albireo-energy",
-      "url": "https://trueinterview.io/jobs/19c54cbc-3106-4b07-b063-7775c83a1f82",
-      "postedAt": "2026-08-11T18:57:49.000Z",
-      "updatedAt": "2026-08-11T18:57:49.000Z"
-    },
-    {
-      "id": "1ef237bf-b528-4f1f-9e84-c00dcb5d2ad0",
-      "company": "Skydropx Frenet",
-      "title": "Data Analyst Jr",
-      "locations": [
-        "Bogotá"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/skydropx/35d8afdc-6043-4ee2-8bb7-f4b1eb218a83/application",
-      "url": "https://trueinterview.io/jobs/1ef237bf-b528-4f1f-9e84-c00dcb5d2ad0",
-      "postedAt": "2026-08-11T18:50:52.000Z",
-      "updatedAt": "2026-08-11T18:50:52.000Z"
-    },
-    {
-      "id": "29f95713-5f0f-4e8f-9d40-e82a1938bb58",
-      "company": "Oracle",
-      "title": "Systems Software Engineer 1",
-      "locations": [
-        "Nashville, TN, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/342326",
-      "url": "https://trueinterview.io/jobs/29f95713-5f0f-4e8f-9d40-e82a1938bb58",
-      "postedAt": "2026-08-11T18:45:37.000Z",
-      "updatedAt": "2026-08-11T18:45:37.000Z"
-    },
-    {
-      "id": "4bfc6c25-bfc8-418c-896b-488e97247612",
-      "company": "360dialog Gmbh",
-      "title": "Infrastructure Engineer | Remote",
-      "locations": [
-        "Portugal",
-        "Romania",
-        "Argentina",
-        "Philippines",
-        "Poland"
-      ],
-      "cities": [],
-      "countries": [
-        "Portugal",
-        "Poland"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.workable.com/view/rBDL3THA7JXWJTFZATTGNb/infrastructure-engineer-%7C-remote-in-portugal-at-360dialog-gmbh",
-      "url": "https://trueinterview.io/jobs/4bfc6c25-bfc8-418c-896b-488e97247612",
-      "postedAt": "2026-08-11T18:24:31.000Z",
-      "updatedAt": "2026-08-11T18:24:31.000Z"
     }
   ]
 }

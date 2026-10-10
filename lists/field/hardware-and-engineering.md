@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**323 open roles.** 300 in the United States & Canada · 23 elsewhere in the world.
+**319 open roles.** 296 in the United States & Canada · 23 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2087,34 +2087,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/04ee0d06-35f3-4033-9f67-3fbc4de2a2b4">R&amp;D Laser Technician</a></td>
 <td>Bay Area, California</td>
 <td align="center"><a href="https://jobs.lever.co/diamondfoundry/7792fff7-27e0-4251-80dd-af1acf99b0ec/apply">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Gti Fabrication</strong></td>
-<td><a href="https://trueinterview.io/jobs/28f93675-e46f-4825-b3a0-ca5ccf521249">Industrial Electrical  Engineer</a></td>
-<td>Buffalo, NY<br/>Tempe, AZ</td>
-<td align="center"><a href="https://jobs.lever.co/gtifabrication/05c3e75d-a8a0-46db-a490-54ce518d2842/apply">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5b9695c7-f05a-47a7-8b26-a51713263138">Mechanical Design Engineer</a></td>
-<td>Tempe, AZ</td>
-<td align="center"><a href="https://jobs.lever.co/gtifabrication/ae952e8d-a962-4e3a-a2c8-0d9252d1996e/apply">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hadrian Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/27aeb5af-bf14-4d63-8380-6cca8c0cf641">CAM Programmer, Execution</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/ca2ab5f8-6a99-458a-9148-eee69122de14/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Albireo Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/19c54cbc-3106-4b07-b063-7775c83a1f82">Junior Engineer</a></td>
-<td>Denver, Colorado, United States</td>
-<td align="center"><a href="https://jobs.workable.com/view/uHiBtCCcQNsrtdPVLRjJuc/junior-engineer-in-denver-at-albireo-energy">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**15 open roles.** 14 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**14 open roles.** 13 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -107,13 +107,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Washington, DC<br/>Columbia, SC or Washington, DC<br/>Columbia, South Carolina<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5389735008">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Albireo Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/19c54cbc-3106-4b07-b063-7775c83a1f82">Junior Engineer</a></td>
-<td>Denver, Colorado, United States</td>
-<td align="center"><a href="https://jobs.workable.com/view/uHiBtCCcQNsrtdPVLRjJuc/junior-engineer-in-denver-at-albireo-energy">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>

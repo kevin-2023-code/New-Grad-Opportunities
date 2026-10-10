@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**103 open roles.** 66 in the United States & Canada · 37 elsewhere in the world. Postings the pipeline classified as remote.
+**101 open roles.** 64 in the United States & Canada · 37 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -464,20 +464,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — Canada</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8687926002">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Archive</strong></td>
-<td><a href="https://trueinterview.io/jobs/1136162e-1e33-4d2b-ad33-a539f41c68be">CX Operations &amp; AI Enablement Specialist</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Archive/1971d1ae-f5e2-4544-b6cd-d3fe141b2f9f/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>1password</strong></td>
-<td><a href="https://trueinterview.io/jobs/6994dff4-d60f-4d9f-bd27-46401300a83a">Privacy Engineer</a> 🌐</td>
-<td>Remote — United States, Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/1password/7f885c41-7572-439c-886f-bc508eb9a3d7/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>

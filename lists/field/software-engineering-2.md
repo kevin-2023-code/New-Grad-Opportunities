@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**428 open roles.** 295 in the United States & Canada · 133 elsewhere in the world.
+**425 open roles.** 292 in the United States & Canada · 133 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Next Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/28b89d63-6951-4574-83b6-af3862664921">Graduate Backend Software Engineer- UpNEXT Program</a></td>
-<td>Kfar Saba, Israel<br/>IL Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/nextinsurance66/jobs/7979131003">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Modus Create</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3fd043f-e1fb-4730-a8c0-460a618db6ff">Forward Deployed Engineer (Python, AI/ML, Generative AI) - UK based</a></td>
-<td>Greece<br/>Europe</td>
-<td align="center"><a href="https://moduscreate.com/careers/7978821003?gh_jid=7978821003">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>Sandisk</strong></td>
 <td><a href="https://trueinterview.io/jobs/0cd30ae5-9d1d-48c3-b9a7-af8c9e6b1461">Storage Rack Infrastructure Automation &amp; Cluster Bring-Up - Hive Program</a></td>
@@ -204,13 +190,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cb22bcdb-3979-415f-ba63-de9393eefeaf">ASSOCIATE SW SYSTEMS ENGINEER -10320</a></td>
 <td>Chennai, India</td>
 <td align="center"><a href="https://jobs.lever.co/extremenetworks/8b82c64d-32db-42bc-9070-c80a491d7534/apply">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>360dialog Gmbh</strong></td>
-<td><a href="https://trueinterview.io/jobs/4bfc6c25-bfc8-418c-896b-488e97247612">Infrastructure Engineer | Remote</a></td>
-<td>Portugal<br/>Romania<br/>Argentina<br/>+2 more</td>
-<td align="center"><a href="https://jobs.workable.com/view/rBDL3THA7JXWJTFZATTGNb/infrastructure-engineer-%7C-remote-in-portugal-at-360dialog-gmbh">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**127 open roles.** 98 in the United States & Canada · 29 elsewhere in the world.
+**124 open roles.** 95 in the United States & Canada · 29 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -680,27 +680,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8c06b429-f5ae-46cf-8338-44b3dba61d47">Cybersecurity Incident Response Triage Analyst</a></td>
 <td>Arlington, VA</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4704329006?gh_jid=4704329006">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Archive</strong></td>
-<td><a href="https://trueinterview.io/jobs/1136162e-1e33-4d2b-ad33-a539f41c68be">CX Operations &amp; AI Enablement Specialist</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Archive/1971d1ae-f5e2-4544-b6cd-d3fe141b2f9f/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ultraviolet Cyber</strong></td>
-<td><a href="https://trueinterview.io/jobs/21b1ec29-0d90-4dbc-a879-4557def818bb">Security Engineer (Active Top Secret Clearance)</a></td>
-<td>Herndon, VA</td>
-<td align="center"><a href="https://jobs.lever.co/uvcyber/3a5a2754-0dfc-4b72-86d3-67ba88f997fd/apply">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Huntress</strong></td>
-<td><a href="https://trueinterview.io/jobs/851c05e6-797b-40a4-882d-4e99bef8bbf9">SOC Support Specialist- Pacific or MountainTime Zone, Weekend Shift</a></td>
-<td>United States of America</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/huntress/jobs/7855135003">Apply</a></td>
 <td align="center">11 Aug 2026</td>
 </tr>
 </tbody>

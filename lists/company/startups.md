@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**52 open roles.** 37 in the United States & Canada · 15 elsewhere in the world. Early-stage technology companies.
+**51 open roles.** 37 in the United States & Canada · 14 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -385,13 +385,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Almaty, Kazakhstan</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/higgsfieldai/47d807b6-e32b-4e51-9440-cd9eb7cf2e10/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Skydropx Frenet</strong></td>
-<td><a href="https://trueinterview.io/jobs/1ef237bf-b528-4f1f-9e84-c00dcb5d2ad0">Data Analyst Jr</a></td>
-<td>Bogotá</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydropx/35d8afdc-6043-4ee2-8bb7-f4b1eb218a83/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>

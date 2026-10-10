@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**255 open roles.** 238 in the United States & Canada · 17 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**254 open roles.** 237 in the United States & Canada · 17 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1675,13 +1675,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Yokne'am Illit, North District, IL</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893396982426">Apply</a></td>
 <td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/29f95713-5f0f-4e8f-9d40-e82a1938bb58">Systems Software Engineer 1</a></td>
-<td>Nashville, TN, United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/342326">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>
