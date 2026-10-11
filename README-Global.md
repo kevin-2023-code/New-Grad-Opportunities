@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-11 00:47 UTC_
+_Last updated: 2026-10-11 13:57 UTC_
 
 **272 open new-grad roles** from **197 employers** · **19 posted in the last 7 days** · refreshed hourly
 
@@ -72,7 +72,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 ## 💻 Software Engineering
 
-[Back to top](#new-grad-opportunities--worldwide)
+[Back to top](#2026--2027-new-grad-tech-jobs--worldwide)
 
 <table>
 <thead>
@@ -326,7 +326,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/08d1cb84-509e-430e-9a54-35d62a0fb1d0">Drone Firmware Software Dev Engineer, Ring Robotics Platform Engineering</a></td>
 <td>GB, Cambridge</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10559120/drone-firmware-software-dev-engineer-ring-robotics-platform-engineering">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>Framework</strong></td>
@@ -624,7 +624,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 ## 🤖 Data, AI & Machine Learning
 
-[Back to top](#new-grad-opportunities--worldwide)
+[Back to top](#2026--2027-new-grad-tech-jobs--worldwide)
 
 <table>
 <thead>
@@ -1057,7 +1057,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 ## 🔧 Hardware & Engineering
 
-[Back to top](#new-grad-opportunities--worldwide)
+[Back to top](#2026--2027-new-grad-tech-jobs--worldwide)
 
 <table>
 <thead>
@@ -1143,7 +1143,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/935282f4-d801-41f6-9c1a-7e76ed24068a">Junior Verification Engineer</a></td>
 <td>IL, Haifa</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10542015/junior-verification-engineer">Apply</a></td>
-<td align="center">25d</td>
+<td align="center">26d</td>
 </tr>
 <tr>
 <td><strong>Field AI</strong></td>
@@ -1245,7 +1245,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 ## 📱 Product & Design
 
-[Back to top](#new-grad-opportunities--worldwide)
+[Back to top](#2026--2027-new-grad-tech-jobs--worldwide)
 
 <table>
 <thead>
@@ -1384,7 +1384,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 ## 📈 Quantitative Finance
 
-[Back to top](#new-grad-opportunities--worldwide)
+[Back to top](#2026--2027-new-grad-tech-jobs--worldwide)
 
 _Nothing posted in the last 14 days. The older roles below are still open._
 
@@ -1419,7 +1419,7 @@ _Nothing posted in the last 14 days. The older roles below are still open._
 
 ## 🧰 IT & Support
 
-[Back to top](#new-grad-opportunities--worldwide)
+[Back to top](#2026--2027-new-grad-tech-jobs--worldwide)
 
 <table>
 <thead>

@@ -32,7 +32,7 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-11 07:00 UTC_
+_Last updated: 2026-10-11 13:57 UTC_
 
 **829 open new-grad roles** from **414 employers** · **69 posted in the last 7 days** · refreshed hourly
 
@@ -86,7 +86,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 ## 💻 Software Engineering
 
-[Back to top](#new-grad-opportunities)
+[Back to top](#2026--2027-new-grad-tech-jobs)
 
 <table>
 <thead>
@@ -638,7 +638,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 ## 🤖 Data, AI & Machine Learning
 
-[Back to top](#new-grad-opportunities)
+[Back to top](#2026--2027-new-grad-tech-jobs)
 
 <table>
 <thead>
@@ -787,7 +787,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/797071da-7feb-4384-97e0-3078b28dd38a">Research Scientist, AI Secure Code, DeepMind</a></td>
 <td>Mountain View, CA<br/>San Francisco, CA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/74431926638650054-research-scientist-ai-secure-code-deepmind">Apply</a></td>
-<td align="center">17d</td>
+<td align="center">18d</td>
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
@@ -1078,7 +1078,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 ## 🔧 Hardware & Engineering
 
-[Back to top](#new-grad-opportunities)
+[Back to top](#2026--2027-new-grad-tech-jobs)
 
 <table>
 <thead>
@@ -1630,7 +1630,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 ## 📱 Product & Design
 
-[Back to top](#new-grad-opportunities)
+[Back to top](#2026--2027-new-grad-tech-jobs)
 
 <table>
 <thead>
@@ -1779,7 +1779,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/0c275d8c-fc68-473f-bcc1-af9ed925bcaf">Associate Product Manager (New Grad)</a></td>
 <td>New York, NY<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8199973?t=gh_src=&amp;gh_jid=8199973">Apply</a></td>
-<td align="center">26d</td>
+<td align="center">27d</td>
 </tr>
 <tr>
 <td><strong>Toptal</strong></td>
@@ -1958,7 +1958,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 ## 📈 Quantitative Finance
 
-[Back to top](#new-grad-opportunities)
+[Back to top](#2026--2027-new-grad-tech-jobs)
 
 _Nothing posted in the last 14 days. The older roles below are still open._
 
@@ -2000,7 +2000,7 @@ _Nothing posted in the last 14 days. The older roles below are still open._
 
 ## 🧰 IT & Support
 
-[Back to top](#new-grad-opportunities)
+[Back to top](#2026--2027-new-grad-tech-jobs)
 
 <table>
 <thead>
