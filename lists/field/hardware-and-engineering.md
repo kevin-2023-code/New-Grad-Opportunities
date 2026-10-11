@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**319 open roles.** 296 in the United States & Canada · 23 elsewhere in the world.
+**317 open roles.** 294 in the United States & Canada · 23 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2074,20 +2074,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Palo Alto, CA<br/>Redmond, WA<br/>Palo Alto - 1200</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8698729002?gh_jid=8698729002">Apply</a></td>
 <td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/02bffdeb-7092-4095-9578-8482ec0d8e48">Interposer Design Engineer</a></td>
-<td>Yokne'am Illit, North District, IL</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893396982426">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Diamond Foundry</strong></td>
-<td><a href="https://trueinterview.io/jobs/04ee0d06-35f3-4033-9f67-3fbc4de2a2b4">R&amp;D Laser Technician</a></td>
-<td>Bay Area, California</td>
-<td align="center"><a href="https://jobs.lever.co/diamondfoundry/7792fff7-27e0-4251-80dd-af1acf99b0ec/apply">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>

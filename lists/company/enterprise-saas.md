@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**56 open roles.** 40 in the United States & Canada · 16 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**55 open roles.** 39 in the United States & Canada · 16 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -289,13 +289,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, ON</td>
 <td align="center"><a href="https://jobs.lever.co/achievers/b0e92c1c-1b9e-4611-838f-f1e83cd82157/apply">Apply</a></td>
 <td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Quantcast</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e51fe60-db3b-4f6c-a62d-6436985753c1">Software Engineer - Full Stack</a> 🛂</td>
-<td>San Francisco, CA<br/>SF</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/quantcast/09271839-e273-472b-948d-3d362867f809/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>

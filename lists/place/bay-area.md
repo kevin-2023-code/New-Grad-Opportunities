@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**215 open roles.**
+**214 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1514,13 +1514,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Palo Alto, CA<br/>Palo Alto - 1200<br/>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8698729002?gh_jid=8698729002">Apply</a></td>
 <td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Quantcast</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e51fe60-db3b-4f6c-a62d-6436985753c1">Software Engineer - Full Stack</a> 🛂</td>
-<td>San Francisco, CA<br/>SF</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/quantcast/09271839-e273-472b-948d-3d362867f809/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**425 open roles.** 292 in the United States & Canada · 133 elsewhere in the world.
+**422 open roles.** 290 in the United States & Canada · 132 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Sandisk</strong></td>
-<td><a href="https://trueinterview.io/jobs/0cd30ae5-9d1d-48c3-b9a7-af8c9e6b1461">Storage Rack Infrastructure Automation &amp; Cluster Bring-Up - Hive Program</a></td>
-<td>Kfar Saba, Center District, Israel</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Sandisk/744000146063411-storage-rack-infrastructure-automation-cluster-bring-up-hive-program?oga=true">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Egen</strong></td>
-<td><a href="https://trueinterview.io/jobs/a917d6ad-57e9-4d0a-94bd-9fe0e4877e42">Client Partner - Early Velocity</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/egen/0cf2f1cb-f351-4597-89ff-3dac7f6844bd/apply">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>Percona</strong></td>
 <td><a href="https://trueinterview.io/jobs/3f9284b2-46ce-4d31-9220-6af2b8f9ed0f">Software Developer in Test (Talent Pool)</a></td>
@@ -184,13 +170,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London<br/>Spain<br/>Poland<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/b6b6aca9-e9bc-4a6c-955d-60adbbe56d51/application">Apply</a></td>
 <td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Extreme Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb22bcdb-3979-415f-ba63-de9393eefeaf">ASSOCIATE SW SYSTEMS ENGINEER -10320</a></td>
-<td>Chennai, India</td>
-<td align="center"><a href="https://jobs.lever.co/extremenetworks/8b82c64d-32db-42bc-9070-c80a491d7534/apply">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>

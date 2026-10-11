@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**80 open roles.** 72 in the United States & Canada · 8 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**79 open roles.** 72 in the United States & Canada · 7 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -581,13 +581,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Delft</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/quantware/44ae2864-733d-4259-a93b-e156372d44c3/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Extreme Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb22bcdb-3979-415f-ba63-de9393eefeaf">ASSOCIATE SW SYSTEMS ENGINEER -10320</a></td>
-<td>Chennai, India</td>
-<td align="center"><a href="https://jobs.lever.co/extremenetworks/8b82c64d-32db-42bc-9070-c80a491d7534/apply">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>

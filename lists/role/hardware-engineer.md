@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**48 open roles.** 47 in the United States & Canada · 1 elsewhere in the world.
+**47 open roles.** 46 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -337,13 +337,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/05baa9a5-5325-488b-8a9e-e85e07d715c8">Signal Integrity Engineer - Serdes, Satellites (Starlink)</a></td>
 <td>Palo Alto, CA<br/>Redmond, WA<br/>Palo Alto - 1200</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8698729002?gh_jid=8698729002">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/02bffdeb-7092-4095-9578-8482ec0d8e48">Interposer Design Engineer</a></td>
-<td>Yokne'am Illit, North District, IL</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893396982426">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 </tbody>

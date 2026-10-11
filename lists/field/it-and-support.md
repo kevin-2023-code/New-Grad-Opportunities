@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**124 open roles.** 95 in the United States & Canada · 29 elsewhere in the world.
+**123 open roles.** 94 in the United States & Canada · 29 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -674,13 +674,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, ON</td>
 <td align="center"><a href="https://jobs.lever.co/achievers/b0e92c1c-1b9e-4611-838f-f1e83cd82157/apply">Apply</a></td>
 <td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Accenture Federal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/8c06b429-f5ae-46cf-8338-44b3dba61d47">Cybersecurity Incident Response Triage Analyst</a></td>
-<td>Arlington, VA</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4704329006?gh_jid=4704329006">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>

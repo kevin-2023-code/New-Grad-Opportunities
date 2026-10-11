@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**425 open roles.** 292 in the United States & Canada · 133 elsewhere in the world.
+**422 open roles.** 290 in the United States & Canada · 132 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2049,20 +2049,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014551564-associate-software-engineer-i?oga=true">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Motional</strong></td>
-<td><a href="https://trueinterview.io/jobs/34cd3502-c2f6-4096-86df-a6582f7576e5">Associate AV Test Engineer</a></td>
-<td>Pittsburgh, Pennsylvania, United States</td>
-<td align="center"><a href="https://motional.com/open-positions/?gh_jid=7855051003">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Quantcast</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e51fe60-db3b-4f6c-a62d-6436985753c1">Software Engineer - Full Stack</a> 🛂</td>
-<td>San Francisco, CA<br/>SF</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/quantcast/09271839-e273-472b-948d-3d362867f809/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2830,6 +2816,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Greece<br/>Europe</td>
 <td align="center"><a href="https://moduscreate.com/careers/7978821003?gh_jid=7978821003">Apply</a></td>
 <td align="center">27 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Sandisk</strong></td>
+<td><a href="https://trueinterview.io/jobs/0cd30ae5-9d1d-48c3-b9a7-af8c9e6b1461">Storage Rack Infrastructure Automation &amp; Cluster Bring-Up - Hive Program</a></td>
+<td>Kfar Saba, Center District, Israel</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sandisk/744000146063411-storage-rack-infrastructure-automation-cluster-bring-up-hive-program?oga=true">Apply</a></td>
+<td align="center">27 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Egen</strong></td>
+<td><a href="https://trueinterview.io/jobs/a917d6ad-57e9-4d0a-94bd-9fe0e4877e42">Client Partner - Early Velocity</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.lever.co/egen/0cf2f1cb-f351-4597-89ff-3dac7f6844bd/apply">Apply</a></td>
+<td align="center">25 Aug 2026</td>
 </tr>
 </tbody>
 </table>

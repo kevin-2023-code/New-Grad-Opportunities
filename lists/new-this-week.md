@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**89 open roles.** 70 in the United States & Canada · 19 elsewhere in the world. Everything the employers put up this week.
+**88 open roles.** 69 in the United States & Canada · 19 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -499,13 +499,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Westford, Massachusetts, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Westford-Massachusetts-United-States-of-America/Success-Service-Manager-Graduate_1215017-1">Apply</a></td>
 <td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Imentor</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e9fa695-3b82-44a1-a596-725ab9cd999e">Salesforce Administrator</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.lever.co/imentor/0836a41e-1a1c-4447-953e-7d1e191cbc89/apply">Apply</a></td>
-<td align="center">2 Oct 2026</td>
 </tr>
 </tbody>
 </table>

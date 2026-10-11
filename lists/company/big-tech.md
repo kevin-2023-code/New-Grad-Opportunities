@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**254 open roles.** 237 in the United States & Canada · 17 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**253 open roles.** 236 in the United States & Canada · 17 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1667,13 +1667,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/952f14f1-1a80-4c62-b7a2-1d29cd61674d">Data Center Production Operations Engineer</a></td>
 <td>Henrico, VA, US<br/>Mesa, AZ, US<br/>Temple, TX, US<br/>+12 more</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1626919348826835/">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/02bffdeb-7092-4095-9578-8482ec0d8e48">Interposer Design Engineer</a></td>
-<td>Yokne'am Illit, North District, IL</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893396982426">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**159 open roles.** 157 in the United States & Canada · 2 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**158 open roles.** 156 in the United States & Canada · 2 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1108,13 +1108,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893395048676">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/02bffdeb-7092-4095-9578-8482ec0d8e48">Interposer Design Engineer</a></td>
-<td>Yokne'am Illit, North District, IL</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893396982426">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>

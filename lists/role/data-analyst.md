@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**26 open roles.** 11 in the United States & Canada · 15 elsewhere in the world.
+**25 open roles.** 10 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,13 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Montréal, QC<br/>Québec, QC</td>
 <td align="center"><a href="https://jobs.lever.co/mirego/3e376c52-7eaf-4ced-9086-940510b4735f/apply">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Leavitt Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/47839761-a695-47d9-9655-b244ffa0ed20">Data Analyst (Employee Benefits)</a></td>
-<td>South Salt Lake City, UT</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/leavitt/c989b74f-e8f2-4b84-91d3-a50c1acebdf2/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>

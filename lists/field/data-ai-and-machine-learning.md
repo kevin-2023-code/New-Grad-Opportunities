@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**178 open roles.** 107 in the United States & Canada · 71 elsewhere in the world.
+**176 open roles.** 106 in the United States & Canada · 70 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -759,13 +759,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.lever.co/pelmorex/d3299ab7-014e-414d-a9e1-be27875af247/apply">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Leavitt Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/47839761-a695-47d9-9655-b244ffa0ed20">Data Analyst (Employee Benefits)</a></td>
-<td>South Salt Lake City, UT</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/leavitt/c989b74f-e8f2-4b84-91d3-a50c1acebdf2/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1267,13 +1260,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.lever.co/loadsmart/8acd2950-f978-4d55-8288-acb46cf6120c/apply">Apply</a></td>
 <td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Bw</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a7d8b88-6389-439d-8e9e-8ff6e0c6b0d1">BW - Especialista Engenheiro Dados</a></td>
-<td>São Paulo - SP<br/>Sao Paulo - Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/bw/jobs/5371054008">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>

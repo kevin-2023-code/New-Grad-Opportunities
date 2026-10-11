@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**166 open roles.** 123 in the United States & Canada · 43 elsewhere in the world.
+**164 open roles.** 122 in the United States & Canada · 42 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -871,13 +871,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014551564-associate-software-engineer-i?oga=true">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Quantcast</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e51fe60-db3b-4f6c-a62d-6436985753c1">Software Engineer - Full Stack</a> 🛂</td>
-<td>San Francisco, CA<br/>SF</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/quantcast/09271839-e273-472b-948d-3d362867f809/application">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1183,13 +1176,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore<br/>CEP Core Engineering Products</td>
 <td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005734201?gh_jid=4005734201">Apply</a></td>
 <td align="center">16 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Extreme Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb22bcdb-3979-415f-ba63-de9393eefeaf">ASSOCIATE SW SYSTEMS ENGINEER -10320</a></td>
-<td>Chennai, India</td>
-<td align="center"><a href="https://jobs.lever.co/extremenetworks/8b82c64d-32db-42bc-9070-c80a491d7534/apply">Apply</a></td>
-<td align="center">11 Aug 2026</td>
 </tr>
 </tbody>
 </table>
