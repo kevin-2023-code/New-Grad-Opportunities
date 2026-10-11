@@ -1,6 +1,6 @@
 <div align="center">
 
-# New Grad Opportunities
+# 2026 & 2027 New Grad Tech Jobs
 
 **Every open entry-level full-time tech role in the catalog — refreshed hourly, and filtered the way you actually search.**
 

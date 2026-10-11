@@ -1,4 +1,4 @@
-# New Grad Opportunities — Worldwide
+# 2026 & 2027 New Grad Tech Jobs — Worldwide
 
 **Entry-level, full-time tech roles for new graduates, outside the United States and Canada — refreshed every hour.**
 
