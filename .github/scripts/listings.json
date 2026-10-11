@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-11T00:47:44.937Z",
-  "count": 1102,
+  "listingsChangedAt": "2026-10-11T07:00:07.936Z",
+  "count": 1101,
   "listings": [
     {
       "id": "31209d09-1fe9-48cf-a29f-4f09a58ab4ef",
@@ -28993,32 +28993,6 @@
       "url": "https://trueinterview.io/jobs/05baa9a5-5325-488b-8a9e-e85e07d715c8",
       "postedAt": "2026-08-12T16:20:21.000Z",
       "updatedAt": "2026-08-12T16:21:16.000Z"
-    },
-    {
-      "id": "416c5c05-d5cd-4447-bc2e-56343d4df450",
-      "company": "AbbVie",
-      "title": "Associate Software Engineer 1",
-      "locations": [
-        "North Chicago, IL, United States",
-        "North Chicago, IL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": "Other",
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990014551564-associate-software-engineer-i?oga=true",
-      "url": "https://trueinterview.io/jobs/416c5c05-d5cd-4447-bc2e-56343d4df450",
-      "postedAt": "2026-08-11T22:15:33.000Z",
-      "updatedAt": "2026-08-12T01:23:40.000Z"
     }
   ]
 }
