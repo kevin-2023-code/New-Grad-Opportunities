@@ -12,6 +12,7 @@
 [**🌍 Outside the US & Canada**](./README-Global.md) &nbsp;·&nbsp;
 [**🎓 Internships**](https://github.com/kevin-2023-code/Internship-Opportunities) &nbsp;·&nbsp;
 [**📝 What they ask in the interview**](https://github.com/kevin-2023-code/Tech-Interview-Questions) &nbsp;·&nbsp;
+[**🎯 OA questions at AI labs, quant & MAANG**](https://github.com/kevin-2023-code/Tech-OA-Questions) &nbsp;·&nbsp;
 [Report a row](../../issues/new)
 
 </div>
@@ -2600,6 +2601,7 @@ the registry. Changes to how the list is built are pull requests against `.githu
 | --- | --- |
 | 🎓 [**Internship-Opportunities**](https://github.com/kevin-2023-code/Internship-Opportunities) | The same pipeline, pointed at internships and co-ops. |
 | 📝 [**Tech-Interview-Questions**](https://github.com/kevin-2023-code/Tech-Interview-Questions) | What these companies actually ask: real OA and interview questions, and how each company's loop runs, company by company. |
+| 🎯 [**Tech-OA-Questions**](https://github.com/kevin-2023-code/Tech-OA-Questions) | OA and interview questions for experienced hires — Senior, Staff+, ML & research scientist and quant — at AI labs, quant firms and MAANG, with the level and the round on every row. |
 | 🧭 [**TrueInterview**](https://trueinterview.io) | The catalog behind all three, plus CV tailoring, application tracking and a runnable practice workspace. |
 
 ## Licence
