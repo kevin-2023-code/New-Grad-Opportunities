@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**123 open roles.** 94 in the United States & Canada · 29 elsewhere in the world.
+**121 open roles.** 93 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -668,13 +668,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1626919348826835/">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Achievers</strong></td>
-<td><a href="https://trueinterview.io/jobs/13df8fd7-3041-409d-afdb-e4fe920bbab1">Technical Support Analyst</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://jobs.lever.co/achievers/b0e92c1c-1b9e-4611-838f-f1e83cd82157/apply">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -882,13 +875,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Tokyo, Japan</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/notion/5ea0ebb1-296a-4b41-b598-b2696d20d238/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Buena</strong></td>
-<td><a href="https://trueinterview.io/jobs/25ede0a7-7273-4c73-a554-85a7758cc188">Software Trainer (m/f/d)</a></td>
-<td>Berlin</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/buena/2850577e-e341-4b80-9658-74dbd37345ab/application">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>

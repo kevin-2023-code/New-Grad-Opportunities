@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-11T07:00:07.936Z",
-  "count": 1101,
+  "listingsChangedAt": "2026-10-11T18:46:45.987Z",
+  "count": 1097,
   "listings": [
     {
       "id": "31209d09-1fe9-48cf-a29f-4f09a58ab4ef",
@@ -28883,116 +28883,6 @@
       "url": "https://trueinterview.io/jobs/728b4e59-ffd6-40d7-b387-706ba9c4642b",
       "postedAt": "2026-08-12T18:58:51.000Z",
       "updatedAt": "2026-08-12T18:58:51.000Z"
-    },
-    {
-      "id": "13df8fd7-3041-409d-afdb-e4fe920bbab1",
-      "company": "Achievers",
-      "title": "Technical Support Analyst",
-      "locations": [
-        "Toronto"
-      ],
-      "cities": [
-        "Toronto, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/achievers/b0e92c1c-1b9e-4611-838f-f1e83cd82157/apply",
-      "url": "https://trueinterview.io/jobs/13df8fd7-3041-409d-afdb-e4fe920bbab1",
-      "postedAt": "2026-08-12T18:29:00.000Z",
-      "updatedAt": "2026-08-12T18:29:00.000Z"
-    },
-    {
-      "id": "a513d8d0-76c4-4e73-a318-ecbca91fc09d",
-      "company": "Uniswap Labs",
-      "title": "Software Engineer- General Interest",
-      "locations": [
-        "New York"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/uniswap/bb981823-b923-4f53-95ba-19d732c1caf3/application",
-      "url": "https://trueinterview.io/jobs/a513d8d0-76c4-4e73-a318-ecbca91fc09d",
-      "postedAt": "2026-08-12T17:20:29.000Z",
-      "updatedAt": "2026-08-12T17:20:29.000Z"
-    },
-    {
-      "id": "25ede0a7-7273-4c73-a554-85a7758cc188",
-      "company": "Buena",
-      "title": "Software Trainer (m/f/d)",
-      "locations": [
-        "Berlin"
-      ],
-      "cities": [
-        "Berlin"
-      ],
-      "countries": [
-        "Germany"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/buena/2850577e-e341-4b80-9658-74dbd37345ab/application",
-      "url": "https://trueinterview.io/jobs/25ede0a7-7273-4c73-a554-85a7758cc188",
-      "postedAt": "2026-08-12T16:43:43.000Z",
-      "updatedAt": "2026-08-12T16:43:43.000Z"
-    },
-    {
-      "id": "05baa9a5-5325-488b-8a9e-e85e07d715c8",
-      "company": "SpaceX",
-      "title": "Signal Integrity Engineer - Serdes, Satellites (Starlink)",
-      "locations": [
-        "Redmond, WA",
-        "Palo Alto, CA",
-        "Palo Alto - 1200"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8698729002?gh_jid=8698729002",
-      "url": "https://trueinterview.io/jobs/05baa9a5-5325-488b-8a9e-e85e07d715c8",
-      "postedAt": "2026-08-12T16:20:21.000Z",
-      "updatedAt": "2026-08-12T16:21:16.000Z"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**88 open roles.** 69 in the United States & Canada · 19 elsewhere in the world. Everything the employers put up this week.
+**87 open roles.** 69 in the United States & Canada · 18 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -637,13 +637,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Sofia</td>
 <td align="center"><a href="https://jobs.lever.co/megaport/3ba89584-e74d-4d06-8f51-b39e33b37e8f/apply">Apply</a></td>
 <td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/f55c652a-4739-4b02-a9d2-89b1e7444b76">Entry-Level Robot Learning Engineer</a></td>
-<td>Munich</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/clera/0fe56373-a3d1-48ee-ba8a-f4faeffa37f7/application">Apply</a></td>
-<td align="center">3 Oct 2026</td>
 </tr>
 </tbody>
 </table>
