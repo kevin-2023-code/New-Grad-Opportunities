@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**176 open roles.** 106 in the United States & Canada · 70 elsewhere in the world.
+**176 open roles.** 107 in the United States & Canada · 69 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Clera</strong></td>
+<td><a href="https://trueinterview.io/jobs/3bbc5570-cc23-44fb-b20c-0f82db8ff300">AI/ML Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4p8vy38g8qt3s5erg0sabpe">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mercor</strong></td>
+<td><a href="https://trueinterview.io/jobs/967b34e2-f1b4-456b-bf33-5868e7c8e504">data engineer</a></td>
+<td>Toronto, ON</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50476413">Apply</a></td>
+<td align="center">11 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Roblox</strong></td>
 <td><a href="https://trueinterview.io/jobs/d0cf02f6-fab5-4f15-a9eb-fcfe6b89ac21">[2027] Senior Machine Learning Engineer - PhD Early Career</a></td>
@@ -752,13 +766,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/sunnydata/481b5618-576c-4297-b27c-dd11c3cd36cb/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Pelmorex</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e03e878-73c8-4810-9e96-dd74aad45bed">Data Scientist - Hybrid</a></td>
-<td>Oakville, Canada</td>
-<td align="center"><a href="https://jobs.lever.co/pelmorex/d3299ab7-014e-414d-a9e1-be27875af247/apply">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1253,13 +1260,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Almaty, Kazakhstan</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/higgsfieldai/47d807b6-e32b-4e51-9440-cd9eb7cf2e10/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Loadsmart</strong></td>
-<td><a href="https://trueinterview.io/jobs/37d76277-c221-43d8-9618-661b4be00587">Analytics Engineer (Remote - Brazil)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/loadsmart/8acd2950-f978-4d55-8288-acb46cf6120c/apply">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>

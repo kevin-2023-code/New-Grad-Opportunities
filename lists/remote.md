@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**101 open roles.** 64 in the United States & Canada · 37 elsewhere in the world. Postings the pipeline classified as remote.
+**100 open roles.** 64 in the United States & Canada · 36 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -728,13 +728,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/bpcs/jobs/8129208">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Loadsmart</strong></td>
-<td><a href="https://trueinterview.io/jobs/37d76277-c221-43d8-9618-661b4be00587">Analytics Engineer (Remote - Brazil)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/loadsmart/8acd2950-f978-4d55-8288-acb46cf6120c/apply">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>

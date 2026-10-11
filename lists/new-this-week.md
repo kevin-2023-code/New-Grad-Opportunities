@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**87 open roles.** 69 in the United States & Canada · 18 elsewhere in the world. Everything the employers put up this week.
+**91 open roles.** 72 in the United States & Canada · 19 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Clera</strong></td>
+<td><a href="https://trueinterview.io/jobs/3bbc5570-cc23-44fb-b20c-0f82db8ff300">AI/ML Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4p8vy38g8qt3s5erg0sabpe">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mercor</strong></td>
+<td><a href="https://trueinterview.io/jobs/967b34e2-f1b4-456b-bf33-5868e7c8e504">data engineer</a></td>
+<td>Toronto, ON</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50476413">Apply</a></td>
+<td align="center">11 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/36dd9f42-707a-48f9-90c1-3509d73a883b">Software Engineer, DL Kernel Libraries - New College Grad 2027</a></td>
+<td>US, CA, Santa Clara</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337">Apply</a></td>
+<td align="center">11 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Acorn Product Development, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/9c87896f-c2f1-43a2-b210-02ee964a80d8">Mechanical Engineer</a></td>
@@ -512,6 +533,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Opengov</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c1245be-9bca-40b5-a41e-501ef0b84230">Technical Support Specialist</a></td>
+<td>Pune<br/>India</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4p8yp4vfvfbr2ngkscmha82">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Wix</strong></td>
 <td><a href="https://trueinterview.io/jobs/31209d09-1fe9-48cf-a29f-4f09a58ab4ef">QA Engineer</a></td>

@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**79 open roles.** 72 in the United States & Canada · 7 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**78 open roles.** 71 in the United States & Canada · 7 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -513,13 +513,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US-NJ-Budd Lake<br/>Budd Lake, New Jersey, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/53809?lang=en-us">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Formlabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/5705c9e5-acc7-4376-bb8c-dae9199ba27a">Software Product Designer</a></td>
-<td>Somerville, Massachusetts</td>
-<td align="center"><a href="https://careers.formlabs.com/job/8126211/apply/?gh_jid=8126211">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>

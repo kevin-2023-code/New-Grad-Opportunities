@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**77 open roles.** 49 in the United States & Canada · 28 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**73 open roles.** 45 in the United States & Canada · 28 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -331,34 +331,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Washington, DC<br/>Arlington, VA</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4706290006?gh_jid=4706290006">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Thinkingbox</strong></td>
-<td><a href="https://trueinterview.io/jobs/57a93eea-8a19-46f0-81b6-c66b4b2154be">Designer - Thinkingbox</a></td>
-<td>Vancouver, BC</td>
-<td align="center"><a href="https://jobs.lever.co/thinkingbox/a90629b1-9cea-4a33-bdb8-da5e9ef55ba9/apply">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Accenture Federal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/37916a7c-f339-4444-95d1-143aef9ac759">Oracle Cloud HCM HR HelpDesk Specialist</a></td>
-<td>Washington, DC<br/>Arlington, VA</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4704739006?gh_jid=4704739006">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/87a75e82-88c4-4fa3-8c2c-d114c954ba39">Oracle Cloud HCM Absence Management Specialist</a></td>
-<td>Washington, DC<br/>Arlington, VA</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4704717006?gh_jid=4704717006">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Redhorse Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f679bd1-b8dd-4c6c-a999-1c2074d3388f">UX/UI Designer</a></td>
-<td>Huntsville, AL</td>
-<td align="center"><a href="https://jobs.lever.co/redhorsecorp/c9494346-6f29-4349-8266-fde069c302d5/apply">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**26 open roles.** 14 in the United States & Canada · 12 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**25 open roles.** 14 in the United States & Canada · 11 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -203,13 +203,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>San Diego</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/shein/jobs/5391659008">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Loadsmart</strong></td>
-<td><a href="https://trueinterview.io/jobs/37d76277-c221-43d8-9618-661b4be00587">Analytics Engineer (Remote - Brazil)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/loadsmart/8acd2950-f978-4d55-8288-acb46cf6120c/apply">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>

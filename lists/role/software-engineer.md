@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**162 open roles.** 120 in the United States & Canada · 42 elsewhere in the world.
+**163 open roles.** 121 in the United States & Canada · 42 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/36dd9f42-707a-48f9-90c1-3509d73a883b">Software Engineer, DL Kernel Libraries - New College Grad 2027</a></td>
+<td>US, CA, Santa Clara</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337">Apply</a></td>
+<td align="center">11 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Alo</strong></td>
 <td><a href="https://trueinterview.io/jobs/dc2ab2a7-9bbe-4e72-a9d6-6ad6bf07d2ca">Computer Programmer</a></td>

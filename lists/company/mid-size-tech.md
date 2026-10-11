@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**49 open roles.** 36 in the United States & Canada · 13 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**48 open roles.** 35 in the United States & Canada · 13 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -261,13 +261,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Canada</td>
 <td align="center"><a href="https://jobs.lever.co/agiloft/da2bdd58-3001-47b3-8dad-fe6a0f90be88/apply">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Formlabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/5705c9e5-acc7-4376-bb8c-dae9199ba27a">Software Product Designer</a></td>
-<td>Somerville, Massachusetts</td>
-<td align="center"><a href="https://careers.formlabs.com/job/8126211/apply/?gh_jid=8126211">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>

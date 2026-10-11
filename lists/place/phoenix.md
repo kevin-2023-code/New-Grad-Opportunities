@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**22 open roles.**
+**21 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -163,13 +163,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Phoenix, AZ<br/>Austin, TX<br/>Malta, NY, United States of America<br/>+4 more</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Malta-NY/Customer-Support-Engineer--E-_2640005">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/952f14f1-1a80-4c62-b7a2-1d29cd61674d">Data Center Production Operations Engineer</a></td>
-<td>Mesa, AZ, US<br/>Henrico, VA, US<br/>Temple, TX, US<br/>+12 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1626919348826835/">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>

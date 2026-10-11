@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**121 open roles.** 93 in the United States & Canada · 28 elsewhere in the world.
+**119 open roles.** 90 in the United States & Canada · 29 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -647,27 +647,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://careers.micron.com/careers/job/43814429">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Accenture Federal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/37916a7c-f339-4444-95d1-143aef9ac759">Oracle Cloud HCM HR HelpDesk Specialist</a></td>
-<td>Washington, DC<br/>Arlington, VA</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4704739006?gh_jid=4704739006">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/87a75e82-88c4-4fa3-8c2c-d114c954ba39">Oracle Cloud HCM Absence Management Specialist</a></td>
-<td>Washington, DC<br/>Arlington, VA</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4704717006?gh_jid=4704717006">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/952f14f1-1a80-4c62-b7a2-1d29cd61674d">Data Center Production Operations Engineer</a></td>
-<td>Henrico, VA, US<br/>Mesa, AZ, US<br/>Temple, TX, US<br/>+12 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1626919348826835/">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -680,6 +659,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Opengov</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c1245be-9bca-40b5-a41e-501ef0b84230">Technical Support Specialist</a></td>
+<td>Pune<br/>India</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4p8yp4vfvfbr2ngkscmha82">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Megaport</strong></td>
 <td><a href="https://trueinterview.io/jobs/f276d9dc-c625-4c04-89dd-e73f73f58624">Network Procurement Officer</a></td>

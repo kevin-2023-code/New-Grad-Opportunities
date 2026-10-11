@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**316 open roles.** 293 in the United States & Canada · 23 elsewhere in the world.
+**314 open roles.** 291 in the United States & Canada · 23 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2053,20 +2053,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893395048676">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Path Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/0216016d-6a85-4fc9-bc34-1ed9693db4da">Welding Solutions Sales Engineer</a></td>
-<td>Columbus, Ohio<br/>Path Robotics</td>
-<td align="center"><a href="https://boards.greenhouse.io/pathrobotics/jobs/8702019002?gh_jid=8702019002">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/728b4e59-ffd6-40d7-b387-706ba9c4642b">Guidance, Navigation &amp; Control (GNC) Engineer - Navigation and Estimation- Air Dominance &amp; Strike</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5210670007?gh_jid=5210670007">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>

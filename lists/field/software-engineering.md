@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**420 open roles.** 288 in the United States & Canada · 132 elsewhere in the world.
+**419 open roles.** 288 in the United States & Canada · 131 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/36dd9f42-707a-48f9-90c1-3509d73a883b">Software Engineer, DL Kernel Libraries - New College Grad 2027</a></td>
+<td>US, CA, Santa Clara</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337">Apply</a></td>
+<td align="center">11 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Alo</strong></td>
 <td><a href="https://trueinterview.io/jobs/dc2ab2a7-9bbe-4e72-a9d6-6ad6bf07d2ca">Computer Programmer</a></td>
@@ -2027,13 +2034,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>USA-IL Lisle Warrenville Road, United States of America</td>
 <td align="center"><a href="https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-IL-Lisle-Warrenville-Road/Support-Engineer---Mainframe_R026779">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>E-Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/421b76b4-eced-47b7-b8f8-58302329e83a">Test Automation Engineer — 5G Core &amp; Device Functions</a></td>
-<td>Saratoga, CA</td>
-<td align="center"><a href="https://jobs.lever.co/espace/c30b4afe-f552-4043-9448-d43f101e1156/apply">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>

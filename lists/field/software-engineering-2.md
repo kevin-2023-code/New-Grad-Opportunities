@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**420 open roles.** 288 in the United States & Canada · 132 elsewhere in the world.
+**419 open roles.** 288 in the United States & Canada · 131 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -149,13 +149,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Gurugram - Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/anaplan/jobs/8636271002">Apply</a></td>
 <td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>ElevenLabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a09aff4-a869-4755-ab12-6e7b70781830">Martech Engineer</a></td>
-<td>London<br/>Spain<br/>Poland<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/b6b6aca9-e9bc-4a6c-955d-60adbbe56d51/application">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>

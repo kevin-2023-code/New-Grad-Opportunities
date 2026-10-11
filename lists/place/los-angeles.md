@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**55 open roles.**
+**54 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -394,13 +394,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Irvine, CA</td>
 <td align="center"><a href="https://jobs.lever.co/field-ai/9a92c550-5f4c-48c6-b4d4-f44a0a146a15/apply">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/728b4e59-ffd6-40d7-b387-706ba9c4642b">Guidance, Navigation &amp; Control (GNC) Engineer - Navigation and Estimation- Air Dominance &amp; Strike</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5210670007?gh_jid=5210670007">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>

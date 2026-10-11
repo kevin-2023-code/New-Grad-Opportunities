@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**27 open roles.** 19 in the United States & Canada · 8 elsewhere in the world.
+**26 open roles.** 19 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Mercor</strong></td>
+<td><a href="https://trueinterview.io/jobs/967b34e2-f1b4-456b-bf33-5868e7c8e504">data engineer</a></td>
+<td>Toronto, ON</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50476413">Apply</a></td>
+<td align="center">11 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/a664e30d-f509-47dc-a26a-3b384c5c8623">Data Engineer, 2027 Graduate U.S</a></td>
@@ -143,13 +150,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/sunnydata/481b5618-576c-4297-b27c-dd11c3cd36cb/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/952f14f1-1a80-4c62-b7a2-1d29cd61674d">Data Center Production Operations Engineer</a></td>
-<td>Henrico, VA, US<br/>Mesa, AZ, US<br/>Temple, TX, US<br/>+12 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1626919348826835/">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -210,13 +210,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo, , Brazil</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000144842431-engenheiro-de-dados-pleno?oga=true">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Loadsmart</strong></td>
-<td><a href="https://trueinterview.io/jobs/37d76277-c221-43d8-9618-661b4be00587">Analytics Engineer (Remote - Brazil)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/loadsmart/8acd2950-f978-4d55-8288-acb46cf6120c/apply">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>
