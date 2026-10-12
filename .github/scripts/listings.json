@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-12T02:14:22.382Z",
-  "count": 1082,
+  "listingsChangedAt": "2026-10-12T10:36:05.949Z",
+  "count": 1079,
   "listings": [
     {
       "id": "3bbc5570-cc23-44fb-b20c-0f82db8ff300",
@@ -1701,35 +1701,6 @@
       "updatedAt": "2026-10-07T00:00:00.000Z"
     },
     {
-      "id": "adc8ae4a-b260-4abd-8370-6b32e2254499",
-      "company": "Cisco",
-      "title": "Machine Learning Engineer - CTO innovations",
-      "locations": [
-        "San Francisco, California, US, United States of America",
-        "San Jose, California, US"
-      ],
-      "cities": [
-        "San Francisco, CA",
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Machine-Learning-Engineer---CTO-innovations_2026806",
-      "url": "https://trueinterview.io/jobs/adc8ae4a-b260-4abd-8370-6b32e2254499",
-      "postedAt": "2026-10-07T00:00:00.000Z",
-      "updatedAt": "2026-10-07T00:00:00.000Z"
-    },
-    {
       "id": "60d72652-7504-436b-9ee1-fe84ee9dcad2",
       "company": "Infineon",
       "title": "Graduate - Equipment Engineer",
@@ -2949,32 +2920,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/D12091",
       "url": "https://trueinterview.io/jobs/745ac4b0-9a2d-4133-a440-4cf53555650f",
-      "postedAt": "2026-10-01T00:00:00.000Z",
-      "updatedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "id": "c685f854-3e8d-43c2-8369-469a4eb8d829",
-      "company": "Dell",
-      "title": "IT Graduate Development Program (ITDP) – AI-Native Software Engineer",
-      "locations": [
-        "Limerick, Co. Limerick, Ireland"
-      ],
-      "cities": [],
-      "countries": [
-        "United States",
-        "Ireland"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/298152",
-      "url": "https://trueinterview.io/jobs/c685f854-3e8d-43c2-8369-469a4eb8d829",
       "postedAt": "2026-10-01T00:00:00.000Z",
       "updatedAt": "2026-10-01T00:00:00.000Z"
     },
@@ -23196,32 +23141,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010466",
       "url": "https://trueinterview.io/jobs/d44f6ba0-c284-48c1-aee5-8b96e37579f2",
-      "postedAt": "2026-08-27T00:00:00.000Z",
-      "updatedAt": "2026-08-27T00:00:00.000Z"
-    },
-    {
-      "id": "6c1131d1-763b-4707-82bb-6b635fa68b44",
-      "company": "Intel",
-      "title": "Metrology Engineering Technican",
-      "locations": [
-        "US, Arizona, Phoenix",
-        "US, Arizona, Phoenix, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Metrology-Engineering-Technican_JR0286742",
-      "url": "https://trueinterview.io/jobs/6c1131d1-763b-4707-82bb-6b635fa68b44",
       "postedAt": "2026-08-27T00:00:00.000Z",
       "updatedAt": "2026-08-27T00:00:00.000Z"
     },

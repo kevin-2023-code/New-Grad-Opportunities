@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**214 open roles.**
+**213 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -148,13 +148,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8c359a2c-5ada-432f-acee-1a2a2e0ecbd8">Data Analyst I (Full Time) - United States</a></td>
 <td>San Jose, California, US, United States of America<br/>Austin, TX<br/>Austin, Texas, US<br/>+1 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Data-Analyst-I--Full-Time----United-States_2024556-1">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/adc8ae4a-b260-4abd-8370-6b32e2254499">Machine Learning Engineer - CTO innovations</a></td>
-<td>San Francisco, California, US, United States of America<br/>San Jose, California, US</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Machine-Learning-Engineer---CTO-innovations_2026806">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>

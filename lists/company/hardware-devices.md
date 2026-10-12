@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**77 open roles.** 70 in the United States & Canada · 7 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**75 open roles.** 68 in the United States & Canada · 7 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8c359a2c-5ada-432f-acee-1a2a2e0ecbd8">Data Analyst I (Full Time) - United States</a></td>
 <td>San Jose, California, US, United States of America<br/>Austin, TX<br/>Austin, Texas, US<br/>+1 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Data-Analyst-I--Full-Time----United-States_2024556-1">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/adc8ae4a-b260-4abd-8370-6b32e2254499">Machine Learning Engineer - CTO innovations</a></td>
-<td>San Francisco, California, US, United States of America<br/>San Jose, California, US</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Machine-Learning-Engineer---CTO-innovations_2026806">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
@@ -113,13 +106,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/745ac4b0-9a2d-4133-a440-4cf53555650f">Graduate, Automation Engineer Cork</a></td>
 <td>Limerick, Co. Limerick, Ireland</td>
 <td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/D12091">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c685f854-3e8d-43c2-8369-469a4eb8d829">IT Graduate Development Program (ITDP) – AI-Native Software Engineer</a></td>
-<td>Limerick, Co. Limerick, Ireland</td>
-<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/298152">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>

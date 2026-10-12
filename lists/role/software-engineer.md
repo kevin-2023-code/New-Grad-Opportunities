@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**163 open roles.** 121 in the United States & Canada · 42 elsewhere in the world.
+**162 open roles.** 120 in the United States & Canada · 42 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -78,13 +78,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/79d2108e-ef6c-4757-8ae1-2f6444fd86a3">New College Grad Software Engineer I (Bachelors - Santa Clara, CA)</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318649477">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/adc8ae4a-b260-4abd-8370-6b32e2254499">Machine Learning Engineer - CTO innovations</a></td>
-<td>San Francisco, California, US, United States of America<br/>San Jose, California, US</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Machine-Learning-Engineer---CTO-innovations_2026806">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>

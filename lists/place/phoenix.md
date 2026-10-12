@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**21 open roles.**
+**20 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -128,13 +128,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Phoenix, AZ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/lucidmotors/jobs/5228159007">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c1131d1-763b-4707-82bb-6b635fa68b44">Metrology Engineering Technican</a></td>
-<td>US, Arizona, Phoenix, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Metrology-Engineering-Technican_JR0286742">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>KLA</strong></td>

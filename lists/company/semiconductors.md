@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**154 open roles.** 152 in the United States & Canada · 2 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**153 open roles.** 151 in the United States & Canada · 2 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -862,13 +862,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d44f6ba0-c284-48c1-aee5-8b96e37579f2">Embedded Systems Software &amp; FPGA Programmer</a></td>
 <td>Horseheads, NY, United States</td>
 <td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010466">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c1131d1-763b-4707-82bb-6b635fa68b44">Metrology Engineering Technican</a></td>
-<td>US, Arizona, Phoenix, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Metrology-Engineering-Technican_JR0286742">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>

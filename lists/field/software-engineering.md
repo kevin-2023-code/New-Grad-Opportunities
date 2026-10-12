@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**418 open roles.** 287 in the United States & Canada · 131 elsewhere in the world.
+**416 open roles.** 285 in the United States & Canada · 131 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -167,13 +167,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/adc8ae4a-b260-4abd-8370-6b32e2254499">Machine Learning Engineer - CTO innovations</a></td>
-<td>San Francisco, California, US, United States of America<br/>San Jose, California, US</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/Machine-Learning-Engineer---CTO-innovations_2026806">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Perpay</strong></td>
 <td><a href="https://trueinterview.io/jobs/4267c013-ce15-44c3-aee8-f1d2d3dd5778">Software Engineer, New Grad - Super Day!</a></td>
 <td>Philadelphia, Pennsylvania, United States<br/>2400 Market</td>
@@ -290,13 +283,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9309d68b-e065-43c8-939b-3a2d47aac56f">Software Consulting Engineer I (Full Time) United States</a></td>
 <td>RTP, North Carolina, US, United States of America<br/>Richardson, Texas, US</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Consulting-Engineer-I--Full-Time--United-States_2025887">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Dell</strong></td>
-<td><a href="https://trueinterview.io/jobs/c685f854-3e8d-43c2-8369-469a4eb8d829">IT Graduate Development Program (ITDP) – AI-Native Software Engineer</a></td>
-<td>Limerick, Co. Limerick, Ireland</td>
-<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/298152">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>
@@ -2830,6 +2816,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cursor/1d6dbbb2-a5af-41a6-a70a-ca97690d9313/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Bees</strong></td>
+<td><a href="https://trueinterview.io/jobs/1728b0c1-10e5-46f3-a05f-e8d6bd32ea04">Intermediate Frontend Developer</a></td>
+<td>Campinas, São Paulo, Brazil<br/>Campinas, Brazil</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8687792002">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Field AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/244fa1d5-a042-4295-bb06-5961727483dd">Field Application Engineer - Temporary Part Time - Manchester, UK</a></td>
+<td>Manchester</td>
+<td align="center"><a href="https://jobs.lever.co/field-ai/4bff79b4-4bc6-461f-876e-7f4917ba8716/apply">Apply</a></td>
+<td align="center">19 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**418 open roles.** 287 in the United States & Canada · 131 elsewhere in the world.
+**416 open roles.** 285 in the United States & Canada · 131 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Bees</strong></td>
-<td><a href="https://trueinterview.io/jobs/1728b0c1-10e5-46f3-a05f-e8d6bd32ea04">Intermediate Frontend Developer</a></td>
-<td>Campinas, São Paulo, Brazil<br/>Campinas, Brazil</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8687792002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/244fa1d5-a042-4295-bb06-5961727483dd">Field Application Engineer - Temporary Part Time - Manchester, UK</a></td>
-<td>Manchester</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/4bff79b4-4bc6-461f-876e-7f4917ba8716/apply">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>Wpp</strong></td>
 <td><a href="https://trueinterview.io/jobs/71da6ab1-017b-46e2-ad6c-05670c970b1f">Power Platform Support Engineer</a></td>
