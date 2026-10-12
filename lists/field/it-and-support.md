@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**119 open roles.** 90 in the United States & Canada · 29 elsewhere in the world.
+**118 open roles.** 89 in the United States & Canada · 29 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -639,13 +639,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Lufkin, TX</td>
 <td align="center"><a href="https://jobs.lever.co/t5datacenters/36b05ec2-ed5e-4efe-aeee-cf22cfa13960/apply">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/790157f6-5215-45f6-88b1-8557d64a4c4b">New College Grad - ID1 IT System Administrator</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43814429">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>

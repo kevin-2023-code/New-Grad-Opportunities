@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**61 open roles.** 48 in the United States & Canada · 13 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**60 open roles.** 47 in the United States & Canada · 13 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Mercor</strong></td>
-<td><a href="https://trueinterview.io/jobs/967b34e2-f1b4-456b-bf33-5868e7c8e504">data engineer</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50476413">Apply</a></td>
-<td align="center">11 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Suno</strong></td>
 <td><a href="https://trueinterview.io/jobs/9b267c73-180d-4e13-ac40-033272fee4c7">Software Engineer, Internal Tools</a></td>

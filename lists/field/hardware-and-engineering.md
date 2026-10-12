@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**314 open roles.** 291 in the United States & Canada · 23 elsewhere in the world.
+**310 open roles.** 287 in the United States & Canada · 23 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2024,34 +2024,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/039cc754-c139-45db-bbaa-7d611e4e4a23">Engineering One - Nuclear</a></td>
 <td>Washington, DC<br/>Columbia, SC or Washington, DC<br/>Columbia, South Carolina<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5389735008">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Coherent Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/95f5ad15-8004-4079-a901-2a9a3949f0e7">3rd Shift Fiber Draw Technician</a></td>
-<td>Granby, CT, United States</td>
-<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014116">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0eab860d-3bfa-4114-9cd1-e91dd67dd35e">Equipment Integration &amp; Documentation Specialist</a></td>
-<td>Sherman, TX, United States</td>
-<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2013698">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/d2e86636-ed06-4508-bf36-1df737dba7cc">R&amp;D BS / MS Electrical Engineer Full Time Power Electronics Hardware Design - Budd Lake, NJ</a></td>
-<td>US-NJ-Budd Lake<br/>Budd Lake, New Jersey, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/53809?lang=en-us">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/38289bb9-5e85-4d21-8a76-ea9a3fc9e9a8">ASIC Physical Design Engineer, Netlisting - New College Grad 2026</a></td>
-<td>Austin, TX<br/>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893395048676">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 </tbody>

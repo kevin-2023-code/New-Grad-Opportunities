@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**78 open roles.** 71 in the United States & Canada · 7 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**77 open roles.** 70 in the United States & Canada · 7 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -505,13 +505,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/581f4886-fbc2-4245-8ced-5a8ca6baae63">Product Designer</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://jobs.lever.co/coatesgroup/06d80cfa-b6f0-4e81-83c2-3b34b4083cde/apply">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/d2e86636-ed06-4508-bf36-1df737dba7cc">R&amp;D BS / MS Electrical Engineer Full Time Power Electronics Hardware Design - Budd Lake, NJ</a></td>
-<td>US-NJ-Budd Lake<br/>Budd Lake, New Jersey, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/53809?lang=en-us">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
