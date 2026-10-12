@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**162 open roles.** 120 in the United States & Canada · 42 elsewhere in the world.
+**161 open roles.** 119 in the United States & Canada · 42 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -848,13 +848,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8d263187-81db-4239-8877-94a606ff5fcd">Software Engineer, Proactive Capabilities</a></td>
 <td>Bellevue, WA<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8067604?t=gh_src=&amp;gh_jid=8067604">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Two Six Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/396320ed-caab-4d8a-aafa-0074f2f21a00">Software Reverse Engineer</a></td>
-<td>Herndon, Virginia<br/>TST Main Office (13865 Sunrise Valley Dr) - Herndon, VA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/6139231004">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 </tbody>

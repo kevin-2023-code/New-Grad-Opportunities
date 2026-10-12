@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**25 open roles.** 18 in the United States & Canada · 7 elsewhere in the world.
+**24 open roles.** 17 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -135,13 +135,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/ontic/27d32707-54e2-47be-be62-376df6d2b0f3/application">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Sunnydata</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a759a05-30d3-4a06-8bab-3459d26f5a50">Data Analytics Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sunnydata/481b5618-576c-4297-b27c-dd11c3cd36cb/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**416 open roles.** 285 in the United States & Canada · 131 elsewhere in the world.
+**410 open roles.** 281 in the United States & Canada · 129 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1986,34 +1986,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8067604?t=gh_src=&amp;gh_jid=8067604">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Two Six Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/396320ed-caab-4d8a-aafa-0074f2f21a00">Software Reverse Engineer</a></td>
-<td>Herndon, Virginia<br/>TST Main Office (13865 Sunrise Valley Dr) - Herndon, VA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/6139231004">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>GitLab</strong></td>
-<td><a href="https://trueinterview.io/jobs/81d42011-1c12-4d7a-9433-b59da6282226">Backend Engineer, Source Code Experience (Ruby)</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8687926002">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Exa</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b2a369d-0ced-474e-87b3-c910830b6195">Forward Deployed Engineer</a></td>
-<td>London<br/>New York City, San Francisco</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/exa/c542d672-691c-46c1-9741-856d66f2c2ea/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Agiloft</strong></td>
-<td><a href="https://trueinterview.io/jobs/194b00d5-d613-489a-bfd6-556aa826220b">AI Ops Engineer - Professional Services</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://jobs.lever.co/agiloft/da2bdd58-3001-47b3-8dad-fe6a0f90be88/apply">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2830,6 +2802,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Manchester</td>
 <td align="center"><a href="https://jobs.lever.co/field-ai/4bff79b4-4bc6-461f-876e-7f4917ba8716/apply">Apply</a></td>
 <td align="center">19 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Wpp</strong></td>
+<td><a href="https://trueinterview.io/jobs/71da6ab1-017b-46e2-ad6c-05670c970b1f">Power Platform Support Engineer</a></td>
+<td>Mexico City, Mexico City, Mexico</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/wpp/jobs/8487083002">Apply</a></td>
+<td align="center">19 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>C6 Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/169d4690-5036-47a5-ab77-b29f02c69c2e">Analista de Qualidade e Automação de Software Pleno | Onboarding</a></td>
+<td>São Paulo, Brazil<br/>C6 Bank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4725834005">Apply</a></td>
+<td align="center">19 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Jcdecaux Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/89d5a9f0-86af-49a0-9933-43912c96ed47">Application Developer</a></td>
+<td>Sydney</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jcdecaux/jobs/8724233002">Apply</a></td>
+<td align="center">18 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Skelar</strong></td>
+<td><a href="https://trueinterview.io/jobs/13d8acfd-88e9-406b-ad94-0e79ee087905">Service Operations Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skelar/fb92006f-4943-49d2-890f-f117e96428df/application">Apply</a></td>
+<td align="center">18 Aug 2026</td>
 </tr>
 </tbody>
 </table>

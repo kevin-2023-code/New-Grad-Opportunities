@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**50 open roles.** 36 in the United States & Canada · 14 elsewhere in the world. Early-stage technology companies.
+**48 open roles.** 35 in the United States & Canada · 13 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -262,13 +262,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.lever.co/field-ai/9a92c550-5f4c-48c6-b4d4-f44a0a146a15/apply">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Exa</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b2a369d-0ced-474e-87b3-c910830b6195">Forward Deployed Engineer</a></td>
-<td>London<br/>New York City, San Francisco</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/exa/c542d672-691c-46c1-9741-856d66f2c2ea/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -371,13 +364,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Ukraine</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/kissmyapps/8533c309-3850-4d32-a2f6-be64d68a1f2e/application">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Higgsfield</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e98ccbe-9257-4c5f-9c5d-6c0eefce031c">Data Annotations Specialist</a></td>
-<td>Almaty, Kazakhstan</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/higgsfieldai/47d807b6-e32b-4e51-9440-cd9eb7cf2e10/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🇩🇪 Berlin, Munich & Germany
 
-**12 open roles.** 2 in the United States & Canada · 10 elsewhere in the world.
+**11 open roles.** 2 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -105,13 +105,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/buena/944621a6-2154-4c8f-9f6a-efd8f0000ac1/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Trawa</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a60c0c4-7513-4dd8-b1e0-4ebc1bf89c50">Operations &amp; Automation Engineer – Renewable Energy</a></td>
-<td>Berlin HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/trawa/0bad5ca2-95a8-4f5a-8a37-cd7892f97bd7/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>

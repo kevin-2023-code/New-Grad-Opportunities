@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**30 open roles.** 16 in the United States & Canada · 14 elsewhere in the world.
+**29 open roles.** 15 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -121,13 +121,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/claylabs/5e07db20-d96a-4dff-b7d3-3bf1cdde6fc1/application">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Agiloft</strong></td>
-<td><a href="https://trueinterview.io/jobs/194b00d5-d613-489a-bfd6-556aa826220b">AI Ops Engineer - Professional Services</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://jobs.lever.co/agiloft/da2bdd58-3001-47b3-8dad-fe6a0f90be88/apply">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>

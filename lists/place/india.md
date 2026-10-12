@@ -2,7 +2,7 @@
 
 # 🇮🇳 Bengaluru & India
 
-**13 open roles.**
+**12 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -102,13 +102,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote — India<br/>Ahmedabad, Gujarat</td>
 <td align="center"><a href="https://jobs.lever.co/elfbeauty/dad746e1-24e5-4205-aef3-478231f62b6f/apply">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anaplan</strong></td>
-<td><a href="https://trueinterview.io/jobs/2401fa71-8edd-4535-9f74-2bd097bbf0a6">Engineer I</a></td>
-<td>Gurugram - Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anaplan/jobs/8636271002">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**55 open roles.** 38 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**51 open roles.** 37 in the United States & Canada · 14 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -276,13 +276,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.lever.co/palantir/5614a901-ef96-4b9c-928d-4a9c338c8aad">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Agiloft</strong></td>
-<td><a href="https://trueinterview.io/jobs/194b00d5-d613-489a-bfd6-556aa826220b">AI Ops Engineer - Professional Services</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://jobs.lever.co/agiloft/da2bdd58-3001-47b3-8dad-fe6a0f90be88/apply">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -392,27 +385,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.lever.co/economicmodeling/36e2eb9d-a7db-4268-a0b7-b26edc60de88/apply">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anaplan</strong></td>
-<td><a href="https://trueinterview.io/jobs/2401fa71-8edd-4535-9f74-2bd097bbf0a6">Engineer I</a></td>
-<td>Gurugram - Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/anaplan/jobs/8636271002">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Notion</strong></td>
-<td><a href="https://trueinterview.io/jobs/a27c7c2f-01ac-4bc9-8d0e-1d8a236c4fcc">Workplace Technology Operation (Contractor), Dublin</a></td>
-<td>Dublin, Ireland</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/notion/e0971bdd-0e09-4299-b161-74a382d54741/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/96818748-f2fc-40f7-aae9-46f1cc17eff0">Workplace Technology Operation (Contractor), Tokyo</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/notion/5ea0ebb1-296a-4b41-b598-b2696d20d238/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>

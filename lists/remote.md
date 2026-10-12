@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**100 open roles.** 64 in the United States & Canada · 36 elsewhere in the world. Postings the pipeline classified as remote.
+**99 open roles.** 63 in the United States & Canada · 36 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -457,13 +457,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/cresta/jobs/5389409008">Apply</a></td>
 <td align="center">16 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>GitLab</strong></td>
-<td><a href="https://trueinterview.io/jobs/81d42011-1c12-4d7a-9433-b59da6282226">Backend Engineer, Source Code Experience (Ruby)</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8687926002">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>

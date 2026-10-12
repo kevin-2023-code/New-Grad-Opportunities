@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**118 open roles.** 89 in the United States & Canada · 29 elsewhere in the world.
+**115 open roles.** 88 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -265,7 +265,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4b16bc5-e62b-4e42-95db-ff26114543c6">Data Center Technician, Hardware Operations</a></td>
-<td>Pryor, OK, USA<br/>Reno, NV, USA<br/>Stillwater, OK, USA<br/>+1 more</td>
+<td>Pryor, OK, USA<br/>Reno, NV, USA<br/>Stillwater, OK, USA<br/>+2 more</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/75469345924227782-data-center-technician-hardware-operations">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
@@ -456,13 +456,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2e3ba315-4966-4384-bfce-2c79a46396d9">Cybersecurity Specialist</a></td>
 <td>Schenectady, NY<br/>Customer Site</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c3el/jobs/5230012007">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>xAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/507bca66-8155-4fe3-b0a3-cf2ad2d8e0b8">Network Operations Center Specialist</a></td>
-<td>Southaven, MS<br/>Memphis, Tennessee<br/>Memphis, TN</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5229807007">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
@@ -840,20 +833,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Braine l’Alleud, Belgium<br/>Spektrum Management Group Ltd</td>
 <td align="center"><a href="https://spektrum-group.com/jobs?gh_jid=4953343101">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Notion</strong></td>
-<td><a href="https://trueinterview.io/jobs/a27c7c2f-01ac-4bc9-8d0e-1d8a236c4fcc">Workplace Technology Operation (Contractor), Dublin</a></td>
-<td>Dublin, Ireland</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/notion/e0971bdd-0e09-4299-b161-74a382d54741/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/96818748-f2fc-40f7-aae9-46f1cc17eff0">Workplace Technology Operation (Contractor), Tokyo</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/notion/5ea0ebb1-296a-4b41-b598-b2696d20d238/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>

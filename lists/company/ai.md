@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**60 open roles.** 47 in the United States & Canada · 13 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**57 open roles.** 45 in the United States & Canada · 12 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -214,13 +214,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>xAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/507bca66-8155-4fe3-b0a3-cf2ad2d8e0b8">Network Operations Center Specialist</a></td>
-<td>Southaven, MS<br/>Memphis, Tennessee<br/>Memphis, TN</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5229807007">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>OpenAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/2fc8555c-3d11-4e05-ac25-089cc10d4c9d">Web Designer</a></td>
 <td>New York City</td>
@@ -339,13 +332,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/d5de4cd0-9c4e-4266-93f2-8c1d5fc4a912/application">Apply</a></td>
 <td align="center">14 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Exa</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b2a369d-0ced-474e-87b3-c910830b6195">Forward Deployed Engineer</a></td>
-<td>London<br/>New York City, San Francisco</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/exa/c542d672-691c-46c1-9741-856d66f2c2ea/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -441,13 +427,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Saudi Arabia</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/c8216d65-13c9-4f8c-9b57-e14fd02738b0/application">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Higgsfield</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e98ccbe-9257-4c5f-9c5d-6c0eefce031c">Data Annotations Specialist</a></td>
-<td>Almaty, Kazakhstan</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/higgsfieldai/47d807b6-e32b-4e51-9440-cd9eb7cf2e10/application">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>

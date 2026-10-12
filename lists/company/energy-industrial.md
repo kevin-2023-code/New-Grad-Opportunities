@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**14 open roles.** 13 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**13 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -106,25 +106,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/039cc754-c139-45db-bbaa-7d611e4e4a23">Engineering One - Nuclear</a></td>
 <td>Washington, DC<br/>Columbia, SC or Washington, DC<br/>Columbia, South Carolina<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5389735008">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-</tbody>
-</table>
-
-## Elsewhere in the world
-
-_Roles outside the United States & Canada, and roles whose country the catalog could not read._
-
-<table>
-<thead>
-<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Trawa</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a60c0c4-7513-4dd8-b1e0-4ebc1bf89c50">Operations &amp; Automation Engineer – Renewable Energy</a></td>
-<td>Berlin HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/trawa/0bad5ca2-95a8-4f5a-8a37-cd7892f97bd7/application">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
