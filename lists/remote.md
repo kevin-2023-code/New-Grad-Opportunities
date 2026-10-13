@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**99 open roles.** 63 in the United States & Canada · 36 elsewhere in the world. Postings the pipeline classified as remote.
+**98 open roles.** 63 in the United States & Canada · 35 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -714,13 +714,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/testlio/jobs/8129526">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>E.l.f. Beauty</strong></td>
-<td><a href="https://trueinterview.io/jobs/392b2a2f-2a78-4bd2-b884-1de506973c4f">Specialist, SAP Master Data</a> 🌐</td>
-<td>Remote — India</td>
-<td align="center"><a href="https://jobs.lever.co/elfbeauty/dad746e1-24e5-4205-aef3-478231f62b6f/apply">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**21 open roles.** 13 in the United States & Canada · 8 elsewhere in the world.
+**20 open roles.** 12 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -100,13 +100,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1213631-1">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hasbro</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c9db598-56ba-4d1f-b93f-fe08af631c08">Data Scientist, Marketing Effectiveness &amp; Testing</a></td>
-<td>United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/hasbro/jobs/4274722009">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 </tbody>
 </table>

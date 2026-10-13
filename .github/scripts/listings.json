@@ -6,9 +6,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-13T10:24:22.284Z",
-  "count": 1056,
+  "listingsChangedAt": "2026-10-13T18:05:51.429Z",
+  "count": 1048,
   "listings": [
+    {
+      "id": "e37c8e09-96eb-4ede-a4e2-cb26a1a5f5a9",
+      "company": "computer-world-services",
+      "title": "Network Operations Center Technician I - Monitoring Cell (Sensor)",
+      "locations": [
+        "Lackland AFB, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "IT & Support",
+      "role": "Security Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/cwsc/6650a135-2dba-447b-9890-1a78c59643fe/apply",
+      "url": "https://trueinterview.io/jobs/e37c8e09-96eb-4ede-a4e2-cb26a1a5f5a9",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
     {
       "id": "825eeed8-be5d-4a07-9e6c-550ef99ee597",
       "company": "duolingo",
@@ -27523,242 +27548,6 @@
       "url": "https://trueinterview.io/jobs/7edcee20-d383-4042-a493-51357a39b487",
       "postedAt": "2026-08-14T18:43:46.000Z",
       "updatedAt": "2026-08-14T18:43:46.000Z"
-    },
-    {
-      "id": "392b2a2f-2a78-4bd2-b884-1de506973c4f",
-      "company": "E.l.f. Beauty",
-      "title": "Specialist, SAP Master Data",
-      "locations": [
-        "Ahmedabad, Gujarat",
-        "India - Remote"
-      ],
-      "cities": [],
-      "countries": [
-        "India"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/elfbeauty/dad746e1-24e5-4205-aef3-478231f62b6f/apply",
-      "url": "https://trueinterview.io/jobs/392b2a2f-2a78-4bd2-b884-1de506973c4f",
-      "postedAt": "2026-08-14T18:03:37.000Z",
-      "updatedAt": "2026-08-14T18:03:37.000Z"
-    },
-    {
-      "id": "9304605a-6318-4d2c-be24-d41f0f9e272e",
-      "company": "Openai",
-      "title": "Product Designer, Identity",
-      "locations": [
-        "San Francisco"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/openai/d5de4cd0-9c4e-4266-93f2-8c1d5fc4a912/application",
-      "url": "https://trueinterview.io/jobs/9304605a-6318-4d2c-be24-d41f0f9e272e",
-      "postedAt": "2026-08-14T17:20:34.000Z",
-      "updatedAt": "2026-08-14T17:20:34.000Z"
-    },
-    {
-      "id": "9db031f4-3bc0-4e21-924e-8e9be5a00343",
-      "company": "Kiss My Apps",
-      "title": "Android Developer",
-      "locations": [
-        "Ukraine"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Mobile Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/kissmyapps/8533c309-3850-4d32-a2f6-be64d68a1f2e/application",
-      "url": "https://trueinterview.io/jobs/9db031f4-3bc0-4e21-924e-8e9be5a00343",
-      "postedAt": "2026-08-14T16:42:21.000Z",
-      "updatedAt": "2026-08-14T16:42:21.000Z"
-    },
-    {
-      "id": "37c5998a-1e18-47a9-b725-4244e892d257",
-      "company": "Spektrum",
-      "title": "IT Service Desk Technician",
-      "locations": [
-        "Braine l’Alleud, Belgium",
-        "Spektrum Management Group Ltd"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://spektrum-group.com/jobs?gh_jid=4953343101",
-      "url": "https://trueinterview.io/jobs/37c5998a-1e18-47a9-b725-4244e892d257",
-      "postedAt": "2026-08-14T16:23:35.000Z",
-      "updatedAt": "2026-08-14T16:23:35.000Z"
-    },
-    {
-      "id": "4395c5e0-49ea-470b-b905-017bfbf4c136",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software  - '26/'27  (Starlink)",
-      "locations": [
-        "Redmond, WA",
-        "Palo Alto, CA",
-        "Bastrop, TX"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
-      "url": "https://trueinterview.io/jobs/4395c5e0-49ea-470b-b905-017bfbf4c136",
-      "postedAt": "2026-08-14T16:22:04.000Z",
-      "updatedAt": "2026-08-14T16:22:47.000Z"
-    },
-    {
-      "id": "47a988ff-1c79-4d30-968d-c9bb004b62f9",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Mechanical - '26/'27 (Starlink)",
-      "locations": [
-        "Bastrop, TX",
-        "Redmond, WA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8696952002?gh_jid=8696952002",
-      "url": "https://trueinterview.io/jobs/47a988ff-1c79-4d30-968d-c9bb004b62f9",
-      "postedAt": "2026-08-14T16:20:39.000Z",
-      "updatedAt": "2026-08-14T16:21:00.000Z"
-    },
-    {
-      "id": "d6138eb7-1f67-4697-bbba-f9f58f3c6517",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, GNC- '26/'27 (Starlink)",
-      "locations": [
-        "Redmond, WA",
-        "Bastrop, TX"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002",
-      "url": "https://trueinterview.io/jobs/d6138eb7-1f67-4697-bbba-f9f58f3c6517",
-      "postedAt": "2026-08-14T16:19:32.000Z",
-      "updatedAt": "2026-08-14T16:20:07.000Z"
-    },
-    {
-      "id": "1ccadf3b-dae9-47bf-a7b1-4d437ef6a983",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-      "locations": [
-        "Bastrop, TX",
-        "Redmond, WA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002",
-      "url": "https://trueinterview.io/jobs/1ccadf3b-dae9-47bf-a7b1-4d437ef6a983",
-      "postedAt": "2026-08-14T16:18:01.000Z",
-      "updatedAt": "2026-08-14T16:18:55.000Z"
-    },
-    {
-      "id": "6c9db598-56ba-4d1f-b93f-fe08af631c08",
-      "company": "Hasbro",
-      "title": "Data Scientist, Marketing Effectiveness & Testing",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/hasbro/jobs/4274722009",
-      "url": "https://trueinterview.io/jobs/6c9db598-56ba-4d1f-b93f-fe08af631c08",
-      "postedAt": "2026-08-14T16:09:45.000Z",
-      "updatedAt": "2026-08-14T16:09:45.000Z"
     }
   ]
 }

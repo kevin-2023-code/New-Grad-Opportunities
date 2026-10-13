@@ -2,7 +2,7 @@
 
 # 🇮🇳 Bengaluru & India
 
-**12 open roles.**
+**11 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -95,13 +95,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hyderabad<br/>India</td>
 <td align="center"><a href="https://www.frazierdeeter.com/careers/openings/apply/7986994003?gh_jid=7986994003">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>E.l.f. Beauty</strong></td>
-<td><a href="https://trueinterview.io/jobs/392b2a2f-2a78-4bd2-b884-1de506973c4f">Specialist, SAP Master Data</a> 🌐</td>
-<td>Remote — India<br/>Ahmedabad, Gujarat</td>
-<td align="center"><a href="https://jobs.lever.co/elfbeauty/dad746e1-24e5-4205-aef3-478231f62b6f/apply">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 </tbody>
 </table>
