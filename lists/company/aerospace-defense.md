@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**68 open roles.** 62 in the United States & Canada · 6 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**67 open roles.** 61 in the United States & Canada · 6 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -443,13 +443,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Diego, California</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/trelliswaretechnologies/jobs/4356871009">Apply</a></td>
 <td align="center">15 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Merlin Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/7edcee20-d383-4042-a493-51357a39b487">Process Engineer, Configuration Management</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://jobs.lever.co/merlinlabs/c34942a6-430b-4476-aa22-b43d29ff386b/apply">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 </tbody>
 </table>
