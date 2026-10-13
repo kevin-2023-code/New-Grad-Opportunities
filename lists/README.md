@@ -6,7 +6,7 @@ Every cut of the New Grad Opportunities list that has a page of its own. Each on
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-10-13 02:30 UTC_
+_Last updated: 2026-10-13 10:24 UTC_
 
 > **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 325 of the 555 employers on this list (74% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
@@ -28,16 +28,16 @@ _Last updated: 2026-10-13 02:30 UTC_
 
 The catalog's six technical fields — the same sections the main list is cut into, with every row rather than a sample.
 
-_Between them these 5 filters hold **1,053 of the 1,056** new-grad roles on this list (100%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 5 filters hold **1,052 of the 1,055** new-grad roles on this list (100%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified into that field. A posting is in exactly one field, so these pages hold the whole list between them._
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [💻 Software Engineering](field/software-engineering.md) | 279 | 128 |
-| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 281 | 22 |
+| [💻 Software Engineering](field/software-engineering.md) | 279 | 127 |
+| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 280 | 22 |
 | [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 104 | 69 |
-| [🧰 IT & Support](field/it-and-support.md) | 88 | 27 |
+| [🧰 IT & Support](field/it-and-support.md) | 89 | 27 |
 | [📱 Product & Design](field/product-and-design.md) | 39 | 16 |
 
 ---
@@ -46,7 +46,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 24 filters hold **778 of the 1,056** new-grad roles on this list (74%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 24 filters hold **777 of the 1,055** new-grad roles on this list (74%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -64,7 +64,7 @@ _Between them these 24 filters hold **778 of the 1,056** new-grad roles on this 
 | [🚗 Autonomy, automotive & mobility](company/autonomy-mobility.md) | 32 | 8 | Every employer the company registry files under Autonomy, automotive & mobility, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [☁️ Developer tools, cloud & data infrastructure](company/dev-infra.md) | 24 | 10 | Every employer the company registry files under Developer tools, cloud & data infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [💳 Fintech, payments & crypto](company/fintech.md) | 17 | 14 | Every employer the company registry files under Fintech, payments & crypto, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🏦 Banks, insurers & asset managers](company/banking-finance.md) | 7 | 20 | Every employer the company registry files under Banks, insurers & asset managers, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🏦 Banks, insurers & asset managers](company/banking-finance.md) | 7 | 19 | Every employer the company registry files under Banks, insurers & asset managers, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [💼 Other industries](company/other-industry.md) | 13 | 13 | Every employer the company registry files under Other industries, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🛒 E-commerce & marketplaces](company/ecommerce-marketplace.md) | 14 | 11 | Every employer the company registry files under E-commerce & marketplaces, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🧬 Health, biotech & medical devices](company/health-bio.md) | 14 | 5 | Every employer the company registry files under Health, biotech & medical devices, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
@@ -81,21 +81,21 @@ _Between them these 24 filters hold **778 of the 1,056** new-grad roles on this 
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 17 filters hold **478 of the 1,056** new-grad roles on this list (45%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 17 filters hold **476 of the 1,055** new-grad roles on this list (45%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
 | [Software Engineer](role/software-engineer.md) | 119 | 42 |
-| [Hardware Engineer](role/hardware-engineer.md) | 41 | 1 |
+| [Hardware Engineer](role/hardware-engineer.md) | 40 | 1 |
 | [AI Engineer](role/ai-engineer.md) | 15 | 14 |
 | [Machine Learning Engineer](role/machine-learning-engineer.md) | 20 | 9 |
 | [Data Analyst](role/data-analyst.md) | 10 | 16 |
 | [Security Engineer](role/security-engineer.md) | 18 | 7 |
 | [Data Engineer](role/data-engineer.md) | 17 | 7 |
 | [Backend Engineer](role/backend-engineer.md) | 11 | 12 |
-| [Full-Stack Engineer](role/full-stack-engineer.md) | 16 | 7 |
+| [Full-Stack Engineer](role/full-stack-engineer.md) | 16 | 6 |
 | [Data Scientist](role/data-scientist.md) | 13 | 8 |
 | [Platform Engineer](role/platform-engineer.md) | 9 | 8 |
 | [Embedded Engineer](role/embedded-engineer.md) | 14 | 0 |
@@ -111,7 +111,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 27 filters hold **663 of the 1,056** new-grad roles on this list (63%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 27 filters hold **664 of the 1,055** new-grad roles on this list (63%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -119,7 +119,7 @@ _Between them these 27 filters hold **663 of the 1,056** new-grad roles on this 
 | [🗽 New York City](place/new-york.md) | 67 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: New York City, Nyc, Manhattan, Brooklyn, Long Island City, Jersey City, Hoboken, New York NY, Queens NY, Newark NJ, Stamford CT. |
 | [🌴 Los Angeles & Orange County](place/los-angeles.md) | 55 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: Los Angeles, Santa Monica, El Segundo, Culver City, Hawthorne, Van Nuys, Marina Del Rey, Playa Vista, Pasadena, Burbank, Torrance, Long Beach, and 6 more. |
 | [🎸 Austin](place/austin.md) | 53 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Austin, Pflugerville, Round Rock, Cedar Park, Bastrop, Georgetown. |
-| [🎓 Boston & Cambridge](place/boston.md) | 49 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in MA: Somerville, Boston, Cambridge, Waltham, Burlington, Lexington, Wilmington, Needham, Andover, Marlborough, Leominster, Quincy, and 3 more. |
+| [🎓 Boston & Cambridge](place/boston.md) | 50 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in MA: Somerville, Boston, Cambridge, Waltham, Burlington, Lexington, Wilmington, Needham, Andover, Marlborough, Leominster, Quincy, and 3 more. |
 | [🌲 Seattle & Puget Sound](place/seattle.md) | 40 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in WA: Seattle, Redmond, Issaquah, Sammamish, Bellevue, Kirkland, Renton, Bothell, Everett, Tacoma. |
 | [🌎 México, Brazil & Latin America](place/latam.md) | 0 | 32 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [🍁 Toronto, Waterloo & Ottawa](place/toronto.md) | 32 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in ON: Toronto, Mississauga, Kitchener, Brampton, Waterloo, Ottawa, Markham, Hamilton, London. |
@@ -149,12 +149,12 @@ _Between them these 27 filters hold **663 of the 1,056** new-grad roles on this 
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **191 of the 1,056** new-grad roles on this list (18%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **190 of the 1,055** new-grad roles on this list (18%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
 | [🌐 Remote](remote.md) | 63 | 36 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 74 | 20 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 74 | 19 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 
 ---
 

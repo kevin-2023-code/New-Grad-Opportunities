@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-13T02:30:46.385Z",
-  "count": 1057,
+  "listingsChangedAt": "2026-10-13T10:24:22.284Z",
+  "count": 1056,
   "listings": [
     {
       "id": "825eeed8-be5d-4a07-9e6c-550ef99ee597",
@@ -239,27 +239,27 @@
       "updatedAt": "2026-10-12T00:00:00.000Z"
     },
     {
-      "id": "abaec812-15aa-411f-80d4-139cdb9eaaf5",
+      "id": "792d5765-7b22-4eac-a952-452b8c0a9566",
       "company": "Hewlett Packard Enterprise",
-      "title": "Graduate Mechnical/Hdwr Eningeer I",
+      "title": "HPE Technical Support Engineer I",
       "locations": [
-        "Chippewa Falls, Wisconsin, United States of America"
+        "Andover, Massachusetts, United States of America"
       ],
       "cities": [],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
       "seniority": "new-grad",
       "level": "newgrad",
       "kind": "newgrad",
       "sponsorship": null,
       "source": "bigtech-careers",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Graduate-Mechnical-Hdwr-Eningeer-I_1213432",
-      "url": "https://trueinterview.io/jobs/abaec812-15aa-411f-80d4-139cdb9eaaf5",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Andover-Massachusetts/HPE-Technical-Support-Engineer-I_1216554",
+      "url": "https://trueinterview.io/jobs/792d5765-7b22-4eac-a952-452b8c0a9566",
       "postedAt": "2026-10-12T00:00:00.000Z",
       "updatedAt": "2026-10-12T00:00:00.000Z"
     },
@@ -1583,30 +1583,6 @@
       "source": "trueinterview",
       "applyUrl": "https://4dayweek.io/job/data-engineer-at-lastminute-com-2470abfd",
       "url": "https://trueinterview.io/jobs/aca928db-d606-46a7-b0f0-2eb5ebc1c951",
-      "postedAt": "2026-10-08T00:00:00.000Z",
-      "updatedAt": "2026-10-08T00:00:00.000Z"
-    },
-    {
-      "id": "222be7d9-9076-47fc-8124-92e25f7f090a",
-      "company": "Manulife",
-      "title": "Associate Full-stack Software Engineer",
-      "locations": [
-        "Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
-        "Quezon City"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "trueinterview",
-      "applyUrl": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Kuala-Lumpur-Wilayah-Persekutuan-Kuala-Lumpur/Associate-Full-stack-Software-Engineer_JR26100119",
-      "url": "https://trueinterview.io/jobs/222be7d9-9076-47fc-8124-92e25f7f090a",
       "postedAt": "2026-10-08T00:00:00.000Z",
       "updatedAt": "2026-10-08T00:00:00.000Z"
     },
