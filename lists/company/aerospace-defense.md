@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**66 open roles.** 60 in the United States & Canada · 6 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**65 open roles.** 59 in the United States & Canada · 6 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -429,13 +429,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Irvine, CA</td>
 <td align="center"><a href="https://jobs.lever.co/world-view-enterprises-inc./5f3716d8-fab1-4734-bca7-48ffa1e006e8/apply">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5537ac0-5482-497f-9250-d2be42af286c">Product Operations Technical Specialist, Maritime</a></td>
-<td>Quincy, Massachusetts, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5210350007?gh_jid=5210350007">Apply</a></td>
-<td align="center">15 Aug 2026</td>
 </tr>
 </tbody>
 </table>

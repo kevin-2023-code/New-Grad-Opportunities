@@ -6,9 +6,88 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-14T10:02:16.306Z",
-  "count": 1042,
+  "listingsChangedAt": "2026-10-14T20:07:39.001Z",
+  "count": 1048,
   "listings": [
+    {
+      "id": "5ea4d436-a626-478b-a201-96fd9b917736",
+      "company": "waymo",
+      "title": "Field Safety Engineer",
+      "locations": [
+        "Mountain View, CA, USA, Mountain View (US-MTV-EMF680), San Francisco (US-SFO-MKT555)"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8248373",
+      "url": "https://trueinterview.io/jobs/5ea4d436-a626-478b-a201-96fd9b917736",
+      "postedAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "id": "d16a5fe4-302e-4ca2-b239-7be58bd23ab7",
+      "company": "Analog Devices",
+      "title": "Associate Software Engineer",
+      "locations": [
+        "US, MA, Wilmington, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Android-Mobile-Developer_R262556",
+      "url": "https://trueinterview.io/jobs/d16a5fe4-302e-4ca2-b239-7be58bd23ab7",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "570696bf-a474-4c08-b461-587dcd31ce78",
+      "company": "Cadence Design Systems",
+      "title": "CST Application Engineer -  Systems/ATX",
+      "locations": [
+        "SAN JOSE, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Application-Engineer----Systems-ATX_R56830-1",
+      "url": "https://trueinterview.io/jobs/570696bf-a474-4c08-b461-587dcd31ce78",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
     {
       "id": "e37c8e09-96eb-4ede-a4e2-cb26a1a5f5a9",
       "company": "computer-world-services",
@@ -35,6 +114,31 @@
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
     {
+      "id": "fe42eeb5-1df4-4d8d-bb05-fc0e1ca43ffa",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Engineering Resolution Team Engineer Graduate",
+      "locations": [
+        "Spring, Texas, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Engineering-Resolution-Team-Engineer-Graduate_1216553-1",
+      "url": "https://trueinterview.io/jobs/fe42eeb5-1df4-4d8d-bb05-fc0e1ca43ffa",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
       "id": "291fe12b-129f-468e-8412-87e2d80931c4",
       "company": "hungryroot",
       "title": "Systems Operations Analyst",
@@ -54,6 +158,31 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/hungryroot/jobs/6223549004",
       "url": "https://trueinterview.io/jobs/291fe12b-129f-468e-8412-87e2d80931c4",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "e1a6ff1f-eeb5-403e-81d1-58e7676100c9",
+      "company": "Intel",
+      "title": "CPU Validation Engineer",
+      "locations": [
+        "US, Texas, Austin, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Validation-Engineer_JR0288101",
+      "url": "https://trueinterview.io/jobs/e1a6ff1f-eeb5-403e-81d1-58e7676100c9",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
@@ -211,6 +340,33 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.lever.co/pditechnologies/ba03923d-fb60-4203-b85e-5e18bc046a04/apply",
       "url": "https://trueinterview.io/jobs/55e67a88-d440-43d9-9fee-8491b2bb6749",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "853820fe-3e5b-41a9-99cd-7c9874f226db",
+      "company": "Salesforce",
+      "title": "Database Engineering Associate",
+      "locations": [
+        "California - San Francisco, United States of America",
+        "Virginia - Herndon",
+        "Washington - Bellevue"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Database-Engineering-Associate_JR358838-2",
+      "url": "https://trueinterview.io/jobs/853820fe-3e5b-41a9-99cd-7c9874f226db",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
@@ -9760,6 +9916,33 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318448096",
       "url": "https://trueinterview.io/jobs/bcb6fd2e-8662-4405-91e7-9f95d4ace876",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "9bea4e11-6855-4923-af69-2e1b1461dbb7",
+      "company": "Cerebras Systems",
+      "title": "Supplier Quality Engineer - New Grad",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.ashbyhq.com/cerebras/04ce4198-d9b6-4aae-ad11-97708033f94a",
+      "url": "https://trueinterview.io/jobs/9bea4e11-6855-4923-af69-2e1b1461dbb7",
       "postedAt": "2026-09-18T00:00:00.000Z",
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
@@ -27354,32 +27537,6 @@
       "url": "https://trueinterview.io/jobs/6845053b-53f1-4e66-909d-e2d87f18ed7d",
       "postedAt": "2026-08-15T22:34:22.000Z",
       "updatedAt": "2026-08-15T22:34:22.000Z"
-    },
-    {
-      "id": "a5537ac0-5482-497f-9250-d2be42af286c",
-      "company": "Anduril Industries",
-      "title": "Product Operations Technical Specialist, Maritime",
-      "locations": [
-        "Quincy, Massachusetts, United States",
-        "Quincy, MA (QCY-01)"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5210350007?gh_jid=5210350007",
-      "url": "https://trueinterview.io/jobs/a5537ac0-5482-497f-9250-d2be42af286c",
-      "postedAt": "2026-08-15T17:31:21.000Z",
-      "updatedAt": "2026-08-15T17:31:21.000Z"
     }
   ]
 }
