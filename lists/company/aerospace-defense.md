@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**67 open roles.** 61 in the United States & Canada · 6 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**66 open roles.** 60 in the United States & Canada · 6 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -435,13 +435,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a5537ac0-5482-497f-9250-d2be42af286c">Product Operations Technical Specialist, Maritime</a></td>
 <td>Quincy, Massachusetts, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5210350007?gh_jid=5210350007">Apply</a></td>
-<td align="center">15 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Trellisware Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/18cb12e0-bc26-4c65-ab8e-ddf5b1b5d3e5">Automation Test Engineer</a></td>
-<td>San Diego, California</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/trelliswaretechnologies/jobs/4356871009">Apply</a></td>
 <td align="center">15 Aug 2026</td>
 </tr>
 </tbody>

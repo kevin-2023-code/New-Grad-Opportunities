@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**22 open roles.** 16 in the United States & Canada · 6 elsewhere in the world.
+**21 open roles.** 15 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -121,13 +121,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/krea/fcdfd930-1fa1-4496-b67e-59e3656c32d8/application">Apply</a></td>
 <td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Rover</strong></td>
-<td><a href="https://trueinterview.io/jobs/32ec8e4b-cbb8-4099-93ca-a2409c49fbf7">Software Engineer, Price Experience</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://jobs.lever.co/rover/a81ab324-969a-44f1-89b4-e7ff7487a735/apply">Apply</a></td>
-<td align="center">15 Aug 2026</td>
 </tr>
 </tbody>
 </table>
