@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-14T04:36:11.822Z",
-  "count": 1043,
+  "listingsChangedAt": "2026-10-14T10:02:16.306Z",
+  "count": 1042,
   "listings": [
     {
       "id": "e37c8e09-96eb-4ede-a4e2-cb26a1a5f5a9",
@@ -13681,34 +13681,6 @@
       "url": "https://trueinterview.io/jobs/406ba9ca-09ad-47ab-9408-a9d51152be94",
       "postedAt": "2026-09-14T14:33:10.000Z",
       "updatedAt": "2026-09-14T14:33:10.000Z"
-    },
-    {
-      "id": "0c275d8c-fc68-473f-bcc1-af9ed925bcaf",
-      "company": "Robinhood",
-      "title": "Associate Product Manager (New Grad)",
-      "locations": [
-        "Menlo Park, CA",
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8199973?t=gh_src=&gh_jid=8199973",
-      "url": "https://trueinterview.io/jobs/0c275d8c-fc68-473f-bcc1-af9ed925bcaf",
-      "postedAt": "2026-09-14T12:00:08.000Z",
-      "updatedAt": "2026-09-14T12:00:08.000Z"
     },
     {
       "id": "d1fe3cd7-f5bf-48d3-aea0-93a55baf129e",
