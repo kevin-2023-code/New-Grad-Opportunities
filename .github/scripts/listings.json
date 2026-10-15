@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-14T23:50:06.802Z",
-  "count": 1049,
+  "listingsChangedAt": "2026-10-15T04:18:37.563Z",
+  "count": 1053,
   "listings": [
     {
       "id": "9b85ce7e-485b-4379-8240-7d8d3d4f80ff",
@@ -35,6 +35,31 @@
       "updatedAt": "2026-10-15T00:00:00.000Z"
     },
     {
+      "id": "261c322b-9fa2-493e-8546-4139b0d778cf",
+      "company": "egis-group",
+      "title": "Entry Structural Engineer",
+      "locations": [
+        "Tewksbury, MA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.smartrecruiters.com/EgisGroup/744000155615291-entry-structural-engineer?oga=true",
+      "url": "https://trueinterview.io/jobs/261c322b-9fa2-493e-8546-4139b0d778cf",
+      "postedAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
       "id": "c19457f0-3080-4cd5-9dc2-8e33c502b717",
       "company": "meridianlink",
       "title": "Associate Implementation Analyst",
@@ -56,6 +81,31 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/meridianlink/2e5f59c7-7e34-4392-8ced-1964c68bc78a/application",
       "url": "https://trueinterview.io/jobs/c19457f0-3080-4cd5-9dc2-8e33c502b717",
+      "postedAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "id": "0d15186c-dbd4-4baf-adf3-f0428fa1f340",
+      "company": "sirenopt",
+      "title": "Software Engineer (Early Career) – C++ & Systems",
+      "locations": [
+        "San Leandro, California, United States, Headquarters"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/sirenopt/jobs/4452002009",
+      "url": "https://trueinterview.io/jobs/0d15186c-dbd4-4baf-adf3-f0428fa1f340",
       "postedAt": "2026-10-15T00:00:00.000Z",
       "updatedAt": "2026-10-15T00:00:00.000Z"
     },
@@ -246,6 +296,33 @@
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
     {
+      "id": "8b7b087c-16d9-48a3-b6bb-cd1b4d729701",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Electrical Hardware Engineer I - 0T1011",
+      "locations": [
+        "Sunnyvale, California, United States of America"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Electrical-Hardware-Engineer-I---0T1011_1214973",
+      "url": "https://trueinterview.io/jobs/8b7b087c-16d9-48a3-b6bb-cd1b4d729701",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
       "id": "fe42eeb5-1df4-4d8d-bb05-fc0e1ca43ffa",
       "company": "Hewlett Packard Enterprise",
       "title": "Engineering Resolution Team Engineer Graduate",
@@ -267,6 +344,58 @@
       "source": "bigtech-careers",
       "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Engineering-Resolution-Team-Engineer-Graduate_1216553-1",
       "url": "https://trueinterview.io/jobs/fe42eeb5-1df4-4d8d-bb05-fc0e1ca43ffa",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "2d50ea0d-d702-495c-938f-ee6385116343",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Mechanical Hardware Engineer I - 0T1031",
+      "locations": [
+        "Roseville, California, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Mechanical-Hardware-Engineer-I---0T1031_1214960",
+      "url": "https://trueinterview.io/jobs/2d50ea0d-d702-495c-938f-ee6385116343",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "0f0cae2b-475c-4291-b038-6d3ae30998db",
+      "company": "Hewlett Packard Enterprise",
+      "title": "VLSI Engineer I - 0T1191",
+      "locations": [
+        "Sunnyvale, California, United States of America"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/VLSI-Engineer-I---0T1191_1214956",
+      "url": "https://trueinterview.io/jobs/0f0cae2b-475c-4291-b038-6d3ae30998db",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
@@ -13221,34 +13350,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/92421?lang=en-us",
       "url": "https://trueinterview.io/jobs/dcbe4d42-41ba-4aa5-9f4b-d5137e1ed43a",
-      "postedAt": "2026-09-15T00:00:00.000Z",
-      "updatedAt": "2026-09-15T00:00:00.000Z"
-    },
-    {
-      "id": "bec820ec-e7ef-415f-abe2-f05d00cefe85",
-      "company": "AMD",
-      "title": "Post-Training Platform Infrastructure Engineer",
-      "locations": [
-        "US,CA,San Jose",
-        "San Jose, California, United States"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Platform Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.amd.com/careers-home/jobs/78472?lang=en-us",
-      "url": "https://trueinterview.io/jobs/bec820ec-e7ef-415f-abe2-f05d00cefe85",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
