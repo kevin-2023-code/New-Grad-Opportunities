@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**400 open roles.** 275 in the United States & Canada · 125 elsewhere in the world.
+**395 open roles.** 272 in the United States & Canada · 123 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Mountain View, CA, USA, Mountain View (US-MTV-EMF680), San Francisco</td>
 <td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8248373">Apply</a></td>
 <td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/d16a5fe4-302e-4ca2-b239-7be58bd23ab7">Associate Software Engineer</a></td>
-<td>US, MA, Wilmington, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Android-Mobile-Developer_R262556">Apply</a></td>
-<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Cisco</strong></td>
@@ -211,13 +204,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c5d4912b-2836-4846-8243-d6b6ed71e1a3">Quantitative Trading and Research Operations Developer</a></td>
 <td>Norwalk, Connecticut, United States<br/>Rowayton, CT</td>
 <td align="center"><a href="https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4741577005?gh_jid=4741577005">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/79d2108e-ef6c-4757-8ae1-2f6444fd86a3">New College Grad Software Engineer I (Bachelors - Santa Clara, CA)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318649477">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
@@ -1935,13 +1921,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/virtru/jobs/4724504005">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Protolabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/30e43459-2025-4f45-9364-7fdfcfdb7997">DevOps Engineer</a></td>
-<td>Maple Plain, MN</td>
-<td align="center"><a href="https://jobs.lever.co/protolabs/4157d49e-960c-4745-be10-6908bf814e6b/apply">Apply</a></td>
-<td align="center">16 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2814,20 +2793,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Saudi Arabia</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/c8216d65-13c9-4f8c-9b57-e14fd02738b0/application">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Govtech</strong></td>
-<td><a href="https://trueinterview.io/jobs/4a054131-f6bd-49ad-aeb0-e11f845bf0b8">Software Engineer - Storage Infrastructure</a></td>
-<td>Singapore<br/>CEP Core Engineering Products</td>
-<td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005734201?gh_jid=4005734201">Apply</a></td>
-<td align="center">16 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7633934e-4012-4ae6-a112-a12433bbd6fa">Software Engineer - Kubernetes Platform</a></td>
-<td>Singapore<br/>CEP Core Engineering Products</td>
-<td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005732201?gh_jid=4005732201">Apply</a></td>
-<td align="center">16 Aug 2026</td>
 </tr>
 </tbody>
 </table>

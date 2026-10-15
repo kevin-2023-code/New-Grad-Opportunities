@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**8 open roles.** 4 in the United States & Canada · 4 elsewhere in the world.
+**7 open roles.** 3 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Mclean, VA, United States</td>
 <td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/296672">Apply</a></td>
 <td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Protolabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/30e43459-2025-4f45-9364-7fdfcfdb7997">DevOps Engineer</a></td>
-<td>Maple Plain, MN</td>
-<td align="center"><a href="https://jobs.lever.co/protolabs/4157d49e-960c-4745-be10-6908bf814e6b/apply">Apply</a></td>
-<td align="center">16 Aug 2026</td>
 </tr>
 </tbody>
 </table>

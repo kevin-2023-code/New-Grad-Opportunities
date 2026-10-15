@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**56 open roles.** 44 in the United States & Canada · 12 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**55 open roles.** 43 in the United States & Canada · 12 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -317,13 +317,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Irvine, CA</td>
 <td align="center"><a href="https://jobs.lever.co/field-ai/9a92c550-5f4c-48c6-b4d4-f44a0a146a15/apply">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cresta</strong></td>
-<td><a href="https://trueinterview.io/jobs/a6c823f1-a81c-4454-b1c5-023ae95be630">Customer Engineer, APAC</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/cresta/jobs/5389409008">Apply</a></td>
-<td align="center">16 Aug 2026</td>
 </tr>
 </tbody>
 </table>

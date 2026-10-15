@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**49 open roles.** 36 in the United States & Canada · 13 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**48 open roles.** 35 in the United States & Canada · 13 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -261,13 +261,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United States of America</td>
 <td align="center"><a href="https://jobs.lever.co/megaport/df1c2afd-786e-42ed-9ec8-dc3b4f012065/apply">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cresta</strong></td>
-<td><a href="https://trueinterview.io/jobs/a6c823f1-a81c-4454-b1c5-023ae95be630">Customer Engineer, APAC</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/cresta/jobs/5389409008">Apply</a></td>
-<td align="center">16 Aug 2026</td>
 </tr>
 </tbody>
 </table>

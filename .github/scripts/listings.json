@@ -6,9 +6,112 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-15T04:18:37.563Z",
-  "count": 1053,
+  "listingsChangedAt": "2026-10-15T22:11:34.582Z",
+  "count": 1052,
   "listings": [
+    {
+      "id": "79787256-a67b-441b-9613-7f771470397f",
+      "company": "enova",
+      "title": "Analytics Analyst - Fraud (Hybrid)",
+      "locations": [
+        "Chicago, IL, Chicago"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/enova/jobs/8286690",
+      "url": "https://trueinterview.io/jobs/79787256-a67b-441b-9613-7f771470397f",
+      "postedAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z"
+    },
+    {
+      "id": "ec4c0a62-ab2c-4269-9f62-c13027df85b1",
+      "company": "quora",
+      "title": "Machine Learning Engineer, New Grad - Quora (Remote)",
+      "locations": [
+        "Remote - Multiple Locations, United States, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application",
+      "url": "https://trueinterview.io/jobs/ec4c0a62-ab2c-4269-9f62-c13027df85b1",
+      "postedAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z"
+    },
+    {
+      "id": "5ef062be-cd78-4e0f-a2d9-aacc0ec3e947",
+      "company": "skydio",
+      "title": "Product Design Engineer (Early Career)",
+      "locations": [
+        "San Mateo, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/ba62805c-ebe7-4b99-85af-f58c807b4dd1/application",
+      "url": "https://trueinterview.io/jobs/5ef062be-cd78-4e0f-a2d9-aacc0ec3e947",
+      "postedAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z"
+    },
+    {
+      "id": "b84227f0-4ed8-4276-ba01-325218752c80",
+      "company": "Analog Devices",
+      "title": "Design Evaluation Engineer",
+      "locations": [
+        "US, MA, Wilmington, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Design-Evaluation-Engineer_R265970",
+      "url": "https://trueinterview.io/jobs/b84227f0-4ed8-4276-ba01-325218752c80",
+      "postedAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z"
+    },
     {
       "id": "9b85ce7e-485b-4379-8240-7d8d3d4f80ff",
       "company": "celonis",
@@ -60,6 +163,85 @@
       "updatedAt": "2026-10-15T00:00:00.000Z"
     },
     {
+      "id": "8b7b087c-16d9-48a3-b6bb-cd1b4d729701",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Electrical Hardware Engineer I - 0T1011",
+      "locations": [
+        "Sunnyvale, California, United States of America",
+        "Westford, Massachusetts, United States of America"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Electrical-Hardware-Engineer-I---0T1011_1214973",
+      "url": "https://trueinterview.io/jobs/8b7b087c-16d9-48a3-b6bb-cd1b4d729701",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "id": "2d50ea0d-d702-495c-938f-ee6385116343",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Mechanical Hardware Engineer I - 0T1031",
+      "locations": [
+        "Roseville, California, United States of America",
+        "Sunnyvale, California, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Mechanical-Hardware-Engineer-I---0T1031_1214960",
+      "url": "https://trueinterview.io/jobs/2d50ea0d-d702-495c-938f-ee6385116343",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "id": "dc36bc1d-2236-45db-bb9b-373f5d99c93f",
+      "company": "Intel",
+      "title": "AI GPU Power Delivery Pathfinding Researcher",
+      "locations": [
+        "US, Oregon, Hillsboro, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Hardware & Engineering",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-GPU-Power-Delivery-Pathfinding-Researcher_JR0288188",
+      "url": "https://trueinterview.io/jobs/dc36bc1d-2236-45db-bb9b-373f5d99c93f",
+      "postedAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
       "id": "c19457f0-3080-4cd5-9dc2-8e33c502b717",
       "company": "meridianlink",
       "title": "Associate Implementation Analyst",
@@ -81,6 +263,31 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/meridianlink/2e5f59c7-7e34-4392-8ced-1964c68bc78a/application",
       "url": "https://trueinterview.io/jobs/c19457f0-3080-4cd5-9dc2-8e33c502b717",
+      "postedAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "id": "5f684540-eda2-46a9-89df-f445829d855c",
+      "company": "Nokia",
+      "title": "Photonic Test Engineer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41407",
+      "url": "https://trueinterview.io/jobs/5f684540-eda2-46a9-89df-f445829d855c",
       "postedAt": "2026-10-15T00:00:00.000Z",
       "updatedAt": "2026-10-15T00:00:00.000Z"
     },
@@ -135,31 +342,6 @@
       "url": "https://trueinterview.io/jobs/5ea4d436-a626-478b-a201-96fd9b917736",
       "postedAt": "2026-10-15T00:00:00.000Z",
       "updatedAt": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "id": "d16a5fe4-302e-4ca2-b239-7be58bd23ab7",
-      "company": "Analog Devices",
-      "title": "Associate Software Engineer",
-      "locations": [
-        "US, MA, Wilmington, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Android-Mobile-Developer_R262556",
-      "url": "https://trueinterview.io/jobs/d16a5fe4-302e-4ca2-b239-7be58bd23ab7",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
     },
     {
       "id": "76efc218-d139-472a-89d1-6ea9a9b37ac1",
@@ -296,33 +478,6 @@
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
     {
-      "id": "8b7b087c-16d9-48a3-b6bb-cd1b4d729701",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Electrical Hardware Engineer I - 0T1011",
-      "locations": [
-        "Sunnyvale, California, United States of America"
-      ],
-      "cities": [
-        "Sunnyvale, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Electrical-Hardware-Engineer-I---0T1011_1214973",
-      "url": "https://trueinterview.io/jobs/8b7b087c-16d9-48a3-b6bb-cd1b4d729701",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
       "id": "fe42eeb5-1df4-4d8d-bb05-fc0e1ca43ffa",
       "company": "Hewlett Packard Enterprise",
       "title": "Engineering Resolution Team Engineer Graduate",
@@ -344,31 +499,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Engineering-Resolution-Team-Engineer-Graduate_1216553-1",
       "url": "https://trueinterview.io/jobs/fe42eeb5-1df4-4d8d-bb05-fc0e1ca43ffa",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "id": "2d50ea0d-d702-495c-938f-ee6385116343",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Mechanical Hardware Engineer I - 0T1031",
-      "locations": [
-        "Roseville, California, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Mechanical-Hardware-Engineer-I---0T1031_1214960",
-      "url": "https://trueinterview.io/jobs/2d50ea0d-d702-495c-938f-ee6385116343",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
@@ -2643,31 +2773,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Central-Applications_R266993",
       "url": "https://trueinterview.io/jobs/8843c81e-a0a0-482d-ae2f-a4b87baa53a9",
-      "postedAt": "2026-10-07T00:00:00.000Z",
-      "updatedAt": "2026-10-07T00:00:00.000Z"
-    },
-    {
-      "id": "79d2108e-ef6c-4757-8ae1-2f6444fd86a3",
-      "company": "Applied Materials",
-      "title": "New College Grad Software Engineer I (Bachelors - Santa Clara, CA)",
-      "locations": [
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318649477",
-      "url": "https://trueinterview.io/jobs/79d2108e-ef6c-4757-8ae1-2f6444fd86a3",
       "postedAt": "2026-10-07T00:00:00.000Z",
       "updatedAt": "2026-10-07T00:00:00.000Z"
     },
@@ -6077,33 +6182,6 @@
       "url": "https://trueinterview.io/jobs/c0603841-a23b-4f63-8709-8ae8e836b4db",
       "postedAt": "2026-09-25T16:12:50.000Z",
       "updatedAt": "2026-09-25T16:12:50.000Z"
-    },
-    {
-      "id": "e1497ed7-87d1-41e6-b93a-a3bd26f59c1f",
-      "company": "Applied Materials",
-      "title": "Non-Technical Project/Program Management New College Grad- Bachelor's/Master's (Austin, TX)",
-      "locations": [
-        "Austin, TX, US"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318601800",
-      "url": "https://trueinterview.io/jobs/e1497ed7-87d1-41e6-b93a-a3bd26f59c1f",
-      "postedAt": "2026-09-25T00:00:00.000Z",
-      "updatedAt": "2026-09-25T00:00:00.000Z"
     },
     {
       "id": "85b03b34-814b-4814-b6db-d03477b77c2d",
@@ -27552,113 +27630,6 @@
       "url": "https://trueinterview.io/jobs/92db2bb7-e13b-4623-bd45-1fb60b01776a",
       "postedAt": "2026-08-17T16:01:13.000Z",
       "updatedAt": "2026-08-17T16:01:13.000Z"
-    },
-    {
-      "id": "30e43459-2025-4f45-9364-7fdfcfdb7997",
-      "company": "Protolabs",
-      "title": "DevOps Engineer",
-      "locations": [
-        "Maple Plain, MN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "DevOps Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/protolabs/4157d49e-960c-4745-be10-6908bf814e6b/apply",
-      "url": "https://trueinterview.io/jobs/30e43459-2025-4f45-9364-7fdfcfdb7997",
-      "postedAt": "2026-08-16T22:06:29.000Z",
-      "updatedAt": "2026-08-16T22:06:29.000Z"
-    },
-    {
-      "id": "a6c823f1-a81c-4454-b1c5-023ae95be630",
-      "company": "Cresta",
-      "title": "Customer Engineer, APAC",
-      "locations": [
-        "United States (Remote)",
-        "APAC (Remote)"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/cresta/jobs/5389409008",
-      "url": "https://trueinterview.io/jobs/a6c823f1-a81c-4454-b1c5-023ae95be630",
-      "postedAt": "2026-08-16T21:49:15.000Z",
-      "updatedAt": "2026-08-16T21:49:15.000Z"
-    },
-    {
-      "id": "4a054131-f6bd-49ad-aeb0-e11f845bf0b8",
-      "company": "Govtech",
-      "title": "Software Engineer - Storage Infrastructure",
-      "locations": [
-        "Singapore",
-        "CEP Core Engineering Products"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.careers.gov.sg/jobs/greenhouse/4005734201?gh_jid=4005734201",
-      "url": "https://trueinterview.io/jobs/4a054131-f6bd-49ad-aeb0-e11f845bf0b8",
-      "postedAt": "2026-08-16T21:17:51.000Z",
-      "updatedAt": "2026-08-16T21:17:51.000Z"
-    },
-    {
-      "id": "7633934e-4012-4ae6-a112-a12433bbd6fa",
-      "company": "Govtech",
-      "title": "Software Engineer - Kubernetes Platform",
-      "locations": [
-        "Singapore",
-        "CEP Core Engineering Products"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Platform Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.careers.gov.sg/jobs/greenhouse/4005732201?gh_jid=4005732201",
-      "url": "https://trueinterview.io/jobs/7633934e-4012-4ae6-a112-a12433bbd6fa",
-      "postedAt": "2026-08-16T21:11:07.000Z",
-      "updatedAt": "2026-08-16T21:11:07.000Z"
     }
   ]
 }

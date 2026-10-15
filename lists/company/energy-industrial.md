@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**12 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
+**11 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -93,13 +93,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Idaho Falls, ID<br/>Any location</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/oklo/jobs/6135740004">Apply</a></td>
 <td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Protolabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/30e43459-2025-4f45-9364-7fdfcfdb7997">DevOps Engineer</a></td>
-<td>Maple Plain, MN</td>
-<td align="center"><a href="https://jobs.lever.co/protolabs/4157d49e-960c-4745-be10-6908bf814e6b/apply">Apply</a></td>
-<td align="center">16 Aug 2026</td>
 </tr>
 </tbody>
 </table>

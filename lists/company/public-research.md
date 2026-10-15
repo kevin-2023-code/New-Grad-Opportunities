@@ -2,7 +2,7 @@
 
 # 🏛️ Government, research & non-profits
 
-**8 open roles.** 2 in the United States & Canada · 6 elsewhere in the world. Agencies, national laboratories, universities, research institutes and charities.
+**6 open roles.** 2 in the United States & Canada · 4 elsewhere in the world. Agencies, national laboratories, universities, research institutes and charities.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -70,20 +70,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://enveritas.org/jobs/">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Govtech</strong></td>
-<td><a href="https://trueinterview.io/jobs/4a054131-f6bd-49ad-aeb0-e11f845bf0b8">Software Engineer - Storage Infrastructure</a></td>
-<td>Singapore<br/>CEP Core Engineering Products</td>
-<td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005734201?gh_jid=4005734201">Apply</a></td>
-<td align="center">16 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7633934e-4012-4ae6-a112-a12433bbd6fa">Software Engineer - Kubernetes Platform</a></td>
-<td>Singapore<br/>CEP Core Engineering Products</td>
-<td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005732201?gh_jid=4005732201">Apply</a></td>
-<td align="center">16 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # Platform Engineer
 
-**16 open roles.** 8 in the United States & Canada · 8 elsewhere in the world.
+**15 open roles.** 8 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -133,13 +133,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City, Mexico City, Mexico</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/wpp/jobs/8487083002">Apply</a></td>
 <td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Govtech</strong></td>
-<td><a href="https://trueinterview.io/jobs/7633934e-4012-4ae6-a112-a12433bbd6fa">Software Engineer - Kubernetes Platform</a></td>
-<td>Singapore<br/>CEP Core Engineering Products</td>
-<td align="center"><a href="https://jobs.careers.gov.sg/jobs/greenhouse/4005732201?gh_jid=4005732201">Apply</a></td>
-<td align="center">16 Aug 2026</td>
 </tr>
 </tbody>
 </table>
