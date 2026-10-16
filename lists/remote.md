@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**99 open roles.** 63 in the United States & Canada · 36 elsewhere in the world. Postings the pipeline classified as remote.
+**100 open roles.** 63 in the United States & Canada · 37 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -470,6 +470,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Gofasti</strong></td>
+<td><a href="https://trueinterview.io/jobs/f869cdfb-3110-446a-ab1d-44c9da33787c">1169 - NetSuite Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://careers.gofasti.com/job-application/6227395004?gh_jid=6227395004">Apply</a></td>
+<td align="center">17 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Hungryroot</strong></td>
 <td><a href="https://trueinterview.io/jobs/291fe12b-129f-468e-8412-87e2d80931c4">Systems Operations Analyst</a> 🌐</td>

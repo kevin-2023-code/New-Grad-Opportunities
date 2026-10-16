@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Tria Federal</strong></td>
+<td><a href="https://trueinterview.io/jobs/a18534f6-0546-4105-8868-882d7030ccb4">Tier 1 Helpdesk</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://triafed.com/jobs/?gh_jid=5455641008">Apply</a></td>
+<td align="center">17 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Meridianlink</strong></td>
 <td><a href="https://trueinterview.io/jobs/c19457f0-3080-4cd5-9dc2-8e33c502b717">Associate Implementation Analyst</a> 🌐</td>
 <td>Remote — United States</td>
@@ -653,13 +660,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Ann Arbor, MI</td>
 <td align="center"><a href="https://jobs.lever.co/woven-by-toyota/efde9bf2-7a0b-4818-967d-361a6a4fdd2d/apply">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>T5 Data Centers</strong></td>
-<td><a href="https://trueinterview.io/jobs/6718d28a-605c-4514-9b9b-a0656ed724b7">Assistant Superintendent</a></td>
-<td>Lufkin, TX</td>
-<td align="center"><a href="https://jobs.lever.co/t5datacenters/36b05ec2-ed5e-4efe-aeee-cf22cfa13960/apply">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 </tbody>
 </table>
