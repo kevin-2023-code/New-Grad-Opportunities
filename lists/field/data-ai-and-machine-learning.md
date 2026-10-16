@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**171 open roles.** 102 in the United States & Canada · 69 elsewhere in the world.
+**169 open roles.** 101 in the United States & Canada · 68 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -724,13 +724,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/ramp/4e9886c1-134b-4cc7-9bcf-eb56bd0ca71f/application">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Ontic</strong></td>
-<td><a href="https://trueinterview.io/jobs/92db2bb7-e13b-4623-bd45-1fb60b01776a">Analytics Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ontic/27d32707-54e2-47be-be62-376df6d2b0f3/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1218,13 +1211,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hybrid (UK)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/posthog/8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3/application">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Spreetail</strong></td>
-<td><a href="https://trueinterview.io/jobs/7dc6799f-82fb-41c4-9b7b-e63368266a28">RPA &amp; AI Automation Engineer</a></td>
-<td>Manila<br/>Bogota</td>
-<td align="center"><a href="https://jobs.lever.co/spreetail/f9f06e90-b991-4cff-92b9-5fb28b8919e6/apply">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 </tbody>
 </table>

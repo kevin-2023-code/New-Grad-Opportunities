@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**22 open roles.** 12 in the United States & Canada · 10 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**21 open roles.** 12 in the United States & Canada · 9 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -175,13 +175,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>—</td>
 <td align="center"><a href="https://nodesk.co/remote-jobs/sticker-mule-software-engineer/">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Spreetail</strong></td>
-<td><a href="https://trueinterview.io/jobs/7dc6799f-82fb-41c4-9b7b-e63368266a28">RPA &amp; AI Automation Engineer</a></td>
-<td>Manila<br/>Bogota</td>
-<td align="center"><a href="https://jobs.lever.co/spreetail/f9f06e90-b991-4cff-92b9-5fb28b8919e6/apply">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 </tbody>
 </table>
