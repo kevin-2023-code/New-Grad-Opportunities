@@ -6,9 +6,9 @@ Every cut of the New Grad Opportunities list that has a page of its own. Each on
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-10-16 07:00 UTC_
+_Last updated: 2026-10-16 12:19 UTC_
 
-> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 317 of the 547 employers on this list (73% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
+> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 317 of the 548 employers on this list (73% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
@@ -18,7 +18,7 @@ _Last updated: 2026-10-16 07:00 UTC_
 
 🧑‍💻 **[By role](#-by-role)** — The catalog's own role classification, not a keyword search on the title. (18 filters)
 
-📍 **[By location](#-by-location)** — Metro areas the postings actually resolve to. (27 filters)
+📍 **[By location](#-by-location)** — Metro areas the postings actually resolve to. (26 filters)
 
 ⚡ **[Quick filters](#-quick-filters)** — The two cuts that are about the posting rather than the employer. (2 filters)
 
@@ -28,14 +28,14 @@ _Last updated: 2026-10-16 07:00 UTC_
 
 The catalog's six technical fields — the same sections the main list is cut into, with every row rather than a sample.
 
-_Between them these 5 filters hold **1,047 of the 1,050** new-grad roles on this list (100%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 5 filters hold **1,046 of the 1,049** new-grad roles on this list (100%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified into that field. A posting is in exactly one field, so these pages hold the whole list between them._
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [💻 Software Engineering](field/software-engineering.md) | 271 | 123 |
-| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 286 | 25 |
+| [💻 Software Engineering](field/software-engineering.md) | 271 | 124 |
+| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 284 | 25 |
 | [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 102 | 69 |
 | [🧰 IT & Support](field/it-and-support.md) | 92 | 27 |
 | [📱 Product & Design](field/product-and-design.md) | 38 | 14 |
@@ -46,14 +46,14 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 24 filters hold **770 of the 1,050** new-grad roles on this list (73%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 24 filters hold **768 of the 1,049** new-grad roles on this list (73%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🏛️ Big Tech](company/big-tech.md) | 225 | 18 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
+| [🏛️ Big Tech](company/big-tech.md) | 223 | 18 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
 | [🔬 Semiconductors & chips](company/semiconductors.md) | 146 | 4 | Every employer the company registry files under Semiconductors & chips, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🏗️ Large tech (1,000–9,999)](company/large-tech.md) | 65 | 17 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 1,000 and 9,999 people. An employer the registry does not cover is in no size cut at all. |
-| [🖥️ Hardware, devices & networking](company/hardware-devices.md) | 72 | 8 | Every employer the company registry files under Hardware, devices & networking, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🖥️ Hardware, devices & networking](company/hardware-devices.md) | 70 | 8 | Every employer the company registry files under Hardware, devices & networking, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🧾 IT services & consulting](company/it-consulting.md) | 46 | 28 | Every employer the company registry files under IT services & consulting, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🚀 Aerospace & defence](company/aerospace-defense.md) | 60 | 6 | Every employer the company registry files under Aerospace & defence, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🧠 AI labs & AI infrastructure](company/ai.md) | 43 | 12 | Every employer the company registry files under AI labs & AI infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
@@ -81,14 +81,14 @@ _Between them these 24 filters hold **770 of the 1,050** new-grad roles on this 
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 18 filters hold **484 of the 1,050** new-grad roles on this list (46%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 18 filters hold **483 of the 1,049** new-grad roles on this list (46%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [Software Engineer](role/software-engineer.md) | 116 | 41 |
-| [Hardware Engineer](role/hardware-engineer.md) | 47 | 1 |
+| [Software Engineer](role/software-engineer.md) | 116 | 42 |
+| [Hardware Engineer](role/hardware-engineer.md) | 45 | 1 |
 | [AI Engineer](role/ai-engineer.md) | 15 | 16 |
 | [Machine Learning Engineer](role/machine-learning-engineer.md) | 20 | 9 |
 | [Data Analyst](role/data-analyst.md) | 11 | 16 |
@@ -112,15 +112,15 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 27 filters hold **660 of the 1,050** new-grad roles on this list (63%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 26 filters hold **655 of the 1,049** new-grad roles on this list (62%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🌉 SF Bay Area](place/bay-area.md) | 212 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
+| [🌉 SF Bay Area](place/bay-area.md) | 210 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
 | [🗽 New York City](place/new-york.md) | 63 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: New York City, Nyc, Manhattan, Brooklyn, Long Island City, Jersey City, Hoboken, New York NY, Queens NY, Newark NJ, Stamford CT. |
 | [🌴 Los Angeles & Orange County](place/los-angeles.md) | 55 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: Los Angeles, Santa Monica, El Segundo, Culver City, Hawthorne, Van Nuys, Marina Del Rey, Playa Vista, Pasadena, Burbank, Torrance, Long Beach, and 6 more. |
 | [🎓 Boston & Cambridge](place/boston.md) | 50 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in MA: Somerville, Boston, Cambridge, Waltham, Burlington, Lexington, Wilmington, Needham, Andover, Marlborough, Leominster, Quincy, and 3 more. |
-| [🎸 Austin](place/austin.md) | 47 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Austin, Pflugerville, Round Rock, Cedar Park, Bastrop, Georgetown. |
+| [🎸 Austin](place/austin.md) | 46 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Austin, Pflugerville, Round Rock, Cedar Park, Bastrop, Georgetown. |
 | [🌲 Seattle & Puget Sound](place/seattle.md) | 35 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in WA: Seattle, Redmond, Issaquah, Sammamish, Bellevue, Kirkland, Renton, Bothell, Everett, Tacoma. |
 | [🍁 Toronto, Waterloo & Ottawa](place/toronto.md) | 32 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in ON: Toronto, Mississauga, Kitchener, Brampton, Waterloo, Ottawa, Markham, Hamilton, London. |
 | [🌎 México, Brazil & Latin America](place/latam.md) | 0 | 31 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
@@ -141,7 +141,6 @@ _Between them these 27 filters hold **660 of the 1,050** new-grad roles on this 
 | [🏮 Beijing, Shanghai, Taipei & Hong Kong](place/greater-china.md) | 0 | 5 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [🐎 Calgary & the Prairies](place/calgary.md) | 5 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Calgary AB, Edmonton AB, Winnipeg MB, Saskatoon SK, Regina SK. |
 | [🇪🇸 Madrid, Barcelona & Iberia](place/iberia.md) | 2 | 3 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🏖️ San Diego](place/san-diego.md) | 5 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Diego, La Jolla, Carlsbad, Poway, Oceanside. |
 | [🏰 Warsaw, Kraków & Central Europe](place/poland-cee.md) | 0 | 5 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 
 ---
@@ -150,12 +149,12 @@ _Between them these 27 filters hold **660 of the 1,050** new-grad roles on this 
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **189 of the 1,050** new-grad roles on this list (18%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **190 of the 1,049** new-grad roles on this list (18%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
 | [🌐 Remote](remote.md) | 65 | 36 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 73 | 20 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 73 | 21 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 
 ---
 

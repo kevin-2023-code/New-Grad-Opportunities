@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**93 open roles.** 73 in the United States & Canada · 20 elsewhere in the world. Everything the employers put up this week.
+**94 open roles.** 73 in the United States & Canada · 21 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -540,6 +540,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Agropur</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ad1e628-668c-402a-bb03-441bc6fc86e1">software developer</a></td>
+<td>Notre-Dame-du-Bon-Conseil (QC)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50512537">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Jensen Hughes</strong></td>
 <td><a href="https://trueinterview.io/jobs/70d960bf-1235-4d52-b7cd-ed57a88ccf33">Fire Engineer Graduate</a></td>

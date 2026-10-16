@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**394 open roles.** 271 in the United States & Canada · 123 elsewhere in the world.
+**395 open roles.** 271 in the United States & Canada · 124 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1926,6 +1926,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Agropur</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ad1e628-668c-402a-bb03-441bc6fc86e1">software developer</a></td>
+<td>Notre-Dame-du-Bon-Conseil (QC)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50512537">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Netgear</strong></td>
 <td><a href="https://trueinterview.io/jobs/e97be6ec-1356-40f4-9525-2d4e1bf7e55a">Graduate Mobile Software Engineer (Android/iOS)</a></td>

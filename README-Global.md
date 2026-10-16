@@ -18,13 +18,13 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-16 01:08 UTC_
+_Last updated: 2026-10-16 12:19 UTC_
 
-**259 open new-grad roles** from **191 employers** · **20 posted in the last 7 days** · refreshed hourly
+**260 open new-grad roles** from **192 employers** · **21 posted in the last 7 days** · refreshed hourly
 
-### Browse 259 new-grad roles by field
+### Browse 260 new-grad roles by field
 
-💻 **[Software Engineering](#-software-engineering)** (123)
+💻 **[Software Engineering](#-software-engineering)** (124)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (69)
 
@@ -52,11 +52,11 @@ _Counts are new-grad roles in the rest of the world. Each page carries every reg
 
 🏷️ **By company type** — [🧾 IT services & consulting (28)](lists/company/it-consulting.md) · [🏦 Banks, insurers & asset managers (19)](lists/company/banking-finance.md) · [🏛️ Big Tech (18)](lists/company/big-tech.md) · [🏗️ Large tech (1,000–9,999) (17)](lists/company/large-tech.md) · [🏢 Enterprise & business software (14)](lists/company/enterprise-saas.md) · [💳 Fintech, payments & crypto (13)](lists/company/fintech.md) · [🏤 Mid-sized tech (200–999) (13)](lists/company/mid-size-tech.md) · [💼 Other industries (13)](lists/company/other-industry.md) · [🧠 AI labs & AI infrastructure (12)](lists/company/ai.md) · [🌱 Startups (under 200) (12)](lists/company/startups.md) · [+11 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (41)](lists/role/software-engineer.md) · [AI Engineer (16)](lists/role/ai-engineer.md) · [Data Analyst (16)](lists/role/data-analyst.md) · [Backend Engineer (12)](lists/role/backend-engineer.md) · [Machine Learning Engineer (9)](lists/role/machine-learning-engineer.md) · [Data Scientist (8)](lists/role/data-scientist.md) · [Data Engineer (7)](lists/role/data-engineer.md) · [Platform Engineer (7)](lists/role/platform-engineer.md) · [Security Engineer (7)](lists/role/security-engineer.md) · [Full-Stack Engineer (6)](lists/role/full-stack-engineer.md) · [+6 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (42)](lists/role/software-engineer.md) · [AI Engineer (16)](lists/role/ai-engineer.md) · [Data Analyst (16)](lists/role/data-analyst.md) · [Backend Engineer (12)](lists/role/backend-engineer.md) · [Machine Learning Engineer (9)](lists/role/machine-learning-engineer.md) · [Data Scientist (8)](lists/role/data-scientist.md) · [Data Engineer (7)](lists/role/data-engineer.md) · [Platform Engineer (7)](lists/role/platform-engineer.md) · [Security Engineer (7)](lists/role/security-engineer.md) · [Full-Stack Engineer (6)](lists/role/full-stack-engineer.md) · [+6 more →](lists/README.md)
 
 📍 **By location** — [🌎 México, Brazil & Latin America (31)](lists/place/latam.md) · [🇬🇧 London & the UK (22)](lists/place/uk.md) · [🇮🇳 Bengaluru & India (11)](lists/place/india.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (11)](lists/place/anz.md) · [🇩🇪 Berlin, Munich & Germany (9)](lists/place/germany.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (5)](lists/place/greater-china.md) · [🏰 Warsaw, Kraków & Central Europe (5)](lists/place/poland-cee.md) · [🇪🇸 Madrid, Barcelona & Iberia (3)](lists/place/iberia.md)
 
-⚡ **Quick filters** — [🌐 Remote (36)](lists/remote.md) · [🆕 Posted in the last 7 days (20)](lists/new-this-week.md)
+⚡ **Quick filters** — [🌐 Remote (36)](lists/remote.md) · [🆕 Posted in the last 7 days (21)](lists/new-this-week.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -79,6 +79,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Agropur</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ad1e628-668c-402a-bb03-441bc6fc86e1">software developer</a> 🆕</td>
+<td>Notre-Dame-du-Bon-Conseil (QC)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50512537">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Netgear</strong></td>
 <td><a href="https://trueinterview.io/jobs/e97be6ec-1356-40f4-9525-2d4e1bf7e55a">Graduate Mobile Software Engineer (Android/iOS)</a> 🆕</td>
@@ -340,7 +347,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/08d1cb84-509e-430e-9a54-35d62a0fb1d0">Drone Firmware Software Dev Engineer, Ring Robotics Platform Engineering</a></td>
 <td>GB, Cambridge</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10559120/drone-firmware-software-dev-engineer-ring-robotics-platform-engineering">Apply</a></td>
-<td align="center">21d</td>
+<td align="center">22d</td>
 </tr>
 <tr>
 <td><strong>Framework</strong></td>
@@ -557,7 +564,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 66 of 123.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 67 of 124.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
