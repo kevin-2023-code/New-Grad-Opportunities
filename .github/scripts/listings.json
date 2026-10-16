@@ -6,9 +6,35 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-16T01:08:59.802Z",
-  "count": 1053,
+  "listingsChangedAt": "2026-10-16T07:00:18.085Z",
+  "count": 1051,
   "listings": [
+    {
+      "id": "c097a4e9-13a7-4dd2-b7ea-73e061c74261",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Infrastructure",
+      "locations": [
+        "Starbase, TX",
+        "Brownsville, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002",
+      "url": "https://trueinterview.io/jobs/c097a4e9-13a7-4dd2-b7ea-73e061c74261",
+      "postedAt": "2026-10-16T01:17:49.000Z",
+      "updatedAt": "2026-10-16T01:17:49.000Z"
+    },
     {
       "id": "79787256-a67b-441b-9613-7f771470397f",
       "company": "enova",
@@ -263,60 +289,6 @@
       "applyUrl": "https://jobs.smartrecruiters.com/EgisGroup/744000155615291-entry-structural-engineer?oga=true",
       "url": "https://trueinterview.io/jobs/261c322b-9fa2-493e-8546-4139b0d778cf",
       "postedAt": "2026-10-15T00:00:00.000Z",
-      "updatedAt": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "id": "8b7b087c-16d9-48a3-b6bb-cd1b4d729701",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Electrical Hardware Engineer I - 0T1011",
-      "locations": [
-        "Sunnyvale, California, United States of America",
-        "Westford, Massachusetts, United States of America"
-      ],
-      "cities": [
-        "Sunnyvale, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Electrical-Hardware-Engineer-I---0T1011_1214973",
-      "url": "https://trueinterview.io/jobs/8b7b087c-16d9-48a3-b6bb-cd1b4d729701",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "id": "2d50ea0d-d702-495c-938f-ee6385116343",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Mechanical Hardware Engineer I - 0T1031",
-      "locations": [
-        "Roseville, California, United States of America",
-        "Sunnyvale, California, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Mechanical-Hardware-Engineer-I---0T1031_1214960",
-      "url": "https://trueinterview.io/jobs/2d50ea0d-d702-495c-938f-ee6385116343",
-      "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-15T00:00:00.000Z"
     },
     {
@@ -625,31 +597,6 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/hungryroot/jobs/6223549004",
       "url": "https://trueinterview.io/jobs/291fe12b-129f-468e-8412-87e2d80931c4",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "id": "e1a6ff1f-eeb5-403e-81d1-58e7676100c9",
-      "company": "Intel",
-      "title": "CPU Validation Engineer",
-      "locations": [
-        "US, Texas, Austin, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/CPU-Validation-Engineer_JR0288101",
-      "url": "https://trueinterview.io/jobs/e1a6ff1f-eeb5-403e-81d1-58e7676100c9",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
