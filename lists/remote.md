@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**100 open roles.** 63 in the United States & Canada · 37 elsewhere in the world. Postings the pipeline classified as remote.
+**98 open roles.** 63 in the United States & Canada · 35 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -471,13 +471,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Gofasti</strong></td>
-<td><a href="https://trueinterview.io/jobs/f869cdfb-3110-446a-ab1d-44c9da33787c">1169 - NetSuite Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://careers.gofasti.com/job-application/6227395004?gh_jid=6227395004">Apply</a></td>
-<td align="center">17 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Hungryroot</strong></td>
 <td><a href="https://trueinterview.io/jobs/291fe12b-129f-468e-8412-87e2d80931c4">Systems Operations Analyst</a> 🌐</td>
 <td>Remote</td>
@@ -721,13 +714,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skelar/fb92006f-4943-49d2-890f-f117e96428df/application">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Testlio</strong></td>
-<td><a href="https://trueinterview.io/jobs/23f3bc90-1eff-4bf6-a58f-76812912cc85">Freelance Payment Tester – Apple Pay &amp; Google Pay (Remote)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/testlio/jobs/8129526">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 </tbody>
 </table>

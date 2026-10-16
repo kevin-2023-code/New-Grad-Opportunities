@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**32 open roles.**
+**31 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,13 +19,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>1global</strong></td>
-<td><a href="https://trueinterview.io/jobs/e5faabf4-14c6-480c-8b56-da6cdf87b5f0">Telecom Billing Software Engineer - Lisbon Based</a></td>
-<td>Rio de Janeiro, Rio de Janeiro, Brazil<br/>Porto, Porto District, Portugal<br/>Braga, Braga, Portugal</td>
-<td align="center"><a href="https://jobs.workable.com/view/cj4HS7GpBDG2owLKjz6JkC/hybrid-telecom-billing-software-engineer---lisbon-based-in-rio-de-janeiro-at-1global">Apply</a></td>
-<td align="center">17 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Inter Carreiras</strong></td>
 <td><a href="https://trueinterview.io/jobs/0674982b-12b3-4321-8dde-ba698d0dd701">DATA ANALYST I | CREDIT STRATEGY &amp; POLICY SP</a></td>

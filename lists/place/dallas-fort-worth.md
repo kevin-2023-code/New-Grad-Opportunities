@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**12 open roles.**
+**11 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Tria Federal</strong></td>
-<td><a href="https://trueinterview.io/jobs/a18534f6-0546-4105-8868-882d7030ccb4">Tier 1 Helpdesk</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://triafed.com/jobs/?gh_jid=5455641008">Apply</a></td>
-<td align="center">17 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/9309d68b-e065-43c8-939b-3a2d47aac56f">Software Consulting Engineer I (Full Time) United States</a></td>

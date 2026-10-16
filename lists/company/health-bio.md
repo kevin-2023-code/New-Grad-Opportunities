@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**21 open roles.** 16 in the United States & Canada · 5 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**20 open roles.** 15 in the United States & Canada · 5 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -26,13 +26,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Simonmed</strong></td>
-<td><a href="https://trueinterview.io/jobs/d7490a34-0b22-4fe2-bf8e-68a21249710a">Echo Technologist</a></td>
-<td>Arizona</td>
-<td align="center"><a href="https://jobs.lever.co/simonmed/b13ba37a-b2bc-47ba-999a-b49fa92f5926/apply">Apply</a></td>
-<td align="center">17 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1b184b0b-5bf7-4bd9-83d3-255c9a571562">Technologist Assistant Advanced</a></td>
 <td>208 W Oak St. Kissimmee, FL 34741</td>
 <td align="center"><a href="https://www.1point3acres.com/jobs/01m4hk53xn035003q725q7wbqr">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**30 open roles.**
+**29 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Bkf</strong></td>
-<td><a href="https://trueinterview.io/jobs/be393141-d852-4997-9b45-3a7c488034cd">Systems Engineer - Mergers and Acquisitions Integration</a></td>
-<td>Washington, DC<br/>Oregon, United States<br/>Pleasanton, California, United States<br/>+3 more</td>
-<td align="center"><a href="https://jobs.workable.com/view/uX1Gwf2jyovwJrEJbVL7k3/remote-systems-engineer---mergers-and-acquisitions-integration-in-washington-at-bkf">Apply</a></td>
-<td align="center">17 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/853820fe-3e5b-41a9-99cd-7c9874f226db">Database Engineering Associate</a></td>

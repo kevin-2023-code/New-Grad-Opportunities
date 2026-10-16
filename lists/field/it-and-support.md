@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**119 open roles.** 92 in the United States & Canada · 27 elsewhere in the world.
+**118 open roles.** 91 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Tria Federal</strong></td>
-<td><a href="https://trueinterview.io/jobs/a18534f6-0546-4105-8868-882d7030ccb4">Tier 1 Helpdesk</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://triafed.com/jobs/?gh_jid=5455641008">Apply</a></td>
-<td align="center">17 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Meridianlink</strong></td>
 <td><a href="https://trueinterview.io/jobs/c19457f0-3080-4cd5-9dc2-8e33c502b717">Associate Implementation Analyst</a> 🌐</td>

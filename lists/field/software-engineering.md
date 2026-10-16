@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**399 open roles.** 273 in the United States & Canada · 126 elsewhere in the world.
+**388 open roles.** 268 in the United States & Canada · 120 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,34 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Anduril</strong></td>
-<td><a href="https://trueinterview.io/jobs/a98c640e-f21c-4677-bc3c-fef963bdd2e6">Mission Software Engineer</a></td>
-<td>Waltham, Massachusetts, United States, Waltham, MA</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5267769007?gh_jid=5267769007">Apply</a></td>
-<td align="center">17 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bkf</strong></td>
-<td><a href="https://trueinterview.io/jobs/be393141-d852-4997-9b45-3a7c488034cd">Systems Engineer - Mergers and Acquisitions Integration</a></td>
-<td>Washington, DC<br/>Oregon, United States<br/>Pleasanton, California, United States<br/>+3 more</td>
-<td align="center"><a href="https://jobs.workable.com/view/uX1Gwf2jyovwJrEJbVL7k3/remote-systems-engineer---mergers-and-acquisitions-integration-in-washington-at-bkf">Apply</a></td>
-<td align="center">17 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ford</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf3380f2-c9d5-447b-b22d-39a7719c3fb4">Safety Investigations Engineer</a></td>
-<td>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72310">Apply</a></td>
-<td align="center">17 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Simonmed</strong></td>
-<td><a href="https://trueinterview.io/jobs/d7490a34-0b22-4fe2-bf8e-68a21249710a">Echo Technologist</a></td>
-<td>Arizona</td>
-<td align="center"><a href="https://jobs.lever.co/simonmed/b13ba37a-b2bc-47ba-999a-b49fa92f5926/apply">Apply</a></td>
-<td align="center">17 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Celonis</strong></td>
 <td><a href="https://trueinterview.io/jobs/9b85ce7e-485b-4379-8240-7d8d3d4f80ff">Client Value Partner - Retail + CPG</a></td>
@@ -561,13 +533,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/751d52e1-7d52-4239-81a8-cd3b3bcc5717">Software Engineer – Oscilloscope &amp; Measurement Solutions</a></td>
 <td>Colorado Springs, Colorado, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54394?lang=en-us">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>QUALCOMM</strong></td>
-<td><a href="https://trueinterview.io/jobs/5b30f3c0-fd42-4bd3-9a85-e166a0e3e155">#Automotive Experience Platform - Engineer</a></td>
-<td>San Diego, CA, US</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446721162864">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -1941,20 +1906,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>1global</strong></td>
-<td><a href="https://trueinterview.io/jobs/e5faabf4-14c6-480c-8b56-da6cdf87b5f0">Telecom Billing Software Engineer - Lisbon Based</a></td>
-<td>Rio de Janeiro, Rio de Janeiro, Brazil<br/>Porto, Porto District, Portugal<br/>Braga, Braga, Portugal</td>
-<td align="center"><a href="https://jobs.workable.com/view/cj4HS7GpBDG2owLKjz6JkC/hybrid-telecom-billing-software-engineer---lisbon-based-in-rio-de-janeiro-at-1global">Apply</a></td>
-<td align="center">17 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gofasti</strong></td>
-<td><a href="https://trueinterview.io/jobs/f869cdfb-3110-446a-ab1d-44c9da33787c">1169 - NetSuite Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://careers.gofasti.com/job-application/6227395004?gh_jid=6227395004">Apply</a></td>
-<td align="center">17 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Inter Carreiras</strong></td>
 <td><a href="https://trueinterview.io/jobs/8e558f3b-a2ed-4d5a-a966-19e1df12f9ee">Cadastro Oportunidades Inter (DevFest 2026)</a></td>
 <td>Belo Horizonte, MG, BANCO INTER</td>
@@ -2793,34 +2744,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skelar/fb92006f-4943-49d2-890f-f117e96428df/application">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Testlio</strong></td>
-<td><a href="https://trueinterview.io/jobs/23f3bc90-1eff-4bf6-a58f-76812912cc85">Freelance Payment Tester – Apple Pay &amp; Google Pay (Remote)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/testlio/jobs/8129526">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>ElevenLabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ac19d98-1464-4835-8f38-de7c72841489">Forward Deployed Software Engineer - UAE</a></td>
-<td>UAE</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/fa4fc307-a0fb-47aa-9336-f202f2265440/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/70f199d8-e80b-4b05-bc22-e7a58fb55a1a">Forward Deployed Engineer - Software Engineer - Switzerland</a></td>
-<td>Switzerland</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/8e3de98e-0c2e-4999-90ae-3036ee47df05/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1d44bbbf-9946-481a-a575-cc11b3c8c4ac">Forward Deployed Engineer - Software Engineer - Saudi Arabia</a></td>
-<td>Saudi Arabia</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/c8216d65-13c9-4f8c-9b57-e14fd02738b0/application">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 </tbody>
 </table>
