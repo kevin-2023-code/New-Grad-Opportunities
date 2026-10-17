@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**311 open roles.** 286 in the United States & Canada · 25 elsewhere in the world.
+**309 open roles.** 285 in the United States & Canada · 24 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2012,13 +2012,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/axon/jobs/7823330003">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Xaira Therapeutics</strong></td>
-<td><a href="https://trueinterview.io/jobs/41aab65d-d774-46d0-8286-c660c70afb25">Lab Automation - Robotics Engineer</a></td>
-<td>South San Francisco, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xairatherapeutics/jobs/5212689007">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2198,13 +2191,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Delft</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/quantware/44ae2864-733d-4259-a93b-e156372d44c3/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Intuitive Surgical</strong></td>
-<td><a href="https://trueinterview.io/jobs/4f7b04b5-6f10-45c4-a22f-f984de4c29db">Manufacturing Equipment Engineer 1</a></td>
-<td>Mexicali, MEXICO, Mexico</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000144168469-manufacturing-equipment-engineer-1?oga=true">Apply</a></td>
-<td align="center">18 Aug 2026</td>
 </tr>
 </tbody>
 </table>

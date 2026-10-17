@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**20 open roles.** 15 in the United States & Canada · 5 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**18 open roles.** 14 in the United States & Canada · 4 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -115,13 +115,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014689316-associate-business-system-analyst-mes?oga=true">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Xaira Therapeutics</strong></td>
-<td><a href="https://trueinterview.io/jobs/41aab65d-d774-46d0-8286-c660c70afb25">Lab Automation - Robotics Engineer</a></td>
-<td>South San Francisco, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xairatherapeutics/jobs/5212689007">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -161,13 +154,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Warsaw<br/>Barcelona<br/>Spain</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/docplanner/daf94ce2-89e1-4eda-9c47-d0122310141d/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Intuitive Surgical</strong></td>
-<td><a href="https://trueinterview.io/jobs/4f7b04b5-6f10-45c4-a22f-f984de4c29db">Manufacturing Equipment Engineer 1</a></td>
-<td>Mexicali, MEXICO, Mexico</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000144168469-manufacturing-equipment-engineer-1?oga=true">Apply</a></td>
-<td align="center">18 Aug 2026</td>
 </tr>
 </tbody>
 </table>

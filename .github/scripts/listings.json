@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-17T19:14:30.392Z",
-  "count": 1037,
+  "listingsChangedAt": "2026-10-17T22:10:10.100Z",
+  "count": 1032,
   "listings": [
     {
       "id": "433670ac-33f1-4712-a11a-7a241ae2e854",
@@ -3811,33 +3811,6 @@
       "url": "https://trueinterview.io/jobs/da441dc1-ebb3-4edc-a518-dbe6dbade2da",
       "postedAt": "2026-10-04T00:00:00.000Z",
       "updatedAt": "2026-10-04T00:00:00.000Z"
-    },
-    {
-      "id": "f55c652a-4739-4b02-a9d2-89b1e7444b76",
-      "company": "Clera",
-      "title": "Entry-Level Robot Learning Engineer",
-      "locations": [
-        "Munich"
-      ],
-      "cities": [
-        "Munich"
-      ],
-      "countries": [
-        "Germany"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/clera/0fe56373-a3d1-48ee-ba8a-f4faeffa37f7/application",
-      "url": "https://trueinterview.io/jobs/f55c652a-4739-4b02-a9d2-89b1e7444b76",
-      "postedAt": "2026-10-03T17:05:23.000Z",
-      "updatedAt": "2026-10-03T17:05:23.000Z"
     },
     {
       "id": "0e9fa695-3b82-44a1-a596-725ab9cd999e",
@@ -27123,107 +27096,6 @@
       "url": "https://trueinterview.io/jobs/ff1385b3-6189-4003-b286-19b2fd242428",
       "postedAt": "2026-08-18T22:43:19.000Z",
       "updatedAt": "2026-08-18T22:43:19.000Z"
-    },
-    {
-      "id": "97fef759-8274-462e-ad16-039796e7eae1",
-      "company": "Accenture Federal Services",
-      "title": "Contract Analyst",
-      "locations": [
-        "Arlington, VA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4706357006?gh_jid=4706357006",
-      "url": "https://trueinterview.io/jobs/97fef759-8274-462e-ad16-039796e7eae1",
-      "postedAt": "2026-08-18T21:46:12.000Z",
-      "updatedAt": "2026-08-18T21:46:12.000Z"
-    },
-    {
-      "id": "4f7b04b5-6f10-45c4-a22f-f984de4c29db",
-      "company": "Intuitive Surgical",
-      "title": "Manufacturing Equipment Engineer 1",
-      "locations": [
-        "Mexicali, MEXICO, Mexico"
-      ],
-      "cities": [],
-      "countries": [
-        "Mexico"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.smartrecruiters.com/Intuitive/744000144168469-manufacturing-equipment-engineer-1?oga=true",
-      "url": "https://trueinterview.io/jobs/4f7b04b5-6f10-45c4-a22f-f984de4c29db",
-      "postedAt": "2026-08-18T21:15:05.000Z",
-      "updatedAt": "2026-08-18T21:15:05.000Z"
-    },
-    {
-      "id": "1f0d12fb-45a2-485d-a846-a0fa4699fd5f",
-      "company": "Crowdgen By Appen",
-      "title": "Machine Translation Evaluation – English to Japanese; Project Vistula Q3",
-      "locations": [
-        "Japan"
-      ],
-      "cities": [],
-      "countries": [
-        "Japan"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/appen/d44601b2-c1d2-48ad-bf24-f9aa804e29e4/apply",
-      "url": "https://trueinterview.io/jobs/1f0d12fb-45a2-485d-a846-a0fa4699fd5f",
-      "postedAt": "2026-08-18T20:28:59.000Z",
-      "updatedAt": "2026-08-18T20:28:59.000Z"
-    },
-    {
-      "id": "41aab65d-d774-46d0-8286-c660c70afb25",
-      "company": "Xaira Therapeutics",
-      "title": "Lab Automation - Robotics Engineer",
-      "locations": [
-        "South San Francisco, California, United States",
-        "South San Francisco, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5212689007",
-      "url": "https://trueinterview.io/jobs/41aab65d-d774-46d0-8286-c660c70afb25",
-      "postedAt": "2026-08-18T20:20:49.000Z",
-      "updatedAt": "2026-08-18T20:20:49.000Z"
     }
   ]
 }
