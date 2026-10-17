@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-17T04:04:34.604Z",
-  "count": 1042,
+  "listingsChangedAt": "2026-10-17T19:14:30.392Z",
+  "count": 1037,
   "listings": [
     {
       "id": "433670ac-33f1-4712-a11a-7a241ae2e854",
@@ -27224,139 +27224,6 @@
       "url": "https://trueinterview.io/jobs/41aab65d-d774-46d0-8286-c660c70afb25",
       "postedAt": "2026-08-18T20:20:49.000Z",
       "updatedAt": "2026-08-18T20:20:49.000Z"
-    },
-    {
-      "id": "2c1aa029-9d65-4582-9dd6-85e9569de3b8",
-      "company": "Openai",
-      "title": "Software Engineer, Plugin Developer Platform",
-      "locations": [
-        "San Francisco"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Platform Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/openai/71838fdf-4476-490c-81b6-4bf0746f6774/application",
-      "url": "https://trueinterview.io/jobs/2c1aa029-9d65-4582-9dd6-85e9569de3b8",
-      "postedAt": "2026-08-18T19:12:23.000Z",
-      "updatedAt": "2026-08-18T19:12:23.000Z"
-    },
-    {
-      "id": "3679c0d8-1dd2-48fb-9729-8e916b93e906",
-      "company": "Posthog",
-      "title": "AI Research Engineer",
-      "locations": [
-        "Hybrid (UK)"
-      ],
-      "cities": [],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "hybrid",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/posthog/8dc3f33a-b930-4c54-b4c4-3e6bd2ff28d3/application",
-      "url": "https://trueinterview.io/jobs/3679c0d8-1dd2-48fb-9729-8e916b93e906",
-      "postedAt": "2026-08-18T19:01:08.000Z",
-      "updatedAt": "2026-08-18T19:01:08.000Z"
-    },
-    {
-      "id": "812d8f7b-44ed-4d14-9aae-631bd5fea2ad",
-      "company": "Accenture Federal Services",
-      "title": "OneFM Oracle Fusion Cloud Developer",
-      "locations": [
-        "Washington, DC",
-        "Arlington, VA"
-      ],
-      "cities": [
-        "Washington, DC"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4706300006?gh_jid=4706300006",
-      "url": "https://trueinterview.io/jobs/812d8f7b-44ed-4d14-9aae-631bd5fea2ad",
-      "postedAt": "2026-08-18T18:50:32.000Z",
-      "updatedAt": "2026-08-18T18:50:32.000Z"
-    },
-    {
-      "id": "08f6b453-5f53-4bd5-b38b-7ffce3732f6e",
-      "company": "Accenture Federal Services",
-      "title": "Oracle A2R/R2R Configurator",
-      "locations": [
-        "Washington, DC",
-        "Arlington, VA"
-      ],
-      "cities": [
-        "Washington, DC"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4706290006?gh_jid=4706290006",
-      "url": "https://trueinterview.io/jobs/08f6b453-5f53-4bd5-b38b-7ffce3732f6e",
-      "postedAt": "2026-08-18T18:34:05.000Z",
-      "updatedAt": "2026-08-18T18:34:05.000Z"
-    },
-    {
-      "id": "13d8acfd-88e9-406b-ad94-0e79ee087905",
-      "company": "Skelar",
-      "title": "Service Operations Engineer",
-      "locations": [
-        "Ukraine, Remote"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "remote",
-      "category": "Software",
-      "family": "Software",
-      "role": "Site Reliability Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/skelar/fb92006f-4943-49d2-890f-f117e96428df/application",
-      "url": "https://trueinterview.io/jobs/13d8acfd-88e9-406b-ad94-0e79ee087905",
-      "postedAt": "2026-08-18T17:06:47.000Z",
-      "updatedAt": "2026-08-18T17:06:47.000Z"
     }
   ]
 }
