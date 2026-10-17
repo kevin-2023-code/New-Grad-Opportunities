@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-16T23:25:47.318Z",
-  "count": 1044,
+  "listingsChangedAt": "2026-10-17T04:04:34.604Z",
+  "count": 1042,
   "listings": [
     {
       "id": "433670ac-33f1-4712-a11a-7a241ae2e854",
@@ -31,6 +31,33 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990016186871-associate-engineer-technical-development-program?oga=true",
       "url": "https://trueinterview.io/jobs/433670ac-33f1-4712-a11a-7a241ae2e854",
+      "postedAt": "2026-10-17T00:00:00.000Z",
+      "updatedAt": "2026-10-17T00:00:00.000Z"
+    },
+    {
+      "id": "66947f7e-43e3-4818-b711-12d2589425e9",
+      "company": "Amazon",
+      "title": "Systems Development Engineer, Early Career – 2026 (US)",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us",
+      "url": "https://trueinterview.io/jobs/66947f7e-43e3-4818-b711-12d2589425e9",
       "postedAt": "2026-10-17T00:00:00.000Z",
       "updatedAt": "2026-10-17T00:00:00.000Z"
     },
@@ -8233,31 +8260,6 @@
       "url": "https://trueinterview.io/jobs/797071da-7feb-4384-97e0-3078b28dd38a",
       "postedAt": "2026-09-23T07:23:10.000Z",
       "updatedAt": "2026-09-23T07:23:10.000Z"
-    },
-    {
-      "id": "fcdee1b5-17b2-4722-845a-10960601a65b",
-      "company": "Applied Materials",
-      "title": "Supplier Engineer New College Grad- Bachelor's/Master's (Santa Clara, CA)",
-      "locations": [
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318603273",
-      "url": "https://trueinterview.io/jobs/fcdee1b5-17b2-4722-845a-10960601a65b",
-      "postedAt": "2026-09-23T00:00:00.000Z",
-      "updatedAt": "2026-09-23T00:00:00.000Z"
     },
     {
       "id": "e09ae529-9111-44b5-8f0a-d9d6e2f2be6c",
@@ -19205,33 +19207,6 @@
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
     {
-      "id": "78d183a9-642f-4947-9fb8-bc460be98df1",
-      "company": "Applied Materials",
-      "title": "Manufacturing Engineer I, New College Grad- Bachelor's (Austin, TX)",
-      "locations": [
-        "Austin, TX, US"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318362273",
-      "url": "https://trueinterview.io/jobs/78d183a9-642f-4947-9fb8-bc460be98df1",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
       "id": "1e6c2290-8865-4200-983e-cb60a58b1556",
       "company": "Garmin",
       "title": "Product Support Specialist - Automotive",
@@ -27382,31 +27357,6 @@
       "url": "https://trueinterview.io/jobs/13d8acfd-88e9-406b-ad94-0e79ee087905",
       "postedAt": "2026-08-18T17:06:47.000Z",
       "updatedAt": "2026-08-18T17:06:47.000Z"
-    },
-    {
-      "id": "8be5adf4-1ace-4d01-ad6a-b406998f90bc",
-      "company": "Woven By Toyota",
-      "title": "Network Operations Engineer",
-      "locations": [
-        "Ann Arbor, MI"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/woven-by-toyota/efde9bf2-7a0b-4818-967d-361a6a4fdd2d/apply",
-      "url": "https://trueinterview.io/jobs/8be5adf4-1ace-4d01-ad6a-b406998f90bc",
-      "postedAt": "2026-08-18T00:06:11.000Z",
-      "updatedAt": "2026-08-18T00:06:11.000Z"
     }
   ]
 }

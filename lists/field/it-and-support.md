@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**118 open roles.** 91 in the United States & Canada · 27 elsewhere in the world.
+**117 open roles.** 90 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -645,13 +645,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/08f6b453-5f53-4bd5-b38b-7ffce3732f6e">Oracle A2R/R2R Configurator</a></td>
 <td>Washington, DC<br/>Arlington, VA</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4706290006?gh_jid=4706290006">Apply</a></td>
-<td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Woven By Toyota</strong></td>
-<td><a href="https://trueinterview.io/jobs/8be5adf4-1ace-4d01-ad6a-b406998f90bc">Network Operations Engineer</a></td>
-<td>Ann Arbor, MI</td>
-<td align="center"><a href="https://jobs.lever.co/woven-by-toyota/efde9bf2-7a0b-4818-967d-361a6a4fdd2d/apply">Apply</a></td>
 <td align="center">18 Aug 2026</td>
 </tr>
 </tbody>
