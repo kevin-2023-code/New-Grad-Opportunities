@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**66 open roles.** 60 in the United States & Canada · 6 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**65 open roles.** 59 in the United States & Canada · 6 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -429,13 +429,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Starbase, TX<br/>Brownsville, TX, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8731991002?gh_jid=8731991002">Apply</a></td>
 <td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/87b30a31-f82e-4580-bc1f-4f3286ab72a4">Software Engineer, Inference (AI Data Engineering)</a></td>
-<td>Palo Alto, CA<br/>Palo Alto - 1530</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 </tbody>
 </table>

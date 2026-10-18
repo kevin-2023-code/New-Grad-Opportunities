@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**306 open roles.** 282 in the United States & Canada · 24 elsewhere in the world.
+**305 open roles.** 281 in the United States & Canada · 24 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1983,13 +1983,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Easton, PA, United States</td>
 <td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014196">Apply</a></td>
 <td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Oklo</strong></td>
-<td><a href="https://trueinterview.io/jobs/31a5d273-33c3-4709-b9b6-b47ba12359ad">Sodium Test Engineer</a></td>
-<td>Idaho Falls, ID<br/>Any location</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/oklo/jobs/6135740004">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-18T00:49:27.476Z",
-  "count": 1022,
+  "listingsChangedAt": "2026-10-18T17:59:22.890Z",
+  "count": 1019,
   "listings": [
     {
       "id": "433670ac-33f1-4712-a11a-7a241ae2e854",
@@ -26764,83 +26764,6 @@
       "url": "https://trueinterview.io/jobs/3158cd87-165e-49dd-a6c4-0145f5abfa8a",
       "postedAt": "2026-08-19T18:32:33.000Z",
       "updatedAt": "2026-08-19T18:32:33.000Z"
-    },
-    {
-      "id": "4e46227d-7f70-492b-8144-1108577cfb98",
-      "company": "Scarlet",
-      "title": "Product Designer",
-      "locations": [
-        "Europe - Remote"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/scarlet/56adf81f-c42d-4a64-ae74-529346ecdc40/application",
-      "url": "https://trueinterview.io/jobs/4e46227d-7f70-492b-8144-1108577cfb98",
-      "postedAt": "2026-08-19T16:56:43.000Z",
-      "updatedAt": "2026-08-19T16:56:43.000Z"
-    },
-    {
-      "id": "31a5d273-33c3-4709-b9b6-b47ba12359ad",
-      "company": "Oklo",
-      "title": "Sodium Test Engineer",
-      "locations": [
-        "Idaho Falls, ID",
-        "Any location"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/oklo/jobs/6135740004",
-      "url": "https://trueinterview.io/jobs/31a5d273-33c3-4709-b9b6-b47ba12359ad",
-      "postedAt": "2026-08-19T16:03:36.000Z",
-      "updatedAt": "2026-08-19T16:03:36.000Z"
-    },
-    {
-      "id": "87b30a31-f82e-4580-bc1f-4f3286ab72a4",
-      "company": "SpaceX",
-      "title": "Software Engineer, Inference (AI Data Engineering)",
-      "locations": [
-        "Palo Alto, CA",
-        "Palo Alto - 1530"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002",
-      "url": "https://trueinterview.io/jobs/87b30a31-f82e-4580-bc1f-4f3286ab72a4",
-      "postedAt": "2026-08-19T15:41:33.000Z",
-      "updatedAt": "2026-08-19T15:41:33.000Z"
     }
   ]
 }

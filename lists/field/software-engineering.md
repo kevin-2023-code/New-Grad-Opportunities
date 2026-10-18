@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**382 open roles.** 264 in the United States & Canada · 118 elsewhere in the world.
+**381 open roles.** 263 in the United States & Canada · 118 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1856,13 +1856,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3158cd87-165e-49dd-a6c4-0145f5abfa8a">Saleforce Developer</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4684380006?gh_jid=4684380006">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/87b30a31-f82e-4580-bc1f-4f3286ab72a4">Software Engineer, Inference (AI Data Engineering)</a></td>
-<td>Palo Alto, CA<br/>Palo Alto - 1530</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 </tbody>

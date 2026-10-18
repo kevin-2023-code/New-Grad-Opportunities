@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**11 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
+**10 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,13 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Corona, CA, United States</td>
 <td align="center"><a href="https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/2348942">Apply</a></td>
 <td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Oklo</strong></td>
-<td><a href="https://trueinterview.io/jobs/31a5d273-33c3-4709-b9b6-b47ba12359ad">Sodium Test Engineer</a></td>
-<td>Idaho Falls, ID<br/>Any location</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/oklo/jobs/6135740004">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 </tbody>
 </table>

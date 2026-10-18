@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**51 open roles.** 37 in the United States & Canada · 14 elsewhere in the world.
+**50 open roles.** 37 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -378,13 +378,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Seoul</td>
 <td align="center"><a href="https://toss.im/career/job-detail?gh_jid=7955126003">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Scarlet</strong></td>
-<td><a href="https://trueinterview.io/jobs/4e46227d-7f70-492b-8144-1108577cfb98">Product Designer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/scarlet/56adf81f-c42d-4a64-ae74-529346ecdc40/application">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 </tbody>
 </table>
