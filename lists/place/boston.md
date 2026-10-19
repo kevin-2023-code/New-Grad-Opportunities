@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**47 open roles.**
+**46 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -78,13 +78,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8843c81e-a0a0-482d-ae2f-a4b87baa53a9">Central Applications</a></td>
 <td>US, MA, Wilmington, United States of America</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Central-Applications_R266993">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/60d72652-7504-436b-9ee1-fe84ee9dcad2">Graduate - Equipment Engineer</a></td>
-<td>Leominster, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971997918">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>

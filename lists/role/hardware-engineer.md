@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**46 open roles.** 45 in the United States & Canada · 1 elsewhere in the world.
+**47 open roles.** 46 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/f104fae8-2ffc-4085-b40e-a332836e18e6">VLSI Engineer I -</a></td>
+<td>Roseville, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/VLSI-Engineer-I--_1214985-1">Apply</a></td>
+<td align="center">18 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/69c78412-496d-4f86-bd59-9aa9a8a02f00">Hardware Engineer III (Full-Time) - United States</a></td>

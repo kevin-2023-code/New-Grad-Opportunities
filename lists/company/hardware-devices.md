@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**75 open roles.** 67 in the United States & Canada · 8 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**74 open roles.** 66 in the United States & Canada · 8 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/791a6ba7-71c6-4267-8fa2-4b683dcf27ef">Technology Consultant Graduate</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Technology-Consultant-Graduate_1217412-1">Apply</a></td>
+<td align="center">18 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f104fae8-2ffc-4085-b40e-a332836e18e6">VLSI Engineer I -</a></td>
+<td>Roseville, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/VLSI-Engineer-I--_1214985-1">Apply</a></td>
+<td align="center">18 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/69c78412-496d-4f86-bd59-9aa9a8a02f00">Hardware Engineer III (Full-Time) - United States</a></td>
 <td>San Jose, California, US, United States of America</td>
@@ -30,20 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United States</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41407">Apply</a></td>
 <td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/f469aa0b-ce39-42e1-bdaf-4c1e79cf611b">Data Engineer II (Full Time) - United States</a></td>
-<td>RTP, North Carolina, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Data-Engineer-II--Full-Time----United-States_2028790">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1b959723-b537-4fd3-ad6e-7a8865ec0c69">Site Reliability Engineer I (Full Time) — United States</a></td>
-<td>San Jose, California, United States of America<br/>RTP, North Carolina, US, United States of America<br/>Knoxville, Tennessee, United States of America<br/>+1 more</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer-I--Full-Time----United-States_2028788">Apply</a></td>
-<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
@@ -120,13 +120,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/36fd4ad7-308d-4130-94e6-40dc0d322fde">Jr. Software Engineer, AI Agent Platform</a> 🌐</td>
 <td>Remote — Canada</td>
 <td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Samsung</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c86b79b-be3c-4b0a-b8ad-23c149c056d9">Metals Process Engineer FEOL</a></td>
-<td>12100 Samsung Blvd, Austin, TX, USA, United States of America</td>
-<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Metals-Process-Engineer-FEOL_R121001">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>

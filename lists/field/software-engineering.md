@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**373 open roles.** 258 in the United States & Canada · 115 elsewhere in the world.
+**372 open roles.** 257 in the United States & Canada · 115 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,13 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Mountain View, CA, USA, Mountain View (US-MTV-EMF680), San Francisco</td>
 <td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8248373">Apply</a></td>
 <td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b959723-b537-4fd3-ad6e-7a8865ec0c69">Site Reliability Engineer I (Full Time) — United States</a></td>
-<td>San Jose, California, United States of America<br/>RTP, North Carolina, US, United States of America<br/>Knoxville, Tennessee, United States of America<br/>+1 more</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer-I--Full-Time----United-States_2028788">Apply</a></td>
-<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Keysight</strong></td>

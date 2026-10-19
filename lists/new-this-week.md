@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**63 open roles.** 52 in the United States & Canada · 11 elsewhere in the world. Everything the employers put up this week.
+**64 open roles.** 53 in the United States & Canada · 11 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ef03bc5-05e7-41f9-997e-56004b930146">Associate Automation Engineer</a></td>
+<td>GJ, IN</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/45007104">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/791a6ba7-71c6-4267-8fa2-4b683dcf27ef">Technology Consultant Graduate</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Technology-Consultant-Graduate_1217412-1">Apply</a></td>
+<td align="center">18 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f104fae8-2ffc-4085-b40e-a332836e18e6">VLSI Engineer I -</a></td>
+<td>Roseville, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/VLSI-Engineer-I--_1214985-1">Apply</a></td>
+<td align="center">18 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>AbbVie</strong></td>
 <td><a href="https://trueinterview.io/jobs/433670ac-33f1-4712-a11a-7a241ae2e854">Associate Engineer, Technical Development Program</a></td>
@@ -204,20 +225,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/570696bf-a474-4c08-b461-587dcd31ce78">CST Application Engineer -  Systems/ATX</a></td>
 <td>San Jose, CA<br/>SAN JOSE, United States of America</td>
 <td align="center"><a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Application-Engineer----Systems-ATX_R56830-1">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/f469aa0b-ce39-42e1-bdaf-4c1e79cf611b">Data Engineer II (Full Time) - United States</a></td>
-<td>RTP, North Carolina, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Data-Engineer-II--Full-Time----United-States_2028790">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1b959723-b537-4fd3-ad6e-7a8865ec0c69">Site Reliability Engineer I (Full Time) — United States</a></td>
-<td>San Jose, California, United States of America<br/>RTP, North Carolina, US, United States of America<br/>Knoxville, Tennessee, United States of America<br/>+1 more</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer-I--Full-Time----United-States_2028788">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>

@@ -6,9 +6,84 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-19T01:05:09.142Z",
-  "count": 998,
+  "listingsChangedAt": "2026-10-19T07:37:52.824Z",
+  "count": 997,
   "listings": [
+    {
+      "id": "3ef03bc5-05e7-41f9-997e-56004b930146",
+      "company": "Micron Technology",
+      "title": "Associate Automation Engineer",
+      "locations": [
+        "GJ,IN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/45007104",
+      "url": "https://trueinterview.io/jobs/3ef03bc5-05e7-41f9-997e-56004b930146",
+      "postedAt": "2026-10-19T00:00:00.000Z",
+      "updatedAt": "2026-10-19T00:00:00.000Z"
+    },
+    {
+      "id": "791a6ba7-71c6-4267-8fa2-4b683dcf27ef",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Technology Consultant Graduate",
+      "locations": [
+        "Spring, Texas, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Technology-Consultant-Graduate_1217412-1",
+      "url": "https://trueinterview.io/jobs/791a6ba7-71c6-4267-8fa2-4b683dcf27ef",
+      "postedAt": "2026-10-18T00:00:00.000Z",
+      "updatedAt": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "id": "f104fae8-2ffc-4085-b40e-a332836e18e6",
+      "company": "Hewlett Packard Enterprise",
+      "title": "VLSI Engineer I -",
+      "locations": [
+        "Roseville, California, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/VLSI-Engineer-I--_1214985-1",
+      "url": "https://trueinterview.io/jobs/f104fae8-2ffc-4085-b40e-a332836e18e6",
+      "postedAt": "2026-10-18T00:00:00.000Z",
+      "updatedAt": "2026-10-18T00:00:00.000Z"
+    },
     {
       "id": "433670ac-33f1-4712-a11a-7a241ae2e854",
       "company": "abbvie",
@@ -824,63 +899,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Application-Engineer----Systems-ATX_R56830-1",
       "url": "https://trueinterview.io/jobs/570696bf-a474-4c08-b461-587dcd31ce78",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "id": "f469aa0b-ce39-42e1-bdaf-4c1e79cf611b",
-      "company": "Cisco",
-      "title": "Data Engineer II (Full Time) - United States",
-      "locations": [
-        "RTP, North Carolina, US, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Data-Engineer-II--Full-Time----United-States_2028790",
-      "url": "https://trueinterview.io/jobs/f469aa0b-ce39-42e1-bdaf-4c1e79cf611b",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "id": "1b959723-b537-4fd3-ad6e-7a8865ec0c69",
-      "company": "Cisco",
-      "title": "Site Reliability Engineer I (Full Time) — United States",
-      "locations": [
-        "RTP, North Carolina, US, United States of America",
-        "San Jose, California, US",
-        "Knoxville, Tennessee, US",
-        "Research Triangle Park, North Carolina, United States of America",
-        "Knoxville, Tennessee, United States of America",
-        "San Jose, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Site Reliability Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer-I--Full-Time----United-States_2028788",
-      "url": "https://trueinterview.io/jobs/1b959723-b537-4fd3-ad6e-7a8865ec0c69",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
@@ -3187,31 +3205,6 @@
       "updatedAt": "2026-10-07T00:00:00.000Z"
     },
     {
-      "id": "60d72652-7504-436b-9ee1-fe84ee9dcad2",
-      "company": "Infineon",
-      "title": "Graduate - Equipment Engineer",
-      "locations": [
-        "Leominster, MA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.infineon.com/careers/job/563808971997918",
-      "url": "https://trueinterview.io/jobs/60d72652-7504-436b-9ee1-fe84ee9dcad2",
-      "postedAt": "2026-10-07T00:00:00.000Z",
-      "updatedAt": "2026-10-07T00:00:00.000Z"
-    },
-    {
       "id": "bd9cf647-9158-43e9-8508-c6e5f9d182ca",
       "company": "Mastra",
       "title": "Mastra / AI Engineer / REMOTE (AMER or EMEA time zones) / Full-time",
@@ -3734,31 +3727,6 @@
       "source": "trueinterview",
       "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300",
       "url": "https://trueinterview.io/jobs/36fd4ad7-308d-4130-94e6-40dc0d322fde",
-      "postedAt": "2026-10-05T00:00:00.000Z",
-      "updatedAt": "2026-10-05T00:00:00.000Z"
-    },
-    {
-      "id": "7c86b79b-be3c-4b0a-b8ad-23c149c056d9",
-      "company": "Samsung",
-      "title": "Metals Process Engineer FEOL",
-      "locations": [
-        "12100 Samsung Blvd, Austin, TX, USA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Metals-Process-Engineer-FEOL_R121001",
-      "url": "https://trueinterview.io/jobs/7c86b79b-be3c-4b0a-b8ad-23c149c056d9",
       "postedAt": "2026-10-05T00:00:00.000Z",
       "updatedAt": "2026-10-05T00:00:00.000Z"
     },

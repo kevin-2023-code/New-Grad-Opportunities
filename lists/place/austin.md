@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**43 open roles.**
+**42 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,13 +51,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>Austin, Texas, US<br/>San Jose, California, US, United States of America<br/>+1 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Data-Analyst-I--Full-Time----United-States_2024556-1">Apply</a></td>
 <td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Samsung</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c86b79b-be3c-4b0a-b8ad-23c149c056d9">Metals Process Engineer FEOL</a></td>
-<td>12100 Samsung Blvd, Austin, TX, USA, United States of America</td>
-<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Metals-Process-Engineer-FEOL_R121001">Apply</a></td>
-<td align="center">5 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Apptronik</strong></td>

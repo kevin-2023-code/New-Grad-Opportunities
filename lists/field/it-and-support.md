@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**111 open roles.** 84 in the United States & Canada · 27 elsewhere in the world.
+**113 open roles.** 86 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ef03bc5-05e7-41f9-997e-56004b930146">Associate Automation Engineer</a></td>
+<td>GJ, IN</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/45007104">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/791a6ba7-71c6-4267-8fa2-4b683dcf27ef">Technology Consultant Graduate</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Technology-Consultant-Graduate_1217412-1">Apply</a></td>
+<td align="center">18 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Meridianlink</strong></td>
 <td><a href="https://trueinterview.io/jobs/c19457f0-3080-4cd5-9dc2-8e33c502b717">Associate Implementation Analyst</a> 🌐</td>

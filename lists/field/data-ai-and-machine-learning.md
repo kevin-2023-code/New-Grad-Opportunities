@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**162 open roles.** 97 in the United States & Canada · 65 elsewhere in the world.
+**161 open roles.** 96 in the United States & Canada · 65 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>California - San Francisco, United States of America<br/>Washington - Seattle<br/>New York - New York</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1">Apply</a></td>
 <td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/f469aa0b-ce39-42e1-bdaf-4c1e79cf611b">Data Engineer II (Full Time) - United States</a></td>
-<td>RTP, North Carolina, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Data-Engineer-II--Full-Time----United-States_2028790">Apply</a></td>
-<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Intuitive</strong></td>

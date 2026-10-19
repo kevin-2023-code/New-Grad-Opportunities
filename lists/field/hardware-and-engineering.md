@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**298 open roles.** 274 in the United States & Canada · 24 elsewhere in the world.
+**297 open roles.** 273 in the United States & Canada · 24 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/f104fae8-2ffc-4085-b40e-a332836e18e6">VLSI Engineer I -</a></td>
+<td>Roseville, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/VLSI-Engineer-I--_1214985-1">Apply</a></td>
+<td align="center">18 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>AbbVie</strong></td>
 <td><a href="https://trueinterview.io/jobs/433670ac-33f1-4712-a11a-7a241ae2e854">Associate Engineer, Technical Development Program</a></td>
@@ -326,13 +333,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/60d72652-7504-436b-9ee1-fe84ee9dcad2">Graduate - Equipment Engineer</a></td>
-<td>Leominster, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971997918">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Tenstorrent</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec577568-aeed-4040-a3c1-cbd0e94f5a2a">Performance Analysis Engineer</a></td>
 <td>Toronto, Ontario, Canada<br/>Santa Clara, California, United States<br/>North America</td>
@@ -344,13 +344,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9469f8fa-e835-4cc3-8ab4-f6a52dfe4bf7">Module Engineer On-Shift (MEOS) – Night Shift (4)</a></td>
 <td>US, Arizona, Phoenix, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Module-Engineer-On-Shift--MEOS----Night-Shift--4-_JR0287815">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Samsung</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c86b79b-be3c-4b0a-b8ad-23c149c056d9">Metals Process Engineer FEOL</a></td>
-<td>12100 Samsung Blvd, Austin, TX, USA, United States of America</td>
-<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Metals-Process-Engineer-FEOL_R121001">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>

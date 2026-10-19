@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**229 open roles.** 211 in the United States & Canada · 18 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**228 open roles.** 210 in the United States & Canada · 18 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ef03bc5-05e7-41f9-997e-56004b930146">Associate Automation Engineer</a></td>
+<td>GJ, IN</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/45007104">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/791a6ba7-71c6-4267-8fa2-4b683dcf27ef">Technology Consultant Graduate</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Technology-Consultant-Graduate_1217412-1">Apply</a></td>
+<td align="center">18 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f104fae8-2ffc-4085-b40e-a332836e18e6">VLSI Engineer I -</a></td>
+<td>Roseville, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/VLSI-Engineer-I--_1214985-1">Apply</a></td>
+<td align="center">18 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/66947f7e-43e3-4818-b711-12d2589425e9">Systems Development Engineer, Early Career – 2026 (US)</a></td>
@@ -106,20 +127,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/570696bf-a474-4c08-b461-587dcd31ce78">CST Application Engineer -  Systems/ATX</a></td>
 <td>San Jose, CA<br/>SAN JOSE, United States of America</td>
 <td align="center"><a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Application-Engineer----Systems-ATX_R56830-1">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/f469aa0b-ce39-42e1-bdaf-4c1e79cf611b">Data Engineer II (Full Time) - United States</a></td>
-<td>RTP, North Carolina, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Data-Engineer-II--Full-Time----United-States_2028790">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1b959723-b537-4fd3-ad6e-7a8865ec0c69">Site Reliability Engineer I (Full Time) — United States</a></td>
-<td>San Jose, California, United States of America<br/>RTP, North Carolina, US, United States of America<br/>Knoxville, Tennessee, United States of America<br/>+1 more</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer-I--Full-Time----United-States_2028788">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>
@@ -270,13 +277,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/60d72652-7504-436b-9ee1-fe84ee9dcad2">Graduate - Equipment Engineer</a></td>
-<td>Leominster, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971997918">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/a664e30d-f509-47dc-a26a-3b384c5c8623">Data Engineer, 2027 Graduate U.S</a></td>
 <td>Seattle - United States - Seattle, Washington United States</td>
@@ -302,13 +302,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/36fd4ad7-308d-4130-94e6-40dc0d322fde">Jr. Software Engineer, AI Agent Platform</a> 🌐</td>
 <td>Remote — Canada</td>
 <td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Samsung</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c86b79b-be3c-4b0a-b8ad-23c149c056d9">Metals Process Engineer FEOL</a></td>
-<td>12100 Samsung Blvd, Austin, TX, USA, United States of America</td>
-<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Metals-Process-Engineer-FEOL_R121001">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>

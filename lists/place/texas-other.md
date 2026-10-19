@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**18 open roles.**
+**19 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/791a6ba7-71c6-4267-8fa2-4b683dcf27ef">Technology Consultant Graduate</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Technology-Consultant-Graduate_1217412-1">Apply</a></td>
+<td align="center">18 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fe42eeb5-1df4-4d8d-bb05-fc0e1ca43ffa">Engineering Resolution Team Engineer Graduate</a></td>
 <td>Spring, Texas, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Engineering-Resolution-Team-Engineer-Graduate_1216553-1">Apply</a></td>

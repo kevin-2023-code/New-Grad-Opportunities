@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ef03bc5-05e7-41f9-997e-56004b930146">Associate Automation Engineer</a></td>
+<td>GJ, IN</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/45007104">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/99f20587-0fa4-4ec3-81c5-47c690b1c035">New College Grad Manufacturing Engineer (Bachelors/Masters - Austin, TX)</a></td>
 <td>Austin, TX</td>
@@ -183,13 +190,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/32ae9a1d-a25e-458d-b0f3-93764c8a41db">Product Manager II, New College Grad- Master's (Santa Clara, CA)</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318707799">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/60d72652-7504-436b-9ee1-fe84ee9dcad2">Graduate - Equipment Engineer</a></td>
-<td>Leominster, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971997918">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
