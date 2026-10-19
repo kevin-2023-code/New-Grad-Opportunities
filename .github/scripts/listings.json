@@ -6,9 +6,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-19T07:37:52.824Z",
-  "count": 997,
+  "listingsChangedAt": "2026-10-19T15:29:57.254Z",
+  "count": 998,
   "listings": [
+    {
+      "id": "b1abade8-82ce-4738-8d50-3295fa41a6ee",
+      "company": "KLA",
+      "title": "Semiconductor Field Service Engineer - New College Grad",
+      "locations": [
+        "Hillsboro, OR, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Semiconductor-Field-Service-Engineer---New-College-Grad_2642813-1",
+      "url": "https://trueinterview.io/jobs/b1abade8-82ce-4738-8d50-3295fa41a6ee",
+      "postedAt": "2026-10-19T00:00:00.000Z",
+      "updatedAt": "2026-10-19T00:00:00.000Z"
+    },
     {
       "id": "3ef03bc5-05e7-41f9-997e-56004b930146",
       "company": "Micron Technology",
@@ -31,6 +56,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/45007104",
       "url": "https://trueinterview.io/jobs/3ef03bc5-05e7-41f9-997e-56004b930146",
+      "postedAt": "2026-10-19T00:00:00.000Z",
+      "updatedAt": "2026-10-19T00:00:00.000Z"
+    },
+    {
+      "id": "f87452d7-d773-444c-a1df-b218fd428fc7",
+      "company": "Micron Technology",
+      "title": "Global Quality Product Quality and Reliability Engineer",
+      "locations": [
+        "GJ,IN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44125362",
+      "url": "https://trueinterview.io/jobs/f87452d7-d773-444c-a1df-b218fd428fc7",
       "postedAt": "2026-10-19T00:00:00.000Z",
       "updatedAt": "2026-10-19T00:00:00.000Z"
     },
@@ -26146,31 +26196,6 @@
       "url": "https://trueinterview.io/jobs/ec014430-2db0-4126-b0f3-2676295c7192",
       "postedAt": "2026-08-20T16:09:01.000Z",
       "updatedAt": "2026-08-20T16:09:01.000Z"
-    },
-    {
-      "id": "9c96028e-c91c-4a17-8df7-3b87ee3a1c61",
-      "company": "SpaceX",
-      "title": "Mechanical Engineer - Tooling/Controls, Satellites (Starlink)",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8732313002?gh_jid=8732313002",
-      "url": "https://trueinterview.io/jobs/9c96028e-c91c-4a17-8df7-3b87ee3a1c61",
-      "postedAt": "2026-08-20T15:24:15.000Z",
-      "updatedAt": "2026-08-20T15:24:15.000Z"
     }
   ]
 }

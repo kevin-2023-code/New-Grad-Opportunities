@@ -32,17 +32,17 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-19 07:37 UTC_
+_Last updated: 2026-10-19 15:29 UTC_
 
-**752 open new-grad roles** from **382 employers** · **53 posted in the last 7 days** · refreshed hourly
+**753 open new-grad roles** from **382 employers** · **55 posted in the last 7 days** · refreshed hourly
 
-### Browse 752 new-grad roles by field
+### Browse 753 new-grad roles by field
 
 💻 **[Software Engineering](#-software-engineering)** (257)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (96)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (273)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (274)
 
 📱 **[Product & Design](#-product--design)** (37)
 
@@ -54,7 +54,7 @@ _Last updated: 2026-10-19 07:37 UTC_
 
 ### 🔥 Posting the most this week
 
-**Applied Materials** 5 &nbsp;·&nbsp; **Hewlett Packard Enterprise** 4 &nbsp;·&nbsp; **Analog Devices** 3 &nbsp;·&nbsp; **Intel** 3 &nbsp;·&nbsp; **NVIDIA** 3 &nbsp;·&nbsp; **Egis Group** 2 &nbsp;·&nbsp; **Ford** 2 &nbsp;·&nbsp; **Salesforce** 2
+**Applied Materials** 5 &nbsp;·&nbsp; **Hewlett Packard Enterprise** 4 &nbsp;·&nbsp; **Analog Devices** 3 &nbsp;·&nbsp; **Intel** 3 &nbsp;·&nbsp; **NVIDIA** 3 &nbsp;·&nbsp; **Egis Group** 2 &nbsp;·&nbsp; **Ford** 2 &nbsp;·&nbsp; **KLA** 2 &nbsp;·&nbsp; **Micron Technology** 2 &nbsp;·&nbsp; **Salesforce** 2
 
 <sub>Every employer with more than one role posted in the last 7 days, in this list. A count of open roles, not a ranking of employers.</sub>
 
@@ -64,13 +64,13 @@ _Last updated: 2026-10-19 07:37 UTC_
 
 _Counts are new-grad roles in the United States & Canada. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (210)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (134)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (66)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (62)](lists/company/large-tech.md) · [🚀 Aerospace & defence (58)](lists/company/aerospace-defense.md) · [🧾 IT services & consulting (40)](lists/company/it-consulting.md) · [📐 Engineering & architecture firms (39)](lists/company/engineering-services.md) · [🧠 AI labs & AI infrastructure (38)](lists/company/ai.md) · [🏤 Mid-sized tech (200–999) (34)](lists/company/mid-size-tech.md) · [🏢 Enterprise & business software (33)](lists/company/enterprise-saas.md) · [+14 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (212)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (136)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (66)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (62)](lists/company/large-tech.md) · [🚀 Aerospace & defence (57)](lists/company/aerospace-defense.md) · [🧾 IT services & consulting (40)](lists/company/it-consulting.md) · [📐 Engineering & architecture firms (39)](lists/company/engineering-services.md) · [🧠 AI labs & AI infrastructure (38)](lists/company/ai.md) · [🏤 Mid-sized tech (200–999) (34)](lists/company/mid-size-tech.md) · [🏢 Enterprise & business software (33)](lists/company/enterprise-saas.md) · [+14 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (111)](lists/role/software-engineer.md) · [Hardware Engineer (46)](lists/role/hardware-engineer.md) · [Machine Learning Engineer (20)](lists/role/machine-learning-engineer.md) · [Security Engineer (17)](lists/role/security-engineer.md) · [Embedded Engineer (16)](lists/role/embedded-engineer.md) · [AI Engineer (14)](lists/role/ai-engineer.md) · [Data Engineer (14)](lists/role/data-engineer.md) · [Full-Stack Engineer (14)](lists/role/full-stack-engineer.md) · [Data Scientist (12)](lists/role/data-scientist.md) · [Data Analyst (11)](lists/role/data-analyst.md) · [+7 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (111)](lists/role/software-engineer.md) · [Hardware Engineer (47)](lists/role/hardware-engineer.md) · [Machine Learning Engineer (20)](lists/role/machine-learning-engineer.md) · [Security Engineer (17)](lists/role/security-engineer.md) · [Embedded Engineer (16)](lists/role/embedded-engineer.md) · [AI Engineer (14)](lists/role/ai-engineer.md) · [Data Engineer (14)](lists/role/data-engineer.md) · [Full-Stack Engineer (14)](lists/role/full-stack-engineer.md) · [Data Scientist (12)](lists/role/data-scientist.md) · [Data Analyst (11)](lists/role/data-analyst.md) · [+7 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (200)](lists/place/bay-area.md) · [🗽 New York City (62)](lists/place/new-york.md) · [🌴 Los Angeles & Orange County (53)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (46)](lists/place/boston.md) · [🎸 Austin (42)](lists/place/austin.md) · [🌲 Seattle & Puget Sound (36)](lists/place/seattle.md) · [🍁 Toronto, Waterloo & Ottawa (32)](lists/place/toronto.md) · [🌧️ Portland, Boise & Spokane (29)](lists/place/pacific-northwest.md) · [🏛️ Washington DC & Northern Virginia (22)](lists/place/washington-dc.md) · [🌵 Phoenix & Arizona (21)](lists/place/phoenix.md) · [+11 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (200)](lists/place/bay-area.md) · [🗽 New York City (62)](lists/place/new-york.md) · [🌴 Los Angeles & Orange County (53)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (46)](lists/place/boston.md) · [🎸 Austin (42)](lists/place/austin.md) · [🌲 Seattle & Puget Sound (35)](lists/place/seattle.md) · [🍁 Toronto, Waterloo & Ottawa (32)](lists/place/toronto.md) · [🌧️ Portland, Boise & Spokane (30)](lists/place/pacific-northwest.md) · [🏛️ Washington DC & Northern Virginia (22)](lists/place/washington-dc.md) · [🌵 Phoenix & Arizona (21)](lists/place/phoenix.md) · [+11 more →](lists/README.md)
 
-⚡ **Quick filters** — [🌐 Remote (61)](lists/remote.md) · [🆕 Posted in the last 7 days (53)](lists/new-this-week.md)
+⚡ **Quick filters** — [🌐 Remote (61)](lists/remote.md) · [🆕 Posted in the last 7 days (55)](lists/new-this-week.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -1100,6 +1100,20 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </thead>
 <tbody>
 <tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1abade8-82ce-4738-8d50-3295fa41a6ee">Semiconductor Field Service Engineer - New College Grad</a> 🆕</td>
+<td>Hillsboro, OR, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Semiconductor-Field-Service-Engineer---New-College-Grad_2642813-1">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/f87452d7-d773-444c-a1df-b218fd428fc7">Global Quality Product Quality and Reliability Engineer</a> 🆕</td>
+<td>GJ, IN</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44125362">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/f104fae8-2ffc-4085-b40e-a332836e18e6">VLSI Engineer I -</a> 🆕</td>
 <td>Roseville, California, United States of America</td>
@@ -1258,20 +1272,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/dc3f08d0-cc28-4dcf-a909-94ff8a2e083c">Sr. Piping Designer</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/marianaminerals/f6cfb78e-353b-4d59-96d9-65ff688ca547/application">Apply</a></td>
-<td align="center">6d</td>
-</tr>
-<tr>
-<td><strong>Michels Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/543f396c-5833-42ca-b3d7-3526478674ed">Associate Project Engineer, Trenchless</a></td>
-<td>Tulsa, OK, Tulsa</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/michelscorporation/jobs/5003806101">Apply</a></td>
-<td align="center">6d</td>
-</tr>
-<tr>
-<td><strong>Wade Trim</strong></td>
-<td><a href="https://trueinterview.io/jobs/826a837c-8abd-48cf-ba63-51b816333d15">Entry Level Civil/Environmental Engineer - #3071</a></td>
-<td>Asheville, NC</td>
-<td align="center"><a href="https://jobs.lever.co/wadetrim/cffa7a9e-9d19-49b9-8835-7a7fcea54023/apply">Apply</a></td>
 <td align="center">6d</td>
 </tr>
 </tbody>
@@ -1640,7 +1640,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 273.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
+**Showing 75 of 274.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
 
 ## 📱 Product & Design
 
