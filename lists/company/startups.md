@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**41 open roles.** 31 in the United States & Canada · 10 elsewhere in the world. Early-stage technology companies.
+**40 open roles.** 31 in the United States & Canada · 9 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -308,13 +308,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Delft</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/quantware/44ae2864-733d-4259-a93b-e156372d44c3/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/991692fb-58e7-4aa0-803c-7c649398e9a4">Field Application Engineer - Temporary Part Time - London, UK</a></td>
-<td>Manchester</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/b005b49c-7d99-4622-8166-0304a3ba470e/apply">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 </tbody>
 </table>

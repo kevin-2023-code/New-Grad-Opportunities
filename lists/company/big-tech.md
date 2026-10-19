@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**236 open roles.** 218 in the United States & Canada · 18 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**229 open roles.** 211 in the United States & Canada · 18 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1493,55 +1493,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>1530 FM 973 Taylor, TX, USA, United States of America<br/>12100 Samsung Blvd, Austin, TX, USA</td>
 <td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/TEM-Analysis-Engineer---All-Shifts_R119838">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/958ac49e-5db1-4ffb-bd2f-e74fdca2faee">Power Management Systems Engineer</a></td>
-<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90873?lang=en-us">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/463dec95-cd2b-495f-9b7e-05c0329f67b3">SLT Test Engineer</a></td>
-<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/89356?lang=en-us">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/34811d0a-bec5-4759-ad6a-61bd7f8c0a1e">Associate Manufacturing Engineer</a></td>
-<td>US, MA, Wilmington, United States of America<br/>US, OR, Beaverton<br/>US, MA, Chelmsford, Alpha</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Manufacturing-Engineer_R265295">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/790a8292-d312-4e52-abea-babbf1af9bc9">Associate Product Applications Engineer</a></td>
-<td>US, MA, Wilmington, United States of America<br/>US, CO, Colorado Springs, Centennial<br/>US, NC, Durham</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Applications-Engineer_R265307">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c9a9e24a-e5a5-4223-9e4b-8b91d8b2b164">Associate System Integration Engineer</a></td>
-<td>US, NC, Durham, United States of America<br/>US, MA, Wilmington</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-System-Integration-Engineer_R265285">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6ef5bdb9-dc48-4d65-a2e8-02e075ae07d5">Associate Test Engineer</a></td>
-<td>US, NC, Durham, United States of America<br/>US, MA, Wilmington</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-Test-Engineer_R265308">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Coherent Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0a1a1b8-8c2a-4237-ad05-2bd9e3e8ceb8">Production Engineer</a></td>
-<td>Easton, PA, United States</td>
-<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014196">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 </tbody>
 </table>

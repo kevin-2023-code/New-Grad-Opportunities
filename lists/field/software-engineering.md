@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**374 open roles.** 259 in the United States & Canada · 115 elsewhere in the world.
+**373 open roles.** 258 in the United States & Canada · 115 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1821,13 +1821,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5dc0398c-e05f-4ed1-b425-8be8fe51f436">Computer Scientist</a></td>
 <td>6116 Executive Blvd, Suite # 400, North Bethesda, MD 20852</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/axle/jobs/5217863007">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/958ac49e-5db1-4ffb-bd2f-e74fdca2faee">Power Management Systems Engineer</a></td>
-<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90873?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 </tbody>

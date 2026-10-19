@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**46 open roles.** 38 in the United States & Canada · 8 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**45 open roles.** 38 in the United States & Canada · 7 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -343,13 +343,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cursor/1d6dbbb2-a5af-41a6-a70a-ca97690d9313/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/991692fb-58e7-4aa0-803c-7c649398e9a4">Field Application Engineer - Temporary Part Time - London, UK</a></td>
-<td>Manchester</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/b005b49c-7d99-4622-8166-0304a3ba470e/apply">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 </tbody>
 </table>

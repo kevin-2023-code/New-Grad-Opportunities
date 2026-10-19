@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**45 open roles.**
+**43 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -316,20 +316,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ec014430-2db0-4126-b0f3-2676295c7192">Customer Success Engineer - America</a></td>
 <td>Austin, TX<br/>Austin, Texas</td>
 <td align="center"><a href="https://jobs.lever.co/sonarsource/e9b34036-4608-452d-a597-28a3c90cdb36/apply">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/958ac49e-5db1-4ffb-bd2f-e74fdca2faee">Power Management Systems Engineer</a></td>
-<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90873?lang=en-us">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/463dec95-cd2b-495f-9b7e-05c0329f67b3">SLT Test Engineer</a></td>
-<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/89356?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 </tbody>

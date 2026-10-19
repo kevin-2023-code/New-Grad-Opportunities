@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**16 open roles.**
+**15 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -121,13 +121,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States<br/>Colorado Springs, CO</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5405742008">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/790a8292-d312-4e52-abea-babbf1af9bc9">Associate Product Applications Engineer</a></td>
-<td>US, CO, Colorado Springs, Centennial<br/>US, MA, Wilmington, United States of America<br/>US, NC, Durham</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Applications-Engineer_R265307">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 </tbody>
 </table>

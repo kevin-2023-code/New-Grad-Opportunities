@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**30 open roles.**
+**29 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -219,13 +219,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Hillsboro, OR<br/>Boise, ID<br/>Austin, TX<br/>+4 more</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Malta-NY/Customer-Support-Engineer--E-_2640005">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/34811d0a-bec5-4759-ad6a-61bd7f8c0a1e">Associate Manufacturing Engineer</a></td>
-<td>US, OR, Beaverton<br/>US, MA, Wilmington, United States of America<br/>US, MA, Chelmsford, Alpha</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Manufacturing-Engineer_R265295">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 </tbody>
 </table>

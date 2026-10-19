@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**47 open roles.** 46 in the United States & Canada · 1 elsewhere in the world.
+**46 open roles.** 45 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -331,13 +331,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, Arizona, Phoenix, United States of America<br/>US, Oregon, Hillsboro</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Silicon-Packaging-Design-Engineer_JR0286517">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/463dec95-cd2b-495f-9b7e-05c0329f67b3">SLT Test Engineer</a></td>
-<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/89356?lang=en-us">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 </tbody>
 </table>
