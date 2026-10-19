@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**68 open roles.** 40 in the United States & Canada · 28 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**66 open roles.** 38 in the United States & Canada · 28 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -281,20 +281,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/43761c98-2a2b-4c17-854d-f1962eab53e9">Front End Developer - AEM</a></td>
 <td>Office - Minneapolis, MN<br/>Office - Chicago, IL</td>
 <td align="center"><a href="https://jobs.lever.co/court-avenue/f6d49791-96f3-487e-818b-2858ec4edffc/apply">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Sustainable Talent</strong></td>
-<td><a href="https://trueinterview.io/jobs/1118a7cc-0006-4d6b-a4bb-8de3589298c6">Autonomous Vehicle Test Engineer supporting Nvidia</a></td>
-<td>Nvidia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sustainabletalent/jobs/4726222005">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Computer World Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/55be8e88-0588-4fe6-9707-21ca22b7fd54">Systems Administrator / IT Support Specialist</a></td>
-<td>Falls Church, VA</td>
-<td align="center"><a href="https://jobs.lever.co/cwsc/1a28c1e6-ba34-4051-9cb7-0595c5e25a79/apply">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 </tbody>

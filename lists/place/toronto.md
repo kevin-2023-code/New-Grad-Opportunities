@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**32 open roles.**
+**31 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -233,13 +233,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, ON</td>
 <td align="center"><a href="https://jobs.lever.co/knix/7b205d80-741e-48f2-8349-8facdc775f7d/apply">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Appdirect</strong></td>
-<td><a href="https://trueinterview.io/jobs/41984861-6082-49d3-b0ed-e11170cfcf13">Network Growth Analyst</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/appdirect/jobs/8722315002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 </tbody>
 </table>

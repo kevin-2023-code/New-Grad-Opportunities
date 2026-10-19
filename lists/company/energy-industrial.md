@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**10 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
+**8 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -72,20 +72,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>1235 Activity Drive, Vista, CA</td>
 <td align="center"><a href="https://jobs.lever.co/invinity/bdc2b349-f5a7-408a-809a-1b92263b3012/apply">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Sunsource</strong></td>
-<td><a href="https://trueinterview.io/jobs/795d6bc8-c873-4cf5-a270-67f36b791ce4">Application Engineer</a></td>
-<td>Golden, CO 80401</td>
-<td align="center"><a href="https://jobs.lever.co/sunsrce/52e86685-28b2-44f6-82ee-e1bf50db37ee/apply">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Wm</strong></td>
-<td><a href="https://trueinterview.io/jobs/17b6f92e-88b7-4412-a1cd-8654a81d3b19">Landfill Engineer I</a></td>
-<td>Corona, CA, United States</td>
-<td align="center"><a href="https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/2348942">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**161 open roles.** 96 in the United States & Canada · 65 elsewhere in the world.
+**159 open roles.** 95 in the United States & Canada · 64 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -682,13 +682,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397266929">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Appdirect</strong></td>
-<td><a href="https://trueinterview.io/jobs/41984861-6082-49d3-b0ed-e11170cfcf13">Network Growth Analyst</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/appdirect/jobs/8722315002">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1148,13 +1141,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo, , Brazil</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000144842431-engenheiro-de-dados-pleno?oga=true">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Digital Catapult</strong></td>
-<td><a href="https://trueinterview.io/jobs/99e05502-d2d6-45d0-8cdc-656f06e56ff0">Technology Specialist - AI</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.workable.com/view/svJRd8zwVNq1sBgairJabK/hybrid-technology-specialist---ai-in-london-at-digital-catapult">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 </tbody>
 </table>

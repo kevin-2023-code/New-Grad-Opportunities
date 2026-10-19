@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**25 open roles.** 4 in the United States & Canada · 21 elsewhere in the world.
+**24 open roles.** 4 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -196,13 +196,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, UK</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lgads/b583063e-60fc-4985-b2ee-11fa83d75943/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Digital Catapult</strong></td>
-<td><a href="https://trueinterview.io/jobs/99e05502-d2d6-45d0-8cdc-656f06e56ff0">Technology Specialist - AI</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.workable.com/view/svJRd8zwVNq1sBgairJabK/hybrid-technology-specialist---ai-in-london-at-digital-catapult">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 </tbody>
 </table>
