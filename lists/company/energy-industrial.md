@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**8 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
+**9 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Altalink</strong></td>
+<td><a href="https://trueinterview.io/jobs/2cf7c3fa-0894-41da-b279-641c5ef4107e">Summer Student - Substation Technologist</a></td>
+<td>Acheson, Alberta, Canada</td>
+<td align="center"><a href="https://jobs.workable.com/view/312UKHnY1yp1wmGMd2tLiE/summer-student---substation-technologist-in-acheson-at-altalink">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Kairos Power</strong></td>
 <td><a href="https://trueinterview.io/jobs/a14f278f-12ef-4935-bd30-b2ff34b214e0">Fuels IC&amp;E Engineer</a></td>
