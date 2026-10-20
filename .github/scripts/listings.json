@@ -6,9 +6,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-20T11:20:58.045Z",
-  "count": 976,
+  "listingsChangedAt": "2026-10-20T16:45:49.635Z",
+  "count": 977,
   "listings": [
+    {
+      "id": "c1b2ea51-e681-4d20-b69c-cc0b405471f2",
+      "company": "BMO",
+      "title": "Specialist II-IC Infrastructure Engineering (New or Recent Graduate)",
+      "locations": [
+        "Barrie, ON, CAN"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://bmo.wd3.myworkdayjobs.com/External/job/Barrie-ON-CAN/Specialist-II-IC-Infrastructure-Engineering--New-or-Recent-Graduate-_R260028509-1",
+      "url": "https://trueinterview.io/jobs/c1b2ea51-e681-4d20-b69c-cc0b405471f2",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
     {
       "id": "8d206df6-e53a-4a13-887c-15af6f6e5b5f",
       "company": "c3.ai",
@@ -31,6 +56,33 @@
       "source": "1point3acres",
       "applyUrl": "https://c3.ai/job-description/8900477002?gh_jid=8900477002",
       "url": "https://trueinterview.io/jobs/8d206df6-e53a-4a13-887c-15af6f6e5b5f",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "7566c540-3522-45e5-8605-5bff4c4b7947",
+      "company": "Dell",
+      "title": "Hardware Engineer 1",
+      "locations": [
+        "Austin, TX, United States"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/298141",
+      "url": "https://trueinterview.io/jobs/7566c540-3522-45e5-8605-5bff4c4b7947",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
@@ -3930,6 +3982,33 @@
       "url": "https://trueinterview.io/jobs/a664e30d-f509-47dc-a26a-3b384c5c8623",
       "postedAt": "2026-10-05T16:43:41.000Z",
       "updatedAt": "2026-10-05T16:43:41.000Z"
+    },
+    {
+      "id": "03073ec1-b515-4766-ab78-4cb9688f645c",
+      "company": "Analog Devices",
+      "title": "Associate Field Applications Engineer - Auto Connectivity",
+      "locations": [
+        "US, CA, San Jose, Rio Robles, United States of America",
+        "US, CO, Colorado Springs, Centennial",
+        "US, AZ, Chandler, East Elliot"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Field-Applications-Engineer---Auto-Connectivity_R266685",
+      "url": "https://trueinterview.io/jobs/03073ec1-b515-4766-ab78-4cb9688f645c",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "updatedAt": "2026-10-05T00:00:00.000Z"
     },
     {
       "id": "93a44550-8e01-4206-9fbe-455d72d03cce",
@@ -24000,32 +24079,6 @@
       "updatedAt": "2026-08-27T01:30:23.000Z"
     },
     {
-      "id": "a640fa83-817b-4cc4-9cf5-73e630110be1",
-      "company": "AMD",
-      "title": "P4 Compiler Engineer - DPU",
-      "locations": [
-        "US,CA,Santa Clara",
-        "Santa Clara, California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.amd.com/careers-home/jobs/87571?lang=en-us",
-      "url": "https://trueinterview.io/jobs/a640fa83-817b-4cc4-9cf5-73e630110be1",
-      "postedAt": "2026-08-27T00:00:00.000Z",
-      "updatedAt": "2026-08-27T00:00:00.000Z"
-    },
-    {
       "id": "d44f6ba0-c284-48c1-aee5-8b96e37579f2",
       "company": "Coherent Corp.",
       "title": "Embedded Systems Software & FPGA Programmer",
@@ -25578,32 +25631,6 @@
       "url": "https://trueinterview.io/jobs/26c27e0b-3153-4de7-878c-d47036c90d1f",
       "postedAt": "2026-08-21T18:08:09.000Z",
       "updatedAt": "2026-08-21T18:08:09.000Z"
-    },
-    {
-      "id": "f5d6ad80-c061-4737-b9ef-fae4f1a3cbef",
-      "company": "Makpar",
-      "title": "Desktop Imaging, IT Specialist - Test Lab SME",
-      "locations": [
-        "Covington, KY",
-        "Cincinnati, OH"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/makpar/abe0079f-1128-4bf3-a871-a93b5e0192c0/apply",
-      "url": "https://trueinterview.io/jobs/f5d6ad80-c061-4737-b9ef-fae4f1a3cbef",
-      "postedAt": "2026-08-21T16:11:47.000Z",
-      "updatedAt": "2026-08-21T16:11:47.000Z"
     }
   ]
 }
