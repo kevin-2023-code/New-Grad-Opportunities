@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**21 open roles.**
+**19 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -148,20 +148,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/483fd433-1ed7-4f08-aed4-840269a6fe79">Applications Engineer</a></td>
 <td>Mesa, AZ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/4e19aade-144f-4a5c-b1a5-076444613bfa/application">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1bfe738-eba6-418b-b4f1-c6499bf76a86">Silicon Packaging Design Engineer</a></td>
-<td>US, Arizona, Phoenix, United States of America<br/>US, Oregon, Hillsboro</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Silicon-Packaging-Design-Engineer_JR0286517">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/9036c3bd-9940-4c8d-94ac-acfe13d0215c">Customer Support Engineer - Nationwide Opportunities - Veterans Make America!</a></td>
-<td>Phoenix, AZ<br/>Austin, TX<br/>Malta, NY, United States of America<br/>+4 more</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Malta-NY/Customer-Support-Engineer--E-_2640005">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 </tbody>

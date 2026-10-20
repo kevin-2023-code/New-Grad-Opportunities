@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**52 open roles.**
+**53 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hadrian Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/da173dda-261b-4f74-ab22-9d8e20106375">Mechatronics Engineer</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/a15a7eb7-1b0f-4b61-93db-fbfa22430efb/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Ford</strong></td>
 <td><a href="https://trueinterview.io/jobs/61f45c09-b29c-4530-8b22-737320c6be94">Thermal Engineer</a></td>

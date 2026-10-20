@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**46 open roles.** 39 in the United States & Canada · 7 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**48 open roles.** 41 in the United States & Canada · 7 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8d206df6-e53a-4a13-887c-15af6f6e5b5f">Forward Deployed Engineer - Federal, New Grad 2027</a></td>
 <td>Tysons, Virginia, United States, Tysons, Virginia</td>
 <td align="center"><a href="https://c3.ai/job-description/8900477002?gh_jid=8900477002">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ElevenLabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/060439d8-0b25-401c-82cf-ac87879cc420">HPC Infrastructure Engineer - GPU Clusters</a></td>
+<td>United States, Bulgaria, Poland, United Kingdom</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/120da2b3-d88b-4e3c-9b89-d19ff73db9d9/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/57639308-b974-4f42-ad3f-03e24b8bb3d4">Research Engineer - Data Infrastructure</a></td>
+<td>United Kingdom, United States, Poland, Bulgaria</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/9fbd9227-57e0-4221-9255-1a1d967be8ed/application">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>

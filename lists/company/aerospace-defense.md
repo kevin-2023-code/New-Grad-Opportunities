@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**63 open roles.** 57 in the United States & Canada · 6 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**64 open roles.** 58 in the United States & Canada · 6 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hadrian Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/da173dda-261b-4f74-ab22-9d8e20106375">Mechatronics Engineer</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/a15a7eb7-1b0f-4b61-93db-fbfa22430efb/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Relativity Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/8be7740f-353c-490f-a2f6-1bf2f7ef8a62">Manufacturing Engineer I  - Test &amp; Launch Structures</a></td>

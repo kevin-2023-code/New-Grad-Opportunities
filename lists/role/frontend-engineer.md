@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**9 open roles.** 7 in the United States & Canada · 2 elsewhere in the world.
+**8 open roles.** 6 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -58,13 +58,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://careers.fitmatecoach.com/roles/junior-frontend-developer">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Courtavenue</strong></td>
-<td><a href="https://trueinterview.io/jobs/43761c98-2a2b-4c17-854d-f1962eab53e9">Front End Developer - AEM</a></td>
-<td>Office - Minneapolis, MN<br/>Office - Chicago, IL</td>
-<td align="center"><a href="https://jobs.lever.co/court-avenue/f6d49791-96f3-487e-818b-2858ec4edffc/apply">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 </tbody>
 </table>

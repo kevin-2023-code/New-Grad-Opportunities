@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**28 open roles.** 14 in the United States & Canada · 14 elsewhere in the world.
+**29 open roles.** 15 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Powerline</strong></td>
+<td><a href="https://trueinterview.io/jobs/80083fae-9902-4f77-8a05-4a0bd6add377">AI Engineer</a></td>
+<td>Palo Alto, CA<br/>Palo Alto, Europe, Australia</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/powerline/5c22ada4-da96-42c3-bd2a-ae013d128c7c/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/2cbb59c4-ea39-416b-a805-d9534ff21c15">AI Labs Rotational Fellowship, Emerging Talent</a></td>

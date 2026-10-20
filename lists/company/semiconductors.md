@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**139 open roles.** 135 in the United States & Canada · 4 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**132 open roles.** 128 in the United States & Canada · 4 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/068cdb20-049f-4a4e-9890-447281876238">Software Engineer, Bachelors Degree, New College Grad (Santa Clara)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318874252">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/73def1c1-bf83-480e-8b8a-0f4e49c1baca">Engr, Software 1</a> 🌐</td>
@@ -43,6 +50,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f87452d7-d773-444c-a1df-b218fd428fc7">Global Quality Product Quality and Reliability Engineer</a></td>
 <td>GJ, IN</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44125362">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd3fd124-8c93-4e44-a202-1dab6a5d9d46">Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893398237264">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>
@@ -120,13 +134,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1d3c496b-c76e-4211-b396-a2c6c981e614">Mechanical Engineering</a></td>
 <td>US, MA, Chelmsford, Elizabeth, United States of America</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Elizabeth/Mechanical-Engineering_R266639">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/6bb6bc8f-3352-438f-bf71-8c8e027c64b6">Technical Project/Program Manager New College Grad - Masters Degree (Santa Clara, CA)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318934377">Apply</a></td>
 <td align="center">13 Oct 2026</td>
 </tr>
 <tr>
@@ -368,13 +375,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/d57c5291-f6b8-4ab5-a3c9-24ded9d937fc">Field Application Engineer – Graduate Rotational Program</a></td>
-<td>San Jose, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/89552?lang=en-us">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/381cfbf5-0a0e-431f-a869-974b732042ae">Software Applications Engineer</a> 🌐</td>
 <td>Remote — United States</td>
@@ -383,13 +383,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/18598431-4ba3-4e9c-9128-b2ca1b6464a8">New College Grad - PCVD Process Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44621650">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/90a5a288-5e35-460d-aded-19ad49902f35">Package Design and Development Quality Assurance Engineer - Data Analytics</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44631698">Apply</a></td>
@@ -919,48 +912,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, CA, San Jose, Rio Robles, United States of America<br/>US, NC, Durham, United States of America</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Digital-Design-Engineer_R265286">Apply</a></td>
 <td align="center">22 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/9351a548-25ef-416e-a660-5fa7987c69d2">RTL Design &amp; Integration Engineer</a></td>
-<td>San Jose, California, United States<br/>US, CA, San Jose</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90583?lang=en-us">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/339b2c8e-4b00-4380-a17e-c6fc242b577a">Associate Mixed Signal Design Engineer</a></td>
-<td>US, MA, Wilmington, United States of America<br/>US, NC, Durham</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Mixed-Signal-Design-Engineer_R265312">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/222d4e94-e52a-4011-adfe-1ca6d669ebc0">Associate Product Engineer (Product Development)</a></td>
-<td>US, MA, Wilmington, United States of America<br/>US, NC, Durham</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1bfe738-eba6-418b-b4f1-c6499bf76a86">Silicon Packaging Design Engineer</a></td>
-<td>US, Arizona, Phoenix, United States of America<br/>US, Oregon, Hillsboro</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Silicon-Packaging-Design-Engineer_JR0286517">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/9036c3bd-9940-4c8d-94ac-acfe13d0215c">Customer Support Engineer - Nationwide Opportunities - Veterans Make America!</a></td>
-<td>Austin, TX<br/>Malta, NY, United States of America<br/>Phoenix, AZ<br/>+4 more</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Malta-NY/Customer-Support-Engineer--E-_2640005">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4acd71e-5f5c-43de-b890-3a688cc23922">Architecture Energy Modeling Engineer - New College Grad 2026</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397266929">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 </tbody>
 </table>

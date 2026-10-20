@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**39 open roles.** 31 in the United States & Canada · 8 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**40 open roles.** 32 in the United States & Canada · 8 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/d87e0205-8991-4642-8ccc-f53951d93e70">Flight Test Engineer - Camera Quality</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/8b79b158-2805-4a5f-b2de-e054850b1f62/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5ef062be-cd78-4e0f-a2d9-aacc0ec3e947">Product Design Engineer (Early Career)</a></td>
 <td>San Mateo, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/ba62805c-ebe7-4b99-85af-f58c807b4dd1/application">Apply</a></td>

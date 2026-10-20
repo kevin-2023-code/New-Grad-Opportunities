@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**79 open roles.** 62 in the United States & Canada · 17 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**80 open roles.** 63 in the United States & Canada · 17 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Palantir</strong></td>
+<td><a href="https://trueinterview.io/jobs/81431728-d0da-4612-b358-aaf808b93bd0">Software Engineer, New Grad - Query Engines</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Celonis</strong></td>
 <td><a href="https://trueinterview.io/jobs/9b85ce7e-485b-4379-8240-7d8d3d4f80ff">Client Value Partner - Retail + CPG</a></td>

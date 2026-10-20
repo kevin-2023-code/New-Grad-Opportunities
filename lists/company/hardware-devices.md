@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**76 open roles.** 68 in the United States & Canada · 8 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**75 open roles.** 67 in the United States & Canada · 8 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -485,13 +485,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Carlos, CA</td>
 <td align="center"><a href="https://jobs.lever.co/robust-ai/d7f4a9a3-4abe-433d-9c40-f309bb163424/apply">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Samsung</strong></td>
-<td><a href="https://trueinterview.io/jobs/62d51ab3-2525-46eb-969c-97e2498b92fe">TEM Analysis Engineer - All Shifts</a></td>
-<td>1530 FM 973 Taylor, TX, USA, United States of America<br/>12100 Samsung Blvd, Austin, TX, USA</td>
-<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/TEM-Analysis-Engineer---All-Shifts_R119838">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 </tbody>
 </table>

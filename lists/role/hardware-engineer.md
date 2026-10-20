@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**47 open roles.** 46 in the United States & Canada · 1 elsewhere in the world.
+**46 open roles.** 45 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -331,13 +331,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, CA, San Jose, Rio Robles, United States of America<br/>US, NC, Durham, United States of America</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Digital-Design-Engineer_R265286">Apply</a></td>
 <td align="center">22 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1bfe738-eba6-418b-b4f1-c6499bf76a86">Silicon Packaging Design Engineer</a></td>
-<td>US, Arizona, Phoenix, United States of America<br/>US, Oregon, Hillsboro</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Silicon-Packaging-Design-Engineer_JR0286517">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 </tbody>
 </table>

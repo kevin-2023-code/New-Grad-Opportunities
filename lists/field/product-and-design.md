@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**50 open roles.** 37 in the United States & Canada · 13 elsewhere in the world.
+**49 open roles.** 36 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.lever.co/pditechnologies/ba03923d-fb60-4203-b85e-5e18bc046a04/apply">Apply</a></td>
 <td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/6bb6bc8f-3352-438f-bf71-8c8e027c64b6">Technical Project/Program Manager New College Grad - Masters Degree (Santa Clara, CA)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318934377">Apply</a></td>
-<td align="center">13 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Egis Group</strong></td>

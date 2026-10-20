@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**46 open roles.**
+**44 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -324,20 +324,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA<br/>Massachusetts</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4960444101">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/339b2c8e-4b00-4380-a17e-c6fc242b577a">Associate Mixed Signal Design Engineer</a></td>
-<td>US, MA, Wilmington, United States of America<br/>US, NC, Durham</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Mixed-Signal-Design-Engineer_R265312">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/222d4e94-e52a-4011-adfe-1ca6d669ebc0">Associate Product Engineer (Product Development)</a></td>
-<td>US, MA, Wilmington, United States of America<br/>US, NC, Durham</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 </tbody>
 </table>

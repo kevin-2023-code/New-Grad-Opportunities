@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**30 open roles.**
+**27 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -79,13 +79,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44665102">Apply</a></td>
 <td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/18598431-4ba3-4e9c-9128-b2ca1b6464a8">New College Grad - PCVD Process Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44621650">Apply</a></td>
-<td align="center">24 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -212,20 +205,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Hillsboro, OR<br/>Chandler, AZ, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Product-Install-Engineer---SWIFT---Extensive-90----Travel-Required_2638796">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1bfe738-eba6-418b-b4f1-c6499bf76a86">Silicon Packaging Design Engineer</a></td>
-<td>US, Oregon, Hillsboro<br/>US, Arizona, Phoenix, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Silicon-Packaging-Design-Engineer_JR0286517">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/9036c3bd-9940-4c8d-94ac-acfe13d0215c">Customer Support Engineer - Nationwide Opportunities - Veterans Make America!</a></td>
-<td>Hillsboro, OR<br/>Boise, ID<br/>Austin, TX<br/>+4 more</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Malta-NY/Customer-Support-Engineer--E-_2640005">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 </tbody>
 </table>

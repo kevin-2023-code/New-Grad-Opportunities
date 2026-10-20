@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**293 open roles.** 269 in the United States & Canada · 24 elsewhere in the world.
+**287 open roles.** 263 in the United States & Canada · 24 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hadrian Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/da173dda-261b-4f74-ab22-9d8e20106375">Mechatronics Engineer</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/a15a7eb7-1b0f-4b61-93db-fbfa22430efb/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/b1abade8-82ce-4738-8d50-3295fa41a6ee">Semiconductor Field Service Engineer - New College Grad</a></td>
@@ -673,20 +680,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9a40fba0-0d6e-4a51-b9d6-8e014ca293fc">EEE Component Reliability Engineer</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8834054002?gh_jid=8834054002">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/d57c5291-f6b8-4ab5-a3c9-24ded9d937fc">Field Application Engineer – Graduate Rotational Program</a></td>
-<td>San Jose, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/89552?lang=en-us">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/18598431-4ba3-4e9c-9128-b2ca1b6464a8">New College Grad - PCVD Process Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44621650">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -1864,41 +1857,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Mesa, AZ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/4e19aade-144f-4a5c-b1a5-076444613bfa/application">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/339b2c8e-4b00-4380-a17e-c6fc242b577a">Associate Mixed Signal Design Engineer</a></td>
-<td>US, MA, Wilmington, United States of America<br/>US, NC, Durham</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Mixed-Signal-Design-Engineer_R265312">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/222d4e94-e52a-4011-adfe-1ca6d669ebc0">Associate Product Engineer (Product Development)</a></td>
-<td>US, MA, Wilmington, United States of America<br/>US, NC, Durham</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1bfe738-eba6-418b-b4f1-c6499bf76a86">Silicon Packaging Design Engineer</a></td>
-<td>US, Arizona, Phoenix, United States of America<br/>US, Oregon, Hillsboro</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Silicon-Packaging-Design-Engineer_JR0286517">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/9036c3bd-9940-4c8d-94ac-acfe13d0215c">Customer Support Engineer - Nationwide Opportunities - Veterans Make America!</a></td>
-<td>Austin, TX<br/>Malta, NY, United States of America<br/>Phoenix, AZ<br/>+4 more</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Malta-NY/Customer-Support-Engineer--E-_2640005">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Nudge</strong></td>
-<td><a href="https://trueinterview.io/jobs/2d52800c-cf84-48de-bfb4-8a50e6543bc5">Mechanical Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/nudge/f21013b3-0152-49d9-accb-3a46d33c8a82/application">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 </tbody>
 </table>

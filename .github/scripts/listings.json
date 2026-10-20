@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-19T20:58:42.338Z",
-  "count": 987,
+  "listingsChangedAt": "2026-10-20T00:14:48.445Z",
+  "count": 985,
   "listings": [
     {
       "id": "8d206df6-e53a-4a13-887c-15af6f6e5b5f",
@@ -33,6 +33,219 @@
       "url": "https://trueinterview.io/jobs/8d206df6-e53a-4a13-887c-15af6f6e5b5f",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "060439d8-0b25-401c-82cf-ac87879cc420",
+      "company": "elevenlabs",
+      "title": "HPC Infrastructure Engineer - GPU Clusters",
+      "locations": [
+        "United States, Bulgaria, Poland, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United States",
+        "United Kingdom",
+        "Poland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/elevenlabs/120da2b3-d88b-4e3c-9b89-d19ff73db9d9/application",
+      "url": "https://trueinterview.io/jobs/060439d8-0b25-401c-82cf-ac87879cc420",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "57639308-b974-4f42-ad3f-03e24b8bb3d4",
+      "company": "elevenlabs",
+      "title": "Research Engineer - Data Infrastructure",
+      "locations": [
+        "United Kingdom, United States, Poland, Bulgaria"
+      ],
+      "cities": [],
+      "countries": [
+        "United States",
+        "United Kingdom",
+        "Poland"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/elevenlabs/9fbd9227-57e0-4221-9255-1a1d967be8ed/application",
+      "url": "https://trueinterview.io/jobs/57639308-b974-4f42-ad3f-03e24b8bb3d4",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "2ffeca68-1abd-46aa-8317-1317ca845a55",
+      "company": "etched",
+      "title": "Chip Simulation Software Engineer",
+      "locations": [
+        "San Jose"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/etched/29b303b2-f1a5-4799-a0b2-e86e28289a9b/application",
+      "url": "https://trueinterview.io/jobs/2ffeca68-1abd-46aa-8317-1317ca845a55",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "da173dda-261b-4f74-ab22-9d8e20106375",
+      "company": "hadrian-automation",
+      "title": "Mechatronics Engineer",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/hadrian-automation/a15a7eb7-1b0f-4b61-93db-fbfa22430efb/application",
+      "url": "https://trueinterview.io/jobs/da173dda-261b-4f74-ab22-9d8e20106375",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "387489fc-f693-44c1-a273-3aedfe6a0ab0",
+      "company": "plaud",
+      "title": "Mobile Engineer (Contractor) - Palo Alto",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/plaud/284468e5-ef86-4c8a-b458-2ba68bff17d2/application",
+      "url": "https://trueinterview.io/jobs/387489fc-f693-44c1-a273-3aedfe6a0ab0",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "80083fae-9902-4f77-8a05-4a0bd6add377",
+      "company": "powerline",
+      "title": "AI Engineer",
+      "locations": [
+        "Palo Alto, Europe, Australia"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "Australia",
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/powerline/5c22ada4-da96-42c3-bd2a-ae013d128c7c/application",
+      "url": "https://trueinterview.io/jobs/80083fae-9902-4f77-8a05-4a0bd6add377",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "d87e0205-8991-4642-8ccc-f53951d93e70",
+      "company": "skydio",
+      "title": "Flight Test Engineer - Camera Quality",
+      "locations": [
+        "San Mateo, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/8b79b158-2805-4a5f-b2de-e054850b1f62/application",
+      "url": "https://trueinterview.io/jobs/d87e0205-8991-4642-8ccc-f53951d93e70",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "068cdb20-049f-4a4e-9890-447281876238",
+      "company": "Applied Materials",
+      "title": "Software Engineer, Bachelors Degree, New College Grad (Santa Clara)",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318874252",
+      "url": "https://trueinterview.io/jobs/068cdb20-049f-4a4e-9890-447281876238",
+      "postedAt": "2026-10-19T00:00:00.000Z",
+      "updatedAt": "2026-10-19T00:00:00.000Z"
     },
     {
       "id": "29336264-0ee0-456f-9fe8-325280cd507e",
@@ -182,6 +395,58 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44125362",
       "url": "https://trueinterview.io/jobs/f87452d7-d773-444c-a1df-b218fd428fc7",
+      "postedAt": "2026-10-19T00:00:00.000Z",
+      "updatedAt": "2026-10-19T00:00:00.000Z"
+    },
+    {
+      "id": "fd3fd124-8c93-4e44-a202-1dab6a5d9d46",
+      "company": "NVIDIA",
+      "title": "Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893398237264",
+      "url": "https://trueinterview.io/jobs/fd3fd124-8c93-4e44-a202-1dab6a5d9d46",
+      "postedAt": "2026-10-19T00:00:00.000Z",
+      "updatedAt": "2026-10-19T00:00:00.000Z"
+    },
+    {
+      "id": "81431728-d0da-4612-b358-aaf808b93bd0",
+      "company": "Palantir",
+      "title": "Software Engineer, New Grad - Query Engines",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac",
+      "url": "https://trueinterview.io/jobs/81431728-d0da-4612-b358-aaf808b93bd0",
       "postedAt": "2026-10-19T00:00:00.000Z",
       "updatedAt": "2026-10-19T00:00:00.000Z"
     },
@@ -1382,31 +1647,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Elizabeth/Mechanical-Engineering_R266639",
       "url": "https://trueinterview.io/jobs/1d3c496b-c76e-4211-b396-a2c6c981e614",
-      "postedAt": "2026-10-13T00:00:00.000Z",
-      "updatedAt": "2026-10-13T00:00:00.000Z"
-    },
-    {
-      "id": "6bb6bc8f-3352-438f-bf71-8c8e027c64b6",
-      "company": "Applied Materials",
-      "title": "Technical Project/Program Manager New College Grad - Masters Degree (Santa Clara, CA)",
-      "locations": [
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318934377",
-      "url": "https://trueinterview.io/jobs/6bb6bc8f-3352-438f-bf71-8c8e027c64b6",
       "postedAt": "2026-10-13T00:00:00.000Z",
       "updatedAt": "2026-10-13T00:00:00.000Z"
     },
@@ -7686,33 +7926,6 @@
       "updatedAt": "2026-09-24T00:00:00.000Z"
     },
     {
-      "id": "d57c5291-f6b8-4ab5-a3c9-24ded9d937fc",
-      "company": "AMD",
-      "title": "Field Application Engineer – Graduate Rotational Program",
-      "locations": [
-        "San Jose, California, United States"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.amd.com/careers-home/jobs/89552?lang=en-us",
-      "url": "https://trueinterview.io/jobs/d57c5291-f6b8-4ab5-a3c9-24ded9d937fc",
-      "postedAt": "2026-09-24T00:00:00.000Z",
-      "updatedAt": "2026-09-24T00:00:00.000Z"
-    },
-    {
       "id": "f13d059a-192a-49d4-bbe0-98a9c1e4db1d",
       "company": "Framework",
       "title": "System Software Engineer",
@@ -7835,31 +8048,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Applications-Engineer_2640096",
       "url": "https://trueinterview.io/jobs/381cfbf5-0a0e-431f-a869-974b732042ae",
-      "postedAt": "2026-09-24T00:00:00.000Z",
-      "updatedAt": "2026-09-24T00:00:00.000Z"
-    },
-    {
-      "id": "18598431-4ba3-4e9c-9128-b2ca1b6464a8",
-      "company": "Micron Technology",
-      "title": "New College Grad - PCVD Process Engineer",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44621650",
-      "url": "https://trueinterview.io/jobs/18598431-4ba3-4e9c-9128-b2ca1b6464a8",
       "postedAt": "2026-09-24T00:00:00.000Z",
       "updatedAt": "2026-09-24T00:00:00.000Z"
     },
@@ -25657,254 +25845,6 @@
       "url": "https://trueinterview.io/jobs/96166314-aef3-408e-af76-cc1b32a6b3c4",
       "postedAt": "2026-08-21T01:08:50.000Z",
       "updatedAt": "2026-08-21T01:08:50.000Z"
-    },
-    {
-      "id": "9351a548-25ef-416e-a660-5fa7987c69d2",
-      "company": "AMD",
-      "title": "RTL Design & Integration Engineer",
-      "locations": [
-        "US,CA,San Jose",
-        "San Jose, California, United States"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.amd.com/careers-home/jobs/90583?lang=en-us",
-      "url": "https://trueinterview.io/jobs/9351a548-25ef-416e-a660-5fa7987c69d2",
-      "postedAt": "2026-08-21T00:00:00.000Z",
-      "updatedAt": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "id": "339b2c8e-4b00-4380-a17e-c6fc242b577a",
-      "company": "Analog Devices",
-      "title": "Associate Mixed Signal Design Engineer",
-      "locations": [
-        "US, MA, Wilmington",
-        "US, NC, Durham",
-        "US, MA, Wilmington, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Mixed-Signal-Design-Engineer_R265312",
-      "url": "https://trueinterview.io/jobs/339b2c8e-4b00-4380-a17e-c6fc242b577a",
-      "postedAt": "2026-08-21T00:00:00.000Z",
-      "updatedAt": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "id": "222d4e94-e52a-4011-adfe-1ca6d669ebc0",
-      "company": "Analog Devices",
-      "title": "Associate Product Engineer (Product Development)",
-      "locations": [
-        "US, MA, Wilmington",
-        "US, NC, Durham",
-        "US, MA, Wilmington, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304",
-      "url": "https://trueinterview.io/jobs/222d4e94-e52a-4011-adfe-1ca6d669ebc0",
-      "postedAt": "2026-08-21T00:00:00.000Z",
-      "updatedAt": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "id": "f1bfe738-eba6-418b-b4f1-c6499bf76a86",
-      "company": "Intel",
-      "title": "Silicon Packaging Design Engineer",
-      "locations": [
-        "US, Arizona, Phoenix",
-        "US, Oregon, Hillsboro",
-        "US, Arizona, Phoenix, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Silicon-Packaging-Design-Engineer_JR0286517",
-      "url": "https://trueinterview.io/jobs/f1bfe738-eba6-418b-b4f1-c6499bf76a86",
-      "postedAt": "2026-08-21T00:00:00.000Z",
-      "updatedAt": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "id": "9036c3bd-9940-4c8d-94ac-acfe13d0215c",
-      "company": "KLA",
-      "title": "Customer Support Engineer - Nationwide Opportunities - Veterans Make America!",
-      "locations": [
-        "Malta, NY",
-        "Phoenix, AZ",
-        "Austin, TX",
-        "Denison, TX",
-        "Hillsboro, OR",
-        "Boise, ID",
-        "Totowa, NJ",
-        "Malta, NY, United States of America"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Malta-NY/Customer-Support-Engineer--E-_2640005",
-      "url": "https://trueinterview.io/jobs/9036c3bd-9940-4c8d-94ac-acfe13d0215c",
-      "postedAt": "2026-08-21T00:00:00.000Z",
-      "updatedAt": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "id": "f4acd71e-5f5c-43de-b890-3a688cc23922",
-      "company": "NVIDIA",
-      "title": "Architecture Energy Modeling Engineer - New College Grad 2026",
-      "locations": [
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.nvidia.com/careers/job/893397266929",
-      "url": "https://trueinterview.io/jobs/f4acd71e-5f5c-43de-b890-3a688cc23922",
-      "postedAt": "2026-08-21T00:00:00.000Z",
-      "updatedAt": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "id": "62d51ab3-2525-46eb-969c-97e2498b92fe",
-      "company": "Samsung",
-      "title": "TEM Analysis Engineer - All Shifts",
-      "locations": [
-        "1530 FM 973 Taylor, TX, USA",
-        "12100 Samsung Blvd, Austin, TX, USA",
-        "1530 FM 973 Taylor, TX, USA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/TEM-Analysis-Engineer---All-Shifts_R119838",
-      "url": "https://trueinterview.io/jobs/62d51ab3-2525-46eb-969c-97e2498b92fe",
-      "postedAt": "2026-08-21T00:00:00.000Z",
-      "updatedAt": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "id": "2d52800c-cf84-48de-bfb4-8a50e6543bc5",
-      "company": "Nudge",
-      "title": "Mechanical Engineer",
-      "locations": [
-        "San Francisco"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/nudge/f21013b3-0152-49d9-accb-3a46d33c8a82/application",
-      "url": "https://trueinterview.io/jobs/2d52800c-cf84-48de-bfb4-8a50e6543bc5",
-      "postedAt": "2026-08-20T22:46:15.000Z",
-      "updatedAt": "2026-08-20T22:46:15.000Z"
-    },
-    {
-      "id": "43761c98-2a2b-4c17-854d-f1962eab53e9",
-      "company": "Courtavenue",
-      "title": "Front End Developer - AEM",
-      "locations": [
-        "Office - Minneapolis, MN",
-        "Office - Chicago, IL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Frontend Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/court-avenue/f6d49791-96f3-487e-818b-2858ec4edffc/apply",
-      "url": "https://trueinterview.io/jobs/43761c98-2a2b-4c17-854d-f1962eab53e9",
-      "postedAt": "2026-08-20T21:49:51.000Z",
-      "updatedAt": "2026-08-20T21:49:51.000Z"
     }
   ]
 }

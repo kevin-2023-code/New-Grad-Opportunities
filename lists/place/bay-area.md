@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**198 open roles.**
+**199 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Etched</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ffeca68-1abd-46aa-8317-1317ca845a55">Chip Simulation Software Engineer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/etched/29b303b2-f1a5-4799-a0b2-e86e28289a9b/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Plaud</strong></td>
+<td><a href="https://trueinterview.io/jobs/387489fc-f693-44c1-a273-3aedfe6a0ab0">Mobile Engineer (Contractor) - Palo Alto</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/plaud/284468e5-ef86-4c8a-b458-2ba68bff17d2/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Powerline</strong></td>
+<td><a href="https://trueinterview.io/jobs/80083fae-9902-4f77-8a05-4a0bd6add377">AI Engineer</a></td>
+<td>Palo Alto, CA<br/>Palo Alto, Europe, Australia</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/powerline/5c22ada4-da96-42c3-bd2a-ae013d128c7c/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/d87e0205-8991-4642-8ccc-f53951d93e70">Flight Test Engineer - Camera Quality</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/8b79b158-2805-4a5f-b2de-e054850b1f62/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/068cdb20-049f-4a4e-9890-447281876238">Software Engineer, Bachelors Degree, New College Grad (Santa Clara)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318874252">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd3fd124-8c93-4e44-a202-1dab6a5d9d46">Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893398237264">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/69c78412-496d-4f86-bd59-9aa9a8a02f00">Hardware Engineer III (Full-Time) - United States</a></td>
@@ -86,13 +128,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>California - San Francisco, United States of America<br/>Virginia - Herndon<br/>Washington - Bellevue</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Database-Engineering-Associate_JR358838-2">Apply</a></td>
 <td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/6bb6bc8f-3352-438f-bf71-8c8e027c64b6">Technical Project/Program Manager New College Grad - Masters Degree (Santa Clara, CA)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318934377">Apply</a></td>
-<td align="center">13 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
@@ -414,13 +449,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/038313d4-9488-4afb-bb20-679721878c8f">2027 University Graduate - Software Engineer</a></td>
 <td>San Jose, California, United States of America<br/>San Francisco, California, United States of America<br/>Austin, TX<br/>+5 more</td>
 <td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/d57c5291-f6b8-4ab5-a3c9-24ded9d937fc">Field Application Engineer – Graduate Rotational Program</a></td>
-<td>San Jose, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/89552?lang=en-us">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -1381,27 +1409,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, CALIFORNIA, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000144653619-assoc-applications-dev-engineer?oga=true">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/9351a548-25ef-416e-a660-5fa7987c69d2">RTL Design &amp; Integration Engineer</a></td>
-<td>San Jose, California, United States<br/>US, CA, San Jose</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90583?lang=en-us">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4acd71e-5f5c-43de-b890-3a688cc23922">Architecture Energy Modeling Engineer - New College Grad 2026</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397266929">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Nudge</strong></td>
-<td><a href="https://trueinterview.io/jobs/2d52800c-cf84-48de-bfb4-8a50e6543bc5">Mechanical Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/nudge/f21013b3-0152-49d9-accb-3a46d33c8a82/application">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 </tbody>
 </table>

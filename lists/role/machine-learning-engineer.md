@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**28 open roles.** 20 in the United States & Canada · 8 elsewhere in the world.
+**27 open roles.** 19 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -149,13 +149,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>On-Site (Cambridge, MA)</td>
 <td align="center"><a href="https://jobs.polymer.co/foray-bioscience/41044?source=Hacker%20News">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4acd71e-5f5c-43de-b890-3a688cc23922">Architecture Energy Modeling Engineer - New College Grad 2026</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397266929">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 </tbody>
 </table>

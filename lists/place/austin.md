@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**41 open roles.**
+**39 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -289,20 +289,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>San Francisco, CA<br/>New York, NY<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/835e6b2c-bf7a-41e8-a308-71ecf4adad07/application">Apply</a></td>
 <td align="center">22 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/9036c3bd-9940-4c8d-94ac-acfe13d0215c">Customer Support Engineer - Nationwide Opportunities - Veterans Make America!</a></td>
-<td>Austin, TX<br/>Malta, NY, United States of America<br/>Phoenix, AZ<br/>+4 more</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Malta-NY/Customer-Support-Engineer--E-_2640005">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Samsung</strong></td>
-<td><a href="https://trueinterview.io/jobs/62d51ab3-2525-46eb-969c-97e2498b92fe">TEM Analysis Engineer - All Shifts</a></td>
-<td>12100 Samsung Blvd, Austin, TX, USA<br/>1530 FM 973 Taylor, TX, USA, United States of America</td>
-<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/TEM-Analysis-Engineer---All-Shifts_R119838">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 </tbody>
 </table>

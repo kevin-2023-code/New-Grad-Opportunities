@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**66 open roles.** 38 in the United States & Canada · 28 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**65 open roles.** 37 in the United States & Canada · 28 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -275,13 +275,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Covington, KY<br/>Cincinnati, OH</td>
 <td align="center"><a href="https://jobs.lever.co/makpar/abe0079f-1128-4bf3-a871-a93b5e0192c0/apply">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Courtavenue</strong></td>
-<td><a href="https://trueinterview.io/jobs/43761c98-2a2b-4c17-854d-f1962eab53e9">Front End Developer - AEM</a></td>
-<td>Office - Minneapolis, MN<br/>Office - Chicago, IL</td>
-<td align="center"><a href="https://jobs.lever.co/court-avenue/f6d49791-96f3-487e-818b-2858ec4edffc/apply">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 </tbody>
 </table>

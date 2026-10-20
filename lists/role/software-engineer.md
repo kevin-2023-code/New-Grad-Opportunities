@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**148 open roles.** 111 in the United States & Canada · 37 elsewhere in the world.
+**151 open roles.** 114 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Etched</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ffeca68-1abd-46aa-8317-1317ca845a55">Chip Simulation Software Engineer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/etched/29b303b2-f1a5-4799-a0b2-e86e28289a9b/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/068cdb20-049f-4a4e-9890-447281876238">Software Engineer, Bachelors Degree, New College Grad (Santa Clara)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318874252">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/73def1c1-bf83-480e-8b8a-0f4e49c1baca">Engr, Software 1</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-1">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Palantir</strong></td>
+<td><a href="https://trueinterview.io/jobs/81431728-d0da-4612-b358-aaf808b93bd0">Software Engineer, New Grad - Query Engines</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**70 open roles.** 59 in the United States & Canada · 11 elsewhere in the world. Everything the employers put up this week.
+**73 open roles.** 63 in the United States & Canada · 10 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -23,6 +23,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Tysons, Virginia, United States, Tysons, Virginia</td>
 <td align="center"><a href="https://c3.ai/job-description/8900477002?gh_jid=8900477002">Apply</a></td>
 <td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ElevenLabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/060439d8-0b25-401c-82cf-ac87879cc420">HPC Infrastructure Engineer - GPU Clusters</a></td>
+<td>United States, Bulgaria, Poland, United Kingdom</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/120da2b3-d88b-4e3c-9b89-d19ff73db9d9/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/57639308-b974-4f42-ad3f-03e24b8bb3d4">Research Engineer - Data Infrastructure</a></td>
+<td>United Kingdom, United States, Poland, Bulgaria</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/9fbd9227-57e0-4221-9255-1a1d967be8ed/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Etched</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ffeca68-1abd-46aa-8317-1317ca845a55">Chip Simulation Software Engineer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/etched/29b303b2-f1a5-4799-a0b2-e86e28289a9b/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hadrian Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/da173dda-261b-4f74-ab22-9d8e20106375">Mechatronics Engineer</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/a15a7eb7-1b0f-4b61-93db-fbfa22430efb/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Plaud</strong></td>
+<td><a href="https://trueinterview.io/jobs/387489fc-f693-44c1-a273-3aedfe6a0ab0">Mobile Engineer (Contractor) - Palo Alto</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/plaud/284468e5-ef86-4c8a-b458-2ba68bff17d2/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Powerline</strong></td>
+<td><a href="https://trueinterview.io/jobs/80083fae-9902-4f77-8a05-4a0bd6add377">AI Engineer</a></td>
+<td>Palo Alto, CA<br/>Palo Alto, Europe, Australia</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/powerline/5c22ada4-da96-42c3-bd2a-ae013d128c7c/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/d87e0205-8991-4642-8ccc-f53951d93e70">Flight Test Engineer - Camera Quality</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/8b79b158-2805-4a5f-b2de-e054850b1f62/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/068cdb20-049f-4a4e-9890-447281876238">Software Engineer, Bachelors Degree, New College Grad (Santa Clara)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318874252">Apply</a></td>
+<td align="center">19 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Cisco</strong></td>
@@ -64,6 +120,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f87452d7-d773-444c-a1df-b218fd428fc7">Global Quality Product Quality and Reliability Engineer</a></td>
 <td>GJ, IN</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44125362">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd3fd124-8c93-4e44-a202-1dab6a5d9d46">Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893398237264">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Palantir</strong></td>
+<td><a href="https://trueinterview.io/jobs/81431728-d0da-4612-b358-aaf808b93bd0">Software Engineer, New Grad - Query Engines</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>
@@ -333,13 +403,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/6bb6bc8f-3352-438f-bf71-8c8e027c64b6">Technical Project/Program Manager New College Grad - Masters Degree (Santa Clara, CA)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318934377">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Duolingo</strong></td>
 <td><a href="https://trueinterview.io/jobs/825eeed8-be5d-4a07-9e6c-550ef99ee597">AI Research Engineer, New PhD Graduate</a></td>
 <td>New York, NY<br/>Pittsburgh, PA, New York, NY, Pittsburgh, PA</td>
@@ -394,41 +457,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Virginia Beach, VA, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97430">Apply</a></td>
 <td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/00dd7d7b-17ac-4643-885c-7ec8a38992ea">Field Applications Engineer New College Grad- Master's/PhD (Santa Clara, Austin, Gloucester, Phoenix)</a></td>
-<td>Santa Clara, CA, US<br/>Phoenix, AZ, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318861343">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/3bbc5570-cc23-44fb-b20c-0f82db8ff300">AI/ML Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.1point3acres.com/jobs/01m4p8vy38g8qt3s5erg0sabpe">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/792d5765-7b22-4eac-a952-452b8c0a9566">HPE Technical Support Engineer I</a></td>
-<td>Andover, Massachusetts, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Andover-Massachusetts/HPE-Technical-Support-Engineer-I_1216554">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/68be4b2d-2df7-44e5-b469-47a549811ff9">Optomechanical Design Engineer</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optomechanical-Design-Engineer_2642132">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/c37da6a4-518b-4eae-99d4-ecb9b0c27ea0">Developer Technology Engineer, Public Sector - New College Grad 2026</a></td>
-<td>US, CA, Santa Clara<br/>Santa Clara, CA, US</td>
-<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990">Apply</a></td>
-<td align="center">12 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -511,13 +539,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/kin/99967c4f-e3cc-42b3-90d0-0f4499140c22/application">Apply</a></td>
 <td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Opengov</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c1245be-9bca-40b5-a41e-501ef0b84230">Technical Support Specialist</a></td>
-<td>Pune<br/>India</td>
-<td align="center"><a href="https://www.1point3acres.com/jobs/01m4p8yp4vfvfbr2ngkscmha82">Apply</a></td>
-<td align="center">12 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**372 open roles.** 258 in the United States & Canada · 114 elsewhere in the world.
+**376 open roles.** 262 in the United States & Canada · 114 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,6 +25,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>ElevenLabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/060439d8-0b25-401c-82cf-ac87879cc420">HPC Infrastructure Engineer - GPU Clusters</a></td>
+<td>United States, Bulgaria, Poland, United Kingdom</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/120da2b3-d88b-4e3c-9b89-d19ff73db9d9/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Etched</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ffeca68-1abd-46aa-8317-1317ca845a55">Chip Simulation Software Engineer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/etched/29b303b2-f1a5-4799-a0b2-e86e28289a9b/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Plaud</strong></td>
+<td><a href="https://trueinterview.io/jobs/387489fc-f693-44c1-a273-3aedfe6a0ab0">Mobile Engineer (Contractor) - Palo Alto</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/plaud/284468e5-ef86-4c8a-b458-2ba68bff17d2/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/d87e0205-8991-4642-8ccc-f53951d93e70">Flight Test Engineer - Camera Quality</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/8b79b158-2805-4a5f-b2de-e054850b1f62/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/068cdb20-049f-4a4e-9890-447281876238">Software Engineer, Bachelors Degree, New College Grad (Santa Clara)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318874252">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/29336264-0ee0-456f-9fe8-325280cd507e">Attack Surface Management Security Engineer I (Full-Time) – United States</a></td>
 <td>RTP, North Carolina, US, United States of America<br/>Knoxville, Tennessee, US</td>
@@ -43,6 +78,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/73def1c1-bf83-480e-8b8a-0f4e49c1baca">Engr, Software 1</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-1">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd3fd124-8c93-4e44-a202-1dab6a5d9d46">Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893398237264">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Palantir</strong></td>
+<td><a href="https://trueinterview.io/jobs/81431728-d0da-4612-b358-aaf808b93bd0">Software Engineer, New Grad - Query Engines</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>
@@ -1801,27 +1850,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8731959002?gh_jid=8731959002">Apply</a></td>
 <td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/9351a548-25ef-416e-a660-5fa7987c69d2">RTL Design &amp; Integration Engineer</a></td>
-<td>San Jose, California, United States<br/>US, CA, San Jose</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90583?lang=en-us">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Samsung</strong></td>
-<td><a href="https://trueinterview.io/jobs/62d51ab3-2525-46eb-969c-97e2498b92fe">TEM Analysis Engineer - All Shifts</a></td>
-<td>1530 FM 973 Taylor, TX, USA, United States of America<br/>12100 Samsung Blvd, Austin, TX, USA</td>
-<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/TEM-Analysis-Engineer---All-Shifts_R119838">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Courtavenue</strong></td>
-<td><a href="https://trueinterview.io/jobs/43761c98-2a2b-4c17-854d-f1962eab53e9">Front End Developer - AEM</a></td>
-<td>Office - Minneapolis, MN<br/>Office - Chicago, IL</td>
-<td align="center"><a href="https://jobs.lever.co/court-avenue/f6d49791-96f3-487e-818b-2858ec4edffc/apply">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 </tbody>
 </table>
