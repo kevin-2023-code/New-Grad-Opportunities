@@ -18,13 +18,13 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-20 00:14 UTC_
+_Last updated: 2026-10-20 05:51 UTC_
 
-**243 open new-grad roles** from **182 employers** · **10 posted in the last 7 days** · refreshed hourly
+**244 open new-grad roles** from **183 employers** · **11 posted in the last 7 days** · refreshed hourly
 
-### Browse 243 new-grad roles by field
+### Browse 244 new-grad roles by field
 
-💻 **[Software Engineering](#-software-engineering)** (114)
+💻 **[Software Engineering](#-software-engineering)** (115)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (64)
 
@@ -48,7 +48,7 @@ _Counts are new-grad roles in the rest of the world. Each page carries every reg
 
 📍 **By location** — [🌎 México, Brazil & Latin America (28)](lists/place/latam.md) · [🇬🇧 London & the UK (20)](lists/place/uk.md) · [🇮🇳 Bengaluru & India (10)](lists/place/india.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (10)](lists/place/anz.md) · [🇩🇪 Berlin, Munich & Germany (8)](lists/place/germany.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (5)](lists/place/greater-china.md) · [🏰 Warsaw, Kraków & Central Europe (5)](lists/place/poland-cee.md) · [🇪🇸 Madrid, Barcelona & Iberia (3)](lists/place/iberia.md)
 
-⚡ **Quick filters** — [🌐 Remote (33)](lists/remote.md) · [🆕 Posted in the last 7 days (10)](lists/new-this-week.md)
+⚡ **Quick filters** — [🌐 Remote (33)](lists/remote.md) · [🆕 Posted in the last 7 days (11)](lists/new-this-week.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -71,6 +71,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Vrchat</strong></td>
+<td><a href="https://trueinterview.io/jobs/493af049-fd62-407f-9b04-edfe53e0f623">2D Designer</a> 🆕</td>
+<td>Anywhere</td>
+<td align="center"><a href="https://jobs.lever.co/vrchat/81cee3d5-6a0b-4f88-9f09-357eef400239/apply">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Inter Carreiras</strong></td>
 <td><a href="https://trueinterview.io/jobs/8e558f3b-a2ed-4d5a-a966-19e1df12f9ee">Cadastro Oportunidades Inter (DevFest 2026)</a> 🆕</td>
@@ -549,7 +556,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 66 of 114.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 67 of 115.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
