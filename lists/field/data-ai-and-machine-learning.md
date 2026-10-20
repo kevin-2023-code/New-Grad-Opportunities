@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**158 open roles.** 94 in the United States & Canada · 64 elsewhere in the world.
+**157 open roles.** 94 in the United States & Canada · 63 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1127,13 +1127,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Warsaw<br/>Barcelona<br/>Spain</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/docplanner/daf94ce2-89e1-4eda-9c47-d0122310141d/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Experian</strong></td>
-<td><a href="https://trueinterview.io/jobs/4901e110-ea33-48fb-b91c-778cc91e2bab">Engenheiro de Dados Pleno</a></td>
-<td>São Paulo, , Brazil</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000144842431-engenheiro-de-dados-pleno?oga=true">Apply</a></td>
-<td align="center">21 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**90 open roles.** 74 in the United States & Canada · 16 elsewhere in the world. Everything the employers put up this week.
+**76 open roles.** 65 in the United States & Canada · 11 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -18,73 +18,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Altalink</strong></td>
-<td><a href="https://trueinterview.io/jobs/2cf7c3fa-0894-41da-b279-641c5ef4107e">Summer Student - Substation Technologist</a></td>
-<td>Acheson, Alberta, Canada</td>
-<td align="center"><a href="https://jobs.workable.com/view/312UKHnY1yp1wmGMd2tLiE/summer-student---substation-technologist-in-acheson-at-altalink">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril</strong></td>
-<td><a href="https://trueinterview.io/jobs/75515423-7345-4044-a0b2-8297f7006014">Classified Cloud &amp; Platform Engineer</a></td>
-<td>Costa Mesa, California, United States, Costa Mesa, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5269017007?gh_jid=5269017007">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Blumen Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/de3856c8-298b-48a3-8b03-b2f509273961">Product Engineer, Regulatory Intelligence</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/blumen/982bcb11-37de-4351-8d3e-0deb21396ffc/application">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Clearstreet</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d6c8327-7a90-4ee8-80a0-557dab3030fa">DevOps Production Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/clearstreet/jobs/8304159">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Geotab</strong></td>
-<td><a href="https://trueinterview.io/jobs/858e7665-3050-44d7-a91f-e64aa54c5e61">Site Reliability Engineering</a></td>
-<td>Atlanta, GA<br/>Atlanta, Georgia - USA<br/>Detroit, Michigan - USA<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/geotab/jobs/5453858008">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/567370a5-fe86-4dfa-a0dc-1358bb857fa1">Software Developer</a></td>
-<td>Oakville, Ontario - Canada, Oakville, Toronto, Waterloo</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/geotab/jobs/5418735008">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nash</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1a41683-eb3d-47b0-bc0e-e988c09e975a">Technical Support Specialist , US</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/nash/48e32fea-837b-4c7c-8246-c347543d1861/application">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/ede8d6ca-4154-4da3-891b-70a24bc4c686">Software Engineer, TPU Compilers</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/0a6f6736-8743-4528-b17c-4e1f4f8ea45c/application">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Titan</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7664fa7-1280-48bc-bba6-ba1844b813d9">Brand Designer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/titan/414a4e72-09dc-4814-9f47-0f58f09a05ca/application">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/6cf38556-a10b-48c8-8c84-f3be457bcd98">Space Operations Training Engineer (Full Stack Software)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8903848002?gh_jid=8903848002">Apply</a></td>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c2f6947-22ae-427f-a03e-4c059d50fcb5">Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027</a></td>
+<td>POUGHKEEPSIE, US</td>
+<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=137694">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
@@ -548,46 +485,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Creatoriq</strong></td>
-<td><a href="https://trueinterview.io/jobs/fb7fd62c-65cb-46cd-84d2-6f4891a7dd35">Backend Software Engineer (Python / Go)</a></td>
-<td>Warsaw</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/creatoriq/db2c1016-e927-45e8-aced-5010660faad5/application">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Fonio Gmbh</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a4f8e41-525b-4406-a1ff-49780bd6ad2c">Forward Deployed Engineer - French</a></td>
-<td>European Union</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fonio/4b9623b5-95cf-4af7-b60b-ad852091bbb8/application">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3b5ff8bc-7ef3-414e-90ba-d08b6ccf072b">Forward Deployed Engineer - Italian</a></td>
-<td>European Union</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fonio/089f996b-0b09-4b16-bae8-edfd3ce44fee/application">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e8427ab7-36c4-4a7c-93a1-4d3b77702b05">Forward Deployed Engineer - Spanish</a></td>
-<td>European Union</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fonio/bb12bdde-c53c-4443-8dcd-a7bc0085d689/application">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/87aaa48e-3462-4f4c-86e0-0ed913e1e364">Forward Deployed Engineer (UK)</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fonio/929b890a-28f9-4d35-99cb-e9169a1d5f34/application">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Vrchat</strong></td>
-<td><a href="https://trueinterview.io/jobs/493af049-fd62-407f-9b04-edfe53e0f623">2D Designer</a></td>
+<td><a href="https://trueinterview.io/jobs/493af049-fd62-407f-9b04-edfe53e0f623">Head of Talent</a></td>
 <td>Anywhere</td>
 <td align="center"><a href="https://jobs.lever.co/vrchat/81cee3d5-6a0b-4f88-9f09-357eef400239/apply">Apply</a></td>
-<td align="center">20 Oct 2026</td>
+<td align="center">21 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Inter Carreiras</strong></td>
