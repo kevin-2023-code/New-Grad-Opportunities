@@ -6,7 +6,7 @@ Every cut of the New Grad Opportunities list that has a page of its own. Each on
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-10-20 05:51 UTC_
+_Last updated: 2026-10-20 11:20 UTC_
 
 > **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 301 of the 521 employers on this list (72% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
@@ -28,14 +28,14 @@ _Last updated: 2026-10-20 05:51 UTC_
 
 The catalog's six technical fields — the same sections the main list is cut into, with every row rather than a sample.
 
-_Between them these 5 filters hold **973 of the 976** new-grad roles on this list (100%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 5 filters hold **972 of the 975** new-grad roles on this list (100%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified into that field. A posting is in exactly one field, so these pages hold the whole list between them._
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
 | [💻 Software Engineering](field/software-engineering.md) | 258 | 115 |
-| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 260 | 24 |
+| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 259 | 24 |
 | [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 94 | 64 |
 | [🧰 IT & Support](field/it-and-support.md) | 82 | 27 |
 | [📱 Product & Design](field/product-and-design.md) | 36 | 13 |
@@ -46,12 +46,12 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 24 filters hold **708 of the 976** new-grad roles on this list (73%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 24 filters hold **707 of the 975** new-grad roles on this list (73%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🏛️ Big Tech](company/big-tech.md) | 204 | 18 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
-| [🔬 Semiconductors & chips](company/semiconductors.md) | 128 | 4 | Every employer the company registry files under Semiconductors & chips, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🏛️ Big Tech](company/big-tech.md) | 203 | 18 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
+| [🔬 Semiconductors & chips](company/semiconductors.md) | 127 | 4 | Every employer the company registry files under Semiconductors & chips, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🏗️ Large tech (1,000–9,999)](company/large-tech.md) | 63 | 17 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 1,000 and 9,999 people. An employer the registry does not cover is in no size cut at all. |
 | [🖥️ Hardware, devices & networking](company/hardware-devices.md) | 67 | 8 | Every employer the company registry files under Hardware, devices & networking, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🧾 IT services & consulting](company/it-consulting.md) | 37 | 28 | Every employer the company registry files under IT services & consulting, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
@@ -81,7 +81,7 @@ _Between them these 24 filters hold **708 of the 976** new-grad roles on this li
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 17 filters hold **455 of the 976** new-grad roles on this list (47%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 17 filters hold **455 of the 975** new-grad roles on this list (47%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
@@ -111,7 +111,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 26 filters hold **603 of the 976** new-grad roles on this list (62%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 26 filters hold **603 of the 975** new-grad roles on this list (62%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -148,7 +148,7 @@ _Between them these 26 filters hold **603 of the 976** new-grad roles on this li
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **158 of the 976** new-grad roles on this list (16%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **158 of the 975** new-grad roles on this list (16%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |

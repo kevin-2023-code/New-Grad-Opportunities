@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-20T05:51:29.347Z",
-  "count": 977,
+  "listingsChangedAt": "2026-10-20T11:20:58.045Z",
+  "count": 976,
   "listings": [
     {
       "id": "8d206df6-e53a-4a13-887c-15af6f6e5b5f",
@@ -14525,31 +14525,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/RTL-Design-Engineer_JR0287272",
       "url": "https://trueinterview.io/jobs/382d9ff9-d5ea-471a-81f1-182d9574273e",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "updatedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
-      "id": "4ade3a60-cbfc-4a42-b27d-a9acff598579",
-      "company": "Micron Technology",
-      "title": "Package Reliability Engineer",
-      "locations": [
-        "GJ,IN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44400546",
-      "url": "https://trueinterview.io/jobs/4ade3a60-cbfc-4a42-b27d-a9acff598579",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
