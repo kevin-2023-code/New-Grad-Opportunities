@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**191 open roles.**
+**190 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1346,13 +1346,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA<br/>London, UK</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/factory/fa8c6db5-7dbf-4366-aa64-88a6608895cd/application">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/a2c623a5-f73e-446a-91d1-e282dd2f84a1">Software Engineer, Applied AI</a></td>
-<td>San Francisco, CA<br/>New York, NY<br/>Austin, TX<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/835e6b2c-bf7a-41e8-a308-71ecf4adad07/application">Apply</a></td>
-<td align="center">22 Aug 2026</td>
 </tr>
 </tbody>
 </table>

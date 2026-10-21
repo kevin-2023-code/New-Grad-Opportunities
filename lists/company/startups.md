@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**39 open roles.** 30 in the United States & Canada · 9 elsewhere in the world. Early-stage technology companies.
+**38 open roles.** 29 in the United States & Canada · 9 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -219,13 +219,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Carlos, CA</td>
 <td align="center"><a href="https://jobs.lever.co/robust-ai/d7f4a9a3-4abe-433d-9c40-f309bb163424/apply">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/a2c623a5-f73e-446a-91d1-e282dd2f84a1">Software Engineer, Applied AI</a></td>
-<td>San Francisco, CA<br/>New York, NY<br/>Austin, TX<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/835e6b2c-bf7a-41e8-a308-71ecf4adad07/application">Apply</a></td>
-<td align="center">22 Aug 2026</td>
 </tr>
 </tbody>
 </table>

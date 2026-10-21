@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**33 open roles.**
+**32 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -240,13 +240,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Redmond, WA<br/>Hawthorne, CA, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8746439002?gh_jid=8746439002">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/a2c623a5-f73e-446a-91d1-e282dd2f84a1">Software Engineer, Applied AI</a></td>
-<td>Seattle, WA<br/>San Francisco, CA<br/>New York, NY<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/835e6b2c-bf7a-41e8-a308-71ecf4adad07/application">Apply</a></td>
-<td align="center">22 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**233 open roles.** 214 in the United States & Canada · 19 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**232 open roles.** 213 in the United States & Canada · 19 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1170,13 +1170,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4946ec96-c222-47e9-9c6b-a1c3a6f4bf0f">Visiting Hardware Engineer</a></td>
 <td>Menlo Park, CA, US</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1116121644406167/">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/79d9241f-f43f-4084-b8a3-71d532c957bd">EMC Engineering Technician</a></td>
-<td>Salem, Oregon, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19592?lang=en-us">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>

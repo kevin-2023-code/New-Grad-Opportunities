@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**295 open roles.** 271 in the United States & Canada · 24 elsewhere in the world.
+**293 open roles.** 270 in the United States & Canada · 23 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1397,13 +1397,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/79d9241f-f43f-4084-b8a3-71d532c957bd">EMC Engineering Technician</a></td>
-<td>Salem, Oregon, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19592?lang=en-us">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Infineon</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e8a799b-5d5b-4cbd-9ef7-6a69d1e620cc">Graduate - Analog Mixed-Signal Design Verification Engineer</a></td>
 <td>Andover, MA, US<br/>Dallas, TX, US</td>
@@ -2037,13 +2030,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Melbourne, Victoria, Australia<br/>Warrington Fire - Melbourne Lab</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5417816008">Apply</a></td>
 <td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>The Exploration Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd2f46ab-412c-4d94-b6a2-7144b3bbbcd0">Propulsion AIT Engineer</a></td>
-<td>Bordeaux, France</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/89e66bb5-8214-4c10-8789-2d7f694ace61/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Intuitive Surgical</strong></td>

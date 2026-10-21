@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**46 open roles.** 39 in the United States & Canada · 7 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**45 open roles.** 38 in the United States & Canada · 7 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -282,13 +282,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>London<br/>New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/elevenlabs/d16a7ad6-ffbd-4655-8716-4872263f99ce/application">Apply</a></td>
 <td align="center">23 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/a2c623a5-f73e-446a-91d1-e282dd2f84a1">Software Engineer, Applied AI</a></td>
-<td>San Francisco, CA<br/>New York, NY<br/>Austin, TX<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/835e6b2c-bf7a-41e8-a308-71ecf4adad07/application">Apply</a></td>
-<td align="center">22 Aug 2026</td>
 </tr>
 </tbody>
 </table>

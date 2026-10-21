@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-21T09:59:28.464Z",
-  "count": 983,
+  "listingsChangedAt": "2026-10-21T20:02:31.986Z",
+  "count": 980,
   "listings": [
     {
       "id": "c721d446-ff85-4529-8f98-d93fe2f7f23f",
@@ -17591,31 +17591,6 @@
       "updatedAt": "2026-09-09T00:00:00.000Z"
     },
     {
-      "id": "79d9241f-f43f-4084-b8a3-71d532c957bd",
-      "company": "Garmin",
-      "title": "EMC Engineering Technician",
-      "locations": [
-        "Salem, Oregon, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.garmin.com/jobs/19592?lang=en-us",
-      "url": "https://trueinterview.io/jobs/79d9241f-f43f-4084-b8a3-71d532c957bd",
-      "postedAt": "2026-09-09T00:00:00.000Z",
-      "updatedAt": "2026-09-09T00:00:00.000Z"
-    },
-    {
       "id": "25092c15-df55-45b6-9277-ef1572e73fc7",
       "company": "Händlerbund",
       "title": "Backend Developer",
@@ -19287,31 +19262,6 @@
       "url": "https://trueinterview.io/jobs/73d929a4-cbb4-468f-b855-b2436bb0ea76",
       "postedAt": "2026-09-04T19:23:34.000Z",
       "updatedAt": "2026-09-04T19:23:34.000Z"
-    },
-    {
-      "id": "cd2f46ab-412c-4d94-b6a2-7144b3bbbcd0",
-      "company": "The Exploration Company",
-      "title": "Propulsion AIT Engineer",
-      "locations": [
-        "Bordeaux, France"
-      ],
-      "cities": [],
-      "countries": [
-        "France"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/the-exploration-company/89e66bb5-8214-4c10-8789-2d7f694ace61/application",
-      "url": "https://trueinterview.io/jobs/cd2f46ab-412c-4d94-b6a2-7144b3bbbcd0",
-      "postedAt": "2026-09-04T19:20:36.000Z",
-      "updatedAt": "2026-09-04T19:20:36.000Z"
     },
     {
       "id": "4c98a8cc-aac2-4870-af3f-ca4091231746",
@@ -25740,39 +25690,6 @@
       "url": "https://trueinterview.io/jobs/9fc16ed0-6f47-4a2c-89e1-b41c9101dd46",
       "postedAt": "2026-08-23T21:43:47.000Z",
       "updatedAt": "2026-08-23T21:43:47.000Z"
-    },
-    {
-      "id": "a2c623a5-f73e-446a-91d1-e282dd2f84a1",
-      "company": "Fluidstack",
-      "title": "Software Engineer, Applied AI",
-      "locations": [
-        "San Francisco, CA",
-        "New York, NY",
-        "Austin, TX",
-        "Seattle, WA"
-      ],
-      "cities": [
-        "San Francisco, CA",
-        "New York, NY",
-        "Austin, TX",
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/fluidstack/835e6b2c-bf7a-41e8-a308-71ecf4adad07/application",
-      "url": "https://trueinterview.io/jobs/a2c623a5-f73e-446a-91d1-e282dd2f84a1",
-      "postedAt": "2026-08-22T16:57:08.000Z",
-      "updatedAt": "2026-08-22T16:57:08.000Z"
     }
   ]
 }

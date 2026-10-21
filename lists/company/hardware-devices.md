@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**76 open roles.** 68 in the United States & Canada · 8 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**75 open roles.** 67 in the United States & Canada · 8 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -351,13 +351,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/431e80df-0cf8-44fc-9006-ec0bd8fdab73">Network Solutions Engineer - Onsite at Fort Meade, MD</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Network-Solutions-Engineer---Onsite-at-Fort-Meade--MD_R031596">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/79d9241f-f43f-4084-b8a3-71d532c957bd">EMC Engineering Technician</a></td>
-<td>Salem, Oregon, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19592?lang=en-us">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**61 open roles.** 55 in the United States & Canada · 6 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**60 open roles.** 55 in the United States & Canada · 5 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -448,13 +448,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Wichita Metro Area</td>
 <td align="center"><a href="https://jobs.lever.co/shieldai/7acef65d-2466-4959-9e86-106ecb4e7fe4/apply">Apply</a></td>
 <td align="center">5 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>The Exploration Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd2f46ab-412c-4d94-b6a2-7144b3bbbcd0">Propulsion AIT Engineer</a></td>
-<td>Bordeaux, France</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/89e66bb5-8214-4c10-8789-2d7f694ace61/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>
