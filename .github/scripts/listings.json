@@ -6,9 +6,111 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-21T20:02:31.986Z",
-  "count": 980,
+  "listingsChangedAt": "2026-10-21T23:58:06.644Z",
+  "count": 984,
   "listings": [
+    {
+      "id": "59b93227-8c77-4e74-82d9-e875238435d2",
+      "company": "kaseya-careers",
+      "title": "Dummy Job DO NOT USE",
+      "locations": [
+        "United States - Remote, APAC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.kaseya.com/careers/jobs/id/6231386004/?gh_jid=6231386004",
+      "url": "https://trueinterview.io/jobs/59b93227-8c77-4e74-82d9-e875238435d2",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "d160322e-5e6d-45cf-a0d6-a954b96313d2",
+      "company": "true-anomaly",
+      "title": "Propulsion Engineer I (New Grad)",
+      "locations": [
+        "Denver, CO"
+      ],
+      "cities": [
+        "Denver, CO"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5271680007",
+      "url": "https://trueinterview.io/jobs/d160322e-5e6d-45cf-a0d6-a954b96313d2",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "1e21236a-d57e-4242-9af7-d2033fa54e68",
+      "company": "Applied Materials",
+      "title": "Physicist/Scientist III - Doctorate (Gloucester, MA)",
+      "locations": [
+        "Gloucester, MA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790319023094",
+      "url": "https://trueinterview.io/jobs/1e21236a-d57e-4242-9af7-d2033fa54e68",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "updatedAt": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "id": "7e35aa97-3ac0-4556-9861-e67a7b9b7bb2",
+      "company": "Applied Materials",
+      "title": "Process Engineer, III New College Grad (Doctorate) Albany, NY",
+      "locations": [
+        "Albany, NY, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318430509",
+      "url": "https://trueinterview.io/jobs/7e35aa97-3ac0-4556-9861-e67a7b9b7bb2",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "updatedAt": "2026-10-21T00:00:00.000Z"
+    },
     {
       "id": "c721d446-ff85-4529-8f98-d93fe2f7f23f",
       "company": "brain-co.",
@@ -31,6 +133,33 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e/application",
       "url": "https://trueinterview.io/jobs/c721d446-ff85-4529-8f98-d93fe2f7f23f",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "updatedAt": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "id": "957b2272-54f8-4a3f-977e-e9d43304a6bd",
+      "company": "Dell",
+      "title": "Color, Material, and Finish (CMF) Designer, Experience Design Group",
+      "locations": [
+        "Austin, TX, United States"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/301040",
+      "url": "https://trueinterview.io/jobs/957b2272-54f8-4a3f-977e-e9d43304a6bd",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "updatedAt": "2026-10-21T00:00:00.000Z"
     },
@@ -13994,32 +14123,6 @@
       "url": "https://trueinterview.io/jobs/13c93d5c-d0c0-4c6d-aab7-85ba54545c9d",
       "postedAt": "2026-09-15T00:13:10.000Z",
       "updatedAt": "2026-09-15T00:13:10.000Z"
-    },
-    {
-      "id": "dcbe4d42-41ba-4aa5-9f4b-d5137e1ed43a",
-      "company": "AMD",
-      "title": "Field Application Engineer - Midwest",
-      "locations": [
-        "US,IL,Home Office",
-        "Illinois, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.amd.com/careers-home/jobs/92421?lang=en-us",
-      "url": "https://trueinterview.io/jobs/dcbe4d42-41ba-4aa5-9f4b-d5137e1ed43a",
-      "postedAt": "2026-09-15T00:00:00.000Z",
-      "updatedAt": "2026-09-15T00:00:00.000Z"
     },
     {
       "id": "e2111e4e-05b4-433c-9d0f-9ae3b87374cd",
