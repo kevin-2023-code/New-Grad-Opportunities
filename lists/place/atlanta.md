@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**12 open roles.**
+**13 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -100,6 +100,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/pagerduty/jobs/6162484004">Apply</a></td>
 <td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Foth</strong></td>
+<td><a href="https://trueinterview.io/jobs/334efd44-b5ce-40eb-af0c-02f6f0554ac7">Process Engineer</a></td>
+<td>Atlanta, GA<br/>Atlanta, Georgia<br/>Green Bay, Wisconsin<br/>+3 more</td>
+<td align="center"><a href="https://jobs.lever.co/foth/e19dfe89-19ee-440c-9e7d-fae89dc955b4/apply">Apply</a></td>
+<td align="center">25 Aug 2026</td>
 </tr>
 </tbody>
 </table>

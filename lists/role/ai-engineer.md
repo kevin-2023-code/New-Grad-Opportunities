@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**26 open roles.** 13 in the United States & Canada · 13 elsewhere in the world.
+**29 open roles.** 15 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -108,6 +108,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91746?lang=en-us">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
+<tr>
+<td><strong>Mirego</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b022ff0-cb84-40cd-b659-ac56ee7dfac2">Développeur(euse) IA</a></td>
+<td>Québec, QC<br/>Montréal, QC</td>
+<td align="center"><a href="https://jobs.lever.co/mirego/d4aa28ef-42b2-4471-8b7e-da1433052351/apply">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/1da6c415-8ff6-4995-8c47-6c208618153f">AI Infrastructure Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23932">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -210,6 +224,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/9fin/72764c55-33d0-4f03-bb39-f8ca8af5eb16/application">Apply</a></td>
 <td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hexa</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d8242d0-09af-4a07-9507-10f44f4f313f">AI Applied Researcher</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hexa/8ab7f165-f414-49ab-875e-1442ebd43d5d/application">Apply</a></td>
+<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

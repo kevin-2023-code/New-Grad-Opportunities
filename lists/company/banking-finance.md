@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**25 open roles.** 8 in the United States & Canada · 17 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**26 open roles.** 9 in the United States & Canada · 17 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -72,6 +72,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3002/job/179775">Apply</a></td>
 <td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>8vc</strong></td>
+<td><a href="https://trueinterview.io/jobs/375704d8-e2ee-4a33-b7e4-e834db397bfd">Systems Administrator, IT &amp; TechOps</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/8vc/b497da63-0dd7-420f-ab79-cbe9682bdbd5/application">Apply</a></td>
+<td align="center">25 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # Platform Engineer
 
-**13 open roles.** 7 in the United States & Canada · 6 elsewhere in the world.
+**14 open roles.** 8 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -65,6 +65,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Platform-Software-Developer---2026-New-Grads_R031084-1">Apply</a></td>
 <td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Solace</strong></td>
+<td><a href="https://trueinterview.io/jobs/9744ce10-d97e-45bb-a47e-aafedf4a1987">Associate Platform Engineer (College Grad 2027)</a></td>
+<td>Redwood City, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/solace/bbdb1020-2900-4d63-908a-20cea79a65cd/application">Apply</a></td>
+<td align="center">25 Aug 2026</td>
 </tr>
 </tbody>
 </table>

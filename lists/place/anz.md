@@ -2,7 +2,7 @@
 
 # 🇦🇺 Sydney, Melbourne & Aotearoa
 
-**9 open roles.**
+**10 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -81,6 +81,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Sydney<br/>Mako Sydney</td>
 <td align="center"><a href="https://www.mako.com/opportunities/job-listing/8654611002?gh_jid=8654611002">Apply</a></td>
 <td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Gdh</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fed23bf-48a1-418a-9ce1-a00e67b0558b">GHD Graduate Program 2026/27 -  WA - Civil Engineers</a></td>
+<td>PERTH, WESTERN AUSTRALIA, Australia</td>
+<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26658">Apply</a></td>
+<td align="center">25 Aug 2026</td>
 </tr>
 </tbody>
 </table>

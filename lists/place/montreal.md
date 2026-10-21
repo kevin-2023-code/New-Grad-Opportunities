@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**8 open roles.**
+**15 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -72,6 +72,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Montreal, QC, Canada</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000148331318-artiste-d-effets-speciaux-assassin-s-creed-invictus-?oga=true">Apply</a></td>
 <td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Dominion Dynamics</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e487313-9632-4997-868d-e21e84b3ee24">Autonomous Collaborative Platform (ACP) - General Interest</a></td>
+<td>Montreal, QC<br/>Ottawa or Toronto</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/dominion%20dynamics/eb286335-8913-490a-8abe-079e53d011c8/application">Apply</a></td>
+<td align="center">29 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Cohere</strong></td>
+<td><a href="https://trueinterview.io/jobs/4464f0c8-37e5-4b95-a0cd-b019d44d161d">Forward Deployed Engineer, Agentic Platform (West Coast)</a></td>
+<td>Montreal, QC<br/>San Francisco, CA<br/>Seattle, WA<br/>+11 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9/application">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Mirego</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a864782-c23e-4189-886d-99a93863e9fd">Spécialiste, recherche produit numérique</a></td>
+<td>Montréal, QC<br/>Québec, QC</td>
+<td align="center"><a href="https://jobs.lever.co/mirego/3e376c52-7eaf-4ced-9086-940510b4735f/apply">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2239cfac-d37b-47d2-84c6-3fd013402dbd">Développeur(euse) Web Fullstack</a></td>
+<td>Montréal, QC<br/>Québec, QC</td>
+<td align="center"><a href="https://jobs.lever.co/mirego/d15cb282-dba5-4d22-99c6-c8dc5039fa75/apply">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1702e89a-268b-4cd1-9679-4ea6910df9fe">Développeur(euse) Mobile</a></td>
+<td>Montréal, QC<br/>Québec, QC</td>
+<td align="center"><a href="https://jobs.lever.co/mirego/11c8bea0-aea3-4d8a-b03f-a8ad0cc90752/apply">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d7b11fd9-f278-4702-8bd1-965a6469eeb9">Développeur(euse) logiciel Back-End / DevOps</a></td>
+<td>Montréal, QC<br/>Québec, QC</td>
+<td align="center"><a href="https://jobs.lever.co/mirego/50a2268a-ac83-4ff9-9952-f6c30486f192/apply">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9b022ff0-cb84-40cd-b659-ac56ee7dfac2">Développeur(euse) IA</a></td>
+<td>Montréal, QC<br/>Québec, QC</td>
+<td align="center"><a href="https://jobs.lever.co/mirego/d4aa28ef-42b2-4471-8b7e-da1433052351/apply">Apply</a></td>
+<td align="center">28 Aug 2026</td>
 </tr>
 </tbody>
 </table>

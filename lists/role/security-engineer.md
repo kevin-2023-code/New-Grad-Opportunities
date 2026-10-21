@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**25 open roles.** 18 in the United States & Canada · 7 elsewhere in the world.
+**26 open roles.** 19 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -142,6 +142,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/iseatz/jobs/5406282008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Solace</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4c69f55-4b21-4161-8861-c32c5a99314a">Associate Security Engineer (College Grad 2027)</a></td>
+<td>Redwood City, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/solace/b021350f-40dc-4b28-ade4-2ab030bec05d/application">Apply</a></td>
+<td align="center">25 Aug 2026</td>
 </tr>
 </tbody>
 </table>
