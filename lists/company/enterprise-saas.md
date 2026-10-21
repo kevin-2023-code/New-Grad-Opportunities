@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**47 open roles.** 33 in the United States & Canada · 14 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**45 open roles.** 32 in the United States & Canada · 13 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -241,13 +241,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/everlaw/jobs/4705236006">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Handshake</strong></td>
-<td><a href="https://trueinterview.io/jobs/124fd68b-5a56-4b86-a2a6-83d236754163">AI Policy Generalist - Remote US</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/handshake/9c7b3cad-3555-4400-b92d-106bade42c8e/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -350,13 +343,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo, São Paulo, Brazil<br/>Sao Paulo</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/awin/jobs/7984749003">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lightcast</strong></td>
-<td><a href="https://trueinterview.io/jobs/32535ba4-9b27-4225-8a01-98e532794008">Data Analyst(Bulgarian)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/economicmodeling/36e2eb9d-a7db-4268-a0b7-b26edc60de88/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 </tbody>
 </table>

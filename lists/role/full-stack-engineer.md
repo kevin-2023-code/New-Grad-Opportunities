@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**19 open roles.** 13 in the United States & Canada · 6 elsewhere in the world.
+**18 open roles.** 12 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Quora</strong></td>
+<td><a href="https://trueinterview.io/jobs/9fbc430d-5689-40eb-9a51-18c00f7a9926">Full Stack Software Engineer, New Grad - Quora (Remote)</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>C3.ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/8d206df6-e53a-4a13-887c-15af6f6e5b5f">Forward Deployed Engineer - Federal, New Grad 2027</a></td>
@@ -93,20 +100,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/metaview/1ae658a2-3baa-4610-8562-410c53d69bea/application">Apply</a></td>
 <td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mirego</strong></td>
-<td><a href="https://trueinterview.io/jobs/2239cfac-d37b-47d2-84c6-3fd013402dbd">Développeur(euse) Web Fullstack</a></td>
-<td>Québec, QC<br/>Montréal, QC</td>
-<td align="center"><a href="https://jobs.lever.co/mirego/d15cb282-dba5-4d22-99c6-c8dc5039fa75/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/8de8145e-4927-4fd3-9d98-1ffbe4b86e07">Full Stack Software Engineer, Data Platform (Starlink)</a></td>
-<td>Redmond, WA<br/>Hawthorne, CA, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8746439002?gh_jid=8746439002">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 </tbody>
 </table>

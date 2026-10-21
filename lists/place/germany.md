@@ -2,7 +2,7 @@
 
 # 🇩🇪 Berlin, Munich & Germany
 
-**10 open roles.** 2 in the United States & Canada · 8 elsewhere in the world.
+**8 open roles.** 1 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Stuttgart, Germany<br/>Washington, DC<br/>Peterson Space Force Base, CO<br/>+10 more</td>
 <td align="center"><a href="https://jobs.lever.co/agile-defense/25dca4b0-57d5-4bb5-bc5e-bafd8ab3d7d7/apply">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Veeva Qualityone Japan</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d5ca6d9-5d19-4632-a996-d0b085c91af5">Associate Consultant - Entry-Level Technology Consulting</a></td>
-<td>Germany - Frankfurt<br/>Germany - Berlin<br/>United Kingdom - London<br/>+3 more</td>
-<td align="center"><a href="https://jobs.lever.co/veeva/61675973-32f5-45c8-a971-197b1e5d4d36/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
 </tr>
 </tbody>
 </table>
@@ -91,13 +84,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Munich<br/>Corporate Office</td>
 <td align="center"><a href="http://job-boards.eu.greenhouse.io/rubyhotels/jobs/4968087101?gh_jid=4968087101">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Buena</strong></td>
-<td><a href="https://trueinterview.io/jobs/19e8a5e0-00e4-4382-b41c-67d6146c40a6">Immobilienverwalter / Immobilienkaufmann als Software-Trainer (m/w/d)</a></td>
-<td>Berlin</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/buena/944621a6-2154-4c8f-9f6a-efd8f0000ac1/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 </tbody>
 </table>

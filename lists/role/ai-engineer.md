@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**28 open roles.** 14 in the United States & Canada · 14 elsewhere in the world.
+**26 open roles.** 13 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Brain Co.</strong></td>
+<td><a href="https://trueinterview.io/jobs/c721d446-ff85-4529-8f98-d93fe2f7f23f">AI Product Engineer, 2027 New Grad</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e/application">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/2cbb59c4-ea39-416b-a805-d9534ff21c15">AI Labs Rotational Fellowship, Emerging Talent</a></td>
@@ -100,20 +107,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91746?lang=en-us">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mirego</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b022ff0-cb84-40cd-b659-ac56ee7dfac2">Développeur(euse) IA</a></td>
-<td>Québec, QC<br/>Montréal, QC</td>
-<td align="center"><a href="https://jobs.lever.co/mirego/d4aa28ef-42b2-4471-8b7e-da1433052351/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fortinet</strong></td>
-<td><a href="https://trueinterview.io/jobs/1da6c415-8ff6-4995-8c47-6c208618153f">AI Infrastructure Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23932">Apply</a></td>
-<td align="center">28 Aug 2026</td>
 </tr>
 </tbody>
 </table>
@@ -217,13 +210,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/9fin/72764c55-33d0-4f03-bb39-f8ca8af5eb16/application">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hexa</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d8242d0-09af-4a07-9507-10f44f4f313f">AI Applied Researcher</a></td>
-<td>Paris</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hexa/8ab7f165-f414-49ab-875e-1442ebd43d5d/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

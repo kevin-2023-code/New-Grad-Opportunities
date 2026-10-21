@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**11 open roles.** 10 in the United States & Canada · 1 elsewhere in the world.
+**10 open roles.** 9 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -79,13 +79,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, ON</td>
 <td align="center"><a href="https://jobs.lever.co/caseware/35366087-6670-40a2-ba0e-7eee4d4a8db0/apply">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/b01d45b3-f180-49f4-bb9f-a7d16cac5aff">Product Management Graduate (Master's/MBA)</a></td>
-<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1">Apply</a></td>
-<td align="center">28 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**108 open roles.** 81 in the United States & Canada · 27 elsewhere in the world.
+**100 open roles.** 74 in the United States & Canada · 26 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -535,55 +535,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/mapbox/5eb5480d-b457-4ce9-8f12-6292a2a402df/application">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Beloved Community &amp; Empowerment Academy Charter Schools</strong></td>
-<td><a href="https://trueinterview.io/jobs/9bedd409-4fd6-4819-b6e9-0d2ef2449240">Help Desk &amp; IOT Technician</a></td>
-<td>Jersey City, New Jersey, United States</td>
-<td align="center"><a href="https://jobs.workable.com/view/c6GoDuwfqvF3C86bBgc4Nb/help-desk-%26-iot-technician-in-jersey-city-at-beloved-community-%26-empowerment-academy-charter-schools">Apply</a></td>
-<td align="center">29 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Vultr</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a2f9ea4-6414-4962-8367-25b2e306e49c">Physical Security Evaluator</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/vultr/0e58469e-b248-4ede-8f97-3e7fe21919bf/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Finix</strong></td>
-<td><a href="https://trueinterview.io/jobs/f23f51f6-aced-46c0-a52b-8485b9ab1f82">IT Support Specialist</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.lever.co/finix/938e21fb-20e2-4627-a668-4cbb1c69cff9/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Gallatin</strong></td>
-<td><a href="https://trueinterview.io/jobs/289e84eb-6d16-4d47-a3ae-5cc8d47bb32a">IT Systems Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gallatin/00ae6401-2466-4ae8-b122-37c61bb4d122/application">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Alo</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d3359fd-604b-4d05-ae6e-ff2fbdfa3a4b">Retail Support Specialist - Commerce, CA</a></td>
-<td>Commerce, California, United States<br/>Warehouse 1, Commerce, CA (WH1)</td>
-<td align="center"><a href="https://boards.greenhouse.io/aloyoga/jobs/6162480004?gh_jid=6162480004">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Gmo</strong></td>
-<td><a href="https://trueinterview.io/jobs/3984622a-fbb5-4d16-8ad2-0c8b5be336d3">Desktop Engineer</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://jobs.lever.co/gmo/18b0a6c1-1b79-47d8-a631-4188bebda2b5/apply">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>8vc</strong></td>
-<td><a href="https://trueinterview.io/jobs/375704d8-e2ee-4a33-b7e4-e834db397bfd">Systems Administrator, IT &amp; TechOps</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/8vc/b497da63-0dd7-420f-ab79-cbe9682bdbd5/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -777,13 +728,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Santiago<br/>Latin America</td>
 <td align="center"><a href="https://jobs.lever.co/applydigital/0957c3bd-9456-44c4-8429-8ae80d587e97/apply">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>DV Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/51335377-d507-462f-aaf3-d4c6e2baebfd">Trade Support Engineer</a></td>
-<td>Singapore<br/>Hong Kong</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4727919005">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**8 open roles.**
+**7 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>Pittsburgh, PA, New York, NY, Pittsburgh, PA</td>
 <td align="center"><a href="https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002">Apply</a></td>
 <td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/a2245e51-c5b6-4e62-9572-5c9b2f05bd98">Research Scientist, Fundamental Generative AI - New College Grad 2026</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397928927">Apply</a></td>
-<td align="center">29 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Google</strong></td>

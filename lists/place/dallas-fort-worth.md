@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**12 open roles.**
+**9 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -53,6 +53,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/c41859ad-63dd-4ef2-a7c1-115bcc05e359">New College Grad - Memory System Architect, HBM Generative AI</a></td>
+<td>Richardson, TX, US<br/>Folsom, CA, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44544598">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>D.a. Davidson</strong></td>
 <td><a href="https://trueinterview.io/jobs/04ab7bc8-4fa4-4fea-98f7-0ab6215bce0e">Computer Support Specialist</a></td>
 <td>Plano, TX<br/>New York, NY<br/>Chicago, IL</td>
@@ -72,34 +79,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Dallas, TX, US<br/>Andover, MA, US</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971876168">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>May Mobility</strong></td>
-<td><a href="https://trueinterview.io/jobs/25d3b206-1e95-4ae8-b0d2-809365b139b5">Testing Support Specialist</a></td>
-<td>Arlington, TX - Onsite<br/>Ann Arbor, MI - HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/maymobility/jobs/8755620002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/c5f48e53-b6cd-433a-8771-9d33cdf0f974">Associate Design Verification Engineer</a></td>
-<td>US, TX, Dallas, Tollway, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Dallas-Tollway/Associate-Design-Verification-Engineer_R265415">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Capco</strong></td>
-<td><a href="https://trueinterview.io/jobs/8539a2a3-8b0b-4b42-afe5-c1a6265d4650">Associate Talent Program</a> 🛂</td>
-<td>Dallas, TX<br/>US - Dallas</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8152949">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/2c8e0f22-61e4-48bc-acd4-82733c6f7739">New College Grad - Memory Design Engineer, HBM</a></td>
-<td>Richardson, TX, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/40531254">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**39 open roles.** 30 in the United States & Canada · 9 elsewhere in the world. Early-stage technology companies.
+**32 open roles.** 24 in the United States & Canada · 8 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -185,48 +185,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/planetscale/jobs/4389100009">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Parallel Web Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a73c15a-4bfe-40e9-9ef9-0873c5717e89">Deployed Engineer</a></td>
-<td>New York, NY<br/>San Francisco or Palo Alto<br/>New York, New York</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/parallel/bb00e740-3647-4ce8-b6e7-3dcf611f66b6/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Finix</strong></td>
-<td><a href="https://trueinterview.io/jobs/f23f51f6-aced-46c0-a52b-8485b9ab1f82">IT Support Specialist</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.lever.co/finix/938e21fb-20e2-4627-a668-4cbb1c69cff9/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/2354ca62-392d-44ac-a2a1-dbc60fcc4424">Field Application Engineer - Temporary - Part time - Saline, MI</a></td>
-<td>Saline, MI</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/94bf09fd-ebd3-4b96-8c72-4139aad1405b/apply">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Standard Bots</strong></td>
-<td><a href="https://trueinterview.io/jobs/49501370-3348-49b1-8a8b-e685278edb22">Applications Engineer (Florida)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/standardbots/3d6559ab-9340-457f-8b75-f481bf50d296/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Robust.ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a93056d-5d5b-433e-a828-84df489b5c83">Electrical Engineer</a></td>
-<td>San Carlos, CA</td>
-<td align="center"><a href="https://jobs.lever.co/robust-ai/d7f4a9a3-4abe-433d-9c40-f309bb163424/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/a2c623a5-f73e-446a-91d1-e282dd2f84a1">Software Engineer, Applied AI</a></td>
-<td>San Francisco, CA<br/>New York, NY<br/>Austin, TX<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/835e6b2c-bf7a-41e8-a308-71ecf4adad07/application">Apply</a></td>
-<td align="center">22 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -294,13 +252,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London Office</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/tldraw/c52007ee-bac0-4176-a5f0-48fe6e1fe854/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Quantware</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a730c1f-190a-4c10-9500-e3d9b9d9a1df">Semiconductor Equipment Engineer</a></td>
-<td>Delft</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/quantware/44ae2864-733d-4259-a93b-e156372d44c3/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

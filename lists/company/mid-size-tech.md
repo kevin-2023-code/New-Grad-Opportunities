@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**46 open roles.** 33 in the United States & Canada · 13 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**39 open roles.** 28 in the United States & Canada · 11 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -213,41 +213,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/everlaw/jobs/4705236006">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Handshake</strong></td>
-<td><a href="https://trueinterview.io/jobs/124fd68b-5a56-4b86-a2a6-83d236754163">AI Policy Generalist - Remote US</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/handshake/9c7b3cad-3555-4400-b92d-106bade42c8e/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Vultr</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a2f9ea4-6414-4962-8367-25b2e306e49c">Physical Security Evaluator</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/vultr/0e58469e-b248-4ede-8f97-3e7fe21919bf/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/4464f0c8-37e5-4b95-a0cd-b019d44d161d">Forward Deployed Engineer, Agentic Platform (West Coast)</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>Los Angeles, CA<br/>+11 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Domino Data Lab</strong></td>
-<td><a href="https://trueinterview.io/jobs/868e6f50-d34d-4b7c-bc12-3d2324c069da">Forward Deployed Engineer, Public Sector</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://app.careerpuck.com/job-board/domino-data-lab/job/8160818?gh_jid=8160818">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Trm Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/34e5f56b-66a2-4151-a459-5d60c97990a2">Marketing Technology Engineer</a></td>
-<td>Canada<br/>South America<br/>United Kingdom</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/trm-labs/b6ced85a-a8e1-4da7-b065-188edb77ca9e/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -336,20 +301,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Budapest, Hungary</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8180697/apply/?gh_jid=8180697">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lightcast</strong></td>
-<td><a href="https://trueinterview.io/jobs/32535ba4-9b27-4225-8a01-98e532794008">Data Analyst(Bulgarian)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/economicmodeling/36e2eb9d-a7db-4268-a0b7-b26edc60de88/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Percona</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f9284b2-46ce-4d31-9220-6af2b8f9ed0f">Software Developer in Test (Talent Pool)</a></td>
-<td>EMEA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/percona/8982df92-5be8-47db-9a6f-1b5b657cfda5/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 </tbody>
 </table>

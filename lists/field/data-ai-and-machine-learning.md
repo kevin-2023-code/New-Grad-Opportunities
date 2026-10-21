@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**157 open roles.** 94 in the United States & Canada · 63 elsewhere in the world.
+**137 open roles.** 82 in the United States & Canada · 55 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -114,13 +114,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Juan, PR</td>
 <td align="center"><a href="https://www.redventures.com/careers/positions/open?gh_jid=8211411">Apply</a></td>
 <td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/a2245e51-c5b6-4e62-9572-5c9b2f05bd98">Research Scientist, Fundamental Generative AI - New College Grad 2026</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397928927">Apply</a></td>
-<td align="center">29 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Chicago Public Media</strong></td>
@@ -598,83 +591,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4709765006?gh_jid=4709765006">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Handshake</strong></td>
-<td><a href="https://trueinterview.io/jobs/124fd68b-5a56-4b86-a2a6-83d236754163">AI Policy Generalist - Remote US</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/handshake/9c7b3cad-3555-4400-b92d-106bade42c8e/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Mirego</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a864782-c23e-4189-886d-99a93863e9fd">Spécialiste, recherche produit numérique</a></td>
-<td>Montréal, QC<br/>Québec, QC</td>
-<td align="center"><a href="https://jobs.lever.co/mirego/3e376c52-7eaf-4ced-9086-940510b4735f/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9b022ff0-cb84-40cd-b659-ac56ee7dfac2">Développeur(euse) IA</a></td>
-<td>Québec, QC<br/>Montréal, QC</td>
-<td align="center"><a href="https://jobs.lever.co/mirego/d4aa28ef-42b2-4471-8b7e-da1433052351/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Grapevine</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a9dad22-20fa-496c-bf58-6a0a517ef07a">Product &amp; Savings Intelligence Analyst</a></td>
-<td>NYC HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/grapevine/b785642f-d4a4-466b-9458-9e7e422bc1af/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Fortinet</strong></td>
-<td><a href="https://trueinterview.io/jobs/1da6c415-8ff6-4995-8c47-6c208618153f">AI Infrastructure Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23932">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/c23d94ba-956b-4ece-bb99-aaa998f8999c">Data Science Graduate</a></td>
-<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1213631-1">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Grail</strong></td>
-<td><a href="https://trueinterview.io/jobs/15548ad7-2d63-4f8a-9510-0706f0232e3d">Data Engineer 1, Operational Technology - Operations #4941</a></td>
-<td>Durham, NC</td>
-<td align="center"><a href="https://jobs.lever.co/grailbio/36b40389-6f5d-467f-b4b0-e220ca73e89d/apply">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/2354ca62-392d-44ac-a2a1-dbc60fcc4424">Field Application Engineer - Temporary - Part time - Saline, MI</a></td>
-<td>Saline, MI</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/94bf09fd-ebd3-4b96-8c72-4139aad1405b/apply">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Blend360</strong></td>
-<td><a href="https://trueinterview.io/jobs/d203a93c-0158-4264-abe1-1eb99d3add37">People Ops Coordinator</a></td>
-<td>Columbia, MD, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Blend360/744000146046064-people-ops-coordinator?oga=true">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>True Anomaly</strong></td>
-<td><a href="https://trueinterview.io/jobs/16272782-9bce-4295-bf01-a2b92ad5f9eb">Data Engineer 1</a> 🛂</td>
-<td>Denver, CO or Long Beach, CA<br/>Long Beach, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Maximor Ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d59d004-2098-4025-a3d5-9f9296d54077">Startup Generalist</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/maximor/b75360eb-63dc-4cb0-99b7-67e25986c584/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1071,62 +987,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City</td>
 <td align="center"><a href="https://www.monks.com/careers/6175775004/job?gh_jid=6175775004">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Scale AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/a57fef53-c5d0-41ea-8e3a-6401a781fb57">Operations Associate</a></td>
-<td>Argentina</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/scaleai/jobs/4728956005">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>LG Ad Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bd7d309-635c-4d2e-b49b-f787157b9674">Global Reporting &amp; Analytics Analyst</a> 🛂</td>
-<td>London, UK</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lgads/b583063e-60fc-4985-b2ee-11fa83d75943/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Oddin</strong></td>
-<td><a href="https://trueinterview.io/jobs/1776f158-f726-408a-bd8a-675d473e3b1b">Junior Esports Trader - Peru</a></td>
-<td>Lima</td>
-<td align="center"><a href="https://jobs.lever.co/oddin/5c441806-926c-4d90-8a78-d5dc0c1bf054/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lightcast</strong></td>
-<td><a href="https://trueinterview.io/jobs/32535ba4-9b27-4225-8a01-98e532794008">Data Analyst(Bulgarian)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/economicmodeling/36e2eb9d-a7db-4268-a0b7-b26edc60de88/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/31555971-49bc-4b93-8cff-39cc4dd23866">Data Analyst BI (banco de talentos)</a></td>
-<td>Mexico City</td>
-<td align="center"><a href="https://www.monks.com/careers/6162594004/job?gh_jid=6162594004">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Orion Innovation</strong></td>
-<td><a href="https://trueinterview.io/jobs/4cf20a5b-f127-484a-9cd9-83cd4552228c">206238 - ETL/Data Engineer</a></td>
-<td>Mexico City, Mexico City, Mexico<br/>Mexico, Mexico</td>
-<td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4706843006">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hexa</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d8242d0-09af-4a07-9507-10f44f4f313f">AI Applied Researcher</a></td>
-<td>Paris</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hexa/8ab7f165-f414-49ab-875e-1442ebd43d5d/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Docplanner</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e46f918-cd1a-4778-a91b-c881fd676bb1">Data Annotation Specialist</a></td>
-<td>Warsaw<br/>Barcelona<br/>Spain</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/docplanner/daf94ce2-89e1-4eda-9c47-d0122310141d/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

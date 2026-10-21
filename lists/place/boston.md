@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**44 open roles.**
+**36 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -268,62 +268,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA<br/>Boston-Hybrid</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/ians/jobs/5225117007">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Coherent Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc41881b-278d-46ef-a12e-b3a81c551de1">Process Engineer</a></td>
-<td>Woburn, MA, United States<br/>Sherman, TX, United States</td>
-<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011324">Apply</a></td>
-<td align="center">29 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/4464f0c8-37e5-4b95-a0cd-b019d44d161d">Forward Deployed Engineer, Agentic Platform (West Coast)</a></td>
-<td>Boston, MA<br/>San Francisco, CA<br/>Seattle, WA<br/>+11 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/c23d94ba-956b-4ece-bb99-aaa998f8999c">Data Science Graduate</a></td>
-<td>Andover, Massachusetts, United States of America<br/>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>+7 more</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1213631-1">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0b55c324-228f-4b09-93ba-f2389d6c73d7">Firmware Engineer Graduate</a></td>
-<td>Andover, Massachusetts, United States of America<br/>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>+7 more</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Graduate_1213626-1">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b01d45b3-f180-49f4-bb9f-a7d16cac5aff">Product Management Graduate (Master's/MBA)</a></td>
-<td>Andover, Massachusetts, United States of America<br/>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>+7 more</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/57002759-43b8-442a-9f71-3e2c9ca7674a">Software Engineer Graduate</a></td>
-<td>Andover, Massachusetts, United States of America<br/>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>+7 more</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624-1">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Gmo</strong></td>
-<td><a href="https://trueinterview.io/jobs/3984622a-fbb5-4d16-8ad2-0c8b5be336d3">Desktop Engineer</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://jobs.lever.co/gmo/18b0a6c1-1b79-47d8-a631-4188bebda2b5/apply">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Man Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/bbd7c066-9a6e-4231-811d-271c8164bad7">Systematic Quant Graduate Rotational</a> 🛂</td>
-<td>Boston, MA<br/>Massachusetts</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4960444101">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 </tbody>
 </table>

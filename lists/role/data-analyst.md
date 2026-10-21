@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**27 open roles.** 11 in the United States & Canada · 16 elsewhere in the world.
+**23 open roles.** 10 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,13 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Morrisville, NC<br/>Chapel Hill, NC<br/>Durham, NC<br/>+1 more</td>
 <td align="center"><a href="https://jobs.lever.co/erg/a3a475aa-be18-440c-9bc8-000200aeb963/apply">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mirego</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a864782-c23e-4189-886d-99a93863e9fd">Spécialiste, recherche produit numérique</a></td>
-<td>Montréal, QC<br/>Québec, QC</td>
-<td align="center"><a href="https://jobs.lever.co/mirego/3e376c52-7eaf-4ced-9086-940510b4735f/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
 </tr>
 </tbody>
 </table>
@@ -196,27 +189,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo</td>
 <td align="center"><a href="https://jobs.lever.co/bv/eee25902-bbab-44b1-ae74-7eb3439ef9a3/apply">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>LG Ad Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bd7d309-635c-4d2e-b49b-f787157b9674">Global Reporting &amp; Analytics Analyst</a> 🛂</td>
-<td>London, UK</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lgads/b583063e-60fc-4985-b2ee-11fa83d75943/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lightcast</strong></td>
-<td><a href="https://trueinterview.io/jobs/32535ba4-9b27-4225-8a01-98e532794008">Data Analyst(Bulgarian)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.lever.co/economicmodeling/36e2eb9d-a7db-4268-a0b7-b26edc60de88/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/31555971-49bc-4b93-8cff-39cc4dd23866">Data Analyst BI (banco de talentos)</a></td>
-<td>Mexico City</td>
-<td align="center"><a href="https://www.monks.com/careers/6162594004/job?gh_jid=6162594004">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 </tbody>
 </table>

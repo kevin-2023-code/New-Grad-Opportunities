@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**51 open roles.**
+**45 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -331,48 +331,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Marina Del Rey, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ab208d0-35de-4685-a088-2534cd664bc3">GNC Engineer, Phased Array Devices (Starshield)</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8749195002?gh_jid=8749195002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/4464f0c8-37e5-4b95-a0cd-b019d44d161d">Forward Deployed Engineer, Agentic Platform (West Coast)</a></td>
-<td>Los Angeles, CA<br/>San Francisco, CA<br/>Seattle, WA<br/>+11 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Gallatin</strong></td>
-<td><a href="https://trueinterview.io/jobs/289e84eb-6d16-4d47-a3ae-5cc8d47bb32a">IT Systems Engineer</a> 🌐</td>
-<td>Remote — United States<br/>El Segundo, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gallatin/00ae6401-2466-4ae8-b122-37c61bb4d122/application">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>True Anomaly</strong></td>
-<td><a href="https://trueinterview.io/jobs/16272782-9bce-4295-bf01-a2b92ad5f9eb">Data Engineer 1</a> 🛂</td>
-<td>Long Beach, CA<br/>Denver, CO or Long Beach, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/8de8145e-4927-4fd3-9d98-1ffbe4b86e07">Full Stack Software Engineer, Data Platform (Starlink)</a></td>
-<td>Hawthorne, CA, United States<br/>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8746439002?gh_jid=8746439002">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Vesync</strong></td>
-<td><a href="https://trueinterview.io/jobs/411399c2-ccf9-44c5-9e43-19485c1c985d">Test Technician</a></td>
-<td>Anaheim, CA</td>
-<td align="center"><a href="https://jobs.lever.co/vesync/32b93522-2455-4e96-ae61-aca20ca7cdc8/apply">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

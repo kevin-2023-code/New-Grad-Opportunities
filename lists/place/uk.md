@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**24 open roles.** 4 in the United States & Canada · 20 elsewhere in the world.
+**21 open roles.** 2 in the United States & Canada · 19 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -30,20 +30,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>London, UK<br/>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/c442eab0-b8b4-40f6-b0f2-0fc91aea294a/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Veeva Qualityone Japan</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d5ca6d9-5d19-4632-a996-d0b085c91af5">Associate Consultant - Entry-Level Technology Consulting</a></td>
-<td>United Kingdom - London<br/>Spain - Barcelona<br/>Germany - Frankfurt<br/>+3 more</td>
-<td align="center"><a href="https://jobs.lever.co/veeva/61675973-32f5-45c8-a971-197b1e5d4d36/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Factory</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e4bc3c2-ab43-40a9-9e92-456eeea1022e">Technical Support Engineer - US - Remote</a></td>
-<td>London, UK<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/factory/fa8c6db5-7dbf-4366-aa64-88a6608895cd/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>
@@ -189,13 +175,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774781">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>LG Ad Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bd7d309-635c-4d2e-b49b-f787157b9674">Global Reporting &amp; Analytics Analyst</a> 🛂</td>
-<td>London, UK</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lgads/b583063e-60fc-4985-b2ee-11fa83d75943/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**39 open roles.** 31 in the United States & Canada · 8 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**33 open roles.** 27 in the United States & Canada · 6 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -206,34 +206,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.lever.co/zoox/ea3fbfaf-588b-434a-9a5a-c61edc731a40/apply">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Zipline</strong></td>
-<td><a href="https://trueinterview.io/jobs/885bc73d-573e-4477-bc0b-be89ed8336a0">Solder Engineering Technician, Powertrain</a></td>
-<td>South San Francisco, California, USA<br/>Aviary - SSF</td>
-<td align="center"><a href="https://www.zipline.com/open-roles?gh_jid=7978932003">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Zoox</strong></td>
-<td><a href="https://trueinterview.io/jobs/092c7f37-bb01-42b5-ae7b-6aa0d4ece9c1">Wireless Firmware Validation Engineer</a></td>
-<td>Foster City, CA</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/5b0c4c1d-9308-4809-995a-223161fb5068/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a4e17028-0d9c-470c-9556-d1dcd8e94bd0">Software Engineer, Wireless Technologies</a></td>
-<td>Foster City, CA</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/7522162e-a518-444e-8fe7-49b8b45bbdd3/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Glydways</strong></td>
-<td><a href="https://trueinterview.io/jobs/61c01050-b1ad-4a9d-b863-e28582877a39">Autonomy Software Engineer, Integration</a></td>
-<td>Richmond, CA<br/>Richmond Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/glydways/jobs/5161245007">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -287,20 +259,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brazil<br/>Londrina</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/platformscience/jobs/7984695003">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c6e8e93-1306-436d-a25d-e165b6331a69">Steering Program Control Engineer</a></td>
-<td>Naucalpan de Juarez, MEX, Mexico</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69135">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Pyka</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c81a32f-1f63-40f4-b159-568ee97720cb">Electro-Mechanical Assembly Technician</a></td>
-<td>Alameda HQ</td>
-<td align="center"><a href="https://jobs.lever.co/pyka/4b778d4b-9fab-4df8-9a91-0728e6658a48/apply">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**64 open roles.** 36 in the United States & Canada · 28 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**55 open roles.** 29 in the United States & Canada · 26 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -220,55 +220,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4709765006?gh_jid=4709765006">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Agile Defense</strong></td>
-<td><a href="https://trueinterview.io/jobs/37517862-c237-4a6a-a123-fc145c1fb4d6">MSS Developer</a></td>
-<td>Peterson Space Force Base, CO</td>
-<td align="center"><a href="https://jobs.lever.co/agile-defense/49bfefa5-b6f6-49fd-9548-cea453483eb7/apply">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Blend360</strong></td>
-<td><a href="https://trueinterview.io/jobs/d203a93c-0158-4264-abe1-1eb99d3add37">People Ops Coordinator</a></td>
-<td>Columbia, MD, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Blend360/744000146046064-people-ops-coordinator?oga=true">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Blink Ux</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb8cd599-8c71-432e-964d-1600958a321f">UX Designer</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://jobs.lever.co/blinkux/87775a4e-2993-4f5a-ace5-9da91dcdbbe9/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Accenture Federal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/63729eb2-a001-4b53-a1c3-3ec577bea1d6">Mechanical Design Engineer</a></td>
-<td>San Antonio, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4708282006?gh_jid=4708282006">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Capco</strong></td>
-<td><a href="https://trueinterview.io/jobs/8539a2a3-8b0b-4b42-afe5-c1a6265d4650">Associate Talent Program</a> 🛂</td>
-<td>US - Dallas<br/>Dallas, TX</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8152949">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9d9f2a8d-fc8b-4876-8493-6bc77d00de5c">Capco Associate Talent Program - Houston June 2027</a></td>
-<td>US - Dallas<br/>US - Houston</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8108842">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1129397c-3f7e-426d-9e9c-89c6c11dff37">Capco Associate Talent Program - Dallas June 2027</a></td>
-<td>US - Dallas</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8108838">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -462,20 +413,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Santiago<br/>Latin America</td>
 <td align="center"><a href="https://jobs.lever.co/applydigital/0957c3bd-9456-44c4-8429-8ae80d587e97/apply">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Modus Create</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3fd043f-e1fb-4730-a8c0-460a618db6ff">Forward Deployed Engineer (Python, AI/ML, Generative AI) - UK based</a></td>
-<td>Greece<br/>Europe</td>
-<td align="center"><a href="https://moduscreate.com/careers/7978821003?gh_jid=7978821003">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Orion Innovation</strong></td>
-<td><a href="https://trueinterview.io/jobs/4cf20a5b-f127-484a-9cd9-83cd4552228c">206238 - ETL/Data Engineer</a></td>
-<td>Mexico City, Mexico City, Mexico<br/>Mexico, Mexico</td>
-<td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4706843006">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

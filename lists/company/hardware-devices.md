@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**79 open roles.** 71 in the United States & Canada · 8 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**66 open roles.** 59 in the United States & Canada · 7 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,13 +43,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/791a6ba7-71c6-4267-8fa2-4b683dcf27ef">Technology Consultant Graduate</a></td>
 <td>Spring, Texas, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Technology-Consultant-Graduate_1217412-1">Apply</a></td>
-<td align="center">18 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f104fae8-2ffc-4085-b40e-a332836e18e6">VLSI Engineer I -</a></td>
-<td>Roseville, California, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/VLSI-Engineer-I--_1214985-1">Apply</a></td>
 <td align="center">18 Oct 2026</td>
 </tr>
 <tr>
@@ -361,25 +354,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/e792d7a2-63b8-4f3f-b875-2d9631e3ea3e">Fiber Align Engineer</a></td>
-<td>Holmdel, New Jersey, US, United States of America<br/>Allentown, Pennsylvania, US</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Holmdel-New-Jersey-US/Mechanical-Engineer_2023117">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Garmin</strong></td>
 <td><a href="https://trueinterview.io/jobs/79d9241f-f43f-4084-b8a3-71d532c957bd">EMC Engineering Technician</a></td>
 <td>Salem, Oregon, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19592?lang=en-us">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/47c8344b-c217-428b-892c-a7dbbf0b66f7">Software Engineer 1 (Android)</a></td>
-<td>Yarmouth, Maine, United States<br/>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/16587?lang=en-us">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Keysight</strong></td>
@@ -451,69 +430,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Design-Engineer-Graduate_1213429-1">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Eight Sleep</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e21d821-8018-4032-8c0f-cf4977ff28d9">Electrical Engineer (New Grad / Spring 2027)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/eightsleep/ce1bebc3-42f5-4010-93cb-b31090b16294/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a54825c7-4e5a-481f-8d0c-89bfd03b2238">Mechanical Engineer (New Grad / Spring 2027)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/eightsleep/fc296bc9-0e05-4639-a95f-5f89c0cd2b96/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/3de5b92d-e9e4-4dff-94ab-28c5ee456e92">Software Engineer 1 - Aviation Backend Web</a></td>
-<td>Olathe, Kansas, United States<br/>Chanhassen, Minnesota, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19142?lang=en-us">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/c23d94ba-956b-4ece-bb99-aaa998f8999c">Data Science Graduate</a></td>
-<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1213631-1">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0b55c324-228f-4b09-93ba-f2389d6c73d7">Firmware Engineer Graduate</a></td>
-<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Graduate_1213626-1">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b01d45b3-f180-49f4-bb9f-a7d16cac5aff">Product Management Graduate (Master's/MBA)</a></td>
-<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/57002759-43b8-442a-9f71-3e2c9ca7674a">Software Engineer Graduate</a></td>
-<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624-1">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Standard Bots</strong></td>
-<td><a href="https://trueinterview.io/jobs/49501370-3348-49b1-8a8b-e685278edb22">Applications Engineer (Florida)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/standardbots/3d6559ab-9340-457f-8b75-f481bf50d296/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Robust.ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a93056d-5d5b-433e-a828-84df489b5c83">Electrical Engineer</a></td>
-<td>San Carlos, CA</td>
-<td align="center"><a href="https://jobs.lever.co/robust-ai/d7f4a9a3-4abe-433d-9c40-f309bb163424/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -574,13 +490,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Budapest, Hungary</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8180697/apply/?gh_jid=8180697">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Quantware</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a730c1f-190a-4c10-9500-e3d9b9d9a1df">Semiconductor Equipment Engineer</a></td>
-<td>Delft</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/quantware/44ae2864-733d-4259-a93b-e156372d44c3/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

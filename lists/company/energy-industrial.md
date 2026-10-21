@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**8 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
+**7 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -65,13 +65,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Tulsa, Oklahoma</td>
 <td align="center"><a href="https://jobs.lever.co/zeeco/48ab06e1-d002-4eea-a801-c3bda39d1d25/apply">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Invinity Energy Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/71704a18-cf14-4167-8a48-93928c0ac286">Manufacturing Engineer</a></td>
-<td>1235 Activity Drive, Vista, CA</td>
-<td align="center"><a href="https://jobs.lever.co/invinity/bdc2b349-f5a7-408a-809a-1b92263b3012/apply">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 </tbody>
 </table>

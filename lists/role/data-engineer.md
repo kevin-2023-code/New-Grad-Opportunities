@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**20 open roles.** 14 in the United States & Canada · 6 elsewhere in the world.
+**17 open roles.** 12 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -101,20 +101,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://omers.wd3.myworkdayjobs.com/OMERS_External/job/Toronto-Ontario/Data-Engineer--Data-Integration---Performance-Platform_JR-8417-1">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Grail</strong></td>
-<td><a href="https://trueinterview.io/jobs/15548ad7-2d63-4f8a-9510-0706f0232e3d">Data Engineer 1, Operational Technology - Operations #4941</a></td>
-<td>Durham, NC</td>
-<td align="center"><a href="https://jobs.lever.co/grailbio/36b40389-6f5d-467f-b4b0-e220ca73e89d/apply">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>True Anomaly</strong></td>
-<td><a href="https://trueinterview.io/jobs/16272782-9bce-4295-bf01-a2b92ad5f9eb">Data Engineer 1</a> 🛂</td>
-<td>Denver, CO or Long Beach, CA<br/>Long Beach, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -161,13 +147,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City</td>
 <td align="center"><a href="https://www.monks.com/careers/6173872004/job?gh_jid=6173872004">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Orion Innovation</strong></td>
-<td><a href="https://trueinterview.io/jobs/4cf20a5b-f127-484a-9cd9-83cd4552228c">206238 - ETL/Data Engineer</a></td>
-<td>Mexico City, Mexico City, Mexico<br/>Mexico, Mexico</td>
-<td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4706843006">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

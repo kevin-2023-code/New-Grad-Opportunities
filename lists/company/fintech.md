@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**29 open roles.** 16 in the United States & Canada · 13 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**25 open roles.** 14 in the United States & Canada · 11 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -115,20 +115,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/valon/e08ad09a-4408-4210-8c1b-da6510f83324/application">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Finix</strong></td>
-<td><a href="https://trueinterview.io/jobs/f23f51f6-aced-46c0-a52b-8485b9ab1f82">IT Support Specialist</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.lever.co/finix/938e21fb-20e2-4627-a668-4cbb1c69cff9/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Trm Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/34e5f56b-66a2-4151-a459-5d60c97990a2">Marketing Technology Engineer</a></td>
-<td>Canada<br/>South America<br/>United Kingdom</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/trm-labs/b6ced85a-a8e1-4da7-b065-188edb77ca9e/application">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -217,20 +203,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>2 Locations</td>
 <td align="center"><a href="https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer_R0137281-1">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Next Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/28b89d63-6951-4574-83b6-af3862664921">Graduate Backend Software Engineer- UpNEXT Program</a></td>
-<td>Kfar Saba, Israel<br/>IL Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/nextinsurance66/jobs/7979131003">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Toss</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ae8c86b-c5c0-4ac3-9a0e-af7059ecc7f3">Visual Design Assistant</a></td>
-<td>Seoul</td>
-<td align="center"><a href="https://toss.im/career/job-detail?gh_jid=7955126003">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**48 open roles.** 35 in the United States & Canada · 13 elsewhere in the world.
+**41 open roles.** 30 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -227,41 +227,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.lever.co/caseware/35366087-6670-40a2-ba0e-7eee4d4a8db0/apply">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/9f12bade-4f3a-4749-9cbe-c5a891e3c333">Web Producer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/dcc678d2-d0cd-4428-bb68-38a7347d6ded/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/b01d45b3-f180-49f4-bb9f-a7d16cac5aff">Product Management Graduate (Master's/MBA)</a></td>
-<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Business Wire</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fe20c0f-b821-4f9f-a7c7-dde93d5bb5d2">Product Designer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.lever.co/businesswire/61748cf9-4bff-4067-809a-fd58f42c78ff/apply">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Blink Ux</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb8cd599-8c71-432e-964d-1600958a321f">UX Designer</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://jobs.lever.co/blinkux/87775a4e-2993-4f5a-ace5-9da91dcdbbe9/apply">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Sunday</strong></td>
-<td><a href="https://trueinterview.io/jobs/5232302d-6579-4c37-8eb5-84d5cf3813ce">Industrial Designer (Contractor)</a></td>
-<td>Redwood City, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sunday/7baaf3f3-cd11-4e68-b158-7ff287cba5f1/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -350,20 +315,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London Office</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/tldraw/c52007ee-bac0-4176-a5f0-48fe6e1fe854/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Flipper</strong></td>
-<td><a href="https://trueinterview.io/jobs/68b57cc8-ff83-4621-a415-b6f35336c3a9">Graphic Designer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/flipper/3769a6d7-d9a8-4aa4-b63c-f94313566b81/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Toss</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ae8c86b-c5c0-4ac3-9a0e-af7059ecc7f3">Visual Design Assistant</a></td>
-<td>Seoul</td>
-<td align="center"><a href="https://toss.im/career/job-detail?gh_jid=7955126003">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**27 open roles.** 19 in the United States & Canada · 8 elsewhere in the world.
+**26 open roles.** 19 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -210,13 +210,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Campinas, São Paulo, Brazil<br/>Campinas, Brazil</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8690822002">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Modus Create</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3fd043f-e1fb-4730-a8c0-460a618db6ff">Forward Deployed Engineer (Python, AI/ML, Generative AI) - UK based</a></td>
-<td>Greece<br/>Europe</td>
-<td align="center"><a href="https://moduscreate.com/careers/7978821003?gh_jid=7978821003">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**80 open roles.** 63 in the United States & Canada · 17 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**76 open roles.** 62 in the United States & Canada · 14 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -451,13 +451,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/393b88d7-1fbc-466a-9108-a7c1bafeb8d8/application">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9f12bade-4f3a-4749-9cbe-c5a891e3c333">Web Producer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/dcc678d2-d0cd-4428-bb68-38a7347d6ded/application">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -567,27 +560,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo, São Paulo, Brazil<br/>Sao Paulo</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/awin/jobs/7984749003">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Scale AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/a57fef53-c5d0-41ea-8e3a-6401a781fb57">Operations Associate</a></td>
-<td>Argentina</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/scaleai/jobs/4728956005">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Next Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/28b89d63-6951-4574-83b6-af3862664921">Graduate Backend Software Engineer- UpNEXT Program</a></td>
-<td>Kfar Saba, Israel<br/>IL Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/nextinsurance66/jobs/7979131003">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Toss</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ae8c86b-c5c0-4ac3-9a0e-af7059ecc7f3">Visual Design Assistant</a></td>
-<td>Seoul</td>
-<td align="center"><a href="https://toss.im/career/job-detail?gh_jid=7955126003">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>
