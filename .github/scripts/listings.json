@@ -6,9 +6,161 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-22T19:56:43.569Z",
-  "count": 982,
+  "listingsChangedAt": "2026-10-22T23:13:34.377Z",
+  "count": 992,
   "listings": [
+    {
+      "id": "0840d491-52bd-43c8-9bf8-8eab28e7c8ad",
+      "company": "agile-defense",
+      "title": "Data Engineer - Arlington (VA)",
+      "locations": [
+        "Arlington, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/agile-defense/db2e6a66-cd2b-45a3-98eb-d49cfd3f720a/apply",
+      "url": "https://trueinterview.io/jobs/0840d491-52bd-43c8-9bf8-8eab28e7c8ad",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "e7ecbd82-0e82-4357-9d82-1e17981a9f29",
+      "company": "agile-defense",
+      "title": "Data Engineer - DC",
+      "locations": [
+        "Washington, D.C."
+      ],
+      "cities": [
+        "Washington, DC"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/agile-defense/006dcc67-cdc4-482f-bfa2-fd439638d530/apply",
+      "url": "https://trueinterview.io/jobs/e7ecbd82-0e82-4357-9d82-1e17981a9f29",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "6a97e8d4-1cf0-4145-a0b6-96e9d979b7d7",
+      "company": "agile-defense",
+      "title": "Data Engineer - Falls Church",
+      "locations": [
+        "Falls Church, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/agile-defense/4377cbc7-83da-42de-85c6-291c24d5d180/apply",
+      "url": "https://trueinterview.io/jobs/6a97e8d4-1cf0-4145-a0b6-96e9d979b7d7",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "601647c8-c234-440b-aa4c-2bd5f7508513",
+      "company": "agile-defense",
+      "title": "Data Engineer - Fort Meade",
+      "locations": [
+        "Fort Meade, MD"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/agile-defense/43a9f021-393b-463c-808a-882d00997cee/apply",
+      "url": "https://trueinterview.io/jobs/601647c8-c234-440b-aa4c-2bd5f7508513",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "5497ed94-a38d-4f0e-bfcb-089eb998ef9c",
+      "company": "agile-defense",
+      "title": "Data Engineer - Honolulu",
+      "locations": [
+        "Camp Smith, HI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/agile-defense/ce6065e2-eb52-4ec7-b0e8-6a250a7f4b46/apply",
+      "url": "https://trueinterview.io/jobs/5497ed94-a38d-4f0e-bfcb-089eb998ef9c",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "f2a5daac-4339-49f9-b330-3346a57efaa1",
+      "company": "agile-defense",
+      "title": "Data Engineer - Omaha",
+      "locations": [
+        "Offut AFB, NE"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/agile-defense/f62d2e45-63d8-47f6-a508-b8a996525633/apply",
+      "url": "https://trueinterview.io/jobs/f2a5daac-4339-49f9-b330-3346a57efaa1",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
     {
       "id": "8a3d5a66-3f41-422e-9730-a93def6272c5",
       "company": "ford",
@@ -33,6 +185,31 @@
       "url": "https://trueinterview.io/jobs/8a3d5a66-3f41-422e-9730-a93def6272c5",
       "postedAt": "2026-10-23T00:00:00.000Z",
       "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "939e89a4-d842-481e-8a2b-54a75e72828c",
+      "company": "Arista Networks",
+      "title": "Thermal Test Engineer",
+      "locations": [
+        "Santa Clara, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.smartrecruiters.com/AristaNetworks/744000157230186-thermal-test-engineer",
+      "url": "https://trueinterview.io/jobs/939e89a4-d842-481e-8a2b-54a75e72828c",
+      "postedAt": "2026-10-22T21:10:08.000Z",
+      "updatedAt": "2026-10-22T21:10:08.000Z"
     },
     {
       "id": "37e6d0ab-d270-407e-afe5-214c2351ca50",
@@ -171,6 +348,33 @@
       "updatedAt": "2026-10-22T00:00:00.000Z"
     },
     {
+      "id": "3ae52380-1a8c-405c-9236-29e42a3320ad",
+      "company": "Dell",
+      "title": "Graphic and Visual Designer, Experience Design Group",
+      "locations": [
+        "Austin, TX, United States"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/301041",
+      "url": "https://trueinterview.io/jobs/3ae52380-1a8c-405c-9236-29e42a3320ad",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
       "id": "2e388dcd-f8bc-4f0a-81c5-79131095a755",
       "company": "FIS Global",
       "title": "Python Developer",
@@ -190,6 +394,31 @@
       "source": "trueinterview",
       "applyUrl": "https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-NOID-C-25-SEC-62-TWR-1/Python-Developer_JR0308903",
       "url": "https://trueinterview.io/jobs/2e388dcd-f8bc-4f0a-81c5-79131095a755",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "efbbc522-f083-4b9c-8926-5b46639f19a0",
+      "company": "Intel",
+      "title": "Intel Foundry/PCC Semiconductor Manufacturing Student Technician – ICE Program",
+      "locations": [
+        "US, Oregon, Hillsboro, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Intel-Foundry-PCC-Semiconductor-Manufacturing-Student-Technician---ICE-Program_JR0288600",
+      "url": "https://trueinterview.io/jobs/efbbc522-f083-4b9c-8926-5b46639f19a0",
       "postedAt": "2026-10-22T00:00:00.000Z",
       "updatedAt": "2026-10-22T00:00:00.000Z"
     },
@@ -292,6 +521,33 @@
       "source": "trueinterview",
       "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---Infrastructure_JR2022783",
       "url": "https://trueinterview.io/jobs/94fe79fc-d762-4738-b839-9db0d05cfe5c",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "fe22eb71-c745-40ff-8ebf-d48d21a8189d",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, New Grad - Warp Speed",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7",
+      "url": "https://trueinterview.io/jobs/fe22eb71-c745-40ff-8ebf-d48d21a8189d",
       "postedAt": "2026-10-22T00:00:00.000Z",
       "updatedAt": "2026-10-22T00:00:00.000Z"
     },
@@ -5188,32 +5444,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Consulting-Engineer-I--Full-Time--United-States_2025887",
       "url": "https://trueinterview.io/jobs/9309d68b-e065-43c8-939b-3a2d47aac56f",
-      "postedAt": "2026-10-01T00:00:00.000Z",
-      "updatedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "id": "752205e7-747b-4c47-8b00-bf69514110e9",
-      "company": "Dell",
-      "title": "Graduate Solution Architect -Limerick Customer Solution Center - Innovation Lab",
-      "locations": [
-        "Limerick, Co. Limerick, Ireland"
-      ],
-      "cities": [],
-      "countries": [
-        "United States",
-        "Ireland"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/D12097",
-      "url": "https://trueinterview.io/jobs/752205e7-747b-4c47-8b00-bf69514110e9",
       "postedAt": "2026-10-01T00:00:00.000Z",
       "updatedAt": "2026-10-01T00:00:00.000Z"
     },
@@ -20568,6 +20798,31 @@
       "updatedAt": "2026-09-03T02:47:10.000Z"
     },
     {
+      "id": "a24f91a6-becc-4af6-a08d-bbbd233b2442",
+      "company": "Applied Materials",
+      "title": "Software Engineer, New College Grad- Master's (Chandler, AZ)",
+      "locations": [
+        "Chandler, AZ, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318344904",
+      "url": "https://trueinterview.io/jobs/a24f91a6-becc-4af6-a08d-bbbd233b2442",
+      "postedAt": "2026-09-03T00:00:00.000Z",
+      "updatedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
       "id": "3063b037-2b7b-4576-94fe-a0b9b18004d6",
       "company": "BMO",
       "title": "Machine Learning Developer (New or Recent Graduate)",
@@ -20719,6 +20974,31 @@
       "source": "trueinterview",
       "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Elgin-IL/Systems-Engineer---EEC-Si_R64858",
       "url": "https://trueinterview.io/jobs/0e268f95-9417-4f44-b4e3-2d07016f2383",
+      "postedAt": "2026-09-03T00:00:00.000Z",
+      "updatedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "f334522e-6e6c-4da9-9802-8aa7b4080a6a",
+      "company": "NXP Semiconductors",
+      "title": "Semiconductor Equipment Maintenance Technician - Cleans/EPI",
+      "locations": [
+        "Chandler (Manufacturing), United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Manufacturing/Semiconductor-Equipment-Maintenance-Technician---Cleans-EPI_R-10066548",
+      "url": "https://trueinterview.io/jobs/f334522e-6e6c-4da9-9802-8aa7b4080a6a",
       "postedAt": "2026-09-03T00:00:00.000Z",
       "updatedAt": "2026-09-03T00:00:00.000Z"
     },
@@ -25703,36 +25983,6 @@
       "url": "https://trueinterview.io/jobs/2c8e0f22-61e4-48bc-acd4-82733c6f7739",
       "postedAt": "2026-08-24T00:00:00.000Z",
       "updatedAt": "2026-08-24T00:00:00.000Z"
-    },
-    {
-      "id": "9fc16ed0-6f47-4a2c-89e1-b41c9101dd46",
-      "company": "Elevenlabs",
-      "title": "Developer Experience Engineer",
-      "locations": [
-        "London",
-        "New York"
-      ],
-      "cities": [
-        "London",
-        "New York, NY"
-      ],
-      "countries": [
-        "United Kingdom",
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/elevenlabs/d16a7ad6-ffbd-4655-8716-4872263f99ce/application",
-      "url": "https://trueinterview.io/jobs/9fc16ed0-6f47-4a2c-89e1-b41c9101dd46",
-      "postedAt": "2026-08-23T21:43:47.000Z",
-      "updatedAt": "2026-08-23T21:43:47.000Z"
     }
   ]
 }
