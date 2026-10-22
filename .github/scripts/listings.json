@@ -6,9 +6,68 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-21T23:58:06.644Z",
-  "count": 984,
+  "listingsChangedAt": "2026-10-22T10:00:02.791Z",
+  "count": 986,
   "listings": [
+    {
+      "id": "37e6d0ab-d270-407e-afe5-214c2351ca50",
+      "company": "affirm",
+      "title": "Analyst, Early Career (Full Stack)",
+      "locations": [
+        "New York, New York, United States",
+        "San Francisco, California, United States, San Francisco"
+      ],
+      "cities": [
+        "New York, NY",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/affirm/jobs/8039471003",
+      "url": "https://trueinterview.io/jobs/37e6d0ab-d270-407e-afe5-214c2351ca50",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "6cb5b48b-3ce7-4459-bf34-f99fc4ca8767",
+      "company": "anduril",
+      "title": "2027 Early Career Business Operations Associate",
+      "locations": [
+        "Costa Mesa, California, United States",
+        "Seattle, Washington, United States",
+        "Washington, District of Columbia, United States, Costa Mesa, CA (OC-00), Seattle, WA (SEA-01), Washington, DC (DC-01)"
+      ],
+      "cities": [
+        "Seattle, WA",
+        "Washington, DC"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5271811007?gh_jid=5271811007",
+      "url": "https://trueinterview.io/jobs/6cb5b48b-3ce7-4459-bf34-f99fc4ca8767",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
     {
       "id": "59b93227-8c77-4e74-82d9-e875238435d2",
       "company": "kaseya-careers",
@@ -31,6 +90,33 @@
       "source": "1point3acres",
       "applyUrl": "https://www.kaseya.com/careers/jobs/id/6231386004/?gh_jid=6231386004",
       "url": "https://trueinterview.io/jobs/59b93227-8c77-4e74-82d9-e875238435d2",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "bb3e0b36-1033-47e1-a802-970891879519",
+      "company": "mable",
+      "title": "Graduate Engineer",
+      "locations": [
+        "Melbourne, Brisbane, Sydney"
+      ],
+      "cities": [
+        "Melbourne"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/mable/585571a3-6888-4f62-aaf7-9f2adf50eb51/apply",
+      "url": "https://trueinterview.io/jobs/bb3e0b36-1033-47e1-a802-970891879519",
       "postedAt": "2026-10-22T00:00:00.000Z",
       "updatedAt": "2026-10-22T00:00:00.000Z"
     },
@@ -20678,32 +20764,6 @@
       "source": "trueinterview",
       "applyUrl": "https://www.jobbank.gc.ca/jobsearch/jobposting/50214646",
       "url": "https://trueinterview.io/jobs/30ca2631-09fe-4bee-b890-95b0c9c7dbc3",
-      "postedAt": "2026-09-03T00:00:00.000Z",
-      "updatedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "8d879ce8-ceae-4420-89d8-d8cfe03b3b67",
-      "company": "Intel",
-      "title": "GPU Software Development Engineer",
-      "locations": [
-        "US, California, Folsom",
-        "US, California, Folsom, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0283073",
-      "url": "https://trueinterview.io/jobs/8d879ce8-ceae-4420-89d8-d8cfe03b3b67",
       "postedAt": "2026-09-03T00:00:00.000Z",
       "updatedAt": "2026-09-03T00:00:00.000Z"
     },

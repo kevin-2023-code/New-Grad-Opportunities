@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**148 open roles.** 111 in the United States & Canada · 37 elsewhere in the world.
+**147 open roles.** 110 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -631,13 +631,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5f1dfd94-ddf7-4466-a913-cc2ddc51eed1">Software Engineer - Collision Avoidance System Metrics</a></td>
 <td>Boston, MA<br/>Foster City, CA<br/>San Diego, CA</td>
 <td align="center"><a href="https://jobs.lever.co/zoox/d5d0608a-aa33-43c3-abe2-5ff8b40028d5/apply">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d879ce8-ceae-4420-89d8-d8cfe03b3b67">GPU Software Development Engineer</a></td>
-<td>US, California, Folsom, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0283073">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>

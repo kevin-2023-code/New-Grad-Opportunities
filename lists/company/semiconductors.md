@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**143 open roles.** 138 in the United States & Canada · 5 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**142 open roles.** 137 in the United States & Canada · 5 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -834,13 +834,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/32dd0189-0e6e-4809-a5cb-27110edd27bb">Software Engineer  (new college grad Dec 2026)</a></td>
 <td>San Jose, CA<br/>SAN JOSE, United States of America</td>
 <td align="center"><a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d879ce8-ceae-4420-89d8-d8cfe03b3b67">GPU Software Development Engineer</a></td>
-<td>US, California, Folsom, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Software-Development-Engineer_JR0283073">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
