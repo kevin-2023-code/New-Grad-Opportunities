@@ -6,9 +6,9 @@ Every cut of the New Grad Opportunities list that has a page of its own. Each on
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-10-22 10:00 UTC_
+_Last updated: 2026-10-22 15:09 UTC_
 
-> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 298 of the 520 employers on this list (73% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
+> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 299 of the 521 employers on this list (73% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
@@ -32,7 +32,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [💻 Software Engineering](field/software-engineering.md) | 252 | 117 |
+| [💻 Software Engineering](field/software-engineering.md) | 252 | 119 |
 | [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 273 | 23 |
 | [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 95 | 63 |
 | [🧰 IT & Support](field/it-and-support.md) | 82 | 27 |
@@ -45,13 +45,13 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 24 filters hold **715 of the 986** new-grad roles on this list (73%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 24 filters hold **717 of the 988** new-grad roles on this list (73%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🏛️ Big Tech](company/big-tech.md) | 214 | 19 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
+| [🏛️ Big Tech](company/big-tech.md) | 214 | 20 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
 | [🔬 Semiconductors & chips](company/semiconductors.md) | 137 | 5 | Every employer the company registry files under Semiconductors & chips, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🏗️ Large tech (1,000–9,999)](company/large-tech.md) | 64 | 17 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 1,000 and 9,999 people. An employer the registry does not cover is in no size cut at all. |
+| [🏗️ Large tech (1,000–9,999)](company/large-tech.md) | 64 | 18 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 1,000 and 9,999 people. An employer the registry does not cover is in no size cut at all. |
 | [🖥️ Hardware, devices & networking](company/hardware-devices.md) | 68 | 8 | Every employer the company registry files under Hardware, devices & networking, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🧾 IT services & consulting](company/it-consulting.md) | 36 | 28 | Every employer the company registry files under IT services & consulting, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🚀 Aerospace & defence](company/aerospace-defense.md) | 56 | 5 | Every employer the company registry files under Aerospace & defence, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
@@ -61,8 +61,8 @@ _Between them these 24 filters hold **715 of the 986** new-grad roles on this li
 | [📐 Engineering & architecture firms](company/engineering-services.md) | 37 | 7 | Every employer the company registry files under Engineering & architecture firms, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🚗 Autonomy, automotive & mobility](company/autonomy-mobility.md) | 31 | 8 | Every employer the company registry files under Autonomy, automotive & mobility, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🌱 Startups (under 200)](company/startups.md) | 29 | 9 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as fewer than 200 people. An employer the registry does not cover is in no size cut at all. |
-| [☁️ Developer tools, cloud & data infrastructure](company/dev-infra.md) | 21 | 9 | Every employer the company registry files under Developer tools, cloud & data infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [💳 Fintech, payments & crypto](company/fintech.md) | 17 | 13 | Every employer the company registry files under Fintech, payments & crypto, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [☁️ Developer tools, cloud & data infrastructure](company/dev-infra.md) | 21 | 10 | Every employer the company registry files under Developer tools, cloud & data infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [💳 Fintech, payments & crypto](company/fintech.md) | 17 | 14 | Every employer the company registry files under Fintech, payments & crypto, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🏦 Banks, insurers & asset managers](company/banking-finance.md) | 9 | 17 | Every employer the company registry files under Banks, insurers & asset managers, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🛒 E-commerce & marketplaces](company/ecommerce-marketplace.md) | 12 | 9 | Every employer the company registry files under E-commerce & marketplaces, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [💼 Other industries](company/other-industry.md) | 10 | 11 | Every employer the company registry files under Other industries, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
@@ -80,18 +80,18 @@ _Between them these 24 filters hold **715 of the 986** new-grad roles on this li
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 17 filters hold **461 of the 986** new-grad roles on this list (47%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 17 filters hold **463 of the 988** new-grad roles on this list (47%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [Software Engineer](role/software-engineer.md) | 110 | 37 |
+| [Software Engineer](role/software-engineer.md) | 110 | 38 |
 | [Hardware Engineer](role/hardware-engineer.md) | 49 | 1 |
 | [AI Engineer](role/ai-engineer.md) | 15 | 14 |
 | [Data Analyst](role/data-analyst.md) | 13 | 16 |
 | [Machine Learning Engineer](role/machine-learning-engineer.md) | 19 | 8 |
-| [Security Engineer](role/security-engineer.md) | 19 | 7 |
+| [Security Engineer](role/security-engineer.md) | 19 | 8 |
 | [Backend Engineer](role/backend-engineer.md) | 10 | 11 |
 | [Data Scientist](role/data-scientist.md) | 12 | 9 |
 | [Full-Stack Engineer](role/full-stack-engineer.md) | 14 | 7 |
@@ -110,7 +110,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 26 filters hold **608 of the 986** new-grad roles on this list (62%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 26 filters hold **608 of the 988** new-grad roles on this list (62%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -147,12 +147,12 @@ _Between them these 26 filters hold **608 of the 986** new-grad roles on this li
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **158 of the 986** new-grad roles on this list (16%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **160 of the 988** new-grad roles on this list (16%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
 | [🌐 Remote](remote.md) | 64 | 33 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 58 | 8 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 58 | 10 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 
 ---
 

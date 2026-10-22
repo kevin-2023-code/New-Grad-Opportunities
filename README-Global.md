@@ -18,13 +18,13 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-22 10:00 UTC_
+_Last updated: 2026-10-22 15:09 UTC_
 
-**244 open new-grad roles** from **184 employers** · **8 posted in the last 7 days** · refreshed hourly
+**246 open new-grad roles** from **185 employers** · **10 posted in the last 7 days** · refreshed hourly
 
-### Browse 244 new-grad roles by field
+### Browse 246 new-grad roles by field
 
-💻 **[Software Engineering](#-software-engineering)** (117)
+💻 **[Software Engineering](#-software-engineering)** (119)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (63)
 
@@ -42,13 +42,13 @@ _Last updated: 2026-10-22 10:00 UTC_
 
 _Counts are new-grad roles in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🧾 IT services & consulting (28)](lists/company/it-consulting.md) · [🏛️ Big Tech (19)](lists/company/big-tech.md) · [🏦 Banks, insurers & asset managers (17)](lists/company/banking-finance.md) · [🏗️ Large tech (1,000–9,999) (17)](lists/company/large-tech.md) · [🏢 Enterprise & business software (14)](lists/company/enterprise-saas.md) · [💳 Fintech, payments & crypto (13)](lists/company/fintech.md) · [🏤 Mid-sized tech (200–999) (13)](lists/company/mid-size-tech.md) · [💼 Other industries (11)](lists/company/other-industry.md) · [☁️ Developer tools, cloud & data infrastructure (9)](lists/company/dev-infra.md) · [🛒 E-commerce & marketplaces (9)](lists/company/ecommerce-marketplace.md) · [+11 more →](lists/README.md)
+🏷️ **By company type** — [🧾 IT services & consulting (28)](lists/company/it-consulting.md) · [🏛️ Big Tech (20)](lists/company/big-tech.md) · [🏗️ Large tech (1,000–9,999) (18)](lists/company/large-tech.md) · [🏦 Banks, insurers & asset managers (17)](lists/company/banking-finance.md) · [🏢 Enterprise & business software (14)](lists/company/enterprise-saas.md) · [💳 Fintech, payments & crypto (14)](lists/company/fintech.md) · [🏤 Mid-sized tech (200–999) (13)](lists/company/mid-size-tech.md) · [💼 Other industries (11)](lists/company/other-industry.md) · [☁️ Developer tools, cloud & data infrastructure (10)](lists/company/dev-infra.md) · [🛒 E-commerce & marketplaces (9)](lists/company/ecommerce-marketplace.md) · [+11 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (37)](lists/role/software-engineer.md) · [Data Analyst (16)](lists/role/data-analyst.md) · [AI Engineer (14)](lists/role/ai-engineer.md) · [Backend Engineer (11)](lists/role/backend-engineer.md) · [Data Scientist (9)](lists/role/data-scientist.md) · [Machine Learning Engineer (8)](lists/role/machine-learning-engineer.md) · [Full-Stack Engineer (7)](lists/role/full-stack-engineer.md) · [Security Engineer (7)](lists/role/security-engineer.md) · [Data Engineer (6)](lists/role/data-engineer.md) · [Platform Engineer (6)](lists/role/platform-engineer.md) · [+6 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (38)](lists/role/software-engineer.md) · [Data Analyst (16)](lists/role/data-analyst.md) · [AI Engineer (14)](lists/role/ai-engineer.md) · [Backend Engineer (11)](lists/role/backend-engineer.md) · [Data Scientist (9)](lists/role/data-scientist.md) · [Machine Learning Engineer (8)](lists/role/machine-learning-engineer.md) · [Security Engineer (8)](lists/role/security-engineer.md) · [Full-Stack Engineer (7)](lists/role/full-stack-engineer.md) · [Data Engineer (6)](lists/role/data-engineer.md) · [Platform Engineer (6)](lists/role/platform-engineer.md) · [+6 more →](lists/README.md)
 
 📍 **By location** — [🌎 México, Brazil & Latin America (27)](lists/place/latam.md) · [🇬🇧 London & the UK (21)](lists/place/uk.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (11)](lists/place/anz.md) · [🇮🇳 Bengaluru & India (10)](lists/place/india.md) · [🇩🇪 Berlin, Munich & Germany (8)](lists/place/germany.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (5)](lists/place/greater-china.md) · [🏰 Warsaw, Kraków & Central Europe (5)](lists/place/poland-cee.md) · [🇪🇸 Madrid, Barcelona & Iberia (3)](lists/place/iberia.md)
 
-⚡ **Quick filters** — [🌐 Remote (33)](lists/remote.md) · [🆕 Posted in the last 7 days (8)](lists/new-this-week.md)
+⚡ **Quick filters** — [🌐 Remote (33)](lists/remote.md) · [🆕 Posted in the last 7 days (10)](lists/new-this-week.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -71,6 +71,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Canonical</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b850b13-be84-4f11-92d0-9610f9803777">Ubuntu Security Engineer</a> 🆕</td>
+<td>Worldwide</td>
+<td align="center"><a href="https://jobspresso.co/job/ubuntu-security-engineer/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>FIS Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e388dcd-f8bc-4f0a-81c5-79131095a755">Python Developer</a> 🆕</td>
+<td>IND NOID C-25 SEC-62 TWR 1</td>
+<td align="center"><a href="https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-NOID-C-25-SEC-62-TWR-1/Python-Developer_JR0308903">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Mable</strong></td>
 <td><a href="https://trueinterview.io/jobs/bb3e0b36-1033-47e1-a802-970891879519">Graduate Engineer</a> 🆕</td>
@@ -563,7 +577,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 68 of 117.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 70 of 119.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
