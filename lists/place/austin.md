@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**37 open roles.**
+**40 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Stanley Consultants</strong></td>
+<td><a href="https://trueinterview.io/jobs/f19ed275-c61f-40a4-bf09-f1c470a62f91">Water/Wastewater Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://jobs.lever.co/stanleygroup/16bab131-d293-4017-9db5-ed0adb2ed566/apply">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/42ba19e0-f56f-43a6-b876-ac34d03065c5">Firmware Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/93710?lang=en-us">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Samsung</strong></td>
+<td><a href="https://trueinterview.io/jobs/76289cf1-f448-4259-ae6f-086f6e73b0cb">GCS Gas Equipment Engineer</a></td>
+<td>12100 Samsung Blvd, Austin, TX, USA, United States of America</td>
+<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/GCS-Gas-Equipment-Engineer_R119418">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/5fdca038-b4eb-4a90-bc22-26c1acd0fdbb">System Design Engineer</a></td>

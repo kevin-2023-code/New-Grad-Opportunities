@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**373 open roles.** 253 in the United States & Canada · 120 elsewhere in the world.
+**387 open roles.** 268 in the United States & Canada · 119 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,90 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Etched</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3333261-4416-4887-ba05-f4c9302fdf4f">PCBA DFM Engineer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/etched/1daa29cf-e8f1-4e35-aea5-77f2e67ba89b/application">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fivetran</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa95463f-edc3-47c0-addf-5fe48f38a729">Software Engineer I</a></td>
+<td>Toronto, Ontario, Canada, CAN - Toronto</td>
+<td align="center"><a href="https://www.fivetran.com/careers/job?gh_jid=8028409003">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ford</strong></td>
+<td><a href="https://trueinterview.io/jobs/8eafd439-4e50-45e8-b12e-4b9ca33d72d0">Product Development Engineer-Dimensional Systems</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72738">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/7dc052d7-c665-4956-99fa-0a6c8ae050ab">Manufacturing Test Engineer</a></td>
+<td>Somerville, MA, Somerville, Massachusetts</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8318822/apply/?gh_jid=8318822">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jane</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0b5f5e7-d712-40a3-bead-f7c1d705375f">Cloud Security Engineer</a></td>
+<td>Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/jane/cc34381e-2d4c-469a-a472-7e9d24e83578/application">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mirage</strong></td>
+<td><a href="https://trueinterview.io/jobs/9662896d-33bf-4c62-b466-c047c5e78c44">Software Engineer, 3D Rendering</a></td>
+<td>Union Square, New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mirage/6fc84af9-2c9f-4814-88b3-9f60afd924a5/application">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Naughty Dog</strong></td>
+<td><a href="https://trueinterview.io/jobs/0388e283-ea53-45b6-bf18-ff8d1f1afb20">Animation Assistant</a></td>
+<td>United States, Santa Monica, CA, USA-CA-Santa Monica</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/naughtydog/jobs/6232192004">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Onebrief</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ca4e9df-3397-4e44-8cee-74903936e5c0">Platform Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/onebrief/37b29b15-09e4-41fb-90ef-848d00f00f25/application">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/81ccc9c9-a916-42a0-82e6-4570214632b5">Full Stack Software Engineer, Monetization Platform</a></td>
+<td>San Francisco, CA<br/>San Francisco, New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/191e42f8-cd62-4082-8f72-505c26505e67/application">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9fbcb7ee-e07b-4cdb-b9bc-dc5b2bde5b2e">IT Systems Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/b73e46a6-881a-4413-835a-94b9d5f35d2f/application">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Roblox</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2f05c28-f8df-400c-9f13-38c3ddd077e0">Software Engineer, Notifications</a></td>
+<td>San Mateo, CA, United States, San Mateo, CA</td>
+<td align="center"><a href="https://careers.roblox.com/jobs/8261393?gh_jid=8261393">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Stanley Consultants</strong></td>
+<td><a href="https://trueinterview.io/jobs/f19ed275-c61f-40a4-bf09-f1c470a62f91">Water/Wastewater Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://jobs.lever.co/stanleygroup/16bab131-d293-4017-9db5-ed0adb2ed566/apply">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Agile Defense</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7ecbd82-0e82-4357-9d82-1e17981a9f29">Data Engineer - DC</a></td>
 <td>Washington, DC<br/>Washington, D.C.</td>
@@ -25,10 +109,45 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/42ba19e0-f56f-43a6-b876-ac34d03065c5">Firmware Engineer</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/93710?lang=en-us">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/54ffc37d-5af7-4654-acd3-aebd7864a497">Virtualization Engineer</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/93796?lang=en-us">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/24d3bbfb-425f-4ac1-bdb3-5b64fe05a6e8">Oregon Advanced Packaging Module Engineer - Laser</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Oregon-Advanced-Packaging-Module-Engineer---Laser_JR0288378">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/598e6f18-7a83-4185-89ce-9e3f495e34e9">Android Applications Developer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer_R68135">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Palantir</strong></td>
 <td><a href="https://trueinterview.io/jobs/fe22eb71-c745-40ff-8ebf-d48d21a8189d">Forward Deployed Software Engineer, New Grad - Warp Speed</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Samsung</strong></td>
+<td><a href="https://trueinterview.io/jobs/76289cf1-f448-4259-ae6f-086f6e73b0cb">GCS Gas Equipment Engineer</a></td>
+<td>12100 Samsung Blvd, Austin, TX, USA, United States of America</td>
+<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/GCS-Gas-Equipment-Engineer_R119418">Apply</a></td>
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
@@ -128,13 +247,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893398237264">Apply</a></td>
 <td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/66947f7e-43e3-4818-b711-12d2589425e9">Systems Development Engineer, Early Career – 2026 (US)</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us">Apply</a></td>
-<td align="center">17 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Celonis</strong></td>
@@ -792,6 +904,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f2679ccd-c966-482e-9af4-8f6a0ed0679c">Software Engineer 1, Platform</a></td>
 <td>San Francisco Office - Hybrid</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sydecar/79847304-2735-47ce-ae04-237c8957982a/application">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/98b900d5-e617-4859-a774-dc14af69a3a3">Quality Assurance Engineer – Cloud, UI &amp; API Automation</a></td>
+<td>San Jose, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Quality-Assurance-Engineer---Cloud--UI---API-Automation_1213672-2">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -1774,20 +1893,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Product-Install-Engineer---SWIFT---Extensive-90----Travel-Required_2638796">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Capco</strong></td>
-<td><a href="https://trueinterview.io/jobs/8539a2a3-8b0b-4b42-afe5-c1a6265d4650">Associate Talent Program</a> 🛂</td>
-<td>US - Dallas<br/>Dallas, TX</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8152949">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Factory</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e4bc3c2-ab43-40a9-9e92-456eeea1022e">Technical Support Engineer - US - Remote</a></td>
-<td>San Francisco, CA<br/>London, UK</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/factory/fa8c6db5-7dbf-4366-aa64-88a6608895cd/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2632,13 +2737,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/buena/944621a6-2154-4c8f-9f6a-efd8f0000ac1/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cursor</strong></td>
-<td><a href="https://trueinterview.io/jobs/697215d7-57ab-44b9-8d92-9820060141a2">Software Engineer, User Operations</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cursor/1d6dbbb2-a5af-41a6-a70a-ca97690d9313/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

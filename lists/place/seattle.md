@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**33 open roles.**
+**32 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, Washington, United States<br/>Washington, District of Columbia, United States, Costa Mesa, CA (OC-00), Seattle, WA (SEA-01), Washington, DC<br/>Washington, DC<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5271811007?gh_jid=5271811007">Apply</a></td>
 <td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/66947f7e-43e3-4818-b711-12d2589425e9">Systems Development Engineer, Early Career – 2026 (US)</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us">Apply</a></td>
-<td align="center">17 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Salesforce</strong></td>

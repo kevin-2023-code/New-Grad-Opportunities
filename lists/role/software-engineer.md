@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**151 open roles.** 113 in the United States & Canada · 38 elsewhere in the world.
+**153 open roles.** 116 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Fivetran</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa95463f-edc3-47c0-addf-5fe48f38a729">Software Engineer I</a></td>
+<td>Toronto, Ontario, Canada, CAN - Toronto</td>
+<td align="center"><a href="https://www.fivetran.com/careers/job?gh_jid=8028409003">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mirage</strong></td>
+<td><a href="https://trueinterview.io/jobs/9662896d-33bf-4c62-b466-c047c5e78c44">Software Engineer, 3D Rendering</a></td>
+<td>Union Square, New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mirage/6fc84af9-2c9f-4814-88b3-9f60afd924a5/application">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Roblox</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2f05c28-f8df-400c-9f13-38c3ddd077e0">Software Engineer, Notifications</a></td>
+<td>San Mateo, CA, United States, San Mateo, CA</td>
+<td align="center"><a href="https://careers.roblox.com/jobs/8261393?gh_jid=8261393">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Palantir</strong></td>
 <td><a href="https://trueinterview.io/jobs/fe22eb71-c745-40ff-8ebf-d48d21a8189d">Forward Deployed Software Engineer, New Grad - Warp Speed</a></td>
@@ -1078,13 +1099,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>EMEA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/percona/8982df92-5be8-47db-9a6f-1b5b657cfda5/application">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Cursor</strong></td>
-<td><a href="https://trueinterview.io/jobs/697215d7-57ab-44b9-8d92-9820060141a2">Software Engineer, User Operations</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cursor/1d6dbbb2-a5af-41a6-a70a-ca97690d9313/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

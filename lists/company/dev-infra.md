@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**31 open roles.** 21 in the United States & Canada · 10 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**32 open roles.** 21 in the United States & Canada · 11 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -178,6 +178,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Canonical</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1b31a0c-1270-4e47-aeae-bc0b73022841">Linux Desktop Support Engineer (London UK office)</a></td>
+<td>Office Based - London, UK</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/canonical/jobs/8318647">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0b850b13-be84-4f11-92d0-9610f9803777">Ubuntu Security Engineer</a></td>
 <td>Worldwide</td>
 <td align="center"><a href="https://jobspresso.co/job/ubuntu-security-engineer/">Apply</a></td>
