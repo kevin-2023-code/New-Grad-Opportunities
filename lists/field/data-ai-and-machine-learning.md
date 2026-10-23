@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**161 open roles.** 98 in the United States & Canada · 63 elsewhere in the world.
+**158 open roles.** 98 in the United States & Canada · 60 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1134,27 +1134,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City</td>
 <td align="center"><a href="https://www.monks.com/careers/6162594004/job?gh_jid=6162594004">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Orion Innovation</strong></td>
-<td><a href="https://trueinterview.io/jobs/4cf20a5b-f127-484a-9cd9-83cd4552228c">206238 - ETL/Data Engineer</a></td>
-<td>Mexico City, Mexico City, Mexico<br/>Mexico, Mexico</td>
-<td align="center"><a href="https://www.orioninc.com/careers/job/?gh_jid=4706843006">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hexa</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d8242d0-09af-4a07-9507-10f44f4f313f">AI Applied Researcher</a></td>
-<td>Paris</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hexa/8ab7f165-f414-49ab-875e-1442ebd43d5d/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Docplanner</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e46f918-cd1a-4778-a91b-c881fd676bb1">Data Annotation Specialist</a></td>
-<td>Warsaw<br/>Barcelona<br/>Spain</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/docplanner/daf94ce2-89e1-4eda-9c47-d0122310141d/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

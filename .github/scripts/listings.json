@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-23T09:54:34.194Z",
-  "count": 990,
+  "listingsChangedAt": "2026-10-23T19:03:14.579Z",
+  "count": 982,
   "listings": [
     {
       "id": "0840d491-52bd-43c8-9bf8-8eab28e7c8ad",
@@ -158,6 +158,31 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.lever.co/agile-defense/f62d2e45-63d8-47f6-a508-b8a996525633/apply",
       "url": "https://trueinterview.io/jobs/f2a5daac-4339-49f9-b330-3346a57efaa1",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "163de7ed-465f-46ae-8062-ae095ee778a4",
+      "company": "Analog Devices",
+      "title": "Associate Field Sales Engineer",
+      "locations": [
+        "US, MI, Livonia, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MI-Livonia/Associate-Field-Sales-Engineer_R266933",
+      "url": "https://trueinterview.io/jobs/163de7ed-465f-46ae-8062-ae095ee778a4",
       "postedAt": "2026-10-23T00:00:00.000Z",
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
@@ -5949,31 +5974,6 @@
       "updatedAt": "2026-09-30T00:00:00.000Z"
     },
     {
-      "id": "2c97111c-7ca6-45e5-91a3-ef91cf8bf8a2",
-      "company": "Palo Alto Networks",
-      "title": "Account Executive - Federal",
-      "locations": [
-        "Arlington, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Arlington-United-States-of-America/Account-Executive---Federal_JR-022964-1",
-      "url": "https://trueinterview.io/jobs/2c97111c-7ca6-45e5-91a3-ef91cf8bf8a2",
-      "postedAt": "2026-09-30T00:00:00.000Z",
-      "updatedAt": "2026-09-30T00:00:00.000Z"
-    },
-    {
       "id": "28102c38-bd94-49e2-956f-d5c2df0573b4",
       "company": "Macquarie Technology Group",
       "title": "Graduate Program: Networking, Operations and Cyber",
@@ -7655,31 +7655,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.infineon.com/careers/job/563808972068062",
       "url": "https://trueinterview.io/jobs/83d380bf-c6c9-4ba7-99d4-b5b9747b8d7b",
-      "postedAt": "2026-09-25T00:00:00.000Z",
-      "updatedAt": "2026-09-25T00:00:00.000Z"
-    },
-    {
-      "id": "40f0cccb-a235-4a04-ba39-dd9db52ad99f",
-      "company": "Intel",
-      "title": "NM HOP Sort Contract Module Equipment Technician",
-      "locations": [
-        "US, New Mexico, Albuquerque, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/NM-HOP-Sort-Contract-Module-Equipment-Technician_JR0287468",
-      "url": "https://trueinterview.io/jobs/40f0cccb-a235-4a04-ba39-dd9db52ad99f",
       "postedAt": "2026-09-25T00:00:00.000Z",
       "updatedAt": "2026-09-25T00:00:00.000Z"
     },
@@ -13672,32 +13647,6 @@
       "updatedAt": "2026-09-16T00:00:00.000Z"
     },
     {
-      "id": "87b7b592-7121-40d0-98a3-22d1713ac439",
-      "company": "Intel",
-      "title": "Back End( BE) Process Integration Engineer",
-      "locations": [
-        "US, Oregon, Hillsboro",
-        "US, Oregon, Hillsboro, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Backend Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "trueinterview",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Back-End--BE--Process-Integration-Engineer_JR0286141",
-      "url": "https://trueinterview.io/jobs/87b7b592-7121-40d0-98a3-22d1713ac439",
-      "postedAt": "2026-09-16T00:00:00.000Z",
-      "updatedAt": "2026-09-16T00:00:00.000Z"
-    },
-    {
       "id": "2e98892f-7934-419d-8371-b8c85e1fb0e3",
       "company": "Magna International",
       "title": "IT Systems Engineer, Platform Management (m/w/x)",
@@ -17131,31 +17080,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.garmin.com/jobs/20128?lang=en-us",
       "url": "https://trueinterview.io/jobs/66ef1cae-68d2-465c-83b2-656be8b96acc",
-      "postedAt": "2026-09-10T00:00:00.000Z",
-      "updatedAt": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "id": "7bea63d6-a3e0-4112-a0bf-8377332a7fb9",
-      "company": "Micron Technology",
-      "title": "New College Grad - Ram Quality Engineer",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44281020",
-      "url": "https://trueinterview.io/jobs/7bea63d6-a3e0-4112-a0bf-8377332a7fb9",
       "postedAt": "2026-09-10T00:00:00.000Z",
       "updatedAt": "2026-09-10T00:00:00.000Z"
     },
@@ -25798,144 +25722,6 @@
       "url": "https://trueinterview.io/jobs/6e4bc3c2-ab43-40a9-9e92-456eeea1022e",
       "postedAt": "2026-08-24T19:18:33.000Z",
       "updatedAt": "2026-08-24T19:18:33.000Z"
-    },
-    {
-      "id": "4cf20a5b-f127-484a-9cd9-83cd4552228c",
-      "company": "Orion Innovation",
-      "title": "206238 - ETL/Data Engineer",
-      "locations": [
-        "Mexico City, Mexico City, Mexico",
-        "Mexico, Mexico",
-        "Mexico"
-      ],
-      "cities": [
-        "Mexico City"
-      ],
-      "countries": [
-        "Mexico"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.orioninc.com/careers/job/?gh_jid=4706843006",
-      "url": "https://trueinterview.io/jobs/4cf20a5b-f127-484a-9cd9-83cd4552228c",
-      "postedAt": "2026-08-24T18:56:22.000Z",
-      "updatedAt": "2026-08-24T18:56:22.000Z"
-    },
-    {
-      "id": "9d8242d0-09af-4a07-9507-10f44f4f313f",
-      "company": "Hexa",
-      "title": "AI Applied Researcher",
-      "locations": [
-        "Paris"
-      ],
-      "cities": [
-        "Paris"
-      ],
-      "countries": [
-        "France"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/hexa/8ab7f165-f414-49ab-875e-1442ebd43d5d/application",
-      "url": "https://trueinterview.io/jobs/9d8242d0-09af-4a07-9507-10f44f4f313f",
-      "postedAt": "2026-08-24T16:43:11.000Z",
-      "updatedAt": "2026-08-24T16:43:11.000Z"
-    },
-    {
-      "id": "2e46f918-cd1a-4778-a91b-c881fd676bb1",
-      "company": "Docplanner",
-      "title": "Data Annotation Specialist",
-      "locations": [
-        "Spain",
-        "Warsaw",
-        "Barcelona"
-      ],
-      "cities": [
-        "Warsaw",
-        "Barcelona"
-      ],
-      "countries": [
-        "Spain",
-        "Poland"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/docplanner/daf94ce2-89e1-4eda-9c47-d0122310141d/application",
-      "url": "https://trueinterview.io/jobs/2e46f918-cd1a-4778-a91b-c881fd676bb1",
-      "postedAt": "2026-08-24T16:32:46.000Z",
-      "updatedAt": "2026-08-24T16:32:46.000Z"
-    },
-    {
-      "id": "9d9f2a8d-fc8b-4876-8493-6bc77d00de5c",
-      "company": "Capco",
-      "title": "Capco Associate Talent Program - Houston June 2027",
-      "locations": [
-        "US - Dallas",
-        "US - Houston"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/capco/jobs/8108842",
-      "url": "https://trueinterview.io/jobs/9d9f2a8d-fc8b-4876-8493-6bc77d00de5c",
-      "postedAt": "2026-08-24T16:03:29.000Z",
-      "updatedAt": "2026-08-24T16:03:29.000Z"
-    },
-    {
-      "id": "1129397c-3f7e-426d-9e9c-89c6c11dff37",
-      "company": "Capco",
-      "title": "Capco Associate Talent Program - Dallas June 2027",
-      "locations": [
-        "US - Dallas"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/capco/jobs/8108838",
-      "url": "https://trueinterview.io/jobs/1129397c-3f7e-426d-9e9c-89c6c11dff37",
-      "postedAt": "2026-08-24T16:03:15.000Z",
-      "updatedAt": "2026-08-24T16:03:15.000Z"
     }
   ]
 }

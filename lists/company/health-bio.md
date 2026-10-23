@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**16 open roles.** 12 in the United States & Canada · 4 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**15 open roles.** 12 in the United States & Canada · 3 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -133,13 +133,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexicali, MEXICO, Mexico</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000147338408-engineering-technician?oga=true">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Docplanner</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e46f918-cd1a-4778-a91b-c881fd676bb1">Data Annotation Specialist</a></td>
-<td>Warsaw<br/>Barcelona<br/>Spain</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/docplanner/daf94ce2-89e1-4eda-9c47-d0122310141d/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>
