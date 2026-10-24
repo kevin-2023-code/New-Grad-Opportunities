@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**14 open roles.** Social, search, streaming, messaging and consumer subscription apps.
+**15 open roles.** Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Reddit</strong></td>
+<td><a href="https://trueinterview.io/jobs/076c3072-2dc1-45a3-8b6d-346880545a53">Software Engineer, Ad Signals</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/reddit/jobs/8319655">Apply</a></td>
+<td align="center">25 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Duolingo</strong></td>
 <td><a href="https://trueinterview.io/jobs/825eeed8-be5d-4a07-9e6c-550ef99ee597">AI Research Engineer, New PhD Graduate</a></td>
