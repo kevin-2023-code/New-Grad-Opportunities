@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**88 open roles.** 68 in the United States & Canada · 20 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**82 open roles.** 65 in the United States & Canada · 17 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,27 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/81ccc9c9-a916-42a0-82e6-4570214632b5">Full Stack Software Engineer, Monetization Platform</a></td>
-<td>San Francisco, CA<br/>San Francisco, New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/191e42f8-cd62-4082-8f72-505c26505e67/application">Apply</a></td>
-<td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9fbcb7ee-e07b-4cdb-b9bc-dc5b2bde5b2e">IT Systems Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/b73e46a6-881a-4413-835a-94b9d5f35d2f/application">Apply</a></td>
-<td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Roblox</strong></td>
-<td><a href="https://trueinterview.io/jobs/d2f05c28-f8df-400c-9f13-38c3ddd077e0">Software Engineer, Notifications</a></td>
-<td>San Mateo, CA, United States, San Mateo, CA</td>
-<td align="center"><a href="https://careers.roblox.com/jobs/8261393?gh_jid=8261393">Apply</a></td>
-<td align="center">24 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Arista</strong></td>
 <td><a href="https://trueinterview.io/jobs/939e89a4-d842-481e-8a2b-54a75e72828c">Thermal Test Engineer</a></td>
@@ -505,27 +484,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>C6 Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/ebf79048-aeb8-429a-8a71-83bb8033e7b8">Analista de Business Intelligence Pleno | Parcerias &amp; Fidelidade</a></td>
-<td>São Paulo, Brazil, C6 Bank</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4746116005">Apply</a></td>
-<td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Canonical</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1b31a0c-1270-4e47-aeae-bc0b73022841">Linux Desktop Support Engineer (London UK office)</a></td>
-<td>Office Based - London, UK</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/canonical/jobs/8318647">Apply</a></td>
-<td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Spotify</strong></td>
-<td><a href="https://trueinterview.io/jobs/91b689c0-6dc0-4a2c-bf63-ace259fdbebb">Machine Learning Engineer - Subscriptions</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.lever.co/spotify/19c12e29-b6d4-4d97-9053-48238fb7c381/apply">Apply</a></td>
-<td align="center">24 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Canonical</strong></td>
 <td><a href="https://trueinterview.io/jobs/0b850b13-be84-4f11-92d0-9610f9803777">Ubuntu Security Engineer</a></td>

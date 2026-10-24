@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**26 open roles.** 18 in the United States & Canada · 8 elsewhere in the world.
+**25 open roles.** 17 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Jane</strong></td>
-<td><a href="https://trueinterview.io/jobs/a0b5f5e7-d712-40a3-bead-f7c1d705375f">Cloud Security Engineer</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/jane/cc34381e-2d4c-469a-a472-7e9d24e83578/application">Apply</a></td>
-<td align="center">24 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Computer World Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/e37c8e09-96eb-4ede-a4e2-cb26a1a5f5a9">Network Operations Center Technician I - Monitoring Cell (Sensor)</a></td>
