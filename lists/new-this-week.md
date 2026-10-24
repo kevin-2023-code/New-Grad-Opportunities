@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**72 open roles.** 59 in the United States & Canada · 13 elsewhere in the world. Everything the employers put up this week.
+**70 open roles.** 58 in the United States & Canada · 12 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Reddit</strong></td>
-<td><a href="https://trueinterview.io/jobs/076c3072-2dc1-45a3-8b6d-346880545a53">Software Engineer, Ad Signals</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/reddit/jobs/8319655">Apply</a></td>
-<td align="center">25 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Anduril</strong></td>
 <td><a href="https://trueinterview.io/jobs/2c394370-d0f6-4cae-babe-04201d127dfb">2027 New Grad Low Observables Engineer</a></td>
@@ -442,13 +435,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Stone</strong></td>
-<td><a href="https://trueinterview.io/jobs/17ea70be-f068-42d2-837b-e53971487e43">SOFTWARE ENGINEER GO PLENO</a></td>
-<td>Remoto, STONE - TECH</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/stone/jobs/8041720003">Apply</a></td>
-<td align="center">25 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>1global</strong></td>
 <td><a href="https://trueinterview.io/jobs/bee691ad-7fef-4fd9-ab14-d10142052c71">Fulfilment Specialist</a></td>
