@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**71 open roles.** 59 in the United States & Canada · 12 elsewhere in the world. Everything the employers put up this week.
+**70 open roles.** 58 in the United States & Canada · 12 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -22,13 +22,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2c394370-d0f6-4cae-babe-04201d127dfb">2027 New Grad Low Observables Engineer</a></td>
 <td>Costa Mesa, California, United States, Costa Mesa, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5269789007?gh_jid=5269789007">Apply</a></td>
-<td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>LaunchDarkly</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb603ca0-80c4-4980-a289-fffa6b536205">Backend Software Engineer, SDK</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobspresso.co/job/backend-software-engineer-sdk/">Apply</a></td>
 <td align="center">24 Oct 2026</td>
 </tr>
 <tr>

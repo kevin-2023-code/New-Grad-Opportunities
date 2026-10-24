@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-24T09:24:16.212Z",
-  "count": 979,
+  "listingsChangedAt": "2026-10-24T13:56:00.547Z",
+  "count": 978,
   "listings": [
     {
       "id": "bee691ad-7fef-4fd9-ab14-d10142052c71",
@@ -84,31 +84,6 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/dept/jobs/8319405",
       "url": "https://trueinterview.io/jobs/3d6bc51b-326b-4069-bd21-5672cb95efaf",
-      "postedAt": "2026-10-24T00:00:00.000Z",
-      "updatedAt": "2026-10-24T00:00:00.000Z"
-    },
-    {
-      "id": "cb603ca0-80c4-4980-a289-fffa6b536205",
-      "company": "LaunchDarkly",
-      "title": "Backend Software Engineer, SDK",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": null,
-      "category": null,
-      "family": "Software",
-      "role": null,
-      "seniority": "new-grad",
-      "level": null,
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "trueinterview",
-      "applyUrl": "https://jobspresso.co/job/backend-software-engineer-sdk/",
-      "url": "https://trueinterview.io/jobs/cb603ca0-80c4-4980-a289-fffa6b536205",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "updatedAt": "2026-10-24T00:00:00.000Z"
     },
