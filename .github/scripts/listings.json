@@ -6,7 +6,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-24T04:18:35.656Z",
+  "listingsChangedAt": "2026-10-24T09:24:16.212Z",
   "count": 979,
   "listings": [
     {
@@ -84,6 +84,31 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/dept/jobs/8319405",
       "url": "https://trueinterview.io/jobs/3d6bc51b-326b-4069-bd21-5672cb95efaf",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "updatedAt": "2026-10-24T00:00:00.000Z"
+    },
+    {
+      "id": "cb603ca0-80c4-4980-a289-fffa6b536205",
+      "company": "LaunchDarkly",
+      "title": "Backend Software Engineer, SDK",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": null,
+      "category": null,
+      "family": "Software",
+      "role": null,
+      "seniority": "new-grad",
+      "level": null,
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "trueinterview",
+      "applyUrl": "https://jobspresso.co/job/backend-software-engineer-sdk/",
+      "url": "https://trueinterview.io/jobs/cb603ca0-80c4-4980-a289-fffa6b536205",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "updatedAt": "2026-10-24T00:00:00.000Z"
     },
@@ -1574,31 +1599,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Software-Engineer_JR0288234-1",
       "url": "https://trueinterview.io/jobs/b7acd70d-a3f3-4a30-8f65-c3d527728611",
-      "postedAt": "2026-10-19T00:00:00.000Z",
-      "updatedAt": "2026-10-19T00:00:00.000Z"
-    },
-    {
-      "id": "73def1c1-bf83-480e-8b8a-0f4e49c1baca",
-      "company": "KLA",
-      "title": "Engr, Software 1",
-      "locations": [
-        "USA-NY-Remote-US03K, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-1",
-      "url": "https://trueinterview.io/jobs/73def1c1-bf83-480e-8b8a-0f4e49c1baca",
       "postedAt": "2026-10-19T00:00:00.000Z",
       "updatedAt": "2026-10-19T00:00:00.000Z"
     },
