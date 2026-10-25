@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**37 open roles.**
+**53 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -275,6 +275,118 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Long Beach, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/vast/jobs/4712216006?gh_jid=4712216006">Apply</a></td>
 <td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c1e5e18-e559-46df-9e7d-0b86d241c48d">Mechanical Integration &amp; Test Engineer (Starshield)</a></td>
+<td>Hawthorne, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8780331002?gh_jid=8780331002">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Riot Games</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2301cc9-aae6-471b-813e-8b951d546345">Game Designer - League of Legends PC, Teamfight Tactics and VALORANT</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8047595?gh_jid=8047595">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Jetzero</strong></td>
+<td><a href="https://trueinterview.io/jobs/2612dbae-03fd-4bf8-82cb-448ddc68929c">JetZero Networking Event</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jetzero/jobs/5414656008">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/510f9ca0-da50-41e1-83e5-798fece05692">Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US</a></td>
+<td>Los Angeles, CA<br/>New York, NY<br/>San Francisco, CA<br/>+2 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8163709">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/b88c3815-634e-472f-8b23-a5df7d9e1bd7">New Graduate Engineer, Starship Components</a></td>
+<td>Hawthorne, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8783046002?gh_jid=8783046002">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Terran Orbital Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/143fdf85-e99f-492f-ae8a-4010bbd2fdc0">Associate Flight Software Test &amp; Tools Engineer</a></td>
+<td>Irvine, CA<br/>Spectrum</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/terranorbitalcorporation/jobs/4395353009">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sweetgreen</strong></td>
+<td><a href="https://trueinterview.io/jobs/96baac1a-4aaf-4d3d-a545-646e9e95752e">Systems Engineer, New Restaurant Openings</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://careers.sweetgreen.com/jobs/8178243?gh_jid=8178243">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/2dccbf09-69d0-4244-ab1d-d1908bf129d1">Information Security Analyst</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5225971007?gh_jid=5225971007">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cesiumastro</strong></td>
+<td><a href="https://trueinterview.io/jobs/37eac710-2cb6-4bbd-b4b9-69432426852e">Mechanical Engineer I</a></td>
+<td>El Segundo, CA<br/>Austin, TX<br/>Westminster, CO</td>
+<td align="center"><a href="https://jobs.lever.co/CesiumAstro/ebf75b86-512b-476c-bf66-d0e399a21929/apply">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1826cd8-79a0-43fe-8fa8-857cba390396">2027 Early Career Flight Software Engineer</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hadrian Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ee23d40-9c84-40a8-84af-b861d68c0cb6">Paint Engineer</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/115d8734-0f96-4375-b27d-6a4d62956b04/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sift Stack, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/caed328d-b509-4f8d-92cc-40062f2370ba">Software Engineer – New College Graduate</a></td>
+<td>Marina Del Rey, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ab208d0-35de-4685-a088-2534cd664bc3">GNC Engineer, Phased Array Devices (Starshield)</a></td>
+<td>Hawthorne, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8749195002?gh_jid=8749195002">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Cohere</strong></td>
+<td><a href="https://trueinterview.io/jobs/4464f0c8-37e5-4b95-a0cd-b019d44d161d">Forward Deployed Engineer, Agentic Platform (West Coast)</a></td>
+<td>Los Angeles, CA<br/>San Francisco, CA<br/>Seattle, WA<br/>+11 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9/application">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Gallatin</strong></td>
+<td><a href="https://trueinterview.io/jobs/289e84eb-6d16-4d47-a3ae-5cc8d47bb32a">IT Systems Engineer</a> 🌐</td>
+<td>Remote — United States<br/>El Segundo, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/gallatin/00ae6401-2466-4ae8-b122-37c61bb4d122/application">Apply</a></td>
+<td align="center">27 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>True Anomaly</strong></td>
+<td><a href="https://trueinterview.io/jobs/16272782-9bce-4295-bf01-a2b92ad5f9eb">Data Engineer 1</a> 🛂</td>
+<td>Long Beach, CA<br/>Denver, CO or Long Beach, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007">Apply</a></td>
+<td align="center">27 Aug 2026</td>
 </tr>
 </tbody>
 </table>

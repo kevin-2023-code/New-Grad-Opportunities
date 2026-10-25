@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**18 open roles.** 12 in the United States & Canada · 6 elsewhere in the world.
+**21 open roles.** 13 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -101,6 +101,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/metaview/1ae658a2-3baa-4610-8562-410c53d69bea/application">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
+<tr>
+<td><strong>Mirego</strong></td>
+<td><a href="https://trueinterview.io/jobs/2239cfac-d37b-47d2-84c6-3fd013402dbd">Développeur(euse) Web Fullstack</a></td>
+<td>Québec, QC<br/>Montréal, QC</td>
+<td align="center"><a href="https://jobs.lever.co/mirego/d15cb282-dba5-4d22-99c6-c8dc5039fa75/apply">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -154,6 +161,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Miami</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/oneimaging/jobs/4403125009">Apply</a></td>
 <td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Frazier &amp; Deeter</strong></td>
+<td><a href="https://trueinterview.io/jobs/3511d3dc-4041-461f-90ec-a1c838b3e352">Full Stack AI Engineer (India-based)</a></td>
+<td>Hyderabad<br/>India</td>
+<td align="center"><a href="https://www.frazierdeeter.com/careers/openings/apply/7986994003?gh_jid=7986994003">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Interview Resources</strong></td>
+<td><a href="https://trueinterview.io/jobs/b47ed52e-3aa8-4605-bbba-4d2fd806859f">Interview Resources / 2 Full Stack AI Engineer, 1 GTM / REMOTE / Full-Time / $250k seed raised</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://www.interviewresources.app/careers">Apply</a></td>
+<td align="center">2 Sep 2026</td>
 </tr>
 </tbody>
 </table>

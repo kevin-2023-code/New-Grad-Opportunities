@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**49 open roles.**
+**63 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -359,6 +359,104 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US - New York, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817/application">Apply</a></td>
 <td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Makai Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/57718650-71c5-469c-96ad-906dd7e8067b">Forward Deployed AI Analyst</a></td>
+<td>New York, NY<br/>California<br/>Massachusetts<br/>+2 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/makai-labs/3d4373e8-e09a-4034-a8e0-d511cef44fc7/application">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Bubble</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae191ca8-9d1d-450a-8914-0ce354a70de4">Technical Product Support Specialist</a></td>
+<td>NYC, New York</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/bubble/80714b04-d0c7-4ecc-84b7-9e4901bfa97a/application">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/510f9ca0-da50-41e1-83e5-798fece05692">Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US</a></td>
+<td>New York, NY<br/>Los Angeles, CA<br/>San Francisco, CA<br/>+2 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8163709">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fc8555c-3d11-4e05-ac25-089cc10d4c9d">Web Designer</a></td>
+<td>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/c04280b7-fa23-4d65-9b35-22d60bbe2081/application">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Goldman Sachs</strong></td>
+<td><a href="https://trueinterview.io/jobs/210e985e-9d74-4f0b-bb75-ecdf3c28f196">The Core Engineering-L2-New York-Associate-Project Management</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3002/job/179775">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Valon</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e57f527-b0c7-4a8a-840c-7aa6213f07a8">Software Engineer New Grad</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/valon/e08ad09a-4408-4210-8c1b-da6510f83324/application">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hudson River Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a555ace-fb4a-46e8-bd7d-315efc691351">Design Verification (DV) Engineer - 2027 Grads</a></td>
+<td>New York, NY<br/>New York City</td>
+<td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8167806">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Yext</strong></td>
+<td><a href="https://trueinterview.io/jobs/908f44f8-5ecd-497e-9919-54fe372fe32f">Specialist, Concierge Services</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/yext/jobs/8157597">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Beloved Community &amp; Empowerment Academy Charter Schools</strong></td>
+<td><a href="https://trueinterview.io/jobs/9bedd409-4fd6-4819-b6e9-0d2ef2449240">Help Desk &amp; IOT Technician</a></td>
+<td>Jersey City, New Jersey, United States</td>
+<td align="center"><a href="https://jobs.workable.com/view/c6GoDuwfqvF3C86bBgc4Nb/help-desk-%26-iot-technician-in-jersey-city-at-beloved-community-%26-empowerment-academy-charter-schools">Apply</a></td>
+<td align="center">29 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Parallel Web Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a73c15a-4bfe-40e9-9ef9-0873c5717e89">Deployed Engineer</a></td>
+<td>New York, NY<br/>New York, New York<br/>San Francisco or Palo Alto</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/parallel/bb00e740-3647-4ce8-b6e7-3dcf611f66b6/application">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Cohere</strong></td>
+<td><a href="https://trueinterview.io/jobs/4464f0c8-37e5-4b95-a0cd-b019d44d161d">Forward Deployed Engineer, Agentic Platform (West Coast)</a></td>
+<td>New York, NY<br/>San Francisco, CA<br/>Seattle, WA<br/>+11 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9/application">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Veeva Qualityone Japan</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d5ca6d9-5d19-4632-a996-d0b085c91af5">Associate Consultant - Entry-Level Technology Consulting</a></td>
+<td>New York - New York City<br/>United Kingdom - London<br/>Spain - Barcelona<br/>+3 more</td>
+<td align="center"><a href="https://jobs.lever.co/veeva/61675973-32f5-45c8-a971-197b1e5d4d36/apply">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Grapevine</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a9dad22-20fa-496c-bf58-6a0a517ef07a">Product &amp; Savings Intelligence Analyst</a></td>
+<td>NYC HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/grapevine/b785642f-d4a4-466b-9458-9e7e422bc1af/application">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Fortinet</strong></td>
+<td><a href="https://trueinterview.io/jobs/1da6c415-8ff6-4995-8c47-6c208618153f">AI Infrastructure Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23932">Apply</a></td>
+<td align="center">28 Aug 2026</td>
 </tr>
 </tbody>
 </table>
