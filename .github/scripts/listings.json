@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-24T23:04:11.886Z",
-  "count": 962,
+  "listingsChangedAt": "2026-10-25T04:21:57.939Z",
+  "count": 961,
   "listings": [
     {
       "id": "bee691ad-7fef-4fd9-ab14-d10142052c71",
@@ -25172,31 +25172,6 @@
       "url": "https://trueinterview.io/jobs/06417185-2a79-4fd0-bcf8-a7e48a54067f",
       "postedAt": "2026-08-26T16:09:21.000Z",
       "updatedAt": "2026-08-26T16:09:21.000Z"
-    },
-    {
-      "id": "759be8d3-e8ec-447e-a3a2-232938a723b4",
-      "company": "Micron Technology",
-      "title": "New College Grad - ENGINEER, SIG ELECTRICAL DESIGN",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44138859",
-      "url": "https://trueinterview.io/jobs/759be8d3-e8ec-447e-a3a2-232938a723b4",
-      "postedAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z"
     }
   ]
 }
