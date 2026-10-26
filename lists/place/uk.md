@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**20 open roles.** 2 in the United States & Canada · 18 elsewhere in the world.
+**24 open roles.** 3 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -30,6 +30,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>London, UK<br/>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/c442eab0-b8b4-40f6-b0f2-0fc91aea294a/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Veeva Qualityone Japan</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d5ca6d9-5d19-4632-a996-d0b085c91af5">Associate Consultant - Entry-Level Technology Consulting</a></td>
+<td>United Kingdom - London<br/>Spain - Barcelona<br/>Germany - Frankfurt<br/>+3 more</td>
+<td align="center"><a href="https://jobs.lever.co/veeva/61675973-32f5-45c8-a971-197b1e5d4d36/apply">Apply</a></td>
+<td align="center">28 Aug 2026</td>
 </tr>
 </tbody>
 </table>
@@ -168,6 +175,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London Office</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/tldraw/c52007ee-bac0-4176-a5f0-48fe6e1fe854/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/bdc58b68-047f-4b96-98d0-16ad95416cb1">2027 Data &amp; AI - Full Time Analyst - London, Glasgow</a></td>
+<td>LONDON, LONDON, United Kingdom</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774755">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a1f425c0-d9ad-4146-b6d7-690ab9643f5d">2027 Software Engineer Program - Full-time - Glasgow &amp; London</a></td>
+<td>LONDON, LONDON, United Kingdom</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774781">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>LG Ad Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bd7d309-635c-4d2e-b49b-f787157b9674">Global Reporting &amp; Analytics Analyst</a> 🛂</td>
+<td>London, UK</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lgads/b583063e-60fc-4985-b2ee-11fa83d75943/application">Apply</a></td>
+<td align="center">28 Aug 2026</td>
 </tr>
 </tbody>
 </table>

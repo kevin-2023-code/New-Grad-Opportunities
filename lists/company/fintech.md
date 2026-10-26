@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**27 open roles.** 15 in the United States & Canada · 12 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**29 open roles.** 16 in the United States & Canada · 13 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -122,6 +122,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/valon/e08ad09a-4408-4210-8c1b-da6510f83324/application">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
+<tr>
+<td><strong>Finix</strong></td>
+<td><a href="https://trueinterview.io/jobs/f23f51f6-aced-46c0-a52b-8485b9ab1f82">IT Support Specialist</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.lever.co/finix/938e21fb-20e2-4627-a668-4cbb1c69cff9/apply">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -217,6 +224,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>2 Locations</td>
 <td align="center"><a href="https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer_R0137281-1">Apply</a></td>
 <td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Next Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/28b89d63-6951-4574-83b6-af3862664921">Graduate Backend Software Engineer- UpNEXT Program</a></td>
+<td>Kfar Saba, Israel<br/>IL Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/nextinsurance66/jobs/7979131003">Apply</a></td>
+<td align="center">28 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**37 open roles.** 32 in the United States & Canada · 5 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**42 open roles.** 35 in the United States & Canada · 7 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -241,6 +241,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94471">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
+<tr>
+<td><strong>Jensen Hughes</strong></td>
+<td><a href="https://trueinterview.io/jobs/cbb5746e-ae3c-46e0-a6b5-9c098daea85a">Associate Fire Protection Engineer</a></td>
+<td>Columbia, Maryland, United States<br/>Columbia, MD</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5362942008">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/3367bdd9-fb7f-4f92-b76a-b1ba454f1adb">Building Sciences Consultant</a></td>
+<td>Vancouver, BC, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94183">Apply</a></td>
+<td align="center">27 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4d42b2e3-fdf2-4bcc-a17e-630b57d917ab">Early Professional, Civil Engineering (Transmission Line Design)</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94208">Apply</a></td>
+<td align="center">27 Aug 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -287,6 +308,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Noida, Uttar Pradesh, India</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94324">Apply</a></td>
 <td align="center">7 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c02f8ad-ab77-48b2-a073-b82fff1fc0bf">Analista Técnico Pleno - Geotecnia</a></td>
+<td>São Paulo, SP, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000146070889-analista-tecnico-pleno-geotecnia?oga=true">Apply</a></td>
+<td align="center">27 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a4f73a76-7e30-48ba-b479-f33109c253b1">Engenheiro(a) Civil</a></td>
+<td>Alto Horizonte, GO, Brazil</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000146058160-engenheiro-a-civil-?oga=true">Apply</a></td>
+<td align="center">27 Aug 2026</td>
 </tr>
 </tbody>
 </table>
