@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**5 open roles.** 2 in the United States & Canada · 3 elsewhere in the world.
+**8 open roles.** 4 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -30,6 +30,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Plantation, FL</td>
 <td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Software-Engineer_R62561">Apply</a></td>
 <td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b05b7f1-9491-44c2-b057-211994c26596">Android Engineer, ChatGPT Library Team</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/5a1a0c32-0b82-482a-8149-e6b096c3e732/application">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mirego</strong></td>
+<td><a href="https://trueinterview.io/jobs/1702e89a-268b-4cd1-9679-4ea6910df9fe">Développeur(euse) Mobile</a></td>
+<td>Québec, QC<br/>Montréal, QC</td>
+<td align="center"><a href="https://jobs.lever.co/mirego/11c8bea0-aea3-4d8a-b03f-a8ad0cc90752/apply">Apply</a></td>
+<td align="center">28 Aug 2026</td>
 </tr>
 </tbody>
 </table>
@@ -63,6 +77,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Clermont (QC)</td>
 <td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50286599">Apply</a></td>
 <td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>N26</strong></td>
+<td><a href="https://trueinterview.io/jobs/43f3d37e-250b-420a-8c18-908129df596b">Junior Android Engineer - Payments</a></td>
+<td>Berlin, Barcelona</td>
+<td align="center"><a href="https://n26.com/en-eu/careers/positions/8163941?gh_jid=8163941">Apply</a></td>
+<td align="center">7 Sep 2026</td>
 </tr>
 </tbody>
 </table>
