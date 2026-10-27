@@ -6,9 +6,320 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-27T19:12:49.341Z",
-  "count": 931,
+  "listingsChangedAt": "2026-10-27T20:15:34.276Z",
+  "count": 934,
   "listings": [
+    {
+      "id": "04371531-a92e-400a-9ed2-c4d27e8516a1",
+      "company": "42dot",
+      "title": "Evaluation, Validation & Simulation Engineer",
+      "locations": [
+        "Sunnyvale, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/42dot/88d850a1-7e2f-4388-ab41-6823634620f1/application",
+      "url": "https://trueinterview.io/jobs/04371531-a92e-400a-9ed2-c4d27e8516a1",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "faf7df04-feef-48ad-86ad-6dadb72f7bfd",
+      "company": "chatbase",
+      "title": "Videographer & Editor",
+      "locations": [
+        "Toronto"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/chatbase/1410a1fe-7bc2-4769-a50f-970ce9f77cf8/application",
+      "url": "https://trueinterview.io/jobs/faf7df04-feef-48ad-86ad-6dadb72f7bfd",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "a1382a1b-1060-4714-b44d-5e0670a9721a",
+      "company": "focus",
+      "title": "Join Our Talent Network – Future Opportunities: Engineering",
+      "locations": [
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/focus/cd5d9615-a2b5-4eb5-9eb4-b92776235a69/application",
+      "url": "https://trueinterview.io/jobs/a1382a1b-1060-4714-b44d-5e0670a9721a",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "e6cbbdc2-daf7-4efc-a7db-95fb5ea17dfd",
+      "company": "hadrian-automation",
+      "title": "CAD Modeler",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/hadrian-automation/6da8a025-bb5a-4611-b8bc-e56eb5c17ebb/application",
+      "url": "https://trueinterview.io/jobs/e6cbbdc2-daf7-4efc-a7db-95fb5ea17dfd",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "5616408f-8893-4b21-9bed-c46b64a376e6",
+      "company": "jobs",
+      "title": "Full-Stack Software Engineer (New Grad)",
+      "locations": [
+        "San Francisco"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/agave/73bd2c98-bf87-4eaa-aea8-35e7b6131d0e/application",
+      "url": "https://trueinterview.io/jobs/5616408f-8893-4b21-9bed-c46b64a376e6",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "a01cf4ce-a0d9-4da5-8159-7dc73ac92634",
+      "company": "neara",
+      "title": "Customer Success Engineer",
+      "locations": [
+        "Asia",
+        "Tokyo"
+      ],
+      "cities": [
+        "Tokyo"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/neara/61d2e347-8d03-4dd4-91f8-376944d479a6/application",
+      "url": "https://trueinterview.io/jobs/a01cf4ce-a0d9-4da5-8159-7dc73ac92634",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "abf59c70-52b6-4cac-bd83-45af50ac2c6c",
+      "company": "netic",
+      "title": "GTM Data Analyst",
+      "locations": [
+        "San Francisco"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/netic/21073800-6406-4c1d-ae5a-22b9f41c3a8d/application",
+      "url": "https://trueinterview.io/jobs/abf59c70-52b6-4cac-bd83-45af50ac2c6c",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "54a7a314-5762-4b10-a935-38ad629fd216",
+      "company": "novig",
+      "title": "Design Engineer",
+      "locations": [
+        "New York"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/novig/3a2caee1-c915-4093-83ee-ee70f9b3e939/application",
+      "url": "https://trueinterview.io/jobs/54a7a314-5762-4b10-a935-38ad629fd216",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "70203cd6-b65d-400f-bedf-084661aba36e",
+      "company": "phantom",
+      "title": "AI Engineer",
+      "locations": [
+        "Remote-US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/phantom/f4fcc35e-bdc0-498b-a5f0-ac553d146531/application",
+      "url": "https://trueinterview.io/jobs/70203cd6-b65d-400f-bedf-084661aba36e",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "12ff617c-6df3-4e33-a518-7e1a0560cef8",
+      "company": "retell-ai",
+      "title": "Mandarin-speaking: Software Engineer (Contract)",
+      "locations": [
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/retell-ai/8581013a-f981-47aa-84a0-de548976b2ef/application",
+      "url": "https://trueinterview.io/jobs/12ff617c-6df3-4e33-a518-7e1a0560cef8",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "14a4eaf2-046b-4160-ae71-bd024262d8fe",
+      "company": "skelar",
+      "title": "Front-End Engineer",
+      "locations": [
+        "Ukraine, Remote, Lviv, Kyiv"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/skelar/5b7ec18a-e26c-44b6-a00d-b4c7560e0b1c/application",
+      "url": "https://trueinterview.io/jobs/14a4eaf2-046b-4160-ae71-bd024262d8fe",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "9387b400-6fe3-4d9f-ae86-1a3a691d0856",
+      "company": "stream",
+      "title": "Backend Engineer – Real-Time Video",
+      "locations": [
+        "Amsterdam office, Remote (EU)"
+      ],
+      "cities": [],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/stream/82b37457-3d54-4f7a-8a0e-ae52c0b67362/application",
+      "url": "https://trueinterview.io/jobs/9387b400-6fe3-4d9f-ae86-1a3a691d0856",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
     {
       "id": "74cf3b00-7422-4add-a72a-c9216e833f26",
       "company": "crusoe",
@@ -24063,274 +24374,6 @@
       "url": "https://trueinterview.io/jobs/1a2f9ea4-6414-4962-8367-25b2e306e49c",
       "postedAt": "2026-08-28T20:52:52.000Z",
       "updatedAt": "2026-08-28T20:52:52.000Z"
-    },
-    {
-      "id": "8e21d821-8018-4032-8c0f-cf4977ff28d9",
-      "company": "Eight Sleep",
-      "title": "Electrical Engineer (New Grad / Spring 2027)",
-      "locations": [
-        "San Francisco"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/eightsleep/ce1bebc3-42f5-4010-93cb-b31090b16294/application",
-      "url": "https://trueinterview.io/jobs/8e21d821-8018-4032-8c0f-cf4977ff28d9",
-      "postedAt": "2026-08-28T20:47:04.000Z",
-      "updatedAt": "2026-08-28T20:47:04.000Z"
-    },
-    {
-      "id": "4464f0c8-37e5-4b95-a0cd-b019d44d161d",
-      "company": "Cohere",
-      "title": "Forward Deployed Engineer, Agentic Platform (West Coast)",
-      "locations": [
-        "San Francisco",
-        "Salt Lake City",
-        "Phoenix",
-        "Seattle",
-        "Los Angeles",
-        "Vancouver",
-        "United States",
-        "New Jersey",
-        "Boston",
-        "Canada",
-        "New York",
-        "Washington, DC",
-        "Ottawa",
-        "Toronto",
-        "Montreal"
-      ],
-      "cities": [
-        "San Francisco, CA",
-        "Seattle, WA",
-        "Los Angeles, CA",
-        "Vancouver, BC",
-        "Boston, MA",
-        "New York, NY",
-        "Washington, DC",
-        "Ottawa, ON",
-        "Toronto, ON",
-        "Montreal, QC"
-      ],
-      "countries": [
-        "United States",
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9/application",
-      "url": "https://trueinterview.io/jobs/4464f0c8-37e5-4b95-a0cd-b019d44d161d",
-      "postedAt": "2026-08-28T20:32:55.000Z",
-      "updatedAt": "2026-08-28T20:32:55.000Z"
-    },
-    {
-      "id": "0a864782-c23e-4189-886d-99a93863e9fd",
-      "company": "Mirego",
-      "title": "Spécialiste, recherche produit numérique",
-      "locations": [
-        "Montréal, QC",
-        "Québec, QC"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/mirego/3e376c52-7eaf-4ced-9086-940510b4735f/apply",
-      "url": "https://trueinterview.io/jobs/0a864782-c23e-4189-886d-99a93863e9fd",
-      "postedAt": "2026-08-28T19:36:21.000Z",
-      "updatedAt": "2026-08-28T19:36:21.000Z"
-    },
-    {
-      "id": "9f12bade-4f3a-4749-9cbe-c5a891e3c333",
-      "company": "Openai",
-      "title": "Web Producer",
-      "locations": [
-        "San Francisco"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/openai/dcc678d2-d0cd-4428-bb68-38a7347d6ded/application",
-      "url": "https://trueinterview.io/jobs/9f12bade-4f3a-4749-9cbe-c5a891e3c333",
-      "postedAt": "2026-08-28T19:32:28.000Z",
-      "updatedAt": "2026-08-28T19:32:28.000Z"
-    },
-    {
-      "id": "3d5ca6d9-5d19-4632-a996-d0b085c91af5",
-      "company": "Veeva Qualityone Japan",
-      "title": "Associate Consultant - Entry-Level Technology Consulting",
-      "locations": [
-        "United Kingdom - London",
-        "Spain - Barcelona",
-        "Germany - Frankfurt",
-        "Germany - Berlin",
-        "Wisconsin - Madison",
-        "New York - New York City"
-      ],
-      "cities": [],
-      "countries": [
-        "United Kingdom",
-        "Spain",
-        "Germany",
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/veeva/61675973-32f5-45c8-a971-197b1e5d4d36/apply",
-      "url": "https://trueinterview.io/jobs/3d5ca6d9-5d19-4632-a996-d0b085c91af5",
-      "postedAt": "2026-08-28T19:27:57.000Z",
-      "updatedAt": "2026-08-28T19:27:57.000Z"
-    },
-    {
-      "id": "2239cfac-d37b-47d2-84c6-3fd013402dbd",
-      "company": "Mirego",
-      "title": "Développeur(euse) Web Fullstack",
-      "locations": [
-        "Québec, QC",
-        "Montréal, QC"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/mirego/d15cb282-dba5-4d22-99c6-c8dc5039fa75/apply",
-      "url": "https://trueinterview.io/jobs/2239cfac-d37b-47d2-84c6-3fd013402dbd",
-      "postedAt": "2026-08-28T19:22:32.000Z",
-      "updatedAt": "2026-08-28T19:22:32.000Z"
-    },
-    {
-      "id": "1702e89a-268b-4cd1-9679-4ea6910df9fe",
-      "company": "Mirego",
-      "title": "Développeur(euse) Mobile",
-      "locations": [
-        "Québec, QC",
-        "Montréal, QC"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Mobile Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/mirego/11c8bea0-aea3-4d8a-b03f-a8ad0cc90752/apply",
-      "url": "https://trueinterview.io/jobs/1702e89a-268b-4cd1-9679-4ea6910df9fe",
-      "postedAt": "2026-08-28T19:19:17.000Z",
-      "updatedAt": "2026-08-28T19:19:17.000Z"
-    },
-    {
-      "id": "d7b11fd9-f278-4702-8bd1-965a6469eeb9",
-      "company": "Mirego",
-      "title": "Développeur(euse) logiciel Back-End / DevOps",
-      "locations": [
-        "Québec, QC",
-        "Montréal, QC"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Backend Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/mirego/50a2268a-ac83-4ff9-9952-f6c30486f192/apply",
-      "url": "https://trueinterview.io/jobs/d7b11fd9-f278-4702-8bd1-965a6469eeb9",
-      "postedAt": "2026-08-28T19:18:10.000Z",
-      "updatedAt": "2026-08-28T19:18:10.000Z"
-    },
-    {
-      "id": "9b022ff0-cb84-40cd-b659-ac56ee7dfac2",
-      "company": "Mirego",
-      "title": "Développeur(euse) IA",
-      "locations": [
-        "Québec, QC",
-        "Montréal, QC"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/mirego/d4aa28ef-42b2-4471-8b7e-da1433052351/apply",
-      "url": "https://trueinterview.io/jobs/9b022ff0-cb84-40cd-b659-ac56ee7dfac2",
-      "postedAt": "2026-08-28T19:16:45.000Z",
-      "updatedAt": "2026-08-28T19:16:45.000Z"
     }
   ]
 }
