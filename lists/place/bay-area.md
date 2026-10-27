@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**180 open roles.**
+**179 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1268,13 +1268,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f23f51f6-aced-46c0-a52b-8485b9ab1f82">IT Support Specialist</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.lever.co/finix/938e21fb-20e2-4627-a668-4cbb1c69cff9/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Eight Sleep</strong></td>
-<td><a href="https://trueinterview.io/jobs/a54825c7-4e5a-481f-8d0c-89bfd03b2238">Mechanical Engineer (New Grad / Spring 2027)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/eightsleep/fc296bc9-0e05-4639-a95f-5f89c0cd2b96/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 </tbody>

@@ -6,8 +6,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-27T17:14:03.206Z",
-  "count": 934,
+  "listingsChangedAt": "2026-10-27T18:17:09.974Z",
+  "count": 932,
   "listings": [
     {
       "id": "74cf3b00-7422-4add-a72a-c9216e833f26",
@@ -24358,58 +24358,6 @@
       "url": "https://trueinterview.io/jobs/f23f51f6-aced-46c0-a52b-8485b9ab1f82",
       "postedAt": "2026-08-28T19:12:36.000Z",
       "updatedAt": "2026-08-28T19:12:36.000Z"
-    },
-    {
-      "id": "7a9dad22-20fa-496c-bf58-6a0a517ef07a",
-      "company": "Grapevine",
-      "title": "Product & Savings Intelligence Analyst",
-      "locations": [
-        "NYC HQ"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/grapevine/b785642f-d4a4-466b-9458-9e7e422bc1af/application",
-      "url": "https://trueinterview.io/jobs/7a9dad22-20fa-496c-bf58-6a0a517ef07a",
-      "postedAt": "2026-08-28T17:58:20.000Z",
-      "updatedAt": "2026-08-28T17:58:20.000Z"
-    },
-    {
-      "id": "a54825c7-4e5a-481f-8d0c-89bfd03b2238",
-      "company": "Eight Sleep",
-      "title": "Mechanical Engineer (New Grad / Spring 2027)",
-      "locations": [
-        "San Francisco"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/eightsleep/fc296bc9-0e05-4639-a95f-5f89c0cd2b96/application",
-      "url": "https://trueinterview.io/jobs/a54825c7-4e5a-481f-8d0c-89bfd03b2238",
-      "postedAt": "2026-08-28T17:44:45.000Z",
-      "updatedAt": "2026-08-28T17:44:45.000Z"
     }
   ]
 }

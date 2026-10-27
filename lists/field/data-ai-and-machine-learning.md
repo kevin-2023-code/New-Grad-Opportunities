@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**150 open roles.** 91 in the United States & Canada · 59 elsewhere in the world.
+**149 open roles.** 90 in the United States & Canada · 59 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -645,13 +645,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9b022ff0-cb84-40cd-b659-ac56ee7dfac2">Développeur(euse) IA</a></td>
 <td>Québec, QC<br/>Montréal, QC</td>
 <td align="center"><a href="https://jobs.lever.co/mirego/d4aa28ef-42b2-4471-8b7e-da1433052351/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Grapevine</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a9dad22-20fa-496c-bf58-6a0a517ef07a">Product &amp; Savings Intelligence Analyst</a></td>
-<td>NYC HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/grapevine/b785642f-d4a4-466b-9458-9e7e422bc1af/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 </tbody>

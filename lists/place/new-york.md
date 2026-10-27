@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**61 open roles.**
+**60 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -435,13 +435,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3d5ca6d9-5d19-4632-a996-d0b085c91af5">Associate Consultant - Entry-Level Technology Consulting</a></td>
 <td>New York - New York City<br/>United Kingdom - London<br/>Spain - Barcelona<br/>+3 more</td>
 <td align="center"><a href="https://jobs.lever.co/veeva/61675973-32f5-45c8-a971-197b1e5d4d36/apply">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Grapevine</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a9dad22-20fa-496c-bf58-6a0a517ef07a">Product &amp; Savings Intelligence Analyst</a></td>
-<td>NYC HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/grapevine/b785642f-d4a4-466b-9458-9e7e422bc1af/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 </tbody>
