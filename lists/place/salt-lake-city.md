@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**20 open roles.**
+**23 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Belcan</strong></td>
+<td><a href="https://trueinterview.io/jobs/afc02e72-6fd8-4f07-b989-4c94a2d0cf2f">Cloud Engineer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473544803/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Red Cat Holdings</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8902a68-188b-4d85-97b3-79085db9c20f">Applications Engineer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484726105/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Largeton Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/db019b5e-72da-4088-9bf3-072e4752f083">Java Full Stack Developer</a></td>
 <td>Salt Lake City, UT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484498464/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ICE</strong></td>
+<td><a href="https://trueinterview.io/jobs/9062d4fe-3db7-45fd-8bc9-9cf1fff6d11d">Engineer, Cybersecurity</a></td>
+<td>Provo, UT<br/>Jacksonville, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476520178/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

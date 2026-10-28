@@ -2,7 +2,7 @@
 
 # Platform Engineer
 
-**75 open roles.** 31 in the United States & Canada · 44 elsewhere in the world.
+**81 open roles.** 34 in the United States & Canada · 47 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Conduent</strong></td>
+<td><a href="https://trueinterview.io/jobs/3cd86ea4-de15-47d3-8a9f-fae2144cd8e2">Azure Linux &amp; PaaS Platform Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446299796/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Deloitte</strong></td>
 <td><a href="https://trueinterview.io/jobs/cfcca7ba-9828-429b-8c9c-49299c3395c4">GCP Platform Engineer Contractor</a></td>
@@ -234,6 +241,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Digital-Solutions-and-Platform-Engineer_2022135-1">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
+<tr>
+<td><strong>StubHub</strong></td>
+<td><a href="https://trueinterview.io/jobs/d0f6f98f-3258-4c2a-a96d-200d46149d84">Software Engineer I - Platform Engineer - Core Compute Platform</a></td>
+<td>New York, NY<br/>New York, New York, United States</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4967177101">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/9573a261-87dc-4994-a649-bccf916e6ea8">Platform Software Developer - 2026 New Grads</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Platform-Software-Developer---2026-New-Grads_R031084-1">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -246,6 +267,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TNO</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd4618e5-4e6f-4c2b-8fc8-418d2f043dc0">DevOps/Platform Engineer - Utrecht</a></td>
+<td>Utrecht, Utrecht, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484707748/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Macquarie Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/2818735d-729b-4baa-ae70-455340850027">Data Platform Engineer</a></td>
@@ -553,6 +581,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Copenhagen, Denmark (Arne Jacobsens)</td>
 <td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Copenhagen-Denmark-Arne-Jacobsens/Cloud-Automation-Engineer_R-291016">Apply</a></td>
 <td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Genomics England</strong></td>
+<td><a href="https://trueinterview.io/jobs/47e80336-7a7f-40fd-bfe3-4d1210adfa44">Platform Engineer, AWS</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://4dayweek.io/job/platform-engineer-aws-at-genomics-england-becc3850">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hpr</strong></td>
+<td><a href="https://trueinterview.io/jobs/864b6644-79ce-4146-9bfd-3b0e7386d1d2">Platform Software Engineer I</a></td>
+<td>Needham</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/hyannisportresearch/jobs/7985899003">Apply</a></td>
+<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>

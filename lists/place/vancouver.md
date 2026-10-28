@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**23 open roles.**
+**22 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>T2 Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1375289-8930-436a-a3a1-1c26ea83668b">Quality Assurance Automation Engineer</a></td>
-<td>Burnaby, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484706872/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Polaris Motion</strong></td>
 <td><a href="https://trueinterview.io/jobs/efed3c4a-c147-4912-af34-7d4699aaec28">.NET Applications Software Developer</a></td>

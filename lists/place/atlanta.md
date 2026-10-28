@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**60 open roles.**
+**71 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Capgemini</strong></td>
-<td><a href="https://trueinterview.io/jobs/a379ef5c-22da-433b-8da2-bb60a68b0732">AI Engineer</a></td>
-<td>Atlanta, GA<br/>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483370272/">Apply</a></td>
+<td><strong>Aetos Imaging</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f988e87-e563-4362-a3a1-b23a102c3051">Data Analyst</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484733486/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Planet Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/deecba89-c96a-492a-bd4a-b6fcb161083d">Project Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479581478/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>System One</strong></td>
+<td><a href="https://trueinterview.io/jobs/976e124b-dd35-498e-aa6f-381fa5a36e68">Microsoft 365 Systems Administrator</a></td>
+<td>Atlanta, GA<br/>Reston, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484712948/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -29,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4ae5a1bb-d45d-43fd-bbc9-1120dc19b33a">Software Engineer, Backend &amp; Distributed Systems (REMOTE)</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483668874/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Valmet</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8e3f32d-f1db-4091-9aa4-0ec0c8f56e4a">Product Engineer - Chippers and Drums</a></td>
+<td>Atlanta, GA<br/>Florence, AL<br/>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476386284/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -50,6 +71,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/723995de-4887-46f8-be09-c2ce9f2b25e8">Product Owner (AI-enabled tools)</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466116039/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KPMG US</strong></td>
+<td><a href="https://trueinterview.io/jobs/beba8cfd-887b-44de-b775-ed82e59f60ff">Temporary System Administrator Shift Work (Disaster Recovery)</a></td>
+<td>Atlanta, GA<br/>Denver, CO<br/>Austin, TX<br/>+58 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484107318/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -113,13 +141,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cd1e2fc5-8d52-4477-8f2f-a9db5948247f">Python Developer</a></td>
 <td>Alpharetta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482545301/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>KPMG US</strong></td>
-<td><a href="https://trueinterview.io/jobs/beba8cfd-887b-44de-b775-ed82e59f60ff">Temporary System Administrator Shift Work (Disaster Recovery)</a></td>
-<td>Atlanta, GA<br/>Denver, CO<br/>Austin, TX<br/>+58 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484107318/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -436,6 +457,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Atlanta, GA<br/>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.lever.co/hermeus/5e92ddba-8a79-464e-82ff-85ab3dc1ce2b/apply">Apply</a></td>
 <td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Fullstory</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e262cc1-a285-4a37-bfbb-ed4be335746c">AI Automation Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fullstory/95f96318-76e8-46b7-8dd9-a74379582e6f/application">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Geotab</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c978ee3-9681-4f1e-b14d-af8686bcb6df">Technical Support Specialist - Bilingual Spanish</a></td>
+<td>Atlanta, GA<br/>Atlanta, Georgia - USA<br/>Waterloo, Ontario - Canada<br/>+5 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/geotab/jobs/5407730008">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hertz</strong></td>
+<td><a href="https://trueinterview.io/jobs/8487fa36-88c6-46e5-8063-232f7043d6a7">Product Owner - Commercial Analysis &amp; Data Visualization</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39184">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/9573a261-87dc-4994-a649-bccf916e6ea8">Platform Software Developer - 2026 New Grads</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Platform-Software-Developer---2026-New-Grads_R031084-1">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/eaa1e0c7-508d-4580-b5ce-903a515d5313">Entry Level Substation Structural Engineer</a></td>
+<td>Duluth, GA, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94471">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Dolby</strong></td>
+<td><a href="https://trueinterview.io/jobs/122d1fe2-84f7-4b93-ad4f-9b333fbc4ea5">Information Security Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://4dayweek.io/job/information-security-engineer-at-dolby-79d9c200">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Greenzie</strong></td>
+<td><a href="https://trueinterview.io/jobs/96bfb072-b733-4aaf-a8dc-365d0a453288">Greenzie / Robotics Software Engineer (Early Career + Experienced) / Atlanta, GA / ONSITE/HYBRID / Full-time /</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://greenzie.applytojob.com/apply">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>PagerDuty</strong></td>
+<td><a href="https://trueinterview.io/jobs/06bdc96f-5a5f-4230-b094-e0f363257634">Site Reliability Engineer I</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/pagerduty/jobs/6162484004">Apply</a></td>
+<td align="center">1 Sep 2026</td>
 </tr>
 </tbody>
 </table>

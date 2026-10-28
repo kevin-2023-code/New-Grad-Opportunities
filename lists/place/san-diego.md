@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**30 open roles.**
+**36 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bad8d72-4386-4e36-a21c-239a2a614d37">Embedded Software Engineer, Amazon Leo Satellite Broadband Terminals</a></td>
+<td>San Diego, CA<br/>Sunnyvale, CA<br/>Redmond, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484735234/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bristol Myers Squibb</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc9c7a37-d2cc-4c84-93e6-05701aedd38e">Data Scientist</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482550351/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DRS IT Solutions Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/812a231c-7604-42bb-8dc6-ffcde732d61f">Network Software Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484716796/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/08a22d84-fab2-4301-84fa-d692819ae85b">Hardware Test &amp; Automation Engineer - ONSITE@ San Diego, CA</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484729135/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Fish &amp; Richardson P.C.</strong></td>
 <td><a href="https://trueinterview.io/jobs/37cbf33d-ed3b-41fc-bf24-8cf8263bb3d1">Technology Specialist (Computer Science and Electrical Engineering)</a></td>
 <td>San Diego, CA<br/>Boston, MA<br/>New York, NY<br/>+2 more</td>
@@ -25,17 +53,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>The Applied Research Laboratory at Penn State University</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa96e3e2-dab6-4f6c-ba87-e71bb025e9a2">Network Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482540744/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>BAE Systems, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/321bc086-0be6-4f46-8f8b-eb53a2760339">2027 Entry Level Software Engineer</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465215805/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Machina Cognita Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3e2c4b8-a66c-4042-b4a7-2d726b1953ee">Software Engineer</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483841060/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -85,6 +113,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ceef8ea1-5d63-46ee-983c-37f577928ed2">Systems Administrator</a></td>
 <td>Carlsbad, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484492525/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/8927e0ec-7362-4f20-8ba0-ccb7f470d487">Custom CAD Engineer</a></td>
+<td>San Diego, California, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691947">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -226,6 +261,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Diego, CA</td>
 <td align="center"><a href="https://jobs.lever.co/blinkux/47c561a4-0757-4eaa-9416-e758a59a9c61/apply">Apply</a></td>
 <td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f1dfd94-ddf7-4466-a913-cc2ddc51eed1">Software Engineer - Collision Avoidance System Metrics</a></td>
+<td>San Diego, CA<br/>Boston, MA<br/>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/d5d0608a-aa33-43c3-abe2-5ff8b40028d5/apply">Apply</a></td>
+<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

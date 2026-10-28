@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**66 open roles.**
+**71 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,11 +18,32 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Choco</strong></td>
+<td><a href="https://trueinterview.io/jobs/f46d685c-fd03-4777-b95c-5eb77758fd26">Solutions Engineer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/choco/ea183e2b-a163-492f-86ae-b5aa0454d442/application">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Dlr Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/c5bce2e0-2d2d-4a26-b1e4-aff44011ad4d">Structural Engineer</a></td>
 <td>Chicago, Illinois, United States, Minneapolis</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5134062008">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Acquire Me</strong></td>
+<td><a href="https://trueinterview.io/jobs/81faafe4-1fb6-4e2e-ac89-1974841bd6bf">Software Engineer - C++ Quantitative Trading</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4429405293/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Comprehensive Resources Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1960efe-aa12-4c1b-b1e0-bb3a734e4d58">Hardware Design Engineer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482539827/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Fish &amp; Richardson P.C.</strong></td>
@@ -50,6 +71,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fc5764b4-6714-4ae2-b591-62e5a4d17c9f">Civil Engineer, Aviation</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4429103310/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KPMG US</strong></td>
+<td><a href="https://trueinterview.io/jobs/beba8cfd-887b-44de-b775-ed82e59f60ff">Temporary System Administrator Shift Work (Disaster Recovery)</a></td>
+<td>Chicago, IL<br/>Atlanta, GA<br/>Denver, CO<br/>+58 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484107318/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -92,13 +120,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/33d1afaf-7717-4426-bebc-29535a63868d">IT Support Specialist</a></td>
 <td>Schaumburg, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484101344/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>KPMG US</strong></td>
-<td><a href="https://trueinterview.io/jobs/beba8cfd-887b-44de-b775-ed82e59f60ff">Temporary System Administrator Shift Work (Disaster Recovery)</a></td>
-<td>Chicago, IL<br/>Atlanta, GA<br/>Denver, CO<br/>+58 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484107318/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -478,6 +499,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chicago, IL</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8207750">Apply</a></td>
 <td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lyric</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9759202-db38-489d-ae2b-cad33e8552fc">Product Training Associate (Technical)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lyric/2eaa8450-c430-4759-9944-48850dd856cb/application">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/37ac16e9-56b2-4a81-ac6d-f4726d373d9a">Engineering Specialist - Quality/Process</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70286">Apply</a></td>
+<td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
 </table>

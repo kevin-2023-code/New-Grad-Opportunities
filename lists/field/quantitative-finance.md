@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**45 open roles.** 32 in the United States & Canada · 13 elsewhere in the world.
+**47 open roles.** 33 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Acquire Me</strong></td>
+<td><a href="https://trueinterview.io/jobs/81faafe4-1fb6-4e2e-ac89-1974841bd6bf">Software Engineer - C++ Quantitative Trading</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4429405293/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Referment</strong></td>
 <td><a href="https://trueinterview.io/jobs/7626129d-5ad5-4ef6-9ce1-50037d911632">Quantitative Analyst (53FEBE6)</a></td>
@@ -253,6 +260,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Millennium</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea144395-94db-4695-bfdf-f125d29f03e7">Quantitative Developer - Fixed Income RAD</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475451873/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Hunter Bond</strong></td>
 <td><a href="https://trueinterview.io/jobs/0497a6ed-fef9-4911-95fc-cdd7c5d8dc57">Production Support Engineer | Quant Trading Firm | Singapore | up to SGD 280K</a></td>

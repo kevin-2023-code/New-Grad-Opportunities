@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**57 open roles.**
+**66 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Davidson Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/fffa6a7a-4fc4-41c8-a4df-204f2d1188d4">Missile Tracking Systems Engineer (Algorithm Development) - Boulder, CO</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484721713/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Black &amp; Veatch</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7e83bd3-173e-4019-ba46-a05dcb7d67ba">Graduate Engineer, Electrical - BESS (Denver)</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476399103/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Epic</strong></td>
 <td><a href="https://trueinterview.io/jobs/2ec890e0-15d0-40f0-9dc3-f7daf3d8f286">Software Engineer</a></td>
 <td>Colorado Springs, CO<br/>Seattle, WA<br/>Cambridge, MA<br/>+21 more</td>
@@ -25,10 +39,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Swinerton</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a457ac7-1a76-4716-bfdb-50547b50c715">Project Engineer</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456042237/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Habitat for Humanity International</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa0e4f4c-9a48-47ae-95f2-9b0e6c7a28dd">Desktop Support Specialist</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467702201/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Odyssey</strong></td>
 <td><a href="https://trueinterview.io/jobs/ae696898-4a28-47c3-ad68-bd085b7beffd">Systems Cybersecurity Engineer</a></td>
 <td>Colorado Springs, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475431980/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KPMG US</strong></td>
+<td><a href="https://trueinterview.io/jobs/beba8cfd-887b-44de-b775-ed82e59f60ff">Temporary System Administrator Shift Work (Disaster Recovery)</a></td>
+<td>Denver, CO<br/>Boulder, CO<br/>Atlanta, GA<br/>+58 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484107318/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -57,13 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/491a6286-3c22-43c3-967b-f8894a8d852d">AI Analytics Engineer</a></td>
 <td>Westminster, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484707306/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>KPMG US</strong></td>
-<td><a href="https://trueinterview.io/jobs/beba8cfd-887b-44de-b775-ed82e59f60ff">Temporary System Administrator Shift Work (Disaster Recovery)</a></td>
-<td>Denver, CO<br/>Boulder, CO<br/>Atlanta, GA<br/>+58 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484107318/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -102,14 +130,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Jacobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/9801ca4b-b8d8-41a2-be18-1da1420dd510">Electrical Engineering Professional</a></td>
-<td>Denver, CO<br/>Portland, OR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4411872161/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Burns &amp; McDonnell</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e80f86c3-a903-404b-894b-55eeef5b5548">Electrical Engineer - Solar (Multiple Locations)</a></td>
 <td>Denver, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4371721084/">Apply</a></td>
@@ -415,6 +436,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States<br/>Denver, CO</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8214452/apply/?gh_jid=8214452">Apply</a></td>
 <td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Inalab</strong></td>
+<td><a href="https://trueinterview.io/jobs/1495031a-e6a7-4a32-a521-b1ee82d29f2c">Application Developer - FWS ECOSphere</a></td>
+<td>Fort Collins, CO<br/>Falls Church, VA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/inalabconsulting/jobs/5129452008">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4e38aba4-eb5c-4c27-bebc-e4f28f895df2">Application Developer - Databricks - FWS</a></td>
+<td>Fort Collins, CO<br/>Falls Church, VA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/inalabconsulting/jobs/5421174008">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1bf13ed2-63e7-4173-85fe-6739fcc0a8e0">Front-End Application Developer - FWS</a></td>
+<td>Fort Collins, CO<br/>Falls Church, VA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/inalabconsulting/jobs/5421149008">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/19b8b495-165b-4488-a7ee-e6972d12ed1b">New Product Introduction Process Engineer, Recent Graduate</a></td>
+<td>Colorado Springs, Colorado, United States<br/>US-CO-Col Springs-Bldg C</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54250?lang=en-us">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cesiumastro</strong></td>
+<td><a href="https://trueinterview.io/jobs/37eac710-2cb6-4bbd-b4b9-69432426852e">Mechanical Engineer I</a></td>
+<td>Westminster, CO<br/>Austin, TX<br/>El Segundo, CA</td>
+<td align="center"><a href="https://jobs.lever.co/CesiumAstro/ebf75b86-512b-476c-bf66-d0e399a21929/apply">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/52d02fe5-81b0-4e0b-b675-96e97f9e2341">Electrical Engineer I - SATCOM</a></td>
+<td>Westminster, CO</td>
+<td align="center"><a href="https://jobs.lever.co/CesiumAstro/86c0ccc6-3348-4830-a8bd-dd532938a5bc/apply">Apply</a></td>
+<td align="center">30 Aug 2026</td>
 </tr>
 </tbody>
 </table>

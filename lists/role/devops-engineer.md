@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**74 open roles.** 30 in the United States & Canada · 44 elsewhere in the world.
+**82 open roles.** 36 in the United States & Canada · 46 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Erias Ventures</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1cdc633-15d0-49b2-adb8-9d07a6aab78e">Enterprise - DevOps Engineer - Linux, Kubernetes, Bash, Docker</a></td>
+<td>Annapolis Junction, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484718757/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b592babc-4132-4b50-8c76-80074044c063">Enterprise - DevOps Engineer - Linux, Python, Docker</a></td>
+<td>Annapolis Junction, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484732344/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Freedom Technology Solutions Group, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/73db5dc3-5978-48c7-9f0b-21901d45b488">DevOps Engineer 594</a></td>
+<td>Annapolis Junction, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448198628/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Genesis10</strong></td>
+<td><a href="https://trueinterview.io/jobs/f92ee30c-12a9-4646-b8c7-ad23d91cd77b">DevOps Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484717453/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BCforward</strong></td>
+<td><a href="https://trueinterview.io/jobs/18fa2291-ae7a-4d61-9c51-2c29cf246578">Azure DevOps Engineer</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484706919/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Je Suis Copa</strong></td>
 <td><a href="https://trueinterview.io/jobs/4d981b9f-6c96-4945-af99-b21202756261">Developer/DevOps Engineer</a></td>
@@ -36,13 +71,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6cb40035-efac-46ee-85d8-bfe55488f854">AVP DevOps Engineer</a></td>
 <td>Fort Mill, SC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466586116/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>FIS</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3ca3ef3-f28f-4e57-9bac-34cb31c46dec">DevOps Engineer Specialists</a></td>
-<td>Jacksonville, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484707657/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -227,6 +255,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016451376">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Consensus</strong></td>
+<td><a href="https://trueinterview.io/jobs/28dd35ae-119a-46da-8eba-4fa55133aba4">DevOps Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://4dayweek.io/job/devops-engineer-at-consensus-6bf18434">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ontic</strong></td>
+<td><a href="https://trueinterview.io/jobs/859d9f6e-22cb-46e0-8f82-fea430342c2f">Associate DevOps Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/ontic/c4f5bf21-d5a9-488c-9638-631bd58de471/application">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -240,17 +282,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>SEITENBAU GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/043c1d68-e7ab-4e8c-8f45-af70cbb636d5">DevOps &amp; Cloud Engineer (m/w/d) - Konstanz, Berlin oder remote</a></td>
+<td>Constance, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482561059/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tenth Revolution Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/22a7427a-6641-408c-96e6-6b11e29525f1">AWS DevOps Engineer – AI/ML</a></td>
+<td>England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482541419/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>People In AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/ebf51268-94e3-4e71-ac6d-7d2d1499cfee">DevOps Engineer</a></td>
 <td>San Diego Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484715519/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DigiTech Search</strong></td>
-<td><a href="https://trueinterview.io/jobs/9dc8e9d0-f1b0-46da-b690-b93a2383ba19">System / DevOps Engineer (Linux / Ansible / Docker / Windows)</a></td>
-<td>Zurich, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482549113/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -518,6 +567,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>India</td>
 <td align="center"><a href="https://careers.nttdata.com/global/en/job/392967">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Persistent Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/8dd4ed5a-9751-4110-b844-771130c1cbd0">Azure DevOps Engineer</a></td>
+<td>Melbourne, Australia</td>
+<td align="center"><a href="https://careers.persistent.com/jobview/architect-australia-melbourne-2026102321321289">Apply</a></td>
+<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>VassuTech</strong></td>

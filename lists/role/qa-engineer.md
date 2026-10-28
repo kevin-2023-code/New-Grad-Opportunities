@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**103 open roles.** 72 in the United States & Canada · 31 elsewhere in the world.
+**104 open roles.** 72 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Technix LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/0dfca381-0a17-4162-ae07-a0afc9bd08af">QA Engineer with Salesforce</a></td>
+<td>Washington, DC<br/>Alaska, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482504429/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TalentHop</strong></td>
+<td><a href="https://trueinterview.io/jobs/559ccd94-7f78-4cb8-aae8-6f4ae4fb1d9b">QA Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482539896/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Brown &amp; Brown</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ee7165f-66e2-4688-b9e7-74b259badbc7">Hybrid BA / QA Analyst</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484702912/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Largeton Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d03e96b-6cd9-4e1c-8485-7309101c43e6">Quality Assurance Tester</a></td>
+<td>Vienna, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484715635/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Butterball</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c8e3344-7e11-4f31-912f-9d01f9e66701">1st Shift- Quality Assurance Tech</a></td>
 <td>Mount Olive, NC<br/>Carthage, MO</td>
@@ -29,13 +57,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1c5fa06f-76ad-41e3-afa1-a2c64fee92bb">Software Development Engineer in Test</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4457402277/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>T2 Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1375289-8930-436a-a3a1-1c26ea83668b">Quality Assurance Automation Engineer</a></td>
-<td>Burnaby, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484706872/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -71,20 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/97925d55-4f23-419f-a763-9aa7cd4ca6b2">Software Engineer in Test</a></td>
 <td>Detroit, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484494858/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>RemoteHunter</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4a8bb90-dd0c-4ebe-b379-cda8148c93a6">Quality Assurance Analyst</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484101572/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Air Apps</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e8ce477-4303-4ded-ab66-b543facc2fc1">Backend QA Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478630516/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -312,13 +319,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Technix LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/0dfca381-0a17-4162-ae07-a0afc9bd08af">QA Engineer with Salesforce</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482504429/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>ZETTALOGIX INC</strong></td>
 <td><a href="https://trueinterview.io/jobs/be76acb6-0dd5-4609-9c1e-5d2f78d41c05">QA Analyst</a></td>
 <td>Trenton, NJ</td>
@@ -533,6 +533,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Extreme Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/b3153d5f-0fd1-4004-a6df-59c7ba7ed226">QA SW ENGINEER</a></td>
+<td>Chennai, Tamil Nadu, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482548241/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>EY</strong></td>
 <td><a href="https://trueinterview.io/jobs/f2c8d956-5773-46d5-90d0-48866b06abff">EY External Security Vetting Quality Assurance Specialist</a></td>

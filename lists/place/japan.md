@@ -2,7 +2,7 @@
 
 # 🇯🇵 Tokyo & Japan
 
-**5 open roles.**
+**8 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,10 +20,31 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Bloomberg</strong></td>
+<td><a href="https://trueinterview.io/jobs/1fec3d6b-5d71-425b-8e2c-60823076a24f">Data Support Analyst (Japanese Speaker), Tokyo</a></td>
+<td>Tokyo, Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463978366/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens EDA (Siemens Digital Industries Software)</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6874ae0-d13b-45a1-b8b3-d4fc90c0f5e3">Field Application Engineer Calibre</a></td>
+<td>Tokyo, Tokyo, Japan<br/>Greater Nagoya</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484114366/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Applied Materials Japan</strong></td>
 <td><a href="https://trueinterview.io/jobs/296203ee-aacc-4b09-b174-23a0a6cec64f">Supplier Engineer (E4)</a></td>
 <td>Tokyo, Tokyo, Japan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474459653/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Two Sigma</strong></td>
+<td><a href="https://trueinterview.io/jobs/93e6b833-bd9a-45e4-8569-1c56e3e5eb91">Data Operations Analyst - Global Data Operations (Tokyo)</a></td>
+<td>Tokyo, Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474454133/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

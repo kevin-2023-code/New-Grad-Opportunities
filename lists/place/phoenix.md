@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**67 open roles.**
+**77 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Captiveaire - Region 114 Western PA</strong></td>
+<td><a href="https://trueinterview.io/jobs/1dfc7864-3930-4f61-9ab0-169394e847d2">Field Engineer</a></td>
+<td>Phoenix, AZ<br/>New York, NY<br/>Tampa, FL<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484738290/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Onsemi</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6ee9db8-d0a4-450b-9c93-33216fba9646">Package Development Engineer</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465936049/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Ashurst Perkins Coie</strong></td>
 <td><a href="https://trueinterview.io/jobs/e91036a7-da00-4077-91b4-19dcd955b76a">Service Desk Support Technician</a></td>
 <td>Phoenix, AZ<br/>Seattle, WA<br/>Portland, OR<br/>+1 more</td>
@@ -32,10 +46,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Honeywell Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/bddd6ca0-da71-4cc6-8b4e-6ce8263dfcb1">Embedded Avionics Systems Engineer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484726086/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Choice Hotels International</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ae07969-67a8-436c-9419-25a6c91911cb">Software Engineer 1, Mobile Apps - Kotlin exposure required</a></td>
 <td>Scottsdale, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4458581381/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cranial Technologies, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/25e89bbf-57c9-476e-978a-0b7cabe5466a">IT Help Desk Technician</a></td>
+<td>Tempe, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484708916/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Smart IT Frame LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/43238970-c160-4b55-b96d-3338bcd86d32">Service Desk Engineer</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483883928/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -60,10 +95,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>KPMG US</strong></td>
+<td><a href="https://trueinterview.io/jobs/beba8cfd-887b-44de-b775-ed82e59f60ff">Temporary System Administrator Shift Work (Disaster Recovery)</a></td>
+<td>Tempe, AZ<br/>Phoenix, AZ<br/>Atlanta, GA<br/>+58 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484107318/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Consumer Cellular, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/055c9b2e-59e6-48ad-9ffa-cd9202d13ffe">Data Privacy Analyst</a></td>
 <td>Scottsdale, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482539661/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Viasat</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4ffbb67-a6bb-4e5e-99cd-13bf727dd289">Systems Test Engineer</a></td>
+<td>Tempe, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484711199/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -123,13 +172,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>KPMG US</strong></td>
-<td><a href="https://trueinterview.io/jobs/beba8cfd-887b-44de-b775-ed82e59f60ff">Temporary System Administrator Shift Work (Disaster Recovery)</a></td>
-<td>Tempe, AZ<br/>Phoenix, AZ<br/>Atlanta, GA<br/>+58 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484107318/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Smart IT Frame LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/cd128ec8-6f42-47dc-91c0-df4c5224e6a7">Service Desk Engineer -Windows, AD, Network, ITSM</a></td>
 <td>Phoenix, AZ</td>
@@ -172,14 +214,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Smart IT Frame LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/43238970-c160-4b55-b96d-3338bcd86d32">Service Desk Engineer</a></td>
-<td>Scottsdale, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483883928/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Komatsu</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cb2427bd-90bc-44ad-a32f-ef142e5e4a43">Software Engineer I</a></td>
 <td>Mesa, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467954206/">Apply</a></td>
@@ -485,6 +520,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Tucson, Arizona, United States<br/>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/20103?lang=en-us">Apply</a></td>
 <td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/829c9d0d-465b-4676-b5ec-abcc3afd6a38">IT Engineer</a></td>
+<td>Phoenix, AZ<br/>Memphis, TN</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/8d38405a-e267-4a51-a31e-0a5f1953474d/application">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>World View Enterprises Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e011e2b7-6d34-40d7-8c47-6b3ad848da9e">Supplier Quality Engineer [SQE]</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://jobs.lever.co/world-view-enterprises-inc./963f3acf-7001-4d9b-b511-0125f2bdf579/apply">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c19bd579-1a49-4e7d-9dac-b7f29dfbf370">Electrical Engineer</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://jobs.lever.co/world-view-enterprises-inc./601b604e-5a59-473e-b5f3-73579fcd64be/apply">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lucidmotors</strong></td>
+<td><a href="https://trueinterview.io/jobs/0733bd94-0538-486b-ae0f-c2d6d27cf203">Manufacturing Engineer I</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/lucidmotors/jobs/5228159007">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/a24f91a6-becc-4af6-a08d-bbbd233b2442">Software Engineer, New College Grad- Master's (Chandler, AZ)</a></td>
+<td>Chandler, AZ, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318344904">Apply</a></td>
+<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

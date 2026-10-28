@@ -2,7 +2,7 @@
 
 # 🇪🇸 Madrid, Barcelona & Iberia
 
-**24 open roles.** 1 in the United States & Canada · 23 elsewhere in the world.
+**25 open roles.** 1 in the United States & Canada · 24 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Celonis</strong></td>
+<td><a href="https://trueinterview.io/jobs/141f2df9-f749-460e-aaab-fa0f88414f67">Associate Deployment Engineer - Galaxy Graduate Program</a></td>
+<td>Madrid, Community of Madrid, Spain<br/>Munich, Bavaria, Germany<br/>Greater Bengaluru Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482550070/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Revolut</strong></td>
 <td><a href="https://trueinterview.io/jobs/49693a8a-0395-4204-9504-67a8f8a71938">Product Owner (Technical)</a></td>

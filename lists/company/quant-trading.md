@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**9 open roles.** 6 in the United States & Canada · 3 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**13 open roles.** 7 in the United States & Canada · 6 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -59,6 +59,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.tower-research.com/open-positions/?gh_jid=8167234">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
+<tr>
+<td><strong>Hudson River Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a555ace-fb4a-46e8-bd7d-315efc691351">Design Verification (DV) Engineer - 2027 Grads</a></td>
+<td>New York, NY<br/>New York City</td>
+<td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8167806">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -73,9 +80,23 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Tower Research Capital</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2290fad-4a40-46c0-a797-2514a6b08715">Software Engineer</a></td>
+<td>Hong Kong SAR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467974550/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f97f4036-ba2b-482b-a088-e840781b89a8">Network Engineer</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459151739/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Two Sigma</strong></td>
+<td><a href="https://trueinterview.io/jobs/93e6b833-bd9a-45e4-8569-1c56e3e5eb91">Data Operations Analyst - Global Data Operations (Tokyo)</a></td>
+<td>Tokyo, Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474454133/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -90,6 +111,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e22b3aa4-3497-49e6-84ab-eeb6e745b7ee">Data Center Engineer</a></td>
 <td>Mumbai, Maharashtra, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4430881551/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Two Sigma</strong></td>
+<td><a href="https://trueinterview.io/jobs/284dcec5-1375-4f11-b6f4-a65d35287c05">Reliability Engineer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4391485193/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

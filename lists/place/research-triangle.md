@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**64 open roles.**
+**82 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,108 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>PTR Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/9147f50a-d530-431d-a41a-88b52e233c6f">Product Owner</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484732523/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pinnacle Group, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/399c5485-5179-4338-b436-aea1395a4f83">Data Analyst</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484721802/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Accord Technologies Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/a91472ee-2edd-4a79-86d8-ed8b3c10818f">Windows Systems Engineer with Azure</a></td>
+<td>Columbia, SC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484739170/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vaco by Highspring</strong></td>
+<td><a href="https://trueinterview.io/jobs/59f3b386-3ff5-428d-b904-88a5cde6fc0d">Mechanical Design Engineer</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484726503/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sargent &amp; Lundy</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbfa8f58-7f10-4ff4-9f8a-204faac51368">Instrumentation &amp; Controls Engineer 1 (Entry-Level) - Nuclear</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457411384/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aditi Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/408f1e15-999a-459b-9ff0-f07324c61ebc">HPC Systems Administrator</a></td>
+<td>Greenville, SC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484719603/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Matlen Silver</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f5be30d-ad13-4e5b-b560-2ffaee333d2a">Full Stack Java Developer w/ Vulnerability Remediation Testing</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484726297/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Black &amp; Veatch</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f326221-53db-497a-a306-69e6856dbf70">Graduate Engineer, Instrument &amp; Controls - APG (Ann Arbor)</a></td>
+<td>Raleigh, NC<br/>Ann Arbor, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467293606/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Valmet</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8e3f32d-f1db-4091-9aa4-0ec0c8f56e4a">Product Engineer - Chippers and Drums</a></td>
+<td>Charlotte, NC<br/>Florence, AL<br/>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476386284/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aditi Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3bce8f4-ea8f-4866-a66f-54d9678e66bd">HPC Data Management Engineer</a></td>
+<td>Greenville, SC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484711588/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Summit Tech Partners</strong></td>
 <td><a href="https://trueinterview.io/jobs/921f590f-e23c-45fd-985b-ef39c9f39b9b">Fixed Income Data Analyst</a></td>
 <td>Charlotte, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484732128/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TEKsystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/4dbe18c8-8cd4-48e1-9ef9-7324acea02d3">Azure Engineer</a></td>
+<td>Charlotte, NC<br/>Plano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484724074/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>American Unit, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/47c38519-712a-4b17-906e-3db47e4b31b0">Oracle Database Administrator</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484715841/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>My3Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b0a7582-c529-465c-aa61-33e2dfbbd350">Oracle Exadata DBA</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482528805/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Shamrock Trading Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd1c5f84-c1a3-4d93-a045-fb7c8ec9c773">Technical Support Analyst</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475411122/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -46,6 +144,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>KPMG US</strong></td>
+<td><a href="https://trueinterview.io/jobs/beba8cfd-887b-44de-b775-ed82e59f60ff">Temporary System Administrator Shift Work (Disaster Recovery)</a></td>
+<td>Greenville, SC<br/>Charlotte, NC<br/>Raleigh, NC<br/>+58 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484107318/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>SMBC Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/9da9e4a3-1834-48cf-9c31-83693c62ae0d">Software Engineer - Capital Markets</a></td>
 <td>Charlotte, NC</td>
@@ -57,13 +162,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c04fae56-9df8-4a47-8310-b6b7a43a3178">Security and Systems Administrator</a></td>
 <td>Raleigh, NC<br/>Bismarck, ND<br/>Wilkesboro, NC<br/>+6 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482509289/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>KPMG US</strong></td>
-<td><a href="https://trueinterview.io/jobs/beba8cfd-887b-44de-b775-ed82e59f60ff">Temporary System Administrator Shift Work (Disaster Recovery)</a></td>
-<td>Greenville, SC<br/>Charlotte, NC<br/>Raleigh, NC<br/>+58 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484107318/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -464,6 +562,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Charlotte, North Carolina, United States<br/>Charlotte, NC</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/mcadams/jobs/5242648007">Apply</a></td>
 <td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Erg</strong></td>
+<td><a href="https://trueinterview.io/jobs/dec8fc29-023b-43a1-a2b4-6a2ec6c6aeb6">On-site Environmental Scientist, Engineer, and Technical Specialist</a></td>
+<td>Morrisville, NC<br/>Chapel Hill, NC<br/>Durham, NC<br/>+1 more</td>
+<td align="center"><a href="https://jobs.lever.co/erg/a3a475aa-be18-440c-9bc8-000200aeb963/apply">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/7daa0bb2-c2e5-4d3a-9c81-ae548e6505e8">AI and Machine Learning Engineering Graduate</a></td>
+<td>Durham, North Carolina, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475">Apply</a></td>
+<td align="center">13 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec1529fb-4fc9-4c54-99c4-15d920d42928">Graduate – Analog Design Engineer</a></td>
+<td>Morrisville, NC, US<br/>Andover, MA, US</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971880479">Apply</a></td>
+<td align="center">7 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Computer World Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c98a8cc-aac2-4870-af3f-ca4091231746">Desktop Engineer - Windows</a></td>
+<td>Morrisville, NC</td>
+<td align="center"><a href="https://jobs.lever.co/cwsc/6bf8347d-5fef-4460-a79e-c32aa9089498/apply">Apply</a></td>
+<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>

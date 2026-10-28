@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**46 open roles.**
+**51 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>E-Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf796e99-1662-4dff-8615-ae9cd2f341a2">Validation Engineer</a></td>
+<td>Hillsboro, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484728427/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Boly:Welch</strong></td>
+<td><a href="https://trueinterview.io/jobs/d787afee-e4a3-4341-8228-b929663100ab">Upcoming Contract Positions – Product Developer</a></td>
+<td>Beaverton, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446261751/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Ashurst Perkins Coie</strong></td>
 <td><a href="https://trueinterview.io/jobs/e91036a7-da00-4077-91b4-19dcd955b76a">Service Desk Support Technician</a></td>
 <td>Portland, OR<br/>Boise, ID<br/>Seattle, WA<br/>+1 more</td>
@@ -29,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f6d784ab-c4dd-48f8-90be-df3f88b31b95">Mechanical Design Engineer - Sustaining support</a></td>
 <td>Hillsboro, OR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474093861/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KPMG US</strong></td>
+<td><a href="https://trueinterview.io/jobs/beba8cfd-887b-44de-b775-ed82e59f60ff">Temporary System Administrator Shift Work (Disaster Recovery)</a></td>
+<td>Boise, ID<br/>Atlanta, GA<br/>Denver, CO<br/>+58 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484107318/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -53,13 +74,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>KPMG US</strong></td>
-<td><a href="https://trueinterview.io/jobs/beba8cfd-887b-44de-b775-ed82e59f60ff">Temporary System Administrator Shift Work (Disaster Recovery)</a></td>
-<td>Boise, ID<br/>Atlanta, GA<br/>Denver, CO<br/>+58 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484107318/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>KPFF Consulting Engineers</strong></td>
 <td><a href="https://trueinterview.io/jobs/8df03c4a-d979-49bb-943d-7e3c3d822ffb">Protective Design Engineer (Structural/Blast Engineering)</a></td>
 <td>Portland, OR<br/>San Francisco, CA</td>
@@ -67,10 +81,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Jacobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/9801ca4b-b8d8-41a2-be18-1da1420dd510">Electrical Engineering Professional</a></td>
-<td>Portland, OR<br/>Denver, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4411872161/">Apply</a></td>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/a413e2f1-958a-4b7d-ada0-5f0ec1f0bb2d">Design Verification Engineer</a></td>
+<td>Beaverton, Oregon, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692085">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -162,6 +176,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7eaee4d8-8f76-4c5b-9f79-0a8948984b1e">IT Endpoint Engineer</a></td>
 <td>Portland, OR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476397262/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MethodHub</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b6c9ca2-9df1-46c5-970b-a580f1641ad9">AWS Aurora Database Developer</a></td>
+<td>Portland, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482124424/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -319,13 +340,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/acb3851c-1789-4173-a762-a39468742a53">Associate Equipment Engineer</a></td>
-<td>US, OR, Beaverton, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Associate-Equipment-Engineer_R263682">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/79e4124e-55b3-4993-994d-a620025cfa48">Process Control Engineer (SPC)</a></td>
 <td>Boise, ID, US</td>
@@ -338,6 +352,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44447535">Apply</a></td>
 <td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/49167649-e24d-45fe-889e-0b03fafb0f34">New College Grad - Controls Design Engineering</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44419478">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/989d08ad-092b-469a-8317-4081297eb7bc">New College Grad - Yield Enhancement Electrical Failure Analysis Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44138259">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/784b73ce-58f0-4adb-8584-685ef397bdf2">New College Grad - Product Test Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44247226">Apply</a></td>
+<td align="center">30 Aug 2026</td>
 </tr>
 </tbody>
 </table>
