@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**35 open roles.** 32 in the United States & Canada · 3 elsewhere in the world.
+**58 open roles.** 51 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Benchstack Ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e2c0d15-d315-42fd-a5e0-746e888e4cf1">Hardware Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484049974/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Astrion</strong></td>
+<td><a href="https://trueinterview.io/jobs/44e7bdfe-4839-4eb8-9c4e-f1c8a0be971f">Early Career Spaceflight Hardware Propulsion Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475116151/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Farnsworth Group, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1bbf117-f040-44e3-b9a4-6092e8b63a71">Industrial/Semiconductor Mechanical Designer</a></td>
@@ -241,6 +255,125 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer_R267037-1">Apply</a></td>
 <td align="center">8 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/3eca1faf-92dc-4025-9044-aa703e919ef5">System Design Engineer - New College Grad 2026</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893392898537">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e2c4f58-44fb-4765-962d-ea53513bab7c">Graduate - Application Engineer</a></td>
+<td>Andover, MA, US</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808972041604">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/66410ae1-6873-43ad-b4cb-cbab6f5fe15b">Layout/Mask Design Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44700559">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/f7c61afd-6cf4-40ec-a0d2-7e5550cf0eba">ASIC Verification Engineer, Memory Management - New College Grad 2027</a></td>
+<td>Durham, NC, US<br/>Madison, AL, US<br/>Hillsboro, OR, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397892980">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/094ba932-0117-45a2-b073-8cd3f940513b">RF Engineer I (R6108)</a></td>
+<td>Seattle, Washington</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/a9d061e9-4d28-4a30-8381-5f2dc28b4416/apply">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Laminar (formerly H2ok Innovations</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3c43891-b56b-48d7-a8e6-fcb2c705ba95">Junior R&amp;D Engineer</a></td>
+<td>Somerville, MA</td>
+<td align="center"><a href="https://jobs.lever.co/runlaminar/facb7705-9d9e-406a-b053-02068a8c059a/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Muon Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/4822d073-f3bc-4de3-826e-712537071f11">GNC Hardware Engineer</a></td>
+<td>Mountain View, CA<br/>Muon Mountain View</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5248780007">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Applied intuition</strong></td>
+<td><a href="https://trueinterview.io/jobs/75a0c114-10db-4b19-ad75-20f71528cfc9">Hardware Engineer, Mechatronics</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/applied/0820cc79-9305-43d3-836e-2c9654afb39e/application">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/353bbae4-7e2f-4985-bfef-a60aa81d951d">Electrical Hardware Engineer Graduate</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer-Graduate_1213434-2">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/c41859ad-63dd-4ef2-a7c1-115bcc05e359">New College Grad - Memory System Architect, HBM Generative AI</a></td>
+<td>Folsom, CA, US<br/>Richardson, TX, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44544598">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1a16349-a1dd-46b0-878a-0fe516f96ce7">Product Design Engineer, Pixel Earbuds</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/112624297326846662-product-design-engineer-pixel-earbuds">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/316466dc-0561-415e-a21c-bb2ca241d6bb">Electrical Engineer, Space Emerging Talent</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236639007?gh_jid=5236639007">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2111e4e-05b4-433c-9d0f-9ae3b87374cd">Associate Analog Design Engineer</a></td>
+<td>US, CA, San Jose, Rio Robles, United States of America<br/>US, AZ, Chandler, East Elliot, United States of America<br/>US, CO, Colorado Springs, Chapel Hills<br/>+1 more</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Analog-Design-Engineer_R266119">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/7129cf70-b083-4eaf-8895-c5657d4a320a">Qualification Engineer, Fluidstack Labs</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/59467485-4cc1-4396-a769-af118d3629f8/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/93da45df-e41e-4c00-b899-9d392d071b68">ASIC Emulation Engineer</a></td>
+<td>US, CA, Santa Clara<br/>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92094?lang=en-us">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/ddc6009a-3151-4436-8d5f-011e55d741ab">AI GPU Power Architect - New College Grad 2026</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893394987881">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/4946ec96-c222-47e9-9c6b-a1c3a6f4bf0f">Visiting Hardware Engineer</a></td>
+<td>Menlo Park, CA, US</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1116121644406167/">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -253,6 +386,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Imagination Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/45ae35ea-9d94-483a-8d22-0beb79756116">GPU Hardware Datapath Design Engineer</a></td>
+<td>Kings Langley, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448192893/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Indes</strong></td>
+<td><a href="https://trueinterview.io/jobs/cbcd8b66-949f-47fd-ac37-e86400d90901">Hardware Engineer</a></td>
+<td>Enschede, Overijssel, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484457976/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SII Germany</strong></td>
+<td><a href="https://trueinterview.io/jobs/57abf4e1-4f01-4d64-8513-05d49136ed63">Hardware Development Engineer (m/w/x)</a></td>
+<td>Ulm, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482898953/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lumilens</strong></td>
+<td><a href="https://trueinterview.io/jobs/c99715af-6460-492f-95fe-5fb8e23cf05e">ATE Test Engineer – Optical Transceiver Silicon</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466817751/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/b9f51b8d-5b36-4057-b9cf-8282ee673f1c">Hardware Systems Engineer</a></td>

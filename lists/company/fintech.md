@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**9 open roles.** 5 in the United States & Canada · 4 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**26 open roles.** 15 in the United States & Canada · 11 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Upstart</strong></td>
+<td><a href="https://trueinterview.io/jobs/74cd78e3-538d-4a99-998e-16e4717109f1">Software Engineer, Upstart Bank</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4437617406/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>LendingTree</strong></td>
 <td><a href="https://trueinterview.io/jobs/59082089-0401-4810-b078-12067a660e54">Data Product Analyst</a></td>
@@ -52,6 +59,69 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/8010617003">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Prosper</strong></td>
+<td><a href="https://trueinterview.io/jobs/26f7c8e3-d866-47ad-b172-32f60733d13c">Escalations Specialist</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://jobs.lever.co/prosper/9bb39aef-0ca1-49b2-af48-2cd92cfddc5f/apply">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Wise</strong></td>
+<td><a href="https://trueinterview.io/jobs/8000f2d6-6ac2-4491-bd21-cdbf03699223">Graduate Software Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://4dayweek.io/job/graduate-software-engineer-at-wise-0d0c3f2e">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Plaid</strong></td>
+<td><a href="https://trueinterview.io/jobs/13325519-049c-4a37-b2f5-7668c21f5eac">TechOps Site Support</a></td>
+<td>Seattle Office<br/>New York City Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/plaid/4cc6c985-40cc-472f-94cd-90807c698b50/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lendbuzz</strong></td>
+<td><a href="https://trueinterview.io/jobs/53f0585b-4f60-4cd7-858e-39542b7ba868">Full-Stack Engineer (Backend)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://jobs.lever.co/lendbuzz/a19330a3-380a-45ad-b388-c98c33ef0db3/apply">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Toast, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/97419279-be10-45ff-b686-1aa12d64d821">Software Engineer I, Websites</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8191751">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e3b4740-0aab-4386-9526-434a8718ff5b">Software Engineer, Early Career — Immediate Start</a></td>
+<td>San Francisco, CA<br/>Toronto, ON<br/>San Francisco, Seattle, New York<br/>+1 more</td>
+<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8212508">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sydecar</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2679ccd-c966-482e-9af4-8f6a0ed0679c">Software Engineer 1, Platform</a></td>
+<td>San Francisco Office - Hybrid</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sydecar/79847304-2735-47ce-ae04-237c8957982a/application">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Neo Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/674f8618-49b4-4f58-9c4a-3a84ab7f6ee5">Data Science - Future Opportunities</a></td>
+<td>Calgary, AB</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neofinancial/f1aa04a8-de2c-4012-a91f-a370ed560116/application">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Wise</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f958c6f-e754-44c9-8c79-eb1cf32af0b9">Security Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://4dayweek.io/job/security-engineer-at-wise-0b6fa6c9">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -65,10 +135,31 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Thought Machine</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4a1e56a-65a3-4280-bf68-262666be31ff">Infrastructure Engineer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465580194/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Starling</strong></td>
+<td><a href="https://trueinterview.io/jobs/88a75768-2ccf-40fe-a504-c9a2d5f468c4">Content Designer</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://apply.workable.com/j/F86ED8EDBA">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Adyen</strong></td>
 <td><a href="https://trueinterview.io/jobs/0dfdcd80-c922-4b67-bc95-051e71e16109">Software Engineer (Java)</a></td>
 <td>São José dos Campos, São Paulo, Brazil</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4277921483/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nickel</strong></td>
+<td><a href="https://trueinterview.io/jobs/c85ba4e0-5362-4aaa-aa98-89aa6e6675d0">Analytics Engineer F/H</a></td>
+<td>Charenton-le-Pont, France</td>
+<td align="center"><a href="https://nickel-jobs.my.salesforce-sites.com/postulateFr?id=a10Sm00000HmoryIAB">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -91,6 +182,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/kin/99967c4f-e3cc-42b3-90d0-0f4499140c22/application">Apply</a></td>
 <td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FIS Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/590a0675-7c92-47bf-b90f-6c3f60248b5a">Site Reliability Engineer (SRE) – Cloud Platform</a></td>
+<td>IND PUNE FL7</td>
+<td align="center"><a href="https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Site-Reliability-Engineer--SRE----Cloud-Platform_JR0309828">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>C6 Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a9c1787-3aa3-48f4-adb1-34aa9ce7ce27">Pessoa Estagiária em Estratégia e Políticas de Recuperação de Crédito | Cobrança</a></td>
+<td>São Paulo, Brazil<br/>Estágio</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4733467005">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Griffin</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f2be7d7-d4b6-4e7a-b4ec-304328a19124">Infrastructure Engineer</a> 🌐</td>
+<td>Remote — United Kingdom</td>
+<td align="center"><a href="https://4dayweek.io/job/infrastructure-engineer-at-griffin-070b444e">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>FIS Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d410a9f-206b-4d7b-a625-9fff22c63075">Software Engineering, FIS University Program</a></td>
+<td>3 Locations</td>
+<td align="center"><a href="https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Software-Engineering--FIS-University-Program_JR0309486">Apply</a></td>
+<td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
 </table>

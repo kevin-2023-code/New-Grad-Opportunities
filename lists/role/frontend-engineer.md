@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**13 open roles.** 10 in the United States & Canada · 3 elsewhere in the world.
+**27 open roles.** 14 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ca51eaf-d850-4ef7-99ae-ba79ef681d35">Web Developer I - USA | Remote</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484457990/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Wiraa</strong></td>
 <td><a href="https://trueinterview.io/jobs/5cd10317-dd38-4b5d-bfc6-77f42bdfacb6">Web Developer I / II</a></td>
@@ -87,6 +94,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/whoop/ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3/application">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/81dbc0d4-309a-472c-b71c-efb438c15e85">UI Developer</a></td>
+<td>Washington, DC<br/>Arlington, VA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4713342006?gh_jid=4713342006">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Applied intuition</strong></td>
+<td><a href="https://trueinterview.io/jobs/8deb5d02-a413-4392-9561-22e5f5f9fd2a">Full-Stack Software Engineer -  Command &amp; Control</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/applied/f4c0ee25-b4d4-4f3d-b054-e9c1aeb56104/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Blink Ux</strong></td>
+<td><a href="https://trueinterview.io/jobs/315272c3-6bd3-4f0e-a904-febf2e314644">UI Developer (React)</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://jobs.lever.co/blinkux/47c561a4-0757-4eaa-9416-e758a59a9c61/apply">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -100,10 +128,52 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Q1 Technologies, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e90aa139-59d5-40a0-b95d-299fd6f77889">Frontend Developer</a></td>
+<td>Greater Glasgow Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482510756/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ace Rooms Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/b59d3075-8ec6-4caf-b804-20d44adf3654">Frontend Developer</a></td>
+<td>Kolkata metropolitan area, West Bengal, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482503873/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Leegality</strong></td>
+<td><a href="https://trueinterview.io/jobs/ed56db2e-ae87-4f4c-8d4c-69fb14f2ddc4">Front End Developer - ReactJs</a></td>
+<td>Gurugram, Haryana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483853311/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mendix</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9846078-fe15-4fd3-b86e-c6c6e6c59d22">Front-end Developer</a></td>
+<td>Rotterdam, South Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482505345/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Praetorian Aeronautics</strong></td>
+<td><a href="https://trueinterview.io/jobs/0445d3f3-7b08-450b-be43-3acd4b28dedd">Front End Software Engineer (egui / ImGui)</a></td>
+<td>Melbourne, Victoria, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476134840/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/5126e076-96af-4272-9337-dcef628f4d46">Front-End Process Integration Engineer</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474968202/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nederlandse Spoorwegen</strong></td>
+<td><a href="https://trueinterview.io/jobs/83883c85-75cd-4231-923d-dd07e7b66e26">Front-end Developer Reisinformatie Angular | DevOps (Dutch Only)</a></td>
+<td>Utrecht, Utrecht, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483874042/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -114,11 +184,39 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Fusion Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ab376aa-9f6c-485c-a138-b29b9a93cafd">SAC Front-End / UX Developer</a> 🌐</td>
+<td>Remote — India</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/FusionConsulting/744000158229278-sac-front-end-ux-developer">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Microquery</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9412d8f-163b-496f-8117-5a1ecbf4203f">Front End Developer</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="http://www.microquery.com/about-us/Careers-FrontEndDeveloper.html">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Msg</strong></td>
+<td><a href="https://trueinterview.io/jobs/4326bdb8-e861-4b29-a22e-00f1a39ba44d">Front End Developer</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.msg-global.com/job/Bangalore-Front-End-Developer-KA/1451581333/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Encora</strong></td>
 <td><a href="https://trueinterview.io/jobs/571b4222-e60d-4dec-9e7a-b33b90fe1e05">Mid Frontend React Engineer</a></td>
 <td>Bolivia, Cali<br/>Colombia, Cali<br/>Peru, Cali<br/>+1 more</td>
 <td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjw1fxmt59aq4q80smax5n">Apply</a></td>
 <td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lucidya</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb4d0853-e5ea-431d-b63e-706245cccb6f">Frontend Software Engineer</a></td>
+<td>Riyadh, Saudi Arabia</td>
+<td align="center"><a href="https://4dayweek.io/job/frontend-software-engineer-at-lucidya-8fa81b9b">Apply</a></td>
+<td align="center">19 Sep 2026</td>
 </tr>
 </tbody>
 </table>

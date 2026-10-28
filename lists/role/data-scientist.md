@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**31 open roles.** 29 in the United States & Canada · 2 elsewhere in the world.
+**71 open roles.** 38 in the United States & Canada · 33 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Labils</strong></td>
-<td><a href="https://trueinterview.io/jobs/6476b293-4a44-4e7a-be31-661e65d6b05d">Data Scientist</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483868819/">Apply</a></td>
+<td><strong>B4Corp</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8bfc6de-6c5c-42a0-8f2a-ccb5d8d3b66b">812273 Data Scientist $270,000.00</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483881550/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -85,6 +85,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4592e918-8553-42e0-abc9-e73b212fbe6f">Global Analytics Data Science</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://us-avisonyoung.icims.com/jobs/5965/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aviva</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9a7f686-4ab4-4073-9cdd-61ceb6623d08">AVP, Data Science &amp; Price Modelling</a></td>
+<td>Markham, Canada</td>
+<td align="center"><a href="https://aviva.wd1.myworkdayjobs.com/en-US/External/job/Markham/AVP--Data-Science---Price-Modelling_R-174730">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -193,6 +200,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>SymphonyAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd3e7f6a-33dd-4546-9adf-5735234bceb3">Data Scientist</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://jobs.symphonyai.com/jobs/3300/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Verizon</strong></td>
 <td><a href="https://trueinterview.io/jobs/536c91fe-aca8-4f02-b1e0-931508fe7bb7">Data Science Consultant</a></td>
 <td>Basking Ridge, NJ</td>
@@ -220,6 +234,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000155345139-data-scientist-?oga=true">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Mastercard</strong></td>
+<td><a href="https://trueinterview.io/jobs/61a2abf3-5a88-4234-ab32-396b97dcffd8">Field Data Scientist</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Field-Data-Scientist_R-291566">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>MLSE</strong></td>
+<td><a href="https://trueinterview.io/jobs/79fcf777-8594-4310-b31a-2659b78341ec">Data Scientist, Biomechanics</a></td>
+<td>Toronto, Ontario</td>
+<td align="center"><a href="https://mlse.wd3.myworkdayjobs.com/MLSE/job/Toronto-Ontario/Data-Scientist--Biomechanics_JR0000804">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Rhombus Power, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e236fe0-cdcc-46de-8c11-30149d9898b6">Data Scientist (Secret/Top Secret), Washington D.C.</a></td>
+<td>Washington, DC<br/>Washington, District of Columbia, United States<br/>Washington, D.C.</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rhombuspower/jobs/8002928003">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Spotify</strong></td>
+<td><a href="https://trueinterview.io/jobs/14aed7fd-86d6-4594-a931-63655e75d43c">Data Scientist, Music Mission</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.lifeatspotify.com/jobs/data-scientist-music-mission">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Neo Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/674f8618-49b4-4f58-9c4a-3a84ab7f6ee5">Data Science - Future Opportunities</a></td>
+<td>Calgary, AB</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neofinancial/f1aa04a8-de2c-4012-a91f-a370ed560116/application">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Parsons Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1de32a2-be52-4d6e-baa3-f8391d9085d1">Data Scientist</a></td>
+<td>MacDill Air Force Base, United States</td>
+<td align="center"><a href="https://4dayweek.io/job/data-scientist-at-parsons-corporation-e3766787">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/039610d1-a5d0-4d0b-8c3d-93d4834fd073">Data Scientist 2</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000148860049-data-scientist-2?oga=true">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -233,6 +296,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Tesco Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/365a0ef9-ac77-4e4f-a475-cf6d5f057244">Computer Vision Data Scientist</a></td>
+<td>Welwyn Garden City, United Kingdom<br/>Welwyn Garden City, England, United Kingdom</td>
+<td align="center"><a href="https://careers.tesco.com/en_GB/careers/JobDetail/176215">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SVA System Vertrieb Alexander GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc914c77-bdf6-4d4e-bd15-b653bfa64b07">System Engineer – Data Science (m/w/d)</a></td>
+<td>Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483875457/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Husky Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e56b3fd-ea27-4a03-91f6-11ba744072e6">Data Scientist- Husky( India ) Guindy,Chennai</a></td>
+<td>Chennai, Tamil Nadu, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483880020/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/c8fa8f70-cd72-43d0-92f8-edcc94bbf83f">Data Scientist-Artificial Intelligence</a></td>
 <td>Bengaluru, Karnataka, India</td>
@@ -240,11 +324,207 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/af12226f-b423-471a-bc8b-1cfad210ee12">Environmental Data Scientist (Biodiversity)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000158221353-environmental-data-scientist-biodiversity-">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CNP ASSURANCES</strong></td>
+<td><a href="https://trueinterview.io/jobs/5935c124-b2ec-4fd1-a324-0aaaf36c2ac1">DATA SCIENTIST - REFERENT IA H/F</a></td>
+<td>Issy-les-Moulineaux, France</td>
+<td align="center"><a href="https://cnp-recrute.talent-soft.com/offre-de-emploi/emploi-data-scientist-referent-ia-h-f_7729.aspx">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Deloitte</strong></td>
+<td><a href="https://trueinterview.io/jobs/385a6059-5c1f-43fe-8b5a-c293c2ab592a">Specialist -Data Team – Data Scientist</a></td>
+<td>India</td>
+<td align="center"><a href="https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-BM-C-L35-Specialist-Data-Team-Data-Scientist/373186">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NHS</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d5f1824-ef97-4c05-89d0-8c774b65fcea">Advanced Data Scientist</a></td>
+<td>Cardiff, United Kingdom</td>
+<td align="center"><a href="https://phw.nhs.wales/current-job-vacancies/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NiCE</strong></td>
+<td><a href="https://trueinterview.io/jobs/b923adc3-cafb-4b0b-bf63-81e53b325844">Specialist Data Scientist, Actimize</a> 🌐</td>
+<td>Remote — India</td>
+<td align="center"><a href="https://boards.eu.greenhouse.io/nice/jobs/5012246101?gh_jid=5012246101">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Roche</strong></td>
+<td><a href="https://trueinterview.io/jobs/d97b355d-3bfe-4e3c-afd8-85f6397eeede">AI Data Scientist - Applied AI</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.roche.com/de/de/job/202610-125362">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Activate Interactive Pte Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/10299375-8314-4d93-b7b8-60e791d67284">Data Scientist - A26410</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://apply.workable.com/j/8871E21EEA">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Agile Resources</strong></td>
+<td><a href="https://trueinterview.io/jobs/05e80598-32d3-4e70-b458-aa43be926b1d">Data Scientist – Machine Learning</a></td>
+<td>Södertälje, Sweden</td>
+<td align="center"><a href="https://arbetsformedlingen.se/platsbanken/annonser/31652302">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ab74b21a-def0-4a8a-a9fa-0c2fb3ee1e99">Software Developer &amp; Data Scientist</a></td>
+<td>Linköping, Sweden</td>
+<td align="center"><a href="https://arbetsformedlingen.se/platsbanken/annonser/31652553">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BNP Paribas</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f085dfa-9613-4173-9fe8-49ebd264118e">Stage - Data Scientist ALMT Digital Innovations &amp; AI - H/F</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://group.bnpparibas/en/careers/job-offer/stage-data-scientist-almt-digital-innovations-ai-h-f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Commonwealth Bank of Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b61c274-2328-423d-a2ee-19f8b3f43ab5">Data Scientist</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://cba.wd3.myworkdayjobs.com/en-US/commbank_careers/job/Sydney-CBD-Area/Data-Scientist_REQ267418">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cranes Varsity</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab443123-8b57-487c-a1c2-c076bb4a3a1f">Freshers/Trainee – Technical Faculty (C,++, Data Science, Embedded, VLSI)</a></td>
+<td>India</td>
+<td align="center"><a href="https://cranesvarsity.com/jobs/technical-interns-trainee-2/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5475e798-84a5-44ce-b3b1-17f58596c147">Software Engineer (Freshers) – – Embedded, VLSI, IoT, Data Science</a></td>
+<td>India</td>
+<td align="center"><a href="https://cranesvarsity.com/jobs/software-engineer-freshers-embedded-vlsi-iot-datascience/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e98f08c6-f7ea-4071-93f1-ee57642fbe06">Technical Training Data Science</a></td>
+<td>India</td>
+<td align="center"><a href="https://cranesvarsity.com/jobs/technical-training-data-science-4/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Credit Mutuel Arkea</strong></td>
+<td><a href="https://trueinterview.io/jobs/a11668ce-4396-49b8-b425-86c0d8796e76">Data Scientist Sénior H/F</a></td>
+<td>Le Relecq-Kerhuon, France</td>
+<td align="center"><a href="https://www.recrutement.arkea.com/offre-de-emploi/emploi-data-scientist-senior-h-f_9061.aspx">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Enedis</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e8d4695-7c8f-4de4-b6c5-23a1126aec05">Stage - data science &amp; mobilité électrique</a></td>
+<td>Lyon, France</td>
+<td align="center"><a href="https://www.enedis.fr/emploi/185579/stage-data-science-mobilite-electrique">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ExxonMobil</strong></td>
+<td><a href="https://trueinterview.io/jobs/de187aaf-ec9e-4cd1-aa95-b90b13bbbe0c">Citizen Data Science Specialist</a></td>
+<td>India</td>
+<td align="center"><a href="https://career4.successfactors.com/career?career%5fns=job%5flisting&amp;company=exxonmobilP&amp;navBarLevel=JOB%5fSEARCH&amp;rcm%5fsite%5flocale=en%5fUS&amp;career_job_req_id=109453&amp;selected_lang=en_US&amp;jobAlertController_jobAlertId=&amp;jobAlertController_jobAlertName=&amp;browserTimeZone=America/Chicago&amp;_s.crb=5qFmvVk8vya%2bheNiyHaWUadk47fulvsLsbOFJMKTsxI%3d">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ICON plc</strong></td>
+<td><a href="https://trueinterview.io/jobs/d84188c1-264f-438d-af61-152613a22173">Clinical Data Scientist</a></td>
+<td>Reading, United Kingdom</td>
+<td align="center"><a href="https://icon.wd3.myworkdayjobs.com/en-US/broadbean_external/job/UK-Reading/Clinical-Data-Scientist_JR163253">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KnowBe4</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1fc08b2-afb0-44c3-a294-c69f53fcdd3b">Graduate Data Scientist - Cyber Analytics (Position located in Cheltenham, United Kingdom)</a></td>
+<td>Cheltenham, United Kingdom</td>
+<td align="center"><a href="https://grnh.se/ene6u76f2us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Planet</strong></td>
+<td><a href="https://trueinterview.io/jobs/81379b5f-00ea-41d6-9b0f-09e7f8f57ff7">Data Scientist</a></td>
+<td>Galway, Ireland</td>
+<td align="center"><a href="https://planet.wd3.myworkdayjobs.com/en-US/Planet/job/Galway---Ireland/Data-Scientist_JR12383">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Renault Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/cbca9c43-a4a1-4784-b98b-ba611e99a39a">CS27 - BAC+5 - Data Scientist - Évaluation et déploiement de modèles multimodaux pour des cas d’usage industriels</a></td>
+<td>Boulogne-Billancourt, France</td>
+<td align="center"><a href="https://alliancewd.wd3.myworkdayjobs.com/en-US/renault-group-careers/job/Boulogne-Billancourt/CS27---BAC-5---Data-Scientist---valuation-et-dploiement-de-modles-multimodaux-pour-des-cas-d-usage-industriels_JOBREQ_50281654">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tecdata Engineering</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b15d7da-f034-4cf2-a5f9-ea4ec65362c5">Data Scientist | Machine Learning &amp; Google Cloud Platform (GCP)</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://job.tecdata.es/jobs/8626620-data-scientist-machine-learning-google-cloud-platform-gcp">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>University of Cambridge</strong></td>
+<td><a href="https://trueinterview.io/jobs/fced2cfb-e3be-41f7-a7f1-e2e90188a155">Data Scientist NIHR BioResource (Fixed Term)</a></td>
+<td>Cambridge, United Kingdom</td>
+<td align="center"><a href="https://www.cam.ac.uk/jobs/data-scientist-nihr-bioresource-fixed-term-rw51514">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Novartis</strong></td>
+<td><a href="https://trueinterview.io/jobs/065d127f-bda0-4dfa-8e29-4a6436ce1242">WORKFORCE STRATEGY HEAD, ENTERPRISE DATA SCIENCE &amp; ARTIFICIAL INTELLIGENCE (DSAI)</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://www.novartis.com/careers/career-search/job/details/req-10089636-workforce-strategy-head-enterprise-data-science-artificial-intelligence-dsai">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Teya</strong></td>
 <td><a href="https://trueinterview.io/jobs/48415e7a-154f-4ce3-9a68-ff1260a5e467">Data Scientist</a></td>
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/teya/ee402538-d23e-47b8-8da8-69e6b1d35e1a/application">Apply</a></td>
 <td align="center">17 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Desjardins</strong></td>
+<td><a href="https://trueinterview.io/jobs/59d4c64a-e8f2-4f66-b81c-2b78b8f520ff">Data Scientist, Credit Risk Quantification</a></td>
+<td>Montréal</td>
+<td align="center"><a href="https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Scientifique-de-donnes--Quantification-du-risque-de-crdit_R2611885">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Infinitas Learning</strong></td>
+<td><a href="https://trueinterview.io/jobs/28078291-96ea-46ca-b79f-ac2a52e867c4">Product Data Scientist - Learning Platforms</a></td>
+<td>Utrecht, Netherlands</td>
+<td align="center"><a href="https://4dayweek.io/job/product-data-scientist-learning-platforms-at-infinitas-learning-1ebf5f1e">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Isometric</strong></td>
+<td><a href="https://trueinterview.io/jobs/6478999c-6e08-452d-8707-fe202c344a5c">Geospatial Data Analyst (contractor)</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/isometric/4c429294-d580-4c4a-a6f4-27b0b06d21a0/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>C6 Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a9c1787-3aa3-48f4-adb1-34aa9ce7ce27">Pessoa Estagiária em Estratégia e Políticas de Recuperação de Crédito | Cobrança</a></td>
+<td>São Paulo, Brazil<br/>Estágio</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4733467005">Apply</a></td>
+<td align="center">15 Sep 2026</td>
 </tr>
 </tbody>
 </table>

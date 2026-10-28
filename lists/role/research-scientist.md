@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**15 open roles.** 14 in the United States & Canada · 1 elsewhere in the world.
+**24 open roles.** 19 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -57,6 +57,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/212756ed-1325-44fd-8f49-3e1efa32496c">Research scientist - AI Infra - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476354369/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AllianceBernstein</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc8302d7-ced8-4171-9f0d-25916f9dda05">AI Research Scientist</a></td>
+<td>Nashville, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476365805/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -115,6 +122,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002">Apply</a></td>
 <td align="center">13 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/797071da-7feb-4384-97e0-3078b28dd38a">Research Scientist, AI Secure Code, DeepMind</a></td>
+<td>Mountain View, CA<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/74431926638650054-research-scientist-ai-secure-code-deepmind">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/4763fcd8-1e95-4574-ada0-84f6ea0a15e0">System Engineer</a></td>
+<td>Westwood, MA, United States of America<br/>Hillsboro, OR, United States of America<br/>Milpitas, CA, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Westwood-MA/System-Engineer_2635064">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Garner Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/25345331-f076-4717-aa51-0aab46f1f7de">Associate Applied Scientist</a></td>
+<td>New York City, New York<br/>Headquarters</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/garnerhealth/jobs/6174213004">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Evolver</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a7bf1a4-fc0a-4ca8-8bf0-a66301645f7e">Research Scientist - Information Theory and Statistical Inference</a></td>
+<td>Palo Alto, California</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/evolver/jobs/4402424009">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -133,6 +168,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474968935/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nanyang Technological University Singapore</strong></td>
+<td><a href="https://trueinterview.io/jobs/dff3dcdd-0dd0-4e89-8157-a492b6902386">Research Engineer I (Trust Technologies)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484465031/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>National University of Singapore</strong></td>
+<td><a href="https://trueinterview.io/jobs/7faaf71f-1a1b-4913-a85b-96f8c61637a2">Research Engineer (FLASH)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484438953/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Singapore Management University</strong></td>
+<td><a href="https://trueinterview.io/jobs/dba03982-1b79-4c2c-a370-24f1a2f37bd0">Research Engineer (contract till 30 Aug 2027), SCIS</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484440934/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/20053cf1-7937-419e-89f7-277d2e35f71f">Applied Scientist, PXT LEGENDS</a></td>
+<td>Edinburgh, United Kingdom</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10590070/applied-scientist-pxt-legends?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">29 Sep 2026</td>
 </tr>
 </tbody>
 </table>

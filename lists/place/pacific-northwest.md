@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**19 open roles.**
+**35 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,8 +20,15 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Farnsworth Group, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/f4f2ed0d-a9a0-4992-a195-6af132cd468a">Industrial Electrical Engineer</a></td>
-<td>Boise, ID</td>
+<td>Boise, ID<br/>Colorado Springs, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475409905/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jacobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f0c06f5-6366-4455-9808-42fa7d55d398">Electrical BIM Designer (Data Centers)</a></td>
+<td>Portland, OR<br/>Spokane, WA<br/>Washington, DC<br/>+7 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467206925/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -88,10 +95,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Critical Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/87f377fd-8367-4765-9376-9eeb50c07944">PLC Programmer (Siemens TIA Portal)</a></td>
-<td>Boise, ID</td>
-<td align="center"><a href="https://ht-jobs.net/spdao4t?s=in">Apply</a></td>
+<td><strong>City of Hillsboro</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf97c115-ab06-4172-ad76-86ef66525a04">SharePoint / Teams Systems Administrator</a></td>
+<td>Hillsboro, OR</td>
+<td align="center"><a href="https://www.governmentjobs.com/careers/hillsboro/jobs/5527235/sharepoint-teams-systems-administrator">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -149,6 +156,111 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-GPU-Power-Delivery-Pathfinding-Researcher_JR0288188">Apply</a></td>
 <td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/76c354a1-a1e0-4c18-82b4-2cf4108e3cac">Customer Support Engineer - NCG</a></td>
+<td>Hillsboro, OR<br/>Chandler, AZ, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Customer-Support-Engineer---NCG_2641918">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/2d73ed9c-8261-44eb-ab2b-b489e2341ee7">New College Grad - Product Yield Enhancement Engineer, HBM</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/42813179">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/b86e926b-5d6e-4b54-a764-2b0aaefd1f4c">Intel Foundry Advanced Device Development Engineer</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Intel-Foundry-Advanced-Device-Development-Engineer_JR0287390">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/66410ae1-6873-43ad-b4cb-cbab6f5fe15b">Layout/Mask Design Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44700559">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/f7c61afd-6cf4-40ec-a0d2-7e5550cf0eba">ASIC Verification Engineer, Memory Management - New College Grad 2027</a></td>
+<td>Hillsboro, OR, US<br/>Durham, NC, US<br/>Madison, AL, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397892980">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9353725-99cc-49b6-9769-d481375a0320">Product Development Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44665102">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/90a5a288-5e35-460d-aded-19ad49902f35">Package Design and Development Quality Assurance Engineer - Data Analytics</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44631698">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bff46009-e9cf-4d26-a3d7-83549442f35d">DRAM Device &amp; Cell Technology Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/42229194">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7ed60482-cc6e-48a2-a7ea-0fe10b3f3fd2">New College Grad - Shift Manufacturing Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44430434">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/4763fcd8-1e95-4574-ada0-84f6ea0a15e0">System Engineer</a></td>
+<td>Hillsboro, OR, United States of America<br/>Westwood, MA, United States of America<br/>Milpitas, CA, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Westwood-MA/System-Engineer_2635064">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e922b6f9-c6a3-412a-883d-32fb96b7bd3d">Systems Engineer</a></td>
+<td>Hillsboro, OR, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Product-Development-Engineer_2636359">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/4dec7685-60fe-41e8-aa6c-2ab67124ae78">Thin Films Module Development Engineer</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Thin-Films-Module-Development-Engineer_JR0286288">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/acb3851c-1789-4173-a762-a39468742a53">Associate Equipment Engineer</a></td>
+<td>US, OR, Beaverton, United States of America</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Associate-Equipment-Engineer_R263682">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/79e4124e-55b3-4993-994d-a620025cfa48">Process Control Engineer (SPC)</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44434389">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0cc6544b-86de-4758-bd5c-dfdc7bf3aff7">RDA Engineer Advanced DRAM</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44447535">Apply</a></td>
+<td align="center">16 Sep 2026</td>
 </tr>
 </tbody>
 </table>

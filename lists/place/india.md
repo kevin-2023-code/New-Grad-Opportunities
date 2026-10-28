@@ -2,7 +2,7 @@
 
 # 🇮🇳 Bengaluru & India
 
-**17 open roles.**
+**81 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,370 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Incorta</strong></td>
+<td><a href="https://trueinterview.io/jobs/e863eb7b-a200-4749-b4f6-1030ba3a14e9">Solution Engineer- India</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467913527/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HCLTech</strong></td>
+<td><a href="https://trueinterview.io/jobs/257ffb8b-a0f1-4ff5-85bd-9094d8acd4ee">Dotnet Developer</a></td>
+<td>Noida, Uttar Pradesh, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482521365/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ADA Software Re Engineering Services Pvt. Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6221ca7-808e-413d-9ea5-ab30161c8e39">Java Software Engineer</a></td>
+<td>Kolkata, West Bengal, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482501991/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NCR Voyix</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f144b62-41f3-44af-96ca-3352d8b67798">Site Reliability Engineer I</a></td>
+<td>Hyderabad, Telangana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484450760/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CleanStart</strong></td>
+<td><a href="https://trueinterview.io/jobs/57bf9fac-c3b5-4390-99e9-a6ce9adf1f63">Full Stack Developer</a></td>
+<td>Ahmedabad, Gujarat, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484463364/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gartner</strong></td>
+<td><a href="https://trueinterview.io/jobs/0247afda-ec27-40ef-ad9e-330cc62c4f8a">Data Analyst</a></td>
+<td>Gurgaon, Haryana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483861675/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Smarsh</strong></td>
+<td><a href="https://trueinterview.io/jobs/d958db86-82ca-43c0-be2e-807ad576708c">Java Application Developer</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484455518/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Swiggy</strong></td>
+<td><a href="https://trueinterview.io/jobs/502e84c5-5438-4341-b78b-fb18fd99bf62">Software Dev Engineer I</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482507742/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Miratech</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9524679-6391-47d7-a282-fb9d5acabc63">Full Stack Engineer (Go and React)</a></td>
+<td>Hyderabad, Telangana, India<br/>Chennai, Tamil Nadu, India<br/>Bengaluru, Karnataka, India<br/>+3 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482508711/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Remote_WFH_INDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/950e75b8-da3f-45f1-b13d-472961fd4ca7">Full Stack Engineer | C#/.NET + React | TeamViewer | India</a></td>
+<td>New Delhi, Delhi, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482515407/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Euler Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/e8b8fc58-d0dc-4060-bdf4-8587f2681331">Mechanical Testing and Validation engineer</a></td>
+<td>Delhi, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484463582/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Krish TechnoLabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb583065-770b-4d51-b9db-907809cd5a85">DevOps Engineer</a></td>
+<td>Ahmedabad, Gujarat, India<br/>India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483883317/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Milliman India</strong></td>
+<td><a href="https://trueinterview.io/jobs/d42f4c37-f819-420b-b749-0f4a2c3c28f2">HRIS Data Analyst</a></td>
+<td>Gurgaon, Haryana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474074976/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>UltaHost</strong></td>
+<td><a href="https://trueinterview.io/jobs/e526400b-7b0c-4f1b-b496-d8b0ab711e45">Full-Stack JavaScript Developer (AI-Native)</a></td>
+<td>Delhi, Delhi, India<br/>India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483868788/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hoichoi</strong></td>
+<td><a href="https://trueinterview.io/jobs/c789c6a4-84f4-4762-b765-6c5e299f65fa">Software Development Engineer in Test (SDET)</a></td>
+<td>Kolkata, West Bengal, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483870661/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Paisalo Digital Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d92dde4-acef-4fcd-bcd7-533172fb7c29">Software Tester</a></td>
+<td>Delhi, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483873517/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Whizz HR</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5ee288f-211a-4202-be38-7baa557454c4">Visual Designer</a></td>
+<td>Mumbai, Maharashtra, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484471052/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Blue Cloud Softech Solutions Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0245192-9fbe-4adb-a497-0012c5b4c8d1">PAM Engineer with Delenia</a></td>
+<td>Hyderabad, Telangana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483873487/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sirius Lync</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb475bcc-78dc-4fb8-8068-cd4c9479ed91">Observability (O11y) Engineer | Enterprise Observability Platform</a></td>
+<td>Hyderabad, Telangana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482297877/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HuntingCube</strong></td>
+<td><a href="https://trueinterview.io/jobs/e8014cd7-eddd-4b87-98bf-e9cc0459ecb9">SAP Commerce Cloud (Hybris) Developer</a></td>
+<td>Chennai, Tamil Nadu, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484461383/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Husky Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3cdba6c-79f3-449e-864b-6dfc43c41b73">Control Software Designer-PLC-Husky (India) Guindy, Chennai</a></td>
+<td>Chennai, Tamil Nadu, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483878032/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Quest Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f581e9b-5a8c-4155-be62-b5132f0cb158">C# Dotnet Developer</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483873364/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Webologix Ltd/ INC</strong></td>
+<td><a href="https://trueinterview.io/jobs/b3fea71c-6ea2-492c-a14d-802a03758d11">ServiceNow Developer</a></td>
+<td>Bengaluru, Karnataka, India<br/>Hyderabad, Telangana, India<br/>Noida, Uttar Pradesh, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484450807/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cyient</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8071357-2333-4019-a8c7-a786dfb9b3b1">Assembly Process Planning Engineer</a></td>
+<td>Pune/Pimpri-Chinchwad Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448093731/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tekskills Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec1fdc3d-81a6-4eca-b825-6a7a6fe30108">Software Engineer</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484459530/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BotLab Dynamics</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3f5f1b5-e3f5-4e1a-9034-18cfdbb20b76">Motor Control Firmware Engineer</a></td>
+<td>Noida, Uttar Pradesh, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483884247/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mott MacDonald</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e6bc41e-fff6-4de7-86dc-c345bbafbe63">Wetland Engineer</a></td>
+<td>Ahmedabad, Gujarat, India<br/>Mumbai Metropolitan Region</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484456505/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Babcock Power APAC Pvt. Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/11894ac2-3c5d-4576-9db9-b72af84b12c9">Boiler Performance Engineer - BPS</a></td>
+<td>Chennai, Tamil Nadu, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482505720/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cyient</strong></td>
+<td><a href="https://trueinterview.io/jobs/b30e7560-b9e7-43b7-aeb6-401b036bb793">Unigraphics NX Sheet Metal &amp; Welding Engineer</a></td>
+<td>Pune/Pimpri-Chinchwad Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482503683/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Husky Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/52145218-7a36-48a2-b46f-abf6fc52aaf9">Product Engineer(Adv+Elite) Development Engineering-Husky (India)Guindy, Chennai</a></td>
+<td>Chennai, Tamil Nadu, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483870319/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Newtrace</strong></td>
+<td><a href="https://trueinterview.io/jobs/98640daa-cc32-400f-b40d-60874aea0f83">Electrolyser - Test Engineer</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483886118/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WNS</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc4a2975-bd6f-4fb6-bbbf-eb8ad9f2295d">Qlik Sense Developer - Location Bangalore</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484466187/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Husky Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/e030aac2-4b0c-4c35-94b2-27817b5bef35">Data Analyst - Cloud (Development Engineering)- Husky (India) Guindy, Chennai</a></td>
+<td>Chennai, Tamil Nadu, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483871342/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ascend Performance Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/bdcd671b-d246-4102-96cb-2649c225dd74">Simulation Engineer – Plastics Processing</a></td>
+<td>Chennai, Tamil Nadu, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482504444/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capgemini Engineering</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1ce2b3a-68ec-4d75-a704-3644bd16450f">Test Automation Engineer</a></td>
+<td>Hyderabad, Telangana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484456048/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CGI</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbc0ccaf-1977-49b6-8b0d-3ee4dee8e411">ServiceNow Developer - Generalist</a></td>
+<td>Hyderabad, Telangana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475872310/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CME Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/ac5f8b32-266e-4baf-9305-3164001370cc">Google Workspace Developer I</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484444973/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Credgenics</strong></td>
+<td><a href="https://trueinterview.io/jobs/d7d8208d-b771-4c08-9be6-e047d67d4e58">Product Designer</a></td>
+<td>Noida, Uttar Pradesh, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484451316/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FORVIA HELLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee7a7a3b-f035-4c11-a27e-59f94be320f4">CFD ENGINEER (M/F/D)</a></td>
+<td>Chennai, Tamil Nadu, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480645373/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hexad Engineering LLP</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d4a304f-feab-4206-8b7f-a7fe7a760e94">Mechanical/Electrical Engineer – LV/MV Switchgear</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483871410/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Husky Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e56b3fd-ea27-4a03-91f6-11ba744072e6">Data Scientist- Husky( India ) Guindy,Chennai</a></td>
+<td>Chennai, Tamil Nadu, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483880020/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/de589132-a882-4f98-a535-a265ff038db7">Dynamics AX Developer-Microsoft Dynamics AX / Enterprise Applications- Husky(India) Guindy, Chennai</a></td>
+<td>Chennai, Tamil Nadu, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483868392/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>InvoLead</strong></td>
+<td><a href="https://trueinterview.io/jobs/a162e96b-ac1c-42d1-b5c0-235db5fec1f7">Generative AI Engineer</a></td>
+<td>Gurugram, Haryana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4433650619/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kyrospect</strong></td>
+<td><a href="https://trueinterview.io/jobs/445985d4-3677-4026-8400-bf9b94131aed">Graphic &amp; Web Designer</a></td>
+<td>Ahmedabad, Gujarat, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482503626/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Leegality</strong></td>
+<td><a href="https://trueinterview.io/jobs/ed56db2e-ae87-4f4c-8d4c-69fb14f2ddc4">Front End Developer - ReactJs</a></td>
+<td>Gurugram, Haryana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483853311/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lowe's India</strong></td>
+<td><a href="https://trueinterview.io/jobs/c966c1d4-4724-424d-be82-68f40bb6f346">Software Engineer</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483864835/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Marsh</strong></td>
+<td><a href="https://trueinterview.io/jobs/3029fccd-d6f5-4a63-ba48-1953f61f658c">Engineer - Database Administration</a></td>
+<td>Gurugram, Haryana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484451451/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meltwater</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ed8cb99-9071-497a-ba21-eb333c3572bc">Content Engineer*</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483870462/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NTT DATA, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/519fb32b-c6fa-4221-b71c-0389b98cb2e2">Cross Technology Managed Services Engineer (L2)</a></td>
+<td>Chennai, Tamil Nadu, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4409285406/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>QuillAir Pvt. Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/82491ce5-a4e4-4e38-a8c1-89790f10d90a">Head Drone Engineer</a></td>
+<td>Kolkata, West Bengal, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482298948/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Saxo Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbb21cc6-d88b-4116-81d3-22f999513e18">Dot Net Developer</a></td>
+<td>Gurugram, Haryana, India<br/>India</td>
+<td align="center"><a href="https://saxobank.wd3.myworkdayjobs.com/en-US/CareeratSaxoBank/job/Gurugram/Dot-Net-Developer_R-19401-1">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wipro</strong></td>
+<td><a href="https://trueinterview.io/jobs/8dc0cda8-4a61-486e-ae40-e3c9b6800b9e">DataBricks - Data Engineering</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484447498/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/b9f51b8d-5b36-4057-b9cf-8282ee673f1c">Hardware Systems Engineer</a></td>
@@ -83,6 +447,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Recrew AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/70dd48aa-7dc4-4499-8aa3-e097256f2313">Machine Learning Researcher</a></td>
+<td>Hyderabad, Telangana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484454233/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EduRun Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6c86cd1-6b39-42e0-8120-b688bca14192">Oracle Database Engineer</a></td>
+<td>Hyderabad, Telangana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482297852/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FEG INDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/c7457714-6d19-4e95-9186-c1531972660d">Group AI Developer</a></td>
+<td>Hyderabad, Telangana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483857913/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motadata</strong></td>
+<td><a href="https://trueinterview.io/jobs/566eeb75-171f-477b-ae80-a2c246f9575f">Head - Technical Support &amp; Customer Experience</a></td>
+<td>Ahmedabad, Gujarat, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484450357/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nitro Commerce</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba484ffb-d1fe-4461-957f-9150dbdda802">DevOps Engineer</a></td>
+<td>Gurugram, Haryana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483639857/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/a811e75c-012f-45e2-8ffe-6071fc78b45e">Software Engineer, AI Agents</a></td>
 <td>Bengaluru, Karnataka, India</td>
@@ -108,6 +507,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e22b3aa4-3497-49e6-84ab-eeb6e745b7ee">Data Center Engineer</a></td>
 <td>Mumbai, Maharashtra, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4430881551/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments India</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b146052-d3e2-4207-bd99-feb2c4dd9ad2">Digital Design Engineer</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475104853/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -137,6 +543,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>India - Hyderabad</td>
 <td align="center"><a href="https://jobs.lever.co/veeva/a89d4ff8-b50b-4e56-9b74-0823d2751c66/apply">Apply</a></td>
 <td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/88836bce-32fe-4254-addf-2d680c8803c1">Assoc Machine Learning Engineer</a></td>
+<td>Hyderabad, , India</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000152033408-assoc-machine-learning-engineer?oga=true">Apply</a></td>
+<td align="center">27 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/733f1124-3acf-419f-8973-3332cd0920e6">IN_Senior Associate_.Net Fullstack Developer_GCC_Advisory_Banaglore</a></td>
+<td>Hyderabad - Salarpuria</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Adobe-Experience-Manager-content-management-system-GCC-Advisory-Banaglore_744222WD-1">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Beghou Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b085682-218b-47a9-9cff-403496b23588">Consultant - MDM  -504</a></td>
+<td>Pune</td>
+<td align="center"><a href="https://jobs.lever.co/beghouconsulting/189953b2-04c3-491f-83ab-4d6695d88765/apply">Apply</a></td>
+<td align="center">20 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Aera Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ec3549b-9f2f-47fe-a759-d09f65577e0e">Sustaining Engineer – Modeling Support</a></td>
+<td>Pune, India</td>
+<td align="center"><a href="https://jobs.lever.co/aeratechnology/d183b86e-fbec-4f82-bfa8-43374cc00dd1/apply">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Singlestore</strong></td>
+<td><a href="https://trueinterview.io/jobs/c15db5ea-ebe3-4edd-a78f-6df4fd631cfd">Software Engineer</a></td>
+<td>Hyderabad<br/>India</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/singlestore/jobs/8212128">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Gushwork</strong></td>
+<td><a href="https://trueinterview.io/jobs/696d18eb-f400-4568-84bc-a008d4a7211d">Forward Deployed Engineer</a></td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://jobs.lever.co/gushwork/bf544796-090e-47fd-b05d-79b0b5339f92/apply">Apply</a></td>
+<td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
 </table>

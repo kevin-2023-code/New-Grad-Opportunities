@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**23 open roles.** 22 in the United States & Canada · 1 elsewhere in the world.
+**67 open roles.** 31 in the United States & Canada · 36 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AppLab Systems, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/55f2ec53-f938-48ba-86e8-0bbcff0efb08">Technical Product Owner (Clinical Data Interoperability)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481905321/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SupplyLogic</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1b49e9c-0c4f-441c-a7e7-b8dfa5124f75">Product Owner/Business Analyst</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482511677/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trepp, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/31437742-c8fa-42bd-a184-1a10a820440e">Product Management Analyst</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464697279/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Tata Consultancy Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/0e977b01-d6da-4dfd-9e30-d21db4443452">Product Owner</a></td>
@@ -60,10 +81,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Open Systems Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/2103ad5c-89b4-4c58-bcad-1900cde2c82f">Technical Product Owner</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480499236/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MRI Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2709101-db03-4f9c-8728-3fb6bddc184c">Product Owner, Client &amp; Digital Support</a> 🌐</td>
+<td>Remote — Canada</td>
+<td align="center"><a href="https://mrisoftware.wd501.myworkdayjobs.com/en-US/External_CareerSite/job/Canada-Remote/Product-Owner--Client---Digital-Support_R-109630">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Baylor Miraca Genetics Laboratories LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ff761dd-a20f-40db-8831-499a39767cdd">Specialist Digital Product Management</a></td>
 <td>United States</td>
 <td align="center"><a href="https://recruiting2.ultipro.com/BAY1006BML/JobBoard/0669eed3-5441-4f8e-a7b1-c5df596a4dfe/OpportunityDetail?opportunityId=909297f1-b95d-46fe-b905-906b4d0bf8b0&amp;postingId=ba6a05a5-f5da-4edc-bbf1-887bceeaf630">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Air Canada</strong></td>
+<td><a href="https://trueinterview.io/jobs/7cbf61fc-059f-42d2-9fa8-7235a2bd3ebc">Product Owner, Loyalty Design and Experience</a></td>
+<td>Dorval, Canada</td>
+<td align="center"><a href="https://careers.aircanada.com/ca/en/job/AIPACICA40337EXTERNALENCA/Product-Owner-Loyalty-Design-and-Experience">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -95,6 +137,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Freedom Mobile</strong></td>
+<td><a href="https://trueinterview.io/jobs/98590f8e-5b14-43e0-9899-169ae4bf3bb6">Digital Product Owner</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://carrieres-careers.quebecor.com/freedom/job/Toronto-Digital-Product-Owner-ON-M5J-0B8/607397417/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Inspire Medical Systems I</strong></td>
 <td><a href="https://trueinterview.io/jobs/fd3ea926-1684-44e1-bf33-548fd52ae319">Digital Technical Product Owner</a></td>
 <td>Minneapolis, MN</td>
@@ -123,10 +172,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>UBS</strong></td>
-<td><a href="https://trueinterview.io/jobs/563e0bcc-3dc6-4cf9-b521-a1b9d42d35d4">Product Owner, Global Banking</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&amp;siteid=5012&amp;PageType=JobDetails&amp;jobid=352233">Apply</a></td>
+<td><strong>TD</strong></td>
+<td><a href="https://trueinterview.io/jobs/e319881c-ab5d-48d2-b8ea-afbf63d8d013">Product Owner I</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Product-Owner-I_R_1513501-1">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -171,6 +220,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://marlabs.breezy.hr/p/e0d87afb40d4-technical-product-owner-strategy-execution">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/7029b977-ce9a-4796-a39d-935a711bfa82">Assistant Product Owner, CCA Mission Autonomy (Platform Integration) (R5849)</a></td>
+<td>Washington, DC<br/>Washington, D.C.</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/1d33c48e-92c6-48c4-b8e2-0e412b889672/apply">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Redwood Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/490b660f-252f-4c3d-968a-aeac3535b5b3">Product Owner</a></td>
+<td>Ontario, Canada</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/redwoodsoftware/jobs/4284505009">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -184,11 +247,256 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>PRIMUS Global Solutions (PRIMUS UK &amp; Europe)</strong></td>
+<td><a href="https://trueinterview.io/jobs/9bf3c5e9-cfea-4553-8c3e-75a236b9e156">Product Owner</a></td>
+<td>London Area, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484472464/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western &amp; Southern Financial Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/b942891d-32a9-494a-9d3b-5197b80d7684">Product Owner Level I, Insurance Operations</a></td>
+<td>Cincinnati Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483888312/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gemeente Den Haag</strong></td>
+<td><a href="https://trueinterview.io/jobs/45619c6d-f6a2-42cd-98db-55cc069e10f6">Product Owner Fysiek Domein</a></td>
+<td>The Hague, South Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474907290/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Migros-Genossenschafts-Bund</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e227684-7de3-4f20-a7c3-fd6bd21e8724">Product Owner - ServiceNow CMDB (w/m/d) 60 - 100%</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471924959/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AGILA Haustierversicherung AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/aee5dda9-53d9-41d3-9a99-dee23f4b7802">Wirtschaftsinformatiker - Product Owner (m/w/d)</a></td>
+<td>Hannover, Lower Saxony, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482502490/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MHR</strong></td>
+<td><a href="https://trueinterview.io/jobs/e101d9e3-2d58-4195-9f9f-dab304aec476">Product Owner</a></td>
+<td>Ruddington, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482501995/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Swissbit AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6c2304a-6deb-4e23-b1d8-7ad758eed52c">Technical Product Owner (m/f/d)</a></td>
+<td>Wil, St Gallen, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483877397/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Limitless</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b5339a4-f806-4ffc-8a16-5e674c19001e">Product Owner</a></td>
+<td>London Area, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484455701/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Migros-Genossenschafts-Bund</strong></td>
+<td><a href="https://trueinterview.io/jobs/19d30e62-3fc5-4bf2-81e3-78185879fb5e">Product Owner &quot;ServiceNow Plattform Basis&quot; (w/m/d) 60 - 100%</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4425232692/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Justis, de screeningsautoriteit</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c5e75ff-f3fc-4721-9e69-918cb352c227">De Rijksoverheid zoekt: Product Owner</a></td>
+<td>The Hague, South Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478565019/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Boekenbalie</strong></td>
+<td><a href="https://trueinterview.io/jobs/33ff99e3-fd7b-4c39-9cb7-ac1439e8ed8e">Product Owner</a></td>
+<td>Rotterdam, South Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483880110/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>de Bijenkorf</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f4ae674-e94b-4799-8480-f675d904118d">Medior Product Owner</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484455435/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Specsavers</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f7f260d-4f48-4cb1-8edb-76b1c762245e">Product Owner</a></td>
+<td>Melbourne, Victoria, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476700170/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NEXTON</strong></td>
+<td><a href="https://trueinterview.io/jobs/778c690e-223f-4ff5-9a4c-cc5d456de10e">Product Owner IA H/F</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000158266158-product-owner-ia-h-f">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4d29e448-428d-4d58-988e-88f62d3b9535">Product Owner Data H/F</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000158265298-product-owner-data-h-f">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Argain Consulting Innovation</strong></td>
+<td><a href="https://trueinterview.io/jobs/2829502e-407e-454f-bf01-70a148006328">Product Owner Data Marketing (H/F) – Nantes</a></td>
+<td>Nantes, France</td>
+<td align="center"><a href="https://www.free-work.com/fr/tech-it/job-mission/responsable-directeur-marketing-online-cmo/product-owner-data-marketing-h-f-nantes">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Celexio</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ebe7fbe-ad70-4430-adc9-22a0aed1bfe6">Product Owner SI Finance &amp; Achats (SAP S/4HANA Cloud / Coupa)</a></td>
+<td>Pau, France</td>
+<td align="center"><a href="https://www.free-work.com/fr/tech-it/job-mission/consultant/product-owner-si-finance-achats-sap-s-4hana-cloud-coupa">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lehibou</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b85e147-2b21-456d-87e5-4f61336f639f">Product Owner ServiceNow (IT) / Freelance</a></td>
+<td>Issy-les-Moulineaux, France</td>
+<td align="center"><a href="https://www.free-work.com/fr/tech-it/job-mission/product-owner/product-owner-servicenow-6">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Numih France - Toulouse</strong></td>
+<td><a href="https://trueinterview.io/jobs/b441b314-19a3-4583-acc6-753fda8fc5d5">Product Owner F/H</a></td>
+<td>Toulouse, France</td>
+<td align="center"><a href="https://careers.werecruit.io/fr/numih-france/offres/product-owner-3aa829">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ALTEN</strong></td>
+<td><a href="https://trueinterview.io/jobs/2cb2662b-0096-494c-9813-2dd40c7bb740">Product owner - H/F</a></td>
+<td>Bordeaux, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000158083678-product-owner-h-f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Air France</strong></td>
+<td><a href="https://trueinterview.io/jobs/8dae78f9-16aa-48e2-a188-e0d4328cbd23">Product Owner Portail et Catalogue de Services F/H</a></td>
+<td>Aéroport Paris-Roissy-Charles-de-Gaulle, France</td>
+<td align="center"><a href="https://recrutement.airfrance.com/offre-de-emploi/emploi-product-owner-portail-et-catalogue-de-services-f-h_24904.aspx">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Allianz</strong></td>
+<td><a href="https://trueinterview.io/jobs/22ea4440-9d51-44f3-976e-6db33031b883">Data Product Owner (f/m/d) - Vendor Market Data</a></td>
+<td>Frankfurt am Main, Deutschland</td>
+<td align="center"><a href="https://careers.allianz.com/global/en/job/108904">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cegeka</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d50a785-01c9-44b4-ba07-d0e1d0f5ecdd">Product Owner* - Medical Devices #11239</a></td>
+<td>Deutschland</td>
+<td align="center"><a href="https://jobs.cegeka.de/vacancy/11239/product-owner-medical-devices-11239">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>E.ON Home Deutschland GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e3b0733-728d-4683-86f9-b850069fcf2a">Product Owner Plattform &amp; KI-Integration (m/w/d)</a></td>
+<td>Heidelberg, Deutschland</td>
+<td align="center"><a href="https://t.gohiring.com/h/aa3d75c259cc79d272b7448be63d6052dcd746903729dfe8c3f080a2792b45d4">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Endress+Hauser Flow Switzerland</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff488ad9-9e5b-4171-9f96-44d2841b8c7d">Software Product Owner Industrial Rigs (w/m/d)</a></td>
+<td>Reinach, Switzerland</td>
+<td align="center"><a href="https://careers.endress.com/job-invite/41755/?locale=en_US">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>hsag Heidelberger Services AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/25c75641-3823-4ef6-8ec5-318af1acf9a2">Produktmanager / Product Owner (w/m/d) Energiewirtschaft</a></td>
+<td>Walldorf, Deutschland</td>
+<td align="center"><a href="https://jobdb.softgarden.de/jobdb/public/jobdb/posting/68344673/0/0/Produktmanager+-+Product+Owner+%28w-m-d%29+Energiewirtschaft.html">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KLEPIERRE</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b8da862-70b3-44e6-a3fa-57038e1d53a1">CDI - Product Owner Plateformes Digitales &amp; CRM (H/F)</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://fa-ewfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/408">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Open</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1c094fa-9f5a-494a-b0db-4004b0034e0d">Product Owner - Energie &amp; Industrie (H/F/N)</a></td>
+<td>Levallois-Perret, France</td>
+<td align="center"><a href="https://open.wd103.myworkdayjobs.com/OPEN/job/Levallois-Perret/Product-Owner---Energie---Industrie--H-F-N-_R16496">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PFI Innovation Centre India</strong></td>
+<td><a href="https://trueinterview.io/jobs/fbbc8dfa-8b70-42b5-ba4c-08c5603d4766">Product Owner</a></td>
+<td>India</td>
+<td align="center"><a href="https://pfiinnovation.talentrecruit.com/career-page/apply/U2FsdGVkX1%252BeqczhUv%252BCPuXvJHPTevhaSW25jpYLIgM%253D?viewJD=true">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PrimeIT Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/e606a064-76c3-45df-be30-02927ebf3ac1">Product Owner | Transporte</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://www.primeit.es/es/careers/jobs/product-owner-transporte">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>REPAY</strong></td>
 <td><a href="https://trueinterview.io/jobs/9b7eaf89-96bc-4641-b4a2-c0d05efa628c">Product Owner</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://repay.wd115.myworkdayjobs.com/en-US/REPAYCareers/job/Remote---US/Product-Owner_JR712">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>S&amp;P Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/880b1df0-12bb-4e2b-8ae1-f719b293efcb">Technical Product Owner – Fixed Income Data</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/London-UK/Technical-Product-Owner---Fixed-Income-Data_327503-1">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Thales</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cba12da-5ed9-4b64-9895-5a4da3418d6e">Product Owner IA (F/H)</a></td>
+<td>Vélizy-Villacoublay, France</td>
+<td align="center"><a href="https://careers.thalesgroup.com/global/en/job/TGPTGWGLOBALR0345612EXTERNALENGLOBAL/Product-Owner-IA-F-H">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/62778587-d090-4100-9309-56d02bd596a5">Product Owner Krypton (F/H)</a></td>
+<td>La Ciotat, France</td>
+<td align="center"><a href="https://careers.thalesgroup.com/global/en/job/TGPTGWGLOBALR0342787EXTERNALENGLOBAL/Product-Owner-Krypton-F-H">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Insight</strong></td>
+<td><a href="https://trueinterview.io/jobs/d23fb3d4-f745-4d83-9c7e-2ffff9245d55">Product Owner</a></td>
+<td>India</td>
+<td align="center"><a href="https://insight.eightfold.ai/careers/job/171843830244?domain=insight.com">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Holenek Ingenierie</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc7436ac-f6ad-48db-bd6d-f684cf94e539">Product Owner (H/F)</a></td>
+<td>Nantes, France</td>
+<td align="center"><a href="https://taleez.com/apply/product-owner-h-f-nantes-holenek-ingenierie-cdi">Apply</a></td>
+<td align="center">23 Oct 2026</td>
 </tr>
 </tbody>
 </table>

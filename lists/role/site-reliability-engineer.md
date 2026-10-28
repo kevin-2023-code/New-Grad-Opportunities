@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**7 open roles.** 5 in the United States & Canada · 2 elsewhere in the world.
+**18 open roles.** 8 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Huntington National Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/60ea76f5-cf08-4f3a-9a4e-778f70eef8dd">Site Reliability Engineer (SRE) – II</a></td>
-<td>Columbus, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4390384490/">Apply</a></td>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/fefdb3a4-3828-464d-ac63-3b60f7365b4a">Site Reliability Engineer - Deployed, Connected Warfare</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4371657851/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sophus IT Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/3437e782-e0a7-4ebf-afd8-1133bbc2a1de">Site Reliability Engineer</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483878509/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -39,6 +46,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Leidos</strong></td>
+<td><a href="https://trueinterview.io/jobs/e793dce9-5267-4210-a0c9-722eff5df2eb">SRE Cyber Tools - Splunk Admin.</a></td>
+<td>Norfolk, VA</td>
+<td align="center"><a href="https://careers.leidos.com/jobs/18411053-sre-cyber-tools-splunk-admin?tm_job=R-00195256&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>OPmobility</strong></td>
 <td><a href="https://trueinterview.io/jobs/f79497a0-754c-476c-b385-3953cb67ae95">SITE PAINT ENGINEER</a></td>
 <td>Greer, SC</td>
@@ -51,6 +65,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://careers.wipro.com/job/SITE-RELIABILITY-ENGINEER-L3%28CONTRACT%29/213731-en_US">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lightspeed Commerce, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e52f2f4-b979-4afe-81c9-1d746ff7f657">Gestionnaire, Ingénierie de la fiabilité des sites (SRE)</a></td>
+<td>Montreal, QC</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/45e63872-1b53-46d4-9d3b-99ac19ca24f2/application">Apply</a></td>
+<td align="center">15 Sep 2026</td>
 </tr>
 </tbody>
 </table>
@@ -65,10 +86,31 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>NCR Voyix</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f144b62-41f3-44af-96ca-3352d8b67798">Site Reliability Engineer I</a></td>
+<td>Hyderabad, Telangana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484450760/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Expedia Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/9c29854e-9823-440b-b265-d54b9edb0348">Site Reliability Engineer</a></td>
 <td>Prague, Czechia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474982863/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Careeriser</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba2f1b1f-e133-416c-ad30-d095ea5c2142">Site Engineer - Wexford</a></td>
+<td>Wexford, County Wexford, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484449430/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Global Professional Consultants</strong></td>
+<td><a href="https://trueinterview.io/jobs/80bdc096-221a-47a9-8043-3cd277098541">Site Engineer</a></td>
+<td>County Laois, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483863833/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -77,6 +119,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466580395/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>株式会社ｓｐｏｎｔｏ</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ea67561-573f-4ae2-9e7e-16aa81e2d08a">SREエンジニア 監視基盤強化 自動化整備 SaaS</a></td>
+<td>—</td>
+<td align="center"><a href="https://arwrk.net/recruit/j0omcchfax4yrkx/13816803">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CPB Contractors</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5edd461-398a-4d18-b837-a05ebba85d50">Electrical Site Engineer - MEI</a></td>
+<td>Melbourne, Australia</td>
+<td align="center"><a href="https://careers.pageuppeople.com/434/caw/en/job/1006332/electrical-site-engineer-mei">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DocuSign</strong></td>
+<td><a href="https://trueinterview.io/jobs/deeae8be-c9c2-4777-a68d-0b1e3f9e7acd">Security Site Reliability Engineer</a></td>
+<td>Dublin, Ireland</td>
+<td align="center"><a href="https://careers.docusign.com/careers-home/jobs/30589?lang=en-us&amp;previousLocale=en-US">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NEP Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/342b5ca9-ff1d-4851-94a7-3c807a9b956b">Site Reliability Engineer</a></td>
+<td>Southbank, Australia</td>
+<td align="center"><a href="https://nepaustralia.hrmdirect.com/employment/view.php?req=3849854&amp;jbsrc=1014&amp;location=d65429d1-6992-0de4-cb16-77a6d927888c">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FIS Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/590a0675-7c92-47bf-b90f-6c3f60248b5a">Site Reliability Engineer (SRE) – Cloud Platform</a></td>
+<td>IND PUNE FL7</td>
+<td align="center"><a href="https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-PUNE-FL7/Site-Reliability-Engineer--SRE----Cloud-Platform_JR0309828">Apply</a></td>
+<td align="center">29 Sep 2026</td>
 </tr>
 </tbody>
 </table>

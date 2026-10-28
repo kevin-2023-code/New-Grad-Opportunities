@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**7 open roles.** 6 in the United States & Canada · 1 elsewhere in the world.
+**15 open roles.** 9 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Highspring</strong></td>
+<td><a href="https://trueinterview.io/jobs/d7051cb9-f34f-4ca2-a3cc-9ccb0454f323">React Native - Mobile Developer</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455929724/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Tech Consulting</strong></td>
 <td><a href="https://trueinterview.io/jobs/e72bcb93-18f1-4d22-b4f5-c662ff4101ed">Mobile Platform AI Developer</a></td>
 <td>New York, NY<br/>Pennsylvania, United States</td>
@@ -29,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5e08c1b5-4f42-42b0-ae40-bda5df9c8847">Mobile Engineer</a></td>
 <td>Illinois, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482518298/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amtex Systems Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a2c6ca9-c09e-41f7-8d67-f478d7f731a7">Android Developer</a></td>
+<td>Lewiston, ME</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484236774/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -59,6 +73,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer_R68135">Apply</a></td>
 <td align="center">23 Oct 2026</td>
 </tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4d16c398-50dd-495d-b182-f6078dbd32ae">Android Software Engineer</a></td>
+<td>Plantation, FL</td>
+<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Software-Engineer_R62561">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -72,11 +93,46 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>THQ Nordic Mobile GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/95af2125-1954-46fd-8e52-20f1a37b0cee">Mobile Rendering Engineer (w/m/d)</a></td>
+<td>Giebelstadt, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482518337/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Client Server</strong></td>
+<td><a href="https://trueinterview.io/jobs/46a6bb78-7d76-48dd-a4e7-8039422483e2">Mobile Engineer Flutter iOS - FinTech</a></td>
+<td>Newcastle Upon Tyne, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484452623/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MatchLab Talent</strong></td>
+<td><a href="https://trueinterview.io/jobs/912f643d-c7a5-4fb0-bedd-863f8c3afdfd">Mobile Application Developer (Flutter)</a></td>
+<td>India</td>
+<td align="center"><a href="https://matchlabtalent.hiresome.ai/apply_form/mobile-application-developer-flutter--6ae1a6f54082f90e502d89cd">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Netgear</strong></td>
 <td><a href="https://trueinterview.io/jobs/e97be6ec-1356-40f4-9525-2d4e1bf7e55a">Graduate Mobile Software Engineer (Android/iOS)</a></td>
 <td>Cork, Ireland</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/netgear/415ee500-8f36-4766-a9e9-a565827e52c2/application">Apply</a></td>
 <td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hedgehog Lab</strong></td>
+<td><a href="https://trueinterview.io/jobs/92ac75f5-8b4d-4fe5-9fd7-48bb31e0024a">Android Developer</a></td>
+<td>Leeds, United Kingdom</td>
+<td align="center"><a href="https://4dayweek.io/job/android-developer-at-hedgehog-lab-46f7ba53">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>FIBROTEK MATÉRIAUX AVANCÉS INC.</strong></td>
+<td><a href="https://trueinterview.io/jobs/47f81553-c6a5-4c9d-9d1c-fd9ac76e01c1">mobile applications developer</a></td>
+<td>Clermont (QC)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50286599">Apply</a></td>
+<td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
 </table>

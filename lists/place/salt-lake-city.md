@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**5 open roles.**
+**12 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Farnsworth Group, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3a231f2-4e77-4043-a2e1-bed458c83ace">Structural Engineer</a></td>
+<td>Salt Lake City, UT<br/>Normal, IL<br/>Springfield, IL<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475422457/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Medilinkers LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c3e7180-7ee6-4743-86a6-fea985597d95">Software Engineer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482520428/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Haskell Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/59ad51dd-1ff3-4959-ac6e-d79335aacbab">Entry-Level Civil Engineer - Site Design</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465249747/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Farnsworth Group, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1bbf117-f040-44e3-b9a4-6092e8b63a71">Industrial/Semiconductor Mechanical Designer</a></td>
@@ -51,6 +72,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Lehi, UT</td>
 <td align="center"><a href="https://jobs.lever.co/pattern/c436505e-adc2-45ca-83ea-acb772f63e9f">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>US Department of Labor</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd9875b8-4863-44aa-85f7-10e151c2bdfe">Supervisory General Engineer</a></td>
+<td>Sandy, UT</td>
+<td align="center"><a href="https://www.usajobs.gov/job/890238900">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Adobe</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e8450ea-557f-471c-8fe9-b505bfcdeb6b">2027 University Graduate - Machine Learning Engineer</a></td>
+<td>Lehi, Utah, United States of America<br/>San Jose, California, United States of America<br/>Austin, TX<br/>+6 more</td>
+<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/038313d4-9488-4afb-bb20-679721878c8f">2027 University Graduate - Software Engineer</a></td>
+<td>Lehi, Utah, United States of America<br/>San Jose, California, United States of America<br/>Austin, TX<br/>+5 more</td>
+<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Pure Storage</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b51e52f-8632-4781-b1dc-9e85511823a1">Associate Security Engineer</a></td>
+<td>Lehi, Utah<br/>Office - Lehi<br/>Office - Santa Clara<br/>+1 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8211966">Apply</a></td>
+<td align="center">17 Sep 2026</td>
 </tr>
 </tbody>
 </table>

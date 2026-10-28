@@ -2,7 +2,7 @@
 
 # 🌍 Dubai, Cairo, Lagos & Africa
 
-**10 open roles.**
+**12 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -83,11 +83,25 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>DICETEK LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/739292dc-5e9e-45da-9de5-0edc12f377a5">Helpdesk Engineer</a></td>
+<td>Abu Dhabi, UAE</td>
+<td align="center"><a href="https://dicetek.talentrecruit.com/career-page/apply/U2FsdGVkX18zhIuQctP97glBS2AeQn2le%252FmnbviYi3Y%253D?viewJD=true">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>SLB</strong></td>
 <td><a href="https://trueinterview.io/jobs/dde1bf5e-a2b1-4d5b-901e-8f7c15fe97c5">WS Field Engineer - WIS</a></td>
 <td>Abu Dhabi, UAE</td>
 <td align="center"><a href="https://careers.slb.com/jobdescription.aspx?id=EF20878-en_US%201">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lucidya</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb4d0853-e5ea-431d-b63e-706245cccb6f">Frontend Software Engineer</a></td>
+<td>Riyadh, Saudi Arabia</td>
+<td align="center"><a href="https://4dayweek.io/job/frontend-software-engineer-at-lucidya-8fa81b9b">Apply</a></td>
+<td align="center">19 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**29 open roles.**
+**36 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Farnsworth Group, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/6eda605a-b0fb-4e95-9d96-891f4949d5fb">Civil or Mechanical Engineer Entry Level</a></td>
+<td>Charlotte, NC<br/>St Louis, MO<br/>Lisle, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475407989/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kimley-Horn</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc73db2b-74d0-4e74-ba3e-ad3875f0f976">Electrical Engineer - Power Generation</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457632494/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Motion Recruitment</strong></td>
 <td><a href="https://trueinterview.io/jobs/76fb5f7e-5bf8-4ce4-9b3a-6053870dd8eb">Backend Software Engineer</a></td>
@@ -103,6 +117,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Catapult</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ab0719f-c85f-4b1c-8c83-e1aa88d82295">ERP Business Systems Administrator - Charlotte, NC</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://letscatapult.applicantpool.com/jobs/1338198-198447.html">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7296f482-55b1-4742-9784-dab7a8589b21">Service Desk Technician I</a></td>
 <td>Raleigh, NC</td>
 <td align="center"><a href="https://letscatapult.applicantpool.com/jobs/1338173-198447.html">Apply</a></td>
@@ -219,6 +240,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, NC, Durham<br/>US, MA, Wilmington, United States of America<br/>US, MA, Boston</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer_R267037-1">Apply</a></td>
 <td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/f7c61afd-6cf4-40ec-a0d2-7e5550cf0eba">ASIC Verification Engineer, Memory Management - New College Grad 2027</a></td>
+<td>Durham, NC, US<br/>Madison, AL, US<br/>Hillsboro, OR, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397892980">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mcadams</strong></td>
+<td><a href="https://trueinterview.io/jobs/08d44d13-509e-4841-b880-c6cd29ce2593">McAdams General Interest Application</a></td>
+<td>Charlotte, North Carolina, United States<br/>Charlotte, NC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/mcadams/jobs/5242648007">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Erg</strong></td>
+<td><a href="https://trueinterview.io/jobs/dec8fc29-023b-43a1-a2b4-6a2ec6c6aeb6">On-site Environmental Scientist, Engineer, and Technical Specialist</a></td>
+<td>Morrisville, NC<br/>Chapel Hill, NC<br/>Durham, NC<br/>+1 more</td>
+<td align="center"><a href="https://jobs.lever.co/erg/a3a475aa-be18-440c-9bc8-000200aeb963/apply">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/7daa0bb2-c2e5-4d3a-9c81-ae548e6505e8">AI and Machine Learning Engineering Graduate</a></td>
+<td>Durham, North Carolina, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475">Apply</a></td>
+<td align="center">13 Sep 2026</td>
 </tr>
 </tbody>
 </table>

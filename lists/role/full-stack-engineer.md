@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**39 open roles.** 33 in the United States & Canada · 6 elsewhere in the world.
+**86 open roles.** 51 in the United States & Canada · 35 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,17 +18,73 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Tata Consultancy Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1a033bb-d167-4ebd-acae-132f54c16045">. Net FullStack Developer</a></td>
-<td>Grand Rapids, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466124882/">Apply</a></td>
+<td><strong>Envision Technology Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2d71ba8-0913-40bd-b11f-45c785b4382d">.Net Full Stack Developer</a></td>
+<td>Berkeley Heights, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484464978/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7223988d-fcd2-48ae-92fa-43e94111b42b">Java Full Stack Engineer</a></td>
-<td>Dublin, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4456899918/">Apply</a></td>
+<td><strong>Photon</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd577572-123e-4446-81e6-fc3458fe2762">Java FullStack Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483874616/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Eliassen Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/abfb1ab6-ab07-4c1e-8483-13cccd4feeb3">Full Stack Software Engineer</a></td>
+<td>Greenwood Village, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474070951/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hagne &amp; Heman Investment Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/9837dbe6-1eb8-4882-aff6-64f28e00f4a6">Technical Co-Founder (Full-Stack Engineer)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484476211/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wellby Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/3dd257d4-bb76-426e-8423-3bbdcf06fc17">Full Stack Developer</a></td>
+<td>Webster, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474995286/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Photon</strong></td>
+<td><a href="https://trueinterview.io/jobs/b3f26982-2021-4ffe-9bce-18419c352120">Java Full Stack Developer ( Java + Angular )</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480706212/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Insight Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/c37bb371-e0d9-47b9-8acc-4e7c711549b9">Full Stack Engineer</a></td>
+<td>Fort Mill, SC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483885339/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Berkshire Hathaway Group Reinsurance Division</strong></td>
+<td><a href="https://trueinterview.io/jobs/cde46b53-f196-4fff-b99f-b28ea35b56ce">Full Stack Developer</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483871762/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Underdog: Verified engineers. Interview-ready. Searching confidentially. And companies apply to you</strong></td>
+<td><a href="https://trueinterview.io/jobs/c7b23aec-e469-4ac6-9f0b-d6f00cb344df">Full Stack Engineer</a></td>
+<td>New York City Metropolitan Area<br/>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482466999/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Flexton Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/274e00de-ee34-4add-8736-7d6f8df3cf22">Full Stack Engineer</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484067789/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -39,17 +95,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Tata Consultancy Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/4e34c5bb-5615-402e-8892-18db043228b0">Java Fullstack Developer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465596192/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Underdog: Verified engineers. Interview-ready. Searching confidentially. And companies apply to you</strong></td>
-<td><a href="https://trueinterview.io/jobs/c7b23aec-e469-4ac6-9f0b-d6f00cb344df">Full Stack Engineer</a></td>
-<td>New York City Metropolitan Area<br/>San Francisco Bay Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482466999/">Apply</a></td>
+<td><strong>CAAT Pension Plan</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f897c0a-41ec-4a72-ae1e-8472792f4c41">Full Stack Solutions Developer</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475138669/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -88,6 +137,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Blutic</strong></td>
+<td><a href="https://trueinterview.io/jobs/c27812c1-7d38-4b16-94e4-049c4d677fb8">Java Full Stack Developer | Montreal, Canada | Hybrid</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484464380/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NTT DATA North America</strong></td>
+<td><a href="https://trueinterview.io/jobs/90398787-a700-4609-bb5a-0c31c7e40c11">FullStack Engineer - Halifax Canada</a></td>
+<td>Halifax, Nova Scotia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448672507/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Sagility</strong></td>
 <td><a href="https://trueinterview.io/jobs/0b0d5007-1f5a-40f2-bf25-9943241b4265">Full-Stack Developer - C# / .NET</a></td>
 <td>United States</td>
@@ -102,10 +165,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>ATB Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdd849c8-7c33-4057-af4a-da457a530f49">Full Stack Software Developer</a></td>
+<td>Calgary, AB<br/>Calgary, Canada</td>
+<td align="center"><a href="https://careers.atb.com/careers/job/1125899907737356">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Jobs</strong></td>
 <td><a href="https://trueinterview.io/jobs/5616408f-8893-4b21-9bed-c46b64a376e6">Full-Stack Software Engineer (New Grad)</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/agave/73bd2c98-bf87-4eaa-aea8-35e7b6131d0e/application">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KTek Resourcing</strong></td>
+<td><a href="https://trueinterview.io/jobs/19a7f535-f836-4172-97af-38fa398e3073">Full Stack Developer</a></td>
+<td>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477874430/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -134,6 +211,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fa4f7388-74e0-4925-9bf2-b5ba76086783">Full-Stack Software Engineer</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://jobs.lever.co/agile-defense/f73d0824-7fa2-4408-84f3-29ba715261ee">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Blanc Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3cb0f62-ed9e-4f8b-9e8b-377f625f7a62">Full Stack Software Engineer - AI Agents</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://blanclabs.bamboohr.com/careers/275?postedDate=2026-10-27">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4ba8740-12b7-4e3a-9d2a-9f30a9b2c2a9">Java Full Stack Developer</a></td>
+<td>Mississauga, Canada</td>
+<td align="center"><a href="https://www.capgemini.com/jobs/556830-en_US_SAPBTP/">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -248,6 +339,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://nuro.ai/careersitem?gh_jid=8248317">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>HSBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/81567dea-d4c5-4937-a91f-ecca4309f1b1">Full Stack Engineer - Equities Technology</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://apply.careers.hsbc.com/job/Toronto-Full-Stack-Engineer-Equities-Technology-ON-M5H-1J9/1371013157/?feedId=417557">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Toast, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/97419279-be10-45ff-b686-1aa12d64d821">Software Engineer I, Websites</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8191751">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Viggle Ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa9b0e52-7fc1-4942-b409-31eeb26cdde7">Full-Stack Software Engineer</a></td>
+<td>Toronto, ON</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/viggle/98352e43-0f84-4df8-9f17-88520fe8314a/application">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Discord</strong></td>
+<td><a href="https://trueinterview.io/jobs/f97d5a1b-2052-43ba-ae1e-e317f2a78e22">Full-Stack Software Engineer, Developer Success</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://4dayweek.io/job/full-stack-software-engineer-developer-success-at-discord-4f1269f6">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Miter</strong></td>
+<td><a href="https://trueinterview.io/jobs/16c4d688-cd6d-4258-b7c2-09ba734aae76">Software Engineer (New Grad)</a></td>
+<td>San Francisco, CA<br/>New York City<br/>York, United Kingdom</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/miter/f4567649-a0eb-445d-bd00-a0673a26ec6d/application">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -261,6 +387,174 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>WEFT TECHNOLOGIES</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee045d1b-f35b-475c-a986-384c4fa6b525">Full Stack Developer</a></td>
+<td>India</td>
+<td align="center"><a href="https://in.indeed.com/viewjob?jk=aa541bb23d73c49d">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CleanStart</strong></td>
+<td><a href="https://trueinterview.io/jobs/57bf9fac-c3b5-4390-99e9-a6ce9adf1f63">Full Stack Developer</a></td>
+<td>Ahmedabad, Gujarat, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484463364/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Miratech</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9524679-6391-47d7-a282-fb9d5acabc63">Full Stack Engineer (Go and React)</a></td>
+<td>Hyderabad, Telangana, India<br/>Chennai, Tamil Nadu, India<br/>Bengaluru, Karnataka, India<br/>+3 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482508711/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Remote_WFH_INDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/950e75b8-da3f-45f1-b13d-472961fd4ca7">Full Stack Engineer | C#/.NET + React | TeamViewer | India</a></td>
+<td>New Delhi, Delhi, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482515407/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>UltaHost</strong></td>
+<td><a href="https://trueinterview.io/jobs/e526400b-7b0c-4f1b-b496-d8b0ab711e45">Full-Stack JavaScript Developer (AI-Native)</a></td>
+<td>Delhi, Delhi, India<br/>India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483868788/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Uplers</strong></td>
+<td><a href="https://trueinterview.io/jobs/32f06094-a28f-41a6-89bc-c396e5bf776a">Fullstack Developer (Backend Heavy) (Remote)</a></td>
+<td>India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484465173/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RAPSYS TECHNOLOGIES PTE LTD</strong></td>
+<td><a href="https://trueinterview.io/jobs/a17dfaf2-e6e4-4def-bed5-4b1884bbd4f0">Full Stack Developer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483882176/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>adesso Schweiz AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/20785365-5301-4ad2-ab1c-d6c1c353b01a">Fullstack Software Engineer (Java &amp; Spring, Angular) (all genders)</a></td>
+<td>Bern, Berne, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4182008991/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubique Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f053f0c-08c5-4676-8737-bec75a1c043d">Java Full Stack Developer</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482504568/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>mamgo | Talente 🔗 Jobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/cbeefdd3-5599-40e7-a1c4-d441d842aa83">Fullstack Software Engineer (m/w/d) Java, Angular &amp; Kubernetes</a></td>
+<td>Cologne, North Rhine-Westphalia, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484446690/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Burendo</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd9d983e-f0a6-4874-a63e-a3daeddc7a81">Full Stack Engineer</a></td>
+<td>Leeds, United Kingdom</td>
+<td align="center"><a href="https://apply.workable.com/j/F9485377F2">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/efd30ffb-6145-4013-acd3-00d4e235a1ea">*Full Stack LLM Engineer*</a></td>
+<td>Melbourne, Victoria, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476590934/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Eurofins GSC IT DC</strong></td>
+<td><a href="https://trueinterview.io/jobs/88d5a8fb-d09e-4b3a-b1d3-089f77174c4b">.Net Fullstack Developer</a></td>
+<td>India</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Eurofins/744000158215198--net-fullstack-developer">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NTT DATA</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b4707f9-bd4e-4c62-9c01-7a6063fe41ee">Java Full Stack Developer</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.nttdata.com/global/en/job/391296">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Roche</strong></td>
+<td><a href="https://trueinterview.io/jobs/995a68cd-d751-46e8-80af-d1248dd547da">Full Stack Developer</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://careers.roche.com/de/de/job/202610-125861">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>アビール株式会社</strong></td>
+<td><a href="https://trueinterview.io/jobs/961e0806-3b2d-415b-a0bd-5e7d42450495">Full-Stack Engineer (Java / Spring Boot + Vue.js)</a></td>
+<td>—</td>
+<td align="center"><a href="https://www.hireplanner.com/en/frontend/companies/19072/jobs/47052">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Abraxas Informatik AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/f89cd9c8-97b5-4973-b6dc-41d9edbbde66">Fullstack Software Engineer Web 80–100 %</a></td>
+<td>Flughafen Zürich, Switzerland</td>
+<td align="center"><a href="https://www.abraxas.ch/de/karriere/offene-stellen/fullstack-software-engineer-web-80-100-1223">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EXL Service</strong></td>
+<td><a href="https://trueinterview.io/jobs/4dac77e3-7ee9-4440-9726-f18d37cb601e">Fullstack Engineer</a></td>
+<td>India</td>
+<td align="center"><a href="https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/requisitions/preview/20781">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FalconSmartIT</strong></td>
+<td><a href="https://trueinterview.io/jobs/990f2ab0-6d21-41a6-a429-cfed5c713159">Azure Full stack Developer</a></td>
+<td>Letterkenny, Ireland</td>
+<td align="center"><a href="http://jobs-eu.falconsmartit.com/apply/job/detail?jid=9832189&amp;sid=56827cf47f551cc15507e4cb&amp;cpid=983&amp;uid=152490">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise | HPE</strong></td>
+<td><a href="https://trueinterview.io/jobs/c484b8e8-0920-4ee1-bfbb-7b3187f51346">Full Stack Developer - Digital Experience &amp; Automation (DEA)</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.hpe.com/us/en/job/HPE1US1216505EXTERNALENUS/Full-Stack-Developer-Digital-Experience-Automation-DEA">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Macquarie Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2ea4581-738c-4273-9d89-95f2675d174a">Full Stack Developer, Python / React / Typescript</a> 🌐</td>
+<td>Remote — United Kingdom</td>
+<td align="center"><a href="https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=24609">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Msg</strong></td>
+<td><a href="https://trueinterview.io/jobs/975305ab-8801-43da-9ae1-1b8bdbf8276f">Full Stack developer</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.msg-global.com/job/Bangalore-Full-Stack-developer-KA/1451582233/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PILLAR</strong></td>
+<td><a href="https://trueinterview.io/jobs/d625ce9b-dc66-4e4d-91e6-2eb031357a7d">Full Stack Engineer</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/pillar-srl/f8d7877f-6741-454e-9118-35fb79b85bf3">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Textron Specialized Vehicles</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5406d11-876b-46ac-8e87-238cff27827b">Full Stack Developer</a></td>
+<td>Ipswich, United Kingdom</td>
+<td align="center"><a href="https://careers.textron.com/ipswich-gb/full-stack-developer/24AC31A26AAC4893BCAC2695ED511CA6/job/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>U.S. Tax Court</strong></td>
 <td><a href="https://trueinterview.io/jobs/1e7fcc41-9dbc-4923-bb71-e389119fb550">Devops Engineer/Full Stack Engineer</a> 🌐</td>
 <td>Remote</td>
@@ -272,6 +566,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/9fab4dcd-983e-492c-a98c-9bc8fb0ad1ea">Full Stack .NET Developer</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://careers.viva-it.com/careers/opportunities/job-detail/full-stack-net-developer-NPIAIS27">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WTW</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3f5daee-09d4-4453-b2e2-b6c0a278e424">Full Stack Engineer - AI Focused</a></td>
+<td>Cambridge, United Kingdom</td>
+<td align="center"><a href="https://careers.wtwco.com/jobs/full-stack-engineer-ai-focused-cambridge-england-united-kingdom">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -301,6 +602,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bolivia, Cali<br/>Colombia, Cali<br/>Peru, Cali<br/>+1 more</td>
 <td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjw1g0p11xncqar0s15g43">Apply</a></td>
 <td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Simera Sense</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f6ba7c6-63e9-45f2-924f-8e688de149e2">Full Stack Software Engineer</a></td>
+<td>Glasgow, United Kingdom</td>
+<td align="center"><a href="https://simera-sense.breezy.hr/p/0e2d66bd7f5901-full-stack-software-engineer">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PwC</strong></td>
+<td><a href="https://trueinterview.io/jobs/733f1124-3acf-419f-8973-3332cd0920e6">IN_Senior Associate_.Net Fullstack Developer_GCC_Advisory_Banaglore</a></td>
+<td>Hyderabad - Salarpuria</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Senior-Associate-Adobe-Experience-Manager-content-management-system-GCC-Advisory-Banaglore_744222WD-1">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/72d9713c-eda9-4bc6-b6b9-917ca123693a">Full Stack Developer</a></td>
+<td>3 Locations</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Toronto/Full-Stack-Developer_761839WD">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Oneimaging</strong></td>
+<td><a href="https://trueinterview.io/jobs/7dcb775a-923e-4d44-a731-c73b85fd0fac">Full Stack Associate Software Engineer (UF Only)</a></td>
+<td>Miami</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/oneimaging/jobs/4403125009">Apply</a></td>
+<td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
 </table>

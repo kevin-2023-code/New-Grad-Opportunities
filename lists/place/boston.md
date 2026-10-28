@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**30 open roles.**
+**54 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Siemens EDA (Siemens Digital Industries Software)</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff2fd136-a67b-425b-9da3-e598f9e769da">Software Engineer - C++ / Digital Logic</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464556428/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/58e7a288-d04e-48b8-8da1-f03ac8ff27fe">Materials Engineer I</a></td>
+<td>Andover, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476374880/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP in the U.S.</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2b9127a-dd56-4f57-919c-d39818cc82ce">Geotechnical Engineer</a></td>
+<td>Boston, MA<br/>Worcester, MA<br/>Glastonbury, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4411652059/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens EDA (Siemens Digital Industries Software)</strong></td>
+<td><a href="https://trueinterview.io/jobs/c54a9ffd-ba62-4ca9-95a8-30d2301f5c3d">Software Engineer - C++ / Compiler</a></td>
+<td>Burlington, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475172100/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>QuEra Computing Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/cbe3ad71-fbdc-49d2-a27b-6adfe8544f81">Laser Safety Engineer</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448192700/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motion Recruitment</strong></td>
+<td><a href="https://trueinterview.io/jobs/9806ee0c-ad98-4457-879b-4acb2d37ba29">DevSecOps Engineer</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476301893/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Brooks Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/c66a1f7f-116c-41f2-8014-bd213b42da02">System Software Engineer</a></td>
+<td>Chelmsford, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465264135/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>New York Technology Partners</strong></td>
 <td><a href="https://trueinterview.io/jobs/c9eb32e7-dd78-4e01-93e0-047c7293dd56">Azure / Terraform Engineer</a></td>
@@ -92,6 +141,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cf5b06a7-1235-4a7e-b0e4-15f2a4a66eb1">3D Plant Layout Engineer – Revit/BIM Specialist</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://grnh.se/ctqfse517us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apollo Generators</strong></td>
+<td><a href="https://trueinterview.io/jobs/b30835f7-1955-4bf3-8f18-1c31b91f9c24">Transportation Licensing Engineer</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/apollogenerators/7dc38866-828f-4c5a-98d6-f3f25c604dc3">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -226,6 +282,118 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/whoop/ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3/application">Apply</a></td>
 <td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/df680497-eb1e-489f-9ec6-e22ee083a980">Field Applications Engineer - Power Management</a></td>
+<td>US, MA, Wilmington, United States of America</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Field-Applications-Engineer---Power-Management_R266686">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e2c4f58-44fb-4765-962d-ea53513bab7c">Graduate - Application Engineer</a></td>
+<td>Andover, MA, US</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808972041604">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cyvl</strong></td>
+<td><a href="https://trueinterview.io/jobs/1367f523-79cf-42e2-ae1c-04685b0670fe">Wildcard Application</a></td>
+<td>Boston, Massachusetts<br/>Somerville, Massachusetts</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cyvl/0d4b52b8-24af-4f50-8d6a-58141843d5a6/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/83d380bf-c6c9-4ba7-99d4-b5b9747b8d7b">Graduate - Quality Control Engineer</a></td>
+<td>Leominster, MA, US</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808972068062">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Laminar (formerly H2ok Innovations</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3c43891-b56b-48d7-a8e6-fcb2c705ba95">Junior R&amp;D Engineer</a></td>
+<td>Somerville, MA</td>
+<td align="center"><a href="https://jobs.lever.co/runlaminar/facb7705-9d9e-406a-b053-02068a8c059a/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Paperless Parts</strong></td>
+<td><a href="https://trueinterview.io/jobs/1dbc9f3e-5525-4ee2-8634-bb76b2db641d">Services Engineer</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/paperlessparts/jobs/4737359005">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Adobe</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e8450ea-557f-471c-8fe9-b505bfcdeb6b">2027 University Graduate - Machine Learning Engineer</a></td>
+<td>Waltham, Massachusetts, United States of America<br/>San Jose, California, United States of America<br/>Austin, TX<br/>+6 more</td>
+<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lendbuzz</strong></td>
+<td><a href="https://trueinterview.io/jobs/53f0585b-4f60-4cd7-858e-39542b7ba868">Full-Stack Engineer (Backend)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://jobs.lever.co/lendbuzz/a19330a3-380a-45ad-b388-c98c33ef0db3/apply">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/6772ec4a-c41c-4ea7-b9f3-3a63b41aa65b">Field Service Engineer - Orlando</a> 🌐</td>
+<td>Remote — United States<br/>Boston, MA</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8214452/apply/?gh_jid=8214452">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/16077854-d632-42d5-8355-d264ea296061">Early Professional Structural Engineer-Boston</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95578">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/58d1b547-f2c0-4322-acc3-78194b6ed6a9">Graduate - Process Engineer</a></td>
+<td>Leominster, MA, US</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971994153">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/dd396529-a48f-4c1e-8265-0ed65aa7c3ad">Graduate - Unit Test Engineer</a></td>
+<td>Leominster, MA, US</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971993995">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/3362f4b4-e8a3-44ef-bf0e-b8de4d4706b3">Product Engineer / Design Evaluation</a></td>
+<td>US, MA, Wilmington, United States of America</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer---RF-System_R263805">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/406ba9ca-09ad-47ab-9408-a9d51152be94">Software Engineer, Early Career, Campus</a></td>
+<td>Cambridge, MA, USA<br/>Mountain View, CA</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/631b3bdb-5611-45ea-aeef-32cad1489feb">Graduate - Test Engineer</a></td>
+<td>Leominster, MA, US<br/>San Jose, CA</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971949961">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/02be2c42-bc28-4d61-809c-359327078251">Flight Test Engineer - Imaging</a></td>
+<td>Waltham, Massachusetts, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5234118007?gh_jid=5234118007">Apply</a></td>
+<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>

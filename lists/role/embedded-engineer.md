@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**17 open roles.** 14 in the United States & Canada · 3 elsewhere in the world.
+**28 open roles.** 19 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -115,6 +115,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://archive.ph/C6CRb">Apply</a></td>
 <td align="center">2 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd6c8e40-fa35-4c0b-a58f-3e6d4ed53aa6">2027 Early Career Firmware Engineer</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/883f2771-5845-4eea-84c2-ab89d596f696">Firmware Engineer, Manufacturing Test</a></td>
+<td>Atlanta, GA<br/>Atlanta, Georgia, United States<br/>Costa Mesa, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5243033007?gh_jid=5243033007">Apply</a></td>
+<td align="center">19 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8c5c8d75-de4d-47c1-b176-b22c8ed8d197">Firmware Engineer, Space (Emerging Talent)</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5239596007?gh_jid=5239596007">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce149da6-ee8f-46d1-8aa5-311208797a16">Embedded Software Validation Engineer</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70952">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ba626f3-4008-4117-ad3d-bf002fd6d739">Embedded Software Test Engineer Graduate</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Embedded-Software-Test-Engineer-Graduate_1213438-1">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -128,10 +163,31 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Sioux Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5925140-181c-40c6-af46-ba5462ced585">Embedded Software Engineer</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476749162/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BotLab Dynamics</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3f5f1b5-e3f5-4e1a-9034-18cfdbb20b76">Motor Control Firmware Engineer</a></td>
+<td>Noida, Uttar Pradesh, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483884247/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/cf6257a7-1ee6-4227-bd80-d5054cb6222c">Engineer, Firmware Development (SSD)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4410834624/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Global Clearance Solutions (GCS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c33f1f2-88f6-435a-89e5-0dccb55e1ff5">Embedded Software Development Engineer (Linux) (m/f/d)</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483867377/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -140,6 +196,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bengaluru, Karnataka, India</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692176">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Caterpillar</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3706b65-42a4-42db-af69-aa461a491b60">Embedded Software Engineer</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.caterpillar.com/en/jobs/r0000402213/embedded-software-engineer/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ABB</strong></td>
+<td><a href="https://trueinterview.io/jobs/82bfb64c-7481-4b64-864b-4c2674d32e41">Embedded Software Engineer</a></td>
+<td>India</td>
+<td align="center"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Embedded-Software-Engineer_JR00051758">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Thales</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f308537-2576-4c3d-966e-84a3065bd11b">STAGE - Ingénieur développement Firmware - F/H</a></td>
+<td>Brest, France</td>
+<td align="center"><a href="https://careers.thalesgroup.com/global/en/job/TGPTGWGLOBALR0344667EXTERNALENGLOBAL/STAGE-Ing%C3%A9nieur-d%C3%A9veloppement-Firmware-F-H">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>

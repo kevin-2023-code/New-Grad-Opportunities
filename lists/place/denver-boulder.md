@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**32 open roles.**
+**45 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Entarian</strong></td>
-<td><a href="https://trueinterview.io/jobs/b666ab7b-5921-4778-92fd-360fa7a5f9f8">Network Implementation Engineer</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459034798/">Apply</a></td>
+<td><strong>University of Colorado Boulder</strong></td>
+<td><a href="https://trueinterview.io/jobs/44ec1525-4387-4f1b-86a8-fee6b6d0cc82">Advancement Assistant, Alumni Engagement for the College of Engineering and Applied Science</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484249730/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Farnsworth Group, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4f2ed0d-a9a0-4992-a195-6af132cd468a">Industrial Electrical Engineer</a></td>
+<td>Colorado Springs, CO<br/>Boise, ID</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475409905/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The GEO Group, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e399943-1275-4ca3-9af0-0325df1e2adc">Product Engineer ll</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484470446/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>US Tech Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f6786f3-9356-4e0d-8ac7-61c3bf1169cf">Test Engineer 3 # 26-25185</a></td>
+<td>Longmont, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483875561/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -85,6 +106,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1d0f63da-fadc-4868-b2e7-77f3cb6ba652">Robotics Software Engineer</a></td>
 <td>Louisville, CO</td>
 <td align="center"><a href="https://stratom.pinpointhq.com/postings/e6f82334-6ae6-43a7-a0ad-493e6607355a">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Akima</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9a27a7f-5b92-4128-b0c8-4021de62aeaf">System Administrator - Swing Shift (2pm-10pm)</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://careers.akima.com/jobs/26644/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -186,6 +214,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>State of Colorado</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa9d2dbd-2edb-470a-861c-95f38b2c4c9a">Engineer in Training I, Design</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.governmentjobs.com/careers/colorado/jobs/5527938/engineer-in-training-i-design">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Northrop Grumman</strong></td>
 <td><a href="https://trueinterview.io/jobs/2852f6cd-99e8-429e-9239-d4b29e4382ef">Algorithm Software Engineer - Level 3 or 4 (AHT)</a></td>
 <td>Boulder, CO</td>
@@ -240,6 +275,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, CO, Colorado Springs, Centennial<br/>US, CA, San Jose, Rio Robles, United States of America<br/>US, AZ, Chandler, East Elliot</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Field-Applications-Engineer---Auto-Connectivity_R266685">Apply</a></td>
 <td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Yelp</strong></td>
+<td><a href="https://trueinterview.io/jobs/5aae45d0-5801-4207-ae9b-ca53f4661c3d">Retention Restaurant Support Specialist, SaaS Sales - (Remote - US)</a> 🌐</td>
+<td>Remote — United States<br/>Denver, Colorado, United States</td>
+<td align="center"><a href="https://uscareers-yelp.icims.com/jobs/14071/retention-restaurant-support-specialist%2c-saas-sales---%28remote---us%29/job">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Xcimer Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/a05942bc-5742-493c-abd0-670dc1e7a396">Electro-Optical Engineer</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://jobs.lever.co/xcimer/15273414-4217-49a3-a7fa-be40f4961a84/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/751d52e1-7d52-4239-81a8-cd3b3bcc5717">Software Engineer – Oscilloscope &amp; Measurement Solutions</a></td>
+<td>Colorado Springs, Colorado, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54394?lang=en-us">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/6772ec4a-c41c-4ea7-b9f3-3a63b41aa65b">Field Service Engineer - Orlando</a> 🌐</td>
+<td>Remote — United States<br/>Denver, CO</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8214452/apply/?gh_jid=8214452">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2111e4e-05b4-433c-9d0f-9ae3b87374cd">Associate Analog Design Engineer</a></td>
+<td>US, CO, Colorado Springs, Chapel Hills<br/>US, CO, Colorado Springs, Centennial<br/>US, CA, San Jose, Rio Robles, United States of America<br/>+1 more</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Analog-Design-Engineer_R266119">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Inalab</strong></td>
+<td><a href="https://trueinterview.io/jobs/1495031a-e6a7-4a32-a521-b1ee82d29f2c">Application Developer - FWS ECOSphere</a></td>
+<td>Fort Collins, CO<br/>Falls Church, VA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/inalabconsulting/jobs/5129452008">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4e38aba4-eb5c-4c27-bebc-e4f28f895df2">Application Developer - Databricks - FWS</a></td>
+<td>Fort Collins, CO<br/>Falls Church, VA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/inalabconsulting/jobs/5421174008">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1bf13ed2-63e7-4173-85fe-6739fcc0a8e0">Front-End Application Developer - FWS</a></td>
+<td>Fort Collins, CO<br/>Falls Church, VA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/inalabconsulting/jobs/5421149008">Apply</a></td>
+<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>

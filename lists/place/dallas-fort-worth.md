@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**38 open roles.**
+**52 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,59 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Prestige Staffing</strong></td>
-<td><a href="https://trueinterview.io/jobs/6fabba6a-9282-4d1c-9bb9-72b9944749b0">Software Engineer</a></td>
-<td>Fort Worth, TX<br/>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474076927/">Apply</a></td>
+<td><strong>Photon</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd577572-123e-4446-81e6-fc3458fe2762">Java FullStack Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483874616/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vanderlande</strong></td>
+<td><a href="https://trueinterview.io/jobs/8088c9d3-7d04-4746-a11e-4add0a5a5c6e">Electrical Project Engineer</a></td>
+<td>Dallas, TX<br/>Marietta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474415280/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Franklin Fitch</strong></td>
+<td><a href="https://trueinterview.io/jobs/a423261a-3f92-47e1-9c32-23f429561146">SQL Developer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484478164/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kimley-Horn</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7ed755c-860b-4ed4-9779-3be1a873c8fa">Cybersecurity Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457640326/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Photon</strong></td>
+<td><a href="https://trueinterview.io/jobs/b3f26982-2021-4ffe-9bce-18419c352120">Java Full Stack Developer ( Java + Angular )</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480706212/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kimley-Horn</strong></td>
+<td><a href="https://trueinterview.io/jobs/d24b0d9f-d2a9-42b3-8f4c-c64ff748d0a3">Civil Engineer - Land Development</a></td>
+<td>Dallas, TX<br/>Vero Beach, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4402737724/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Heads Up Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/426951ba-8f78-4764-8962-142431431b94">Mechanical Engineer</a></td>
+<td>Addison, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475128376/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kimley-Horn</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c6de5be-3d2a-4a8c-82e5-1c54211ee71b">Civil Engineering Analyst - Land Development</a></td>
+<td>Fort Worth, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466597870/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -282,6 +331,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Richardson, Texas, US<br/>RTP, North Carolina, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Consulting-Engineer-I--Full-Time--United-States_2025887">Apply</a></td>
 <td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sqa Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b299d74-6abf-44ce-9b26-d9afc10609f6">Quality Inspector - Electromechanical</a></td>
+<td>Dallas, TX<br/>Grand Prairie, TX</td>
+<td align="center"><a href="https://jobs.lever.co/sqaservices/050ef80f-e9a4-4e25-aa5a-adbcc2bcd357/apply">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Yelp</strong></td>
+<td><a href="https://trueinterview.io/jobs/5aae45d0-5801-4207-ae9b-ca53f4661c3d">Retention Restaurant Support Specialist, SaaS Sales - (Remote - US)</a> 🌐</td>
+<td>Remote — United States<br/>Dallas, Texas, United States</td>
+<td align="center"><a href="https://uscareers-yelp.icims.com/jobs/14071/retention-restaurant-support-specialist%2c-saas-sales---%28remote---us%29/job">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>CAE</strong></td>
+<td><a href="https://trueinterview.io/jobs/66a87b37-0b5a-427f-a18c-2825e87dbf25">Weapons Aero Software Engineer</a></td>
+<td>Arlington, TX</td>
+<td align="center"><a href="https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Aero-Software-Engineer_123874-1">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>T1 Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/0214cfc9-c6d6-455f-8953-cbf25fed17bf">IT Software Development Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/t1energy/82614947-7008-4811-b346-6263020912ea/application">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/c41859ad-63dd-4ef2-a7c1-115bcc05e359">New College Grad - Memory System Architect, HBM Generative AI</a></td>
+<td>Richardson, TX, US<br/>Folsom, CA, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44544598">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>D.a. Davidson</strong></td>
+<td><a href="https://trueinterview.io/jobs/04ab7bc8-4fa4-4fea-98f7-0ab6215bce0e">Computer Support Specialist</a></td>
+<td>Plano, TX<br/>New York, NY<br/>Chicago, IL</td>
+<td align="center"><a href="https://jobs.lever.co/dadavidson/899a1106-ba6a-4c4a-bb9b-6980c18226fe/apply">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/17cdda7b-c574-4e4b-9b5a-98d04baaad9e">Early Career Substation Assistant Electrical Engineer</a></td>
+<td>Fort Worth, TX, United States<br/>Overland Park, KS, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95107">Apply</a></td>
+<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>

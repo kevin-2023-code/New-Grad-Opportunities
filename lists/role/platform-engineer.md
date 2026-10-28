@@ -2,7 +2,7 @@
 
 # Platform Engineer
 
-**11 open roles.** 8 in the United States & Canada · 3 elsewhere in the world.
+**49 open roles.** 13 in the United States & Canada · 36 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Baird</strong></td>
+<td><a href="https://trueinterview.io/jobs/96c26c20-9b15-4a43-919a-0f9a1c92c177">Salesforce Platform Engineer</a></td>
+<td>Milwaukee, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475141260/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Tata Consultancy Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/c0656c29-cdb3-4c35-88d0-2a05d405a241">Platform Engineer</a></td>
@@ -73,6 +80,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.intuit.com/job/mountain-view/opensource-mtv-ai-and-platform-engineering-developer-meetup-fall-2026/27595/101676663728">Apply</a></td>
 <td align="center">8 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>BMO</strong></td>
+<td><a href="https://trueinterview.io/jobs/43045bc3-9145-47c5-b060-1f5ae44a8961">RPA Platform Admin / Platform Engineer</a></td>
+<td>Toronto, ON, CAN</td>
+<td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/RPA-Platform-Admin---Platform-Engineer_R260027586">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sydecar</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2679ccd-c966-482e-9af4-8f6a0ed0679c">Software Engineer 1, Platform</a></td>
+<td>San Francisco Office - Hybrid</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sydecar/79847304-2735-47ce-ae04-237c8957982a/application">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/a276ddb9-4753-4ed5-a22b-b4783ee4b719">Digital Solutions and Platform Engineer</a></td>
+<td>Maynard, Massachusetts, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Digital-Solutions-and-Platform-Engineer_2022135-1">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>StubHub</strong></td>
+<td><a href="https://trueinterview.io/jobs/d0f6f98f-3258-4c2a-a96d-200d46149d84">Software Engineer I - Platform Engineer - Core Compute Platform</a></td>
+<td>New York, NY<br/>New York, New York, United States</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4967177101">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -85,6 +120,160 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hellomed</strong></td>
+<td><a href="https://trueinterview.io/jobs/2aa6b54b-fc8a-4208-aef8-cf32d4d15ae8">DevOps-/Platform-Engineer (m/w/d)</a></td>
+<td>Berlin, Berlin, Germany<br/>Berlin, Deutschland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482519327/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rocken®</strong></td>
+<td><a href="https://trueinterview.io/jobs/33ec5d4d-8ab9-4a37-80bf-ef08100e366d">AI Platform &amp; Cloud Engineer (m/w/d)</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483886122/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1cb9e1d3-a2f2-40cd-9b49-328b597403bf">Cloud &amp; Digital Platform Engineer (m/w/d)</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483880277/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/02536fb2-b1fd-4722-97db-e84a73cfeff4">Cloud Platform Engineer – Azure, Microsoft 365 &amp; Automation (m/w/d)</a></td>
+<td>Winterthur, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483878315/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/31b662b6-e5cb-48b9-af72-db699bf15fc7">Container Platform Engineer (m/w/d)</a></td>
+<td>Pfäffikon, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483881289/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/962b2800-dfd7-4c8a-9fa9-848d0558a509">Platform Engineer (m/w/d)</a></td>
+<td>Bern, Berne, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483873411/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f84474a7-f590-4c0b-ba1c-f704b6c2fdd6">Security &amp; Client Platform Engineer (m/w/d)</a></td>
+<td>Lucerne, Lucerne, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483874419/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ELAC SONAR GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a543a47-7484-47b3-b20f-fc7449324007">Softwareentwickler als AI Platform Engineer (m/w/d)</a></td>
+<td>Kiel, Schleswig-Holstein, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482519183/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Endeavour Foundation</strong></td>
+<td><a href="https://trueinterview.io/jobs/270cad8d-1fdd-4527-82c9-c7e63beeea63">Technology Platform Engineer</a></td>
+<td>Greater Brisbane Area<br/>Cannon Hill, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484430309/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/b243e0e8-9b96-4a22-9a6a-8671d1e8158b">Platform Engineer</a></td>
+<td>India</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000158264418-platform-engineer">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HDI AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a31ce3c-dc24-4e64-9a94-3c4322e0f0b5">Cloud Platform Engineer TACP</a></td>
+<td>Hannover, Deutschland</td>
+<td align="center"><a href="https://job.hdi.group/job/Hannover-Cloud-Platform-Engineer-TACP/1446776933/?feedId=436633">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0ec1e5d5-6a65-4859-884a-a227944f6c21">Platform Engineer - Internal Developer Portal</a></td>
+<td>Hannover, Deutschland</td>
+<td align="center"><a href="https://job.hdi.group/job/Hannover-Platform-Engineer-Internal-Developer-Portal/1429087133/?feedId=436633">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4ec7a571-98d5-4e87-98d3-b8ac541b19bf">Platform Engineer Azure</a></td>
+<td>Hannover, Deutschland</td>
+<td align="center"><a href="https://job.hdi.group/job/Hannover-Platform-Engineer-Azure/1428660733/?feedId=436633">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6a604d62-46b5-4a58-8776-c5e0459b55ae">Platform Engineer TKP</a></td>
+<td>Hannover, Deutschland</td>
+<td align="center"><a href="https://job.hdi.group/job/Hannover-Platform-Engineer-TKP/1446776733/?feedId=436633">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nixil</strong></td>
+<td><a href="https://trueinterview.io/jobs/6644201e-8b34-4425-aa7b-96875f272066">Snowflake Platform Engineer / Administrator</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://www.livehire.com/job/nixil/79MA4">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NTT DATA</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a3a8562-ff8f-4ee5-9ad1-943708eebcb2">Platform Support Engineer (L3)</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.nttdata.com/global/en/job/R-152083">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tectura</strong></td>
+<td><a href="https://trueinterview.io/jobs/05934384-02c6-4e08-b40e-4d9ce2f80fa7">Power Platform Developer</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.tectura.com/job-listings/power-platform-developer">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bechtle Netherlands</strong></td>
+<td><a href="https://trueinterview.io/jobs/043eb9ee-a1c1-432f-87cf-63383e4bf124">Power Platform Engineer</a></td>
+<td>Eindhoven, North Brabant, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472942954/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Beurer GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9775050-2e3f-49f7-a3f7-7eaf949aad4f">AI Platform Engineer (m/w/d)</a></td>
+<td>Ulm, Deutschland</td>
+<td align="center"><a href="https://karriere.beurer.com/jobposting/6d0df3c27cb6d0d01d76d2c3df40bdbc15031a210">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture</strong></td>
+<td><a href="https://trueinterview.io/jobs/c20e57e9-b191-4681-8f42-caf1104a50de">Adobe Experience Platform &amp; Customer Journey Analytics Engineer</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://accenture.com/es-es/careers/jobdetails?id=14811012_es">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/912655bc-4998-4e62-8040-17779e85d047">Data Platform Engineer</a></td>
+<td>India</td>
+<td align="center"><a href="https://accenture.com/in-en/careers/jobdetails?id=ATCI-5776202-S2070154_en">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Blackhawk Network</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9923e7d-4459-4c86-b267-fafcf787a0e4">Platform Engineer I</a> 🌐</td>
+<td>Remote — India</td>
+<td align="center"><a href="https://apac-blackhawknetwork.icims.com/jobs/27229/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>BV Teck</strong></td>
 <td><a href="https://trueinterview.io/jobs/e8f75950-0b76-4dd2-8da0-3c004df1bb03">Kafka Platform Engineer</a> 🌐</td>
@@ -100,11 +289,88 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Connells Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/86783930-e0a3-4b2d-b2f7-35f1a290f966">Data Platform Engineer (Operational Support)</a></td>
+<td>Milton Keynes, United Kingdom</td>
+<td align="center"><a href="https://emea5-foc.lumessetalentlink.com/tlk/pages/fo/advert/details.jsp?nPostingTargetId=91461&amp;id=Q6TFK026203F3VBQBLOV48MIN&amp;LG=UK&amp;languageSelect=UK&amp;sType=Indeed+Organic">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Finnova</strong></td>
+<td><a href="https://trueinterview.io/jobs/f640ea7a-c7da-402c-875d-18b2f3144e24">Data &amp; AI Platform Engineer (all) 60 - 100%</a></td>
+<td>Lenzburg, Switzerland</td>
+<td align="center"><a href="https://jobs.finnova.com/offene-stellen/data-ai-platform-engineer-all/88133122-0aaa-4d7c-83ea-acb498ba153a">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PGGM</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebd0f998-a0f3-48ba-a90b-6b3deb0f309d">Data Platform Engineer - Investment Management IT Infrastructure</a></td>
+<td>Zeist, Netherlands</td>
+<td align="center"><a href="https://emp.jobylon.com/jobs/383266-pggm-data-platform-engineer-investment-management-it-infrastructure/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Saab</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a16a3c2-230f-4bd6-8618-ef0763e24059">OpenShift Platform Engineer</a></td>
+<td>Göteborg, Sweden</td>
+<td align="center"><a href="https://www.saab.com/career/job-opportunities/openshift-platform-engineer">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WM Reply</strong></td>
+<td><a href="https://trueinterview.io/jobs/591eeb9a-bbed-4d4e-8c5d-9e7cef8d06ae">Power Platform Developer</a></td>
+<td>Manchester, United Kingdom</td>
+<td align="center"><a href="https://wmreplyjobs.recruitee.com/o/power-platform-developer-7">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vusion</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff2e3572-3526-46ab-a479-720a515b0c02">Data Platform Engineer</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/VusionGroupSA/744000157884059-data-platform-engineer-">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Deloitte</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c0aa659-2848-4f01-a3fa-36280740f169">Consultant, AWS Platform Engineer</a></td>
+<td>Belfast, United Kingdom</td>
+<td align="center"><a href="https://apply.deloitte.co.uk/UKCareers/JobDetail/Consultant-AWS-Platform-Engineer/25541">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Planlab.ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/552a08d1-196a-4694-8be1-404374e3b425">Planlab.ai / / Product Engineer (Design) &amp; Platform Engineer / ONSITE in London, UK / 100k-160k GBP + 0.25-0.75% Equity / Visa sponsorship</a></td>
 <td>Product Engineer (Design) &amp; Platform Engineer</td>
 <td align="center"><a href="https://planlab.ai/jobs">Apply</a></td>
 <td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Isolocity</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f78821a-02ba-412d-9cae-02f8fd639fa8">cloud infrastructure engineer</a></td>
+<td>Not Available</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50358308">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Our Future Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/c633ae1e-fe04-414f-8709-70bd52e12112">Platform Engineer</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://4dayweek.io/job/platform-engineer-at-our-future-health-3f54f829">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mastercard</strong></td>
+<td><a href="https://trueinterview.io/jobs/9008ab00-4fa6-403f-8c5b-bb0811909b24">Cloud Automation Engineer</a></td>
+<td>Copenhagen, Denmark (Arne Jacobsens)</td>
+<td align="center"><a href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Copenhagen-Denmark-Arne-Jacobsens/Cloud-Automation-Engineer_R-291016">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Genomics England</strong></td>
+<td><a href="https://trueinterview.io/jobs/47e80336-7a7f-40fd-bfe3-4d1210adfa44">Platform Engineer, AWS</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://4dayweek.io/job/platform-engineer-aws-at-genomics-england-becc3850">Apply</a></td>
+<td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
 </table>

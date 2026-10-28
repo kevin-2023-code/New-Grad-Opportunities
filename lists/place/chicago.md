@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**24 open roles.**
+**45 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,97 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Old Mission</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee349ac0-7c42-4766-af72-3f5a248cfeec">Python Software Engineer</a></td>
+<td>Chicago, IL<br/>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483883468/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b8455c72-e2da-4752-87bb-910c69ba8f64">C++ Software Engineer - Research Infrastructure</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483888391/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bd372d9a-9737-44bf-b5a1-6eff1b73c885">Quantitative Researcher</a></td>
+<td>Chicago, IL<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483871858/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c3036615-3f7c-4fc8-bbf0-779281d3edcf">Software Engineer – 2027 Graduate Program (August Start)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483882494/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4be53b53-7b6b-4ebc-ac3c-283448d4eb57">Systematic Equity Options Trader</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483869899/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Selby Jennings</strong></td>
+<td><a href="https://trueinterview.io/jobs/384cc3f1-d9b0-493f-ace5-a218d3f17cba">C++ Developer - Low Latency Trading</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484468699/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ashby</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e3aad1d-e6ed-4fc7-a2f9-481a90f6bff6">Python Software Engineer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483866975/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a75377de-1b23-4057-a506-36098dc2fed6">Software Engineer – 2027 Graduate Program (August Start)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483876684/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/906fcd94-c114-4f50-b900-1ba65e8909d2">Delivery Consultant – AI ML, Professional Services, AWSI HCLS</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467299692/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ashby</strong></td>
+<td><a href="https://trueinterview.io/jobs/962390e9-a83d-4b12-9482-e3b30a58e725">C++ Software Engineer - Research Infrastructure</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483885421/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8710465a-9960-4c55-a287-c95d10be5a82">Systematic Equity Options Trader</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483881512/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fintal Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/3090a0f4-f03b-4a66-817a-190f509ee915">C++ Software Engineer</a></td>
+<td>Chicago, IL<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483882453/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Allied Benefit Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/329c0f47-693b-4273-a25f-6377d9b3025d">IT Data Analyst</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465558700/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Mott MacDonald</strong></td>
 <td><a href="https://trueinterview.io/jobs/b0106963-24c2-459d-ab0e-3f62c7d4919e">Graduate Railways Engineer - 2027</a></td>
@@ -184,6 +275,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chicago, IL</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/66degrees/jobs/6220259004">Apply</a></td>
 <td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Chicago Public Media</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c77ca20-9f68-4976-a6df-1c67109f18b9">Product Analyst</a></td>
+<td>Chicago, IL (Hybrid workplace)<br/>WBEZ</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/cpm/jobs/4715735006">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8f5ebde-146b-4bc2-9b3a-d45b522038c0">Presales Systems Engineer - Entry Level</a></td>
+<td>Chicago, IL, More...</td>
+<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Presales-Systems-Engineer---Entry-Level_R69001">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Okta</strong></td>
+<td><a href="https://trueinterview.io/jobs/298b0730-342c-4a31-8c4d-5af5f76964ed">Associate Program Analyst (New Grad)</a></td>
+<td>Chicago, Illinois<br/>Bellevue, Washington<br/>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.okta.com/company/careers/opportunity/8220584?gh_jid=8220584">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f11abc0-479c-43b8-9a5e-3948c186ecba">Data Analyst, Stewardship</a> 🌐</td>
+<td>Remote — United States<br/>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8189730">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>D.a. Davidson</strong></td>
+<td><a href="https://trueinterview.io/jobs/04ab7bc8-4fa4-4fea-98f7-0ab6215bce0e">Computer Support Specialist</a></td>
+<td>Chicago, IL<br/>New York, NY<br/>Plano, TX</td>
+<td align="center"><a href="https://jobs.lever.co/dadavidson/899a1106-ba6a-4c4a-bb9b-6980c18226fe/apply">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/ccde52cb-650e-47ca-9f6f-d12c9604e32c">Floor Trader</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8207750">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lyric</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9759202-db38-489d-ae2b-cad33e8552fc">Product Training Associate (Technical)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lyric/2eaa8450-c430-4759-9944-48850dd856cb/application">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/37ac16e9-56b2-4a81-ac6d-f4726d373d9a">Engineering Specialist - Quality/Process</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70286">Apply</a></td>
+<td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
 </table>

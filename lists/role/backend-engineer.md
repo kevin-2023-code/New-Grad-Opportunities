@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**16 open roles.** 11 in the United States & Canada · 5 elsewhere in the world.
+**31 open roles.** 17 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Blue Signal Search</strong></td>
+<td><a href="https://trueinterview.io/jobs/d74f2398-3610-410a-9b15-48bb8c1b712b">AI Backend Systems Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4449863973/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Goliath Partners</strong></td>
 <td><a href="https://trueinterview.io/jobs/af372b03-4cfa-48a7-bce6-81814bc09a23">Backend Engineer</a></td>
@@ -67,10 +74,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>EvenUp</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5b8bcc3-6d40-4d8d-9904-c0fa0e0f890d">Backend Engineer, Growth &amp; Agents</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4439463349/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>EVONA</strong></td>
 <td><a href="https://trueinterview.io/jobs/8b6d2384-6d71-401c-9dc2-02064e8e512d">Back-end Engineer - Python</a></td>
 <td>Arvada, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474956728/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Open Systems Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/8bd0af2b-e3c4-4c50-a309-5a7da6a4a54e">Golang Back-end Developer</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479381506/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CBTS</strong></td>
+<td><a href="https://trueinterview.io/jobs/db6af251-1acf-455e-8d53-dc3afabc17ca">Java Backend Engineer (W2 Contract only/ No 3rd Parties)</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478460201/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -94,6 +122,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.1point3acres.com/jobs/01m4hhtktca8semrx40cb6670z">Apply</a></td>
 <td align="center">10 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>RemoteJobsOne</strong></td>
+<td><a href="https://trueinterview.io/jobs/034a10f6-6432-4757-84a3-13d281081185">software developer</a></td>
+<td>Toronto, ON</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50344535">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>QUALCOMM</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1275f8f-9b8c-4705-b87e-5e89387625de">#Backend Software Engineer</a></td>
+<td>San Diego, CA, US</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446721162271">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -107,6 +149,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>PRIMUS Global Solutions (PRIMUS UK &amp; Europe)</strong></td>
+<td><a href="https://trueinterview.io/jobs/0c5c9cdd-ee6e-4d0c-b4a3-36f5da465272">Back End Developer</a></td>
+<td>Belfast, Northern Ireland, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484474428/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ADA Software Re Engineering Services Pvt. Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6221ca7-808e-413d-9ea5-ab30161c8e39">Java Software Engineer</a></td>
+<td>Kolkata, West Bengal, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482501991/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/0fe60228-cc19-4ab4-ac1f-f861e6bb2651">Backend Software Engineer Graduate (Global Payment) - Singapore 2027 Start</a></td>
 <td>Singapore</td>
@@ -114,10 +170,31 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Cognizant</strong></td>
+<td><a href="https://trueinterview.io/jobs/df3c58da-366c-4345-b59b-5067882b946e">Backend Kotlin Engineer</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484463141/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Baidu, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/cf90b5fa-e70f-4262-a24b-5c44b7775581">Backend Software Engineer(Singapore)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483865534/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GitLab Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/b133e3f0-3d0a-44b6-ab3a-6a60444dda06">Intermediate Backend Engineer, Pipeline Authoring</a></td>
+<td>zdalnie, Poland</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gitlab/jobs/8773028002">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cd70cfd-2320-4cf8-b0af-2d626098ffa8">Backend Software Engineer - TikTok Shop-Europe</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://lifeattiktok.com/search/7701266850238253317">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -140,6 +217,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brazil</td>
 <td align="center"><a href="https://jobs.lever.co/ciandt/ff33f4ce-5822-4b09-a334-5ea5401a91e6/apply">Apply</a></td>
 <td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cabify</strong></td>
+<td><a href="https://trueinterview.io/jobs/85b03b34-814b-4814-b6db-d03477b77c2d">Software Engineer - Backend + AI</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://4dayweek.io/job/software-engineer-backend-ai-at-cabify-d4827e17">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Manulife</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fab814f-7929-4306-9080-c3ca365f7395">Backend Software Engineer</a></td>
+<td>Chengdu, Sichuan</td>
+<td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Chengdu-Sichuan/Backend-Software-Engineer_JR26080605">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/5598230b-4d05-4fcb-ac39-329d693d61c4">C# Software Engineer - Temporary from 01/01/2027 for 12 months</a></td>
+<td>United Kingdom Offsite</td>
+<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/C--Software-Engineer---Temporary-from-01-01-2027-for-12-months_R67751">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Workday</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a182208-d83c-4f62-9b7c-ae9cd587c6bd">Backend Engineer</a></td>
+<td>Sweden, Stockholm</td>
+<td align="center"><a href="https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Backend-Engineer_JR-0109822">Apply</a></td>
+<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>

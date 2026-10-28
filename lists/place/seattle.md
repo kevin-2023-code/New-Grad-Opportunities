@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**30 open roles.**
+**54 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2480603-930c-4751-951e-2800ed18710a">System Development Engineer, Secure Endpoint Connectivity, CS Security</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467413522/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c08bfcb-6327-418d-b25b-5083a956a772">Software Dev Engineer, AWS CX - Cloudscape</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467407590/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sophus IT Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/3437e782-e0a7-4ebf-afd8-1133bbc2a1de">Site Reliability Engineer</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483878509/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Mott MacDonald</strong></td>
 <td><a href="https://trueinterview.io/jobs/c4aef99a-8c6f-42bf-8283-83a50e51da49">Graduate Rail Systems Engineer - 2027</a></td>
@@ -130,10 +151,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Michels</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f6f2bb0-89b8-4e5a-9481-56d5c11b2fde">Civil Design Engineer, Geostructural - Mi-Tech Services, Inc.</a></td>
+<td>Renton, WA</td>
+<td align="center"><a href="https://grnh.se/w5nth1l2teu">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>PACCAR</strong></td>
 <td><a href="https://trueinterview.io/jobs/b56ca9eb-fb91-44e5-9887-9ec7b74a9f57">Liaison Engineer</a></td>
 <td>Renton, WA</td>
 <td align="center"><a href="https://jobs.paccar.com/job/Renton-Liaison-Engineer-WA-98055/1451877633/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Read AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd8ef96b-d63f-46af-a48a-89f811820048">Product Designer - Enterprise</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/read-ai/1047b7e6-3f50-40eb-aae7-b5d6f7bb607b">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -226,6 +261,139 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle - United States - Seattle, Washington United States</td>
 <td align="center"><a href="https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job?mode=apply">Apply</a></td>
 <td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gdh</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb4861b2-94d5-4668-9428-f0ecd96d3296">Graduate Water Engineer</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28835">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/094ba932-0117-45a2-b073-8cd3f940513b">RF Engineer I (R6108)</a></td>
+<td>Seattle, Washington</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/a9d061e9-4d28-4a30-8381-5f2dc28b4416/apply">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Atlassian</strong></td>
+<td><a href="https://trueinterview.io/jobs/46ab33ee-e3b3-4c0a-afd4-5bb9d040db0d">Machine Learning Engineer, 2027 Graduate U.S.</a></td>
+<td>Seattle - United States - Seattle, Washington United States</td>
+<td align="center"><a href="https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job?mode=apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3599f1d-3a83-4782-abd0-1a6fe4b12db8">Engineer I, Quality (R5976)</a></td>
+<td>Seattle, Washington</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/dc978728-0162-4e7d-8f5b-de44296a6ac9/apply">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a40fba0-0d6e-4a51-b9d6-8e014ca293fc">EEE Component Reliability Engineer</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8834054002?gh_jid=8834054002">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Adobe</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e8450ea-557f-471c-8fe9-b505bfcdeb6b">2027 University Graduate - Machine Learning Engineer</a></td>
+<td>Seattle, Washington, United States of America<br/>San Jose, California, United States of America<br/>Austin, TX<br/>+6 more</td>
+<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/038313d4-9488-4afb-bb20-679721878c8f">2027 University Graduate - Software Engineer</a></td>
+<td>Seattle, Washington, United States of America<br/>San Jose, California, United States of America<br/>Austin, TX<br/>+5 more</td>
+<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Helion</strong></td>
+<td><a href="https://trueinterview.io/jobs/580f2d7d-4735-4db8-8d54-236347d0d714">Power Electronics Engineer</a></td>
+<td>Everett, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/helion/4f0b0e62-cdd6-4f66-803b-c2d8ee3703c0/application">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Okta</strong></td>
+<td><a href="https://trueinterview.io/jobs/298b0730-342c-4a31-8c4d-5af5f76964ed">Associate Program Analyst (New Grad)</a></td>
+<td>Bellevue, Washington<br/>Chicago, Illinois<br/>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.okta.com/company/careers/opportunity/8220584?gh_jid=8220584">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Plaid</strong></td>
+<td><a href="https://trueinterview.io/jobs/13325519-049c-4a37-b2f5-7668c21f5eac">TechOps Site Support</a></td>
+<td>Seattle Office<br/>New York City Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/plaid/4cc6c985-40cc-472f-94cd-90807c698b50/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e3b4740-0aab-4386-9526-434a8718ff5b">Software Engineer, Early Career — Immediate Start</a></td>
+<td>San Francisco, Seattle, New York<br/>San Francisco, CA<br/>Toronto, ON<br/>+1 more</td>
+<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8212508">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cobot</strong></td>
+<td><a href="https://trueinterview.io/jobs/399a7443-a75e-4a8a-96e4-46450289f9f9">Robotics Assistant</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cobot/80ce0222-0e42-4479-8e49-a484cc6126a5/application">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Singlestore</strong></td>
+<td><a href="https://trueinterview.io/jobs/24c0b07c-ab73-4767-a98a-57716a9ffb63">Software Engineer-New Grad 2027</a></td>
+<td>Seattle, WA<br/>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/singlestore/jobs/8205427">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Atlassian</strong></td>
+<td><a href="https://trueinterview.io/jobs/13c93d5c-d0c0-4c6d-aab7-85ba54545c9d">Software Engineer, 2027 Graduate U.S.</a></td>
+<td>Seattle - United States - Seattle, Washington United States</td>
+<td align="center"><a href="https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job?mode=apply">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Grammarly</strong></td>
+<td><a href="https://trueinterview.io/jobs/e5626b9d-1367-4250-8fc2-2cae55c3f3f0">Software Engineer, Early Career</a></td>
+<td>Hub - Seattle<br/>Hub - San Francisco</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/da5e147c-f957-4ba1-9712-1b2dde377cb0/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/98efecd5-a7f6-47f3-82b5-dbc5699c2857">Data Engineer, Ground Network Engineering (Gateway)</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8784022002?gh_jid=8784022002">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f65098e-31f0-4548-bd46-bdf654e2e197">Test Engineer, R&amp;D</a></td>
+<td>Seattle, WA<br/>Austin, TX<br/>New York, NY<br/>+3 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/642d24de-0fad-4dae-bbd6-16b6a1abf69b/application">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/122b8c32-6c00-4c5c-a60e-05e432aa6712">Fluids / Mechanical Engineer, R&amp;D</a></td>
+<td>Seattle, WA<br/>Austin, TX<br/>New York, NY<br/>+3 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/2d717643-6e6b-4429-be6b-208baa7a627f/application">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/146ac455-30d8-4211-a949-d0ccaf90c35c">Decision Engineer, Infrastructure Development &amp; Delivery</a></td>
+<td>Seattle, WA<br/>San Francisco, CA<br/>New York, NY<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/4d9e6d9f-d1f5-4e56-b743-a0f082fb7217/application">Apply</a></td>
+<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>

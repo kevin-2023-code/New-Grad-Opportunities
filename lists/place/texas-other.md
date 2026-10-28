@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**26 open roles.**
+**41 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ExxonMobil</strong></td>
+<td><a href="https://trueinterview.io/jobs/01eb91e0-88f1-44ac-ae4d-329878fff491">Valuation and Structuring Quant Analyst, Gas and Power</a></td>
+<td>Spring, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4421243740/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Legacy Community Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/08963f0f-c658-40d5-b409-1f394326a67c">IT Desktop Support Specialist I</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484478242/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4dc39a1-7f04-4670-b07e-895e9b4cb9f9">Software Development Engineer, Workshop Studio</a></td>
+<td>Houston, TX<br/>Jersey City, NJ<br/>New York, United States<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476397884/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EDZ Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/bdd3b7fe-75d9-4006-a007-04cc1638624a">Instrumentation &amp; Controls Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483886338/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SIBLGroup Of Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/674bd504-a622-4487-9c0f-e403b29cc9be">Data Engineer – Snowflake &amp; AWS</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483879500/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ExaTech Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/8be7fe93-d9c0-4d5e-b0f5-a915e7e458c0">Microsoft Dynamics 365 Customer Engagement (CE) Developer</a></td>
+<td>San Antonio, Texas Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484464912/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Astrion</strong></td>
+<td><a href="https://trueinterview.io/jobs/44e7bdfe-4839-4eb8-9c4e-f1c8a0be971f">Early Career Spaceflight Hardware Propulsion Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475116151/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aramco</strong></td>
+<td><a href="https://trueinterview.io/jobs/80a60724-7471-4aa2-b25f-38d4200cdd6f">Linear Programming Engineer- Candidate must relocate to Saudi Arabia</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484468521/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>GovCIO</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac9d311d-f1ea-44a8-938c-5f57c7b3c1c6">Network Engineer</a></td>
@@ -50,6 +106,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fe09a1da-ce7e-4914-9f56-edacce820d29">Spacecraft Core Flight Software Engineer</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://phe.tbe.taleo.net/phe01/ats/careers/v2/viewRequisition?org=ACDY28&amp;cws=37&amp;rid=5549">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wilson Elser</strong></td>
+<td><a href="https://trueinterview.io/jobs/c084ffd9-30da-4f87-a665-0a80e568d444">Data Analyst</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474985690/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -109,6 +172,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>HOUSTON FOOD BANK</strong></td>
+<td><a href="https://trueinterview.io/jobs/824c0786-3e12-4f14-9dbb-147538c72311">System Administrator</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4618682/Houston-Food-Bank/System-Administrator">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>IBC Bank</strong></td>
 <td><a href="https://trueinterview.io/jobs/c8e56f87-a361-4485-9b50-d4d56ab871d0">Developer I</a></td>
 <td>San Antonio, TX</td>
@@ -127,6 +197,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/98805850-2bf2-4b0f-be3b-1da9f89d4ab1">MEP Project Engineer</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://oklandcareers.ttcportals.com/jobs/18407680-mep-project-engineer?tm_job=326&amp;tm_event=view&amp;tm_company=94366">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Seatrax Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/296e844f-cb14-4197-b38e-7193ec860b0d">ERP System Administrator &amp; Implementation Specialist</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4617401/Seatrax-Inc/ERP-System-Administrator-Implementation-Specialist">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -155,13 +232,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1ae20387-588b-4625-aa4d-2e3e758247e9">Mobile Developer</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://www.careers-page.com/webcreek/job/W3966V79">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>LTM Limited</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c7e20e6-93fc-4185-9a2d-ac5cb7c3266a">Desktop Support Engineer</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://ltm.ripplehire.com/candidate/?token=hKaLsHmusrDz8iGxaSEl&amp;lang=en">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -198,6 +268,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Houston, TX<br/>Houston Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/botauto/jobs/5441694008">Apply</a></td>
 <td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Exploration Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/98ede035-441d-4c8e-9384-2ca34c844a11">Software System Engineer</a></td>
+<td>Houston, Texas<br/>California</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/5b351d77-135b-4c9a-a8af-07b93cd6e55f/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Bot Auto</strong></td>
+<td><a href="https://trueinterview.io/jobs/7cdf9f8a-d296-444f-850e-6334557572d2">Software Engineer, Security Engineering</a></td>
+<td>Houston, TX<br/>Houston Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/botauto/jobs/5433415008">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/353bbae4-7e2f-4985-bfef-a60aa81d951d">Electrical Hardware Engineer Graduate</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer-Graduate_1213434-2">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f11abc0-479c-43b8-9a5e-3948c186ecba">Data Analyst, Stewardship</a> 🌐</td>
+<td>Remote — United States<br/>Chicago, Houston, Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8189730">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ba626f3-4008-4117-ad3d-bf002fd6d739">Embedded Software Test Engineer Graduate</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Embedded-Software-Test-Engineer-Graduate_1213438-1">Apply</a></td>
+<td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**22 open roles.**
+**42 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>WSP in the U.S.</strong></td>
+<td><a href="https://trueinterview.io/jobs/185ff4db-1284-40f7-9e4b-39e1de1cbfc2">Early Career Structural Engineer</a></td>
+<td>Tempe, AZ<br/>Morristown, NJ<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467286523/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fb489cbd-4801-4722-acf4-dac448ea49e7">Early Career Geotechnical Engineer</a></td>
+<td>Tempe, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4440332108/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kimley-Horn</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfed2a3e-ca62-4f7c-be70-2090d9574cc0">Substation Electrical Engineer (EIT)</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475105541/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8348b5c8-6577-4713-8e33-381f99d1e72d">Transmission Engineer EIT</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475118020/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>STMicroelectronics</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0cfee47-8117-4e50-b44b-dd0d70748ce5">Analog Design Engineer</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4434744090/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Clarivate</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd5c033c-21b4-49f3-8bc0-4655ced899d0">Patent Classifier (Computer Science or Electrical Engineering)</a></td>
+<td>Tempe, AZ<br/>Alexandria, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459047922/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kimley-Horn</strong></td>
+<td><a href="https://trueinterview.io/jobs/a73e1538-9931-48de-b467-a30c4ae5203a">Substation Engineer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475114143/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Blue Signal Search</strong></td>
+<td><a href="https://trueinterview.io/jobs/73b90074-eb47-4522-b873-f72fe81f3967">Civil Stormwater Engineer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464549010/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Tata Consultancy Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/f72b5669-78bb-4cb0-b3d6-d1b5d37fa342">Kafka developer</a></td>
@@ -81,6 +137,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>ACCO Engineered Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/9797d3d8-7010-49a2-8cb8-5b5a64a3bea9">Project Engineer I</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://ekkt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/job/7093">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Amtech</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7d95f64-cab5-4a98-baa4-3008b88ad5df">Foundry CMP Process Engineer I</a></td>
 <td>Phoenix, AZ</td>
@@ -106,6 +169,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cb4b1e79-83a1-437c-b9fd-4f9590c8a0f9">Project Engineer</a></td>
 <td>Phoenix, AZ</td>
 <td align="center"><a href="https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Phoenix-AZ/Project-Engineer_R-26-20830">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NV5</strong></td>
+<td><a href="https://trueinterview.io/jobs/99b8b3e9-3151-43d1-aa9e-95e55619cce5">Consultant, Engineer I</a> 🌐</td>
+<td>Remote — United States<br/>Phoenix, AZ</td>
+<td align="center"><a href="https://uscareers-nv5jobs.icims.com/jobs/25821/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -170,6 +240,76 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Tucson, AZ</td>
 <td align="center"><a href="https://jobs.lever.co/world-view-enterprises-inc./914c27c3-f5c3-4a7e-9f80-9e813d5602e5/apply">Apply</a></td>
 <td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/76c354a1-a1e0-4c18-82b4-2cf4108e3cac">Customer Support Engineer - NCG</a></td>
+<td>Chandler, AZ, United States of America<br/>Hillsboro, OR</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Customer-Support-Engineer---NCG_2641918">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Prosper</strong></td>
+<td><a href="https://trueinterview.io/jobs/26f7c8e3-d866-47ad-b172-32f60733d13c">Escalations Specialist</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://jobs.lever.co/prosper/9bb39aef-0ca1-49b2-af48-2cd92cfddc5f/apply">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Yelp</strong></td>
+<td><a href="https://trueinterview.io/jobs/5aae45d0-5801-4207-ae9b-ca53f4661c3d">Retention Restaurant Support Specialist, SaaS Sales - (Remote - US)</a> 🌐</td>
+<td>Remote — United States<br/>Phoenix, Arizona, United States</td>
+<td align="center"><a href="https://uscareers-yelp.icims.com/jobs/14071/retention-restaurant-support-specialist%2c-saas-sales---%28remote---us%29/job">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>United Integrated Services Usa Corp</strong></td>
+<td><a href="https://trueinterview.io/jobs/d69297a9-d849-429c-961d-37661a0f688d">Associate Engineer - Fire Protection</a></td>
+<td>Phoenix, Arizona<br/>UIS AZ Site_TSMC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/unitedintegratedservices/jobs/5425378008">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b31d87a-f28b-4056-8970-05657093f1e8">Ocotillo Technology Fabrication DSIRE (Diffusion) Module Engineer</a></td>
+<td>US, Arizona, Phoenix, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Ocotillo-Technology-Fabrication-DSIRE--Diffusion--Module-Engineer_JR0285941-1">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a3ccd9a-a726-425e-a2cf-23ca3e8c7836">Product Support Specialist - Spanish</a></td>
+<td>Tucson, Arizona, United States<br/>Olathe, Kansas, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/20103?lang=en-us">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2111e4e-05b4-433c-9d0f-9ae3b87374cd">Associate Analog Design Engineer</a></td>
+<td>US, AZ, Chandler, East Elliot, United States of America<br/>US, CA, San Jose, Rio Robles, United States of America<br/>US, CO, Colorado Springs, Chapel Hills<br/>+1 more</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Analog-Design-Engineer_R266119">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Fluidstack</strong></td>
+<td><a href="https://trueinterview.io/jobs/829c9d0d-465b-4676-b5ec-abcc3afd6a38">IT Engineer</a></td>
+<td>Phoenix, AZ<br/>Memphis, TN</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/8d38405a-e267-4a51-a31e-0a5f1953474d/application">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>World View Enterprises Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e011e2b7-6d34-40d7-8c47-6b3ad848da9e">Supplier Quality Engineer [SQE]</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://jobs.lever.co/world-view-enterprises-inc./963f3acf-7001-4d9b-b511-0125f2bdf579/apply">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c19bd579-1a49-4e7d-9dac-b7f29dfbf370">Electrical Engineer</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://jobs.lever.co/world-view-enterprises-inc./601b604e-5a59-473e-b5f3-73579fcd64be/apply">Apply</a></td>
+<td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**5 open roles.**
+**11 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Mott MacDonald</strong></td>
+<td><a href="https://trueinterview.io/jobs/d7f3d31e-8c18-4c73-b42a-789670ca85ea">Tunnel / Geostructural Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467414294/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vanderlande</strong></td>
+<td><a href="https://trueinterview.io/jobs/72401408-99f4-4205-a14e-857b93043931">IT Solution Support Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Veghel, North Brabant, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482298768/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Advanced Energy</strong></td>
 <td><a href="https://trueinterview.io/jobs/ad0d0500-8d02-40cc-a46e-6eeb57958f05">Agency - Test Engineer</a></td>
 <td>Vancouver, BC<br/>Vancouver, WA</td>
@@ -32,10 +46,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Rivian</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcc8e100-f330-498e-b141-b10d4871fe57">Early Career - Cybersecurity Application Security Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Vancouver, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457439146/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Conmet</strong></td>
 <td><a href="https://trueinterview.io/jobs/685a19f1-c103-45ad-b14d-39b95115ba86">EAM System Engineer</a></td>
 <td>Vancouver, BC<br/>Vancouver, WA</td>
 <td align="center"><a href="https://recruiting2.ultipro.com/AMS1003AMSII/JobBoard/331f4ac6-5e4b-42db-aed0-5bf0b3f0acdb/OpportunityDetail?opportunityId=54ce2952-7e9d-4d15-b4eb-58716f60f65d&amp;postingId=40ba011d-e367-4973-a0bc-7f2ffa8d2729">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cytiva</strong></td>
+<td><a href="https://trueinterview.io/jobs/4dddeab2-90cd-4150-8ceb-ab21dcd4b7a5">Automation Engineer</a></td>
+<td>Burnaby, Canada</td>
+<td align="center"><a href="https://jobs.danaher.com/global/en/job/DANAGLOBALR1320747EXTERNALENGLOBAL/Automation-Engineer">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -51,6 +79,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Vancouver, BC, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92316">Apply</a></td>
 <td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/80922d06-e0d9-497c-b19c-1a6c40371bfc">Data Engineer, Amazon Prime</a></td>
+<td>Vancouver, BC<br/>Vancouver, Canada</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10584677/data-engineer-amazon-prime?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Long View Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/16695b68-f1f4-4988-9a5a-2d5f78265331">Deskside Consultant</a></td>
+<td>Vancouver, BC</td>
+<td align="center"><a href="https://jobs.lever.co/lvs1/fb9a4d81-6f75-4259-b723-14de479b0e46/apply">Apply</a></td>
+<td align="center">22 Sep 2026</td>
 </tr>
 </tbody>
 </table>

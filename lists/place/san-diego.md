@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**10 open roles.**
+**13 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -81,11 +81,32 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Judicial Council of California</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e72677c-ddbc-4015-a13d-74c3a3a71a3c">Court Systems Administrator</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://careers.jud.ca.gov/psc/HRPRDCG/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=6794&amp;PostingSeq=2">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/189f5eb4-d048-4ce1-8f0d-10761695a7a0">Materials Planner</a></td>
 <td>San Diego, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/San-Diego-CA/Materials-Planner_2641882">Apply</a></td>
 <td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>QUALCOMM</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1275f8f-9b8c-4705-b87e-5e89387625de">#Backend Software Engineer</a></td>
+<td>San Diego, CA, US</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446721162271">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Blink Ux</strong></td>
+<td><a href="https://trueinterview.io/jobs/315272c3-6bd3-4f0e-a904-febf2e314644">UI Developer (React)</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://jobs.lever.co/blinkux/47c561a4-0757-4eaa-9416-e758a59a9c61/apply">Apply</a></td>
+<td align="center">17 Sep 2026</td>
 </tr>
 </tbody>
 </table>

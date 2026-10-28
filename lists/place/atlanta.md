@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**26 open roles.**
+**34 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,17 +18,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Dematic</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1e34feb-d50b-46f4-8c5d-e1505f4fecc0">Mechanical Project Engineer</a></td>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/9dadc89a-de06-4acc-bcab-0feeee00fd69">Electrical Engineer - Manufacturing</a></td>
 <td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4392684044/">Apply</a></td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467221091/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Tata Consultancy Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/852cc324-9fad-43f2-9867-5343a817e48b">Python Developer</a></td>
+<td><strong>Cyberobotix</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e0a8a76-0fcf-4a5e-b618-19ea409f56d8">Software Engineer Specialist</a></td>
 <td>Alpharetta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457193037/">Apply</a></td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483876689/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vanderlande</strong></td>
+<td><a href="https://trueinterview.io/jobs/8088c9d3-7d04-4746-a11e-4add0a5a5c6e">Electrical Project Engineer</a></td>
+<td>Marietta, GA<br/>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474415280/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JFrog</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1bf99e8-ae51-4aa8-a54e-ffa7368aa270">Developer Support Engineer (Atlanta)</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470036467/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intent Talent Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/78145636-236c-4a1a-b414-74c2fabbee30">Software Engineer</a></td>
+<td>Alpharetta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483890087/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -116,6 +137,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Nexus Circular</strong></td>
+<td><a href="https://trueinterview.io/jobs/d65fff14-577c-492f-b717-255788447606">Mechanical Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="http://j.brt.mv/jb.do?reqGK=27787926">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Acrisure LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/10984ed1-b800-4a8f-b8a7-0a3443894a8d">Network Engineer</a></td>
 <td>Atlanta, GA</td>
@@ -198,6 +226,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States<br/>Alpharetta, GA, Remote US</td>
 <td align="center"><a href="https://jobs.lever.co/pditechnologies/ba03923d-fb60-4203-b85e-5e18bc046a04/apply">Apply</a></td>
 <td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/d178c5fe-6d70-4347-9425-841c1129eaa0">Early Career Process Water/Plumbing Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96187">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/883f2771-5845-4eea-84c2-ab89d596f696">Firmware Engineer, Manufacturing Test</a></td>
+<td>Atlanta, GA<br/>Atlanta, Georgia, United States<br/>Costa Mesa, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5243033007?gh_jid=5243033007">Apply</a></td>
+<td align="center">19 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hermeus</strong></td>
+<td><a href="https://trueinterview.io/jobs/c18d3c07-2ee7-41af-ba9e-293bedc0b4e1">Network Engineer</a></td>
+<td>Atlanta, GA<br/>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.lever.co/hermeus/5e92ddba-8a79-464e-82ff-85ab3dc1ce2b/apply">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Fullstory</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e262cc1-a285-4a37-bfbb-ed4be335746c">AI Automation Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fullstory/95f96318-76e8-46b7-8dd9-a74379582e6f/application">Apply</a></td>
+<td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
 </table>
