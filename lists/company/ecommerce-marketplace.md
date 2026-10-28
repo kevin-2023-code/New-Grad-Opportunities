@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**20 open roles.** 11 in the United States & Canada · 9 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**17 open roles.** 8 in the United States & Canada · 9 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>eBay</strong></td>
+<td><a href="https://trueinterview.io/jobs/85187502-b66d-48bd-ba6e-4a160f4d8d75">Full Stack Platform Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474405507/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/6d658af9-591d-4b44-a6fc-c6eca79868e9">Data Engineer, Early Career - 2026 (CAN)</a></td>
@@ -46,14 +53,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/3cf8afc7-2deb-4821-981e-b7a4b219d4d8">Software Engineer, Code Quality</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>New York, NY<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8202736">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lightspeed Commerce, Inc</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4d671045-1f6a-4da7-853e-288671f9bc33">Analytics Engineer</a> 🌐</td>
 <td>Remote — Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/bebf18c5-3437-4ab3-86db-d065b0611445/application">Apply</a></td>
@@ -73,27 +73,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4967177101">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Canadian Tire</strong></td>
-<td><a href="https://trueinterview.io/jobs/076487ae-fa5e-4796-bd58-fa100ece11eb">Business Systems Engineer, AI</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Business-Systems-Engineer---AI_JR160709">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/510f9ca0-da50-41e1-83e5-798fece05692">Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US</a></td>
-<td>Los Angeles, CA<br/>New York, NY<br/>San Francisco, CA<br/>+2 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8163709">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Iseatz</strong></td>
-<td><a href="https://trueinterview.io/jobs/02b8d5bf-93db-4b71-a968-962d79e671b9">Cybersecurity Compliance Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/iseatz/jobs/5406282008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -106,6 +85,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>eBay</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf3bc7dc-945d-400e-85d7-cbb1ca9f2ac0">Software Engineer, MTS 1</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474407381/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Booking.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3ad2973-d61e-4ab7-b019-81d044d8483c">Proactive Cyber Defence and Engineering</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467217097/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/08d1cb84-509e-430e-9a54-35d62a0fb1d0">Drone Firmware Software Dev Engineer, Ring Robotics Platform Engineering</a></td>
@@ -154,20 +147,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>IL, Haifa</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10542015/junior-verification-engineer">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Skydropx Frenet</strong></td>
-<td><a href="https://trueinterview.io/jobs/0000674d-9187-4328-bfa7-df2a61e7c38f">Product Analytics Coordinator</a></td>
-<td>México</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydropx/4eaa4745-9f7b-46df-9e41-b3cad560ba11/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sticker Mule</strong></td>
-<td><a href="https://trueinterview.io/jobs/46a930c8-49c3-4bdc-930a-411b11575468">Software engineer</a></td>
-<td>—</td>
-<td align="center"><a href="https://nodesk.co/remote-jobs/sticker-mule-software-engineer/">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

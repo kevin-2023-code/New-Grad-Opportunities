@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**27 open roles.**
+**31 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,69 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/c78931ba-6ebd-4b56-a016-1889e8419d40">ENGINEER, ID1 ME – TEST WAFER PROCESS</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483880312/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d89c19ee-232f-474b-bb9c-688aa7aa808d">ATE Process Engineer</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483866815/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/11c8248d-f54e-44d1-858f-7bed4332086c">Engineer, US Expansion Planning</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483881320/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aquent</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea84d9ad-eecf-4930-aa97-ff25235df7dc">AI Data Engineer [AQ-24294]</a></td>
+<td>Hillsboro, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482509550/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/8eba4786-0fde-4c57-8847-b025eca70279">Front End Central Product Integration (FE CPIE) MTS (FE)</a></td>
+<td>Boise, ID<br/>Singapore, Singapore<br/>Taichung City, Taichung City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4410854138/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b71dff36-97b0-4e8f-8e7d-af0a793f0546">EUV Lithography Process Development Engineer- TPG</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4410837276/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0dabe7f2-e58c-4220-86cc-5c289fecd77f">Photolithography Process Development Engineer</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4410839375/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/48e258ae-0657-455b-87bd-22d85896b7a3">Process Integration Engineer - DRAM, DMTS</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4410855045/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a43b05ed-c782-4467-a4ef-b6c682aa6961">SMTS Process Engineer RDA /Metrology</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4410836342/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/59970193-6deb-40b8-9287-c2cd7ace7518">WPM C4 Quality and Reliability Engineer</a></td>
@@ -124,13 +187,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1941b0ce-f153-4d04-ab83-ff13e7bafcc2">New College Grad - Engineer, Node Development PE</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44544545">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7ed60482-cc6e-48a2-a7ea-0fe10b3f3fd2">New College Grad - Shift Manufacturing Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44430434">Apply</a></td>
@@ -152,13 +208,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/fefee64c-1005-48c5-bcec-11e7ee8b71c0">Module Engineer</a></td>
-<td>US, Oregon, Hillsboro, United States of America<br/>US, Arizona, Phoenix, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineer_JR0285044">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4dec7685-60fe-41e8-aa6c-2ab67124ae78">Thin Films Module Development Engineer</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Thin-Films-Module-Development-Engineer_JR0286288">Apply</a></td>
@@ -184,27 +233,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44447535">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/49167649-e24d-45fe-889e-0b03fafb0f34">New College Grad - Controls Design Engineering</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44419478">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/989d08ad-092b-469a-8317-4081297eb7bc">New College Grad - Yield Enhancement Electrical Failure Analysis Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44138259">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/784b73ce-58f0-4adb-8584-685ef397bdf2">New College Grad - Product Test Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44247226">Apply</a></td>
-<td align="center">30 Aug 2026</td>
 </tr>
 </tbody>
 </table>

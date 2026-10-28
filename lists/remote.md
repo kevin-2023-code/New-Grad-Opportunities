@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**86 open roles.** 57 in the United States & Canada · 29 elsewhere in the world. Postings the pipeline classified as remote.
+**77 open roles.** 54 in the United States & Canada · 23 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,76 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Atlassian</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a2229ce-5835-41ba-864e-9e263483e744">Backend Software Engineer - Focus Funds and AI</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers-americas.icims.com/jobs/27824/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d7e74274-f74a-42ee-8172-8c3e160fdcbd">Backend Software Engineer - Identity</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers-americas.icims.com/jobs/27819/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fisher Investments</strong></td>
+<td><a href="https://trueinterview.io/jobs/4db3afe1-eedc-4eb3-8f97-5fae14c60a2b">Quality Assurance Specialist, Marketing Technology</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.fishercareers.com/job/-/-/38252/102507789104">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IMA Financial Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/d07fb03d-cbc9-4f05-9de1-d900cac40b70">AI Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://grnh.se/8yjmkzio7us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>New York City Department of Health and Mental Hygiene</strong></td>
+<td><a href="https://trueinterview.io/jobs/95d63ec3-69c6-4d84-a2fb-2672829cb0f1">.Net Developer, Bureau of Application Development and Database Administration</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://cityjobs.nyc.gov/job/net-developer-bureau-of-application-development-and-database-administration-in-queens-jid-48653">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pacific Northwest National Laboratory</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8426546-c84b-4d5a-8200-b0aaea7b2769">Software Engineer 1</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers.pnnl.gov/jobs/12640/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Reyes Holdings</strong></td>
+<td><a href="https://trueinterview.io/jobs/41003429-0b5b-4fa4-8ca5-add8d4a9ab97">Application Developer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobportal.reyesbeveragegroup.com/jobs/37797/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Second Front Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5073eb1-c7b4-4239-9907-99c409e3ca1f">AI Software Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Second-Front-Systems/e75017ca-8bfb-4c2f-bdce-b0f0cc8bf4ef">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>University of Maine</strong></td>
+<td><a href="https://trueinterview.io/jobs/0081b6cb-7f27-4dc7-a56f-66a63267f9a8">AI-Enabled Software Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/3330">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LinTech Global, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fa89845-9ac1-4453-b16d-b3ab21eceead">Developer-Intermediate – Java Application Modernization</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.applicantpro.com/openings/dexiangovernmentsolutions/jobs/4257028-1003159">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/6cbf85de-e971-4941-ac59-7f973d5de70f">AI Researcher, 2027 Graduate U.S.</a> 🌐</td>
@@ -325,97 +395,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://app.careerpuck.com/job-board/domino-data-lab/job/7992530?gh_jid=7992530">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Ciena</strong></td>
-<td><a href="https://trueinterview.io/jobs/431e80df-0cf8-44fc-9006-ec0bd8fdab73">Network Solutions Engineer - Onsite at Fort Meade, MD</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Network-Solutions-Engineer---Onsite-at-Fort-Meade--MD_R031596">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Kin Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/0668366b-f62c-4eac-9c3d-72ba1debf275">Software Engineer, Back-End Focus</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/kin/56db2161-84b4-42ab-b1c6-adae6c1f325c/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>1password</strong></td>
-<td><a href="https://trueinterview.io/jobs/3dffdf87-a978-4e4a-a869-2938cc934fb3">Developer, Full Stack/iOS</a> 🌐</td>
-<td>Remote — United States, Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/1password/f51cc73a-fde2-4686-b54b-f183cdaedb45/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ashby</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b22a514-1f1d-465e-ab4b-509e8b7aafa0">Technical Solutions Consultant - Americas</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ashby/08b6342c-d5c0-4864-a4db-28027d241cbe/application">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Valkyrie Aero</strong></td>
-<td><a href="https://trueinterview.io/jobs/6b69d92b-ff67-457e-a19d-b8e34408986e">Valkyrie Aero / Software Engineer (Autonomy, Perception, Frontend) / REMOTE (US) / Contract / U.S. Citizens /</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://valkyrieaero.com/">Apply</a></td>
-<td align="center">5 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ontic</strong></td>
-<td><a href="https://trueinterview.io/jobs/859d9f6e-22cb-46e0-8f82-fea430342c2f">Associate DevOps Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ontic/c4f5bf21-d5a9-488c-9638-631bd58de471/application">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PDQ</strong></td>
-<td><a href="https://trueinterview.io/jobs/528b689c-f6b7-44aa-8604-656125c4e6a6">Systems Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://4dayweek.io/job/systems-engineer-at-pdq-cb414f75">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Stack Overflow</strong></td>
-<td><a href="https://trueinterview.io/jobs/7eae86f7-d776-4d94-bb6e-0372c6aa10ca">Data Scientist</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://4dayweek.io/job/data-scientist-at-stack-overflow-5d1a9409">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>FitMate</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1f7b234-b54b-447a-bc88-8ecfe454f01e">FitMate / Frontend Engineer (Junior) / REMOTE (US) / $80-120k + bonus</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://careers.fitmatecoach.com/roles/junior-frontend-developer">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tebra</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b45db18-7cee-4171-a0da-71e9c1490397">Software Engineer I</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tebra/jobs/4726985005">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Noodle</strong></td>
-<td><a href="https://trueinterview.io/jobs/979a4941-886f-4530-ba06-8a51f8a14543">Prompt Systems Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.lever.co/noodle/febb7056-ce75-41d9-a8e2-5755aa1d6579/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Potere</strong></td>
-<td><a href="https://trueinterview.io/jobs/7874077f-0fe4-41e7-8b66-f26960ffb15f">Electrical Application Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=74cc3f174e716e05">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Iseatz</strong></td>
-<td><a href="https://trueinterview.io/jobs/02b8d5bf-93db-4b71-a968-962d79e671b9">Cybersecurity Compliance Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/iseatz/jobs/5406282008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -428,6 +407,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BV Teck</strong></td>
+<td><a href="https://trueinterview.io/jobs/e52cd803-6759-48a4-b244-83f6f544c803">SAP ABAP Developer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://brightvisiontechnologies.applytojob.com/apply/3cMJostlZ6/SAP-ABAP-Developer?%7E=">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VIVA</strong></td>
+<td><a href="https://trueinterview.io/jobs/9fab4dcd-983e-492c-a98c-9bc8fb0ad1ea">Full Stack .NET Developer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://careers.viva-it.com/careers/opportunities/job-detail/full-stack-net-developer-NPIAIS27">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CANImmunize</strong></td>
+<td><a href="https://trueinterview.io/jobs/edacf873-a770-455c-90e0-82dbe325c204">Full Stack Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://secure.collage.co/jobs/canimmunize/66498?origin=indeed">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Hungryroot</strong></td>
 <td><a href="https://trueinterview.io/jobs/291fe12b-129f-468e-8412-87e2d80931c4">Systems Operations Analyst</a> 🌐</td>
@@ -567,69 +567,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rackner/jobs/4732879005">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Händlerbund</strong></td>
-<td><a href="https://trueinterview.io/jobs/25092c15-df55-45b6-9277-ef1572e73fc7">Backend Developer</a> 🌐</td>
-<td>Remote — Germany</td>
-<td align="center"><a href="https://4dayweek.io/job/backend-developer-at-handlerbund-7309cc6a">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Storyblok</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc3b6210-d48a-475b-93e0-81a78a5b2d38">Developer Relations Engineer</a> 🌐</td>
-<td>Remote — United Kingdom</td>
-<td align="center"><a href="https://4dayweek.io/job/developer-relations-engineer-at-storyblok-9c36c4c3">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Blueprint Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/92a2571a-51a6-40cd-9115-1f61f5e0d286">AI Response Labeler / Annotator – French Specialty</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/bpcs/jobs/8186919">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Invisible Agency</strong></td>
-<td><a href="https://trueinterview.io/jobs/5436cbbd-6111-4089-b4e3-b66cf78aa97e">CVE &amp; Application Security AI Task Auditor - Freelance AI Trainer Project</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/agency/jobs/4969255101">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2d0c07fe-7140-497d-9f7d-8e698690dbca">AWS Serverless &amp; IaC AI Task Auditor - Freelance AI Trainer Project</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/agency/jobs/4969253101">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/73d929a4-cbb4-468f-b855-b2436bb0ea76">GPU Kernels AI Task Auditor - Freelance AI Trainer Project</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/agency/jobs/4969249101">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hedgehog Lab</strong></td>
-<td><a href="https://trueinterview.io/jobs/7725ec08-1642-4352-a9a1-e951d059b804">Software Engineer</a> 🌐</td>
-<td>Remote — France</td>
-<td align="center"><a href="https://4dayweek.io/job/software-engineer-at-hedgehog-lab-b2f9f9fb">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Enveritas (YC S18, non-profit)</strong></td>
-<td><a href="https://trueinterview.io/jobs/424a4f9d-12d7-49fc-9001-8cb3745afc19">Enveritas (YC S18, non-profit) / Backend Software Engineer / Remote (Global) /</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://enveritas.org/jobs/">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Interview Resources</strong></td>
-<td><a href="https://trueinterview.io/jobs/b47ed52e-3aa8-4605-bbba-4d2fd806859f">Interview Resources / 2 Full Stack AI Engineer, 1 GTM / REMOTE / Full-Time / $250k seed raised</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://www.interviewresources.app/careers">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 </tbody>
 </table>

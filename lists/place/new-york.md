@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**57 open roles.**
+**63 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,125 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Legora</strong></td>
+<td><a href="https://trueinterview.io/jobs/86975620-9d62-425a-b707-c48a863e2413">Data Scientist - Growth</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482509569/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4dc39a1-7f04-4670-b07e-895e9b4cb9f9">Software Development Engineer, Workshop Studio</a></td>
+<td>Jersey City, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476397884/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Oscar</strong></td>
+<td><a href="https://trueinterview.io/jobs/df673356-ef1a-43e2-9cc9-d6cbd4fb8ec5">Data Engineer, AZ Databricks</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484446856/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/13a65599-1af8-4a22-ae17-d8fd3e7341f2">AI Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484457428/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Obin AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/87087de5-0854-403b-ae8d-14d369aa8bee">Agentic AI Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4410821331/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WorldQuant</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca8aa87a-1861-4d75-9225-8c2879e44594">AI Scientist</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467942419/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lazard</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fd3bc5f-910a-4f18-be21-3e8cb2e42102">Data Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476511181/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CoffeeSpace</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc2b7cab-1718-4078-8373-eb87553d93eb">Product Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483863939/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Planet Reimagined</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a14cf8f-09e5-4400-8a51-ae31143d906b">Machine Learning Engineer / Data Scientist - Climate and Energy Policy</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475152893/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/882a719a-85d9-4456-b024-9f2e120370e5">Optimum - Data Engineer GCP</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482293946/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Thurn Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/039f5ad3-eed5-4d6d-8408-b40edfda7e26">Quantitative Researcher - Causal Inference, Time Series and Experimentation</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463032456/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/07837680-417a-4623-b0ff-ad14c9bae8c1">Research Scientist, Unstructured Data Lab</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463031405/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/jobs/76d7d613-2fb3-42e2-a931-f222d622b883">Keynote Demo Developer, Solutions &amp; Research - Architecting Demos</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475180618/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dow Jones</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f7b3c70-cee2-40d7-89d2-b51e8bf19c27">Software Engineer - Data Architecture &amp; Platform Engineering</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475148839/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Addepar</strong></td>
+<td><a href="https://trueinterview.io/jobs/4665c2d6-de51-43d9-b64a-84e19cc2db9a">AI Engineer - AI Platform</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://grnh.se/xemp73kn2us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CRYPTO.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/29c5c54f-770b-42ae-914b-f7ffd655e8e8">Software Engineer, Prediction Markets Platform</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/crypto/5957a4b8-235b-490c-b4ad-86384baee628">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>New York City Department of Health and Mental Hygiene</strong></td>
+<td><a href="https://trueinterview.io/jobs/95d63ec3-69c6-4d84-a2fb-2672829cb0f1">.Net Developer, Bureau of Application Development and Database Administration</a> 🌐</td>
+<td>Remote — United States<br/>Queens, NY</td>
+<td align="center"><a href="https://cityjobs.nyc.gov/job/net-developer-bureau-of-application-development-and-database-administration-in-queens-jid-48653">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Palantir</strong></td>
 <td><a href="https://trueinterview.io/jobs/fe22eb71-c745-40ff-8ebf-d48d21a8189d">Forward Deployed Software Engineer, New Grad - Warp Speed</a></td>
@@ -249,13 +368,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/3cf8afc7-2deb-4821-981e-b7a4b219d4d8">Software Engineer, Code Quality</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>Seattle, WA<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8202736">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Cursor</strong></td>
 <td><a href="https://trueinterview.io/jobs/01321503-1636-4ee6-b175-c41aef7b709a">Field Engineer</a> 🌐</td>
 <td>Remote — United States<br/>New York, NY</td>
@@ -345,76 +457,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States<br/>New York City, New York</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/domino-data-lab/job/7992530?gh_jid=7992530">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Kustomer</strong></td>
-<td><a href="https://trueinterview.io/jobs/1386f9e5-1243-4f54-be00-bc7423ba7af2">Software Engineer, Full Stack (Early Career)</a></td>
-<td>US - New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Makai Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/57718650-71c5-469c-96ad-906dd7e8067b">Forward Deployed AI Analyst</a></td>
-<td>New York, NY<br/>California<br/>Massachusetts<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/makai-labs/3d4373e8-e09a-4034-a8e0-d511cef44fc7/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Bubble</strong></td>
-<td><a href="https://trueinterview.io/jobs/ae191ca8-9d1d-450a-8914-0ce354a70de4">Technical Product Support Specialist</a></td>
-<td>NYC, New York</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/bubble/80714b04-d0c7-4ecc-84b7-9e4901bfa97a/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/510f9ca0-da50-41e1-83e5-798fece05692">Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US</a></td>
-<td>New York, NY<br/>Los Angeles, CA<br/>San Francisco, CA<br/>+2 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8163709">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/2fc8555c-3d11-4e05-ac25-089cc10d4c9d">Web Designer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/c04280b7-fa23-4d65-9b35-22d60bbe2081/application">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Goldman Sachs</strong></td>
-<td><a href="https://trueinterview.io/jobs/210e985e-9d74-4f0b-bb75-ecdf3c28f196">The Core Engineering-L2-New York-Associate-Project Management</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3002/job/179775">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Valon</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e57f527-b0c7-4a8a-840c-7aa6213f07a8">Software Engineer New Grad</a></td>
-<td>New York, NY<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/valon/e08ad09a-4408-4210-8c1b-da6510f83324/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hudson River Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a555ace-fb4a-46e8-bd7d-315efc691351">Design Verification (DV) Engineer - 2027 Grads</a></td>
-<td>New York, NY<br/>New York City</td>
-<td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8167806">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Yext</strong></td>
-<td><a href="https://trueinterview.io/jobs/908f44f8-5ecd-497e-9919-54fe372fe32f">Specialist, Concierge Services</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/yext/jobs/8157597">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Beloved Community &amp; Empowerment Academy Charter Schools</strong></td>
-<td><a href="https://trueinterview.io/jobs/9bedd409-4fd6-4819-b6e9-0d2ef2449240">Help Desk &amp; IOT Technician</a></td>
-<td>Jersey City, New Jersey, United States</td>
-<td align="center"><a href="https://jobs.workable.com/view/c6GoDuwfqvF3C86bBgc4Nb/help-desk-%26-iot-technician-in-jersey-city-at-beloved-community-%26-empowerment-academy-charter-schools">Apply</a></td>
-<td align="center">29 Aug 2026</td>
 </tr>
 </tbody>
 </table>

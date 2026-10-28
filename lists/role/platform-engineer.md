@@ -2,7 +2,7 @@
 
 # Platform Engineer
 
-**13 open roles.** 7 in the United States & Canada · 6 elsewhere in the world.
+**13 open roles.** 8 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>eBay</strong></td>
+<td><a href="https://trueinterview.io/jobs/85187502-b66d-48bd-ba6e-4a160f4d8d75">Full Stack Platform Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474405507/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Guidehouse</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf3ae910-f584-46a4-91c7-b013c5e5a374">Power Platform Developer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Power-Platform-Developer_41231">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Bot Auto</strong></td>
 <td><a href="https://trueinterview.io/jobs/3325a5b3-f6bd-4bed-8c7a-e8d33909c0b5">Software Engineer, Core Platforms</a></td>
@@ -58,13 +72,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4967177101">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ciena</strong></td>
-<td><a href="https://trueinterview.io/jobs/9573a261-87dc-4994-a649-bccf916e6ea8">Platform Software Developer - 2026 New Grads</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Platform-Software-Developer---2026-New-Grads_R031084-1">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>
@@ -112,13 +119,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://4dayweek.io/job/platform-engineer-aws-at-genomics-england-becc3850">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hpr</strong></td>
-<td><a href="https://trueinterview.io/jobs/864b6644-79ce-4146-9bfd-3b0e7386d1d2">Platform Software Engineer I</a></td>
-<td>Needham</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/hyannisportresearch/jobs/7985899003">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>

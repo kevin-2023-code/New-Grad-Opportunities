@@ -2,7 +2,7 @@
 
 # 🇦🇺 Sydney, Melbourne & Aotearoa
 
-**10 open roles.**
+**11 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/11c50fcb-f9d9-48b3-9f5a-3a668dd44930">VoidZero Developer Relations Engineer</a></td>
+<td>Sydney, New South Wales, Australia<br/>Singapore, Singapore<br/>Seoul, South Korea<br/>+2 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465518186/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a3d1e02e-8456-492c-b10f-3d69a44894b3">Presales Customer Engineer</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471282024/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Susquehanna International Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/bea4bc9b-0e7d-4770-a406-a43aa1f635fd">Quantitative Campus Recruiter</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474092359/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Mable</strong></td>
 <td><a href="https://trueinterview.io/jobs/bb3e0b36-1033-47e1-a802-970891879519">Graduate Engineer</a></td>
@@ -74,20 +95,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brisbane, Queensland, Australia</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95839">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Jensen Hughes</strong></td>
-<td><a href="https://trueinterview.io/jobs/12b32e3a-25c7-47d7-9a85-7f81f42ea8ee">Graduate - LAB Fire Testing Engineer</a></td>
-<td>Melbourne, Victoria, Australia<br/>Warrington Fire - Melbourne Lab</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5417816008">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mako</strong></td>
-<td><a href="https://trueinterview.io/jobs/1de4b7f6-e184-43e3-a256-14812299d0f4">Graduate Software Engineer, Sydney</a></td>
-<td>Sydney<br/>Mako Sydney</td>
-<td align="center"><a href="https://www.mako.com/opportunities/job-listing/8654611002?gh_jid=8654611002">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 </tbody>
 </table>

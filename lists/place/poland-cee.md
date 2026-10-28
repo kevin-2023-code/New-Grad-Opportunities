@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**5 open roles.**
+**7 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Expedia Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c29854e-9823-440b-b265-d54b9edb0348">Site Reliability Engineer</a></td>
+<td>Prague, Czechia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474982863/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/c31ad569-fb38-4c84-9bca-cb6abd25dee4">Security Engineer</a></td>
+<td>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474990282/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fdc12eca-7a65-4c4d-8962-49dda73c3b9d">Electrical Design Engineer</a></td>
+<td>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456213592/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/ad49459e-bfc3-4948-9f9f-19d8abd836e0">Digital Verification Engineer, Crypto &amp; Security</a></td>
+<td>Bucharest, Bucharest, Romania<br/>Glasgow, Scotland, United Kingdom<br/>Gratkorn, Styria, Austria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476309509/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Viabill</strong></td>
 <td><a href="https://trueinterview.io/jobs/2327af7e-6d83-4387-9561-d623012673e5">Product Designer (UI/UX)</a></td>
@@ -39,20 +67,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Prague, Prague, Czechia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Canva/6000000001409416-ai-quality-evaluator-czech-12-month-contract-?oga=true">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PwC</strong></td>
-<td><a href="https://trueinterview.io/jobs/09259e9a-c444-483e-958b-2d3af78351b3">Conversational AI Developer</a></td>
-<td>Kraków</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Krakw/Conversational-AI-Developer_760232WD">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Formlabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/28349f48-e110-4354-b455-7e6c73f1acd4">Technical Support Specialist - French speaking</a></td>
-<td>Budapest, Hungary</td>
-<td align="center"><a href="https://careers.formlabs.com/job/8180697/apply/?gh_jid=8180697">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**25 open roles.** 12 in the United States & Canada · 13 elsewhere in the world.
+**30 open roles.** 18 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SoTalent</strong></td>
+<td><a href="https://trueinterview.io/jobs/d31fdde3-1711-4a50-a333-bd8cb7ef99d6">Data Analyst</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482299971/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CareFirst BlueCross BlueShield</strong></td>
+<td><a href="https://trueinterview.io/jobs/97ba1099-c3ad-44e4-8641-99438d9a93d3">Data Analyst (Remote)</a></td>
+<td>Baltimore, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484460398/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motion</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1b8da28-62d6-4546-a031-cf3075f4fc72">Inventory Data Analyst</a></td>
+<td>Birmingham, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476503518/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Crewlia</strong></td>
+<td><a href="https://trueinterview.io/jobs/44f297ba-413a-4235-9b41-2f1e574e0a1c">AI Data Analyst (Remote)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483863920/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ff75535-8765-4952-9383-64676fdeca0e">Data Governance &amp; Data Quality Analyst</a></td>
+<td>Austin, TX<br/>Austin, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482504257/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Crewlia</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3a32529-8517-489f-9eb8-ab3728c40cab">Data Analyst (Remote)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483870127/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Affirm</strong></td>
 <td><a href="https://trueinterview.io/jobs/37e6d0ab-d270-407e-afe5-214c2351ca50">Analyst, Early Career (Full Stack)</a></td>
@@ -114,6 +156,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/c18ea7e6-367b-42e1-91e1-54559b67fca0">Data Analyst - Global Payment - Singapore Open - Global Payment</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483846890/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/efb6ccf6-c353-40f4-8cb7-bc456f4b9759">Data Warehouse SAP 4HANA Analyst (f/m/d)</a></td>
+<td>Ludwigsfelde, Brandenburg, Germany<br/>North Rhine-Westphalia, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466111190/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Kin Insurance</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c6a1a06-9592-41b7-b55d-d127aca8dc4e">Pricing &amp; Risk Analyst</a> 🌐</td>
 <td>Remote</td>
@@ -182,27 +238,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Carlos, , Brazil</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000148588079-analista-de-dados-pleno?oga=true">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Skydropx Frenet</strong></td>
-<td><a href="https://trueinterview.io/jobs/0000674d-9187-4328-bfa7-df2a61e7c38f">Product Analytics Coordinator</a></td>
-<td>México</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydropx/4eaa4745-9f7b-46df-9e41-b3cad560ba11/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Higgsfield</strong></td>
-<td><a href="https://trueinterview.io/jobs/43763e81-99a1-43a5-9cab-2c4f6cdf1a45">Data Science, Product Analyst</a></td>
-<td>Almaty, Kazakhstan</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/higgsfieldai/acff8f8d-e7f0-4271-86b4-dded83b0da9f/application">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Banco Bv</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3ee9440-e213-42ff-accb-5d72ebf6a033">Analista de Orçamento e Desempenho Pleno (O&amp;D)</a></td>
-<td>São Paulo</td>
-<td align="center"><a href="https://jobs.lever.co/bv/eee25902-bbab-44b1-ae74-7eb3439ef9a3/apply">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>

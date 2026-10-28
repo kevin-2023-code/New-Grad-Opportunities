@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**14 open roles.** 13 in the United States & Canada · 1 elsewhere in the world.
+**14 open roles.** 11 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc78d328-667b-483c-93bd-57fbcd6dba72">Software Engineer, Embedded Systems/Firmware, DNN Frameworks</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474970889/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/34fff1c7-23fe-40e5-bb43-9cd91f86b439">SoC Software Engineer - New College Grad 2027</a></td>
@@ -87,27 +94,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Embedded-Software-Test-Engineer-Graduate_1213438-1">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Terran Orbital Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/143fdf85-e99f-492f-ae8a-4010bbd2fdc0">Associate Flight Software Test &amp; Tools Engineer</a></td>
-<td>Irvine, CA<br/>Spectrum</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/terranorbitalcorporation/jobs/4395353009">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Zoox</strong></td>
-<td><a href="https://trueinterview.io/jobs/9102db68-a373-44ba-bc2a-b671991f4ff3">Embedded Software Engineer - Drive Systems</a></td>
-<td>Foster City, CA</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/ea3fbfaf-588b-434a-9a5a-c61edc731a40/apply">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/cad4591a-c3b1-44f9-a6a9-ce2c74467d24">Embedded Software Engineer (Starlink)</a></td>
-<td>Bastrop, TX</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8706480002?gh_jid=8706480002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -120,6 +106,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf6257a7-1ee6-4227-bd80-d5054cb6222c">Engineer, Firmware Development (SSD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4410834624/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ac8c823e-e5c7-4bcd-8bdb-5e61b4eff32d">Firmware Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4410843225/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/f66790d3-e685-44a2-9abd-1bd2e22872a9">System Software Engineer, Tegra Security Software</a></td>

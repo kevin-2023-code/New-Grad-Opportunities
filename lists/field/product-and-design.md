@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**43 open roles.** 31 in the United States & Canada · 12 elsewhere in the world.
+**36 open roles.** 26 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BOK Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b085f3a-b177-479d-b7de-7ad4e916be26">Data Product Owner - Fraud</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467786868/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Oracle</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca9b8cfa-080d-4305-95ea-231d5780db95">Instructional Designer – Data Center Critical Facilities Training</a></td>
+<td>Nashville, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474413606/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Dell</strong></td>
 <td><a href="https://trueinterview.io/jobs/3ae52380-1a8c-405c-9236-29e42a3320ad">Graphic and Visual Designer, Experience Design Group</a></td>
@@ -185,55 +199,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8188161">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Ubisoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/54207f07-873f-4bfd-8403-fcfd7bb8f8d7">VFX Artist (Assassin's Creed Invictus)</a></td>
-<td>Montreal, QC, Canada</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000148330865-vfx-artist-assassin-s-creed-invictus-?oga=true">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Riot Games</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2301cc9-aae6-471b-813e-8b951d546345">Game Designer - League of Legends PC, Teamfight Tactics and VALORANT</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8047595?gh_jid=8047595">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hertz</strong></td>
-<td><a href="https://trueinterview.io/jobs/8487fa36-88c6-46e5-8063-232f7043d6a7">Product Owner - Commercial Analysis &amp; Data Visualization</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39184">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/2fc8555c-3d11-4e05-ac25-089cc10d4c9d">Web Designer</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/c04280b7-fa23-4d65-9b35-22d60bbe2081/application">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Runlayer</strong></td>
-<td><a href="https://trueinterview.io/jobs/00b8b2a1-70fb-48e7-b38f-db47607bbd09">Brand Designer</a></td>
-<td>Hybrid NYC / Remote (US Timezones)</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/runlayer/20c5c775-fb11-47ea-a97e-465cfc6ab13d/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Infuse</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a83a183-ea26-420d-9a7e-12fbb5ca84e2">Graphic Designer, Data Visualization (Remote, Contract)</a></td>
-<td>Poland<br/>North Macedonia<br/>Italy<br/>+20 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/infuse/jobs/4730267005">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Caseware</strong></td>
-<td><a href="https://trueinterview.io/jobs/7aa67149-7bf7-4fbc-a38c-6f99e48d72f2">Product Analyst — Growth &amp; GTM</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://jobs.lever.co/caseware/35366087-6670-40a2-ba0e-7eee4d4a8db0/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -246,6 +211,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5fe3a20-c1af-4409-9381-a1cbe781523c">NAND Designer / Layout</a></td>
+<td>Minato-ku, Aichi, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483877361/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rakuten Viber</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1c825f1-391c-43a5-85ce-4b4bc24cdf09">Motion &amp; Brand Designer</a></td>
+<td>Bnei Brak, Tel Aviv District, Israel</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484427857/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Dept</strong></td>
 <td><a href="https://trueinterview.io/jobs/3d6bc51b-326b-4069-bd21-5672cb95efaf">Product Designer Freelance</a></td>
@@ -301,34 +280,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo, SP</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xpinc/jobs/8806517002">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>New Zealand Trade And Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/8296ef67-f412-4cf3-91c5-a916018e8e84">Product Designer, Design Systems</a></td>
-<td>Open - Any NZ NZTE Office</td>
-<td align="center"><a href="https://jobs.lever.co/newzealandtradeandenterprise/1206c26b-de4f-4379-953a-0cf2ff36b5f9/apply">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>C6 Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a54c4cd-bf1c-40a6-a7ca-27639bd70784">Pessoa Auxiliar | Product Designer | Vaga Afirmativa para Pessoas com Deficiência</a></td>
-<td>São Paulo, Brazil<br/>C6 Bank</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4730451005">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Resend</strong></td>
-<td><a href="https://trueinterview.io/jobs/3b9407bf-7f12-424a-b86e-8159db8fec44">Product Designer</a></td>
-<td>Europe<br/>Americas</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/resend/b4d679e8-f41b-4c59-b091-dc5581345fcb/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tldraw</strong></td>
-<td><a href="https://trueinterview.io/jobs/3b7411b5-f3ac-4d97-9e56-577dda958f45">Design Engineer</a></td>
-<td>London Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/tldraw/c52007ee-bac0-4176-a5f0-48fe6e1fe854/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 </tbody>
 </table>

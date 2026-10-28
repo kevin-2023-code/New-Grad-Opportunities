@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**7 open roles.**
+**12 open roles.** 11 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Benchling</strong></td>
+<td><a href="https://trueinterview.io/jobs/01fbf8dd-b381-4c52-9aa4-9e2d21509451">Research Engineer, Model Evaluation and Improvement</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458585630/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>River AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/d559103b-f0fb-42c2-9472-f8d5f2b497dc">Research Engineer / Research Scientist</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467934596/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Primis</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6327d97-003c-4b59-9ba9-11ea793b263f">Applied Research Engineer</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483879018/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Thurn Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/07837680-417a-4623-b0ff-ad14c9bae8c1">Research Scientist, Unstructured Data Lab</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463031405/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/212756ed-1325-44fd-8f49-3e1efa32496c">Research scientist - AI Infra - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476354369/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Duolingo</strong></td>
 <td><a href="https://trueinterview.io/jobs/825eeed8-be5d-4a07-9e6c-550ef99ee597">AI Research Engineer, New PhD Graduate</a></td>
@@ -59,12 +94,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.lever.co/convergentresearch/a2e56f3e-09b0-402e-9566-6c7b235759d0/apply">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
+</tbody>
+</table>
+
+## Elsewhere in the world
+
+_Roles outside the United States & Canada, and roles whose country the catalog could not read._
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
+</thead>
+<tbody>
 <tr>
-<td><strong>Snowflake</strong></td>
-<td><a href="https://trueinterview.io/jobs/ab0bbd8b-3870-46d4-b09d-6104c995709e">AI Research Scientist, New Grad – Agents &amp; Reinforcement Learning</a></td>
-<td>US-WA-Bellevue</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698/application">Apply</a></td>
-<td align="center">3 Sep 2026</td>
+<td><strong>Google DeepMind</strong></td>
+<td><a href="https://trueinterview.io/jobs/689f47ba-95bf-4476-bb2b-19672ca95f18">Research Scientist, Biosecurity, DeepMind</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474968935/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**17 open roles.** 7 in the United States & Canada · 10 elsewhere in the world.
+**16 open roles.** 7 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TikTok USDS Joint Venture</strong></td>
+<td><a href="https://trueinterview.io/jobs/c73ce699-31c5-4c13-9ea6-10364a109a71">Software Engineer Graduate (Tech and Product, USDS) - 2027 Start</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446613511/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ochsner Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b842acf-652d-4519-91ce-8f9227475853">AI Agent Backend Engineer</a></td>
+<td>New Orleans, LA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484467225/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Atlassian</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a2229ce-5835-41ba-864e-9e263483e744">Backend Software Engineer - Focus Funds and AI</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers-americas.icims.com/jobs/27824/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d7e74274-f74a-42ee-8172-8c3e160fdcbd">Backend Software Engineer - Identity</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers-americas.icims.com/jobs/27819/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Gallatin</strong></td>
 <td><a href="https://trueinterview.io/jobs/24e2c88c-04b9-422a-b66a-4367cea1d476">Backend Engineer</a></td>
@@ -38,34 +66,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446721162271">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Kin Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/0668366b-f62c-4eac-9c3d-72ba1debf275">Software Engineer, Back-End Focus</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/kin/56db2161-84b4-42ab-b1c6-adae6c1f325c/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mthree Recruiting Portal</strong></td>
-<td><a href="https://trueinterview.io/jobs/b0e1b460-a2b5-4b85-a822-67b0773cc465">Junior Java Developer</a></td>
-<td>Halifax, Nova Scotia, Canada<br/>Halifax, NS</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4710618006">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cambio</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fb7fd5c-da31-4968-bc0a-e352e4d5b9f6">Backend Engineer</a></td>
-<td>Waterloo, ON<br/>San Francisco, CA<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cambio/34400221-9b07-4db9-929b-3441bdf00dd4/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tebra</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b45db18-7cee-4171-a0da-71e9c1490397">Software Engineer I</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tebra/jobs/4726985005">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -78,6 +78,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fe60228-cc19-4ab4-ac1f-f861e6bb2651">Backend Software Engineer Graduate (Global Payment) - Singapore 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476187264/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Baidu, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf90b5fa-e70f-4262-a24b-5c44b7775581">Backend Software Engineer(Singapore)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483865534/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Manulife</strong></td>
 <td><a href="https://trueinterview.io/jobs/b2538df3-4c64-4479-acbf-ad01e0f6872f">Associate Backend Software Engineer - HIREFITRO3405</a></td>
@@ -126,27 +140,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Sweden, Stockholm</td>
 <td align="center"><a href="https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Backend-Engineer_JR-0109822">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Händlerbund</strong></td>
-<td><a href="https://trueinterview.io/jobs/25092c15-df55-45b6-9277-ef1572e73fc7">Backend Developer</a> 🌐</td>
-<td>Remote — Germany</td>
-<td align="center"><a href="https://4dayweek.io/job/backend-developer-at-handlerbund-7309cc6a">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Applied intuition</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ac9da05-9536-47e7-a81d-469c5fa22b96">Software Engineer - Defense Physical AI</a></td>
-<td>Ann Arbor</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/applied/8cd214ac-8934-4585-a4d0-c3ab46ba7756/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Enveritas (YC S18, non-profit)</strong></td>
-<td><a href="https://trueinterview.io/jobs/424a4f9d-12d7-49fc-9001-8cb3745afc19">Enveritas (YC S18, non-profit) / Backend Software Engineer / Remote (Global) /</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://enveritas.org/jobs/">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 </tbody>
 </table>

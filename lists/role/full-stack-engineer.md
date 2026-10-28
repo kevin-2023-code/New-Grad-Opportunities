@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**22 open roles.** 14 in the United States & Canada · 8 elsewhere in the world.
+**25 open roles.** 16 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,11 +18,39 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Tata Consultancy Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf7cb32c-0766-48e9-a5e8-f9e41b0fea4c">Python Full Stack Developer with AI/Gen AI</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457646359/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Jobs</strong></td>
 <td><a href="https://trueinterview.io/jobs/5616408f-8893-4b21-9bed-c46b64a376e6">Full-Stack Software Engineer (New Grad)</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/agave/73bd2c98-bf87-4eaa-aea8-35e7b6131d0e/application">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SMSI</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a759dcf-faca-4d70-afc2-8649fd90a636">Full Stack Software Developer</a></td>
+<td>Springfield, MO</td>
+<td align="center"><a href="https://jobs.wizehire.com/job/full-stack-software-developer-in-springfield-mo-us-2951ec1b971b91e3">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Unissant</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bb45e0f-307d-411a-8b5b-3929cb02e3af">Entry-level Full-Stack Software Developer</a></td>
+<td>Ashburn, VA</td>
+<td align="center"><a href="https://www.applicantpro.com/openings/unissant/jobs/4256225-221397">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intellibee Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/028e7336-9af8-41a6-bab8-7723c651b4e9">Full Stack .NET Developer</a></td>
+<td>Des Moines, IA</td>
+<td align="center"><a href="https://intellibee.my.salesforce-sites.com/apps/jobs?id=a0AUU000008mvdh2AA">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>OpenAI</strong></td>
@@ -101,20 +129,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/miter/f4567649-a0eb-445d-bd00-a0673a26ec6d/application">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Kustomer</strong></td>
-<td><a href="https://trueinterview.io/jobs/1386f9e5-1243-4f54-be00-bc7423ba7af2">Software Engineer, Full Stack (Early Career)</a></td>
-<td>US - New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Metaview</strong></td>
-<td><a href="https://trueinterview.io/jobs/85028294-7295-45a2-a306-16251cbd6c1b">Full Stack Product Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/metaview/1ae658a2-3baa-4610-8562-410c53d69bea/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -128,6 +142,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/614bd5a4-5c63-4120-ad33-4192104c2b5e">Full Stack Developer - Digital Experience &amp; Automation (DEA)</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484289266/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VIVA</strong></td>
+<td><a href="https://trueinterview.io/jobs/9fab4dcd-983e-492c-a98c-9bc8fb0ad1ea">Full Stack .NET Developer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://careers.viva-it.com/careers/opportunities/job-detail/full-stack-net-developer-NPIAIS27">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/a18b2400-87eb-4988-963e-a3f58dca9b22">ETIC, Full stack Developer - Graduate Program</a></td>
 <td>Cairo - ETIC</td>
@@ -140,6 +168,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Melbourne, Brisbane, Sydney</td>
 <td align="center"><a href="https://jobs.lever.co/mable/585571a3-6888-4f62-aaf7-9f2adf50eb51/apply">Apply</a></td>
 <td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CANImmunize</strong></td>
+<td><a href="https://trueinterview.io/jobs/edacf873-a770-455c-90e0-82dbe325c204">Full Stack Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://secure.collage.co/jobs/canimmunize/66498?origin=indeed">Apply</a></td>
+<td align="center">21 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Encora</strong></td>
@@ -168,20 +203,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Miami</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/oneimaging/jobs/4403125009">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Frazier &amp; Deeter</strong></td>
-<td><a href="https://trueinterview.io/jobs/3511d3dc-4041-461f-90ec-a1c838b3e352">Full Stack AI Engineer (India-based)</a></td>
-<td>Hyderabad<br/>India</td>
-<td align="center"><a href="https://www.frazierdeeter.com/careers/openings/apply/7986994003?gh_jid=7986994003">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Interview Resources</strong></td>
-<td><a href="https://trueinterview.io/jobs/b47ed52e-3aa8-4605-bbba-4d2fd806859f">Interview Resources / 2 Full Stack AI Engineer, 1 GTM / REMOTE / Full-Time / $250k seed raised</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://www.interviewresources.app/careers">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 </tbody>
 </table>

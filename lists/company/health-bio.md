@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**14 open roles.** 11 in the United States & Canada · 3 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**11 open roles.** 9 in the United States & Canada · 2 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Benchling</strong></td>
+<td><a href="https://trueinterview.io/jobs/01fbf8dd-b381-4c52-9aa4-9e2d21509451">Research Engineer, Model Evaluation and Improvement</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458585630/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>AbbVie</strong></td>
 <td><a href="https://trueinterview.io/jobs/433670ac-33f1-4712-a11a-7a241ae2e854">Associate Engineer, Technical Development Program</a></td>
@@ -73,27 +80,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.lever.co/lyrahealth/0357fb9e-10ba-4e7d-92e5-8916517d139f/apply">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/6875daf9-fcf0-4e32-acfb-4839340e4318">Analyst, Business Systems – AI, Automation &amp; RPA</a></td>
-<td>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990015064842-analyst-business-systems-ai-automation-rpa?oga=true">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tebra</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b45db18-7cee-4171-a0da-71e9c1490397">Software Engineer I</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tebra/jobs/4726985005">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff7fcb7f-30b0-40d7-a473-28cbde9989c4">Associate Scientist, Data I</a></td>
-<td>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014999256-associate-scientist-data-i?oga=true">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -119,13 +105,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/heidihealth.com.au/69a7f6cd-2bf1-4390-ac51-df68e59cde4c/application">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intuitive Surgical</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c849f13-646e-4b1a-ab17-e8e0cafbecdc">Engineering Technician</a></td>
-<td>Mexicali, MEXICO, Mexico</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000147338408-engineering-technician?oga=true">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

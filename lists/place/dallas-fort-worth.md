@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**11 open roles.**
+**18 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,69 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BeaconFire Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f588b77-5d1a-4a5e-85a4-8e6833d084c5">Data Engineer</a></td>
+<td>Dallas, TX<br/>New York City Metropolitan Area<br/>Charlotte, NC<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478686811/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BOK Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b085f3a-b177-479d-b7de-7ad4e916be26">Data Product Owner - Fraud</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467786868/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tata Consultancy Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/fcf189cf-97f6-4fed-b98d-6e2a4df8bbf6">Hadoop Developer</a></td>
+<td>Addison, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465590260/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5d8a9c80-210f-481b-bd25-4f56f1aead1a">Engineer</a></td>
+<td>Irving, TX<br/>Charlotte, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466584970/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cook Children's Health Care System</strong></td>
+<td><a href="https://trueinterview.io/jobs/c57f45fa-786a-4d0a-bbd5-b7d75e0fe81a">Business Intelligence Developer</a></td>
+<td>Fort Worth, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484434748/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NTT DATA North America</strong></td>
+<td><a href="https://trueinterview.io/jobs/fbc9a2db-cc9a-47ff-9e1c-c231a686173b">Forward-Deployed Engineer (FDE/GTM)</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467236885/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4136e1d-8eee-40ae-9da9-1aa7bbfeae78">Silicon Photonics Design Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475138949/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>One Park Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e5fa44d-4e67-4413-9b9c-06b2d704c825">.Net Application Developer</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://apply.workable.com/j/A0C7079BF1">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AT&amp;T</strong></td>
+<td><a href="https://trueinterview.io/jobs/61957e46-6d2a-4cdc-9bb1-7df543323bab">AI-Native Software Engineer Analyst, Full-Stack Python</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.att.jobs/job/-/ai-native-software-engineer-analyst-full-stack-python/117/102512395136">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Infineon</strong></td>
 <td><a href="https://trueinterview.io/jobs/96d17dcb-0ef5-443d-97ad-09a31602c452">Graduate - Regional Account Manager Space and Defense</a></td>
@@ -79,20 +142,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Fort Worth, TX, United States<br/>Overland Park, KS, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95107">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/4e8a799b-5d5b-4cbd-9ef7-6a69d1e620cc">Graduate - Analog Mixed-Signal Design Verification Engineer</a></td>
-<td>Dallas, TX, US<br/>Andover, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971876168">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>May Mobility</strong></td>
-<td><a href="https://trueinterview.io/jobs/25d3b206-1e95-4ae8-b0d2-809365b139b5">Testing Support Specialist</a></td>
-<td>Arlington, TX - Onsite<br/>Ann Arbor, MI - HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/maymobility/jobs/8755620002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 </tbody>
 </table>

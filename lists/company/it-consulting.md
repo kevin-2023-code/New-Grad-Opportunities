@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**62 open roles.** 34 in the United States & Canada · 28 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**63 open roles.** 33 in the United States & Canada · 30 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>MANTECH</strong></td>
+<td><a href="https://trueinterview.io/jobs/acdbb4db-4d97-4d73-a410-e3428b199817">Business Intelligence Analyst</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474403738/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ff75535-8765-4952-9383-64676fdeca0e">Data Governance &amp; Data Quality Analyst</a></td>
+<td>Austin, TX<br/>Austin, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482504257/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/882a719a-85d9-4456-b024-9f2e120370e5">Optimum - Data Engineer GCP</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482293946/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5305af3d-e238-489d-a44c-df7d9b1a3b0c">React JS Developer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://capgemini.talentnet.community/jobs/9b7c6a7c-0585-44f1-abd7-3cbbfdec53c2">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Leidos</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1cd7970-aacf-4f7d-95f6-2a247d59d92f">Java Developer</a></td>
+<td>Bethesda, MD</td>
+<td align="center"><a href="https://careers.leidos.com/jobs/18409481-java-developer?tm_job=R-00195520&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Agile Defense</strong></td>
 <td><a href="https://trueinterview.io/jobs/0840d491-52bd-43c8-9bf8-8eab28e7c8ad">Data Engineer - Arlington (VA)</a></td>
@@ -213,48 +248,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.lever.co/lvs1/dd2b9d3b-df56-48ac-8eb8-b5e73d8556c8/apply">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Agile Defense</strong></td>
-<td><a href="https://trueinterview.io/jobs/f352dcb3-0c71-4373-8e64-8e32f7b287a6">Contract Writing System Test and Evaluation Analyst</a></td>
-<td>Fort Huachuca, AZ</td>
-<td align="center"><a href="https://jobs.lever.co/agile-defense/4d0ed11b-2c03-4a1c-8165-8fe08130eb03/apply">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Computer World Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c98a8cc-aac2-4870-af3f-ca4091231746">Desktop Engineer - Windows</a></td>
-<td>Morrisville, NC</td>
-<td align="center"><a href="https://jobs.lever.co/cwsc/6bf8347d-5fef-4460-a79e-c32aa9089498/apply">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mthree Recruiting Portal</strong></td>
-<td><a href="https://trueinterview.io/jobs/b0e1b460-a2b5-4b85-a822-67b0773cc465">Junior Java Developer</a></td>
-<td>Halifax, Nova Scotia, Canada<br/>Halifax, NS</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4710618006">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Accenture Federal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/998268bb-17d3-40d3-98de-affd6e8b0143">Security Specialist</a></td>
-<td>Quantico, VA</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4708629006?gh_jid=4708629006">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Dev Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/67822c57-9e54-4c66-adfe-75ca97d52981">Software Developer – Identity &amp; Access Management (IAM)</a></td>
-<td>Tysons Corner, VA - HYBRID</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/devtechnology/jobs/8768969002">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Accenture Federal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/01178681-cf63-43b6-87b3-080ed18e840f">AI Security Associate Manager</a></td>
-<td>Arlington, VA</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4709765006?gh_jid=4709765006">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -267,6 +260,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d121370-2808-47eb-a79e-028762006527">Cloud Infrastructure Security Engineer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482515024/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5426adb4-6685-4bbb-831e-414df7b55932">Application Developer-Cloud Fullstack</a></td>
+<td>Mumbai Metropolitan Region</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482508208/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8fd9fe02-477b-43fe-99f5-55f6c2a72fd8">Data Engineer-Data Integration</a></td>
+<td>Coimbatore, Tamil Nadu, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482506256/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/133449c0-0f4d-45b6-bc3f-e9d4ec0a8642">Data Engineer-Data Platforms-SnowFlake</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482507232/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c8fa8f70-cd72-43d0-92f8-edcc94bbf83f">Data Scientist-Artificial Intelligence</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482294874/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ca099230-8f85-4783-83ec-e30ed0cfd025">ML Engineer-Advanced Analytics</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482297690/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/a18b2400-87eb-4988-963e-a3f58dca9b22">ETIC, Full stack Developer - Graduate Program</a></td>
@@ -434,34 +469,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brazil</td>
 <td align="center"><a href="https://jobs.lever.co/ciandt/c2b84e4b-9a00-4ae1-9431-4851d47a1c1c/apply">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PwC</strong></td>
-<td><a href="https://trueinterview.io/jobs/09259e9a-c444-483e-958b-2d3af78351b3">Conversational AI Developer</a></td>
-<td>Kraków</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Krakw/Conversational-AI-Developer_760232WD">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Frazier &amp; Deeter</strong></td>
-<td><a href="https://trueinterview.io/jobs/3511d3dc-4041-461f-90ec-a1c838b3e352">Full Stack AI Engineer (India-based)</a></td>
-<td>Hyderabad<br/>India</td>
-<td align="center"><a href="https://www.frazierdeeter.com/careers/openings/apply/7986994003?gh_jid=7986994003">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hedgehog Lab</strong></td>
-<td><a href="https://trueinterview.io/jobs/7725ec08-1642-4352-a9a1-e951d059b804">Software Engineer</a> 🌐</td>
-<td>Remote — France</td>
-<td align="center"><a href="https://4dayweek.io/job/software-engineer-at-hedgehog-lab-b2f9f9fb">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Apply Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8a5239c-8d2d-45ff-a1ad-dad665869475">Service Desk Engineer (Weekend)</a></td>
-<td>Santiago<br/>Latin America</td>
-<td align="center"><a href="https://jobs.lever.co/applydigital/0957c3bd-9456-44c4-8429-8ae80d587e97/apply">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 </tbody>
 </table>

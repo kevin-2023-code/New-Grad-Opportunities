@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**43 open roles.**
+**41 open roles.** 38 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/264f65ca-3391-494e-9d27-95a276b9a762">Semiconductor Process Engineer - Photo</a></td>
+<td>Albany, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483886175/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4136e1d-8eee-40ae-9da9-1aa7bbfeae78">Silicon Photonics Design Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475138949/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/153df313-cb94-407a-9143-e20df9931fbb">Deep Learning Hardware Engineer</a></td>
@@ -269,54 +283,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/applied/e698dd47-7515-4c1c-a71d-dd7e33adfc78/application">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
+</tbody>
+</table>
+
+## Elsewhere in the world
+
+_Roles outside the United States & Canada, and roles whose country the catalog could not read._
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
+</thead>
+<tbody>
 <tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/4e8a799b-5d5b-4cbd-9ef7-6a69d1e620cc">Graduate - Analog Mixed-Signal Design Verification Engineer</a></td>
-<td>Andover, MA, US<br/>Dallas, TX, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971876168">Apply</a></td>
-<td align="center">9 Sep 2026</td>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9f51b8d-5b36-4057-b9cf-8282ee673f1c">Hardware Systems Engineer</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470158486/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ec1529fb-4fc9-4c54-99c4-15d920d42928">Graduate – Analog Design Engineer</a></td>
-<td>Morrisville, NC, US<br/>Andover, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971880479">Apply</a></td>
-<td align="center">7 Sep 2026</td>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a53bc11-9266-4bc3-add5-81b3e8a8e5fb">SoC Constraints Design Engineer, Silicon</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/127895175685907142">Apply</a></td>
+<td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/94f7e771-4827-4289-87a8-9c9c8993c284">Entry Level DFT Design Engineer</a></td>
-<td>Austin (Oakhill, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Design-Engineer_R-10065554">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/a69b716d-c261-4588-a4de-af4a4ba7f8b6">Electrical Design Engineer Graduate</a></td>
-<td>Spring, Texas, United States of America<br/>Chippewa Falls, Wisconsin, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Design-Engineer-Graduate_1213429-1">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hudson River Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a555ace-fb4a-46e8-bd7d-315efc691351">Design Verification (DV) Engineer - 2027 Grads</a></td>
-<td>New York, NY<br/>New York City</td>
-<td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8167806">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/efefdc3b-89a7-4835-b555-8b2bdec0592f">Mechanical Engineer New College Grad - BS/MS Degree (Santa Clara, CA)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318269405">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/30736407-4828-4f24-a676-f9e2888899e1">ASIC Floorplan Design Engineer - New College Grad 2026</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397488368">Apply</a></td>
-<td align="center">31 Aug 2026</td>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/bba72074-3a43-4214-b25a-9a190c42c027">FPGA Prototyping Engineer</a></td>
+<td>Taman Pulau Pinang, Penang, Malaysia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483856702/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
 </table>

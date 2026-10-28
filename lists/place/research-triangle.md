@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**7 open roles.**
+**10 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BeaconFire Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f588b77-5d1a-4a5e-85a4-8e6833d084c5">Data Engineer</a></td>
+<td>Charlotte, NC<br/>Dallas, TX<br/>New York City Metropolitan Area<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478686811/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tata Consultancy Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf7cb32c-0766-48e9-a5e8-f9e41b0fea4c">Python Full Stack Developer with AI/Gen AI</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457646359/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Coca-Cola Consolidated, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/fcfa9603-af27-4c4a-8b46-7b4d4e4de251">IT Engineer II Linux Infrastructure and AI Operations</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://conaservices.jobs2web.com/consolidated/job/Charlotte-IT-Engineer-II-Linux-Infrastructure-and-AI-Operations-NC-28211/1444386100/?feedId=331200">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/5305af3d-e238-489d-a44c-df7d9b1a3b0c">React JS Developer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://capgemini.talentnet.community/jobs/9b7c6a7c-0585-44f1-abd7-3cbbfdec53c2">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GE Vernova</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a6c57aa-2c35-470a-953d-e83f2a5339fd">GE Vernova AI Engineer</a></td>
+<td>Greenville, SC</td>
+<td align="center"><a href="https://careers.gevernova.com/ge-vernova-ai-engineer/job/R5057133">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/ba021141-2d5f-49f0-9e4b-e6b14ea88532">Analog Design Engineer</a></td>
@@ -51,20 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Durham, North Carolina, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475">Apply</a></td>
 <td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec1529fb-4fc9-4c54-99c4-15d920d42928">Graduate – Analog Design Engineer</a></td>
-<td>Morrisville, NC, US<br/>Andover, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971880479">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Computer World Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c98a8cc-aac2-4870-af3f-ca4091231746">Desktop Engineer - Windows</a></td>
-<td>Morrisville, NC</td>
-<td align="center"><a href="https://jobs.lever.co/cwsc/6bf8347d-5fef-4460-a79e-c32aa9089498/apply">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>

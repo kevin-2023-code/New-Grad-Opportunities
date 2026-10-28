@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**21 open roles.** 12 in the United States & Canada · 9 elsewhere in the world.
+**21 open roles.** 15 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SoTalent</strong></td>
+<td><a href="https://trueinterview.io/jobs/de37873c-a47d-46be-b435-0e199cb27e68">Data Scientist</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482299963/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Legora</strong></td>
+<td><a href="https://trueinterview.io/jobs/86975620-9d62-425a-b707-c48a863e2413">Data Scientist - Growth</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482509569/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trinzic</strong></td>
+<td><a href="https://trueinterview.io/jobs/84d6debf-1ccd-4e09-a839-fe0cc3e46634">Data Scientist</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484454643/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JSR Tech Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/59f1333a-47bf-4525-937c-ea5d9beecb19">Data Scientist</a></td>
+<td>New Jersey, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474997431/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RecruiterForge</strong></td>
+<td><a href="https://trueinterview.io/jobs/52d96d63-45b5-46dc-b1dd-db33b82b081d">Data Scientist - $170k-$200k/yearly</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483869425/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CACI International Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/529d8e4d-24ba-4f1b-a0bb-2528f82920f8">NASA Human Spaceflight Artificial Intelligence (AI) Software Engineer and Data Scientist</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478695690/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Crusoe</strong></td>
 <td><a href="https://trueinterview.io/jobs/74cf3b00-7422-4add-a72a-c9216e833f26">Data Scientist, Analytics</a></td>
@@ -80,27 +122,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000148860049-data-scientist-2?oga=true">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/698cd8bc-b20a-4733-b65e-05576051cc8b">Data Scientist (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8783265002?gh_jid=8783265002">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Stack Overflow</strong></td>
-<td><a href="https://trueinterview.io/jobs/7eae86f7-d776-4d94-bb6e-0372c6aa10ca">Data Scientist</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://4dayweek.io/job/data-scientist-at-stack-overflow-5d1a9409">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff7fcb7f-30b0-40d7-a473-28cbde9989c4">Associate Scientist, Data I</a></td>
-<td>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014999256-associate-scientist-data-i?oga=true">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -113,6 +134,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8fa8f70-cd72-43d0-92f8-edcc94bbf83f">Data Scientist-Artificial Intelligence</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482294874/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Teya</strong></td>
 <td><a href="https://trueinterview.io/jobs/48415e7a-154f-4ce3-9a68-ff1260a5e467">Data Scientist</a></td>
@@ -147,34 +175,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo, Brazil<br/>Estágio</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4733467005">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Experian</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b7df4f9-dc64-4702-9422-77efcc20f7ac">Especialista de Modelagem Estatística - Vaga Afirmativa para Mulheres</a></td>
-<td>São Paulo, , Brazil</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000148323130-especialista-de-modelagem-estatistica-vaga-afirmativa-para-mulheres?oga=true">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SonarSource</strong></td>
-<td><a href="https://trueinterview.io/jobs/3da7ccb9-0207-4966-ac38-1916eef4d0ca">Data Scientist, Product Analytics</a></td>
-<td>Geneva</td>
-<td align="center"><a href="https://jobs.lever.co/sonarsource/c9783c31-cfa1-4d95-b31a-278cd0d14162/apply">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Platform Science</strong></td>
-<td><a href="https://trueinterview.io/jobs/36725f58-73cb-499a-9b8f-2b4f2286340e">Data Scientist</a></td>
-<td>Brazil<br/>Londrina</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/platformscience/jobs/7984695003">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>JPMorgan Chase</strong></td>
-<td><a href="https://trueinterview.io/jobs/bdc58b68-047f-4b96-98d0-16ad95416cb1">2027 Data &amp; AI - Full Time Analyst - London, Glasgow</a></td>
-<td>LONDON, LONDON, United Kingdom</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774755">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 </tbody>
 </table>
