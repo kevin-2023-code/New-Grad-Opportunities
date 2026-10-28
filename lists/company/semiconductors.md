@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**134 open roles.** 130 in the United States & Canada · 4 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**132 open roles.** 128 in the United States & Canada · 4 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -912,20 +912,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44247226">Apply</a></td>
 <td align="center">30 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a3e1104-a13b-457b-9a1c-78b92ee9ec7c">Electronics Engineering Technician</a></td>
-<td>Austin, TX<br/>US, TX, Austin_Research Park<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91410?lang=en-us">Apply</a></td>
-<td align="center">29 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Coherent Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc41881b-278d-46ef-a12e-b3a81c551de1">Process Engineer</a></td>
-<td>Woburn, MA, United States<br/>Sherman, TX, United States</td>
-<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011324">Apply</a></td>
-<td align="center">29 Aug 2026</td>
 </tr>
 </tbody>
 </table>

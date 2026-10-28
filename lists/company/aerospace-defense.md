@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**59 open roles.** 54 in the United States & Canada · 5 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**58 open roles.** 53 in the United States & Canada · 5 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/fcef1923-dc8c-4191-a307-ddf7fd771c5b">Build Reliability Engineer I</a></td>
-<td>Long Beach, California, United States, LB - Wormhole HQ (CA)</td>
-<td align="center"><a href="https://boards.greenhouse.io/relativity/jobs/8911813002?gh_jid=8911813002">Apply</a></td>
+<td><strong>Ast Spacemobile</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6b3604b-f076-4f6e-b5b6-478e1a11d9a5">Composite Technician, 1st shift, Site 2</a></td>
+<td>Midland, Texas, United States, AST - Midland</td>
+<td align="center"><a href="https://ast-science.com/company/careers/?gh_jid=4741243005">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -142,13 +142,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8834054002?gh_jid=8834054002">Apply</a></td>
 <td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ast Spacemobile</strong></td>
-<td><a href="https://trueinterview.io/jobs/9cb5cf66-e687-45af-8958-9bd9d830d381">Manufacturing Test &amp; Debug Engineer</a></td>
-<td>Midland, Texas, United States<br/>AST - Midland</td>
-<td align="center"><a href="https://ast-science.com/company/careers/?gh_jid=4737437005">Apply</a></td>
-<td align="center">23 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>

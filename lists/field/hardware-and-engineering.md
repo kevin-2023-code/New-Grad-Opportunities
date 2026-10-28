@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**276 open roles.** 258 in the United States & Canada · 18 elsewhere in the world.
+**274 open roles.** 256 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Ast Spacemobile</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6b3604b-f076-4f6e-b5b6-478e1a11d9a5">Composite Technician, 1st shift, Site 2</a></td>
+<td>Midland, Texas, United States, AST - Midland</td>
+<td align="center"><a href="https://ast-science.com/company/careers/?gh_jid=4741243005">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Olsson</strong></td>
 <td><a href="https://trueinterview.io/jobs/1795623c-f191-42c8-b252-91c1805d2886">Assistant -Level Civil Engineering Construction Technician - EIT</a></td>
 <td>Olathe, KS, Olathe</td>
@@ -25,10 +32,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/fcef1923-dc8c-4191-a307-ddf7fd771c5b">Build Reliability Engineer I</a></td>
-<td>Long Beach, California, United States, LB - Wormhole HQ (CA)</td>
-<td align="center"><a href="https://boards.greenhouse.io/relativity/jobs/8911813002?gh_jid=8911813002">Apply</a></td>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/e17a5b50-d977-48b4-96c9-c384b9004013">Data Center Mechanical Engineer, Assistant Consultant</a></td>
+<td>Herndon, VA, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98366">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -856,13 +863,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Redmond, WA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8834054002?gh_jid=8834054002">Apply</a></td>
 <td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ast Spacemobile</strong></td>
-<td><a href="https://trueinterview.io/jobs/9cb5cf66-e687-45af-8958-9bd9d830d381">Manufacturing Test &amp; Debug Engineer</a></td>
-<td>Midland, Texas, United States<br/>AST - Midland</td>
-<td align="center"><a href="https://ast-science.com/company/careers/?gh_jid=4737437005">Apply</a></td>
-<td align="center">23 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Applied intuition</strong></td>
@@ -1807,20 +1807,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2e487313-9632-4997-868d-e21e84b3ee24">Autonomous Collaborative Platform (ACP) - General Interest</a></td>
 <td>Montreal, QC<br/>Ottawa or Toronto</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/dominion%20dynamics/eb286335-8913-490a-8abe-079e53d011c8/application">Apply</a></td>
-<td align="center">29 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a3e1104-a13b-457b-9a1c-78b92ee9ec7c">Electronics Engineering Technician</a></td>
-<td>Austin, TX<br/>US, TX, Austin_Research Park<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91410?lang=en-us">Apply</a></td>
-<td align="center">29 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Coherent Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc41881b-278d-46ef-a12e-b3a81c551de1">Process Engineer</a></td>
-<td>Woburn, MA, United States<br/>Sherman, TX, United States</td>
-<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011324">Apply</a></td>
 <td align="center">29 Aug 2026</td>
 </tr>
 </tbody>

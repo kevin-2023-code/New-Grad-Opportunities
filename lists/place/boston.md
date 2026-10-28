@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**40 open roles.**
+**39 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -289,13 +289,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA<br/>Boston-Hybrid</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/ians/jobs/5225117007">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Coherent Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc41881b-278d-46ef-a12e-b3a81c551de1">Process Engineer</a></td>
-<td>Woburn, MA, United States<br/>Sherman, TX, United States</td>
-<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011324">Apply</a></td>
-<td align="center">29 Aug 2026</td>
 </tr>
 </tbody>
 </table>

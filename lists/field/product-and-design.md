@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**44 open roles.** 32 in the United States & Canada · 12 elsewhere in the world.
+**43 open roles.** 31 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Chatbase</strong></td>
-<td><a href="https://trueinterview.io/jobs/faf7df04-feef-48ad-86ad-6dadb72f7bfd">Videographer &amp; Editor</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/chatbase/1410a1fe-7bc2-4769-a50f-970ce9f77cf8/application">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Dell</strong></td>
 <td><a href="https://trueinterview.io/jobs/3ae52380-1a8c-405c-9236-29e42a3320ad">Graphic and Visual Designer, Experience Design Group</a></td>

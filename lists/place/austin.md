@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**37 open roles.**
+**36 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -268,13 +268,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin (Oakhill, Office), United States of America</td>
 <td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-NVM-Reliability-Lab-Engineer_R-10066302">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a3e1104-a13b-457b-9a1c-78b92ee9ec7c">Electronics Engineering Technician</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States<br/>US, TX, Austin_Research Park</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91410?lang=en-us">Apply</a></td>
-<td align="center">29 Aug 2026</td>
 </tr>
 </tbody>
 </table>

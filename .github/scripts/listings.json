@@ -6,33 +6,31 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-27T23:12:46.845Z",
-  "count": 921,
+  "listingsChangedAt": "2026-10-28T04:16:58.351Z",
+  "count": 917,
   "listings": [
     {
-      "id": "faf7df04-feef-48ad-86ad-6dadb72f7bfd",
-      "company": "chatbase",
-      "title": "Videographer & Editor",
+      "id": "a6b3604b-f076-4f6e-b5b6-478e1a11d9a5",
+      "company": "ast-spacemobile",
+      "title": "Composite Technician, 1st shift, Site 2",
       "locations": [
-        "Toronto"
+        "Midland, Texas, United States, AST - Midland"
       ],
-      "cities": [
-        "Toronto, ON"
-      ],
+      "cities": [],
       "countries": [
-        "Canada"
+        "United States"
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Product & Design",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "new-grad",
       "level": "newgrad",
       "kind": "newgrad",
       "sponsorship": null,
       "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/chatbase/1410a1fe-7bc2-4769-a50f-970ce9f77cf8/application",
-      "url": "https://trueinterview.io/jobs/faf7df04-feef-48ad-86ad-6dadb72f7bfd",
+      "applyUrl": "https://ast-science.com/company/careers/?gh_jid=4741243005",
+      "url": "https://trueinterview.io/jobs/a6b3604b-f076-4f6e-b5b6-478e1a11d9a5",
       "postedAt": "2026-10-28T00:00:00.000Z",
       "updatedAt": "2026-10-28T00:00:00.000Z"
     },
@@ -89,31 +87,6 @@
       "updatedAt": "2026-10-28T00:00:00.000Z"
     },
     {
-      "id": "fcef1923-dc8c-4191-a307-ddf7fd771c5b",
-      "company": "relativity-space",
-      "title": "Build Reliability Engineer I",
-      "locations": [
-        "Long Beach, California, United States, LB - Wormhole HQ (CA)"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/relativity/jobs/8911813002?gh_jid=8911813002",
-      "url": "https://trueinterview.io/jobs/fcef1923-dc8c-4191-a307-ddf7fd771c5b",
-      "postedAt": "2026-10-28T00:00:00.000Z",
-      "updatedAt": "2026-10-28T00:00:00.000Z"
-    },
-    {
       "id": "05fe05f2-9b63-4129-baa7-bf47a6f00760",
       "company": "sambanova-systems",
       "title": "Compiler Engineer - New Grad",
@@ -155,7 +128,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Hardware & Engineering",
       "role": "Data Engineer",
       "seniority": "new-grad",
       "level": "newgrad",
@@ -9613,32 +9586,6 @@
       "url": "https://trueinterview.io/jobs/79fbcd23-8924-46d4-9fc4-48b96a23ed84",
       "postedAt": "2026-09-24T00:00:00.000Z",
       "updatedAt": "2026-09-24T00:00:00.000Z"
-    },
-    {
-      "id": "9cb5cf66-e687-45af-8958-9bd9d830d381",
-      "company": "Ast Spacemobile",
-      "title": "Manufacturing Test & Debug Engineer",
-      "locations": [
-        "Midland, Texas, United States",
-        "AST - Midland"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://ast-science.com/company/careers/?gh_jid=4737437005",
-      "url": "https://trueinterview.io/jobs/9cb5cf66-e687-45af-8958-9bd9d830d381",
-      "postedAt": "2026-09-23T23:22:00.000Z",
-      "updatedAt": "2026-09-23T23:22:00.000Z"
     },
     {
       "id": "4e23686f-ea67-4765-92c0-e54cc121b8e8",
@@ -23987,60 +23934,6 @@
       "url": "https://trueinterview.io/jobs/2e487313-9632-4997-868d-e21e84b3ee24",
       "postedAt": "2026-08-29T16:02:34.000Z",
       "updatedAt": "2026-08-29T16:02:34.000Z"
-    },
-    {
-      "id": "0a3e1104-a13b-457b-9a1c-78b92ee9ec7c",
-      "company": "AMD",
-      "title": "Electronics Engineering Technician",
-      "locations": [
-        "US,TX,Austin_Research Park",
-        "Austin, Texas, United States"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.amd.com/careers-home/jobs/91410?lang=en-us",
-      "url": "https://trueinterview.io/jobs/0a3e1104-a13b-457b-9a1c-78b92ee9ec7c",
-      "postedAt": "2026-08-29T00:00:00.000Z",
-      "updatedAt": "2026-08-29T00:00:00.000Z"
-    },
-    {
-      "id": "dc41881b-278d-46ef-a12e-b3a81c551de1",
-      "company": "Coherent Corp.",
-      "title": "Process Engineer",
-      "locations": [
-        "Woburn, MA, United States",
-        "Sherman, TX, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011324",
-      "url": "https://trueinterview.io/jobs/dc41881b-278d-46ef-a12e-b3a81c551de1",
-      "postedAt": "2026-08-29T00:00:00.000Z",
-      "updatedAt": "2026-08-29T00:00:00.000Z"
     }
   ]
 }
