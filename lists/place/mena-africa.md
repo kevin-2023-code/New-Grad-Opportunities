@@ -2,7 +2,7 @@
 
 # 🌍 Dubai, Cairo, Lagos & Africa
 
-**12 open roles.**
+**9 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -46,27 +46,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Dubai, UAE</td>
 <td align="center"><a href="https://careers.bydeurope.com/jobs/8627738-aftersales-engineer">Apply</a></td>
 <td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Parsons</strong></td>
-<td><a href="https://trueinterview.io/jobs/9db3e7e6-fb6e-492d-8d81-ea6be9d1e8c2">Assistant Resident Engineer - Infrastructure/Stormwater</a></td>
-<td>Abu Dhabi, UAE</td>
-<td align="center"><a href="https://jobs.parsons.com/jobs/assistant-resident-engineer-infrastructure-stormwater-r-187567-jobs--construction-management-supervision--">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Saildrone</strong></td>
-<td><a href="https://trueinterview.io/jobs/a599d7e8-69e7-404b-9d21-1a6cdce4acfd">Technical Operations Engineer</a></td>
-<td>Abu Dhabi, UAE</td>
-<td align="center"><a href="https://grnh.se/i7ut9mcq9us">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AECOM</strong></td>
-<td><a href="https://trueinterview.io/jobs/91ca3925-61a4-43a6-9b65-12d646a468b8">Quantity Surveyor</a></td>
-<td>Dubai, UAE</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000158046999-quantity-surveyor">Apply</a></td>
-<td align="center">27 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>AtkinsRéalis</strong></td>

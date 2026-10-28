@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**10 open roles.** 9 in the United States & Canada · 1 elsewhere in the world.
+**9 open roles.** 8 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bd372d9a-9737-44bf-b5a1-6eff1b73c885">Quantitative Researcher</a></td>
 <td>New York, NY<br/>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483871858/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Aurum Search Limited</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8cfa590-a5c2-4f0a-86bf-824935d36386">Quantitative Researcher</a></td>
-<td>New York City Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482288969/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
