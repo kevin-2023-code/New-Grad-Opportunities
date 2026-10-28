@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**6 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
+**7 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -58,6 +58,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Muskogee, OK<br/>Muskogee Plant</td>
 <td align="center"><a href="https://www.captiveaire.com/Careers/Opening.asp?id=8774655002&amp;gh_jid=8774655002">Apply</a></td>
 <td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Zeeco</strong></td>
+<td><a href="https://trueinterview.io/jobs/19c0a8d6-be20-49cb-8e39-591fc633f917">Controls Engineer</a></td>
+<td>Tulsa, Oklahoma</td>
+<td align="center"><a href="https://jobs.lever.co/zeeco/48ab06e1-d002-4eea-a801-c3bda39d1d25/apply">Apply</a></td>
+<td align="center">1 Sep 2026</td>
 </tr>
 </tbody>
 </table>

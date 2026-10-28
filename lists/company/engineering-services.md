@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**37 open roles.** 32 in the United States & Canada · 5 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**39 open roles.** 34 in the United States & Canada · 5 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -240,6 +240,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Saint Louis, MO, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94529">Apply</a></td>
 <td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/eaa1e0c7-508d-4580-b5ce-903a515d5313">Entry Level Substation Structural Engineer</a></td>
+<td>Duluth, GA, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94471">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Jensen Hughes</strong></td>
+<td><a href="https://trueinterview.io/jobs/cbb5746e-ae3c-46e0-a6b5-9c098daea85a">Associate Fire Protection Engineer</a></td>
+<td>Columbia, Maryland, United States<br/>Columbia, MD</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5362942008">Apply</a></td>
+<td align="center">31 Aug 2026</td>
 </tr>
 </tbody>
 </table>

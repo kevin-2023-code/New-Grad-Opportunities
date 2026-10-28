@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**210 open roles.** 191 in the United States & Canada · 19 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**220 open roles.** 201 in the United States & Canada · 19 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1353,6 +1353,76 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Nashville, TN, United States</td>
 <td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/344360">Apply</a></td>
 <td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/ed92267a-337e-4394-baff-37d4fbfbd3d5">Process Integration Engineer III - Early in Career, Doctorate (Albany, NY)</a></td>
+<td>Albany, NY, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790315530420">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Coherent Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/7aab3382-f1b1-4ad5-8603-e757a94ebb56">NPI Engineer</a></td>
+<td>Budd Lake, NJ, United States</td>
+<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2013585">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/a69b716d-c261-4588-a4de-af4a4ba7f8b6">Electrical Design Engineer Graduate</a></td>
+<td>Spring, Texas, United States of America<br/>Chippewa Falls, Wisconsin, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Design-Engineer-Graduate_1213429-1">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/e92ab15c-de1d-4d07-8955-98b70510e107">Applied Systems Engineering Rotation Engineer - New College Graduate 2026</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397529283">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/30a5a735-fd41-4861-9917-64341be0771a">Electrical Engineer New College Grad - BS/MS Degree (Santa Clara, CA)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318269709">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/efefdc3b-89a7-4835-b555-8b2bdec0592f">Mechanical Engineer New College Grad - BS/MS Degree (Santa Clara, CA)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318269405">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/51b09564-c49b-410a-a9c1-a96542db4fa4">Process Engineer New College Grad - BS/MS Degree (Santa Clara, CA)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318269579">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/30736407-4828-4f24-a676-f9e2888899e1">ASIC Floorplan Design Engineer - New College Grad 2026</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397488368">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/501283e3-5aa0-47bd-8901-df316c81b0d9">Entry Level NVM Reliability Lab Engineer</a></td>
+<td>Austin (Oakhill, Office), United States of America</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-NVM-Reliability-Lab-Engineer_R-10066302">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/784b73ce-58f0-4adb-8584-685ef397bdf2">New College Grad - Product Test Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44247226">Apply</a></td>
+<td align="center">30 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**34 open roles.**
+**36 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -254,6 +254,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States<br/>Austin, TX</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/ontic/c4f5bf21-d5a9-488c-9638-631bd58de471/application">Apply</a></td>
 <td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/cad4591a-c3b1-44f9-a6a9-ce2c74467d24">Embedded Software Engineer (Starlink)</a></td>
+<td>Bastrop, TX</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8706480002?gh_jid=8706480002">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/501283e3-5aa0-47bd-8901-df316c81b0d9">Entry Level NVM Reliability Lab Engineer</a></td>
+<td>Austin (Oakhill, Office), United States of America</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-NVM-Reliability-Lab-Engineer_R-10066302">Apply</a></td>
+<td align="center">31 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**324 open roles.** 215 in the United States & Canada · 109 elsewhere in the world.
+**353 open roles.** 239 in the United States & Canada · 114 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1522,6 +1522,174 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/344360">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1826cd8-79a0-43fe-8fa8-857cba390396">2027 Early Career Flight Software Engineer</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Applied intuition</strong></td>
+<td><a href="https://trueinterview.io/jobs/c07a8afc-d024-409f-a110-6d519d5d137d">Cybersecurity Software Engineer - New Grad (December 2027)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/84351134-2806-48fb-aede-9b6c7b765041">Forward Deployed Engineer - New Grad (December 2026)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sift Stack, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/caed328d-b509-4f8d-92cc-40062f2370ba">Software Engineer – New College Graduate</a></td>
+<td>Marina Del Rey, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cambio</strong></td>
+<td><a href="https://trueinterview.io/jobs/1fb7fd5c-da31-4968-bc0a-e352e4d5b9f6">Backend Engineer</a></td>
+<td>Waterloo, ON<br/>San Francisco, CA<br/>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cambio/34400221-9b07-4db9-929b-3441bdf00dd4/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>BlackBerry</strong></td>
+<td><a href="https://trueinterview.io/jobs/75c39006-c32a-413d-a370-766e850cd1f2">QNX Open Source Software Developer (New Graduate/Graduate)</a></td>
+<td>Ottawa, Ontario</td>
+<td align="center"><a href="https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cerebras Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/0eab0c7b-be22-4bf1-9934-ae59f2a571b7">Application Security Engineer</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cerebras/91bc61c1-29db-4a47-817d-30e921064af5">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Dolby</strong></td>
+<td><a href="https://trueinterview.io/jobs/122d1fe2-84f7-4b93-ad4f-9b333fbc4ea5">Information Security Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://4dayweek.io/job/information-security-engineer-at-dolby-79d9c200">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>FitMate</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1f7b234-b54b-447a-bc88-8ecfe454f01e">FitMate / Frontend Engineer (Junior) / REMOTE (US) / $80-120k + bonus</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers.fitmatecoach.com/roles/junior-frontend-developer">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Greenzie</strong></td>
+<td><a href="https://trueinterview.io/jobs/96bfb072-b733-4aaf-a8dc-365d0a453288">Greenzie / Robotics Software Engineer (Early Career + Experienced) / Atlanta, GA / ONSITE/HYBRID / Full-time /</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://greenzie.applytojob.com/apply">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Tebra</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b45db18-7cee-4171-a0da-71e9c1490397">Software Engineer I</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tebra/jobs/4726985005">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>PagerDuty</strong></td>
+<td><a href="https://trueinterview.io/jobs/06bdc96f-5a5f-4230-b094-e0f363257634">Site Reliability Engineer I</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/pagerduty/jobs/6162484004">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Valon</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e57f527-b0c7-4a8a-840c-7aa6213f07a8">Software Engineer New Grad</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/valon/e08ad09a-4408-4210-8c1b-da6510f83324/application">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>InterSystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/8c148f25-fa87-4290-b52f-a00007bc32cd">Core Development Program</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/intersystems/jobs/7827894003">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bf19fc24-983e-40f0-8841-8d8e025712b1">Quality Development Program</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/intersystems/jobs/7827897003">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Dev Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/67822c57-9e54-4c66-adfe-75ca97d52981">Software Developer – Identity &amp; Access Management (IAM)</a></td>
+<td>Tysons Corner, VA - HYBRID</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/devtechnology/jobs/8768969002">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/7accbf10-70d9-4110-85b7-1afe6ae277fc">Systems Test Engineer, End-to-End Validation | Consumer Devices</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/393b88d7-1fbc-466a-9108-a7c1bafeb8d8/application">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Veeva Qualityone Japan</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b1b54bc-0b11-4232-9312-676a685b4b1b">Configuration Consultant - RTSM</a></td>
+<td>Missouri - Kansas City</td>
+<td align="center"><a href="https://jobs.lever.co/veeva/56bb474b-c80a-4f02-bb20-974f2ef094bc/apply">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/e92ab15c-de1d-4d07-8955-98b70510e107">Applied Systems Engineering Rotation Engineer - New College Graduate 2026</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397529283">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sierra</strong></td>
+<td><a href="https://trueinterview.io/jobs/b29a33d8-54f1-416e-b86e-04fa0dd7f85b">APX (New Grad 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sierra/d9c445da-c7b4-43a3-8d71-d367681c3015/application">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Planetscale</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf6b2d7d-f1d6-410b-8e13-a7da3806fd32">Software Engineer - Internal Tools</a></td>
+<td>San Francisco Office<br/>San Francisco Bay Area</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/planetscale/jobs/4389100009">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Everlaw</strong></td>
+<td><a href="https://trueinterview.io/jobs/68f23bcd-6565-4972-8533-7acfdf65caa2">Software Engineer I</a></td>
+<td>Oakland, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/everlaw/jobs/4705236006">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/cad4591a-c3b1-44f9-a6a9-ce2c74467d24">Embedded Software Engineer (Starlink)</a></td>
+<td>Bastrop, TX</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8706480002?gh_jid=8706480002">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9ab208d0-35de-4685-a088-2534cd664bc3">GNC Engineer, Phased Array Devices (Starshield)</a></td>
+<td>Hawthorne, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8749195002?gh_jid=8749195002">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -2296,6 +2464,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>One-north</td>
 <td align="center"><a href="https://jobs.lever.co/weride/2973bf16-d0cb-47d9-9572-df3be8430368/apply">Apply</a></td>
 <td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Obsidian Security</strong></td>
+<td><a href="https://trueinterview.io/jobs/095b9dd2-800f-45b9-bde4-5f166de58e96">AI Security Engineer - Taiwan</a></td>
+<td>Taipei, Taiwan</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/obsidiansecurity/jobs/5406173008">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Enveritas (YC S18, non-profit)</strong></td>
+<td><a href="https://trueinterview.io/jobs/424a4f9d-12d7-49fc-9001-8cb3745afc19">Enveritas (YC S18, non-profit) / Backend Software Engineer / Remote (Global) /</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://enveritas.org/jobs/">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Interview Resources</strong></td>
+<td><a href="https://trueinterview.io/jobs/b47ed52e-3aa8-4605-bbba-4d2fd806859f">Interview Resources / 2 Full Stack AI Engineer, 1 GTM / REMOTE / Full-Time / $250k seed raised</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://www.interviewresources.app/careers">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mako</strong></td>
+<td><a href="https://trueinterview.io/jobs/1de4b7f6-e184-43e3-a256-14812299d0f4">Graduate Software Engineer, Sydney</a></td>
+<td>Sydney<br/>Mako Sydney</td>
+<td align="center"><a href="https://www.mako.com/opportunities/job-listing/8654611002?gh_jid=8654611002">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1f425c0-d9ad-4146-b6d7-690ab9643f5d">2027 Software Engineer Program - Full-time - Glasgow &amp; London</a></td>
+<td>LONDON, LONDON, United Kingdom</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774781">Apply</a></td>
+<td align="center">31 Aug 2026</td>
 </tr>
 </tbody>
 </table>

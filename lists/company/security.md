@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**7 open roles.** Security products, detection, identity and offensive-security vendors.
+**9 open roles.** 8 in the United States & Canada · 1 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,6 +64,32 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e9126288-d05a-41ea-b0e6-ea5242b90d2a">Member of Technical Staff I - Architecture</a></td>
 <td>HQ - Sunnyvale (Office)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/illumio/9f7e300f-1e61-4900-ab6d-da7429d2a6ae/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>BlackBerry</strong></td>
+<td><a href="https://trueinterview.io/jobs/75c39006-c32a-413d-a370-766e850cd1f2">QNX Open Source Software Developer (New Graduate/Graduate)</a></td>
+<td>Ottawa, Ontario</td>
+<td align="center"><a href="https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+</tbody>
+</table>
+
+## Elsewhere in the world
+
+_Roles outside the United States & Canada, and roles whose country the catalog could not read._
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Obsidian Security</strong></td>
+<td><a href="https://trueinterview.io/jobs/095b9dd2-800f-45b9-bde4-5f166de58e96">AI Security Engineer - Taiwan</a></td>
+<td>Taipei, Taiwan</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/obsidiansecurity/jobs/5406173008">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 </tbody>

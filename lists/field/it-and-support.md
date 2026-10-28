@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**91 open roles.** 68 in the United States & Canada · 23 elsewhere in the world.
+**101 open roles.** 74 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -493,6 +493,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/c3el/jobs/5230012007">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
+<tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/998268bb-17d3-40d3-98de-affd6e8b0143">Security Specialist</a></td>
+<td>Quantico, VA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4708629006?gh_jid=4708629006">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Iseatz</strong></td>
+<td><a href="https://trueinterview.io/jobs/02b8d5bf-93db-4b71-a968-962d79e671b9">Cybersecurity Compliance Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/iseatz/jobs/5406282008">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Ians</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb8f4ab8-bc43-468a-9f89-2e42c66adad2">Client Services Specialist</a></td>
+<td>Boston, MA<br/>Boston-Hybrid</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/ians/jobs/5225117007">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Yext</strong></td>
+<td><a href="https://trueinterview.io/jobs/908f44f8-5ecd-497e-9919-54fe372fe32f">Specialist, Concierge Services</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/yext/jobs/8157597">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Mapbox</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d2f9be2-ecff-4866-817d-7aa0d579e795">IT Administrator</a></td>
+<td>Mapbox US</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mapbox/5eb5480d-b457-4ce9-8f12-6292a2a402df/application">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Beloved Community &amp; Empowerment Academy Charter Schools</strong></td>
+<td><a href="https://trueinterview.io/jobs/9bedd409-4fd6-4819-b6e9-0d2ef2449240">Help Desk &amp; IOT Technician</a></td>
+<td>Jersey City, New Jersey, United States</td>
+<td align="center"><a href="https://jobs.workable.com/view/c6GoDuwfqvF3C86bBgc4Nb/help-desk-%26-iot-technician-in-jersey-city-at-beloved-community-%26-empowerment-academy-charter-schools">Apply</a></td>
+<td align="center">29 Aug 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -665,6 +707,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo, São Paulo, Brazil<br/>Sao Paulo</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/awin/jobs/7984749003">Apply</a></td>
 <td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Terra</strong></td>
+<td><a href="https://trueinterview.io/jobs/49403cdd-6e1c-4b30-8b0e-817f0e1128c7">Web Production Specialist (LatAm)</a></td>
+<td>Buenos Aires</td>
+<td align="center"><a href="https://jobs.lever.co/terrahq/e9cb9476-d5fd-49ee-9789-d57e53baa9b7/apply">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Jetsupport</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f9f1262-bd7e-489c-a1da-8993bd787192">Technical Support Specialist</a></td>
+<td>Pampanga, PHL</td>
+<td align="center"><a href="https://jobs.lever.co/jetsupport/1c945b93-6497-428e-9241-cec94ba09861/apply">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Genius Sports</strong></td>
+<td><a href="https://trueinterview.io/jobs/347545e2-54fc-446c-a217-079c1fb4349a">Streaming Technical Support Analyst</a></td>
+<td>Medellín, Antioquia, Colombia<br/>Medellin, Colombia</td>
+<td align="center"><a href="https://boards.greenhouse.io/geniussports/jobs/7983804003?gh_jid=7983804003">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Apply Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/e8a5239c-8d2d-45ff-a1ad-dad665869475">Service Desk Engineer (Weekend)</a></td>
+<td>Santiago<br/>Latin America</td>
+<td align="center"><a href="https://jobs.lever.co/applydigital/0957c3bd-9456-44c4-8429-8ae80d587e97/apply">Apply</a></td>
+<td align="center">31 Aug 2026</td>
 </tr>
 </tbody>
 </table>

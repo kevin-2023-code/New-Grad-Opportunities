@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**252 open roles.** 234 in the United States & Canada · 18 elsewhere in the world.
+**274 open roles.** 256 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1654,6 +1654,160 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Quonset, Rhode Island, United States<br/>Quonset, RI</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5227739007?gh_jid=5227739007">Apply</a></td>
 <td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hadrian Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ee23d40-9c84-40a8-84af-b861d68c0cb6">Paint Engineer</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/115d8734-0f96-4375-b27d-6a4d62956b04/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/eaa1e0c7-508d-4580-b5ce-903a515d5313">Entry Level Substation Structural Engineer</a></td>
+<td>Duluth, GA, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94471">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/ed92267a-337e-4394-baff-37d4fbfbd3d5">Process Integration Engineer III - Early in Career, Doctorate (Albany, NY)</a></td>
+<td>Albany, NY, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790315530420">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Coherent Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/7aab3382-f1b1-4ad5-8603-e757a94ebb56">NPI Engineer</a></td>
+<td>Budd Lake, NJ, United States</td>
+<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2013585">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/a69b716d-c261-4588-a4de-af4a4ba7f8b6">Electrical Design Engineer Graduate</a></td>
+<td>Spring, Texas, United States of America<br/>Chippewa Falls, Wisconsin, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Design-Engineer-Graduate_1213429-1">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Zeeco</strong></td>
+<td><a href="https://trueinterview.io/jobs/19c0a8d6-be20-49cb-8e39-591fc633f917">Controls Engineer</a></td>
+<td>Tulsa, Oklahoma</td>
+<td align="center"><a href="https://jobs.lever.co/zeeco/48ab06e1-d002-4eea-a801-c3bda39d1d25/apply">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Matic</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ce561cc-7164-4b63-9a76-e9e7d87bb8bb">Don’t See Your Role?</a></td>
+<td>Menlo Park, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/maticrobots/1f040f0d-e59d-481a-80c5-430aab772d23/application">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/385d5cf4-23ee-4cb8-99fc-e29e6ac36bcb">Manufacturing Engineer- Body Shop</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68021">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Potere</strong></td>
+<td><a href="https://trueinterview.io/jobs/7874077f-0fe4-41e7-8b66-f26960ffb15f">Electrical Application Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.indeed.com/viewjob?jk=74cc3f174e716e05">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Asm</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e1f4298-6d3a-4d06-9bfa-5da1b9677449">Field Service - Prospecting US</a></td>
+<td>US &gt; Idaho &gt; Boise</td>
+<td align="center"><a href="https://www.asm.com/open-vacancies/?gh_jid=4964389101">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Hudson River Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a555ace-fb4a-46e8-bd7d-315efc691351">Design Verification (DV) Engineer - 2027 Grads</a></td>
+<td>New York, NY<br/>New York City</td>
+<td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8167806">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/9102db68-a373-44ba-bc2a-b671991f4ff3">Embedded Software Engineer - Drive Systems</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/ea3fbfaf-588b-434a-9a5a-c61edc731a40/apply">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Jensen Hughes</strong></td>
+<td><a href="https://trueinterview.io/jobs/cbb5746e-ae3c-46e0-a6b5-9c098daea85a">Associate Fire Protection Engineer</a></td>
+<td>Columbia, Maryland, United States<br/>Columbia, MD</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5362942008">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>May Mobility</strong></td>
+<td><a href="https://trueinterview.io/jobs/25d3b206-1e95-4ae8-b0d2-809365b139b5">Testing Support Specialist</a></td>
+<td>Arlington, TX - Onsite<br/>Ann Arbor, MI - HQ</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/maymobility/jobs/8755620002">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/30a5a735-fd41-4861-9917-64341be0771a">Electrical Engineer New College Grad - BS/MS Degree (Santa Clara, CA)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318269709">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/efefdc3b-89a7-4835-b555-8b2bdec0592f">Mechanical Engineer New College Grad - BS/MS Degree (Santa Clara, CA)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318269405">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/51b09564-c49b-410a-a9c1-a96542db4fa4">Process Engineer New College Grad - BS/MS Degree (Santa Clara, CA)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318269579">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/30736407-4828-4f24-a676-f9e2888899e1">ASIC Floorplan Design Engineer - New College Grad 2026</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397488368">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/501283e3-5aa0-47bd-8901-df316c81b0d9">Entry Level NVM Reliability Lab Engineer</a></td>
+<td>Austin (Oakhill, Office), United States of America</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-NVM-Reliability-Lab-Engineer_R-10066302">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Cesiumastro</strong></td>
+<td><a href="https://trueinterview.io/jobs/52d02fe5-81b0-4e0b-b675-96e97f9e2341">Electrical Engineer I - SATCOM</a></td>
+<td>Westminster, CO</td>
+<td align="center"><a href="https://jobs.lever.co/CesiumAstro/86c0ccc6-3348-4830-a8bd-dd532938a5bc/apply">Apply</a></td>
+<td align="center">30 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/784b73ce-58f0-4adb-8584-685ef397bdf2">New College Grad - Product Test Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44247226">Apply</a></td>
+<td align="center">30 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Dominion Dynamics</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e487313-9632-4997-868d-e21e84b3ee24">Autonomous Collaborative Platform (ACP) - General Interest</a></td>
+<td>Montreal, QC<br/>Ottawa or Toronto</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/dominion%20dynamics/eb286335-8913-490a-8abe-079e53d011c8/application">Apply</a></td>
+<td align="center">29 Aug 2026</td>
 </tr>
 </tbody>
 </table>

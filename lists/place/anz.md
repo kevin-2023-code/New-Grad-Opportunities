@@ -2,7 +2,7 @@
 
 # 🇦🇺 Sydney, Melbourne & Aotearoa
 
-**9 open roles.**
+**10 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -81,6 +81,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Melbourne, Victoria, Australia<br/>Warrington Fire - Melbourne Lab</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5417816008">Apply</a></td>
 <td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mako</strong></td>
+<td><a href="https://trueinterview.io/jobs/1de4b7f6-e184-43e3-a256-14812299d0f4">Graduate Software Engineer, Sydney</a></td>
+<td>Sydney<br/>Mako Sydney</td>
+<td align="center"><a href="https://www.mako.com/opportunities/job-listing/8654611002?gh_jid=8654611002">Apply</a></td>
+<td align="center">1 Sep 2026</td>
 </tr>
 </tbody>
 </table>

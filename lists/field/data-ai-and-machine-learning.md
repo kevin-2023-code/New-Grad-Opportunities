@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**133 open roles.** 81 in the United States & Canada · 52 elsewhere in the world.
+**143 open roles.** 87 in the United States & Canada · 56 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -584,6 +584,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/handshake/4dcdfc01-076f-43f3-9bed-1acafd2c1cfa/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
+<tr>
+<td><strong>Goldman Sachs</strong></td>
+<td><a href="https://trueinterview.io/jobs/210e985e-9d74-4f0b-bb75-ecdf3c28f196">The Core Engineering-L2-New York-Associate-Project Management</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3002/job/179775">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Foray Bioscience</strong></td>
+<td><a href="https://trueinterview.io/jobs/45b18650-fbd8-4b71-9a96-f023d07a5b1a">Foray Bioscience / Software Engineer, Data &amp; ML / On-Site (Cambridge, MA) / Full Time / $105,000–$130,000 + equity</a></td>
+<td>On-Site (Cambridge, MA)</td>
+<td align="center"><a href="https://jobs.polymer.co/foray-bioscience/41044?source=Hacker%20News">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intercom</strong></td>
+<td><a href="https://trueinterview.io/jobs/7533968e-53fb-40e8-a43e-997fe4227d60">Sales Operations Analyst</a></td>
+<td>San Francisco, California</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/intercom/jobs/8146103">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff7fcb7f-30b0-40d7-a473-28cbde9989c4">Associate Scientist, Data I</a></td>
+<td>North Chicago, IL, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014999256-associate-scientist-data-i?oga=true">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Noodle</strong></td>
+<td><a href="https://trueinterview.io/jobs/979a4941-886f-4530-ba06-8a51f8a14543">Prompt Systems Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.lever.co/noodle/febb7056-ce75-41d9-a8e2-5755aa1d6579/apply">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/01178681-cf63-43b6-87b3-080ed18e840f">AI Security Associate Manager</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4709765006?gh_jid=4709765006">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -959,6 +1001,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brazil<br/>Londrina</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/platformscience/jobs/7984695003">Apply</a></td>
 <td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Klassif.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/729baaa8-e10c-4b1d-8f52-dfbbdf98876c">Klassif.ai / ML/AI Engineer / Hybrid (Leuven, Belgium; remote 3 days/week)</a></td>
+<td>Hybrid (Leuven, Belgium<br/>remote 3 days/week)</td>
+<td align="center"><a href="https://klassif.ai/careers/ai-ml-engineer">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/bdc58b68-047f-4b96-98d0-16ad95416cb1">2027 Data &amp; AI - Full Time Analyst - London, Glasgow</a></td>
+<td>LONDON, LONDON, United Kingdom</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774755">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Bees</strong></td>
+<td><a href="https://trueinterview.io/jobs/55acc514-6afc-4fc6-94a4-dd069385d853">Intermediate Data Scientist - Bees Data</a></td>
+<td>Campinas, São Paulo, Brazil<br/>Campinas, Brazil</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/bees/jobs/8690822002">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Monks</strong></td>
+<td><a href="https://trueinterview.io/jobs/3598b734-2906-4dd4-957d-48147e5c9219">AI Product Owner (banco de talentos)</a></td>
+<td>Mexico City</td>
+<td align="center"><a href="https://www.monks.com/careers/6175775004/job?gh_jid=6175775004">Apply</a></td>
+<td align="center">31 Aug 2026</td>
 </tr>
 </tbody>
 </table>

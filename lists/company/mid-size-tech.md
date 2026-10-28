@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**36 open roles.** 25 in the United States & Canada · 11 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**39 open roles.** 28 in the United States & Canada · 11 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -191,6 +191,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, WA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/handshake/4dcdfc01-076f-43f3-9bed-1acafd2c1cfa/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cerebras Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/0eab0c7b-be22-4bf1-9934-ae59f2a571b7">Application Security Engineer</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cerebras/91bc61c1-29db-4a47-817d-30e921064af5">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mapbox</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d2f9be2-ecff-4866-817d-7aa0d579e795">IT Administrator</a></td>
+<td>Mapbox US</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mapbox/5eb5480d-b457-4ce9-8f12-6292a2a402df/application">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Everlaw</strong></td>
+<td><a href="https://trueinterview.io/jobs/68f23bcd-6565-4972-8533-7acfdf65caa2">Software Engineer I</a></td>
+<td>Oakland, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/everlaw/jobs/4705236006">Apply</a></td>
+<td align="center">31 Aug 2026</td>
 </tr>
 </tbody>
 </table>

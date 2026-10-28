@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**12 open roles.** 9 in the United States & Canada · 3 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**14 open roles.** 11 in the United States & Canada · 3 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -79,6 +79,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>North Chicago, IL, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990015064842-analyst-business-systems-ai-automation-rpa?oga=true">Apply</a></td>
 <td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Tebra</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b45db18-7cee-4171-a0da-71e9c1490397">Software Engineer I</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tebra/jobs/4726985005">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff7fcb7f-30b0-40d7-a473-28cbde9989c4">Associate Scientist, Data I</a></td>
+<td>North Chicago, IL, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014999256-associate-scientist-data-i?oga=true">Apply</a></td>
+<td align="center">1 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**69 open roles.** 62 in the United States & Canada · 7 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**72 open roles.** 65 in the United States & Canada · 7 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -450,6 +450,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Elgin, IL</td>
 <td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Elgin-IL/Systems-Engineer---EEC-Si_R64858">Apply</a></td>
 <td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Dolby</strong></td>
+<td><a href="https://trueinterview.io/jobs/122d1fe2-84f7-4b93-ad4f-9b333fbc4ea5">Information Security Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://4dayweek.io/job/information-security-engineer-at-dolby-79d9c200">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Greenzie</strong></td>
+<td><a href="https://trueinterview.io/jobs/96bfb072-b733-4aaf-a8dc-365d0a453288">Greenzie / Robotics Software Engineer (Early Career + Experienced) / Atlanta, GA / ONSITE/HYBRID / Full-time /</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://greenzie.applytojob.com/apply">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/a69b716d-c261-4588-a4de-af4a4ba7f8b6">Electrical Design Engineer Graduate</a></td>
+<td>Spring, Texas, United States of America<br/>Chippewa Falls, Wisconsin, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Design-Engineer-Graduate_1213429-1">Apply</a></td>
+<td align="center">2 Sep 2026</td>
 </tr>
 </tbody>
 </table>

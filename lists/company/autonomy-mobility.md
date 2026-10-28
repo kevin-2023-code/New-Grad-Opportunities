@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**31 open roles.** 25 in the United States & Canada · 6 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**35 open roles.** 29 in the United States & Canada · 6 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -191,6 +191,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Foster City, CA</td>
 <td align="center"><a href="https://jobs.lever.co/zoox/6e8794f4-7098-4ba2-a04c-938a1096e91b/apply">Apply</a></td>
 <td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Applied intuition</strong></td>
+<td><a href="https://trueinterview.io/jobs/c07a8afc-d024-409f-a110-6d519d5d137d">Cybersecurity Software Engineer - New Grad (December 2027)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/84351134-2806-48fb-aede-9b6c7b765041">Forward Deployed Engineer - New Grad (December 2026)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/385d5cf4-23ee-4cb8-99fc-e29e6ac36bcb">Manufacturing Engineer- Body Shop</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68021">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/9102db68-a373-44ba-bc2a-b671991f4ff3">Embedded Software Engineer - Drive Systems</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/ea3fbfaf-588b-434a-9a5a-c61edc731a40/apply">Apply</a></td>
+<td align="center">31 Aug 2026</td>
 </tr>
 </tbody>
 </table>

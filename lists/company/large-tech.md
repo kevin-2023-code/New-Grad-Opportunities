@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**77 open roles.** 62 in the United States & Canada · 15 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**81 open roles.** 66 in the United States & Canada · 15 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -450,6 +450,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA<br/>London, UK</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/c442eab0-b8b4-40f6-b0f2-0fc91aea294a/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>BlackBerry</strong></td>
+<td><a href="https://trueinterview.io/jobs/75c39006-c32a-413d-a370-766e850cd1f2">QNX Open Source Software Developer (New Graduate/Graduate)</a></td>
+<td>Ottawa, Ontario</td>
+<td align="center"><a href="https://bb.wd3.myworkdayjobs.com/BlackBerry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Dolby</strong></td>
+<td><a href="https://trueinterview.io/jobs/122d1fe2-84f7-4b93-ad4f-9b333fbc4ea5">Information Security Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://4dayweek.io/job/information-security-engineer-at-dolby-79d9c200">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>PagerDuty</strong></td>
+<td><a href="https://trueinterview.io/jobs/06bdc96f-5a5f-4230-b094-e0f363257634">Site Reliability Engineer I</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/pagerduty/jobs/6162484004">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/7accbf10-70d9-4110-85b7-1afe6ae277fc">Systems Test Engineer, End-to-End Validation | Consumer Devices</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/openai/393b88d7-1fbc-466a-9108-a7c1bafeb8d8/application">Apply</a></td>
+<td align="center">1 Sep 2026</td>
 </tr>
 </tbody>
 </table>

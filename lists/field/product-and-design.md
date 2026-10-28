@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**40 open roles.** 29 in the United States & Canada · 11 elsewhere in the world.
+**43 open roles.** 31 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -220,6 +220,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/runlayer/20c5c775-fb11-47ea-a97e-465cfc6ab13d/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
+<tr>
+<td><strong>Infuse</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a83a183-ea26-420d-9a7e-12fbb5ca84e2">Graphic Designer, Data Visualization (Remote, Contract)</a></td>
+<td>Poland<br/>North Macedonia<br/>Italy<br/>+20 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/infuse/jobs/4730267005">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Caseware</strong></td>
+<td><a href="https://trueinterview.io/jobs/7aa67149-7bf7-4fbc-a38c-6f99e48d72f2">Product Analyst — Growth &amp; GTM</a></td>
+<td>Toronto, ON</td>
+<td align="center"><a href="https://jobs.lever.co/caseware/35366087-6670-40a2-ba0e-7eee4d4a8db0/apply">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -307,6 +321,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/3b9407bf-7f12-424a-b86e-8159db8fec44">Product Designer</a></td>
 <td>Europe<br/>Americas</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/resend/b4d679e8-f41b-4c59-b091-dc5581345fcb/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Tldraw</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b7411b5-f3ac-4d97-9e56-577dda958f45">Design Engineer</a></td>
+<td>London Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/tldraw/c52007ee-bac0-4176-a5f0-48fe6e1fe854/application">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 </tbody>

@@ -32,23 +32,23 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-28 06:24 UTC_
+_Last updated: 2026-10-28 07:16 UTC_
 
-**630 open new-grad roles** from **314 employers** · **64 posted in the last 7 days** · refreshed hourly
+**690 open new-grad roles** from **344 employers** · **64 posted in the last 7 days** · refreshed hourly
 
-### Browse 630 new-grad roles by field
+### Browse 690 new-grad roles by field
 
-💻 **[Software Engineering](#-software-engineering)** (215)
+💻 **[Software Engineering](#-software-engineering)** (239)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (81)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (87)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (234)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (256)
 
-📱 **[Product & Design](#-product--design)** (29)
+📱 **[Product & Design](#-product--design)** (31)
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (3)
 
-🧰 **[IT & Support](#-it--support)** (68)
+🧰 **[IT & Support](#-it--support)** (74)
 
 ---
 
@@ -64,13 +64,13 @@ _Last updated: 2026-10-28 06:24 UTC_
 
 _Counts are new-grad roles in the United States & Canada. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (191)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (118)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (62)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (62)](lists/company/large-tech.md) · [🚀 Aerospace & defence (48)](lists/company/aerospace-defense.md) · [🧠 AI labs & AI infrastructure (34)](lists/company/ai.md) · [🏢 Enterprise & business software (33)](lists/company/enterprise-saas.md) · [📐 Engineering & architecture firms (32)](lists/company/engineering-services.md) · [🧾 IT services & consulting (31)](lists/company/it-consulting.md) · [🚗 Autonomy, automotive & mobility (25)](lists/company/autonomy-mobility.md) · [+13 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (201)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (128)](lists/company/semiconductors.md) · [🏗️ Large tech (1,000–9,999) (66)](lists/company/large-tech.md) · [🖥️ Hardware, devices & networking (65)](lists/company/hardware-devices.md) · [🚀 Aerospace & defence (53)](lists/company/aerospace-defense.md) · [🧠 AI labs & AI infrastructure (35)](lists/company/ai.md) · [🏢 Enterprise & business software (35)](lists/company/enterprise-saas.md) · [📐 Engineering & architecture firms (34)](lists/company/engineering-services.md) · [🧾 IT services & consulting (34)](lists/company/it-consulting.md) · [🚗 Autonomy, automotive & mobility (29)](lists/company/autonomy-mobility.md) · [+13 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (99)](lists/role/software-engineer.md) · [Hardware Engineer (39)](lists/role/hardware-engineer.md) · [Data Engineer (20)](lists/role/data-engineer.md) · [Machine Learning Engineer (17)](lists/role/machine-learning-engineer.md) · [Full-Stack Engineer (14)](lists/role/full-stack-engineer.md) · [Security Engineer (13)](lists/role/security-engineer.md) · [Data Analyst (12)](lists/role/data-analyst.md) · [Data Scientist (11)](lists/role/data-scientist.md) · [Embedded Engineer (11)](lists/role/embedded-engineer.md) · [AI Engineer (10)](lists/role/ai-engineer.md) · [+8 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (109)](lists/role/software-engineer.md) · [Hardware Engineer (43)](lists/role/hardware-engineer.md) · [Data Engineer (20)](lists/role/data-engineer.md) · [Machine Learning Engineer (18)](lists/role/machine-learning-engineer.md) · [Security Engineer (17)](lists/role/security-engineer.md) · [Full-Stack Engineer (14)](lists/role/full-stack-engineer.md) · [Embedded Engineer (13)](lists/role/embedded-engineer.md) · [Data Analyst (12)](lists/role/data-analyst.md) · [Data Scientist (12)](lists/role/data-scientist.md) · [AI Engineer (10)](lists/role/ai-engineer.md) · [+8 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (159)](lists/place/bay-area.md) · [🗽 New York City (52)](lists/place/new-york.md) · [🌴 Los Angeles & Orange County (46)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (36)](lists/place/boston.md) · [🎸 Austin (34)](lists/place/austin.md) · [🌲 Seattle & Puget Sound (29)](lists/place/seattle.md) · [🍁 Toronto, Waterloo & Ottawa (27)](lists/place/toronto.md) · [🌧️ Portland, Boise & Spokane (26)](lists/place/pacific-northwest.md) · [🏛️ Washington DC & Northern Virginia (19)](lists/place/washington-dc.md) · [🌵 Phoenix & Arizona (18)](lists/place/phoenix.md) · [+9 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (176)](lists/place/bay-area.md) · [🗽 New York City (57)](lists/place/new-york.md) · [🌴 Los Angeles & Orange County (50)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (39)](lists/place/boston.md) · [🎸 Austin (36)](lists/place/austin.md) · [🍁 Toronto, Waterloo & Ottawa (30)](lists/place/toronto.md) · [🌲 Seattle & Puget Sound (29)](lists/place/seattle.md) · [🌧️ Portland, Boise & Spokane (27)](lists/place/pacific-northwest.md) · [🏛️ Washington DC & Northern Virginia (21)](lists/place/washington-dc.md) · [🌵 Phoenix & Arizona (18)](lists/place/phoenix.md) · [+9 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (64)](lists/new-this-week.md) · [🌐 Remote (52)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (64)](lists/new-this-week.md) · [🌐 Remote (57)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -634,7 +634,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 215.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 239.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -1123,7 +1123,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 66 of 81.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 66 of 87.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -1675,7 +1675,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 234.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
+**Showing 75 of 256.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
 
 ## 📱 Product & Design
 
@@ -1725,7 +1725,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </table>
 
 <details>
-<summary>Show 24 more Product & Design roles posted earlier</summary>
+<summary>Show 26 more Product & Design roles posted earlier</summary>
 
 <table>
 <thead>
@@ -1898,6 +1898,20 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/00b8b2a1-70fb-48e7-b38f-db47607bbd09">Brand Designer</a></td>
 <td>Hybrid NYC / Remote (US Timezones)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/runlayer/20c5c775-fb11-47ea-a97e-465cfc6ab13d/application">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
+<tr>
+<td><strong>Infuse</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a83a183-ea26-420d-9a7e-12fbb5ca84e2">Graphic Designer, Data Visualization (Remote, Contract)</a></td>
+<td>Poland<br/>North Macedonia<br/>Italy<br/>+20 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/infuse/jobs/4730267005">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
+<tr>
+<td><strong>Caseware</strong></td>
+<td><a href="https://trueinterview.io/jobs/7aa67149-7bf7-4fbc-a38c-6f99e48d72f2">Product Analyst — Growth &amp; GTM</a></td>
+<td>Toronto, ON</td>
+<td align="center"><a href="https://jobs.lever.co/caseware/35366087-6670-40a2-ba0e-7eee4d4a8db0/apply">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
 </tbody>
@@ -2370,7 +2384,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 56 of 68.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
+**Showing 56 of 74.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
 
 <!-- LISTINGS:END -->
 ---

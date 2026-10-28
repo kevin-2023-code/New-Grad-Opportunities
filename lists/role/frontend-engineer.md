@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**7 open roles.** 5 in the United States & Canada · 2 elsewhere in the world.
+**8 open roles.** 6 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,6 +51,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>Hybrid</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/selffinancial/jobs/6181750004">Apply</a></td>
 <td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>FitMate</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1f7b234-b54b-447a-bc88-8ecfe454f01e">FitMate / Frontend Engineer (Junior) / REMOTE (US) / $80-120k + bonus</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers.fitmatecoach.com/roles/junior-frontend-developer">Apply</a></td>
+<td align="center">2 Sep 2026</td>
 </tr>
 </tbody>
 </table>
