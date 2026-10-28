@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**19 open roles.**
+**18 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,17 +20,17 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/jobs/38ae0b62-9325-4e3d-b969-237ef58f19ed">Forward Deployed Engineer</a></td>
+<td>Warsaw, Mazowieckie, Poland<br/>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476531030/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Wise</strong></td>
 <td><a href="https://trueinterview.io/jobs/b88a0a5d-f1ad-4062-919e-0f420c996970">Technical Support Engineer (Enterprise)</a></td>
 <td>Tallinn, Harjumaa, Estonia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4448284270/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Electronic Arts (EA)</strong></td>
-<td><a href="https://trueinterview.io/jobs/8b422957-0168-4d30-b5b5-57791a902349">Technical Animator @ EA Sports FC</a></td>
-<td>Bucharest, Romania</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483887239/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -108,13 +108,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/bf5d4964-3d2c-4ef7-a150-5fde8d07f8b7">RPA Developer Interim</a></td>
 <td>Gdańsk, Poland</td>
 <td align="center"><a href="https://www.hapag-lloyd.com/en/company/career/vacancies/jobsearch.html">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TechMagic</strong></td>
-<td><a href="https://trueinterview.io/jobs/8b68e28a-83d4-4673-92b3-c62f5e6cf979">Middle Strong C++ developer (remote)</a></td>
-<td>Kraków, Poland</td>
-<td align="center"><a href="https://techmagic.talentlyft.com/o/clUwagKae0">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>

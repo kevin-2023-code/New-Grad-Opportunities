@@ -2,7 +2,7 @@
 
 # 🇮🇪 Dublin & Ireland
 
-**55 open roles.** 1 in the United States & Canada · 54 elsewhere in the world.
+**51 open roles.** 1 in the United States & Canada · 50 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -107,14 +107,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Haemonetics</strong></td>
-<td><a href="https://trueinterview.io/jobs/74c7fdc0-ddee-47ef-8534-0ca8248ba88c">Supplier Quality Engineer - Galway</a></td>
-<td>Galway, County Galway, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476329409/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Stantec</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5c9aef2c-0f90-4eca-82e3-55d0d6237cf7">Graduate Environmental Engineer - 2027</a></td>
 <td>Galway, County Galway, Ireland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4457433167/">Apply</a></td>
@@ -181,13 +174,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b81ac61f-9b9b-4c18-928f-e3f7bfebc1aa">Hardware Test Engineer - Contract</a></td>
 <td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484462950/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mane Contract Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/2273397d-b222-4c2e-91d2-56c970285c61">Electrical Design Engineer</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482521497/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -359,13 +345,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Software Placements</strong></td>
-<td><a href="https://trueinterview.io/jobs/40b368c9-4c95-46b8-8196-10b0d7a45729">System Engineer</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476796013/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Cpl</strong></td>
 <td><a href="https://trueinterview.io/jobs/8b45030f-4574-43ed-8397-13d3e0ca6553">Mechanical Design Engineer</a></td>
 <td>Limerick, Ireland</td>
@@ -398,13 +377,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/81379b5f-00ea-41d6-9b0f-09e7f8f57ff7">Data Scientist</a></td>
 <td>Galway, Ireland</td>
 <td align="center"><a href="https://planet.wd3.myworkdayjobs.com/en-US/Planet/job/Galway---Ireland/Data-Scientist_JR12383">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e1201b5-e0aa-4a71-911f-79636d532422">GPU HLM Engineer - Cork, Ireland</a></td>
-<td>Cork, Ireland</td>
-<td align="center"><a href="https://app.eightfold.ai/careers/job/446721640924?domain=qualcomm.com">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>

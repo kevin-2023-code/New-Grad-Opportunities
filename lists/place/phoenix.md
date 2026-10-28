@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**56 open roles.**
+**57 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,17 +18,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Solari, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/56f9ce40-373f-4d42-823b-29da9a42e73c">Cybersecurity Analyst</a></td>
-<td>Tempe, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484491314/">Apply</a></td>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/f41b03e4-8585-43d4-84ac-b8bed6c8bf30">Civil Design Engineer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483820959/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Verra Mobility</strong></td>
-<td><a href="https://trueinterview.io/jobs/8c298f44-2b1a-4ccb-85dc-54f60479a3ec">Software Developer</a></td>
+<td><strong>Komatsu</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce2dcbc4-ea39-4b9f-b378-b8de6b99edb9">Software Engineer II 10202825</a></td>
 <td>Mesa, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476393627/">Apply</a></td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467953214/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Smart IT Frame LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/43238970-c160-4b55-b96d-3338bcd86d32">Service Desk Engineer</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483883928/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

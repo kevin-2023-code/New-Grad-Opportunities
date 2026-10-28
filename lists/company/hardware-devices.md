@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**86 open roles.** 70 in the United States & Canada · 16 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**88 open roles.** 71 in the United States & Canada · 17 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/e27cef64-ee09-4751-a2c3-ab3e55ed71c2">Service Desk Representative (Hybrid)</a></td>
+<td>Schaumburg, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484480801/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/dae75af2-1456-40a7-8ff6-fda3eae74aef">Technical Support Analyst (Hybrid)</a></td>
 <td>Allen, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476358853/">Apply</a></td>
@@ -527,7 +534,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f9fa57b-4474-48a1-af74-b52365572496">Leader, ASIC Engineering</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4445963756/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/d195d51c-44a5-422d-b0db-e76872a1c2a0">IP Design Verification Engineer</a></td>
 <td>Israel</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692205">Apply</a></td>
@@ -569,11 +583,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>QuantWare</strong></td>
-<td><a href="https://trueinterview.io/jobs/8b8dfb84-77ce-4817-8328-903e98431c99">R&amp;D - Software Engineer</a></td>
-<td>Delft, Netherlands</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/quantware/1e458e98-f46e-428d-aeca-427bfa328624">Apply</a></td>
-<td align="center">27 Oct 2026</td>
+<td><strong>NEURA Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/627fb602-2420-463a-b1c8-75f90d54c7f3">Teamlead AI Engineering - NEURAGym (Mensch)</a></td>
+<td>Aachen, North Rhine-Westphalia, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476758635/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Apple</strong></td>

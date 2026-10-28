@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**75 open roles.** 2 in the United States & Canada · 73 elsewhere in the world.
+**77 open roles.** 2 in the United States & Canada · 75 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -468,6 +468,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5b5de386-f834-43f5-84fa-af2cce227c36">Teradata Developer - Banking</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://apply.workable.com/j/083477FC6C">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tech Aalto Pte ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f6abed7-70de-4282-80a5-e53d361a9ab2">Data Scientist</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://recruitcrm.io/apply/17931812616970127517KVj?new=yes">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b8769f71-05b7-402c-b1d1-b29d1c75811c">ML/AI Engineer</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://recruitcrm.io/apply/17931815827260127517IRX?new=yes">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🇳🇱 Amsterdam & the Benelux
 
-**68 open roles.**
+**67 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -479,13 +479,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4f1e0023-e306-482f-98af-a76a9b776819">Business Developer - Credits Data Domain (Hay 11)</a></td>
 <td>Amsterdam, Netherlands</td>
 <td align="center"><a href="https://www.werkenbijabnamro.nl/vacature/9702/business-developer-credits-data-domain-hay-11">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>QuantWare</strong></td>
-<td><a href="https://trueinterview.io/jobs/8b8dfb84-77ce-4817-8328-903e98431c99">R&amp;D - Software Engineer</a></td>
-<td>Delft, Netherlands</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/quantware/1e458e98-f46e-428d-aeca-427bfa328624">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
