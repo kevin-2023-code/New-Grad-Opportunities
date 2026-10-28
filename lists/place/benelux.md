@@ -2,7 +2,7 @@
 
 # 🇳🇱 Amsterdam & the Benelux
 
-**91 open roles.**
+**90 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -150,13 +150,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/01e7adc3-ff2f-4d5f-9aeb-1511a1d258e8">Experimental Quantum Engineer</a></td>
 <td>Delft, South Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484490408/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rabobank</strong></td>
-<td><a href="https://trueinterview.io/jobs/86734ae0-5f6c-4ac6-b65a-a19f35d51ff4">Dev Ops Engineer C Back End</a></td>
-<td>Utrecht, Utrecht, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484484756/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**98 open roles.** 44 in the United States & Canada · 54 elsewhere in the world.
+**105 open roles.** 44 in the United States & Canada · 61 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Procter &amp; Gamble</strong></td>
+<td><a href="https://trueinterview.io/jobs/25cd5bde-c450-499b-9d91-0cc284399c33">Digital Product Owner</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465911704/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>RSM US LLP</strong></td>
 <td><a href="https://trueinterview.io/jobs/723995de-4887-46f8-be09-c2ce9f2b25e8">Product Owner (AI-enabled tools)</a></td>
@@ -318,13 +325,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/redwoodsoftware/jobs/4284505009">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Hertz</strong></td>
-<td><a href="https://trueinterview.io/jobs/8487fa36-88c6-46e5-8063-232f7043d6a7">Product Owner - Commercial Analysis &amp; Data Visualization</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39184">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -338,10 +338,59 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Bechtle</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea9ba170-ea55-4ca3-a20e-97735cf9f1f9">Product Owner Digital Marketplace (m/w/d)</a></td>
+<td>Neckarsulm, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482552171/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vaillant Deutschland</strong></td>
+<td><a href="https://trueinterview.io/jobs/dbc9c921-36d9-4aa7-82a7-15d554276b16">Product Owner / IT Projektmanager Planungstools (m/w/d)</a></td>
+<td>Remscheid, North Rhine-Westphalia, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484716402/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DKB Code Factory GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/907efb4b-9cc0-4ffb-9bfd-590db8f3f1b5">Product Owner - Pricing &amp; Billing Engine (x/f/m)</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482538557/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d8a3a33b-4375-47fa-99d7-842c10652dfd">Product Owner - Shop (x/f/m)</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482526898/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BEUMER Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3099fa3-8f04-48ec-9b6e-4ed6eae56348">Technical Product Owner - Mobile Robotics in Logistic Systems (m/w/d)</a></td>
+<td>Beckum, North Rhine-Westphalia, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4439404975/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Health Service Executive</strong></td>
 <td><a href="https://trueinterview.io/jobs/29249570-ad8a-49db-a5ba-b588c0bb3a24">Grade VII Notify Digital Communications Product Owner TT7126</a></td>
 <td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482529705/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kuehne+Nagel</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc84109d-6eb2-4822-8d31-27dcd4bfa5fe">Product Owner B2B Portal (f/m/d)</a></td>
+<td>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476386764/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LGT Capital Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/b58da681-dcca-41be-a0a3-36dbf3b86127">Product Owner/Business Analyst – Enterprise Data &amp; Solutions</a></td>
+<td>Pfäffikon, Schwyz, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484712002/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

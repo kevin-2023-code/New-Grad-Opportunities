@@ -2,7 +2,7 @@
 
 # 🇦🇺 Sydney, Melbourne & Aotearoa
 
-**54 open roles.**
+**59 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,55 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>EY</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2c8d956-5773-46d5-90d0-48866b06abff">EY External Security Vetting Quality Assurance Specialist</a></td>
+<td>Melbourne, Victoria, Australia<br/>Brisbane, Queensland, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465269259/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fugro</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee288fff-4827-49dd-bde7-1b0f5d4f3b05">IT Support Engineer - Remote Operations &amp; Connectivity</a></td>
+<td>Perth, Western Australia, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452925501/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aurecon</strong></td>
+<td><a href="https://trueinterview.io/jobs/fbeefcb3-3617-477f-a9a9-41bb2ab13f5a">Geotechnical Engineer</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475172206/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f1b75734-3658-4042-8021-dbb1fc0c1b57">Structural Engineer</a></td>
+<td>Brisbane, Queensland, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475174112/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kinexus Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/416ebf6d-64e3-437d-9187-72710d78badf">Citrix Systems Administrator (TSPV)</a></td>
+<td>Canberra, Australian Capital Territory, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484715431/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/59f4da8f-3eb8-4592-8bae-f7e48632ae2b">Infrastructure Support Engineer, IREO</a></td>
+<td>Melbourne, Victoria, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476707793/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Boeing</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0a4df10-1ea0-4628-8821-db61f4ab3510">Product Security Engineer (Secure Software)</a></td>
+<td>Brisbane, Australia<br/>Brisbane, Queensland, Australia</td>
+<td align="center"><a href="https://recruit.boeing.com.au/jobtools/jncustomsearch.viewFullSingle?in_organid=14599&amp;in_jncounter=226716392&amp;in_site=Indeed">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Bureau of Meteorology</strong></td>
 <td><a href="https://trueinterview.io/jobs/a4f0d41f-3a12-46df-bb86-8a0218ef8940">Tooling, Platform and DevOps Engineer</a></td>
@@ -258,13 +307,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Boeing</strong></td>
-<td><a href="https://trueinterview.io/jobs/f0a4df10-1ea0-4628-8821-db61f4ab3510">Product Security Engineer (Secure Software)</a></td>
-<td>Brisbane, Australia</td>
-<td align="center"><a href="https://recruit.boeing.com.au/jobtools/jncustomsearch.viewFullSingle?in_organid=14599&amp;in_jncounter=226716392&amp;in_site=Indeed">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Leidos</strong></td>
 <td><a href="https://trueinterview.io/jobs/6dbd73d5-d139-4079-bdd8-ea8c4aca672f">Midrange Engineer</a></td>
 <td>Melbourne, Australia</td>
@@ -389,13 +431,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brisbane, Queensland, Australia</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95839">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Jensen Hughes</strong></td>
-<td><a href="https://trueinterview.io/jobs/12b32e3a-25c7-47d7-9a85-7f81f42ea8ee">Graduate - LAB Fire Testing Engineer</a></td>
-<td>Melbourne, Victoria, Australia<br/>Warrington Fire - Melbourne Lab</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5417816008">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

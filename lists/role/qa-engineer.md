@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**92 open roles.** 64 in the United States & Canada · 28 elsewhere in the world.
+**103 open roles.** 72 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>DMA - DuCharme, McMillen &amp; Associates, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d007839-f6bf-4345-9549-3607677e37d4">Software QA Engineer</a></td>
-<td>Lisle, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459005058/">Apply</a></td>
+<td><strong>Butterball</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c8e3344-7e11-4f31-912f-9d01f9e66701">1st Shift- Quality Assurance Tech</a></td>
+<td>Mount Olive, NC<br/>Carthage, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465583810/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Insperity</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c5fa06f-76ad-41e3-afa1-a2c64fee92bb">Software Development Engineer in Test</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457402277/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>T2 Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1375289-8930-436a-a3a1-1c26ea83668b">Quality Assurance Automation Engineer</a></td>
+<td>Burnaby, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484706872/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Auger</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b457fcd-1732-4003-ab18-812c62ff5af4">Software Development Engineer in Test</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484722098/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FUSTIS LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/deed16fe-333a-4c8b-92af-3c0cbf23dbcb">Software Development Engineer in Test – EV Battery / BMS | Python, Pytest</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484715475/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -32,10 +60,45 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>SAIC</strong></td>
+<td><a href="https://trueinterview.io/jobs/e49e759b-61fb-47ba-9dcd-adc5a8b5ee5b">Automation Test Engineer</a></td>
+<td>Ashburn, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476586293/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Next Gen IT, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/97925d55-4f23-419f-a763-9aa7cd4ca6b2">Software Engineer in Test</a></td>
+<td>Detroit, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484494858/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>RemoteHunter</strong></td>
 <td><a href="https://trueinterview.io/jobs/a4a8bb90-dd0c-4ebe-b379-cda8148c93a6">Quality Assurance Analyst</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484101572/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Air Apps</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e8ce477-4303-4ded-ab66-b543facc2fc1">Backend QA Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478630516/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apexon</strong></td>
+<td><a href="https://trueinterview.io/jobs/edfff2c5-79b5-46bd-9a40-3028b6048c58">Quality Assurance Automation Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483871855/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ICE</strong></td>
+<td><a href="https://trueinterview.io/jobs/471b6dd2-cd6e-4af4-8393-d76dbad5ee5c">Analyst, QA</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459088313/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -169,13 +232,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e54e897f-4679-491b-8225-53ac51fa60a0">QA Automation (Playwright)</a></td>
 <td>Berkeley Heights, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483881554/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apexon</strong></td>
-<td><a href="https://trueinterview.io/jobs/edfff2c5-79b5-46bd-9a40-3028b6048c58">QA (Automation + Manual)</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483871855/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -478,10 +534,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>EY</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2c8d956-5773-46d5-90d0-48866b06abff">EY External Security Vetting Quality Assurance Specialist</a></td>
+<td>Melbourne, Victoria, Australia<br/>Brisbane, Queensland, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465269259/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Abbott</strong></td>
 <td><a href="https://trueinterview.io/jobs/4079a6d4-3c5a-488f-b6da-39f9b937b08a">PQA Specialist (Quality Assurance Specialist)</a></td>
 <td>Longford, County Longford, Ireland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484711322/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ASTRELYA</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff98866d-2603-4203-b054-24d075362432">Ingénieur.e Requirements &amp; Test / QA Engineer</a></td>
+<td>Geneva, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484487935/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -517,6 +587,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/99af17fd-d71f-4ca0-91c7-0b4dc192838f">QA Engineer</a></td>
 <td>Amsterdam Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482531595/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Venteon</strong></td>
+<td><a href="https://trueinterview.io/jobs/66b1e3e1-04d9-43b0-ae9d-0093b1c7958f">Software Quality Engineer</a></td>
+<td>Detroit Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484099778/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**72 open roles.** 30 in the United States & Canada · 42 elsewhere in the world.
+**74 open roles.** 30 in the United States & Canada · 44 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Je Suis Copa</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d981b9f-6c96-4945-af99-b21202756261">Developer/DevOps Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482542604/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Air Apps</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd9a26be-1b90-45b3-8cf8-ae73c08ec760">DevOps Engineer Mobile</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481484454/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>LPL Financial</strong></td>
 <td><a href="https://trueinterview.io/jobs/6cb40035-efac-46ee-85d8-bfe55488f854">AVP DevOps Engineer</a></td>
@@ -213,20 +227,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016451376">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Consensus</strong></td>
-<td><a href="https://trueinterview.io/jobs/28dd35ae-119a-46da-8eba-4fa55133aba4">DevOps Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://4dayweek.io/job/devops-engineer-at-consensus-6bf18434">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ontic</strong></td>
-<td><a href="https://trueinterview.io/jobs/859d9f6e-22cb-46e0-8f82-fea430342c2f">Associate DevOps Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ontic/c4f5bf21-d5a9-488c-9638-631bd58de471/application">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -239,6 +239,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>People In AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebf51268-94e3-4e71-ac6d-7d2d1499cfee">DevOps Engineer</a></td>
+<td>San Diego Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484715519/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DigiTech Search</strong></td>
+<td><a href="https://trueinterview.io/jobs/9dc8e9d0-f1b0-46da-b690-b93a2383ba19">System / DevOps Engineer (Linux / Ansible / Docker / Windows)</a></td>
+<td>Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482549113/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Capgemini Engineering</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3d16495-64b7-4bd7-abff-fdbdad68b0b3">DevOps Engineer (Kubernetes Platform)</a></td>

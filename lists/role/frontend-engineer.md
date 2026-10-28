@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**46 open roles.** 29 in the United States & Canada · 17 elsewhere in the world.
+**54 open roles.** 37 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,59 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>EY</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8009b5a-25a6-4f51-993f-e415770b81c8">SDC Front End Engineer--Analyst----Raleigh, NC or Dallas, TX</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465599790/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mission Technologies, a division of HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef5d0efb-0f95-4ae0-bcbc-c5adb191b6f4">Web Developer (Engineer Software 3)</a></td>
+<td>Port Hueneme, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475132608/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alexander Chapman</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0c0301b-bff2-4c8a-bfd0-5afb58f98dd8">Frontend engineer</a></td>
+<td>Redwood City, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484720214/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RemoteHunter</strong></td>
+<td><a href="https://trueinterview.io/jobs/dfafd447-a122-4c87-8781-1c2e81db2bbc">Web Developer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483895611/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Print &amp; Pack Cambodia Showroom</strong></td>
 <td><a href="https://trueinterview.io/jobs/7038a0cf-fa64-4a58-8cdd-543108779f45">Frontend Developer</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482545545/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RemoteHunter</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba2a2df1-07ca-4f13-89eb-9c4ac608a659">Frontend Engineer - Design Systems</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484108397/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KPG99 INC</strong></td>
+<td><a href="https://trueinterview.io/jobs/148192ac-2623-4715-8310-a3c7ce88a207">Frontend Developer – Web &amp; Native (W2 Only)</a></td>
+<td>Alpharetta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484496805/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAIC</strong></td>
+<td><a href="https://trueinterview.io/jobs/d94fdbf0-3b35-4902-9c74-7c01bbe3d400">SharePoint Frontend Developer</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448848273/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -151,10 +200,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Air Apps</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9a442c1-3905-4403-b5f5-3111b84f5476">Frontend Web Developer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476052226/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>HTC Global Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/50dc849f-5e8e-4b14-802a-5d2236a3ba21">Front-End Software Engineer I</a></td>
 <td>Dearborn, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475111214/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Redwire</strong></td>
+<td><a href="https://trueinterview.io/jobs/9afa9828-2bc8-47cd-a579-6c48d7b041ff">Software Engineer, Front End (Software Engineer)</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477866518/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -212,13 +275,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Diego, CA</td>
 <td align="center"><a href="https://jobs.lever.co/blinkux/47c561a4-0757-4eaa-9416-e758a59a9c61/apply">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Self Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/b927e39e-f72b-4740-a503-4a2bff050528">Associate Software Engineer (UI)</a></td>
-<td>Austin, TX<br/>Hybrid</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/selffinancial/jobs/6181750004">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

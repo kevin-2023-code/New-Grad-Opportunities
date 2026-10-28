@@ -2,7 +2,7 @@
 
 # 🇩🇪 Berlin, Munich & Germany
 
-**69 open roles.**
+**85 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,146 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SE3 Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/afcb1d55-d69f-479f-a212-bf4f0652618a">Forward Deployed Engineer, Applied AI</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484731012/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Yorizon Cloud</strong></td>
+<td><a href="https://trueinterview.io/jobs/740124d7-efdc-4dce-a968-a8c43fe8c0c5">Plattform Engineer Observability (m/w/d)</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482540683/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Arango</strong></td>
+<td><a href="https://trueinterview.io/jobs/cad2f624-c632-4218-bb99-bbd54ad838da">C++ Engineer</a></td>
+<td>Cologne, North Rhine-Westphalia, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484717544/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>YPOG</strong></td>
+<td><a href="https://trueinterview.io/jobs/359ab135-8faa-4194-aa87-5eb10c811b0d">Microsoft 365 IT Specialist/IT Administrator (m/w/d)</a></td>
+<td>Berlin, Berlin, Germany<br/>Hamburg, Hamburg, Germany<br/>Cologne, North Rhine-Westphalia, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484717507/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SE3 Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/98622452-2c90-454b-b7e9-5d37eb7c9613">UI/UX Software Engineer</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484709978/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Exploration Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3dabb97-ba26-4972-a2d9-60fc6de61441">Software Engineer – Mission Control Software</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457494503/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BPOut GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf6d9d34-bb05-4c27-853c-6e3a2ca9ba28">Mitarbeiter Jigs&amp;Tools im Manufacturing Engineering (m/w/d) in der Luftfahrt</a></td>
+<td>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482546467/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>mamgo | Talente 🔗 Jobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/1cc5f7a4-354f-427e-b5d0-612f855eaf52">Systems Engineer (m/w/d) Hardware</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484709660/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hypersonica</strong></td>
+<td><a href="https://trueinterview.io/jobs/a92e94d7-6e0b-4495-9f86-3331392f7fc7">GNC Modelling and Simulation Engineer</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484707755/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5fe436f7-38bf-42e3-bc56-66ef9d0f06f3">Signal Processing Engineer (FPGA)</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484705770/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e0726eeb-cd68-4432-b200-93fbbbea8abf">Flight Control System Engineer</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484716086/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Celonis</strong></td>
+<td><a href="https://trueinterview.io/jobs/141f2df9-f749-460e-aaab-fa0f88414f67">Associate Deployment Engineer - Galaxy Graduate Program</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482550070/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DKB Code Factory GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/907efb4b-9cc0-4ffb-9bfd-590db8f3f1b5">Product Owner - Pricing &amp; Billing Engine (x/f/m)</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482538557/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d8a3a33b-4375-47fa-99d7-842c10652dfd">Product Owner - Shop (x/f/m)</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482526898/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Allego</strong></td>
+<td><a href="https://trueinterview.io/jobs/80c78c32-0cd8-4e8a-9ac7-cd49e93219f9">Business Developer</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4408868652/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BWI GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9ef3bb4-088a-4bb7-beac-ab16ee629270">System Engineer für Verschlüsselungsthemen - LINUX (m/w/d)</a></td>
+<td>Leipzig, Saxony, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484499377/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Enua</strong></td>
+<td><a href="https://trueinterview.io/jobs/046d1d33-2816-44ad-828a-4d63fcfbfa29">Data Analyst / Controller (w/m/d) - BI &amp; Finance</a></td>
+<td>Cologne, North Rhine-Westphalia, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483890719/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ERGO</strong></td>
+<td><a href="https://trueinterview.io/jobs/9722d94c-90de-40d7-8fc4-b5a9e272f6d6">Requirements Engineer (m/w/d)</a></td>
+<td>Düsseldorf, North Rhine-Westphalia, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476783013/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EY</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b7aa235-0809-479d-85b0-cf7108bab410">Berater Cloud Professional - Digital Engineering (w/m/d)</a></td>
+<td>Hamburg, Hamburg, Germany<br/>Cologne, North Rhine-Westphalia, Germany<br/>Berlin, Berlin, Germany<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474456059/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kuehne+Nagel</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc84109d-6eb2-4822-8d31-27dcd4bfa5fe">Product Owner B2B Portal (f/m/d)</a></td>
+<td>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476386764/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>catchHR Jobs</strong></td>
 <td><a href="https://trueinterview.io/jobs/6e9e29c1-a3f4-4f9a-a606-3196d12edeec">Project Engineer / Process Engineer (m/w/d)</a></td>
@@ -59,13 +199,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e54d772b-9d33-438f-adaa-e638c508e2ec">Automation Engineer (gn) Industrial Robotics &amp; Software Development</a></td>
 <td>Dresden, Saxony, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470473054/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>EY</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b7aa235-0809-479d-85b0-cf7108bab410">Berater Cloud Professional - Digital Engineering (w/m/d)</a></td>
-<td>Hamburg, Hamburg, Germany<br/>Cologne, North Rhine-Westphalia, Germany<br/>Eschborn, Hesse, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474456059/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -328,6 +461,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Carrier</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc621653-8cf9-4084-8e51-efde4c365fae">Requirements Engineer</a></td>
+<td>Dresden, Saxony, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482662174/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Helsing</strong></td>
 <td><a href="https://trueinterview.io/jobs/c4baac8d-92f0-42b6-a53b-98e419f25fd0">Systems Engineer (Avionics)</a></td>
 <td>Munich, Bavaria, Germany</td>
@@ -473,34 +613,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/peec/369f8742-e3ca-46b5-b816-dcd5b0d8ab01/application">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Reonic</strong></td>
-<td><a href="https://trueinterview.io/jobs/3921b778-3db0-4339-b56b-80e34b22911c">Venture Development - New Products UK Market (AI x Greentech) (m/f/d)</a></td>
-<td>Berlin</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/reonic/8d856793-db56-41a2-a4f0-3ec233de8a80/application">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Händlerbund</strong></td>
-<td><a href="https://trueinterview.io/jobs/25092c15-df55-45b6-9277-ef1572e73fc7">Backend Developer</a> 🌐</td>
-<td>Remote — Germany<br/>Leipzig, Germany, Remote</td>
-<td align="center"><a href="https://4dayweek.io/job/backend-developer-at-handlerbund-7309cc6a">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Awin</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c9d7c81-27a8-46d7-948a-ce91db8d2a59">Application Security Engineer</a></td>
-<td>Berlin, Germany</td>
-<td align="center"><a href="https://4dayweek.io/job/application-security-engineer-at-awin-7b5039da">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ruby Hotels</strong></td>
-<td><a href="https://trueinterview.io/jobs/a0c95203-82ae-4476-aacf-023580697ec5">Specialist Commercial Systems (m/f/d)</a></td>
-<td>Munich<br/>Corporate Office</td>
-<td align="center"><a href="http://job-boards.eu.greenhouse.io/rubyhotels/jobs/4968087101?gh_jid=4968087101">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

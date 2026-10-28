@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**41 open roles.** 33 in the United States & Canada · 8 elsewhere in the world.
+**39 open roles.** 31 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,6 +25,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/526853f1-4365-457c-b522-cfed030c56f1">Robotics Research Engineer - Robot Simulation and Evaluation</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455486152/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Eli Lilly and Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/75c772b0-949d-4ede-b670-b8e1329a8aec">Postdoctoral Research Scientist: Receptor-Mediated Enhancement of AAV Gene Delivery</a></td>
 <td>San Diego, CA</td>
@@ -36,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f39d8ad3-43d3-4879-88f1-aa0edec4c7cd">Research Scientist</a></td>
 <td>Cambridge, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483899642/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c45ee58e-7a31-4cca-a41e-50af63cca43b">Research Assistant Scientist - Machine Learning &amp; Sensing Lab</a></td>
+<td>Gainesville, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483892932/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -219,34 +233,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Westwood, MA, United States of America<br/>Hillsboro, OR, United States of America<br/>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Westwood-MA/System-Engineer_2635064">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Garner Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/25345331-f076-4717-aa51-0aab46f1f7de">Associate Applied Scientist</a></td>
-<td>New York City, New York<br/>Headquarters</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/garnerhealth/jobs/6174213004">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Evolver</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a7bf1a4-fc0a-4ca8-8bf0-a66301645f7e">Research Scientist - Information Theory and Statistical Inference</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/evolver/jobs/4402424009">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Convergent Research</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c2067a6-c286-4f36-b7c0-d975689abab7">Oath Technologies  - Research Engineer, Tools &amp; Infrastructure</a></td>
-<td>Berkeley, CA</td>
-<td align="center"><a href="https://jobs.lever.co/convergentresearch/a2e56f3e-09b0-402e-9566-6c7b235759d0/apply">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Snowflake</strong></td>
-<td><a href="https://trueinterview.io/jobs/ab0bbd8b-3870-46d4-b09d-6104c995709e">AI Research Scientist, New Grad – Agents &amp; Reinforcement Learning</a></td>
-<td>US-WA-Bellevue</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698/application">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

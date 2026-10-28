@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**9 open roles.** 8 in the United States & Canada · 1 elsewhere in the world.
+**12 open roles.** 11 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Anson McCade</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce8501a9-0fa3-4653-91ac-864bddc2c402">Unique Quant Research Opportunity - US/UK</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482541722/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Invesco</strong></td>
+<td><a href="https://trueinterview.io/jobs/f06b203a-1ae2-4088-8834-fd627ec818c3">Quantitative Researcher</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484496993/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CHEManager International</strong></td>
+<td><a href="https://trueinterview.io/jobs/49f6b586-296f-4dcd-b006-c3437def5ee7">Quantitative Research Operations Analyst</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484111317/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>NJF Global Holdings Ltd</strong></td>
 <td><a href="https://trueinterview.io/jobs/19ece253-5860-445c-a467-4249f26c760d">Quantitative Researcher - Monetization, Equities and Futures (HFT and MFT)</a></td>

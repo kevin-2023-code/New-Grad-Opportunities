@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**20 open roles.**
+**23 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>T2 Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1375289-8930-436a-a3a1-1c26ea83668b">Quality Assurance Automation Engineer</a></td>
+<td>Burnaby, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484706872/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Polaris Motion</strong></td>
+<td><a href="https://trueinterview.io/jobs/efed3c4a-c147-4912-af34-7d4699aaec28">.NET Applications Software Developer</a></td>
+<td>Victoria, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483892686/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>EA SPORTS</strong></td>
 <td><a href="https://trueinterview.io/jobs/0d8f0e0b-c76d-4e2f-8935-ffc206f4fc50">Gameplay Software Engineer - EA SPORTS™ FC</a></td>
@@ -120,6 +134,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bcc8e100-f330-498e-b141-b10d4871fe57">Early Career - Cybersecurity Application Security Engineer</a></td>
 <td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Vancouver, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4457439146/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Quectel</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8f7271f-0b13-4a30-8f9b-eab229465160">Mechanical Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476858456/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

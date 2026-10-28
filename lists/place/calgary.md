@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**14 open roles.**
+**13 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hubbell Incorporated</strong></td>
+<td><a href="https://trueinterview.io/jobs/c546cfa2-78f5-41c3-9c1a-576de28b9647">Station Engineer</a></td>
+<td>Edmonton, Alberta, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484702784/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MVP Talent Corp</strong></td>
+<td><a href="https://trueinterview.io/jobs/e54d1264-2e2b-4efa-8a61-92a1dc2c9329">Full Stack Engineer</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484489994/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Lavergne Draward &amp; Associates Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/516235f2-03ec-49c4-a7a2-0b2671d09bea">Structural Engineer / E.I.T</a></td>
@@ -93,27 +107,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Calgary, AB</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/neofinancial/f1aa04a8-de2c-4012-a91f-a370ed560116/application">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/222b447a-99bd-4304-a434-2dcc86e20732">Oil Sands Geotechnical Technician</a></td>
-<td>Edmonton, AB, Canada</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95225">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Long View Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/1ded224d-fc96-4157-90e6-1a6161aa5043">NOC Analyst</a></td>
-<td>Calgary, AB</td>
-<td align="center"><a href="https://jobs.lever.co/lvs1/dd2b9d3b-df56-48ac-8eb8-b5e73d8556c8/apply">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Dialog</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a42a538-f540-4dac-a7b4-3c0dccfc0559">Intermediate Structural Engineer</a></td>
-<td>Calgary, AB</td>
-<td align="center"><a href="https://jobs.lever.co/dialogdesign/28f9a002-5318-4028-b4e1-70af7bcd9fd2/apply">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>

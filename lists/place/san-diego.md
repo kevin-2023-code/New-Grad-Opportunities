@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**28 open roles.**
+**30 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Fish &amp; Richardson P.C.</strong></td>
+<td><a href="https://trueinterview.io/jobs/37cbf33d-ed3b-41fc-bf24-8cf8263bb3d1">Technology Specialist (Computer Science and Electrical Engineering)</a></td>
+<td>San Diego, CA<br/>Boston, MA<br/>New York, NY<br/>+2 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476524711/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>BAE Systems, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/321bc086-0be6-4f46-8f8b-eb53a2760339">2027 Entry Level Software Engineer</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465215805/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Machina Cognita Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3e2c4b8-a66c-4042-b4a7-2d726b1953ee">Software Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483841060/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -88,13 +102,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Fish &amp; Richardson P.C.</strong></td>
-<td><a href="https://trueinterview.io/jobs/37cbf33d-ed3b-41fc-bf24-8cf8263bb3d1">Technology Specialist (Computer Science and Electrical Engineering)</a></td>
-<td>San Diego, CA<br/>Boston, MA<br/>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476524711/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>TECHEAD</strong></td>
 <td><a href="https://trueinterview.io/jobs/614513e0-302c-4366-a4f4-3b8c3403d9f2">Cyber Security Engineer</a></td>
 <td>San Diego, CA</td>
@@ -148,6 +155,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f5547d3e-a25e-4302-9466-6c6ccb213f08">Systems Engineer - OpenShift</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483870025/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LendSure Mortgage Corp</strong></td>
+<td><a href="https://trueinterview.io/jobs/23f9de2a-0f42-4b7b-b201-46887a807e52">IT Systems Administrator (On Site, San Diego CA or Kennesaw, GA)</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://lendsure.isolvedhire.com/jobs/1893260-103210.html">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Naval Information Warfare Systems Command</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca3a99b0-f374-4e7d-8a7c-32156258020f">IT SPECIALIST (INFOSEC)</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.usajobs.gov/job/890500000">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -205,13 +226,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Diego, CA</td>
 <td align="center"><a href="https://jobs.lever.co/blinkux/47c561a4-0757-4eaa-9416-e758a59a9c61/apply">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Zoox</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f1dfd94-ddf7-4466-a913-cc2ddc51eed1">Software Engineer - Collision Avoidance System Metrics</a></td>
-<td>San Diego, CA<br/>Boston, MA<br/>Foster City, CA</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/d5d0608a-aa33-43c3-abe2-5ff8b40028d5/apply">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

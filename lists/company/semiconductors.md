@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**215 open roles.** 132 in the United States & Canada · 83 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**193 open roles.** 111 in the United States & Canada · 82 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/526853f1-4365-457c-b522-cfed030c56f1">Robotics Research Engineer - Robot Simulation and Evaluation</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455486152/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/f23803d3-1761-4c62-8653-a6133022715f">Systems Engineer - RF Sensors</a></td>
@@ -33,13 +40,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/632ceccc-5211-41e0-b1b8-e8a432621c82">Mechanical engineer</a></td>
-<td>Benicia, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482536843/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/094428f5-7a89-4479-94a9-80f4e8dbd4e5">2026-27 Materials Engineering Co - op, Doctorate (Gloucester, MA)</a></td>
 <td>Gloucester, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482544531/">Apply</a></td>
@@ -794,153 +794,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://careers.micron.com/careers/job/44447535">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/60201e3b-1016-4e18-81c1-b3ed0fd9edb0">Associate Design Evaluation Engineer</a></td>
-<td>US, NJ, Somerset, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NJ-Somerset/Associate-Design-Evaluation-Engineer_R266124">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/c778511d-203c-4a38-b20c-d5eaa400e948">2027 Global Product Support (GPS) Engineer I Bachelor's (Gloucester, MA) (Open)</a></td>
-<td>Gloucester, MA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318334204">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1989f6d6-8b20-4852-ba9a-780b2322973d">New College Grad - Mechanical Engineer III - PhD (2027 Summer Cohort)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318334309">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/65db83be-26dd-456e-b46d-28556942c1ab">New College Grad - Process Engineer III - PhD (2027 Summer Cohort)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318334277">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cerebras Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/642877ea-fd6a-41c0-b69f-35219fc4e6e3">Software Engineer, Kernel Reliability</a></td>
-<td>United States and Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/6039447c-f817-430d-851c-d493df2c0339">Packaging Engineer II, New College Grad- Master's (Santa Clara, CA)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318339769">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dc7eae7a-6187-4193-bbc0-d9f828c8c56a">Product Line Management II New College Grad- Master's (Santa Clara, CA)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318346239">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/631b3bdb-5611-45ea-aeef-32cad1489feb">Graduate - Test Engineer</a></td>
-<td>San Jose, CA<br/>Leominster, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971949961">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Coherent Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/dae24bef-c069-4617-a170-4cc8057f77a5">R&amp;D Machining Engineer</a></td>
-<td>Newark, DE, United States</td>
-<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2014516">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/93da45df-e41e-4c00-b899-9d392d071b68">ASIC Emulation Engineer</a></td>
-<td>US, CA, Santa Clara<br/>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92094?lang=en-us">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/ddc6009a-3151-4436-8d5f-011e55d741ab">AI GPU Power Architect - New College Grad 2026</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893394987881">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/4e8a799b-5d5b-4cbd-9ef7-6a69d1e620cc">Graduate - Analog Mixed-Signal Design Verification Engineer</a></td>
-<td>Andover, MA, US<br/>Dallas, TX, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971876168">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/49167649-e24d-45fe-889e-0b03fafb0f34">New College Grad - Controls Design Engineering</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44419478">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/29684e8f-ad00-4dbd-82d8-53372ca2684b">Technical Sales &amp; Applications Program (TSAP) – Field Application Engineer, Entry Level</a></td>
-<td>Austin (Oakhill, Office), United States of America<br/>Novi<br/>San Jose (Holger Way)</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Technical-Sales---Applications-Program--TSAP----Field-Application-Engineer--Entry-Level_R-10066745">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a66db99-17e3-4b06-8af4-0dd77259f116">Graduate - Package Development Engineer</a></td>
-<td>Leominster, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971930531">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ec1529fb-4fc9-4c54-99c4-15d920d42928">Graduate – Analog Design Engineer</a></td>
-<td>Morrisville, NC, US<br/>Andover, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971880479">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/94f7e771-4827-4289-87a8-9c9c8993c284">Entry Level DFT Design Engineer</a></td>
-<td>Austin (Oakhill, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Design-Engineer_R-10065554">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1c6efa7-a63c-4fd8-b66e-0ff21b0831e0">Electrical/Radio Frequency Engineer II, New College Grad- Master's (Santa Clara, CA)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318362299">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a24f91a6-becc-4af6-a08d-bbbd233b2442">Software Engineer, New College Grad- Master's (Chandler, AZ)</a></td>
-<td>Chandler, AZ, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318344904">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cadence Design Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/32dd0189-0e6e-4809-a5cb-27110edd27bb">Software Engineer  (new college grad Dec 2026)</a></td>
-<td>San Jose, CA<br/>SAN JOSE, United States of America</td>
-<td align="center"><a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/989d08ad-092b-469a-8317-4081297eb7bc">New College Grad - Yield Enhancement Electrical Failure Analysis Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44138259">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -962,13 +815,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/788338e0-1573-4431-b977-d8781e507c36">Customer Engineer-CMP/MDP/VSE</a></td>
-<td>Chengdu, Sichuan, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474469200/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c558a228-684e-4a0b-b8b0-5458ce051b5a">Customer Engineer-CMP</a></td>
 <td>Shanghai, Shanghai, China<br/>Wuxi, Jiangsu, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474453847/">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🎮 Gaming & interactive
 
-**6 open roles.** Games, game engines and interactive entertainment.
+**5 open roles.** Games, game engines and interactive entertainment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,13 +51,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United Kingdom, Canada, Mexico</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/voldex/8d8af60f-a9b2-489b-9d61-19ff33f202a0/application">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ubisoft Montreal</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c4c423a-0070-4d86-9d8e-11dec8ee279d">Data Developer</a></td>
-<td>Montreal, QC<br/>Montreal, Canada</td>
-<td align="center"><a href="https://4dayweek.io/job/data-developer-at-ubisoft-montreal-dbf41a7f">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
 </table>

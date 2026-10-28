@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**59 open roles.**
+**63 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Insperity</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c5fa06f-76ad-41e3-afa1-a2c64fee92bb">Software Development Engineer in Test</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457402277/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intellisoft Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8eac40d-94e9-4c9d-8486-7c11a4431a94">Forward Deployed Engineer - W2 Role</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484706845/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Enlighten</strong></td>
+<td><a href="https://trueinterview.io/jobs/e56ab12a-b89c-4e09-91bb-797340278f7d">Platform Engineer (Hybrid) - 30868</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484717243/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d291785a-d90a-4ba3-9600-94a74b51881d">Platform Engineer (Hybrid) - 30853</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484704861/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Sandvik</strong></td>
 <td><a href="https://trueinterview.io/jobs/7fc73731-0422-4932-b2be-e36aae378060">5-Axis CNC Programmer</a></td>
 <td>Houston, TX</td>
@@ -29,6 +57,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6db7af8a-6086-43ce-8905-5cee92a2a2e1">Design for Test (DFT) Engineer</a></td>
 <td>San Antonio, Texas Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484113253/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cook Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/09377dfc-7a26-4616-96a9-9e5a3a64cb99">Guidewire Developer</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458318031/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -422,13 +457,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States<br/>Chicago, Houston, Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8189730">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ba626f3-4008-4117-ad3d-bf002fd6d739">Embedded Software Test Engineer Graduate</a></td>
-<td>Spring, Texas, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Embedded-Software-Test-Engineer-Graduate_1213438-1">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
 </table>

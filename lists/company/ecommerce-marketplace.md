@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**46 open roles.** 30 in the United States & Canada · 16 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**43 open roles.** 30 in the United States & Canada · 13 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4b59455-4614-46c0-a2d0-ea0523ea3639">Software Development Engineer</a></td>
+<td>Seattle, WA<br/>Bellevue, WA<br/>New York, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476194038/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2ae0d5d5-cd59-4b5a-982a-365cd9843844">Software Development Engineer, Amazon Fulfillment Technologies (AFT) - Platform Engineering &amp; Services</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476352388/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a785d949-6d04-42d8-808c-5585575e1300">Software Development Engineer, RBKS Platform Ops</a></td>
+<td>Hawthorne, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476503672/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f76b56c4-8697-4623-b453-c4c6f30b4a97">Software Development Engineer, Ads AI Core Infrastructure (ACI), Ads AI Core Infrastructure</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476354364/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/00620224-9b83-49d0-ac80-25b92ece72ab">Software Development Engineer, Fees Tech</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476353361/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bbd58997-903e-4819-89b5-e3ce34a28efb">Software Development Engineer , Amazon Leo Commerce</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467915160/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/55b270cc-9c69-4764-80ac-9b26a36f2ac3">Software Development Engineer, Piezo</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476513286/">Apply</a></td>
@@ -71,13 +113,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a9531545-35db-4a0a-9395-c189a50c77db">Software Development Engineer, Amazon Customer Service</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467924081/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a4b59455-4614-46c0-a2d0-ea0523ea3639">Software Development Engineer</a></td>
-<td>Seattle, WA<br/>Bellevue, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476194038/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -173,6 +208,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c59a8f3a-af75-4300-ae84-eedd2cfdb1da">Data Scientist , Reactive Transfers</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476512393/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6d658af9-591d-4b44-a6fc-c6eca79868e9">Data Engineer, Early Career - 2026 (CAN)</a></td>
 <td>CA, ON, Toronto</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can">Apply</a></td>
@@ -184,48 +226,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — Canada</td>
 <td align="center"><a href="https://www.shopify.com/careers/technical-security-analyst-iam_ed446689-e031-4f41-aa1d-e0de6a5940c8">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lightspeed Commerce, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e52f2f4-b979-4afe-81c9-1d746ff7f657">Gestionnaire, Ingénierie de la fiabilité des sites (SRE)</a></td>
-<td>Montreal, QC</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/45e63872-1b53-46d4-9d3b-99ac19ca24f2/application">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4d671045-1f6a-4da7-853e-288671f9bc33">Analytics Engineer</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/bebf18c5-3437-4ab3-86db-d065b0611445/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3d67369-d61a-46dd-b535-353dd58d9c00">Product Design, Entry-Level (2027 start)</a></td>
-<td>San Francisco, CA<br/>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8188161">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>StubHub</strong></td>
-<td><a href="https://trueinterview.io/jobs/d0f6f98f-3258-4c2a-a96d-200d46149d84">Software Engineer I - Platform Engineer - Core Compute Platform</a></td>
-<td>New York, NY<br/>New York, New York, United States</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4967177101">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Canadian Tire</strong></td>
-<td><a href="https://trueinterview.io/jobs/076487ae-fa5e-4796-bd58-fa100ece11eb">Business Systems Engineer, AI</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Business-Systems-Engineer---AI_JR160709">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/510f9ca0-da50-41e1-83e5-798fece05692">Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US</a></td>
-<td>Los Angeles, CA<br/>New York, NY<br/>San Francisco, CA<br/>+2 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8163709">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>
@@ -290,6 +290,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5681386-8699-4491-abf7-d45b0c7b0ad1">AI Engineer - VLA Foundation Model, RIVR</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476397874/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/08d1cb84-509e-430e-9a54-35d62a0fb1d0">Drone Firmware Software Dev Engineer, Ring Robotics Platform Engineering</a></td>
 <td>GB, Cambridge</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10559120/drone-firmware-software-dev-engineer-ring-robotics-platform-engineering">Apply</a></td>
@@ -322,34 +329,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Porto</td>
 <td align="center"><a href="https://jobs.lever.co/farfetch/02851d02-d6e9-4a0c-a3c1-bdaa78a31c93/apply">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Loadsmart</strong></td>
-<td><a href="https://trueinterview.io/jobs/e80547f3-4aff-4f2a-b9fe-94f2c41c5469">Sales Development Representative - Mexico City</a> 🌐</td>
-<td>Remote — Mexico</td>
-<td align="center"><a href="https://jobs.lever.co/loadsmart/cc6c74b7-677f-4204-9e16-f8221d1c2c69/apply">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/935282f4-d801-41f6-9c1a-7e76ed24068a">Junior Verification Engineer</a></td>
-<td>IL, Haifa</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10542015/junior-verification-engineer">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Skydropx Frenet</strong></td>
-<td><a href="https://trueinterview.io/jobs/0000674d-9187-4328-bfa7-df2a61e7c38f">Product Analytics Coordinator</a></td>
-<td>México</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydropx/4eaa4745-9f7b-46df-9e41-b3cad560ba11/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sticker Mule</strong></td>
-<td><a href="https://trueinterview.io/jobs/46a930c8-49c3-4bdc-930a-411b11575468">Software engineer</a></td>
-<td>—</td>
-<td align="center"><a href="https://nodesk.co/remote-jobs/sticker-mule-software-engineer/">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

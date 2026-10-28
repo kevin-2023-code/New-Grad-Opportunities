@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**85 open roles.** 56 in the United States & Canada · 29 elsewhere in the world.
+**90 open roles.** 63 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,73 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>TikTok USDS Joint Venture</strong></td>
+<td><a href="https://trueinterview.io/jobs/b3c74a3c-e9c4-4d9f-bbbf-cf95f7fe9a30">Machine Learning Engineer — AI Safety &amp; Assurance</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484720632/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Referment</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffad2982-3651-49f3-91fa-0c0b7f0667d2">Machine Learning Researcher (1B2B94D)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484732039/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Flagship Pioneering</strong></td>
+<td><a href="https://trueinterview.io/jobs/6288df70-0aee-48b9-a049-fd070ae56fe0">Scientist, Machine Learning (Human Physiology)</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482535923/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Genesis Molecular AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/90a23d3f-fb67-4015-b768-0d3723961162">ML &amp; Molecular Simulation Scientist</a></td>
+<td>San Mateo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4426983464/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb726be2-3854-41e7-8d77-f6326e4a9251">Software Engineer, Data &amp; ML Infrastructure (WFH)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484712567/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CSAA Insurance Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9bef4f2-277d-4125-8b99-f0988d72361c">Software Engineer - AI/ML Platform Operations - Hybrid</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484702715/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d80463c-352e-4b5d-84f2-034a088f05c4">Machine Learning Scientist, AI</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484716129/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Oracle</strong></td>
 <td><a href="https://trueinterview.io/jobs/9c55f0be-243c-4897-9137-f47298541511">[Remote] Machine Learning Engineer</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482527974/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Global Technical Talent, an Inc. 5000 Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/897509ac-286f-4a72-a01b-be860a4787c6">AI/ML Engineer</a></td>
+<td>Fort Mill, SC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482545125/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Genesis Molecular AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/249d7947-c7f9-4f1e-b8de-a1832870ac57">Machine Learning Infrastructure Engineer</a></td>
+<td>San Mateo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4438965686/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -193,6 +256,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Accenture Federal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/84752224-a6fb-492b-aad8-745e774ca173">Machine Learning Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480510543/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cognizant</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2d6b164-f07c-4ea8-9972-f3ddd3e14ee0">Machine Learning Infrastructure Engineer</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467783679/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Emmes Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/f58b6204-60c2-4247-9313-60710f929626">Computational Biologist (AI/ML) - Essex Management</a></td>
 <td>Rockville, MD</td>
@@ -209,7 +286,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Freedom Technology Solutions Group, LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/84a60edc-0411-4113-9f7e-96400cd31509">Machine Learning Engineer 727</a></td>
-<td>St Louis, MO</td>
+<td>St Louis, MO<br/>Herndon, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4448395585/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
@@ -380,34 +457,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Dayton, OH</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rackner/jobs/4734877005">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/7daa0bb2-c2e5-4d3a-9c81-ae548e6505e8">AI and Machine Learning Engineering Graduate</a></td>
-<td>Durham, North Carolina, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475">Apply</a></td>
-<td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Adobe</strong></td>
-<td><a href="https://trueinterview.io/jobs/a615f510-fd59-4d27-8d54-c4e80af5dcd7">Machine Learning Engineer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R171645-1">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>BMO</strong></td>
-<td><a href="https://trueinterview.io/jobs/3063b037-2b7b-4576-94fe-a0b9b18004d6">Machine Learning Developer (New or Recent Graduate)</a></td>
-<td>Toronto, ON, CAN</td>
-<td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cadence Design Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/32dd0189-0e6e-4809-a5cb-27110edd27bb">Software Engineer  (new college grad Dec 2026)</a></td>
-<td>San Jose, CA<br/>SAN JOSE, United States of America</td>
-<td align="center"><a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>
@@ -609,20 +658,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Lisboa, Portugal</td>
 <td align="center"><a href="https://4dayweek.io/job/machine-learning-engineer-at-nmbrs-8b56d381">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Gigaton</strong></td>
-<td><a href="https://trueinterview.io/jobs/3e24b169-c86b-430b-95f3-17eb8d99256e">Machine Learning Engineer</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://4dayweek.io/job/machine-learning-engineer-at-gigaton-48b2fb4d">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PayPal</strong></td>
-<td><a href="https://trueinterview.io/jobs/0d327e7a-dca2-4ed5-985b-79ee40b127ba">Machine Learning Engineer</a></td>
-<td>2 Locations</td>
-<td align="center"><a href="https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer_R0137281-1">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>

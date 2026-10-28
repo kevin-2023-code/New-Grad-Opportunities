@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**57 open roles.**
+**60 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/a379ef5c-22da-433b-8da2-bb60a68b0732">AI Engineer</a></td>
+<td>Atlanta, GA<br/>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483370272/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Home Depot</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ae5a1bb-d45d-43fd-bbc9-1120dc19b33a">Software Engineer, Backend &amp; Distributed Systems (REMOTE)</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483668874/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Invesco</strong></td>
+<td><a href="https://trueinterview.io/jobs/f06b203a-1ae2-4088-8834-fd627ec818c3">Quantitative Researcher</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484496993/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skanska</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f953ac5-c619-4418-91b3-c98dece32aa0">Data Analytics Engineer</a></td>
+<td>Atlanta, GA<br/>Charlotte, NC<br/>Durham, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465942487/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>RSM US LLP</strong></td>
 <td><a href="https://trueinterview.io/jobs/723995de-4887-46f8-be09-c2ce9f2b25e8">Product Owner (AI-enabled tools)</a></td>
@@ -48,8 +76,22 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>T-Mobile</strong></td>
 <td><a href="https://trueinterview.io/jobs/32c3ef17-0352-46d2-a57e-e933c80c5260">Software Engineer- Billing Platform</a></td>
-<td>Atlanta, GA<br/>Overland Park, KS<br/>Bellevue, WA</td>
+<td>Atlanta, GA<br/>Overland Park, KS<br/>Bellevue, WA<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484703375/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ICE</strong></td>
+<td><a href="https://trueinterview.io/jobs/c7be3d5d-e8cd-4163-967c-7305ea9dff7f">Engineer, Systems Engineering</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467296993/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KPG99 INC</strong></td>
+<td><a href="https://trueinterview.io/jobs/148192ac-2623-4715-8310-a3c7ce88a207">Frontend Developer – Web &amp; Native (W2 Only)</a></td>
+<td>Alpharetta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484496805/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -57,6 +99,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fef35c1f-c88b-4c27-bd51-3f81987040bc">Program Field Integration Engineer</a></td>
 <td>Duluth, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478016770/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ICE</strong></td>
+<td><a href="https://trueinterview.io/jobs/471b6dd2-cd6e-4af4-8393-d76dbad5ee5c">Analyst, QA</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459088313/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Visionary Innovative Technology Solutions LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd1e2fc5-8d52-4477-8f2f-a9db5948247f">Python Developer</a></td>
+<td>Alpharetta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482545301/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -347,13 +403,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Truist</strong></td>
-<td><a href="https://trueinterview.io/jobs/ece364e5-9049-483a-ba7d-a936ca13cc8d">Software Engineer--Java</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://careers.truist.com/us/en/job/TBJTBFUSR0121000EXTERNALENUS/Software-Engineer-Java">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Ciena</strong></td>
 <td><a href="https://trueinterview.io/jobs/932c379a-4c54-4611-b69e-6d1826365e12">Software Engineer (Security) - New Grad</a></td>
 <td>Atlanta, GA</td>
@@ -387,34 +436,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Atlanta, GA<br/>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.lever.co/hermeus/5e92ddba-8a79-464e-82ff-85ab3dc1ce2b/apply">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Fullstory</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e262cc1-a285-4a37-bfbb-ed4be335746c">AI Automation Engineer</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fullstory/95f96318-76e8-46b7-8dd9-a74379582e6f/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Geotab</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c978ee3-9681-4f1e-b14d-af8686bcb6df">Technical Support Specialist - Bilingual Spanish</a></td>
-<td>Atlanta, GA<br/>Atlanta, Georgia - USA<br/>Waterloo, Ontario - Canada<br/>+5 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/geotab/jobs/5407730008">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hertz</strong></td>
-<td><a href="https://trueinterview.io/jobs/8487fa36-88c6-46e5-8063-232f7043d6a7">Product Owner - Commercial Analysis &amp; Data Visualization</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39184">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ciena</strong></td>
-<td><a href="https://trueinterview.io/jobs/9573a261-87dc-4994-a649-bccf916e6ea8">Platform Software Developer - 2026 New Grads</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Platform-Software-Developer---2026-New-Grads_R031084-1">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

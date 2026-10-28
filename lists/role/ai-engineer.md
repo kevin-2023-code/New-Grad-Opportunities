@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**219 open roles.** 114 in the United States & Canada · 105 elsewhere in the world.
+**230 open roles.** 127 in the United States & Canada · 103 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,129 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/a379ef5c-22da-433b-8da2-bb60a68b0732">AI Engineer</a></td>
+<td>Atlanta, GA<br/>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483370272/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motion Recruitment</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c9cf7b8-8a55-47cd-8f89-d582916f3cac">Artificial Intelligence Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483585139/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apexon</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc087b4f-08d4-456a-a61e-9a3372850fac">Artificial Intelligence Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484718434/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HTD Resources</strong></td>
+<td><a href="https://trueinterview.io/jobs/fff8808d-538b-45d6-8d18-e45883bbbca6">Artificial Intelligence Engineer</a></td>
+<td>New Jersey, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482537775/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/f76b56c4-8697-4623-b453-c4c6f30b4a97">Software Development Engineer, Ads AI Core Infrastructure (ACI), Ads AI Core Infrastructure</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476354364/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dragin</strong></td>
+<td><a href="https://trueinterview.io/jobs/98ac16a1-2b61-415c-a12f-893cf5dd71d6">AI Developer (Python) - New York - In Office</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484706844/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Accuity</strong></td>
+<td><a href="https://trueinterview.io/jobs/41a9f7fb-2f87-44fa-9acb-bc8da741ff86">Applied AI Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482536890/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Orbis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/c574c3cb-d31a-4124-99e9-d6232a860c5e">AI Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484721207/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RS Global Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/eea4147c-b1ac-4f82-8c6e-99ed34dc0df3">Applied AI Engineer - Hybrid - NYC -$200K - $250K</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482538839/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>iCatalyst, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ddd34a12-3b44-49a1-9afa-5c19ea418d52">AI Developer</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484481684/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Furnitureland South, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/9afb21c5-0a25-4743-8a01-2438ea9c15eb">AI Web Developer</a></td>
+<td>Jamestown, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484722043/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inceed</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f9f232c-780f-428f-96b2-e492d1d68013">AI Developer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460605913/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Oxbridge Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/a677852e-bacb-4ab8-a46e-0b43979564a3">AI Engineer</a></td>
+<td>Norwalk, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484713575/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Naval Nuclear Laboratory (FMP)</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba41bbe6-2e3b-46e9-b1c7-3cfb2f278edb">Data &amp; AI Engineer, Advanced</a></td>
+<td>West Mifflin, PA<br/>Niskayuna, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479886454/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motion Recruitment</strong></td>
+<td><a href="https://trueinterview.io/jobs/d50a50e3-584a-46f4-a62d-29ed0336e5e7">Agentic AI Engineer</a></td>
+<td>Webster, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484703055/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Kennesaw State University</strong></td>
 <td><a href="https://trueinterview.io/jobs/d260e82d-eb97-4917-bd19-024a16d04a97">Postdoctoral Researcher - AI Fusion and Contactless Health Sensing</a></td>
 <td>Kennesaw, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482532911/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BenchIT.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/386395c8-7b1b-49a9-932b-99f5a2dd0689">AI Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484103484/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AceStack</strong></td>
+<td><a href="https://trueinterview.io/jobs/f85d12f4-1493-478d-a798-8f9e71dd5622">Cloud-Native Engineer With AI @ Phoenix, AZ :: Full Time</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484114342/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -36,6 +155,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9c474557-6ab5-4354-a814-e0997a1ee1e3">Entry Level Sales - Secure AI Platform &amp; Cybersecurity</a></td>
 <td>St Augustine, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484701551/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IntePros</strong></td>
+<td><a href="https://trueinterview.io/jobs/ed325b46-be64-4978-a486-3eae9a27e379">M365 Collaboration &amp; AI Automation Engineer</a></td>
+<td>Cherry Hill, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482524950/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -780,41 +906,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/0630e779-2c3a-471c-a4b0-6a1f5627e96d">AI Infrastructure Engineer, pAGI</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/b2250643-bfd0-4ce6-abbf-cb7e8c8123ba/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Fullstory</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e262cc1-a285-4a37-bfbb-ed4be335746c">AI Automation Engineer</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fullstory/95f96318-76e8-46b7-8dd9-a74379582e6f/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b39408c-a607-4d99-beae-b3c3d604b13e">Applied AI Engineer, Government</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/485cda77-5d8f-4aaa-bca5-916b011477e6/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Canadian Tire</strong></td>
-<td><a href="https://trueinterview.io/jobs/076487ae-fa5e-4796-bd58-fa100ece11eb">Business Systems Engineer, AI</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Business-Systems-Engineer---AI_JR160709">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/6875daf9-fcf0-4e32-acfb-4839340e4318">Analyst, Business Systems – AI, Automation &amp; RPA</a></td>
-<td>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990015064842-analyst-business-systems-ai-automation-rpa?oga=true">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -828,10 +919,38 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>SE3 Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/afcb1d55-d69f-479f-a212-bf4f0652618a">Forward Deployed Engineer, Applied AI</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484731012/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sonova Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/5af4f799-e945-46fa-a45e-c754a8f2bb94">Software Engineer Embedded AI (m/f/d)</a></td>
+<td>Stäfa, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484701855/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Owen Thomas | B Corp™</strong></td>
 <td><a href="https://trueinterview.io/jobs/bd205c5a-1acf-4a82-ae96-6b59d4217345">Forward Deployed Engineer (Python / Go) | Production Agentic AI | B2C Start-up, Series A | £100k-£200k + Equity | London (5 Days) | Visa Sponsorship + Relocation</a></td>
 <td>London Area, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484703156/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amadeus Fire</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fad4e58-d814-4d74-93b9-1fada9dffa19">AI Solutions Engineer (m/w/d) LLM, RAG &amp; Automation</a></td>
+<td>Saarbrücken, Saarland, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484493775/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jobgether</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e445d49-f8d3-4b05-8da6-1beb1c099ece">Civil Engineering Specialist - Freelance AI Trainer Project</a></td>
+<td>Ireland<br/>Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483884971/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -846,13 +965,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ff735b4b-f320-4e1d-a2cc-292f80580c5c">Artificial Intelligence Engineer</a></td>
 <td>Bengaluru, Karnataka, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483899532/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Jobgether</strong></td>
-<td><a href="https://trueinterview.io/jobs/1e445d49-f8d3-4b05-8da6-1beb1c099ece">Civil Engineering Specialist - Freelance AI Trainer Project</a></td>
-<td>Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483884971/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -1283,6 +1395,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5681386-8699-4491-abf7-d45b0c7b0ad1">AI Engineer - VLA Foundation Model, RIVR</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476397874/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Bluebird</strong></td>
 <td><a href="https://trueinterview.io/jobs/eee72cd9-7108-4021-82e7-f104a83a672f">GTM Engineer | €90-110k | B2B SaaS | AI MedTech | Hybrid | English-speaking</a></td>
 <td>Berlin, Berlin, Germany</td>
@@ -1519,48 +1638,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>LATAM</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/g2i/ae69d8d4-cd1f-4573-baa9-191a55b61298/application">Apply</a></td>
 <td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>N Ix</strong></td>
-<td><a href="https://trueinterview.io/jobs/36995b52-d58c-41b2-8b02-54fb113b6cd2">Trainee AI Engineer</a></td>
-<td>Ukraine</td>
-<td align="center"><a href="https://careers.n-ix.com/jobs/4975531101?gh_jid=4975531101">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mutt Data</strong></td>
-<td><a href="https://trueinterview.io/jobs/147abc68-e170-462f-93b0-273aabf038b6">AI Backend Engineer (Python) — Forward Deployed</a></td>
-<td>Argentina</td>
-<td align="center"><a href="https://jobs.lever.co/muttdata/02fad11a-59be-43a1-9a6d-f6dff2c07b51/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>M&amp;G</strong></td>
-<td><a href="https://trueinterview.io/jobs/eba8a95b-bf6d-4983-8cda-9f8403751368">AI Platform Engineer</a></td>
-<td>Edinburgh, United Kingdom</td>
-<td align="center"><a href="https://4dayweek.io/job/ai-platform-engineer-at-mandg-5a866d18">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PwC</strong></td>
-<td><a href="https://trueinterview.io/jobs/09259e9a-c444-483e-958b-2d3af78351b3">Conversational AI Developer</a></td>
-<td>Kraków</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Krakw/Conversational-AI-Developer_760232WD">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hacker News &quot;Who is hiring?&quot;</strong></td>
-<td><a href="https://trueinterview.io/jobs/8944b6f2-1cf8-4215-a486-35b7489b57c4">Python / Backend / AI Engineer — Remote / Relocation</a></td>
-<td>—</td>
-<td align="center"><a href="https://computelabs.in/">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>9fin</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a3a0684-0b46-4e0d-b6c4-63ae28b74e1b">AI Engineer</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/9fin/72764c55-33d0-4f03-bb39-f8ca8af5eb16/application">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

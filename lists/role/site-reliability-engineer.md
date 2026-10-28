@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**38 open roles.** 19 in the United States & Canada · 19 elsewhere in the world.
+**37 open roles.** 19 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hunter Bond</strong></td>
+<td><a href="https://trueinterview.io/jobs/ada0bfba-ef56-4688-8e1e-44dc7a6b0f76">Site Reliability Engineer – Elite Quant - Up to $200,000 CAD Starting base + Exceptional benefits/bonus package Fund</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482539486/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Simpliigence</strong></td>
 <td><a href="https://trueinterview.io/jobs/ab1e9bea-4f61-4810-a4f9-b6291bf0cc0b">Site Reliability Engineer – Distributed Application Support (PCF &amp; GCP)</a></td>
@@ -143,13 +150,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://careers.wipro.com/job/SITE-RELIABILITY-ENGINEER-L3%28CONTRACT%29/213731-en_US">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Lightspeed Commerce, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e52f2f4-b979-4afe-81c9-1d746ff7f657">Gestionnaire, Ingénierie de la fiabilité des sites (SRE)</a></td>
-<td>Montreal, QC</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/45e63872-1b53-46d4-9d3b-99ac19ca24f2/application">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -174,13 +174,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/45912246-6a40-40b8-90d7-2cda1ebb5b16">Site Reliability Engineer | Quant Trading Firm | Singapore | up to SGD 250K Base + Bonus</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482529777/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SOCOTEC UK &amp; Ireland</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c098b7b-a361-471f-91bd-2338203ea48f">Geotechnical Site Engineer</a></td>
-<td>Tadcaster, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475424428/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

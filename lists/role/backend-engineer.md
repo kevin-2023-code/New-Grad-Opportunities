@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**43 open roles.** 22 in the United States & Canada · 21 elsewhere in the world.
+**41 open roles.** 24 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Alexander Chapman</strong></td>
+<td><a href="https://trueinterview.io/jobs/9dc6df7d-3f42-4c4e-9af0-01af56442669">Back End Developer</a></td>
+<td>California, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484720611/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Air Apps</strong></td>
+<td><a href="https://trueinterview.io/jobs/a070ddf9-4d7a-45f6-a7c9-ea366effa6b3">Backend Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478288651/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Netrolynx AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/686028bd-e045-4c83-94c4-9aa2d6212277">Backend Developer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484499619/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Systems Integration Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1b0eb94-4ec4-43df-8fcd-b665e2a1c8bd">Java Backend Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484102502/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>TaskVerse</strong></td>
 <td><a href="https://trueinterview.io/jobs/7b8f0b77-53fa-4c16-bf47-1693f14fb595">Backend Engineer</a></td>
@@ -157,20 +185,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446721162271">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Kin Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/0668366b-f62c-4eac-9c3d-72ba1debf275">Software Engineer, Back-End Focus</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/kin/56db2161-84b4-42ab-b1c6-adae6c1f325c/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mthree Recruiting Portal</strong></td>
-<td><a href="https://trueinterview.io/jobs/b0e1b460-a2b5-4b85-a822-67b0773cc465">Junior Java Developer</a></td>
-<td>Halifax, Nova Scotia, Canada<br/>Halifax, NS</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4710618006">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -301,34 +315,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Chengdu, Sichuan</td>
 <td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Chengdu-Sichuan/Backend-Software-Engineer_JR26080605">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/5598230b-4d05-4fcb-ac39-329d693d61c4">C# Software Engineer - Temporary from 01/01/2027 for 12 months</a></td>
-<td>United Kingdom Offsite</td>
-<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/C--Software-Engineer---Temporary-from-01-01-2027-for-12-months_R67751">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Workday</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a182208-d83c-4f62-9b7c-ae9cd587c6bd">Backend Engineer</a></td>
-<td>Sweden, Stockholm</td>
-<td align="center"><a href="https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Backend-Engineer_JR-0109822">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Händlerbund</strong></td>
-<td><a href="https://trueinterview.io/jobs/25092c15-df55-45b6-9277-ef1572e73fc7">Backend Developer</a> 🌐</td>
-<td>Remote — Germany</td>
-<td align="center"><a href="https://4dayweek.io/job/backend-developer-at-handlerbund-7309cc6a">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Applied intuition</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ac9da05-9536-47e7-a81d-469c5fa22b96">Software Engineer - Defense Physical AI</a></td>
-<td>Ann Arbor</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/applied/8cd214ac-8934-4585-a4d0-c3ab46ba7756/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

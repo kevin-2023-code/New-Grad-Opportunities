@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**67 open roles.** 43 in the United States & Canada · 24 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**53 open roles.** 32 in the United States & Canada · 21 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -241,83 +241,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.smartrecruiters.com/Canva/6000000001409440-ai-quality-evaluator-spanish-12-month-contract-?oga=true">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Atlassian</strong></td>
-<td><a href="https://trueinterview.io/jobs/13c93d5c-d0c0-4c6d-aab7-85ba54545c9d">Software Engineer, 2027 Graduate U.S.</a></td>
-<td>Seattle - United States - Seattle, Washington United States</td>
-<td align="center"><a href="https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job?mode=apply">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Grammarly</strong></td>
-<td><a href="https://trueinterview.io/jobs/e5626b9d-1367-4250-8fc2-2cae55c3f3f0">Software Engineer, Early Career</a></td>
-<td>Hub - San Francisco<br/>Hub - Seattle</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/da5e147c-f957-4ba1-9712-1b2dde377cb0/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>National Information Solutions Cooperative (nisc</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ce42897-77dc-4595-824d-9f9c17d22d47">Support Specialist - Capital Credits</a></td>
-<td>Any NISC Location or Virtual<br/>Cedar Rapids, IA<br/>Lake Saint Louis, MO<br/>+2 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/nisc/jobs/8188482">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Notion</strong></td>
-<td><a href="https://trueinterview.io/jobs/25ef5012-a5b4-41fe-931d-1f924238951e">Technical Education Specialist</a></td>
-<td>New York, NY<br/>New York, New York</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/notion/6f7c5ae6-9632-4436-8b1c-a1e4c1050633/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Kustomer</strong></td>
-<td><a href="https://trueinterview.io/jobs/1386f9e5-1243-4f54-be00-bc7423ba7af2">Software Engineer, Full Stack (Early Career)</a></td>
-<td>US - New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Metaview</strong></td>
-<td><a href="https://trueinterview.io/jobs/11a12af9-3a2a-4934-a449-2cf91839a7f6">Product Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/metaview/95be346f-e7d2-42f0-a38c-56bc0c15162a/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/85028294-7295-45a2-a306-16251cbd6c1b">Full Stack Product Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/metaview/1ae658a2-3baa-4610-8562-410c53d69bea/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/42235eae-f9ba-4037-86f0-e4d0dcbc800b">Product Engineer, New Products</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/metaview/271072ca-7cfd-45ba-a49b-a1c8fb933878/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ashby</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b22a514-1f1d-465e-ab4b-509e8b7aafa0">Technical Solutions Consultant - Americas</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ashby/08b6342c-d5c0-4864-a4db-28027d241cbe/application">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Adobe</strong></td>
-<td><a href="https://trueinterview.io/jobs/a615f510-fd59-4d27-8d54-c4e80af5dcd7">Machine Learning Engineer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R171645-1">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Handshake</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b13d497-fea6-4169-8936-b540da75c721">AI Model Policy Trainer, Image Evaluation - Seattle Onsite</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/handshake/4dcdfc01-076f-43f3-9bed-1acafd2c1cfa/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -330,6 +253,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Celonis</strong></td>
+<td><a href="https://trueinterview.io/jobs/141f2df9-f749-460e-aaab-fa0f88414f67">Associate Deployment Engineer - Galaxy Graduate Program</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482550070/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/38ae0b62-9325-4e3d-b969-237ef58f19ed">Forward Deployed Engineer</a></td>
@@ -469,34 +399,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Prague, Prague, Czechia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Canva/6000000001409416-ai-quality-evaluator-czech-12-month-contract-?oga=true">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Canary Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4cbcb04-9368-4305-954f-5fa810309041">L1 Technical Support Agent (Spanish and English Speaking)</a></td>
-<td>LATAM</td>
-<td align="center"><a href="https://jobs.lever.co/canarytechnologies/6911aa00-dae1-458d-963d-779302f512ec/apply">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Workday</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a182208-d83c-4f62-9b7c-ae9cd587c6bd">Backend Engineer</a></td>
-<td>Sweden, Stockholm</td>
-<td align="center"><a href="https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Backend-Engineer_JR-0109822">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Awin</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c9d7c81-27a8-46d7-948a-ce91db8d2a59">Application Security Engineer</a></td>
-<td>Berlin, Germany</td>
-<td align="center"><a href="https://4dayweek.io/job/application-security-engineer-at-awin-7b5039da">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8234768b-9b0d-4cf7-94ea-8bc2ef756693">Technical Consultant (f/m/d)</a></td>
-<td>São Paulo, São Paulo, Brazil<br/>Sao Paulo</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/awin/jobs/7984749003">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 </tbody>
 </table>

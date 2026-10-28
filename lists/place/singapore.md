@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**94 open roles.** 2 in the United States & Canada · 92 elsewhere in the world.
+**93 open roles.** 2 in the United States & Canada · 91 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -679,13 +679,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote — Singapore<br/>Singapore, Singapore</td>
 <td align="center"><a href="https://www.efinancialcareers.sg/jobs-Singapore-Singapore-AI_Enabler_Engineer.id24930074">Apply</a></td>
 <td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hawk Eye Innovations (hei</strong></td>
-<td><a href="https://trueinterview.io/jobs/27076e6b-3a53-4034-b0b8-9cd52854e415">Football Technology Systems Operator - Singapore</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hawkeyeinnovations/c9fd7f85-eebd-4aad-a68c-f3fc2cc9f549/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>

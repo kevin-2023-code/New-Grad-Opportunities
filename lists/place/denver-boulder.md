@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**60 open roles.**
+**57 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Blue Origin</strong></td>
-<td><a href="https://trueinterview.io/jobs/7cc7036e-44a8-4d0b-b38f-49a9e70349b3">Avionics Systems Engineer</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482532936/">Apply</a></td>
+<td><strong>Epic</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ec890e0-15d0-40f0-9dc3-f7daf3d8f286">Software Engineer</a></td>
+<td>Colorado Springs, CO<br/>Seattle, WA<br/>Cambridge, MA<br/>+21 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/3986116427/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Odyssey</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae696898-4a28-47c3-ad68-bd085b7beffd">Systems Cybersecurity Engineer</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475431980/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -36,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/efa5958f-0a50-4052-bb5c-cc64c0ae85b3">Embedded Software Engineer - Broadband CPE</a></td>
 <td>Denver, CO<br/>Bellevue, WA<br/>Overland Park, KS</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483758563/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6f4105c-ca8d-4e1e-8ebb-8cb9a4aa3dde">Systems Development Engineer, Frontier Amazon Dedicated Cloud (ADC)</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476712463/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -401,41 +415,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States<br/>Denver, CO</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8214452/apply/?gh_jid=8214452">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Inalab</strong></td>
-<td><a href="https://trueinterview.io/jobs/1495031a-e6a7-4a32-a521-b1ee82d29f2c">Application Developer - FWS ECOSphere</a></td>
-<td>Fort Collins, CO<br/>Falls Church, VA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/inalabconsulting/jobs/5129452008">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4e38aba4-eb5c-4c27-bebc-e4f28f895df2">Application Developer - Databricks - FWS</a></td>
-<td>Fort Collins, CO<br/>Falls Church, VA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/inalabconsulting/jobs/5421174008">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1bf13ed2-63e7-4173-85fe-6739fcc0a8e0">Front-End Application Developer - FWS</a></td>
-<td>Fort Collins, CO<br/>Falls Church, VA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/inalabconsulting/jobs/5421149008">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/19b8b495-165b-4488-a7ee-e6972d12ed1b">New Product Introduction Process Engineer, Recent Graduate</a></td>
-<td>Colorado Springs, Colorado, United States<br/>US-CO-Col Springs-Bldg C</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54250?lang=en-us">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cesiumastro</strong></td>
-<td><a href="https://trueinterview.io/jobs/37eac710-2cb6-4bbd-b4b9-69432426852e">Mechanical Engineer I</a></td>
-<td>Westminster, CO<br/>Austin, TX<br/>El Segundo, CA</td>
-<td align="center"><a href="https://jobs.lever.co/CesiumAstro/ebf75b86-512b-476c-bf66-d0e399a21929/apply">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**17 open roles.** 8 in the United States & Canada · 9 elsewhere in the world.
+**20 open roles.** 11 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Referment</strong></td>
+<td><a href="https://trueinterview.io/jobs/7626129d-5ad5-4ef6-9ce1-50037d911632">Quantitative Analyst (53FEBE6)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484719404/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motion Recruitment</strong></td>
+<td><a href="https://trueinterview.io/jobs/a87b01a6-4860-40a7-87ae-e47bf9c46486">Quantitative Analytics Engineer - Pyton/SQL/Finance - Boston, MA</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484701055/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Hunter Bond</strong></td>
 <td><a href="https://trueinterview.io/jobs/0fee3a70-688a-40f5-a548-749dde075ba0">Production Support Engineer | Quant Trading Firm | New York (Hybrid) | up to $270K + Bonus</a></td>
 <td>New York, NY</td>
@@ -25,7 +39,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Intime Infotech Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/2bf598bc-f9d7-4344-8ec6-3fb7f28dbdc4">Quantitative Developer</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484108204/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hunter Bond</strong></td>
 <td><a href="https://trueinterview.io/jobs/92d43c36-372f-4806-9fc8-b547597c061a">Desktop Support Engineer | Quant Trading Firm | New York (Hybrid) | up to $220K Base + Bonus</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482532701/">Apply</a></td>

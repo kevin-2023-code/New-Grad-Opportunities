@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**62 open roles.**
+**66 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,10 +25,45 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Fish &amp; Richardson P.C.</strong></td>
+<td><a href="https://trueinterview.io/jobs/37cbf33d-ed3b-41fc-bf24-8cf8263bb3d1">Technology Specialist (Computer Science and Electrical Engineering)</a></td>
+<td>Chicago, IL<br/>Boston, MA<br/>New York, NY<br/>+2 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476524711/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TransUnion</strong></td>
+<td><a href="https://trueinterview.io/jobs/3438c1ea-5f41-4260-b736-a4ae4fb6174a">Data Operations Analyst</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457167647/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Walter P Moore</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ca40110-1873-44bc-895f-619812800250">Graduate Engineer - Structural</a></td>
+<td>Chicago, IL<br/>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4174152865/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EXP</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc5764b4-6714-4ae2-b591-62e5a4d17c9f">Civil Engineer, Aviation</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4429103310/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Kforce Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/6e354356-30b9-4022-b2de-00ba15c8712c">Data Engineer</a></td>
 <td>Naperville, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484711440/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TransUnion</strong></td>
+<td><a href="https://trueinterview.io/jobs/5080386b-a991-4dfe-91d9-0dc736d0d0bd">Data Scientist</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475161131/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -43,6 +78,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f4bfbdef-0ca7-4f91-adcb-5304d676dab4">Data Analyst</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484710231/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CHEManager International</strong></td>
+<td><a href="https://trueinterview.io/jobs/49f6b586-296f-4dcd-b006-c3437def5ee7">Quantitative Research Operations Analyst</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484111317/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -120,13 +162,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5d2c2d62-30ab-4965-84d7-0ca6804a6a06">Graduate Tunnels Engineer - 2027</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467911826/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Walter P Moore</strong></td>
-<td><a href="https://trueinterview.io/jobs/8ca40110-1873-44bc-895f-619812800250">Graduate Engineer - Structural</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4174152865/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -291,6 +326,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Long Iron Services, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/b574b66a-6e01-41d6-a3f1-3c018aa1e5e0">IT Support Services Specialist</a></td>
+<td>Oak Brook, IL</td>
+<td align="center"><a href="https://heniff.wd501.myworkdayjobs.com/Heniff/job/IL-Oak-Brook/IT-Support-Services-Specialist_JR101531">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Microquery</strong></td>
 <td><a href="https://trueinterview.io/jobs/1a929047-7969-4b39-9388-08693569c4ad">OpenText Content Server Developer</a></td>
 <td>Chicago, IL</td>
@@ -436,20 +478,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chicago, IL</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/8207750">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lyric</strong></td>
-<td><a href="https://trueinterview.io/jobs/c9759202-db38-489d-ae2b-cad33e8552fc">Product Training Associate (Technical)</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lyric/2eaa8450-c430-4759-9944-48850dd856cb/application">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/37ac16e9-56b2-4a81-ac6d-f4726d373d9a">Engineering Specialist - Quality/Process</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70286">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**131 open roles.** 83 in the United States & Canada · 48 elsewhere in the world.
+**139 open roles.** 94 in the United States & Canada · 45 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,66 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Defense In Depth Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/4820a3be-a18c-47ed-b7fa-adcf00223ed9">Active Secret | Data Analyst (hybrid) at Kittery, Maine for Navy</a></td>
+<td>Kittery, ME</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482553188/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Serco</strong></td>
+<td><a href="https://trueinterview.io/jobs/c09d1404-af15-462f-a3f2-504f903f1ab2">Data Analyst</a></td>
+<td>Rock Island, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484730075/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Summit Tech Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/921f590f-e23c-45fd-985b-ef39c9f39b9b">Fixed Income Data Analyst</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484732128/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NTT DATA North America</strong></td>
+<td><a href="https://trueinterview.io/jobs/c99173e4-5b7f-430d-8d41-ec3789db9d30">Cyber Risk &amp; Security Data Analyst</a></td>
+<td>Mahwah, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484702866/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DHL Supply Chain</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3b776c4-01d1-4d96-bead-5957f6db5b4a">Business Data Analyst I</a></td>
+<td>Newville, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484716458/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TransUnion</strong></td>
+<td><a href="https://trueinterview.io/jobs/3438c1ea-5f41-4260-b736-a4ae4fb6174a">Data Operations Analyst</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457167647/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NYS Office for People With Developmental Disabilities</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a8f1e97-433e-4228-8b2d-a3c60400ec3c">Data Analyst 1</a></td>
+<td>Albany, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484709710/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Torentify</strong></td>
 <td><a href="https://trueinterview.io/jobs/347eca95-4023-4aac-9847-87e4477c4135">Data Analyst : Reports &amp; Insights</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484713469/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/284fd740-e6df-46fc-a632-7bb991f4407a">Data Analyst, Measurement &amp; Insights - Remote</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484709612/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -32,6 +88,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>EY</strong></td>
+<td><a href="https://trueinterview.io/jobs/f04176aa-4768-4af7-acd5-9ee80d4ef47b">Government and Infrastructure - AI and Data Analyst - Top Secret Clearance</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474985963/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/1b154f0d-26fc-4fc9-b6a0-f39325fad712">Data Science Analyst I (Full Time) – United States GSC/SCT ETR</a></td>
 <td>San Jose, CA</td>
@@ -39,10 +102,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>ECLARO</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f72d043-c896-4414-ba76-8b81622f2395">Data Analyst</a></td>
+<td>Westwood, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474413139/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>National Louis University</strong></td>
 <td><a href="https://trueinterview.io/jobs/f4bfbdef-0ca7-4f91-adcb-5304d676dab4">Data Analyst</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484710231/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WUUUH</strong></td>
+<td><a href="https://trueinterview.io/jobs/19e232b1-2352-4750-8dda-9c2b8e59c4fc">Data Analyst - waste collection routing (Omaha, NE)</a></td>
+<td>Keystone, NE</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484705413/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -354,6 +431,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>The Johns Hopkins University</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e3b0055-981f-4099-9d5a-2ecf0f99a63f">Research Data Analyst (School of Medicine Adolescent Medicine)</a></td>
+<td>Baltimore, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483518083/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>NeuroHire</strong></td>
 <td><a href="https://trueinterview.io/jobs/a0658f63-890c-4e6e-aed9-55d3dcc59a79">Business Data Analyst</a> 🌐</td>
 <td>Remote — United States</td>
@@ -591,13 +675,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.tower-research.com/open-positions/?gh_jid=8167234">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Erg</strong></td>
-<td><a href="https://trueinterview.io/jobs/dec8fc29-023b-43a1-a2b4-6a2ec6c6aeb6">On-site Environmental Scientist, Engineer, and Technical Specialist</a></td>
-<td>Morrisville, NC<br/>Chapel Hill, NC<br/>Durham, NC<br/>+1 more</td>
-<td align="center"><a href="https://jobs.lever.co/erg/a3a475aa-be18-440c-9bc8-000200aeb963/apply">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -611,10 +688,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Enua</strong></td>
+<td><a href="https://trueinterview.io/jobs/046d1d33-2816-44ad-828a-4d63fcfbfa29">Data Analyst / Controller (w/m/d) - BI &amp; Finance</a></td>
+<td>Cologne, North Rhine-Westphalia, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483890719/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Talentspot Recruitment</strong></td>
 <td><a href="https://trueinterview.io/jobs/81ffc46a-fd9c-446f-b3e9-3ac51e3c489f">Data Analyst</a></td>
 <td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483114210/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Expleo Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ca29f49-c7a9-4ac9-9776-56832fb3d90a">Data analyst industriel</a></td>
+<td>Geneva, Geneva, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484710003/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -910,41 +1001,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brazil - Rio de Janeiro</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/capco/jobs/8208305">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cabify</strong></td>
-<td><a href="https://trueinterview.io/jobs/14c4ce6c-a5a9-4862-bdb0-3f0de2fe4b42">Práctica Profesional - B2B Analyst</a></td>
-<td>Santiago de Chile</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/cabify/jobs/8790858002">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Experian</strong></td>
-<td><a href="https://trueinterview.io/jobs/048a2a98-6c0b-4655-863f-55766ecda59b">Analista de Dados Pleno</a></td>
-<td>São Carlos, , Brazil</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000148588079-analista-de-dados-pleno?oga=true">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Skydropx Frenet</strong></td>
-<td><a href="https://trueinterview.io/jobs/0000674d-9187-4328-bfa7-df2a61e7c38f">Product Analytics Coordinator</a></td>
-<td>México</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydropx/4eaa4745-9f7b-46df-9e41-b3cad560ba11/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Higgsfield</strong></td>
-<td><a href="https://trueinterview.io/jobs/43763e81-99a1-43a5-9cab-2c4f6cdf1a45">Data Science, Product Analyst</a></td>
-<td>Almaty, Kazakhstan</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/higgsfieldai/acff8f8d-e7f0-4271-86b4-dded83b0da9f/application">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Banco Bv</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3ee9440-e213-42ff-accb-5d72ebf6a033">Analista de Orçamento e Desempenho Pleno (O&amp;D)</a></td>
-<td>São Paulo</td>
-<td align="center"><a href="https://jobs.lever.co/bv/eee25902-bbab-44b1-ae74-7eb3439ef9a3/apply">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>

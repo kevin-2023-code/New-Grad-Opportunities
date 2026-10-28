@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**47 open roles.**
+**46 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ashurst Perkins Coie</strong></td>
+<td><a href="https://trueinterview.io/jobs/e91036a7-da00-4077-91b4-19dcd955b76a">Service Desk Support Technician</a></td>
+<td>Portland, OR<br/>Boise, ID<br/>Seattle, WA<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476523652/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ultra Clean Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6d784ab-c4dd-48f8-90be-df3f88b31b95">Mechanical Design Engineer - Sustaining support</a></td>
+<td>Hillsboro, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474093861/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>SSOE Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/3c0221af-d097-4036-ae8e-cd748239f132">Structural Engineer</a></td>
@@ -64,13 +78,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/aeb81632-87f0-4bad-a92c-a5ed1a26d308">Compiler Engineer for AI DSLs</a></td>
 <td>Hillsboro, OR<br/>Austin, TX<br/>Santa Clara, CA<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483893336/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ashurst Perkins Coie</strong></td>
-<td><a href="https://trueinterview.io/jobs/e91036a7-da00-4077-91b4-19dcd955b76a">Service Desk Support Technician</a></td>
-<td>Portland, OR<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476523652/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -331,20 +338,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44447535">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/49167649-e24d-45fe-889e-0b03fafb0f34">New College Grad - Controls Design Engineering</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44419478">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/989d08ad-092b-469a-8317-4081297eb7bc">New College Grad - Yield Enhancement Electrical Failure Analysis Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44138259">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

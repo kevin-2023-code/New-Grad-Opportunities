@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**36 open roles.** 23 in the United States & Canada · 13 elsewhere in the world.
+**45 open roles.** 32 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Referment</strong></td>
+<td><a href="https://trueinterview.io/jobs/7626129d-5ad5-4ef6-9ce1-50037d911632">Quantitative Analyst (53FEBE6)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484719404/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FanDuel</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5237b63-e298-4c61-8dd0-ccc422544d53">Sports Trader (NBA/WNBA)</a></td>
+<td>Jersey City, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482545597/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anson McCade</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce8501a9-0fa3-4653-91ac-864bddc2c402">Unique Quant Research Opportunity - US/UK</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482541722/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Invesco</strong></td>
+<td><a href="https://trueinterview.io/jobs/f06b203a-1ae2-4088-8834-fd627ec818c3">Quantitative Researcher</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484496993/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motion Recruitment</strong></td>
+<td><a href="https://trueinterview.io/jobs/a87b01a6-4860-40a7-87ae-e47bf9c46486">Quantitative Analytics Engineer - Pyton/SQL/Finance - Boston, MA</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484701055/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Louis Dreyfus Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/80547772-f52a-45bb-88ce-b41d2d63c43c">US Refined Soybean Oil Trader</a></td>
+<td>Wilton, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482538593/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CHEManager International</strong></td>
+<td><a href="https://trueinterview.io/jobs/49f6b586-296f-4dcd-b006-c3437def5ee7">Quantitative Research Operations Analyst</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484111317/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/916d52d8-1ba8-4031-962e-8224c2c23638">Equity Trader and Research Analyst</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484113366/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Hunter Bond</strong></td>
 <td><a href="https://trueinterview.io/jobs/0fee3a70-688a-40f5-a548-749dde075ba0">Production Support Engineer | Quant Trading Firm | New York (Hybrid) | up to $270K + Bonus</a></td>
 <td>New York, NY</td>
@@ -25,7 +81,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Intime Infotech Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/2bf598bc-f9d7-4344-8ec6-3fb7f28dbdc4">Quantitative Developer</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484108204/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hunter Bond</strong></td>
 <td><a href="https://trueinterview.io/jobs/92d43c36-372f-4806-9fc8-b547597c061a">Desktop Support Engineer | Quant Trading Firm | New York (Hybrid) | up to $220K Base + Bonus</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482532701/">Apply</a></td>

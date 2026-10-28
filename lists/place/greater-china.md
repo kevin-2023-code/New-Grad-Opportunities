@@ -20,14 +20,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/788338e0-1573-4431-b977-d8781e507c36">Customer Engineer-CMP/MDP/VSE</a></td>
-<td>Chengdu, Sichuan, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474469200/">Apply</a></td>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/b0fbd6d1-0458-4dba-8dac-2fb9b5a844dc">Firmware Engineer</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454542324/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/c558a228-684e-4a0b-b8b0-5458ce051b5a">Customer Engineer-CMP</a></td>
 <td>Shanghai, Shanghai, China<br/>Wuxi, Jiangsu, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474453847/">Apply</a></td>
@@ -73,13 +73,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/fc1c1706-9448-497c-94c6-e5c8feead0f6">Technical Support Engineer- Dynamics CRM, Power Platform and Copilot Studio</a></td>
 <td>Taipei, Taipei City, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484479625/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MediaTek</strong></td>
-<td><a href="https://trueinterview.io/jobs/6aed2477-45e2-4f20-bc73-f07951d9c572">Automotive product integration engineer</a></td>
-<td>Hsinchu, Taiwan, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4423201375/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -144,6 +137,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Sha Tin, Hong Kong</td>
 <td align="center"><a href="https://hk.indeed.com/viewjob?jk=b5132972c2de37bd">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Network Box Corp Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/73376e44-1141-4292-8aed-f369e61a738f">IT Security Engineer (5 days shift work)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.recruit.com.hk/job-detail/network-box-corp-ltd/it-security-engineer-5-days-shift-work/L060873718">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>

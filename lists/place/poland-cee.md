@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**19 open roles.**
+**17 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -137,20 +137,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Prague, Prague, Czechia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Canva/6000000001409416-ai-quality-evaluator-czech-12-month-contract-?oga=true">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>PwC</strong></td>
-<td><a href="https://trueinterview.io/jobs/09259e9a-c444-483e-958b-2d3af78351b3">Conversational AI Developer</a></td>
-<td>Kraków</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Krakw/Conversational-AI-Developer_760232WD">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Formlabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/28349f48-e110-4354-b455-7e6c73f1acd4">Technical Support Specialist - French speaking</a></td>
-<td>Budapest, Hungary</td>
-<td align="center"><a href="https://careers.formlabs.com/job/8180697/apply/?gh_jid=8180697">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>

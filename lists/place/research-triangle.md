@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**61 open roles.**
+**64 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Summit Tech Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/921f590f-e23c-45fd-985b-ef39c9f39b9b">Fixed Income Data Analyst</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484732128/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ICF</strong></td>
+<td><a href="https://trueinterview.io/jobs/b92d010f-be0d-455f-9011-ee7631040954">Data Integration Engineer</a></td>
+<td>Charlotte, NC<br/>Reston, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475988285/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>K&amp;K Global Talent Solutions INC.</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfad50e9-481a-4118-98b2-fe0656f1205d">Hadoop Developer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484702927/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skanska</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f953ac5-c619-4418-91b3-c98dece32aa0">Data Analytics Engineer</a></td>
+<td>Charlotte, NC<br/>Durham, NC<br/>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465942487/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SMBC Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/9da9e4a3-1834-48cf-9c31-83693c62ae0d">Software Engineer - Capital Markets</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461754980/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Stratus®</strong></td>
 <td><a href="https://trueinterview.io/jobs/c04fae56-9df8-4a47-8310-b6b7a43a3178">Security and Systems Administrator</a></td>
@@ -263,10 +298,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Preferred Parking Service, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1978424-2a65-421e-b4de-d3cac0c9c9aa">IT Specialist</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://preferredparking.isolvedhire.com/jobs/1893069-350750.html">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Coca-Cola Consolidated, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/fcfa9603-af27-4c4a-8b46-7b4d4e4de251">IT Engineer II Linux Infrastructure and AI Operations</a></td>
 <td>Charlotte, NC</td>
 <td align="center"><a href="https://conaservices.jobs2web.com/consolidated/job/Charlotte-IT-Engineer-II-Linux-Infrastructure-and-AI-Operations-NC-28211/1444386100/?feedId=331200">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>University of North Carolina at Chapel Hill</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6f9a115-d222-4d6c-b207-3154f64fd7e4">DevOps System Administrator</a></td>
+<td>Chapel Hill, NC</td>
+<td align="center"><a href="https://unc.peopleadmin.com/postings/327776">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -415,34 +464,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Charlotte, North Carolina, United States<br/>Charlotte, NC</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/mcadams/jobs/5242648007">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Erg</strong></td>
-<td><a href="https://trueinterview.io/jobs/dec8fc29-023b-43a1-a2b4-6a2ec6c6aeb6">On-site Environmental Scientist, Engineer, and Technical Specialist</a></td>
-<td>Morrisville, NC<br/>Chapel Hill, NC<br/>Durham, NC<br/>+1 more</td>
-<td align="center"><a href="https://jobs.lever.co/erg/a3a475aa-be18-440c-9bc8-000200aeb963/apply">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/7daa0bb2-c2e5-4d3a-9c81-ae548e6505e8">AI and Machine Learning Engineering Graduate</a></td>
-<td>Durham, North Carolina, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475">Apply</a></td>
-<td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec1529fb-4fc9-4c54-99c4-15d920d42928">Graduate – Analog Design Engineer</a></td>
-<td>Morrisville, NC, US<br/>Andover, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971880479">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Computer World Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c98a8cc-aac2-4870-af3f-ca4091231746">Desktop Engineer - Windows</a></td>
-<td>Morrisville, NC</td>
-<td align="center"><a href="https://jobs.lever.co/cwsc/6bf8347d-5fef-4460-a79e-c32aa9089498/apply">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>

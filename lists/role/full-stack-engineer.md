@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**118 open roles.** 73 in the United States & Canada · 45 elsewhere in the world.
+**125 open roles.** 82 in the United States & Canada · 43 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,94 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Alexander Chapman</strong></td>
+<td><a href="https://trueinterview.io/jobs/fad92f30-2754-435c-82ab-d52d7026cdfe">Full-Stack/Product Engineer</a></td>
+<td>California, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484720608/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Steneral Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/6efa6f67-a382-4826-9960-2beb6d5d43e0">Full Stack Developer</a></td>
+<td>Farmington Hills, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484717602/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Freedom Technology Solutions Group, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/0cebfafc-a6bd-4af5-903a-0ffc0a971933">Full Stack Developer 729</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448602478/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Steampunk, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ac09fd6a-67ab-47f4-b898-e9a54f5dba27">Full Stack Developer (Drupal)</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482553171/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sira Consulting, an Inc 5000 company</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ea9a2f7-dede-4be9-a725-7fdbb1744503">&quot;Full Stack Developer-.Net , Angular&quot;</a></td>
+<td>Rancho Cucamonga, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482548416/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VySystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e8cd495-91f1-4b34-a710-1215c6fd8020">Python full stack Developer</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484710903/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Saliense</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9dbde97-51cf-444f-a939-afe5f857ba88">Int. Full-Stack Automation Engineer</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483690088/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HTD Resources</strong></td>
+<td><a href="https://trueinterview.io/jobs/458aa055-57fc-456b-bab2-8cf5afa0e744">Full Stack Engineer</a></td>
+<td>Texas, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482536936/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Largeton Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/db019b5e-72da-4088-9bf3-072e4752f083">Java Full Stack Developer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484498464/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Peregrine Advisors</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8de8bf8-86dc-46f7-8d47-997d56784014">Full Stack Developer (PHP, Python)</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484487870/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>EY</strong></td>
 <td><a href="https://trueinterview.io/jobs/e27265a8-57c9-4161-aae1-ddc1954fdcc5">Service Delivery Center-Full Stack Developer: Financial Services-Analyst-Raleigh,Dallas, San Antonio</a></td>
 <td>Los Angeles, CA<br/>Baltimore, MD<br/>Rogers, AR<br/>+9 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4439448637/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MVP Talent Corp</strong></td>
+<td><a href="https://trueinterview.io/jobs/e54d1264-2e2b-4efa-8a61-92a1dc2c9329">Full Stack Engineer</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484489994/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motion Recruitment</strong></td>
+<td><a href="https://trueinterview.io/jobs/d221644c-3056-493e-95d7-6dbb8df296fb">Full Stack Developer - TypeScript/Node/React - Java/C#</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484497264/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -36,6 +120,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f95533ce-a904-4956-878e-f79c542fe0c3">Cleared Full Stack Engineer - (Java/React) Multiple Levels</a></td>
 <td>Dedham, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484112251/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mainz Brady Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/f67803e7-0847-4303-9eee-9293ec03f7cf">Full Stack Engineer</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484113148/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -500,34 +591,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/viggle/98352e43-0f84-4df8-9f17-88520fe8314a/application">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Discord</strong></td>
-<td><a href="https://trueinterview.io/jobs/f97d5a1b-2052-43ba-ae1e-e317f2a78e22">Full-Stack Software Engineer, Developer Success</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://4dayweek.io/job/full-stack-software-engineer-developer-success-at-discord-4f1269f6">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Miter</strong></td>
-<td><a href="https://trueinterview.io/jobs/16c4d688-cd6d-4258-b7c2-09ba734aae76">Software Engineer (New Grad)</a></td>
-<td>San Francisco, CA<br/>New York City<br/>York, United Kingdom</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/miter/f4567649-a0eb-445d-bd00-a0673a26ec6d/application">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Kustomer</strong></td>
-<td><a href="https://trueinterview.io/jobs/1386f9e5-1243-4f54-be00-bc7423ba7af2">Software Engineer, Full Stack (Early Career)</a></td>
-<td>US - New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Metaview</strong></td>
-<td><a href="https://trueinterview.io/jobs/85028294-7295-45a2-a306-16251cbd6c1b">Full Stack Product Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/metaview/1ae658a2-3baa-4610-8562-410c53d69bea/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -840,20 +903,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>3 Locations</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Toronto/Full-Stack-Developer_761839WD">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Oneimaging</strong></td>
-<td><a href="https://trueinterview.io/jobs/7dcb775a-923e-4d44-a731-c73b85fd0fac">Full Stack Associate Software Engineer (UF Only)</a></td>
-<td>Miami</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/oneimaging/jobs/4403125009">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Frazier &amp; Deeter</strong></td>
-<td><a href="https://trueinterview.io/jobs/3511d3dc-4041-461f-90ec-a1c838b3e352">Full Stack AI Engineer (India-based)</a></td>
-<td>Hyderabad<br/>India</td>
-<td align="center"><a href="https://www.frazierdeeter.com/careers/openings/apply/7986994003?gh_jid=7986994003">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>

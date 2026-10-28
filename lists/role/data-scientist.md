@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**102 open roles.** 57 in the United States & Canada · 45 elsewhere in the world.
+**106 open roles.** 65 in the United States & Canada · 41 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,52 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>BNY</strong></td>
+<td><a href="https://trueinterview.io/jobs/1da8f444-9766-4a71-9b61-60c87c83ea56">2027 BNY Analyst Program - Engineering (Developer) - Pittsburgh, PA</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467994858/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Thatch</strong></td>
 <td><a href="https://trueinterview.io/jobs/a275965e-9cbe-4a1e-80ed-81254930705d">Data Scientist: Product</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4480678592/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sharp Decisions</strong></td>
+<td><a href="https://trueinterview.io/jobs/063bcf36-226d-4044-b897-481c282ed56f">IN - IDOH Data Scientist (Indiana)</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482774364/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>St. Jude Children's Research Hospital</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1369b6b-923c-411e-b7d1-cc9239312324">Data Scientist - Clinical Machine Learning &amp; Flow Cytometry</a></td>
+<td>Memphis, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466127785/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rivago Infotech Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/b435b41d-1da9-4556-b645-d0a8298910ec">Data Scientist</a></td>
+<td>San Diego County, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482549131/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TransUnion</strong></td>
+<td><a href="https://trueinterview.io/jobs/5080386b-a991-4dfe-91d9-0dc736d0d0bd">Data Scientist</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475161131/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kelly</strong></td>
+<td><a href="https://trueinterview.io/jobs/e95d96ea-301a-49bf-bafa-673cfb45b25a">Data Scientist – Formulation &amp; Product Development</a></td>
+<td>Clark, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484105339/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -169,6 +211,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d255c78e-fc38-4915-95bc-96e51cda0469">Forward Deployed Data Scientist</a></td>
 <td>Pittsburgh, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447996485/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/c59a8f3a-af75-4300-ae84-eedd2cfdb1da">Data Scientist , Reactive Transfers</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476512393/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Freedom Technology Solutions Group, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/963140a3-ea1f-46a1-a01b-a324daf6a868">Data Scientist 728</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448622232/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Morehouse School of Medicine</strong></td>
+<td><a href="https://trueinterview.io/jobs/fda20215-2a13-4667-9758-53d93c6e7002">Epidemiologist / Data Scientist / Population Health Scientist (Open Rank)</a></td>
+<td>Atlanta Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4445663633/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PNC</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9a2bfe9-89ae-45f5-b39d-9263afd74c4d">Data Scientist - Corporate &amp; Institutional Banking</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479262084/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAIC</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8081330-5245-4e8f-9957-e84c47824ccf">Data Scientist</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467427760/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -395,27 +472,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://4dayweek.io/job/data-scientist-at-parsons-corporation-e3766787">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Intuitive Surgical</strong></td>
-<td><a href="https://trueinterview.io/jobs/039610d1-a5d0-4d0b-8c3d-93d4834fd073">Data Scientist 2</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000148860049-data-scientist-2?oga=true">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/698cd8bc-b20a-4733-b65e-05576051cc8b">Data Scientist (Starlink)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8783265002?gh_jid=8783265002">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Stack Overflow</strong></td>
-<td><a href="https://trueinterview.io/jobs/7eae86f7-d776-4d94-bb6e-0372c6aa10ca">Data Scientist</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://4dayweek.io/job/data-scientist-at-stack-overflow-5d1a9409">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -431,7 +487,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Jobgether</strong></td>
 <td><a href="https://trueinterview.io/jobs/4b072b03-ba8a-4ed3-896b-5d84a74223dd">Data Scientist - AI &amp; Experimentation</a></td>
-<td>Netherlands<br/>Ireland</td>
+<td>Netherlands<br/>Ireland<br/>Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484106197/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
@@ -714,34 +770,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/isometric/4c429294-d580-4c4a-a6f4-27b0b06d21a0/application">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>C6 Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a9c1787-3aa3-48f4-adb1-34aa9ce7ce27">Pessoa Estagiária em Estratégia e Políticas de Recuperação de Crédito | Cobrança</a></td>
-<td>São Paulo, Brazil<br/>Estágio</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4733467005">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Experian</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b7df4f9-dc64-4702-9422-77efcc20f7ac">Especialista de Modelagem Estatística - Vaga Afirmativa para Mulheres</a></td>
-<td>São Paulo, , Brazil</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Experian/744000148323130-especialista-de-modelagem-estatistica-vaga-afirmativa-para-mulheres?oga=true">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SonarSource</strong></td>
-<td><a href="https://trueinterview.io/jobs/3da7ccb9-0207-4966-ac38-1916eef4d0ca">Data Scientist, Product Analytics</a></td>
-<td>Geneva</td>
-<td align="center"><a href="https://jobs.lever.co/sonarsource/c9783c31-cfa1-4d95-b31a-278cd0d14162/apply">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Platform Science</strong></td>
-<td><a href="https://trueinterview.io/jobs/36725f58-73cb-499a-9b8f-2b4f2286340e">Data Scientist</a></td>
-<td>Brazil<br/>Londrina</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/platformscience/jobs/7984695003">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 </tbody>
 </table>

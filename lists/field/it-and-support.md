@@ -2,15 +2,13 @@
 
 # 🧰 IT & Support
 
-**408 open roles.** 331 in the United States & Canada · 77 elsewhere in the world.
+**397 open roles.** 325 in the United States & Canada · 72 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
 > Every posting the catalog classified into the IT & Support field. A posting is in exactly one field, so these six pages hold the whole list between them.
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
-
-<sub>Page 1 of 2 · [Page 2 →](it-and-support-2.md)</sub>
 
 ## United States & Canada
 
@@ -20,6 +18,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Lutron Electronics</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d5a1722-4956-41d5-a1e1-78f6d04673dd">Technical Support Representative - Las Vegas, Nevada</a></td>
+<td>Las Vegas, NV</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474408081/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ashurst Perkins Coie</strong></td>
+<td><a href="https://trueinterview.io/jobs/e91036a7-da00-4077-91b4-19dcd955b76a">Service Desk Support Technician</a></td>
+<td>Seattle, WA<br/>Portland, OR<br/>Phoenix, AZ<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476523652/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Council on Foreign Relations</strong></td>
+<td><a href="https://trueinterview.io/jobs/c132c069-bba3-4fcb-a713-9e9ec6afca0b">Help Desk Technician</a></td>
+<td>Washington DC-Baltimore Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484727189/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>McDonald Automotive</strong></td>
+<td><a href="https://trueinterview.io/jobs/b25687b0-5248-4528-bacf-d5649c4197c6">IT Helpdesk</a></td>
+<td>Littleton, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484726021/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Extra Space Storage</strong></td>
 <td><a href="https://trueinterview.io/jobs/759f2135-5249-4ad5-ac00-5d6740865b8c">IT Service Desk Technician I</a></td>
 <td>Buffalo, NY</td>
@@ -27,17 +53,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Winston Taylor</strong></td>
-<td><a href="https://trueinterview.io/jobs/63b9c356-2468-40d4-bbe4-08162da7e8d3">Los Angeles - Network Engineer</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482546403/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Jenzabar</strong></td>
 <td><a href="https://trueinterview.io/jobs/e66cd338-27ce-4caf-9e01-6a8026767a13">Technical Support Specialist I</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4471539585/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NSS Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/bef5c21d-9b98-4e64-9b40-c33ff04a25d4">Network Administrator</a></td>
+<td>Huntsville, AL</td>
+<td align="center"><a href="https://www.indeed.com/viewjob?jk=b79a4c9a215d01fd">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -307,13 +333,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Noblesoft Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/309ce7fb-6c76-4572-bfdd-3c7c990bdf42">Desktop Support Technician</a></td>
-<td>San Francisco, CA<br/>Menlo Park, CA</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=d4f5985fd52488a5">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Power Design</strong></td>
 <td><a href="https://trueinterview.io/jobs/3d86a3cb-f9be-41e2-8912-b41d940f31f5">IT Support Technician</a></td>
 <td>St. Petersburg, FL</td>
@@ -395,13 +414,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cf5f7fd1-74de-4db8-a69a-6bb5a608dd7e">IT Technician</a></td>
 <td>Highland Park, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467905919/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ashurst Perkins Coie</strong></td>
-<td><a href="https://trueinterview.io/jobs/e91036a7-da00-4077-91b4-19dcd955b76a">Service Desk Support Technician</a></td>
-<td>Seattle, WA<br/>Portland, OR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476523652/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -1098,6 +1110,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>LendSure Mortgage Corp</strong></td>
+<td><a href="https://trueinterview.io/jobs/23f9de2a-0f42-4b7b-b201-46887a807e52">IT Systems Administrator (On Site, San Diego CA or Kennesaw, GA)</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://lendsure.isolvedhire.com/jobs/1893260-103210.html">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Preferred Parking Service, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1978424-2a65-421e-b4de-d3cac0c9c9aa">IT Specialist</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://preferredparking.isolvedhire.com/jobs/1893069-350750.html">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Federal Emergency Management Agency</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc823fef-a2c1-40e3-a62e-abafe98c2d3c">IT Specialist</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.usajobs.gov/job/890584100">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Dynamics Information Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/30498fa0-e0ac-4381-b010-72c2a0d65382">Network Administrator</a></td>
+<td>Bethesda, MD</td>
+<td align="center"><a href="https://www.gdit.com/careers/job/bfe481352/network-administrator/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Guidehouse</strong></td>
 <td><a href="https://trueinterview.io/jobs/8c5e743d-13cf-4787-a8d3-4ce2b735dc62">Database Administrator</a></td>
 <td>Washington, DC</td>
@@ -1119,6 +1159,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Long Iron Services, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/b574b66a-6e01-41d6-a3f1-3c018aa1e5e0">IT Support Services Specialist</a></td>
+<td>Oak Brook, IL</td>
+<td align="center"><a href="https://heniff.wd501.myworkdayjobs.com/Heniff/job/IL-Oak-Brook/IT-Support-Services-Specialist_JR101531">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>NAVAIR</strong></td>
 <td><a href="https://trueinterview.io/jobs/152eaa4e-575d-4c82-b7d3-a26d9c51c49c">IT SPECIALIST (PLCYPLN)</a></td>
 <td>Naval Air Station Patuxent River, MD</td>
@@ -1133,6 +1180,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Savannah River National Laboratory</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4385e61-12d7-4825-a47a-270110598279">IT Systems Administrator, Intermediate</a></td>
+<td>Aiken, SC</td>
+<td align="center"><a href="https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/2232">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8b61549f-9f27-4b3e-8303-b2fb575261d5">Network Administrator, Intermediate</a></td>
+<td>Aiken, SC</td>
+<td align="center"><a href="https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/2230">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Serco</strong></td>
 <td><a href="https://trueinterview.io/jobs/b5ff16a9-ef6c-4c5b-9620-143a61eaeaf0">Cyber Systems Administrator- Kirtland AFB, NM 1</a></td>
 <td>Kirtland AFB, NM</td>
@@ -1140,10 +1201,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>TSA (Transportation Security Administration)</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d3cbf2c-0f1f-43d5-96ac-fb1fa4e1526b">IT Specialist (Operating Systems)</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://www.usajobs.gov/job/890525000">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>United States Department Of Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d5af078-584f-4e10-b245-2d32ccb95c2d">IT Specialist (Customer Support)</a></td>
+<td>Redstone Arsenal, AL</td>
+<td align="center"><a href="https://www.usajobs.gov/job/890569400">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>University Corporation for Atmospheric Research</strong></td>
 <td><a href="https://trueinterview.io/jobs/01735ea7-a568-4dfc-b41a-53da0fc0bb6e">Systems Administrator I</a></td>
 <td>Export, PA</td>
 <td align="center"><a href="https://ucar.wd5.myworkdayjobs.com/en-US/UCAR_Careers/job/Boulder-CO/Systems-Administrator-I_REQ-2026-213-1">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>University of North Carolina at Chapel Hill</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6f9a115-d222-4d6c-b207-3154f64fd7e4">DevOps System Administrator</a></td>
+<td>Chapel Hill, NC</td>
+<td align="center"><a href="https://unc.peopleadmin.com/postings/327776">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>US Military Treatment Facilities under DHA</strong></td>
+<td><a href="https://trueinterview.io/jobs/e823fb06-7960-48a6-891e-251111d9ee0e">IT Specialist (APPSW/INET)</a></td>
+<td>Quantico, VA</td>
+<td align="center"><a href="https://www.usajobs.gov/job/890572600">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -1826,6 +1915,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Summit 7 Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2d87923-726b-4ce6-acc7-ee6067d80b46">Systems Administrator (TS/SCI)</a></td>
+<td>Warrenton, VA</td>
+<td align="center"><a href="https://summit7.isolvedhire.com/jobs/1892631-272986.html">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Northrop Grumman</strong></td>
 <td><a href="https://trueinterview.io/jobs/1d766d92-cc82-4623-a2d6-7ad65164a269">Network Engineer - Level 3 or 4</a></td>
 <td>Colorado Springs, CO</td>
@@ -2196,146 +2292,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://careers.garmin.com/jobs/20103?lang=en-us">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Cologix</strong></td>
-<td><a href="https://trueinterview.io/jobs/f347bb3d-ebf7-4476-a891-d6f850ad2637">Security Officer - 1st shift (Sunday- Wednesday)</a></td>
-<td>Parsippany, NJ</td>
-<td align="center"><a href="https://jobs.lever.co/cologix/de23f17f-130a-462e-8dd2-1355964eeb3c/apply">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anavation</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a37b086-cd67-43e5-9d3f-0c53e3100d62">IT Support Specialist</a></td>
-<td>Quantico, VA</td>
-<td align="center"><a href="https://jobs.lever.co/anavationllc/7b65d970-88b2-4bea-aafe-1ad5953957c8/apply">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>National Information Solutions Cooperative (nisc</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ce42897-77dc-4595-824d-9f9c17d22d47">Support Specialist - Capital Credits</a></td>
-<td>Any NISC Location or Virtual<br/>Cedar Rapids, IA<br/>Lake Saint Louis, MO<br/>+2 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/nisc/jobs/8188482">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Fluidstack</strong></td>
-<td><a href="https://trueinterview.io/jobs/829c9d0d-465b-4676-b5ec-abcc3afd6a38">IT Engineer</a></td>
-<td>Phoenix, AZ<br/>Memphis, TN</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fluidstack/8d38405a-e267-4a51-a31e-0a5f1953474d/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Real Time Innovations</strong></td>
-<td><a href="https://trueinterview.io/jobs/1dea8e3a-7af8-4695-9719-559fe6b62a77">Embedded Device Lab Administrator</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rti/jobs/8192251">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Benchling</strong></td>
-<td><a href="https://trueinterview.io/jobs/3139c44b-c291-4347-8bec-7e7eb8bea995">Product Support Analyst</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/benchling/8def72e4-3cdc-4005-b091-8f740369ff4c/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Abacus</strong></td>
-<td><a href="https://trueinterview.io/jobs/04141462-a7b5-412e-8c5b-6ea7b78c98a7">Engineer, Merger &amp; Acquisition Engineering</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://abacustechnology.com/about/careers/current-vacancies/?gh_jid=7991623003">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Disher</strong></td>
-<td><a href="https://trueinterview.io/jobs/788e4316-0610-4334-9792-a6585cf8f2e4">Technical Support Engineer - Contract to Hire</a></td>
-<td>Grand Rapids, MI</td>
-<td align="center"><a href="https://jobs.lever.co/disher/f144dd80-488f-4881-85e5-b9f77f9c8f4d/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Long View Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/1ded224d-fc96-4157-90e6-1a6161aa5043">NOC Analyst</a></td>
-<td>Calgary, AB</td>
-<td align="center"><a href="https://jobs.lever.co/lvs1/dd2b9d3b-df56-48ac-8eb8-b5e73d8556c8/apply">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lyra Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e1270b3-e7df-4c11-956e-de80953969fc">Platform Technical Support Specialist</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.lever.co/lyrahealth/0357fb9e-10ba-4e7d-92e5-8916517d139f/apply">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ashby</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b22a514-1f1d-465e-ab4b-509e8b7aafa0">Technical Solutions Consultant - Americas</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ashby/08b6342c-d5c0-4864-a4db-28027d241cbe/application">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Agile Defense</strong></td>
-<td><a href="https://trueinterview.io/jobs/f352dcb3-0c71-4373-8e64-8e32f7b287a6">Contract Writing System Test and Evaluation Analyst</a></td>
-<td>Fort Huachuca, AZ</td>
-<td align="center"><a href="https://jobs.lever.co/agile-defense/4d0ed11b-2c03-4a1c-8165-8fe08130eb03/apply">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Computer World Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c98a8cc-aac2-4870-af3f-ca4091231746">Desktop Engineer - Windows</a></td>
-<td>Morrisville, NC</td>
-<td align="center"><a href="https://jobs.lever.co/cwsc/6bf8347d-5fef-4460-a79e-c32aa9089498/apply">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Bubble</strong></td>
-<td><a href="https://trueinterview.io/jobs/ae191ca8-9d1d-450a-8914-0ce354a70de4">Technical Product Support Specialist</a></td>
-<td>NYC, New York</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/bubble/80714b04-d0c7-4ecc-84b7-9e4901bfa97a/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/1e6c2290-8865-4200-983e-cb60a58b1556">Product Support Specialist - Automotive</a></td>
-<td>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19875?lang=en-us">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Geotab</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c978ee3-9681-4f1e-b14d-af8686bcb6df">Technical Support Specialist - Bilingual Spanish</a></td>
-<td>Waterloo, Ontario - Canada<br/>Atlanta, GA<br/>Oakville, Ontario - Canada<br/>+5 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/geotab/jobs/5407730008">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/2dccbf09-69d0-4244-ab1d-d1908bf129d1">Information Security Analyst</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5225971007?gh_jid=5225971007">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/6875daf9-fcf0-4e32-acfb-4839340e4318">Analyst, Business Systems – AI, Automation &amp; RPA</a></td>
-<td>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990015064842-analyst-business-systems-ai-automation-rpa?oga=true">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tenstreet</strong></td>
-<td><a href="https://trueinterview.io/jobs/0576b4b8-f343-4068-9881-c81f9079079e">Client Operations Services Coordinator</a></td>
-<td>Tulsa, Oklahoma</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tenstreet/jobs/8173903">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>C3el</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e3ba315-4966-4384-bfce-2c79a46396d9">Cybersecurity Specialist</a></td>
-<td>Schenectady, NY<br/>Customer Site</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/c3el/jobs/5230012007">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2349,6 +2305,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>YPOG</strong></td>
+<td><a href="https://trueinterview.io/jobs/359ab135-8faa-4194-aa87-5eb10c811b0d">Microsoft 365 IT Specialist/IT Administrator (m/w/d)</a></td>
+<td>Berlin, Berlin, Germany<br/>Hamburg, Hamburg, Germany<br/>Cologne, North Rhine-Westphalia, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484717507/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fugro</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee288fff-4827-49dd-bde7-1b0f5d4f3b05">IT Support Engineer - Remote Operations &amp; Connectivity</a></td>
+<td>Perth, Western Australia, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452925501/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>MM Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/69743950-9121-45ca-9f2c-c22c5c6003c3">IT Administrator</a></td>
 <td>Dublin, County Dublin, Ireland</td>
@@ -2356,10 +2326,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Kinexus Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/416ebf6d-64e3-437d-9187-72710d78badf">Citrix Systems Administrator (TSPV)</a></td>
+<td>Canberra, Australian Capital Territory, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484715431/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>TechHeads</strong></td>
 <td><a href="https://trueinterview.io/jobs/c346cd84-4e87-4299-b441-d52a763d64cc">IT Support Engineer – L2 | Day Rate Contract</a></td>
 <td>Greater Dublin</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484714483/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Havas Media Germany</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a3f9150-6f3c-45c1-8d60-70c92d45180c">IT Administrator (all gender)</a></td>
+<td>Frankfurt am Main, Hesse, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482548200/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2433,6 +2417,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Deel</strong></td>
+<td><a href="https://trueinterview.io/jobs/b506ac8f-08a3-4c7c-b601-469f02785b4e">Database Administrator</a></td>
+<td>India<br/>Thailand</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456514038/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Sensopro</strong></td>
 <td><a href="https://trueinterview.io/jobs/11908d75-dfa5-4412-906c-a0a2898c0fd0">Technical Support Specialist – Software &amp; IT (60-80%)</a></td>
 <td>Münsingen, Berne, Switzerland</td>
@@ -2493,13 +2484,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/36cb5d30-634c-4751-91ed-8ce43b19b8aa">IT SPECIALIST* APPLICATIONS (LINUX)</a></td>
 <td>Brunswick, Lower Saxony, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4386063685/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Deel</strong></td>
-<td><a href="https://trueinterview.io/jobs/b506ac8f-08a3-4c7c-b601-469f02785b4e">Database Administrator</a></td>
-<td>India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4456514038/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2824,16 +2808,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://magna.wd3.myworkdayjobs.com/Magna/job/Graz-AT/IT-Systems-Engineer--Platform-Management--m-w-x-_R00249327-6">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Canary Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4cbcb04-9368-4305-954f-5fa810309041">L1 Technical Support Agent (Spanish and English Speaking)</a></td>
-<td>LATAM</td>
-<td align="center"><a href="https://jobs.lever.co/canarytechnologies/6911aa00-dae1-458d-963d-779302f512ec/apply">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
 </tbody>
 </table>
-
-<sub>Page 1 of 2 · [Page 2 →](it-and-support-2.md)</sub>
 
 [← Every filter](../README.md) · [Back to the full list](../../README.md)

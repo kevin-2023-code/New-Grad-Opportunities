@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**46 open roles.** 33 in the United States & Canada · 13 elsewhere in the world.
+**43 open roles.** 30 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,17 +18,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Körber</strong></td>
+<td><a href="https://trueinterview.io/jobs/db18aeb4-dae3-40f7-a1a6-e37806f3cc04">Firmware Controls Engineer</a></td>
+<td>Irving, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484720210/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Stature Strategy</strong></td>
 <td><a href="https://trueinterview.io/jobs/b23c4743-2b3b-458e-bb9a-7d14255fcc66">Embedded System Engineer</a></td>
 <td>Traverse City, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484702769/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Umbra</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e145225-3146-48b2-96ca-f8ef743eef9b">Embedded Systems Engineer</a></td>
-<td>Santa Barbara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484495757/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -53,10 +53,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Bright Vision Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/67a0120b-d4eb-43cd-93ec-b09c0526dc5f">Embedded Semiconductor Engineer</a></td>
-<td>Centennial, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484494216/">Apply</a></td>
+<td><strong>Apton, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/8239b39b-f3c0-43ea-98e5-ade1285ef757">Embedded Software Engineer</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481698341/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -227,27 +227,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5239596007?gh_jid=5239596007">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce149da6-ee8f-46d1-8aa5-311208797a16">Embedded Software Validation Engineer</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70952">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ba626f3-4008-4117-ad3d-bf002fd6d739">Embedded Software Test Engineer Graduate</a></td>
-<td>Spring, Texas, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Embedded-Software-Test-Engineer-Graduate_1213438-1">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Terran Orbital Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/143fdf85-e99f-492f-ae8a-4010bbd2fdc0">Associate Flight Software Test &amp; Tools Engineer</a></td>
-<td>Irvine, CA<br/>Spectrum</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/terranorbitalcorporation/jobs/4395353009">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -261,17 +240,17 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/b0fbd6d1-0458-4dba-8dac-2fb9b5a844dc">Firmware Engineer</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454542324/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Applied Materials - Israel</strong></td>
 <td><a href="https://trueinterview.io/jobs/f39619b0-8a70-4747-b7ad-9a00ac53be3d">Embedded Linux Software Engineer</a></td>
 <td>Rehovot, Center District, Israel</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482541613/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>James David Staffing</strong></td>
-<td><a href="https://trueinterview.io/jobs/83d6f87a-529a-4aad-b7e3-f39b859be518">Embedded Test Systems Engineer</a></td>
-<td>Detroit Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481763021/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

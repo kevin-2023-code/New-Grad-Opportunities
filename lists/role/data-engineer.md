@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**184 open roles.** 110 in the United States & Canada · 74 elsewhere in the world.
+**190 open roles.** 118 in the United States & Canada · 72 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>State Street</strong></td>
+<td><a href="https://trueinterview.io/jobs/cbbd82ba-c712-458a-9952-1954839370a0">Security Data Solutions Engineer</a></td>
+<td>Austin, TX<br/>Boston, MA<br/>Sacramento, CA<br/>+3 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481286764/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OM Housing</strong></td>
+<td><a href="https://trueinterview.io/jobs/b61bf5da-e275-4835-a1ce-7c62561fa219">Steris Data Engineer - (PL/SQL, SSIS &amp; SQL Development)</a></td>
+<td>Minneapolis, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482542660/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ICF</strong></td>
+<td><a href="https://trueinterview.io/jobs/b92d010f-be0d-455f-9011-ee7631040954">Data Integration Engineer</a></td>
+<td>Charlotte, NC<br/>Reston, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475988285/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cognizant</strong></td>
+<td><a href="https://trueinterview.io/jobs/bda7a9cb-bfe3-4aad-b5f0-4367dde413c3">Ab Initio Data Engineer</a></td>
+<td>Hartford, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474618703/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skanska</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f953ac5-c619-4418-91b3-c98dece32aa0">Data Analytics Engineer</a></td>
+<td>Atlanta, GA<br/>Charlotte, NC<br/>Durham, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465942487/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Oxbridge Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd3390ce-9660-4ccf-8589-deb151f1c33f">Data Integration Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484704897/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>RemoteHunter</strong></td>
 <td><a href="https://trueinterview.io/jobs/5a0287bb-9a6b-4138-b748-987eb77c04ab">Data Engineer I IS - Remote</a></td>
@@ -39,6 +81,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Rivago Infotech Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebe85e7c-8def-405a-b6dd-2fcef22f9e2c">Data Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482530950/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infosys</strong></td>
+<td><a href="https://trueinterview.io/jobs/a15e45bd-f415-4e03-a12e-0ed5a6b1cfac">ETL Testing Consultant</a></td>
+<td>Richardson, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482544435/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inceed</strong></td>
+<td><a href="https://trueinterview.io/jobs/d02a6dfa-61a2-4214-a639-55730832b7b0">Data Engineer</a></td>
+<td>Tulsa, OK</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461911066/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Encore Talent Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/8c4f286f-5b68-4066-bdb7-5035f39e0d1c">ETL Developer</a></td>
+<td>Tampa, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484715395/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RAIS USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/245d583e-be72-4f06-b635-c00eb6b73c05">Data Engineer</a></td>
+<td>Brooklyn Park, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484103326/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>TekWissen ®</strong></td>
 <td><a href="https://trueinterview.io/jobs/9f4a817c-c244-4f20-b532-b905ed8d6b4f">Data Center Engineer</a></td>
 <td>San Jose, CA</td>
@@ -46,10 +123,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>RAIS USA</strong></td>
-<td><a href="https://trueinterview.io/jobs/245d583e-be72-4f06-b635-c00eb6b73c05">Google Cloud Data Engineer</a></td>
-<td>Brooklyn Park, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484103326/">Apply</a></td>
+<td><strong>TimePlay</strong></td>
+<td><a href="https://trueinterview.io/jobs/d04c0d34-51d5-4050-937b-5ff282714246">Data Engineer</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484108390/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RemoteHunter</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe12790b-8605-406f-8185-5e48ee7d8849">Data Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484104422/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -473,6 +557,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Air Apps</strong></td>
+<td><a href="https://trueinterview.io/jobs/a88a6a96-738b-4ee2-a2f8-407017f3fb01">Data Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476406153/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/20408abf-c4ca-418b-b0d2-ba7699360362">Data Engineer I , WW Ops Finance S&amp;A</a></td>
 <td>Bellevue, WA</td>
@@ -752,41 +843,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/92308?lang=en-us">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Canadian Air Transport Security Authority</strong></td>
-<td><a href="https://trueinterview.io/jobs/669a5911-a6e3-411c-9666-948dfcd67484">Data Engineer</a></td>
-<td>Ottawa, ON</td>
-<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50292216">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/98efecd5-a7f6-47f3-82b5-dbc5699c2857">Data Engineer, Ground Network Engineering (Gateway)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8784022002?gh_jid=8784022002">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ubisoft Montreal</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c4c423a-0070-4d86-9d8e-11dec8ee279d">Data Developer</a></td>
-<td>Montreal, QC<br/>Montreal, Canada</td>
-<td align="center"><a href="https://4dayweek.io/job/data-developer-at-ubisoft-montreal-dbf41a7f">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lightspeed Commerce, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/4d671045-1f6a-4da7-853e-288671f9bc33">Analytics Engineer</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/bebf18c5-3437-4ab3-86db-d065b0611445/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OMERS</strong></td>
-<td><a href="https://trueinterview.io/jobs/da1f7428-3bd8-40ed-91c6-78993d02935e">Data Engineer, Data Integration &amp; Performance Platform (12-Month Contract)</a></td>
-<td>Toronto, Ontario</td>
-<td align="center"><a href="https://omers.wd3.myworkdayjobs.com/OMERS_External/job/Toronto-Ontario/Data-Engineer--Data-Integration---Performance-Platform_JR-8417-1">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -818,6 +874,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/483d7902-454b-46b0-97f9-a7a4a73d36b8">Analytics Engineer</a></td>
 <td>Poland<br/>United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475435131/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TechFirm Information Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3776fbc-c6d6-4206-b8cc-9603a082cd17">Data Engineer</a></td>
+<td>Geneva, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484497836/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -1295,27 +1358,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bhubaneswar - Ihub</td>
 <td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bhubaneswar---Ihub/IN-Manager-Azure-Data-Engineer-OC-Data---Analytics-Advisory-Bhubaneswar_738417WD-1">Apply</a></td>
 <td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rackner</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a4f2e41-4d55-4b8d-9377-e116d41fe018">Data Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rackner/jobs/4733525005">Apply</a></td>
-<td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hivemind Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/10a8c7cd-43b2-4232-8bc3-b4596b04f44c">Data Engineer</a> 🌐</td>
-<td>Remote — Germany</td>
-<td align="center"><a href="https://4dayweek.io/job/data-engineer-hivemind-technologies">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/7543487b-e5c6-45f1-90ce-052bc5f04cea">Data Technical Solutions Engineer</a></td>
-<td>Mexico City</td>
-<td align="center"><a href="https://www.monks.com/careers/6173872004/job?gh_jid=6173872004">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
 </table>

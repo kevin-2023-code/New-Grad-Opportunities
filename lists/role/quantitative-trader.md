@@ -2,7 +2,7 @@
 
 # Quantitative Trader
 
-**9 open roles.** 6 in the United States & Canada · 3 elsewhere in the world.
+**12 open roles.** 9 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>FanDuel</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5237b63-e298-4c61-8dd0-ccc422544d53">Sports Trader (NBA/WNBA)</a></td>
+<td>Jersey City, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482545597/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Louis Dreyfus Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/80547772-f52a-45bb-88ce-b41d2d63c43c">US Refined Soybean Oil Trader</a></td>
+<td>Wilton, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482538593/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CHEManager International</strong></td>
+<td><a href="https://trueinterview.io/jobs/916d52d8-1ba8-4031-962e-8224c2c23638">Equity Trader and Research Analyst</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484113366/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Old Mission</strong></td>
 <td><a href="https://trueinterview.io/jobs/37b63748-f750-4cf3-8d81-a8ee79e51f78">Quantitative Trader (Options)</a></td>
