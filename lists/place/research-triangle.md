@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**82 open roles.**
+**85 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>PTR Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/9147f50a-d530-431d-a41a-88b52e233c6f">Product Owner</a></td>
+<td><strong>Themesoft Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/2859573e-b47c-4926-86f1-48acfc53e313">Operations Support System Engineer</a></td>
 <td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484732523/">Apply</a></td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484743020/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Balfour Beatty US</strong></td>
+<td><a href="https://trueinterview.io/jobs/1abf7385-a76e-4213-9cbe-2b65dbd18376">VDC Engineer</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471934142/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FLOW-3D</strong></td>
+<td><a href="https://trueinterview.io/jobs/46bc2278-0381-469f-b5dd-addc0f0c1663">DevOps Engineer</a></td>
+<td>Chapel Hill, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484132391/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FDM Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/dab36c78-8630-4c44-b2d2-f4bc2704af09">Production Support Engineer</a></td>
+<td>Cary, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484732592/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -32,10 +53,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Accord Technologies Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/a91472ee-2edd-4a79-86d8-ed8b3c10818f">Windows Systems Engineer with Azure</a></td>
-<td>Columbia, SC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484739170/">Apply</a></td>
+<td><strong>Envision Technology Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c4cbe61-fffe-4730-8282-06db5be0700b">Java Developer</a></td>
+<td>Charlotte, NC<br/>Pennington, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483898161/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -43,6 +64,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/59f3b386-3ff5-428d-b904-88a5cde6fc0d">Mechanical Design Engineer</a></td>
 <td>Raleigh, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484726503/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Biogensys</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3508f18-5103-4b4d-a9a6-0bde6ce4838c">Java Developer</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484725522/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anagh Technologies Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6269312-e02a-4e48-b98c-9e2cf48b0cd0">Appian Developer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482546572/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -211,13 +246,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cf3f33bf-9af9-4947-ae55-a056799f5fbc">Oracle Database Administrator</a></td>
 <td>Charlotte, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481687991/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Envision Technology Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c4cbe61-fffe-4730-8282-06db5be0700b">Java Developer</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483898161/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -410,6 +438,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Lenovo</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3dde7f9-03f7-42a1-b120-5564e44551fe">On-Device AI Developer (Software Engineer)</a></td>
+<td>Morrisville, NC</td>
+<td align="center"><a href="https://jobs.lenovo.com/en_US/careers/JobDetail/On-Device-AI-Developer/83271">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>University of North Carolina at Chapel Hill</strong></td>
 <td><a href="https://trueinterview.io/jobs/f6f9a115-d222-4d6c-b207-3154f64fd7e4">DevOps System Administrator</a></td>
 <td>Chapel Hill, NC</td>
@@ -576,20 +611,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Durham, North Carolina, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475">Apply</a></td>
 <td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec1529fb-4fc9-4c54-99c4-15d920d42928">Graduate – Analog Design Engineer</a></td>
-<td>Morrisville, NC, US<br/>Andover, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971880479">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Computer World Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c98a8cc-aac2-4870-af3f-ca4091231746">Desktop Engineer - Windows</a></td>
-<td>Morrisville, NC</td>
-<td align="center"><a href="https://jobs.lever.co/cwsc/6bf8347d-5fef-4460-a79e-c32aa9089498/apply">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>

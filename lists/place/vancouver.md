@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**22 open roles.**
+**23 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>EA SPORTS</strong></td>
+<td><a href="https://trueinterview.io/jobs/38a492cd-896e-480e-8add-c7fe6b23c1a0">Audio Software Engineer - EA SPORTS™ NHL</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Victoria, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460403014/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BCAA</strong></td>
+<td><a href="https://trueinterview.io/jobs/c90c4cc7-d62a-4e3c-ab9c-f8fee27c21a0">Quality Assurance Engineer, Marketplace</a></td>
+<td>Burnaby, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482544658/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Polaris Motion</strong></td>
 <td><a href="https://trueinterview.io/jobs/efed3c4a-c147-4912-af34-7d4699aaec28">.NET Applications Software Developer</a></td>
@@ -43,13 +57,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fb673cc4-31e9-4390-bdfd-837f6c562202">Product Security Engineer, North Security</a></td>
 <td>Vancouver, British Columbia, Canada<br/>Seattle, WA<br/>Ottawa, Ontario, Canada<br/>+6 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475133269/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>EA SPORTS</strong></td>
-<td><a href="https://trueinterview.io/jobs/38a492cd-896e-480e-8add-c7fe6b23c1a0">Audio Software Engineer - EA SPORTS™ NHL</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460403014/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # Quantitative Trader
 
-**12 open roles.** 9 in the United States & Canada · 3 elsewhere in the world.
+**13 open roles.** 10 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Brownstone Investment Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/5afed8cf-5264-4829-8830-5b574115e74a">Emerging Markets Trader</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484727521/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>FanDuel</strong></td>
 <td><a href="https://trueinterview.io/jobs/c5237b63-e298-4c61-8dd0-ccc422544d53">Sports Trader (NBA/WNBA)</a></td>

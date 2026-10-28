@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**204 open roles.**
+**215 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,6 +25,90 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Two Six Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/866b02ff-497d-43af-a953-077017ee1a66">Cybersecurity Researcher</a></td>
+<td>Herndon, Virginia, TST Main Office (13865 Sunrise Valley Dr) - Herndon, VA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/6237744004">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AnaVation LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/41c53541-62a9-42dd-ba25-c3a67eb1e70f">Mid-Cloud Developer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484743055/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mesavita Engineering, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b956276-b69d-41f0-bbb7-a3a31e3726fe">Data Scientist</a></td>
+<td>Annapolis Junction, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484744024/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lumen Solutions Group Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5511928-b3d3-422d-868e-acece9e3478d">System Engineer &amp; SME</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481890980/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anagh Technologies Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/a80bdfdc-9f9c-403c-968e-2a5205224d99">QA Analyst</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482565109/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Insight Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc1b45bb-1dea-48e9-acac-05fffad59a2a">OpenShift Engineer</a></td>
+<td>Springfield, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483696276/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MITRE</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9ffce05-c6ad-428e-93b0-ab983c4b6ad8">Geospatial Data Scientist</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479262750/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/39ff731c-0e90-49ed-b7f6-945228c2266f">Infra Quality Engineer, (Infrastructure Reliability &amp; Quality Engineer)</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484728378/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Epic</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ec890e0-15d0-40f0-9dc3-f7daf3d8f286">Entry-Level Software Developer</a></td>
+<td>Alexandria, VA<br/>Seattle, WA<br/>Cambridge, MA<br/>+28 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/3986116427/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>rand* construction corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1e8c275-62d4-45b7-8e53-75cff60e9dd8">Project Engineer - Alexandria, VA</a></td>
+<td>Alexandria, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482534511/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Technix LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1ab92f7-308c-49a0-90b3-58b0f3d0fa6d">Mainframe Developer</a></td>
+<td>Washington, DC<br/>Alaska, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482510248/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TechTrend, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/0c160877-13f3-44bd-abd4-86e1efd8a99c">Cloud Security Engineer</a></td>
+<td>Reston, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482549441/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>INA Solution</strong></td>
 <td><a href="https://trueinterview.io/jobs/54469db6-c3ed-4719-bc93-0bd59c87fbf0">System Administrator</a></td>
 <td>Herndon, VA</td>
@@ -32,10 +116,52 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef22843b-463e-4636-858b-4e340a3aa3fc">Software Development Engineer, ADC2S</a></td>
+<td>Herndon, VA<br/>Arlington, VA<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476720107/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Architect of the Capitol</strong></td>
 <td><a href="https://trueinterview.io/jobs/9ad3b2cc-e241-47ee-8017-874132b1971b">Fire Protection Engineer</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482730931/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OneZero Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/8fdfb58b-0de7-4e23-bb51-25ba95c6767a">MuleSoft Developer</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484729421/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tech20 solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/22227954-330b-4186-ab1a-a07659770c7d">AI Full Stack Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.indeed.com/viewjob?jk=8aa46b20b327d97b">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DAn Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d5e1ee6-faed-4d5b-9035-af8a37b58dd9">Appian Developer</a></td>
+<td>Reston, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484737169/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Freedom Technology Solutions Group, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/d411d558-004d-40c7-87c0-c4d3be804172">Web Developer 648</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448314333/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DAn Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecc7877e-88e1-4a79-9752-bb0752ef35eb">VDI Engineer</a></td>
+<td>Annapolis Junction, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484736213/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -53,7 +179,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>EY</strong></td>
+<td><a href="https://trueinterview.io/jobs/86d0a1e3-d196-4af5-9e23-0047a82a5436">Government and Infrastructure - Digital Engineering - Cloud Modernization Engineer</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474998335/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Erias Ventures</strong></td>
 <td><a href="https://trueinterview.io/jobs/b592babc-4132-4b50-8c76-80074044c063">Enterprise - DevOps Engineer - Linux, Python, Docker</a></td>
 <td>Annapolis Junction, MD</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484732344/">Apply</a></td>
@@ -158,13 +291,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Steampunk, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac09fd6a-67ab-47f4-b898-e9a54f5dba27">Full Stack Developer (Drupal)</a></td>
-<td>McLean, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482553171/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Guidehouse</strong></td>
 <td><a href="https://trueinterview.io/jobs/c9e85430-2823-46cb-88a6-f4dd4e6cfc79">Cloud Engineer</a></td>
 <td>Washington, DC</td>
@@ -221,10 +347,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Saliense</strong></td>
-<td><a href="https://trueinterview.io/jobs/a9dbde97-51cf-444f-a939-afe5f857ba88">Int. Full-Stack Automation Engineer</a></td>
-<td>McLean, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483690088/">Apply</a></td>
+<td><strong>Arcfield</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1df10c1-9fef-49aa-8e69-31a8f50ebdf2">Model-Based Systems Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482555027/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -428,13 +554,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fb2cb6d4-6109-4ccd-a843-f8590c100332">ServiceNow Developer (SME)</a></td>
 <td>Herndon, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465258068/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef22843b-463e-4636-858b-4e340a3aa3fc">Software Development Engineer, ADC2S</a></td>
-<td>Herndon, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476720107/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -683,13 +802,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>GovCIO</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac9d311d-f1ea-44a8-938c-5f57c7b3c1c6">Network Engineer</a></td>
-<td>Chantilly, VA<br/>San Antonio, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476553728/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>MANTECH</strong></td>
 <td><a href="https://trueinterview.io/jobs/ddf926ea-60cd-4dfa-bf9c-76b82c12f742">Application Developer</a></td>
 <td>Chantilly, VA</td>
@@ -760,24 +872,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Technix LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1ab92f7-308c-49a0-90b3-58b0f3d0fa6d">Mainframe Developer</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482510248/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>The Squires Group, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/d90b89f1-b0d9-404b-9267-248bd3ff1bd0">Cloud Developer, AWS - CLEARED</a></td>
 <td>Vienna, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476315360/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Yakshna Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/aca25d6c-3965-4ef9-98dd-dcd0fb2de39e">Cybersecurity Administrator</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482299611/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -851,10 +949,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Palantir Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/9071dbf3-fb80-4002-810c-8ff09633dfb1">Forward Deployed Software Engineer - Germany Forward Deployed</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://jobs.lever.co/palantir/491a0133-b580-45c3-9fd4-2314faf82fb9">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>TSA (Transportation Security Administration)</strong></td>
 <td><a href="https://trueinterview.io/jobs/4d3cbf2c-0f1f-43d5-96ac-fb1fa4e1526b">IT Specialist (Operating Systems)</a></td>
 <td>Herndon, VA</td>
 <td align="center"><a href="https://www.usajobs.gov/job/890525000">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Advantage Engineering &amp; IT Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7768b5b-a371-4e00-8472-808b3d1703a5">Software Engineer, Level 1 (AE26100910SW1)</a></td>
+<td>Annapolis Junction, MD</td>
+<td align="center"><a href="https://aeitsinc.isolvedhire.com/jobs/1892965-323419.html">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Network Designs</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8789fc9-70e5-41f7-bc63-520da6bbbb31">.NET Developer</a></td>
+<td>Alexandria, VA</td>
+<td align="center"><a href="https://netdes.isolvedhire.com/jobs/1893012-76852.html">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -932,13 +1051,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/058dc0e6-6830-4477-8311-dd6409e7bb84">Mechanical Engineer, Data Centers - Remote (U.S.)</a> 🌐</td>
 <td>Remote — United States<br/>Arlington, VA</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000158160829-mechanical-engineer-data-centers-remote-u-s-">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tate Access Floors</strong></td>
-<td><a href="https://trueinterview.io/jobs/ad31b1ac-67eb-450a-8785-3b12084a2643">Piping Designer</a> 🌐</td>
-<td>Remote — United States<br/>Columbia, MD</td>
-<td align="center"><a href="https://kingspan.rec.pro.ukg.net/KIN1011KIPI/JobBoard/33608bb1-3ee4-499d-ac64-5bf915a31ac4/OpportunityDetail?opportunityId=9e18798b-e57c-4312-8d83-f064f1f2afd5&amp;postingId=928c828d-5738-480f-816c-4a1830d0c18a">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -1023,13 +1135,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4533947e-0cae-42ad-b777-bb22a23a27aa">System Administrator (After Hours)</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://jobs.baesystems.com/global/en/job/129617BR">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BOAB Ventures</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac2d252e-69d5-4cde-9436-612a7ef0a4f4">Systems Engineer - Cloud</a></td>
-<td>Chantilly, VA</td>
-<td align="center"><a href="https://boabventures.jobs.agile-ats.com/jobs/details/80">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -1416,34 +1521,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Washington, DC<br/>Hawthorne, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Erg</strong></td>
-<td><a href="https://trueinterview.io/jobs/b2eee021-a4da-45af-b21e-b1a793ccc4d1">Entry Level Environmental Engineer/Scientist 2026/2027 Career Fair</a></td>
-<td>Washington, DC<br/>Fairfax, VA<br/>Arlington, VA<br/>+1 more</td>
-<td align="center"><a href="https://jobs.lever.co/erg/a43d3070-1dda-4e92-894c-cb2ae7bd7c64/apply">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OpenAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b39408c-a607-4d99-beae-b3c3d604b13e">Applied AI Engineer, Government</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/openai/485cda77-5d8f-4aaa-bca5-916b011477e6/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Accenture Federal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/01178681-cf63-43b6-87b3-080ed18e840f">AI Security Associate Manager</a></td>
-<td>Arlington, VA</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4709765006?gh_jid=4709765006">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Jensen Hughes</strong></td>
-<td><a href="https://trueinterview.io/jobs/cbb5746e-ae3c-46e0-a6b5-9c098daea85a">Associate Fire Protection Engineer</a></td>
-<td>Columbia, Maryland, United States<br/>Columbia, MD</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5362942008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🇦🇺 Sydney, Melbourne & Aotearoa
 
-**62 open roles.**
+**58 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -251,13 +251,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>DroneShield</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac30b2c6-66e4-48ba-bf16-d6dfa09ea793">Detection and Response Engineer</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465782651/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Insignia Financial</strong></td>
 <td><a href="https://trueinterview.io/jobs/bc25b692-e30a-4260-8506-07c171732d28">CRM Developer</a></td>
 <td>Sydney, New South Wales, Australia<br/>Hobart, Tasmania, Australia</td>
@@ -377,13 +370,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Persistent Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/8dd4ed5a-9751-4110-b844-771130c1cbd0">Azure DevOps Engineer</a></td>
-<td>Melbourne, Australia</td>
-<td align="center"><a href="https://careers.persistent.com/jobview/architect-australia-melbourne-2026102321321289">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Mable</strong></td>
 <td><a href="https://trueinterview.io/jobs/bb3e0b36-1033-47e1-a802-970891879519">Graduate Engineer</a></td>
 <td>Melbourne, Brisbane, Sydney</td>
@@ -438,20 +424,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brisbane, Queensland, Australia</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95839">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Jensen Hughes</strong></td>
-<td><a href="https://trueinterview.io/jobs/12b32e3a-25c7-47d7-9a85-7f81f42ea8ee">Graduate - LAB Fire Testing Engineer</a></td>
-<td>Melbourne, Victoria, Australia<br/>Warrington Fire - Melbourne Lab</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5417816008">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mako</strong></td>
-<td><a href="https://trueinterview.io/jobs/1de4b7f6-e184-43e3-a256-14812299d0f4">Graduate Software Engineer, Sydney</a></td>
-<td>Sydney<br/>Mako Sydney</td>
-<td align="center"><a href="https://www.mako.com/opportunities/job-listing/8654611002?gh_jid=8654611002">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 </tbody>
 </table>

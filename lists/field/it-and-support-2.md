@@ -2,77 +2,11 @@
 
 # 🧰 IT & Support
 
-**506 open roles.** 408 in the United States & Canada · 98 elsewhere in the world.
+**481 open roles.** 387 in the United States & Canada · 94 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
 <sub>[← Page 1](it-and-support.md) · Page 2 of 2</sub>
-
-## United States & Canada
-
-<table>
-<thead>
-<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/6875daf9-fcf0-4e32-acfb-4839340e4318">Analyst, Business Systems – AI, Automation &amp; RPA</a></td>
-<td>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990015064842-analyst-business-systems-ai-automation-rpa?oga=true">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tenstreet</strong></td>
-<td><a href="https://trueinterview.io/jobs/0576b4b8-f343-4068-9881-c81f9079079e">Client Operations Services Coordinator</a></td>
-<td>Tulsa, Oklahoma</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tenstreet/jobs/8173903">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>C3el</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e3ba315-4966-4384-bfce-2c79a46396d9">Cybersecurity Specialist</a></td>
-<td>Schenectady, NY<br/>Customer Site</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/c3el/jobs/5230012007">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Accenture Federal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/998268bb-17d3-40d3-98de-affd6e8b0143">Security Specialist</a></td>
-<td>Quantico, VA</td>
-<td align="center"><a href="https://boards.greenhouse.io/accenturefederalservices/jobs/4708629006?gh_jid=4708629006">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Iseatz</strong></td>
-<td><a href="https://trueinterview.io/jobs/02b8d5bf-93db-4b71-a968-962d79e671b9">Cybersecurity Compliance Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/iseatz/jobs/5406282008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ians</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb8f4ab8-bc43-468a-9f89-2e42c66adad2">Client Services Specialist</a></td>
-<td>Boston, MA<br/>Boston-Hybrid</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/ians/jobs/5225117007">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Yext</strong></td>
-<td><a href="https://trueinterview.io/jobs/908f44f8-5ecd-497e-9919-54fe372fe32f">Specialist, Concierge Services</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/yext/jobs/8157597">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Mapbox</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d2f9be2-ecff-4866-817d-7aa0d579e795">IT Administrator</a></td>
-<td>Mapbox US</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/mapbox/5eb5480d-b457-4ce9-8f12-6292a2a402df/application">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-</tbody>
-</table>
 
 ## Elsewhere in the world
 
@@ -83,62 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Bloomberg</strong></td>
-<td><a href="https://trueinterview.io/jobs/36564488-8721-4457-83b0-f89e76fd901b">User Support - Bloomberg Technical Support (Bahasa Indonesia Speaker) - Singapore</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4452343967/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Catalyx</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0b4d5aa-526e-49c3-9597-04470471249c">QC Systems Administrator - Empower</a></td>
-<td>Cork, County Cork, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482541814/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intuity Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/076dc83f-95e9-463a-9511-446bd173b600">Service Desk Analyst</a></td>
-<td>Galway, County Galway, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482555120/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Stefanini Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/21b15616-4143-47c5-937c-f0b0deaaf051">Desktop Support Specialist</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4471496515/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Harris Global Business Services (GBS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/f19f2669-c627-4ab2-ac16-ff82a4b3d9f6">Cloud System Administrator</a></td>
-<td>India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481409056/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TNO</strong></td>
-<td><a href="https://trueinterview.io/jobs/04eedc0e-11a0-4d17-a249-a906170254ac">IT Support Specialist (Crypto administration &amp; Networks) - The Hague - 32-40h</a></td>
-<td>The Hague, South Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484711701/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/68c71941-9a43-49ab-a1d3-7ea6005785e3">IT Support Specialist &amp; Crypto Administrator - The Hague - 32-40h</a></td>
-<td>The Hague, South Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484717238/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bloomberg</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff03d43a-0f62-4d7e-b622-e54fb1200b6c">Bloomberg Technical Support Specialist - French, Spanish or Portuguese Speaking</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4441086611/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Amadeus Fire</strong></td>
 <td><a href="https://trueinterview.io/jobs/65f173e2-508c-412d-9f7c-9f6e64f8341b">First Level Supporter (m/w/d) Helpdesk</a></td>
@@ -172,6 +50,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ee288fff-4827-49dd-bde7-1b0f5d4f3b05">IT Support Engineer - Remote Operations &amp; Connectivity</a></td>
 <td>Perth, Western Australia, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452925501/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>British Airways</strong></td>
+<td><a href="https://trueinterview.io/jobs/f252fb1c-8e41-49d2-a331-550f010ba4be">Technical Engineer - Technical Support Group (TSG) (Powerplant)</a></td>
+<td>Hounslow, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484712374/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Formula 1</strong></td>
+<td><a href="https://trueinterview.io/jobs/419489c6-aa74-4d0a-962b-336906f77f1b">IT Service Desk Analyst</a></td>
+<td>Biggin Hill, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484701911/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -691,83 +583,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://careers.nebius.com/?gh_jid=4971845101">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hawk Eye Innovations (hei</strong></td>
-<td><a href="https://trueinterview.io/jobs/27076e6b-3a53-4034-b0b8-9cd52854e415">Football Technology Systems Operator - Singapore</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hawkeyeinnovations/c9fd7f85-eebd-4aad-a68c-f3fc2cc9f549/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>C6 Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/9f31a403-6225-4951-98ac-9e0a64dde3ec">Analista de Digital Workplace Pleno | Workplace Serv</a></td>
-<td>São Paulo, Brazil<br/>C6 Bank</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/c6bank/jobs/4731926005">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hawk Eye Innovations (hei</strong></td>
-<td><a href="https://trueinterview.io/jobs/380b3f85-2d15-4fad-863d-911d6924bd61">Rugby Systems Operator</a></td>
-<td>UK Based with Global Travel</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hawkeyeinnovations/ddf288b9-d7cc-4bed-87c2-5ff10f6edee3/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Formlabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/28349f48-e110-4354-b455-7e6c73f1acd4">Technical Support Specialist - French speaking</a></td>
-<td>Budapest, Hungary</td>
-<td align="center"><a href="https://careers.formlabs.com/job/8180697/apply/?gh_jid=8180697">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Allwyn Uk</strong></td>
-<td><a href="https://trueinterview.io/jobs/812b829c-3814-46f8-94d9-cc3ed3fa5a00">SOC Analyst</a></td>
-<td>Warrington, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.workable.com/view/sxc47dQaGQ2Z5wTUPUodVp/hybrid-soc-analyst-in-warrington-at-allwyn-uk">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Ruby Hotels</strong></td>
-<td><a href="https://trueinterview.io/jobs/a0c95203-82ae-4476-aacf-023580697ec5">Specialist Commercial Systems (m/f/d)</a></td>
-<td>Munich<br/>Corporate Office</td>
-<td align="center"><a href="http://job-boards.eu.greenhouse.io/rubyhotels/jobs/4968087101?gh_jid=4968087101">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Awin</strong></td>
-<td><a href="https://trueinterview.io/jobs/8234768b-9b0d-4cf7-94ea-8bc2ef756693">Technical Consultant (f/m/d)</a></td>
-<td>São Paulo, São Paulo, Brazil<br/>Sao Paulo</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/awin/jobs/7984749003">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Terra</strong></td>
-<td><a href="https://trueinterview.io/jobs/49403cdd-6e1c-4b30-8b0e-817f0e1128c7">Web Production Specialist (LatAm)</a></td>
-<td>Buenos Aires</td>
-<td align="center"><a href="https://jobs.lever.co/terrahq/e9cb9476-d5fd-49ee-9789-d57e53baa9b7/apply">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Jetsupport</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f9f1262-bd7e-489c-a1da-8993bd787192">Technical Support Specialist</a></td>
-<td>Pampanga, PHL</td>
-<td align="center"><a href="https://jobs.lever.co/jetsupport/1c945b93-6497-428e-9241-cec94ba09861/apply">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Genius Sports</strong></td>
-<td><a href="https://trueinterview.io/jobs/347545e2-54fc-446c-a217-079c1fb4349a">Streaming Technical Support Analyst</a></td>
-<td>Medellín, Antioquia, Colombia<br/>Medellin, Colombia</td>
-<td align="center"><a href="https://boards.greenhouse.io/geniussports/jobs/7983804003?gh_jid=7983804003">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Apply Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8a5239c-8d2d-45ff-a1ad-dad665869475">Service Desk Engineer (Weekend)</a></td>
-<td>Santiago<br/>Latin America</td>
-<td align="center"><a href="https://jobs.lever.co/applydigital/0957c3bd-9456-44c4-8429-8ae80d587e97/apply">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🇮🇪 Dublin & Ireland
 
-**69 open roles.** 1 in the United States & Canada · 68 elsewhere in the world.
+**68 open roles.** 1 in the United States & Canada · 67 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -83,13 +83,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/69743950-9121-45ca-9f2c-c22c5c6003c3">IT Administrator</a></td>
 <td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484700906/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GMC Utilities Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/a93b1d47-a694-47a6-9d42-15630923b841">Design Engineer - Water/Wastewater</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474442820/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

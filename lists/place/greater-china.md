@@ -2,7 +2,7 @@
 
 # 🏮 Beijing, Shanghai, Taipei & Hong Kong
 
-**22 open roles.**
+**21 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -165,13 +165,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Taipei, Taiwan</td>
 <td align="center"><a href="https://4dayweek.io/job/system-software-engineer-at-framework-6a7fd510">Apply</a></td>
 <td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Obsidian Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/095b9dd2-800f-45b9-bde4-5f166de58e96">AI Security Engineer - Taiwan</a></td>
-<td>Taipei, Taiwan</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/obsidiansecurity/jobs/5406173008">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 </tbody>
 </table>

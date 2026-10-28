@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**23 open roles.**
+**24 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ITCO Solutions, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/0aee1bf2-fd81-48bd-9b1f-10eeb5deaa47">GCP Cloud Engineer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482555345/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Belcan</strong></td>
 <td><a href="https://trueinterview.io/jobs/afc02e72-6fd8-4f07-b989-4c94a2d0cf2f">Cloud Engineer</a></td>

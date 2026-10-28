@@ -2,7 +2,7 @@
 
 # 🇨🇭 Zürich & Switzerland
 
-**72 open roles.**
+**69 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -161,13 +161,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Academic Work</strong></td>
-<td><a href="https://trueinterview.io/jobs/ad5d71e5-d83b-47ac-9413-d1507a2fddcf">Avaloq Technical Developer – Trading &amp; STEX</a></td>
-<td>Zurich, Zurich, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482515714/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/963b696e-5eb8-4c06-a58f-df9f4ae31f8e">Avaloq Technical Developer</a></td>
 <td>Zurich, Zurich, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482511857/">Apply</a></td>
@@ -199,13 +192,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/776878f8-a517-4048-abfc-00e9724c0c31">DevSecOps Engineer (w/m/d) 60 - 100%</a></td>
 <td>Zurich, Zurich, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474995370/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ebury</strong></td>
-<td><a href="https://trueinterview.io/jobs/ad3c3cd3-4fb6-460a-87c2-e08212eda93c">Business Developer Partnerships (French speaking)</a></td>
-<td>Zurich, Zurich, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484455354/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -515,13 +501,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Basel, Switzerland</td>
 <td align="center"><a href="https://careers.roche.com/de/de/job/202610-126479">Apply</a></td>
 <td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SonarSource</strong></td>
-<td><a href="https://trueinterview.io/jobs/3da7ccb9-0207-4966-ac38-1916eef4d0ca">Data Scientist, Product Analytics</a></td>
-<td>Geneva</td>
-<td align="center"><a href="https://jobs.lever.co/sonarsource/c9783c31-cfa1-4d95-b31a-278cd0d14162/apply">Apply</a></td>
-<td align="center">7 Sep 2026</td>
 </tr>
 </tbody>
 </table>
