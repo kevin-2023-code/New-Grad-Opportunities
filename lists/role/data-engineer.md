@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**306 open roles.** 162 in the United States & Canada · 144 elsewhere in the world.
+**310 open roles.** 163 in the United States & Canada · 147 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cognizant</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff9a5a59-ca34-4ae0-9dad-4119b35fadb4">Data Engineer (Snowflake, Azure Data Factory, Python &amp; SQL)</a></td>
+<td>Halifax, Nova Scotia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458304201/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>WSP in the U.S.</strong></td>
 <td><a href="https://trueinterview.io/jobs/b8d07086-6b41-4d80-bfa8-fedb399c2141">Data Center Mechanical Engineer, Assistant Consultant</a></td>
@@ -1199,6 +1206,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Morson Edge (Technology)</strong></td>
+<td><a href="https://trueinterview.io/jobs/40d2b9a3-0233-4990-b409-4d0cab31a1e2">Data Engineer (Financial Services)</a></td>
+<td>London Area, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485222023/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>University of East London</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4e5cdf8-e321-457b-8a58-ac2e3ad932ed">Business Intelligence Analyst</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485214174/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>A11</strong></td>
 <td><a href="https://trueinterview.io/jobs/62dc0f7b-f539-4728-92e7-0a54495ac75c">Data Engineer (m/f/d)</a></td>
 <td>Berlin, Germany</td>
@@ -1518,6 +1539,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6fc5462d-7095-4573-b872-5b53f6fb6d04">Data Engineer</a></td>
 <td>Barcelona, Spain<br/>Groningen, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482466040/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/0456ca9f-6d6a-4bec-9693-3ea24eee050e">Data Engineer, Amazon Stores FinTech</a></td>
+<td>Luxembourg, Luxembourg, Luxembourg</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477171144/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

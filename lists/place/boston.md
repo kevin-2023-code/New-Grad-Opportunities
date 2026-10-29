@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**104 open roles.**
+**105 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ecfc740f-8db0-4464-bc0d-7e46b6c1a8e2">Sustaining Product Engineer</a></td>
 <td>Leominster, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4247571613/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SLB</strong></td>
+<td><a href="https://trueinterview.io/jobs/d553a849-dcbe-4b49-b3cc-1833f3f90b30">Research Scientist, Energy Innovation</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474467188/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

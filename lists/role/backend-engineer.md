@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**77 open roles.** 42 in the United States & Canada · 35 elsewhere in the world.
+**79 open roles.** 44 in the United States & Canada · 35 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Trinity Cyber</strong></td>
+<td><a href="https://trueinterview.io/jobs/02cb9f91-848f-4e10-8101-cd8a5496c18c">Back End Developer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458860916/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Anything</strong></td>
 <td><a href="https://trueinterview.io/jobs/c7924048-5474-40e2-b96d-2aefe2e72395">Backend Engineer - AI</a></td>
@@ -239,6 +246,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/db6af251-1acf-455e-8d53-dc3afabc17ca">Java Backend Engineer (W2 Contract only/ No 3rd Parties)</a></td>
 <td>Cincinnati, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478460201/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SE Independent Delivery Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/fea79bdf-4cc0-4ca2-9499-3dca1fbe3ba5">Backend Developer 1</a></td>
+<td>Seffner, FL</td>
+<td align="center"><a href="https://apply.jobappnetwork.com/clients/19335/posting/EDED9E45-E3E4-4216-8971-4AF6724FB9F1/en?dt=1026">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

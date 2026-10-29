@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**69 open roles.** 30 in the United States & Canada · 39 elsewhere in the world.
+**70 open roles.** 30 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -384,6 +384,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/936c9640-4618-4eda-8a47-b12b9c5f3edf">iOS Engineer (up to £150k)</a></td>
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484906176/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>株式会社ヘルスベイシス</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3735633-bea3-41a5-bb19-f1fb6e63708b">iOSエンジニア 医療向け健康管理システム開発</a></td>
+<td>—</td>
+<td align="center"><a href="https://jp.indeed.com/viewjob?jk=8b5dd6e0c4721a54">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

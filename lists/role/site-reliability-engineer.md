@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**56 open roles.** 24 in the United States & Canada · 32 elsewhere in the world.
+**57 open roles.** 24 in the United States & Canada · 33 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -392,6 +392,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>India</td>
 <td align="center"><a href="https://ncr.wd1.myworkdayjobs.com/en-US/ext_apac/job/HYDERABAD-IND/Site-Reliability-Engineer-I_R0158946">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GEM Partners 株式会社</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2ea4193-ae57-422e-ac77-cd1dc9210ebb">【映画・アニメ・IP】SRE(データ・AIプロダクトのインフラと信頼性の向上)</a></td>
+<td>—</td>
+<td align="center"><a href="https://gempartners.recruitment.jp/cr_job_detail/?id=667&amp;topics_id=667">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>ELLIOTT MOSS CONSULTING PTE. LTD.</strong></td>

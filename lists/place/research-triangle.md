@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**103 open roles.**
+**102 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -695,13 +695,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Charlotte, NC</td>
 <td align="center"><a href="https://wellsfargo.talentnet.community/jobs/0a20b76e-954e-4c07-9306-3648248724a8">Apply</a></td>
 <td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Infosys</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd65e2fd-ff42-48fd-9207-a97f8f5c0705">Oracle Database Administrator</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/155298BR">Apply</a></td>
-<td align="center">26 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>

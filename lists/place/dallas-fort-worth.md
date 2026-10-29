@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**168 open roles.**
+**167 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -351,13 +351,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c6b4c76b-3ad6-4339-b878-a76d648761ed">Single-View Developer</a></td>
 <td>Richardson, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482577021/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/832d8892-d426-4c19-9da3-70317fe5994d">C++ Developer</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482566589/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

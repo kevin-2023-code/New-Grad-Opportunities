@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**98 open roles.** 59 in the United States & Canada · 39 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**97 open roles.** 59 in the United States & Canada · 38 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -573,13 +573,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/836f6f73-adec-45bf-a0aa-51d03a97861f">Security Solution Engineer</a></td>
 <td>Finland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484486439/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a33c222f-af81-4dbd-a871-d99493703346">Technical Support Advisory</a></td>
-<td>Pune Division, Maharashtra, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484476638/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

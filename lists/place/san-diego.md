@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**57 open roles.**
+**58 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -46,7 +46,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d835329-6c2c-45f7-93f1-ad2783689212">Cellular Protocol Development Engineer</a></td>
+<td>San Diego, California, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692503">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Atomics Aeronautical Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c5ae6b0-2fb6-4b60-b567-3b2173b6e017">Software Developer</a></td>
 <td>Poway, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476905888/">Apply</a></td>

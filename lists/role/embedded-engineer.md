@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**77 open roles.** 53 in the United States & Canada · 24 elsewhere in the world.
+**78 open roles.** 53 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -468,6 +468,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/12481cf7-c149-4e5a-bb85-9993cfcfebc9">Embedded Software Engineer</a></td>
 <td>Arnhem, Gelderland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484924128/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rheem Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a6a5190-1df6-4b9b-906c-20ac99bd4543">Embedded Software Developer</a></td>
+<td>Rydalmere, Australia</td>
+<td align="center"><a href="https://rheem.bigredsky.com/page.php?pageID=160&amp;windowUID=0&amp;AdvertID=934476">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

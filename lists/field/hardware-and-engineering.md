@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,041 open roles.** 723 in the United States & Canada · 318 elsewhere in the world.
+**1,044 open roles.** 724 in the United States & Canada · 320 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -38,6 +38,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/34908d9f-fa6c-422a-a4de-d515aa8ae191">Early Career Electrical Engineer (ESSP)</a></td>
 <td>Denver, CO<br/>San Diego, CA<br/>Fort Mill, SC<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459387454/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>itec group Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/00ed6ace-c027-440d-aa8b-4d0a3d79b469">Structural Engineer</a></td>
+<td>Guelph, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480074384/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/59ad51dd-1ff3-4959-ac6e-d79335aacbab">Entry-Level Civil Engineer - Site Design</a></td>
 <td>Salt Lake City, UT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465249747/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>General Motors</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd9bb4c3-0d55-4f91-8af8-98290a5a82b3">Software Verification Engineer, AV Platform (Early Career)</a></td>
-<td>Milford, MI<br/>Warren, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465391966/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
