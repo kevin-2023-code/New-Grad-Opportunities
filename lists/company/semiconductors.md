@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**292 open roles.** 144 in the United States & Canada · 148 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**293 open roles.** 144 in the United States & Canada · 149 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1049,6 +1049,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2bec52a7-d218-4f80-9aa2-ab99f425d3e6">RF Applications Engineer</a></td>
 <td>Limerick, County Limerick, Ireland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466246722/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/f01c4101-3674-4227-9f2e-e9dc57255ef8">Customer Engineer</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474825815/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

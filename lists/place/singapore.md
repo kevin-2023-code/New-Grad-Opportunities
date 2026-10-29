@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**273 open roles.** 2 in the United States & Canada · 271 elsewhere in the world.
+**274 open roles.** 2 in the United States & Canada · 272 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -961,9 +961,16 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Carrier</strong></td>
+<td><a href="https://trueinterview.io/jobs/23a12f42-316b-4f43-af56-99c68490513a">Assistant Engineer for Control Application (BMS)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483677352/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Firmus Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/c07d9155-95bf-4c95-979f-4b3c04672b0d">Platform Reliability Engineer</a></td>
-<td>Sydney, New South Wales, Australia, Australia, Singapore</td>
+<td>Sydney, New South Wales, Australia, Australia, Singapore<br/>Melbourne, Australia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/firmus/jobs/5464412008">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>

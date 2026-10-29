@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**394 open roles.** 204 in the United States & Canada · 190 elsewhere in the world.
+**395 open roles.** 204 in the United States & Canada · 191 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2386,6 +2386,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/515b3d33-4f8a-4ee9-adfc-5b29199a60cc">Pre-Sales Engineer ( AI, HPC, Cloud Infrastructure )</a></td>
 <td>Geylang, Singapore</td>
 <td align="center"><a href="https://www.mycareersfuture.gov.sg/job/5150ee17a64b9bf0179ff8719c94e2cd">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NTT DATA</strong></td>
+<td><a href="https://trueinterview.io/jobs/90a54a43-53d8-4e8f-8be7-12c6fe6cef0b">Identity Engineer – Microsoft Entra &amp; AI Platform</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://apply.recruitwizard.app/C6bVuHWtZHl?showdetails=true">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

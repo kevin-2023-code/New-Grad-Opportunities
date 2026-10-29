@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**95 open roles.**
+**96 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -548,6 +548,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Denver, CO</td>
 <td align="center"><a href="https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Security-Engineer---Application-Security_JR116921-2">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CoreSite</strong></td>
+<td><a href="https://trueinterview.io/jobs/7be11642-8bfe-497d-88a9-b2a98355fe5e">Data Analyst</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://jobs.coresite.com/jobs/18407017-data-analyst?tm_job=2055&amp;tm_event=view&amp;tm_company=96672">Apply</a></td>
+<td align="center">26 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Michaels Energy</strong></td>

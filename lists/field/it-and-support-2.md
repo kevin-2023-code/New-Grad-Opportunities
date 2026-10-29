@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**699 open roles.** 540 in the United States & Canada · 159 elsewhere in the world.
+**700 open roles.** 540 in the United States & Canada · 160 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1369,6 +1369,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b3fe5f32-1c70-41fb-85ba-52080f212851">Technical Support Specialist UK</a></td>
 <td>United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484794412/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zapegg Tax Consultant</strong></td>
+<td><a href="https://trueinterview.io/jobs/db59c1a7-5110-426a-9a65-4d1616652df9">IT Support Engineer</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://recruitment.zapegg.com/job/it-support-engineer-14/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

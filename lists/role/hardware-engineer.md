@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**139 open roles.** 92 in the United States & Canada · 47 elsewhere in the world.
+**140 open roles.** 92 in the United States & Canada · 48 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -673,6 +673,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea3481e6-36f7-4265-b1f2-8bc0d303f0d4">ASIC SOC Integrator</a></td>
+<td>Hsinchu, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4430865545/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Fulfill Team Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/7f431eeb-42c5-4b27-b0f6-036a66c094e1">Hardware Test Engineer</a></td>

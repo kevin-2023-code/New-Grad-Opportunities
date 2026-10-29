@@ -2,7 +2,7 @@
 
 # 🇦🇺 Sydney, Melbourne & Aotearoa
 
-**126 open roles.** 4 in the United States & Canada · 122 elsewhere in the world.
+**137 open roles.** 5 in the United States & Canada · 132 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9ddd7bcb-4df5-429d-b70b-affa608ec3b7">Software Engineer - YAML Experience</a></td>
 <td>Sydney, New South Wales, Australia<br/>Melbourne, Victoria, Australia<br/>New York, NY<br/>+5 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484792387/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Leidos</strong></td>
+<td><a href="https://trueinterview.io/jobs/20291832-c960-4212-b10f-47d53ba2af48">Systems Administrator</a></td>
+<td>Canberra, Australia<br/>Beavercreek, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484728779/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
@@ -284,8 +291,8 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Aurecon</strong></td>
 <td><a href="https://trueinterview.io/jobs/b92a04bc-f08e-4def-9790-d93229335017">Mechanical Engineer, Buildings</a></td>
-<td>Brisbane, Queensland, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484912321/">Apply</a></td>
+<td>Brisbane, Queensland, Australia<br/>Brisbane, Australia</td>
+<td align="center"><a href="https://aurecongroup.wd3.myworkdayjobs.com/en-US/aurecon/job/Brisbane/Mechanical-Engineer--Buildings_R33686">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -310,6 +317,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Leaseweb</strong></td>
+<td><a href="https://trueinterview.io/jobs/b789de43-9c12-4812-a82f-e3713ea0bca2">Datacenter Operations Engineer</a></td>
+<td>Sydney, Australia<br/>North Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484911335/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Programmed</strong></td>
 <td><a href="https://trueinterview.io/jobs/31123a8e-a3a9-475d-8bbe-06aab2a62f52">Defence opportunities - System Engineering &amp; Testing</a></td>
 <td>Canberra, Australian Capital Territory, Australia</td>
@@ -328,6 +342,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c7f41d1b-1b13-4767-b631-ad44cbad4d87">Data Analyst</a></td>
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484799648/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Goodman Fielder</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9fe8900-a605-4389-a47b-b4d048420e7d">National Automation &amp; Electrical Engineer</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://careers.goodmanfielder.com.au/jobtools/jncustomsearch.viewFullSingle?in_organid=17226&amp;in_jncounter=226717640&amp;in_site=Indeed">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Leidos</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f2f29ac-3bc4-4d72-a5d3-8da34ae7ca3a">Test Engineer</a></td>
+<td>Melbourne, Australia</td>
+<td align="center"><a href="https://careers.leidos.com/jobs/18417675-test-engineer?tm_job=R-00195784&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Q-CTRL</strong></td>
+<td><a href="https://trueinterview.io/jobs/82a5d1f9-fd06-4add-8d1d-5481bc51e3c9">Security Engineer</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://jobs.lever.co/q-ctrl/ad82ad19-2d01-4c4b-89a7-4c02ad1ec2ef">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -466,7 +501,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Firmus Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/c07d9155-95bf-4c95-979f-4b3c04672b0d">Platform Reliability Engineer</a></td>
-<td>Sydney, New South Wales, Australia, Australia, Singapore</td>
+<td>Sydney, New South Wales, Australia, Australia, Singapore<br/>Melbourne, Australia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/firmus/jobs/5464412008">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
@@ -758,6 +793,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>NTT DATA</strong></td>
+<td><a href="https://trueinterview.io/jobs/90a54a43-53d8-4e8f-8be7-12c6fe6cef0b">Identity Engineer – Microsoft Entra &amp; AI Platform</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://apply.recruitwizard.app/C6bVuHWtZHl?showdetails=true">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Snowflake</strong></td>
 <td><a href="https://trueinterview.io/jobs/e428e6a7-9b74-46b5-b272-4c1eb22c0de7">Data Engineer</a></td>
 <td>Melbourne, Australia</td>
@@ -776,6 +818,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/72cef7d8-6c9b-4083-b46d-4d7140fcd646">Linux Engineer</a></td>
 <td>Sydney, Australia</td>
 <td align="center"><a href="https://belong.advania.co.uk/jobs/8624871-linux-engineer">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b12d8ee-6e4f-4a02-b187-ecf6090db115">ICT Design Engineer, DC Design Engineering</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10591896/ict-design-engineer-dc-design-engineering?cmpid=DA_INAD200785B">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -828,11 +877,39 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>NTT DATA</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9c04e1c-34d4-4baf-accc-ca5405413572">M/LOps Engineer</a></td>
+<td>Perth, Australia</td>
+<td align="center"><a href="https://apply.recruitwizard.app/j8TSP4rXgUo?showdetails=true">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Redgate Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f82ab60-7000-4a71-ab14-1d2cf4a2b7c0">Solutions Engineer</a></td>
+<td>Brisbane, Australia</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/red-gate/1a7005a5-777f-41ae-bdac-a85de33b358d">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Sportsbet</strong></td>
 <td><a href="https://trueinterview.io/jobs/9c464263-700a-47f8-b646-a192386c1835">Software Engineer</a></td>
 <td>Melbourne, Australia</td>
 <td align="center"><a href="https://careers.sportsbet.com.au/jobs/software-engineer-melbourne-vic-australia-83d23dc9-db9e-4397-8585-2fddb372503b">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NCS</strong></td>
+<td><a href="https://trueinterview.io/jobs/31a4565c-9af3-41be-840e-65efd8411d90">GCP Data Engineer - Contract or Perm</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NCSAustralia/6000000001524981-gcp-data-engineer-contract-or-perm">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SYSTRA</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf4390b3-367b-430f-a0c8-e8572553b60a">Civil Designer - Rail QLD &amp; VIC</a></td>
+<td>Melbourne, Australia</td>
+<td align="center"><a href="https://careers-systra.icims.com/jobs/11179/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">26 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Mable</strong></td>

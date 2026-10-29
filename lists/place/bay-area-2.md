@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**483 open roles.** 481 in the United States & Canada · 2 elsewhere in the world.
+**484 open roles.** 482 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Decagon</strong></td>
+<td><a href="https://trueinterview.io/jobs/00975228-354b-4d29-9905-311e031dc709">Business Operations, Growth</a></td>
+<td>San Francisco, CA<br/>New York City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/decagon/aed35522-81dd-466f-aa98-6dbe8fda413a/application">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Cartesia</strong></td>
 <td><a href="https://trueinterview.io/jobs/970f5438-f195-4475-be75-eaebf064d40f">Software Engineer, Product</a></td>

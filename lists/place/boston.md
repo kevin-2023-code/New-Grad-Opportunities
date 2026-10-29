@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**105 open roles.**
+**108 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Galois, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/3bdf3880-8b9f-450f-91b2-265fa85afced">Research Engineer - Formal Methods</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://apply.workable.com/j/27201CB2DA">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Infineon Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/ecfc740f-8db0-4464-bc0d-7e46b6c1a8e2">Sustaining Product Engineer</a></td>
@@ -42,7 +49,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Brigham and Women's Hospital</strong></td>
 <td><a href="https://trueinterview.io/jobs/971d43ed-b512-4a77-9e38-4246513a88f4">Research Scientist</a></td>
 <td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484983549/">Apply</a></td>
+<td align="center"><a href="https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Research-Scientist_RQ4084711">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -197,6 +204,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9661fba5-9bdb-41e7-b5a2-85bdaf082d42">Software Engineer (AI Training)</a></td>
 <td>Boston, MA<br/>Atlanta, GA<br/>Chicago, IL<br/>+36 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484900008/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Massachusetts Institute of Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/5407d4de-90ee-422d-ad1e-7962a2796ef4">Research Scientist, Boyer Lab</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=35095&amp;localeCode=en-us">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Northeastern University</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b03a7dc-a683-4445-844a-2f490a9cc328">Research Scientist</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://northeastern.wd1.myworkdayjobs.com/en-US/careers/job/Boston-MA-Main-Campus/Research-Scientist_R143108">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**197 open roles.** 113 in the United States & Canada · 84 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**200 open roles.** 113 in the United States & Canada · 87 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -130,6 +130,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Leidos</strong></td>
+<td><a href="https://trueinterview.io/jobs/20291832-c960-4212-b10f-47d53ba2af48">Systems Administrator</a></td>
+<td>Canberra, Australia<br/>Beavercreek, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484728779/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/d8d24715-e095-42cc-8ce8-a939e491c27d">Technical Support - Hardware and Software Products ELH - 2027</a></td>
 <td>Poughkeepsie, AR</td>
@@ -225,13 +232,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cacdbb85-e7bf-4dbd-8922-614efaf81692">Java Developer</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482563454/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Leidos</strong></td>
-<td><a href="https://trueinterview.io/jobs/20291832-c960-4212-b10f-47d53ba2af48">Systems Administrator</a></td>
-<td>Beavercreek, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484728779/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -912,6 +912,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Leidos</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f2f29ac-3bc4-4d72-a5d3-8da34ae7ca3a">Test Engineer</a></td>
+<td>Melbourne, Australia</td>
+<td align="center"><a href="https://careers.leidos.com/jobs/18417675-test-engineer?tm_job=R-00195784&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Sopra Steria</strong></td>
 <td><a href="https://trueinterview.io/jobs/4cd386e6-9b65-466e-8d1f-5d4b4a878d3e">Cloud Platform Engineer</a></td>
 <td>Madrid, Spain</td>
@@ -1137,6 +1144,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/90a54a43-53d8-4e8f-8be7-12c6fe6cef0b">Identity Engineer – Microsoft Entra &amp; AI Platform</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://apply.recruitwizard.app/C6bVuHWtZHl?showdetails=true">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3a3a8562-ff8f-4ee5-9ad1-943708eebcb2">Platform Support Engineer (L3)</a></td>
 <td>India</td>
 <td align="center"><a href="https://careers.nttdata.com/global/en/job/R-152083">Apply</a></td>
@@ -1175,6 +1189,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e0fe1e00-e169-40ac-8a28-c1ce6263de1e">DevOps Engineer</a></td>
 <td>India</td>
 <td align="center"><a href="https://careers.nttdata.com/global/en/job/392967">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a9c04e1c-34d4-4baf-accc-ca5405413572">M/LOps Engineer</a></td>
+<td>Perth, Australia</td>
+<td align="center"><a href="https://apply.recruitwizard.app/j8TSP4rXgUo?showdetails=true">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>

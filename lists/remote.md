@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**175 open roles.** 109 in the United States & Canada · 66 elsewhere in the world. Postings the pipeline classified as remote.
+**176 open roles.** 110 in the United States & Canada · 66 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -372,6 +372,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6cbf85de-e971-4941-ac59-7f973d5de70f">AI Researcher, 2027 Graduate U.S.</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://campus-americas.icims.com/jobs/26246/ai-researcher%2c-2027-graduate-u.s./job?mode=apply">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FCT</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae5b1a17-23a0-4ff0-b9ff-77452d0f1f3f">Data Reconciliation Analyst (Remote)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-South-Carolina-Fort-Mill/Data-Reconciliation-Analyst--Remote-_R059255">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>
@@ -793,6 +800,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Client First Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ca9e309-70f7-4223-9824-d8bc34972f56">Program/Data Analyst</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://www.indeed.com/viewjob?jk=08706f2e682107b9">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Mani India Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/f9f1b450-bac9-4a3e-9f23-01a526842c75">Fresher BA/QA</a> 🌐</td>
 <td>Remote — India</td>
@@ -895,13 +909,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/803281bf-5db1-4f99-b2bb-f99112964123">Data Centre Remote Field Service Engineer (L2)</a> 🌐</td>
 <td>Remote — India</td>
 <td align="center"><a href="https://careers.nttdata.com/global/en/job/NTT1GLOBALR150734EXTERNALENGLOBAL/Data-Centre-Remote-Field-Service-Engineer-L2">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Orbital Engineering</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e28a51e-0aec-4980-8e83-42d68ef729b2">Structural Engineer - Asset Integrity - REMOTE WORK</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://orbitalengr.com/careers/job-postings/?cjobid=CV6593891027&amp;rpid=1748334&amp;postid=tIRil69msr0">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

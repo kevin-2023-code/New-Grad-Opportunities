@@ -536,7 +536,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Firmus Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/c07d9155-95bf-4c95-979f-4b3c04672b0d">Platform Reliability Engineer</a></td>
-<td>Sydney, New South Wales, Australia, Australia, Singapore</td>
+<td>Sydney, New South Wales, Australia, Australia, Singapore<br/>Melbourne, Australia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/firmus/jobs/5464412008">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>

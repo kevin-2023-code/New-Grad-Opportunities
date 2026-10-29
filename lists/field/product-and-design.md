@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**313 open roles.** 145 in the United States & Canada · 168 elsewhere in the world.
+**314 open roles.** 145 in the United States & Canada · 169 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2106,6 +2106,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d23fb3d4-f745-4d83-9c7e-2ffff9245d55">Product Owner</a></td>
 <td>India</td>
 <td align="center"><a href="https://insight.eightfold.ai/careers/job/171843830244?domain=insight.com">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SYSTRA</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf4390b3-367b-430f-a0c8-e8572553b60a">Civil Designer - Rail QLD &amp; VIC</a></td>
+<td>Melbourne, Australia</td>
+<td align="center"><a href="https://careers-systra.icims.com/jobs/11179/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>

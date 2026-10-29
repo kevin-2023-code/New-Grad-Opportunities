@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**101 open roles.**
+**102 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -540,6 +540,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/83918877-c3db-4076-9120-1f6f0213348f">Information Security Engineer</a> 🌐</td>
 <td>Remote — United States<br/>Lubbock, TX</td>
 <td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/C1C5290F13485829F6B6536F5B714553/jobs/340525">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of San Antonio</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdc27257-7661-41c7-8ed9-a57c58fc2b53">Data Analyst</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://www.governmentjobs.com/careers/sanantoniotx/jobs/5532900/data-analyst">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

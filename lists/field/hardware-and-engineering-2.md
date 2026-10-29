@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,044 open roles.** 724 in the United States & Canada · 320 elsewhere in the world.
+**1,048 open roles.** 725 in the United States & Canada · 323 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -314,6 +314,13 @@
 <td><a href="https://trueinterview.io/jobs/151b8955-fa04-4767-8683-16d5e0f9da78">Quality Engineer</a></td>
 <td>Brookfield, WI</td>
 <td align="center"><a href="https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Brookfield-WI/Quality-Engineer_R79033">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Orbital Engineering</strong></td>
+<td><a href="https://trueinterview.io/jobs/1deabcc7-0904-470c-b9f7-d027b9f7eeb5">Mechanical Engineer - Asset Management - Granite City, IL</a></td>
+<td>Granite City, IL</td>
+<td align="center"><a href="https://orbitalengr.com/careers/job-postings/?cjobid=ORB818&amp;rpid=1748760&amp;postid=3WqsQqt8umM">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2310,6 +2317,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea3481e6-36f7-4265-b1f2-8bc0d303f0d4">ASIC SOC Integrator</a></td>
+<td>Hsinchu, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4430865545/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>WSP in the UK &amp; Ireland</strong></td>
 <td><a href="https://trueinterview.io/jobs/45a1415e-9ba5-4850-b7d5-418fc954ecb0">Port Electrical Engineer (Maritime)</a></td>
 <td>Glasgow, Scotland, United Kingdom</td>
@@ -2811,20 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/25a6c7a6-823d-41f6-acc4-d7c46c707966">Hardware Engineer (m/w/x) Defence Systems</a></td>
 <td>Ditzingen, Baden-Württemberg, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484955128/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Planqc</strong></td>
-<td><a href="https://trueinterview.io/jobs/20825396-2f3b-453b-a8eb-a59001dd44d5">Quantum Hardware Engineer - Optical Systems</a></td>
-<td>Munich, Bavaria, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475557241/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/73a562bc-3812-479f-a6be-a9d6d71c5cc9">ASIC Design Engineering - Multiple function</a></td>
-<td>Hsinchu City, Taiwan, Taiwan<br/>Taipei, Taipei City, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457478784/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

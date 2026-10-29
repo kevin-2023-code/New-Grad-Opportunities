@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**34 open roles.**
+**35 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -92,6 +92,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9661fba5-9bdb-41e7-b5a2-85bdaf082d42">Software Engineer (AI Training)</a></td>
 <td>Vancouver, British Columbia, Canada<br/>Atlanta, GA<br/>Chicago, IL<br/>+36 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484900008/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of Vancouver</strong></td>
+<td><a href="https://trueinterview.io/jobs/a96844b1-c8fd-4c1c-a3b6-1f4ec797a4e3">Data Analyst</a></td>
+<td>Vancouver, BC<br/>Vancouver, WA</td>
+<td align="center"><a href="https://cityofvancouver.wd5.myworkdayjobs.com/en-US/COV/job/LOC0157-Fire-Station-5/Data-Analyst_26-0303">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

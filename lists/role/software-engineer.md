@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**1,176 open roles.** 731 in the United States & Canada · 445 elsewhere in the world.
+**1,180 open roles.** 732 in the United States & Canada · 448 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -115,6 +115,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/78a28e52-2790-4878-944f-abb7a55b8135">SWE Platform</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482769625/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alibaba Cloud</strong></td>
+<td><a href="https://trueinterview.io/jobs/49c760cb-57a9-4de9-93ab-aa529ec17815">Software Engineer (File Storage)-Seattle</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4428597873/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3909cac1-1208-4f38-9494-ddc749f8122f">Software Engineer</a></td>
 <td>Annapolis, MD</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4391395341/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CloudIngest</strong></td>
-<td><a href="https://trueinterview.io/jobs/f755ac45-c065-44fe-ae95-b40ae7ecd37f">Software Developer (.Net &amp; Power Platform) (W2 Only)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484489224/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

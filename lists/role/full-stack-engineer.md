@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**199 open roles.** 110 in the United States & Canada · 89 elsewhere in the world.
+**200 open roles.** 111 in the United States & Canada · 89 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Synergy</strong></td>
+<td><a href="https://trueinterview.io/jobs/b765413a-9b24-473c-b162-eed56d143523">Full Stack Developer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474575742/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Vantor</strong></td>
 <td><a href="https://trueinterview.io/jobs/93018008-6f6d-43d4-a01a-494546f5d989">Full Stack Developer (TS/SCI)</a></td>

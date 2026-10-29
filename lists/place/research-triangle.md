@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**102 open roles.**
+**103 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Encoded Therapeutics Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/34aee126-c45d-4901-861e-4ee62b394a36">Engineer, Process Sciences - Upstream</a></td>
+<td>Morrisville, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460023004/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>CGI</strong></td>
 <td><a href="https://trueinterview.io/jobs/08a3e25b-977e-43cd-83c1-db16f1cde07f">Composition Developer</a></td>

@@ -2,7 +2,7 @@
 
 # 🌍 Dubai, Cairo, Lagos & Africa
 
-**11 open roles.**
+**12 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Expedite Pro Documents Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/f18ac283-390c-4e87-8dc1-dbcf8e8e6b9b">Mechanical Design Engineer</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://ae.indeed.com/viewjob?jk=18f58f910337c952">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Scale</strong></td>
 <td><a href="https://trueinterview.io/jobs/f27f6fb0-18cf-4761-bbf5-e4d022d50922">Product Designer, Global Public Sector</a></td>
@@ -41,17 +48,17 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Zapegg Tax Consultant</strong></td>
+<td><a href="https://trueinterview.io/jobs/db59c1a7-5110-426a-9a65-4d1616652df9">IT Support Engineer</a></td>
+<td>Dubai, UAE</td>
+<td align="center"><a href="https://recruitment.zapegg.com/job/it-support-engineer-14/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Siemens Energy</strong></td>
 <td><a href="https://trueinterview.io/jobs/339a7c0a-4238-4a32-9fd3-4fd442c538e9">Resident Engineer - External</a></td>
 <td>Cairo, Cairo, Egypt</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475414551/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>UK based consulting company</strong></td>
-<td><a href="https://trueinterview.io/jobs/744d3478-3441-4ff0-9352-875c2f62eb84">Planning Engineer</a></td>
-<td>Abu Dhabi, UAE</td>
-<td align="center"><a href="https://ae.indeed.com/viewjob?jk=a8c591f3d812cea5">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

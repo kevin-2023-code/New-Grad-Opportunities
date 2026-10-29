@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**51 open roles.**
+**52 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Alibaba Cloud</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f878ba1-f2ed-4659-819c-fbbc9ad19521">Data Center Facilities Engineer-Paris, France</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466220703/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Siemens</strong></td>
 <td><a href="https://trueinterview.io/jobs/728df0bf-7323-4419-8687-bc82e7e92f8a">Stage en Business Intelligence et Analyse (BI/BA) h/f</a></td>

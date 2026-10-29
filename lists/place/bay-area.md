@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**483 open roles.** 481 in the United States & Canada · 2 elsewhere in the world.
+**484 open roles.** 482 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Allogene Therapeutics</strong></td>
+<td><a href="https://trueinterview.io/jobs/606806d6-b3a4-4828-8f60-91e0e7a5244d">Desktop Engineer (Contractor)</a></td>
+<td>South San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470226512/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>TRC Talent Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/1d6d877d-5be9-4fd6-8344-51d2f99df493">Deployment Engineer</a></td>
@@ -2811,13 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://4dayweek.io/job/dvip-qa-software-engineer-in-test-at-dolby-79e5a57c">Apply</a></td>
 <td align="center">19 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Decagon</strong></td>
-<td><a href="https://trueinterview.io/jobs/00975228-354b-4d29-9905-311e031dc709">Business Operations, Growth</a></td>
-<td>San Francisco, CA<br/>New York City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/decagon/aed35522-81dd-466f-aa98-6dbe8fda413a/application">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 </tbody>
 </table>

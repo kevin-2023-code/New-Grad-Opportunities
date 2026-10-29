@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**1,402 open roles.** 820 in the United States & Canada · 582 elsewhere in the world.
+**1,430 open roles.** 842 in the United States & Canada · 588 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,188 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Elfonze Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a12f567-34d8-4371-8d2c-e7ed0e751844">Data Engineer</a></td>
+<td>India</td>
+<td align="center"><a href="https://elfonze.zohorecruit.in/jobs/Careers/41527000036858091/Data-Engineer">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EUROAPI</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a2e2605-b8dd-43f3-ab21-41cceee19e69">Data Scientist and performance coordinator</a></td>
+<td>Saint-Aubin-lès-Elbeuf, France</td>
+<td align="center"><a href="https://euroapi.wd502.myworkdayjobs.com/en-US/EUROAPI_Careers/job/Saint-Aubin-Ls-Elbeuf/Data-Scientist-and-performance-coordinator_R2592137-1">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Eventinc GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/77e52490-7d05-4c3e-85d2-48cf02acec19">AI-Native Software Engineer (Human)</a></td>
+<td>Hamburg, Deutschland</td>
+<td align="center"><a href="https://t.gohiring.com/h/ef08374cf4ba54068fb0fe7daaa58a7d86db3ab7b75def5a7fa867026d645b16">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Experis ITR</strong></td>
+<td><a href="https://trueinterview.io/jobs/94e7ac3a-c030-49b5-874f-83e0bc43268f">Data scientist</a></td>
+<td>—</td>
+<td align="center"><a href="http://www.jobnet.co.il/positionresults.aspx?returned=true&amp;positionid=13556068">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EY</strong></td>
+<td><a href="https://trueinterview.io/jobs/6704358e-1eaf-4a10-8c17-1cb48af13c17">Data-Driven Insurance Business Analyst</a></td>
+<td>Katowice, Poland</td>
+<td align="center"><a href="https://careers.ey.com/ey/job/Katowice-Data-Driven-Insurance-Business-Analyst-%C5%9Al%C4%85s-40-202/1452008433/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Friday Väst AB</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ef6e966-a0f1-4fd2-ad51-2ce42b07d441">Data Engineer med fokus på AI/ML</a></td>
+<td>Stockholm, Sweden</td>
+<td align="center"><a href="https://arbetsformedlingen.se/platsbanken/annonser/31657613">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FUNKE Mediengruppe</strong></td>
+<td><a href="https://trueinterview.io/jobs/e975ae29-6f67-4629-8385-bfd3cbec0199">Data Analyst (m/w/d)</a></td>
+<td>Berlin, Deutschland</td>
+<td align="center"><a href="https://jobs.funkemedien.de/job/Berlin-Data-Analyst-%28mwd%29/1374683755/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gemeente Den Helder</strong></td>
+<td><a href="https://trueinterview.io/jobs/50791f8a-37f0-4c13-a1e5-acf46e3a293c">Data-engineer (36 uur)</a></td>
+<td>Den Helder, Netherlands</td>
+<td align="center"><a href="https://www.denhelder.nl/Onderwerpen/Bestuur_en_organisatie/Werken_bij_gemeente_den_helder/Vacatures/Data_engineer_36_uur">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/db39245a-4ea6-4bc4-a03b-b1b63e190223">Data and AI Engineer</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.google.com/jobs/results/101488204921610950-data-and-ai-engineer/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GREY TREE PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/d005701f-7bd1-451e-874b-a01b5692e741">AI Engineer</a></td>
+<td>River Valley, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/930506d8bd80fdaf8ca9d1bebdbeddd2">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Groupama</strong></td>
+<td><a href="https://trueinterview.io/jobs/c24a1fbb-3ffb-4dae-947a-e6008e5a2fd8">Chargé d'Etudes Sinistres / Data Analyst H/F</a></td>
+<td>Aix-en-Provence, France</td>
+<td align="center"><a href="https://groupama-recrute.talent-soft.com/offre-de-emploi/charge-d-etudes-sinistres-data-analyst-h-f_66569.aspx">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Haeger Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0b376bd-fbad-4976-9a72-c43f82031ca2">Data Engineer – Schwerpunkt Infrastruktur &amp; Plattform*</a></td>
+<td>Bonn, Deutschland</td>
+<td align="center"><a href="https://t.gohiring.com/h/282fab541ce09205327e850d54af7b9f626591bf7497b91163af7c53a0deb890">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/af34ea9f-1ad2-4022-9efb-f023ce7550ec">Data Engineer – Schwerpunkt Programmierung &amp; Datenpipelines*</a></td>
+<td>Bonn, Deutschland</td>
+<td align="center"><a href="https://t.gohiring.com/h/6d570845c462e66079d8a1f50e4453f6b5d47deebc830197110981f39109709a">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HDI AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/faf22346-ce01-4b57-9525-3ccc40e64e92">AI &amp; Automation Specialist / AI Engineer</a></td>
+<td>Hannover, Deutschland</td>
+<td align="center"><a href="https://job.hdi.group/job/Hannover-AI-&amp;-Automation-Specialist-AI-Engineer/1450708333/?feedId=436633">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e947b9d1-62ec-4452-bb17-b9abf3789503">AI Engineer - Schwerpunkt Automatisierung</a></td>
+<td>Hilden, Deutschland</td>
+<td align="center"><a href="https://job.hdi.group/job/Hilden-AI-Engineer-Schwerpunkt-Automatisierung/1374300133/?feedId=436633">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fee53862-b463-4ef2-9c69-b4f5963d543d">AI Solution Engineer</a></td>
+<td>Hannover, Deutschland</td>
+<td align="center"><a href="https://job.hdi.group/job/Hannover-AI-Solution-Engineer/1450352333/?feedId=436633">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2ba6bd97-1870-4022-b4b4-f246d6d8861e">Business Analyst:in / AI Engineer</a></td>
+<td>Hannover, Deutschland</td>
+<td align="center"><a href="https://job.hdi.group/job/Hannover-Business-Analystin-AI-Engineer/1375554033/?feedId=436633">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/179d1a77-7f4a-45cf-b912-f0028d60f37e">Data Scientist: Advanced Analytics &amp; AI Engineer in Insurance</a></td>
+<td>Hannover, Deutschland</td>
+<td align="center"><a href="https://job.hdi.group/job/K%C3%B6ln-Data-Scientist-Advanced-Analytics-&amp;-AI-Engineer-in-Insurance/1424835133/?feedId=436633">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Heidi</strong></td>
+<td><a href="https://trueinterview.io/jobs/68f7e4e9-a495-4ea4-a920-5d47cd7c87c8">Clinical AI Engineer</a> 🌐</td>
+<td>Remote — Australia</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/heidihealth.com.au/5af3bbb5-1ad6-4d33-96fe-c4c0c5f84676">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>INNOIT</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae820ff6-6290-4308-9086-871e6c71a70b">AI Engineer — Python &amp; Agentic AI</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://vacantes.inno-it.es/jobs/8629630-ai-engineer-python-agentic-ai">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inria</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e92680b-09db-45b6-b7d5-77402c8b1354">Engineer Position on Fairness and Privacy in Trustworthy Machine Learning (F/M)</a></td>
+<td>Villeneuve-d'Ascq, France</td>
+<td align="center"><a href="https://jobs.inria.fr/public/classic/fr/offres/2026-10659">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a932afff-675e-4221-ac4f-01750fc7d6d2">Post-Doctoral Research Visit F/M Post-doc Position on Fairness and Privacy in Trustworthy machine Learning (F/M)</a></td>
+<td>Villeneuve-d'Ascq, France</td>
+<td align="center"><a href="https://jobs.inria.fr/public/classic/fr/offres/2026-10660">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/48676318-669f-4137-a68c-37a2550e6d52">Temporary scientific engineer / AI Open Source Software engineer for P16 and AI Factory France</a></td>
+<td>Talence, France</td>
+<td align="center"><a href="https://jobs.inria.fr/public/classic/fr/offres/2026-10658">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Interpol</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f015846-79f2-4e7d-b25c-74127023de34">Data Scientist - Data Fusion Center</a></td>
+<td>Lyon, France</td>
+<td align="center"><a href="https://209400.jobs2web.com/job/Lyon-Data-Scientist-Data-Fusion-Center/1444436200/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IRSN</strong></td>
+<td><a href="https://trueinterview.io/jobs/38ea4c3f-182e-406f-8fe7-c258e66ab62f">STAGE : Développement d'un module d'extraction de données textuelles (OCR / NLP / Elasticsearch) H/F</a></td>
+<td>Fontenay-aux-Roses, France</td>
+<td align="center"><a href="https://irsn-career.talent-soft.com/offre-de-emploi/emploi-stage-developpement-d-un-module-d-extraction-de-donnees-textuelles-ocr-nlp-elasticsearch-h-f_1784.aspx">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Länsförsäkringar</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5072052-28d9-4283-bbba-c6ed0dec4677">Cloud Engineer Azure &amp; AI</a></td>
+<td>Stockholm, Sweden</td>
+<td align="center"><a href="https://emp.jobylon.com/jobs/390211-lansforsakringar-ab-cloud-engineer-azure-ai/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Logicalis</strong></td>
 <td><a href="https://trueinterview.io/jobs/6cbcf651-c1e4-41c0-80fc-3b1f00daad52">Data Scientist</a></td>
@@ -85,6 +267,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/803281bf-5db1-4f99-b2bb-f99112964123">Data Centre Remote Field Service Engineer (L2)</a> 🌐</td>
 <td>Remote — India</td>
 <td align="center"><a href="https://careers.nttdata.com/global/en/job/NTT1GLOBALR150734EXTERNALENGLOBAL/Data-Centre-Remote-Field-Service-Engineer-L2">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/90a54a43-53d8-4e8f-8be7-12c6fe6cef0b">Identity Engineer – Microsoft Entra &amp; AI Platform</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://apply.recruitwizard.app/C6bVuHWtZHl?showdetails=true">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -876,6 +1065,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/94cd6ff2-b429-4945-9c81-96d8557e760c">Cisco ACI Data Center Network Engineer</a></td>
 <td>—</td>
 <td align="center"><a href="https://www.careercross.com/job/detail-1619381">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NCS</strong></td>
+<td><a href="https://trueinterview.io/jobs/31a4565c-9af3-41be-840e-65efd8411d90">GCP Data Engineer - Contract or Perm</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NCSAustralia/6000000001524981-gcp-data-engineer-contract-or-perm">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>

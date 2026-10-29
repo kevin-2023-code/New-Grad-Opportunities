@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**263 open roles.**
+**265 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -491,6 +491,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8b9f23b8-df5a-4952-b4f9-7fdc96d2daed">Scientific Developer for Model Optimization</a></td>
 <td>College Park, MD</td>
 <td align="center"><a href="https://www.applicantpro.com/openings/axiomconsultants/jobs/4260231-499465">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BluePath Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/a195b461-e49a-4e8c-934b-9667c1394fdd">Business, Data &amp; Automation Analyst (Multiple Openings) - Onsite, Washington, DC</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://bluepathlabs.isolvedhire.com/jobs/1894436-56968.html">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1688,6 +1695,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/43e88064-c5f8-4e85-91f4-79eb4a7b7c76">Database Administrator</a></td>
 <td>Reston, VA</td>
 <td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4613945/Inadev/Database-Administrator">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VTG Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/d05f388f-9bbf-4a0c-8e73-81c6a231fd44">Data Analyst</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://careers.vtgdefense.com/jobs/9689/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>

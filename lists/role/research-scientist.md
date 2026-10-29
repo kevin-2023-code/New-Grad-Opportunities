@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**80 open roles.** 68 in the United States & Canada · 12 elsewhere in the world.
+**87 open roles.** 75 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Galois, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/3bdf3880-8b9f-450f-91b2-265fa85afced">Research Engineer - Formal Methods</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://apply.workable.com/j/27201CB2DA">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>SLB</strong></td>
 <td><a href="https://trueinterview.io/jobs/d553a849-dcbe-4b49-b3cc-1833f3f90b30">Research Scientist, Energy Innovation</a></td>
@@ -77,7 +84,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Brigham and Women's Hospital</strong></td>
 <td><a href="https://trueinterview.io/jobs/971d43ed-b512-4a77-9e38-4246513a88f4">Research Scientist</a></td>
 <td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484983549/">Apply</a></td>
+<td align="center"><a href="https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Research-Scientist_RQ4084711">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -218,6 +225,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/87d31e6f-336b-49ce-ad3c-5e571d5d2965">Research Engineer, Gemini Personalization Research, DeepMind</a></td>
 <td>Mountain View, California, United States</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/79768134398943942">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Massachusetts Institute of Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/5407d4de-90ee-422d-ad1e-7962a2796ef4">Research Scientist, Boyer Lab</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=35095&amp;localeCode=en-us">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Northeastern University</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b03a7dc-a683-4445-844a-2f490a9cc328">Research Scientist</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://northeastern.wd1.myworkdayjobs.com/en-US/careers/job/Boston-MA-Main-Campus/Research-Scientist_R143108">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The University of Iowa</strong></td>
+<td><a href="https://trueinterview.io/jobs/734070c8-78eb-44d4-87e8-0cdde94fe4e1">Research Scientist</a></td>
+<td>Iowa City, IA</td>
+<td align="center"><a href="https://jobs.uiowa.edu/content/temp/view.php?job=163983">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Virginia Commonwealth University</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2c0e53e-082e-4d30-8a6e-ae44c19591a7">Research Scientist - Microbiology and Immunology</a></td>
+<td>Richmond, VA</td>
+<td align="center"><a href="https://vcujobs.com/jobs/research-scientist-microbiology-and-immunology-mcv-main-campus-virginia-united-states">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zymo Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f942763-cf2c-471c-8666-2f35d83abb3f">Post-Doctoral Research Scientist – Molecular Assay Development and Epigenetics</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://www.zymoresearch.com/pages/career-post-doctoral-research-scientist-molecular-assay-development-and-epigenetics">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d1c1dfd9-a1ca-4c15-9713-674447b5ca96">Post-Doctoral Research Scientist – NGS Methods Development and Cancer Genomics</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://www.zymoresearch.com/pages/career-post-doctoral-research-scientist-ngs-methods-development-and-cancer-genomics">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

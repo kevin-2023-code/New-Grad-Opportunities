@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**310 open roles.** 163 in the United States & Canada · 147 elsewhere in the world.
+**317 open roles.** 166 in the United States & Canada · 151 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -232,6 +232,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0f5e2de5-77fd-4756-8755-a79baeccf12f">Data Engineer</a></td>
 <td>Fort Lauderdale, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484766287/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pye-Barker Fire &amp; Safety</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c2e4dbc-cf27-4632-9d34-c873c0427f1a">Business Intelligence Analyst</a></td>
+<td>Ogden, UT</td>
+<td align="center"><a href="https://pyebarkerfire.wd1.myworkdayjobs.com/PB_V2/job/Ogden-UT/Business-Intelligence-Analyst_JR115515">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Optimal Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2ddf3c2-b2ce-42d7-a398-fb4b2b7769e9">Business Intelligence Analyst</a></td>
+<td>Flat Rock, MI</td>
+<td align="center"><a href="https://optimalinc.recruitpro.com/jobs/320049-5918.html">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -956,6 +970,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Fayetteville State University</strong></td>
+<td><a href="https://trueinterview.io/jobs/a948cd9c-9caf-42ab-bad7-d6873769a54f">Business Intelligence, Specialist</a></td>
+<td>Fayetteville, NC</td>
+<td align="center"><a href="https://jobs.uncfsu.edu/postings/29592">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Healthfirst</strong></td>
 <td><a href="https://trueinterview.io/jobs/55fd6e52-e518-4ec3-a80e-625039b1d8fa">Healthcare Claims, Data Engineer</a></td>
 <td>New York, NY</td>
@@ -1170,6 +1191,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Alibaba Cloud</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f878ba1-f2ed-4659-819c-fbbc9ad19521">Data Center Facilities Engineer-Paris, France</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466220703/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f111cab9-fbfd-48ec-adaf-0726ae80dc3b">Data Center Facilities Engineer-Kuala Lumpur, Malaysia</a></td>
+<td>Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466290594/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>AXA XL</strong></td>
 <td><a href="https://trueinterview.io/jobs/edfccc4f-4cdf-4c00-aed7-64736de6a51f">AI Prompt Engineer &amp; Data Engineer (GRM AI Factory)</a></td>
@@ -1490,6 +1525,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5163ae25-0dff-4150-a230-ee0491078514">Microsoft Fabric Data Lake Developer</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://abeamconsultingsingapore.applytojob.com/apply/3EsMRYQQCo/Microsoft-Fabric-Data-Lake-Developer?%7E=">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ACH Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/24fe035f-e18d-4a6f-95ad-117acf0c5ec0">Data Engineer</a></td>
+<td>Mile End, Australia</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-AU/achg/CANDIDATEPORTAL/jobs/5193">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2113,6 +2155,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/94cd6ff2-b429-4945-9c81-96d8557e760c">Cisco ACI Data Center Network Engineer</a></td>
 <td>—</td>
 <td align="center"><a href="https://www.careercross.com/job/detail-1619381">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NCS</strong></td>
+<td><a href="https://trueinterview.io/jobs/31a4565c-9af3-41be-840e-65efd8411d90">GCP Data Engineer - Contract or Perm</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NCSAustralia/6000000001524981-gcp-data-engineer-contract-or-perm">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>

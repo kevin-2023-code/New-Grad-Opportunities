@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**100 open roles.**
+**101 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>viaPhoton</strong></td>
+<td><a href="https://trueinterview.io/jobs/929a4636-8aaf-426e-8def-a2977feb40d2">Mechanical Design Engineer</a></td>
+<td>Naperville, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469915639/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>ALOIS Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/fac1da21-391d-4ca6-a9bd-63cbe57f1152">Electrical Engineer</a></td>

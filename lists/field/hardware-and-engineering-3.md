@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,044 open roles.** 724 in the United States & Canada · 320 elsewhere in the world.
+**1,048 open roles.** 725 in the United States & Canada · 323 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Planqc</strong></td>
+<td><a href="https://trueinterview.io/jobs/20825396-2f3b-453b-a8eb-a59001dd44d5">Quantum Hardware Engineer - Optical Systems</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475557241/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/73a562bc-3812-479f-a6be-a9d6d71c5cc9">ASIC Design Engineering - Multiple function</a></td>
+<td>Hsinchu City, Taiwan, Taiwan<br/>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457478784/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Egis in ANZ</strong></td>
 <td><a href="https://trueinterview.io/jobs/c56a989f-d8e4-444d-a2ca-0883d42c54c2">Civil Engineer Urban Transport</a></td>
@@ -148,6 +162,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/246cc8e6-59fd-4b03-924a-f613f2b48ec3">Manufacturing Process Engineer</a></td>
 <td>Ibaraki, Japan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4382498735/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>K S Western Australia Pty Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c5a5f86-3979-4573-8b2e-fa9acf76b115">Full-Time Mechanical Engineering Technician Required</a></td>
+<td>Canning Vale, Australia</td>
+<td align="center"><a href="https://au.indeed.com/viewjob?jk=15ecf1ddd8c346b0">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -468,8 +489,8 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Aurecon</strong></td>
 <td><a href="https://trueinterview.io/jobs/b92a04bc-f08e-4def-9790-d93229335017">Mechanical Engineer, Buildings</a></td>
-<td>Brisbane, Queensland, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484912321/">Apply</a></td>
+<td>Brisbane, Queensland, Australia<br/>Brisbane, Australia</td>
+<td align="center"><a href="https://aurecongroup.wd3.myworkdayjobs.com/en-US/aurecon/job/Brisbane/Mechanical-Engineer--Buildings_R33686">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -536,6 +557,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Goodman Fielder</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9fe8900-a605-4389-a47b-b4d048420e7d">National Automation &amp; Electrical Engineer</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://careers.goodmanfielder.com.au/jobtools/jncustomsearch.viewFullSingle?in_organid=17226&amp;in_jncounter=226717640&amp;in_site=Indeed">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>AECOM</strong></td>
 <td><a href="https://trueinterview.io/jobs/108735e1-7ad1-4e42-9177-a5ce85417448">Civil Engineer</a></td>
 <td>London, England, United Kingdom<br/>Basingstoke, England, United Kingdom<br/>Tucson, AZ</td>
@@ -589,6 +617,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0270cc73-a200-4d7d-bbb3-9c12145e1a5d">2027 Graduate Mechanical Engineer - Glasgow</a></td>
 <td>Glasgow, Scotland, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482570557/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Southern Cross Fertilisers</strong></td>
+<td><a href="https://trueinterview.io/jobs/01ec39c0-e827-4aeb-a5de-b0207f3c4e87">Electrical Engineer EIC</a></td>
+<td>New Townsville City, Australia</td>
+<td align="center"><a href="https://jobs.employmenthero.com/application_jobs/231da5cb-8175-4a7b-a0e3-2b1e870379e0/view">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -650,7 +685,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Nufarm</strong></td>
 <td><a href="https://trueinterview.io/jobs/89ebf70e-2b75-44c6-84cf-e941dff6de1c">Project Mechanical Engineer</a></td>
-<td>Laverton North, Victoria, Australia</td>
+<td>Laverton North, Victoria, Australia<br/>Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484760088/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
@@ -1548,13 +1583,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a8143c43-12a6-4c58-96a3-d30817cb20dc">New Product Design &amp; Development Quality Engineer(Parkmore Galway)</a></td>
 <td>Galway, Ireland</td>
 <td align="center"><a href="https://integer.wd1.myworkdayjobs.com/External/job/Galway-Ireland/Design-Assurance-Engineer-II--Parkmore-Galway-_R35051">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Orbital Engineering</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e28a51e-0aec-4980-8e83-42d68ef729b2">Structural Engineer - Asset Integrity - REMOTE WORK</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://orbitalengr.com/careers/job-postings/?cjobid=CV6593891027&amp;rpid=1748334&amp;postid=tIRil69msr0">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

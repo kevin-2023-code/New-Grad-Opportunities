@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**252 open roles.**
+**253 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Gotham Technology Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/886f79cf-d7ab-4430-83fa-f7b61da06146">Network Operations Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483579234/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Vercel</strong></td>
 <td><a href="https://trueinterview.io/jobs/0d56604c-d40a-4011-8574-068c5c8835eb">DevRel Engineer, Agentic Infrastructure</a></td>

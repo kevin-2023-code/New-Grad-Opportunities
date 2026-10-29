@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**699 open roles.** 540 in the United States & Canada · 159 elsewhere in the world.
+**700 open roles.** 540 in the United States & Canada · 160 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Synergy</strong></td>
+<td><a href="https://trueinterview.io/jobs/6583dd7d-608e-4df9-a558-59bdc059d5f1">Systems Administrator</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482770596/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>ConsultNet Technology Services and Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/ef829f46-95ac-4c2b-bca1-57e452b831c0">Helpdesk Technician</a></td>
@@ -101,13 +108,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/694e3d5b-77ca-488d-ad94-5573ca1165e5">IT Support Tampa</a></td>
 <td>Tampa, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484999823/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ITCommence Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/5e2a30cc-8b33-4c4c-b1a3-4223d2ee6221">Network Technician</a></td>
-<td>Perry, OH</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=7bb7955317ccbd21">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -811,6 +811,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Leidos</strong></td>
+<td><a href="https://trueinterview.io/jobs/20291832-c960-4212-b10f-47d53ba2af48">Systems Administrator</a></td>
+<td>Canberra, Australia<br/>Beavercreek, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484728779/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Liberty Resources, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/8cae75da-8513-4e52-ad17-4d785e1c8174">IT Support Specialist</a></td>
 <td>Syracuse, NY</td>
@@ -1025,13 +1032,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/502f843d-c0dc-4db8-9a3d-eb7db90df1a8">Service Desk Technician 1</a></td>
 <td>Remote</td>
 <td align="center"><a href="https://baldwin.wd1.myworkdayjobs.com/en-US/Baldwin/job/Remote-US/Service-Desk-Technician-1_JR110381">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Leidos</strong></td>
-<td><a href="https://trueinterview.io/jobs/20291832-c960-4212-b10f-47d53ba2af48">Systems Administrator</a></td>
-<td>Beavercreek, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484728779/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

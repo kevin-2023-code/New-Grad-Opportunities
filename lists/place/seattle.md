@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**150 open roles.**
+**151 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Alibaba Cloud</strong></td>
+<td><a href="https://trueinterview.io/jobs/49c760cb-57a9-4de9-93ab-aa529ec17815">Software Engineer (File Storage)-Seattle</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4428597873/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Acumenz Consulting</strong></td>
 <td><a href="https://trueinterview.io/jobs/17843698-d2b2-4dc4-868d-ad65030a69ee">Full Stack Engineer with Amazon</a></td>

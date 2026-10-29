@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**30 open roles.**
+**31 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -78,6 +78,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dff7bb3b-f2f9-4acb-8e33-1ef11f118206">Wet Process Development Engineer</a></td>
 <td>Lehi, UT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4386220262/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pye-Barker Fire &amp; Safety</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c2e4dbc-cf27-4632-9d34-c873c0427f1a">Business Intelligence Analyst</a></td>
+<td>Ogden, UT</td>
+<td align="center"><a href="https://pyebarkerfire.wd1.myworkdayjobs.com/PB_V2/job/Ogden-UT/Business-Intelligence-Analyst_JR115515">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

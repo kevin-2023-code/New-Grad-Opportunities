@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**148 open roles.**
+**150 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -232,6 +232,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/829ae4ca-76b3-4b28-83e6-61ed8181f34d">Mechanical Design Engineer, Electrical Routing</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Karman%20Industries/db1718d7-5331-4db0-9150-4f2d359eb924">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zymo Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f942763-cf2c-471c-8666-2f35d83abb3f">Post-Doctoral Research Scientist – Molecular Assay Development and Epigenetics</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://www.zymoresearch.com/pages/career-post-doctoral-research-scientist-molecular-assay-development-and-epigenetics">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d1c1dfd9-a1ca-4c15-9713-674447b5ca96">Post-Doctoral Research Scientist – NGS Methods Development and Cancer Genomics</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://www.zymoresearch.com/pages/career-post-doctoral-research-scientist-ngs-methods-development-and-cancer-genomics">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
