@@ -2,7 +2,7 @@
 
 # 🇮🇪 Dublin & Ireland
 
-**109 open roles.** 4 in the United States & Canada · 105 elsewhere in the world.
+**107 open roles.** 4 in the United States & Canada · 103 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -527,13 +527,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Whatnot</strong></td>
-<td><a href="https://trueinterview.io/jobs/ddfeb7ab-e02c-44bd-b302-b896387c4c41">Application Security Engineer</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475114042/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Jacobs</strong></td>
 <td><a href="https://trueinterview.io/jobs/56e7a1ae-d318-4343-b08e-91dbc922b582">Graduate Cost Engineer (Cork)</a></td>
 <td>Dublin, County Dublin, Ireland<br/>Cork, County Cork, Ireland</td>
@@ -762,13 +755,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/970abe94-d771-4588-9249-fb0685645f6d">ServiceNow Developer – HRSD</a></td>
 <td>Dublin, Ireland</td>
 <td align="center"><a href="https://www.cpl.com/uk/jobs/979519414">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DocuSign</strong></td>
-<td><a href="https://trueinterview.io/jobs/deeae8be-c9c2-4777-a68d-0b1e3f9e7acd">Security Site Reliability Engineer</a></td>
-<td>Dublin, Ireland</td>
-<td align="center"><a href="https://careers.docusign.com/careers-home/jobs/30589?lang=en-us&amp;previousLocale=en-US">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**184 open roles.** 111 in the United States & Canada · 73 elsewhere in the world. Postings the pipeline classified as remote.
+**180 open roles.** 110 in the United States & Canada · 70 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -194,13 +194,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>ABC Legal Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/db6ff465-8dd4-4c75-8760-78f45147cd3a">DevOps Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://grnh.se/c133t2ql3us">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e94c8528-6abf-483a-ac9a-0f39a93c672c">Mobile Engineer</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://grnh.se/3xy4435i3us">Apply</a></td>
@@ -821,6 +814,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>GRVT TECHNOLOGIES</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcf0c8d2-dcd1-4646-bd65-51312e126d7d">QA Automation Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/grvt/ff286fc8-8890-497e-9792-c51a283f167d">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Zenith Infotech</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed7cd55e-40e0-4b54-bdae-b495e351d005">Software Developer- Java (NO WFH) | Contract |MULTIPLE OFFICE LOCATION</a> 🌐</td>
 <td>Remote — Singapore</td>
@@ -955,13 +955,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/de248792-2fa4-4f1d-981e-bd873fa3739d">Oracle Cloud Security Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://brightvisiontechnologies.applytojob.com/apply/zTZkjFYzJB/Oracle-Cloud-Security-Engineer?%7E=">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e52cd803-6759-48a4-b244-83f6f544c803">SAP ABAP Developer</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://brightvisiontechnologies.applytojob.com/apply/3cMJostlZ6/SAP-ABAP-Developer?%7E=">Apply</a></td>
@@ -989,24 +982,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Promevo</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0086567-647a-488b-ad3f-13f3d0336585">Cloud Infrastructure Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://promevo.com/careers?gnk=job&amp;gni=8a7887a1a150293901a178fc7ac00bc0&amp;gns=Indeed+Free">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>REPAY</strong></td>
 <td><a href="https://trueinterview.io/jobs/9b7eaf89-96bc-4641-b4a2-c0d05efa628c">Product Owner</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://repay.wd115.myworkdayjobs.com/en-US/REPAYCareers/job/Remote---US/Product-Owner_JR712">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SingleStore</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1fca058-dd22-41a5-b94a-db2a4bcdd410">Forward Deployment Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://grnh.se/nts6azs81us">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -1029,13 +1008,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://careers.viva-it.com/careers/opportunities/job-detail/full-stack-net-developer-NPIAIS27">Apply</a></td>
 <td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>360training.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/e28e532f-726d-4d87-9e21-36f5eebc28b6">QA Automation Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://www.360training.com/careers?gnk=job&amp;gni=8a78839fa1559acc01a1795004f52b04&amp;gns=Indeed+Free">Apply</a></td>
-<td align="center">26 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>InvestNext</strong></td>

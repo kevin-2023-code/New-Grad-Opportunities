@@ -2,7 +2,7 @@
 
 # ❄️ Stockholm & the Nordics
 
-**17 open roles.**
+**18 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Autodesk</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b6ffb70-169c-4076-b762-74be8412d4fb">Graduate Software Engineer</a></td>
+<td>Oslo, Oslo, Norway</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469690310/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Deploja AB</strong></td>
 <td><a href="https://trueinterview.io/jobs/8d07aa4b-14bc-4ff2-adfd-f70687af223c">Java Fullstack Developer</a></td>

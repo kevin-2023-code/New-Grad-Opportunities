@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,099 open roles.** 779 in the United States & Canada · 320 elsewhere in the world.
+**1,092 open roles.** 762 in the United States & Canada · 330 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,90 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>WSP in the U.S.</strong></td>
+<td><a href="https://trueinterview.io/jobs/c75d150d-82cd-470e-a05a-8ee38f2b83ff">Early Career Civil Engineering (Overhead Transmission Lines)</a></td>
+<td>Trussville, AL<br/>Birmingham, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476939226/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IntePros</strong></td>
+<td><a href="https://trueinterview.io/jobs/d50515e2-d59b-4c3b-a98e-de33eed49110">Electrical Engineer</a></td>
+<td>Portage, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466214093/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP in the U.S.</strong></td>
+<td><a href="https://trueinterview.io/jobs/10864dcc-acb6-4c27-9110-e0d4aa625b96">Intermediate Professional, Electrical Engineering</a></td>
+<td>Lisle, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467146195/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skorpios Technologies, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a81f070-f147-4e56-8bea-7702246c5d27">Process Engineer, Dry Etch</a></td>
+<td>Temecula, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4430064200/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apollo Technical</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe8b208d-1991-46ca-b353-0de0d1c66eb2">Structural Engineer</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482118410/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CPS, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/23664453-4cb5-44c0-8859-50687ed2338f">Quality Engineer</a></td>
+<td>Whitewater, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467571025/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bell</strong></td>
+<td><a href="https://trueinterview.io/jobs/d54c9985-7734-4771-b295-80f47b854869">Cost Estimator, Data center construction</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476949596/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hatch</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6ee4ced-de20-4c47-9c02-4e7c7f97db0c">Electrical Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467131408/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP in the U.S.</strong></td>
+<td><a href="https://trueinterview.io/jobs/4af45818-b33e-4006-bdd0-e39bc4ee2594">Early Career Structural Engineer - Transportation</a></td>
+<td>Troy, NY<br/>Valhalla, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476922854/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Barr Engineering Co.</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b18c6f7-0c63-4547-9e8a-560825d89235">Environmental Engineer – Entry Level (Hybrid)</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457789551/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CyberCoders</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e0af852-863d-4430-b114-415c2eb3cffc">Mechanical Engineer</a></td>
+<td>Brunswick, GA<br/>Bremen, OH<br/>Casper, WY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446659995/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6833e67c-e582-4360-bc77-6aaeb7bcafd2">Manufacturing Engineer</a></td>
+<td>Brunswick, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446674392/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>SSOE Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/e43f862e-c80d-46ef-95cb-e1b5238611d5">Chemical Process Engineer</a></td>
@@ -45,13 +129,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0258cf0f-6ef0-42a8-9a41-98bf06062d48">Electrical Engineer</a></td>
 <td>O'Fallon, MO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485206630/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TECHEAD</strong></td>
-<td><a href="https://trueinterview.io/jobs/db990771-f5a5-46b0-8d61-f0fe2b962ad7">Electrical Hardware Engineer (Hybrid Remote)</a></td>
-<td>Gaithersburg, MD<br/>Hudson, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485206578/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -223,13 +300,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Silvus Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2043547-57e8-458e-b9dd-f348250cb1b1">FPGA Design Engineer</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475746054/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>SPX FLOW, now ITT Flow Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/3c890649-ce4c-4ba6-b8df-203322620755">Manufacturing Engineer - CNC Programming</a></td>
 <td>Delavan, WI</td>
@@ -301,13 +371,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dd2ab639-c0e8-4be5-969e-c5391f26284a">Mechanical Engineer - Industrial &amp; Manufacturing Facilities (Toronto)</a></td>
-<td>Toronto, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4430590864/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e37f8bdb-0fca-4f86-b020-013b04413618">Mechanical Engineer - Nuclear (Multiple Locations)</a></td>
 <td>Kansas City, MO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4439474023/">Apply</a></td>
@@ -363,20 +426,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>CyberCoders</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e0af852-863d-4430-b114-415c2eb3cffc">Mechanical Engineer</a></td>
-<td>Brunswick, GA<br/>Bremen, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446659995/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP in the U.S.</strong></td>
-<td><a href="https://trueinterview.io/jobs/4af45818-b33e-4006-bdd0-e39bc4ee2594">Early Career Structural Engineer - Transportation</a></td>
-<td>Troy, NY<br/>Valhalla, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476922854/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>LevelUp Consulting, LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/49325182-e738-4bb7-8490-6d2fbc062f1f">Entry Level Civil Engineer</a></td>
 <td>Orlando, FL</td>
@@ -388,13 +437,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/068ed440-ff07-4bb4-ab89-80513fe7d48d">Mechanical Design &amp; Manufacturing Engineer</a></td>
 <td>Parlin, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484984014/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JR Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1809b93-388d-4d5d-a7db-71dd0c97f89d">Power Electronics Hardware R&amp;D Engineer</a></td>
-<td>Mount Pleasant, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484976373/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -664,13 +706,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Kruger Products | Produits Kruger</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc55275c-0b31-4746-8b0c-2f252c2f7e8a">Electrical Engineer</a></td>
-<td>New Westminster, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4449923097/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Parker Hannifin</strong></td>
 <td><a href="https://trueinterview.io/jobs/527fcf99-639d-478f-b9eb-9e521aba7f0f">Manufacturing Engineer I - Military Flight Controls Division</a></td>
 <td>Irvine, CA</td>
@@ -742,20 +777,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>WSP in the U.S.</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c2e0e73-4e6b-4bf0-9768-76245706114b">Early Career Civil Engineer</a></td>
-<td>New York, NY<br/>Hallowell, ME<br/>Ann Arbor, MI<br/>+2 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467952368/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c75d150d-82cd-470e-a05a-8ee38f2b83ff">Early Career Civil Engineering (Overhead Transmission Lines)</a></td>
-<td>Trussville, AL<br/>Birmingham, AL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476939226/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/61f48442-1695-4769-96bc-349b573fa69d">Entry-Level Substation Electrical Engineer</a></td>
 <td>Maitland, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467781492/">Apply</a></td>
@@ -787,13 +808,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0ceb930e-c057-4f9b-8079-97423ad50e2b">Entry Level Process Engineer with Quality Focus</a></td>
 <td>Rothschild, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4448570848/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Kimley-Horn</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1a0dcdd-8d0c-4e90-bb95-b29dbcc9c1de">Civil Engineer - Aviation</a></td>
-<td>Nashville, TN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4430829868/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1035,13 +1049,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>HDR</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0329b7c-6cdc-4eff-b47a-fa456598b8cf">Structural Engineer</a></td>
-<td>Madison, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457613866/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Hartzell Propeller</strong></td>
 <td><a href="https://trueinterview.io/jobs/4bcc6fd6-2947-49e8-81fc-2fefe606f526">Supplier Quality Engineer</a></td>
 <td>Piqua, OH</td>
@@ -1074,13 +1081,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/218ad8be-1cc5-425f-b523-b7caccdffb28">Structural Engineer 1</a></td>
 <td>Kansas City, KS</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4458305476/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>EnerSys</strong></td>
-<td><a href="https://trueinterview.io/jobs/df73440b-8a51-4702-97c4-f423a0d82166">Process Engineer Formation &amp; Ageing - Battery Cells</a></td>
-<td>Greenville, SC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467115811/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1151,13 +1151,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4632e717-5329-4a68-a6b5-ba168d2adca3">Service Reliability Engineer</a></td>
 <td>Nashville, TN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476902537/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/df7c7cf1-f47b-418b-991f-c8355289e1ce">Equipment Engineer and Process Engineer - Veterans and Transitioning Military</a></td>
-<td>Manassas, VA<br/>Boise, ID</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4410837357/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1431,6 +1424,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c5bce2e0-2d2d-4a26-b1e4-aff44011ad4d">Structural Engineer</a></td>
 <td>Chicago, Illinois, United States, Minneapolis</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5134062008">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HL Mando America Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/89c74425-b255-4865-8fa5-83c40c48a571">Mechanical Engineer I</a></td>
+<td>Auburn, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466209818/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1735,13 +1735,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>OPmobility</strong></td>
-<td><a href="https://trueinterview.io/jobs/df217d2d-6bc3-4b38-8907-ad14d1c713e2">Quality Engineer</a></td>
-<td>Windsor, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482560251/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Jobot</strong></td>
 <td><a href="https://trueinterview.io/jobs/8cc807b9-bc21-46da-bfce-784a7443d515">Structural Engineer</a></td>
 <td>Carlsbad, CA</td>
@@ -1774,13 +1767,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7a232b36-d5a7-4672-90b3-b502ee98e6c9">Mechanical Engineer</a></td>
 <td>Peoria, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484727732/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TekniPlex</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1b46e8b-18e1-4b58-b97c-db31f5bfb7ee">Operations Quality Engineer</a></td>
-<td>City of Industry, CA</td>
-<td align="center"><a href="https://recruiting.ultipro.com/TEK1004TKIP/JobBoard/543bec9b-6c14-45be-a14f-9baffb80f02c/OpportunityDetail?opportunityId=68264263-0b61-4137-a391-f6c4b446fcc2&amp;postingId=dae53f94-b0f7-4880-bb20-b9508d9061f3">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -1858,13 +1844,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6c1507e5-2c93-4a5f-8102-75594e67da50">Electrical Engineer</a></td>
 <td>East Petersburg, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484737297/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e08f8c1b-ea58-4860-8f82-3cc8da99f00d">Manufacturing Engineering Technician</a></td>
-<td>Groveland, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484737303/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2099,13 +2078,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Fish &amp; Richardson P.C.</strong></td>
-<td><a href="https://trueinterview.io/jobs/37cbf33d-ed3b-41fc-bf24-8cf8263bb3d1">Technology Specialist (Computer Science and Electrical Engineering)</a></td>
-<td>Boston, MA<br/>New York, NY<br/>San Diego, CA<br/>+2 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476524711/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Sterling Engineering</strong></td>
 <td><a href="https://trueinterview.io/jobs/2116ec2e-31b7-45bd-9a38-5c0263157e5f">Manufacturing Engineer</a></td>
 <td>Sturtevant, WI</td>
@@ -2117,13 +2089,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/23f0a766-f76d-48df-b12b-c50bd085bdc7">Development Engineer (Chemical Engineer)</a></td>
 <td>Oak Ridge, TN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481296410/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Honeywell Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/de68cd02-0eb9-482a-b09a-92b9a1fc89ea">Advanced Electrical Engineer</a></td>
-<td>Arvada, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484720285/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2190,14 +2155,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Teradyne</strong></td>
-<td><a href="https://trueinterview.io/jobs/e41939c8-6361-4c82-b1bb-52bdd360b8d2">ASIC Verification Engineer (TERADYNE, North Reading, MA)</a></td>
-<td>North Reading, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465948321/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Naval Nuclear Laboratory (FMP)</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/40f5f353-0af5-4485-a766-b2bfd90090ab">Mechanical Engineer, Intermediate</a></td>
 <td>West Mifflin, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478701772/">Apply</a></td>
@@ -2817,6 +2775,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2dbdac6e-fc52-4b14-b422-536a45852d9f">Industrial Engineer</a></td>
 <td>Valcourt, Quebec, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474412962/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>isgSearch</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec37f54e-36f2-4577-83d7-50e7438f48dd">Manufacturing Engineer</a></td>
+<td>Greater Toronto Area, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482516645/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Benchstack Ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e2c0d15-d315-42fd-a5e0-746e888e4cf1">Hardware Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484049974/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Farnsworth Group, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/f143ce6d-7a2b-4f9c-a102-ead5f55b3902">Civil Engineer</a></td>
+<td>Belleville, IL<br/>St Louis, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475429171/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Crown Technical Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf8d1c33-95c0-4ed1-b18b-3464cfd52c0b">Mechanical Engineer</a></td>
+<td>Fontana, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475133677/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Farnsworth Group, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f6ac31c-287b-4717-acaf-6297ad4f4376">Civil Engineering Associate - Transportation - Entry Level</a></td>
+<td>Champaign, IL<br/>Normal, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475419585/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kipp &amp; Zonen</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5ce7270-a976-41df-8a57-a4af51220cb8">Electrical Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467909621/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

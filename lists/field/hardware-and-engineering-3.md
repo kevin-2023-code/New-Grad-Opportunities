@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,099 open roles.** 779 in the United States & Canada · 320 elsewhere in the world.
+**1,092 open roles.** 762 in the United States & Canada · 330 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,27 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Harper Evans Recruitment</strong></td>
-<td><a href="https://trueinterview.io/jobs/cee74030-6fe2-44e1-abd6-7cf199c3f409">Semiconductor Laser Engineer</a></td>
-<td>London Area, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484975537/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Laser Precision Solutions (LPS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/eb870537-f7c9-4627-88ef-7d91b587e615">Mechanical Engineer</a></td>
-<td>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484981143/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Exyte</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e94591f-4441-434e-a510-9fafcf815c68">Process Engineer / Technician - Spray Drying / Fluid Bed Drying / Vacuum Drying (m/f/d)</a></td>
-<td>Basel, Basel, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466882788/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Lorien</strong></td>
 <td><a href="https://trueinterview.io/jobs/135c3ed1-d0db-4f7b-86bd-2ec992c05e91">SC Cleared Electrical Engineer</a></td>
@@ -337,20 +316,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/69fabf17-5231-4ed2-aa29-720048801afc">Electrical Engineer Test Field (m/f/d)</a></td>
 <td>Regensburg, Bavaria, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4421817077/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Canon Production Printing</strong></td>
-<td><a href="https://trueinterview.io/jobs/df6f9152-ffeb-4ff8-bb25-f7356378c089">Industrial Engineer</a></td>
-<td>Venlo, Limburg, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484955100/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Altera</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc500970-799a-47ac-ae1a-3b7ac79fd07e">FPGA Silicon Design Engineer</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459641926/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -788,13 +753,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Ather Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/db0e667f-28a1-4edb-adeb-66a395316dcf">Chassis Structural Engineer</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484795878/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Jobster</strong></td>
 <td><a href="https://trueinterview.io/jobs/da299c9c-88ce-4bce-aa3c-613cea9cd489">Mechanical Engineer - Synsel Techniek</a></td>
 <td>Rotterdam, South Holland, Netherlands</td>
@@ -827,13 +785,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6d7fe87c-3cba-4cd0-96ea-757121714fb8">Quality Engineer</a></td>
 <td>Himachal Pradesh, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484179070/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rotomotive Powerdrives India Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc9cea64-dbca-493a-b4ab-398452f51b84">Quality Engineer</a></td>
-<td>Anand, Gujarat, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484796857/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

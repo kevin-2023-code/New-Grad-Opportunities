@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**299 open roles.** 3 in the United States & Canada · 296 elsewhere in the world.
+**295 open roles.** 3 in the United States & Canada · 292 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1235,13 +1235,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>STMicroelectronics</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd297f25-44fe-43b2-addb-e32350e8a998">Equipment Engineer, Wets (12hr shift)</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458204627/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/26722506-614e-447e-80f1-82958e64d7c9">Lean / Operational Excellence &amp; Digitization Engineer - Production</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4458574988/">Apply</a></td>
@@ -1273,13 +1266,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8f9ee89c-e94a-46d5-b75c-e68ecfde554e">Management Consultant (IT Advisory/Cybersecurity)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482508675/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>UltaHost</strong></td>
-<td><a href="https://trueinterview.io/jobs/df203cd2-7955-499f-b612-65b52c1ffe38">Internal Security &amp; Security Operations Engineer</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483881369/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -1738,13 +1724,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>ANTAS PTE. LTD.</strong></td>
-<td><a href="https://trueinterview.io/jobs/db5f4724-c437-4c2d-a937-95bbf89a9a76">Automation Test Engineer (Selenium)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/cdc3451d8744214ce9429818ab37e44e">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>ARYAN SOLUTIONS PTE. LTD.</strong></td>
 <td><a href="https://trueinterview.io/jobs/fa93787e-0f36-4d93-aeb7-699b9d2d28b0">Data Engineer</a></td>
 <td>Toa Payoh, Singapore</td>
@@ -1924,13 +1903,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/813d65f8-a7f1-4840-8dd2-3b951d35aff7">Backend Engineer (JavaScript / Node.js)</a></td>
 <td>River Valley, Singapore</td>
 <td align="center"><a href="https://www.mycareersfuture.gov.sg/job/fb999226513caf54b439a52fbe53329f">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AVENSYS SERVICES PTE. LTD.</strong></td>
-<td><a href="https://trueinterview.io/jobs/daed3847-b93c-45af-a01e-bb689f05784a">WebMethods E-Invoice Developer</a></td>
-<td>Ang Mo Kio, Singapore</td>
-<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/63628938e3c3b9dbcc79ab9fceb7a5cb">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>

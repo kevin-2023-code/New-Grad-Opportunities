@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**46 open roles.** 23 in the United States & Canada · 23 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**45 open roles.** 23 in the United States & Canada · 22 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -190,13 +190,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>iCapital</strong></td>
-<td><a href="https://trueinterview.io/jobs/df7b31b1-aff2-4e21-bfbd-4f426d5a20da">Python Developer</a></td>
-<td>Jaipur, Rajasthan, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458774451/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Thought Machine</strong></td>
 <td><a href="https://trueinterview.io/jobs/726bf352-f9f0-4edb-868b-f553e41db542">Forward Deployed Engineer</a></td>
