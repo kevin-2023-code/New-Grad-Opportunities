@@ -2,7 +2,7 @@
 
 # 🇨🇭 Zürich & Switzerland
 
-**97 open roles.**
+**96 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -31,13 +31,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4a4fa826-8e85-49a6-be9f-ceb8ec847a72">Applied ML Engineer/Data Scientist</a></td>
 <td>Zurich, Zurich, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484957261/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Julius Baer</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f657adf-3e61-4547-8673-3399f347e8cd">Front Arena Developer &amp; Platform Specialist 100% (f/m/d) (Contract through our external payroll partner with immediate start for 12 months, possible extension)</a></td>
-<td>Zurich, Zurich, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467989210/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

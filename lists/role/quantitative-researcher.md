@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**18 open roles.** 13 in the United States & Canada · 5 elsewhere in the world.
+**19 open roles.** 13 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -121,6 +121,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>AQR Capital Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3a179e8-5d8b-4975-aa80-c5db19fa89bc">Engineering - Quant Research Development - GSS - Analyst</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459176422/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Selby Jennings</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec835ec4-a521-4df0-a593-5b5fb278bb1e">ML Quant Researcher</a></td>
 <td>City Of London, England, United Kingdom</td>
@@ -151,9 +158,9 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>DeepFin Research</strong></td>
 <td><a href="https://trueinterview.io/jobs/ee7e8032-c201-42da-ad0d-1830342c54c7">HFT Quantitative Research and Trading</a></td>
-<td>London, England, United Kingdom</td>
+<td>London, England, United Kingdom<br/>Bengaluru, Karnataka, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4411722200/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

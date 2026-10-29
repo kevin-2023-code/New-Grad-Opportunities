@@ -2,7 +2,7 @@
 
 # Quantitative Trader
 
-**18 open roles.** 10 in the United States & Canada · 8 elsewhere in the world.
+**19 open roles.** 11 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BlockDelta</strong></td>
+<td><a href="https://trueinterview.io/jobs/c11a0847-50c3-49db-985e-44023979cf7b">Trader (Prediction Markets)</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484948995/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>CWP Energy</strong></td>
 <td><a href="https://trueinterview.io/jobs/52b58d2d-59d4-4326-8a38-92071369ee0c">Power Trader</a></td>
