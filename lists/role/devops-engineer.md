@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**91 open roles.** 38 in the United States & Canada · 53 elsewhere in the world.
+**88 open roles.** 37 in the United States & Canada · 51 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Torentify</strong></td>
-<td><a href="https://trueinterview.io/jobs/384b1dca-0cff-4e87-aa46-7b2d0dacf470">DevOps Engineer with Linux exp - 100% Remote</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484903608/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>TISTA Science and Technology Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/41f163c5-1e5a-479d-95a6-6234a4ba920a">DevOps Engineer</a></td>
@@ -300,20 +293,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cb3b187a-9a25-4591-9d11-52c88d3cdbe6">DevOps Engineer</a></td>
 <td>India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484902832/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SRV Media</strong></td>
-<td><a href="https://trueinterview.io/jobs/3e6e4cbf-f26b-43f9-9217-71bf837982d2">DevOps Engineer</a></td>
-<td>Pune/Pimpri-Chinchwad Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484795732/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Suffescom Solutions Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/1995ac3c-71f3-4816-b6a6-9acb1ce62b96">DevOps Engineer</a></td>
-<td>Mohali district, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484913236/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

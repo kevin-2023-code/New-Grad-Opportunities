@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**41 open roles.**
+**40 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,13 +29,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/65f8fcf5-0b4a-4c07-b94d-e93478617ba4">Systems Integration Engineer</a></td>
 <td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483796507/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>RI-MUHC | Research Institute of the MUHC | #rimuhc</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f1ba761-f14a-4a33-afc6-d6f3b424448e">Programmer</a></td>
-<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484903203/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

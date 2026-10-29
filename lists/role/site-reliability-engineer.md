@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**51 open roles.** 28 in the United States & Canada · 23 elsewhere in the world.
+**48 open roles.** 27 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -206,13 +206,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/45e63872-1b53-46d4-9d3b-99ac19ca24f2/application">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>PagerDuty</strong></td>
-<td><a href="https://trueinterview.io/jobs/06bdc96f-5a5f-4230-b094-e0f363257634">Site Reliability Engineer I</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pagerduty/jobs/6162484004">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -230,20 +223,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/1496b149-1ba9-4adc-8884-3772cc14c853">Civil Site Engineer</a></td>
 <td>Chennai, Tamil Nadu, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484923098/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Motive</strong></td>
-<td><a href="https://trueinterview.io/jobs/8515f5af-8202-4287-8255-860817bc1193">Software Engineer, Platform, SRE</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484907684/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Brisk Olive</strong></td>
-<td><a href="https://trueinterview.io/jobs/20354adf-a587-48b8-9147-63b1ff0411b6">Site Engineer</a></td>
-<td>Shillong, Meghalaya, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484792889/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
