@@ -2,7 +2,7 @@
 
 # ❄️ Stockholm & the Nordics
 
-**12 open roles.**
+**11 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -95,13 +95,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Stockholm, Sweden</td>
 <td align="center"><a href="https://career.qliro.com/jobs/8496305-software-engineer-web-app-fullstack">Apply</a></td>
 <td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Workday</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a182208-d83c-4f62-9b7c-ae9cd587c6bd">Backend Engineer</a></td>
-<td>Sweden, Stockholm</td>
-<td align="center"><a href="https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Backend-Engineer_JR-0109822">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>
