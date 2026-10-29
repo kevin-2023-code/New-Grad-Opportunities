@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Darktrace</strong></td>
 <td><a href="https://trueinterview.io/jobs/0dfacdb9-c561-45de-a8e8-9c9d0a68c4c8">Solutions Engineer, Acquisition</a></td>
-<td>Colorado, United States<br/>Denver, CO</td>
+<td>Denver, CO<br/>Colorado, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477122035/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>

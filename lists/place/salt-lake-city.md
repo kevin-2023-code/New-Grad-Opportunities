@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**34 open roles.**
+**30 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -60,13 +60,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/e996d123-54f6-4ce4-9472-5daf98b57073">Manufacturing Product Engineer (DMOS6)</a></td>
-<td>Lehi, UT<br/>Sherman, TX<br/>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4434373040/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Georgia Tech Research Institute</strong></td>
 <td><a href="https://trueinterview.io/jobs/869b50db-a26b-43d2-af88-3198917a7033">Systems Engineer - Ogden, UT - ATAS - Open Rank</a></td>
 <td>Ogden, UT</td>
@@ -76,7 +69,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>HDR</strong></td>
 <td><a href="https://trueinterview.io/jobs/1c72a64b-c5ef-48c5-ba87-4cb33a0764f4">Site Civil Engineer (PE)</a></td>
-<td>Salt Lake City, UT<br/>Kansas City, MO<br/>Columbus, OH<br/>+3 more</td>
+<td>Salt Lake City, UT<br/>Bellevue, WA<br/>Kansas City, MO<br/>+3 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4371583387/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
@@ -144,20 +137,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>ApTask</strong></td>
-<td><a href="https://trueinterview.io/jobs/fd103f5d-0d1c-4d24-b77b-b7ef8aaa17a9">Desktop Support Specialist</a></td>
-<td>South Jordan, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482513831/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hired by Matrix, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/fb5ada10-384f-4602-a298-4206e2aff7f9">IT Service Desk Agent</a></td>
-<td>South Jordan, UT<br/>Columbus, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484484233/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>CHG Healthcare</strong></td>
 <td><a href="https://trueinterview.io/jobs/6753b9b8-a479-4978-bb59-f6643d9e192d">AI Product Engineer</a></td>
 <td>Salt Lake City, UT</td>
@@ -211,13 +190,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/38bf00b2-80ad-4947-b18b-0441037c7226">Analyst, Cybersecurity DFIR</a></td>
 <td>Provo, UT</td>
 <td align="center"><a href="https://careers-ice.icims.com/jobs/14156/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Jabil</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef4d72c8-a90d-4412-9828-fd148d84ce71">Finance Data Analyst (Manufacturing)</a></td>
-<td>Salt Lake City, UT</td>
-<td align="center"><a href="https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Salt-Lake-CityGrantsville-UT/Finance-Data-Analyst--Manufacturing-_J2467969">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**67 open roles.** 54 in the United States & Canada · 13 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**66 open roles.** 53 in the United States & Canada · 13 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -155,13 +155,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/95f26cef-8f53-4bbd-ae06-1fbbe892d063">Field Application Engineer</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476524260/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Scale AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/f7f42df9-84f6-4a38-aae3-af57bd2d93cc">Web Designer, Brand Web Experience</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://grnh.se/w59kvmol5us">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
