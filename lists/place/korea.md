@@ -2,7 +2,7 @@
 
 # 🇰🇷 Seoul & Korea
 
-**6 open roles.**
+**5 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -31,13 +31,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/af4b8bf2-668c-4b1f-bbb9-311b1ed66ca1">Field Application Engineer for Automotive High Power</a></td>
 <td>Seoul, Seoul, South Korea</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470936708/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1330ed34-218b-4998-bd55-fe398e7afad5">Industrial Power System Application Engineer</a></td>
-<td>Seoul, Seoul, South Korea</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4242594069/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

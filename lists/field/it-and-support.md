@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**662 open roles.** 508 in the United States & Canada · 154 elsewhere in the world.
+**657 open roles.** 500 in the United States & Canada · 157 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hubbell Incorporated</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5d91338-dfa1-45da-a194-e6f90400364d">Technical Support Engineer- Westbury, NY</a></td>
+<td>Westbury, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4417329981/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Veranova</strong></td>
+<td><a href="https://trueinterview.io/jobs/d49d3a9e-5b55-4fbf-b418-0f808ba209d0">IT Support Engineer</a></td>
+<td>West Deptford, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474457898/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gainwell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe444fce-0037-4eba-9a92-fb022fc878cf">Help Desk Camp Hill, PA (Hybrid)</a></td>
+<td>Camp Hill, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458430751/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Encore Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf251f53-22a9-4fe3-ad26-89afbbe23624">Service Desk Analyst</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484955958/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RedLine Performance Solutions, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd0e880d-2484-416e-bc96-789132bd297b">Linux System Administrator (Top Secret)</a></td>
+<td>Dayton, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468647255/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>BCforward</strong></td>
 <td><a href="https://trueinterview.io/jobs/3ac0701f-f368-4d55-af10-3582a6c86fea">Technical Help Desk</a></td>
@@ -73,13 +108,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c058d618-4728-4042-be35-bd48b3325506">Controls Engineer Tech Support (Night Shift)</a></td>
 <td>Dallas, TX<br/>Plano, TX<br/>Salt Lake City, UT<br/>+2 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465901352/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Vanderweil Engineers</strong></td>
-<td><a href="https://trueinterview.io/jobs/85b46aad-9967-42d6-b984-58665332bc42">Help Desk Analyst</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484962167/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -143,13 +171,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/28a0413a-07e6-44dd-9fbe-5ade1a4ec3c6">IT Service Desk</a></td>
 <td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4439345863/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>LangChain</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a115663-fc61-4545-ba25-245936f0374d">IT Systems Administrator</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476786678/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2330,13 +2351,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Horner &amp; Shifrin, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/832186ab-b379-46c4-a7de-0172b1cb7b2b">IT Support Analyst</a></td>
-<td>St. Louis, MO</td>
-<td align="center"><a href="https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a7887a1a150293901a1828a9cd143f0">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Inabia Software &amp; Consulting Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/b73cd03c-cc6d-4d6f-8a9d-8cbcfb91af89">NOC Engineer | Railway Networks is must</a></td>
 <td>Omaha, NE</td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d7afd49b-ade5-4d76-937a-8340bc418785">Network Engineer</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://recruiterflow.com/garmaclimitedllc/jobs/208?location=142">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Goldbelt</strong></td>
-<td><a href="https://trueinterview.io/jobs/56bdfe70-ae26-401b-a1e6-40db4860fe9b">NOC Operator Tier 1</a></td>
-<td>Honolulu, HI</td>
-<td align="center"><a href="https://talent.goldbelt.com/jobs/20951/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Grob Systems Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/f7683efa-4a74-4c55-a67f-30d395c1b914">System Administrator</a></td>
-<td>Bluffton, OH</td>
-<td align="center"><a href="https://careers.grobgroup.com/GROBSystems/job/Bluffton-System-Administrator-OH-Bluffton%2C/1374572755/">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 </tbody>

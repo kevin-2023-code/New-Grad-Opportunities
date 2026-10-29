@@ -2,7 +2,7 @@
 
 # Quantitative Trader
 
-**19 open roles.** 11 in the United States & Canada · 8 elsewhere in the world.
+**21 open roles.** 12 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Method Recruiting, a 3x Inc. 5000 company</strong></td>
+<td><a href="https://trueinterview.io/jobs/a486ad80-402a-4a74-a929-5bff8f0692d1">Programmatic Trader</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459365308/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>BlockDelta</strong></td>
 <td><a href="https://trueinterview.io/jobs/c11a0847-50c3-49db-985e-44023979cf7b">Trader (Prediction Markets)</a></td>
@@ -106,6 +113,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>UBP - Union Bancaire Privée</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7699501-5058-4028-8288-a0967e8185b4">Execution Trader Equities &amp; ETD Lateshift (60%)</a></td>
+<td>Geneva, Geneva, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479561093/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>TotalEnergies</strong></td>
 <td><a href="https://trueinterview.io/jobs/94057f67-07ad-4a1c-93f2-9cf6f2c782aa">Assets Trader – Power &amp; Gas (Europe)</a></td>
