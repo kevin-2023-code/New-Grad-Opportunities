@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**116 open roles.** 49 in the United States & Canada · 67 elsewhere in the world.
+**123 open roles.** 50 in the United States & Canada · 73 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/0c8331e7-158a-458b-97d1-6c8776627c0f">Frontier AI Product Owner &amp; Program Leader</a></td>
-<td>Spring, TX<br/>Frisco, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484905807/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Bristol Myers Squibb</strong></td>
 <td><a href="https://trueinterview.io/jobs/c6d3e3ff-4083-4010-aa17-86b4049e058d">Product Owner, Workforce Planning (People Technology)</a></td>
@@ -50,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2df49ccb-53c4-4a55-a11b-bf52a56ce5b9">Technical Product Owner</a></td>
 <td>Fort Worth, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484740349/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/f298746b-92d9-4c65-946d-6679270eff37">Data Product Owner</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482562475/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -221,6 +221,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>MRI Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2709101-db03-4f9c-8728-3fb6bddc184c">Product Owner, Client &amp; Digital Support</a> 🌐</td>
+<td>Remote — Canada</td>
+<td align="center"><a href="https://mrisoftware.wd501.myworkdayjobs.com/en-US/External_CareerSite/job/Canada-Remote/Product-Owner--Client---Digital-Support_R-109630">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/d129683d-d678-4e17-ab6d-e803e8c27e87">Product Management - (E4)</a></td>
 <td>Santa Clara, CA</td>
@@ -326,13 +333,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Figma</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef489dec-f770-4bfc-bd9e-bd0582dc5a32">Early Career, Associate Product Manager (2027)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6180116004?gh_jid=6180116004">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/32ae9a1d-a25e-458d-b0f3-93764c8a41db">Product Manager II, New College Grad- Master's (Santa Clara, CA)</a></td>
 <td>Santa Clara, CA, US</td>
@@ -359,6 +359,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Ontario, Canada</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/redwoodsoftware/jobs/4284505009">Apply</a></td>
 <td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hertz</strong></td>
+<td><a href="https://trueinterview.io/jobs/8487fa36-88c6-46e5-8063-232f7043d6a7">Product Owner - Commercial Analysis &amp; Data Visualization</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39184">Apply</a></td>
+<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>
@@ -527,10 +534,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Synechron</strong></td>
+<td><a href="https://trueinterview.io/jobs/c60126a1-2826-4e72-a51f-36f6a69f4fbf">Product Owner – Agile Delivery, Product Vision &amp; Cross-Functional Stakeholder Management</a></td>
+<td>Chennai, Tamil Nadu, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476556710/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>3ap</strong></td>
 <td><a href="https://trueinterview.io/jobs/51c38e7b-296a-4030-a02a-ec2644e16c2f">Proxy Product Owner/Business Analyst</a></td>
 <td>Zurich, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482516876/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Davidson consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/27dcb265-8e63-4f1b-839f-65edf5fd7b92">Product Owner technique (H/F)</a></td>
+<td>Geneva, Geneva, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476312793/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -702,10 +723,38 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Celexio</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ebe7fbe-ad70-4430-adc9-22a0aed1bfe6">Product Owner SI Finance &amp; Achats (SAP S/4HANA Cloud / Coupa)</a></td>
+<td>Pau, France</td>
+<td align="center"><a href="https://www.free-work.com/fr/tech-it/job-mission/consultant/product-owner-si-finance-achats-sap-s-4hana-cloud-coupa">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Lehibou</strong></td>
 <td><a href="https://trueinterview.io/jobs/4b85e147-2b21-456d-87e5-4f61336f639f">Product Owner ServiceNow (IT) / Freelance</a></td>
 <td>Issy-les-Moulineaux, France</td>
 <td align="center"><a href="https://www.free-work.com/fr/tech-it/job-mission/product-owner/product-owner-servicenow-6">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mail Metrics</strong></td>
+<td><a href="https://trueinterview.io/jobs/c56aebcd-11cd-4658-ae4a-164868b500ae">Product Owner</a></td>
+<td>Leicester, United Kingdom</td>
+<td align="center"><a href="https://mailmetrics.peoplehr.net/Pages/JobBoard/Opening.aspx?v=a8505e7e-b188-4149-95fd-071b1a2038cb">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Numih France - Toulouse</strong></td>
+<td><a href="https://trueinterview.io/jobs/b441b314-19a3-4583-acc6-753fda8fc5d5">Product Owner F/H</a></td>
+<td>Toulouse, France</td>
+<td align="center"><a href="https://careers.werecruit.io/fr/numih-france/offres/product-owner-3aa829">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Universal Music Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d63094e-b0c5-4dec-89d0-89c228f6c448">Working Student Digital Product Management (all genders) – Beats &amp; Bytes – Universal Music Entertainment GmbH</a></td>
+<td>Berlin, Deutschland</td>
+<td align="center"><a href="https://jobdb.softgarden.de/jobdb/public/jobdb/posting/68381517/0/0/%C2%ADWorking+Student+Digital+Product+Management+%28all+genders%29+%E2%80%93+Beats+%26+Bytes+%E2%80%93+Universal+Music+Entertainment+GmbH+.html">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

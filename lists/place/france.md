@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**21 open roles.**
+**23 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -66,6 +66,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a6fc4f4f-928c-4d47-abf2-95bf8938c899">Infrastructure Engineer | Infrastructure Chapter | CIO (Based in Mauritius)</a></td>
 <td>Paris, France</td>
 <td align="center"><a href="https://www.efinancialcareers.fr/jobs-France-Paris-Infrastructure_Engineer__Infrastructure_Chapter__CIO_Based_in_Mauritius.id24945720">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Numih France - Toulouse</strong></td>
+<td><a href="https://trueinterview.io/jobs/b441b314-19a3-4583-acc6-753fda8fc5d5">Product Owner F/H</a></td>
+<td>Toulouse, France</td>
+<td align="center"><a href="https://careers.werecruit.io/fr/numih-france/offres/product-owner-3aa829">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -165,6 +172,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Paris</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/vocca/24417ebc-264c-49a2-8618-3e07e3a18990/application">Apply</a></td>
 <td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hedgehog Lab</strong></td>
+<td><a href="https://trueinterview.io/jobs/7725ec08-1642-4352-a9a1-e951d059b804">Software Engineer</a> 🌐</td>
+<td>Remote — France<br/>Paris, France, Remote</td>
+<td align="center"><a href="https://4dayweek.io/job/software-engineer-at-hedgehog-lab-b2f9f9fb">Apply</a></td>
+<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>
