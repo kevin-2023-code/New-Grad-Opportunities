@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**5 open roles.** 3 in the United States & Canada · 2 elsewhere in the world. A real classification that none of the other sectors covers.
+**9 open roles.** 6 in the United States & Canada · 3 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -38,6 +38,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482545597/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/908ebcc5-7e63-4b66-a4bb-15ffb65dfc70">Data Scientist, Risk</a></td>
+<td>Jersey City, NJ</td>
+<td align="center"><a href="https://grnh.se/8silg3m71us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Michels Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/543f396c-5833-42ca-b3d7-3526478674ed">Associate Project Engineer, Trenchless</a></td>
+<td>Tulsa, OK, Tulsa</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/michelscorporation/jobs/5003806101">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gonetspeed</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b5e461e-acba-4fd5-ab93-38dffe9794bb">Lineman- Berlin, CT</a></td>
+<td>Berlin, Connecticut</td>
+<td align="center"><a href="https://jobs.lever.co/gonetspeed/f381a621-f7ed-40d6-bf3c-7135a17386c2/apply">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -63,6 +84,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Stoke-On-Trent, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484459162/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>1global</strong></td>
+<td><a href="https://trueinterview.io/jobs/bee691ad-7fef-4fd9-ab14-d10142052c71">Fulfilment Specialist</a></td>
+<td>São Paulo, São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.workable.com/view/mkZjss1JQBbWC16oLidQ5c/hybrid-fulfilment-specialist-in-s%C3%A3o-paulo-at-1global">Apply</a></td>
+<td align="center">24 Oct 2026</td>
 </tr>
 </tbody>
 </table>

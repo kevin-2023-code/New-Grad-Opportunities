@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**95 open roles.**
+**124 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,66 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Jobverse.io</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ab14023-1bcf-400e-b161-5ee681df9be3">Applied AI Engineer (Machine Learning and LLM)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484953707/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba3b1e19-836f-4430-ac5b-088deb807b7e">Research Scientist, Modeling of Readout and Reset, Quantum</a></td>
+<td>Los Angeles, CA<br/>Goleta, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475429721/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Carollo Engineers</strong></td>
+<td><a href="https://trueinterview.io/jobs/9233d176-8204-443e-9732-d81f16d3436d">Field Engineer</a></td>
+<td>Costa Mesa, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474495358/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb6058d5-4960-41fa-abd6-1a3a6faa4dab">Software Development Engineer, Devices Software &amp; Services</a></td>
+<td>Irvine, CA<br/>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484481376/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Impulse Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd8641b3-1442-4dad-ad40-6350caf096d2">Test Automation Engineer (Propulsion)</a></td>
+<td>Redondo Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4381662251/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a8475ea-95a9-4814-a7f0-ab67345e60e7">Procurement Engineer, Intelligence Systems &amp; Space (Active Clearance)</a></td>
+<td>Costa Mesa, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4365035168/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Jobot</strong></td>
 <td><a href="https://trueinterview.io/jobs/22976736-df4d-4e30-b50d-a478954cf424">Thermal Engineer (Mechanical) - TS required</a></td>
 <td>Pasadena, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475774728/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Northwood</strong></td>
+<td><a href="https://trueinterview.io/jobs/273b8c02-821c-40bf-946c-6413fb43d7aa">DSP Engineer</a></td>
+<td>Torrance, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448655029/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/0bdfb295-a7e1-462a-8d8a-aea91ef774ba">Software Engineer - Underseas Recon &amp; Strike</a></td>
+<td>Costa Mesa, CA<br/>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458294953/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -148,6 +204,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7a82e4b4-68e4-451a-ab61-1992a02ab8e0">Electrical Engineer (US/FED)</a></td>
 <td>Irvine, CA<br/>Boston, MA<br/>Atlanta, GA<br/>+5 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484775598/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Field AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ac20505-7256-4ec7-8a44-ed35f7500b90">Robotics AI Engineer, Sensor Calibration</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448924720/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -522,13 +585,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0bdfb295-a7e1-462a-8d8a-aea91ef774ba">Software Engineer - Maritime Integrated Solutions</a></td>
-<td>Costa Mesa, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458294953/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Mitchell Martin Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/e74e9a9f-a1e2-45de-8abd-b0853ed3167e">Software Developer</a></td>
 <td>Los Angeles, CA<br/>Jacksonville, FL</td>
@@ -681,6 +737,153 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Redondo Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483180732/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Brock Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/d0cb364d-40cc-41f2-ad6b-10cc60dba5ee">Control Systems Engineer</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://careers.brocksolutions.com//Careers.aspx?req=CTR-LAX-26-2&amp;type=JOBDESCR">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FCT</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8e836db-a6b8-432f-8068-262ddd82aa95">Product Owner (Remote in CA)</a> 🌐</td>
+<td>Remote — United States<br/>Santa Ana, CA</td>
+<td align="center"><a href="https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Product-Owner--Remote-in-CA-_R059311">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfe836dd-a76f-4440-97f4-67c463750135">Software Engineer, Agentic AI and LLMs, Google Ads</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://careers.google.com/jobs/results/89777444013122246-software-engineer/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Netflix</strong></td>
+<td><a href="https://trueinterview.io/jobs/370517cd-f140-4732-aa9f-43a29aa4ae48">Machine Learning Engineer (L4/L5) - Studio Media Algorithms</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790319186617">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/30b70702-e122-40c5-ac4a-98a2e71bb9ef">Manufacturing Engineer I, Composites</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://grnh.se/fs08k1rr2us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rocket Lab USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/8fb9978c-973f-4862-92b4-aaabc322b067">Electrical Engineer I</a></td>
+<td>Pasadena, CA</td>
+<td align="center"><a href="https://grnh.se/1wxo8h9l3us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SCAN Health Plan</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9c402ef-9fc2-4898-8e4b-342f735d2860">Health Plan Data Scientist</a> 🌐</td>
+<td>Remote — United States<br/>Long Beach, CA</td>
+<td align="center"><a href="https://scanhealthplan.wd108.myworkdayjobs.com/scancareers/job/Long-Beach-Office-3800/Health-Plan-Data-Scientist_JR3242">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Aerospace Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b203192-1649-4f5b-a257-eeb51bfbd4fc">Classified Technical and Cloud Computing Engineer</a></td>
+<td>El Segundo, CA</td>
+<td align="center"><a href="https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/Classified-Technical-and-Cloud-Computing-Engineer_R017033">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wipro</strong></td>
+<td><a href="https://trueinterview.io/jobs/f7356154-b462-46b4-b492-1d40875137a4">SITE RELIABILITY ENGINEER L3(CONTRACT)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://careers.wipro.com/job/SITE-RELIABILITY-ENGINEER-L3%28CONTRACT%29/213731-en_US">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril</strong></td>
+<td><a href="https://trueinterview.io/jobs/6cb767b9-e5c4-446d-b43b-bbfbd3da7392">Site Reliability Engineer, Edge Devices</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://grnh.se/7i0u3h7f7us">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2c394370-d0f6-4cae-babe-04201d127dfb">2027 New Grad Low Observables Engineer</a></td>
+<td>Costa Mesa, California, United States, Costa Mesa, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5269789007?gh_jid=5269789007">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Naughty Dog</strong></td>
+<td><a href="https://trueinterview.io/jobs/0388e283-ea53-45b6-bf18-ff8d1f1afb20">Animation Assistant</a></td>
+<td>United States, Santa Monica, CA, USA-CA-Santa Monica</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/naughtydog/jobs/6232192004">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>True Anomaly</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4371dce-a126-45a8-b965-b838e153ccea">Software Engineer I, QA (New Grad)</a></td>
+<td>Long Beach, CA, Denver, CO, Long Beach, CA<br/>Denver, CO</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril</strong></td>
+<td><a href="https://trueinterview.io/jobs/6cb5b48b-3ce7-4459-bf34-f99fc4ca8767">2027 Early Career Business Operations Associate</a></td>
+<td>Costa Mesa, California, United States<br/>Seattle, Washington, United States<br/>Washington, DC<br/>+1 more</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5271811007?gh_jid=5271811007">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9e5bdde-debc-4e99-a9cf-bf43ba48c456">IT Support Engineer I, OTS</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10591716/it-support-engineer-i-ots?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/30e30e09-e6ce-485a-81e6-eed3ad0dac43">Software Development Engineer in Test I</a></td>
+<td>Long Beach, California, United States, LB - Wormhole HQ (CA)</td>
+<td align="center"><a href="https://boards.greenhouse.io/relativity/jobs/8892460002?gh_jid=8892460002">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ford</strong></td>
+<td><a href="https://trueinterview.io/jobs/61f45c09-b29c-4530-8b22-737320c6be94">Thermal Engineer</a></td>
+<td>Long Beach, CA, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72606">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril</strong></td>
+<td><a href="https://trueinterview.io/jobs/b85f5ed4-e91b-41be-a0f5-3e81de0e33b0">Power Controls Engineer</a></td>
+<td>Costa Mesa, California, United States, Costa Mesa, CA</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjm0nywcx654rjdt43yz2p">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Antares</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5de42a6-3b10-490e-a3c3-587f16874fbe">Thermo-Mechanical Design Engineer - Reactor Cavity Cooling Systems</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01kwa37bv0vrkz7f6jfq3wk1s0">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gallatin</strong></td>
+<td><a href="https://trueinterview.io/jobs/24e2c88c-04b9-422a-b66a-4367cea1d476">Backend Engineer</a></td>
+<td>El Segundo, CA, Washington, D.C., Palo Alto, CA, San Francisco, CA, Austin, TX, New York City, NY</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hhtktca8semrx40cb6670z">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Freeform</strong></td>
+<td><a href="https://trueinterview.io/jobs/f56e5bb4-de66-4a8f-a378-fde7588a6007">FPGA Engineer (New Grad Summer 2027)</a></td>
+<td>Los Angeles, CA (On-site)<br/>Headquarters</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8016243003">Apply</a></td>
+<td align="center">7 Oct 2026</td>
 </tr>
 </tbody>
 </table>

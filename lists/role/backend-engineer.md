@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**54 open roles.** 28 in the United States & Canada · 26 elsewhere in the world.
+**63 open roles.** 33 in the United States & Canada · 30 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4b72d49-5ec8-42a4-a5b6-30a4e116e284">Backend Engineer for AI Agent Builder - USA | Remote</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484959622/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>TikTok USDS Joint Venture</strong></td>
 <td><a href="https://trueinterview.io/jobs/c73ce699-31c5-4c13-9ea6-10364a109a71">Software Engineer Graduate (Tech and Product, USDS) - 2027 Start</a></td>
 <td>Seattle, WA<br/>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4446613511/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tennr</strong></td>
+<td><a href="https://trueinterview.io/jobs/eba89ab0-6482-4ade-ab99-e0fc0482c8e8">Backend Software Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4365573549/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -212,6 +226,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481935972/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Atlassian</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a2229ce-5835-41ba-864e-9e263483e744">Backend Software Engineer - Focus Funds and AI</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers-americas.icims.com/jobs/27824/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d7e74274-f74a-42ee-8172-8c3e160fdcbd">Backend Software Engineer - Identity</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers-americas.icims.com/jobs/27819/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gallatin</strong></td>
+<td><a href="https://trueinterview.io/jobs/24e2c88c-04b9-422a-b66a-4367cea1d476">Backend Engineer</a></td>
+<td>El Segundo, CA, Washington, D.C., Palo Alto, CA, San Francisco, CA, Austin, TX, New York City, NY</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hhtktca8semrx40cb6670z">Apply</a></td>
+<td align="center">10 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -406,6 +441,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Pune Division, Maharashtra, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4463948938/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nexoya</strong></td>
+<td><a href="https://trueinterview.io/jobs/8450e6c7-2030-40db-b780-146c4677cd7d">Backend Engineer (Node.js / TypeScript)</a></td>
+<td>Berlin, Deutschland</td>
+<td align="center"><a href="https://join.com/companies/nexoya/16829990-backend-engineer-node-js-typescript?pid=a13795120131dbe48464">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Manulife</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2538df3-4c64-4479-acbf-ad01e0f6872f">Associate Backend Software Engineer - HIREFITRO3405</a></td>
+<td>Makati City, Philippines Branch Office</td>
+<td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Makati-City-Philippines-Branch-Office/Associate-Backend-Software-Engineer---HIREFITRO3405_JR26091278">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/20400afa-9631-4282-9767-b00dbfa81279">Associate Backend Software Engineer - HIREFITRO3433</a></td>
+<td>Makati City</td>
+<td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Makati-City/Associate-Backend-Software-Engineer----HIREFITRO3433_JR26091280">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ci&amp;t</strong></td>
+<td><a href="https://trueinterview.io/jobs/e834d9d1-698c-408c-a6c5-29063d1d27ef">[Job - 32040] Analista de Suporte Pleno (Developer L3)</a></td>
+<td>Brazil</td>
+<td align="center"><a href="https://jobs.lever.co/ciandt/ff33f4ce-5822-4b09-a334-5ea5401a91e6/apply">Apply</a></td>
+<td align="center">8 Oct 2026</td>
 </tr>
 </tbody>
 </table>

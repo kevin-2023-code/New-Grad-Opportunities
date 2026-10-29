@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**40 open roles.** 32 in the United States & Canada · 8 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**52 open roles.** 43 in the United States & Canada · 9 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TrellisWare Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/033d9de8-216e-47b4-b6a4-36fa0d31ecd1">Characterization Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468303917/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a8475ea-95a9-4814-a7f0-ab67345e60e7">Procurement Engineer, Intelligence Systems &amp; Space (Active Clearance)</a></td>
+<td>Costa Mesa, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4365035168/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0bdfb295-a7e1-462a-8d8a-aea91ef774ba">Software Engineer - Underseas Recon &amp; Strike</a></td>
+<td>Boston, MA<br/>Costa Mesa, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458294953/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Shield AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/126d5c74-ceef-4bdd-a03c-dbf5e341815f">Engineer II, Integration (R6202) - New Grad</a></td>
@@ -187,13 +208,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0bdfb295-a7e1-462a-8d8a-aea91ef774ba">Software Engineer - Maritime Integrated Solutions</a></td>
-<td>Costa Mesa, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458294953/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e2fc2ba9-54f5-464b-9a8e-a2d5a3e05e45">Modeling and Simulation Engineer, Space</a></td>
 <td>Costa Mesa, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4336646133/">Apply</a></td>
@@ -240,6 +254,69 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476396233/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/30b70702-e122-40c5-ac4a-98a2e71bb9ef">Manufacturing Engineer I, Composites</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://grnh.se/fs08k1rr2us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>True Anomaly</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4371dce-a126-45a8-b965-b838e153ccea">Software Engineer I, QA (New Grad)</a></td>
+<td>Denver, CO<br/>Long Beach, CA, Denver, CO, Long Beach, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d160322e-5e6d-45cf-a0d6-a954b96313d2">Propulsion Engineer I (New Grad)</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5271680007">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/30e30e09-e6ce-485a-81e6-eed3ad0dac43">Software Development Engineer in Test I</a></td>
+<td>Long Beach, California, United States, LB - Wormhole HQ (CA)</td>
+<td align="center"><a href="https://boards.greenhouse.io/relativity/jobs/8892460002?gh_jid=8892460002">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8be7740f-353c-490f-a2f6-1bf2f7ef8a62">Manufacturing Engineer I  - Test &amp; Launch Structures</a></td>
+<td>Cape Canaveral, Florida, United States, Launch Complex 16 (FL)</td>
+<td align="center"><a href="https://boards.greenhouse.io/relativity/jobs/8891947002?gh_jid=8891947002">Apply</a></td>
+<td align="center">17 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX</strong></td>
+<td><a href="https://trueinterview.io/jobs/c097a4e9-13a7-4dd2-b7ea-73e061c74261">New Graduate Engineer, Infrastructure</a></td>
+<td>Starbase, TX<br/>Brownsville, TX, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7b99597e-bd48-4871-8d59-371fefeb9c94">New Graduate Engineer, Manufacturing - '26/'27 (Starlink)</a></td>
+<td>Bastrop, TX</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8877857002?gh_jid=8877857002">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e17a0bbe-67a1-43b7-bb74-9bec6cb994d4">New Graduate Engineer, Automation - '26/'27 (Starlink)</a></td>
+<td>Bastrop, TX</td>
+<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8877862002?gh_jid=8877862002">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>World View Enterprises Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/83201f01-4ab6-449a-9af0-d08c46c1b6de">Software Engineer</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://jobs.lever.co/world-view-enterprises-inc./914c27c3-f5c3-4a7e-9f80-9e813d5602e5/apply">Apply</a></td>
+<td align="center">2 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -308,6 +385,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Munich, Bavaria, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4427855600/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd6190b6-e5c6-4897-94d1-52a87303d531">Relativity Space / In Office (Long Beach, CA ) / Software Engineer</a></td>
+<td>Software Engineer</td>
+<td align="center"><a href="https://www.relativityspace.com/">Apply</a></td>
+<td align="center">2 Oct 2026</td>
 </tr>
 </tbody>
 </table>

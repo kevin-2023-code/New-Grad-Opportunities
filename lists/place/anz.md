@@ -2,7 +2,7 @@
 
 # 🇦🇺 Sydney, Melbourne & Aotearoa
 
-**111 open roles.** 5 in the United States & Canada · 106 elsewhere in the world.
+**131 open roles.** 5 in the United States & Canada · 126 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,6 +64,76 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hitachi Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/146cd96c-7b16-414f-bd12-7fa8ce9c2fd2">Project Engineer</a></td>
+<td>Brisbane, Queensland, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467979943/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HUB24 Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/2d3c17fa-4617-473c-ae1e-50f2f5226ff4">Site Reliability Engineer</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466256167/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7867a34-b4a0-4621-83ad-e666abc23450">ICT Design Engineer, DC Design Engineering</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484939985/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e7b9aa43-18d1-4411-8637-d2a31380c45c">Systems Development Engineer, Route 53</a></td>
+<td>Melbourne, Victoria, Australia<br/>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484943880/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Macquarie Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee7b0b79-4ce6-4bbd-aba0-d0fa55dbeea2">Software Engineer</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465954247/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kinexus Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/562f4268-ad59-40b0-8618-5ae78cf81222">Software Engineers/Developers (TSPV) - ACT, VIC, WA</a></td>
+<td>Canberra, Australian Capital Territory, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484954226/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Future Secure AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/a97ae4af-c06b-48eb-b30b-2482095c3726">Platform DevOps Engineer</a></td>
+<td>Melbourne, Victoria, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4432089312/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kinexus Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/416ebf6d-64e3-437d-9187-72710d78badf">Citrix Systems Administrator (TSPV)</a></td>
+<td>Canberra, Australian Capital Territory, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484715431/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Challenger Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/03ed7900-8f9f-4dad-8ec3-4d755097be62">Quantitative Engineer</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463330384/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Specsavers</strong></td>
+<td><a href="https://trueinterview.io/jobs/a45e90da-b7db-409c-922c-d3b98ca039d4">Service Desk Analyst</a></td>
+<td>Melbourne, Victoria, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477137675/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>NGS Super</strong></td>
 <td><a href="https://trueinterview.io/jobs/4f83548b-20e4-44e1-84ee-0637e95d752d">Salesforce Product Owner</a></td>
@@ -457,6 +527,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1dbbd7a-b097-4969-97c1-cf517ab82973">Software Engineer, Core Infrastructure</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471414957/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>CareCone Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/c69860aa-3bec-4da9-a57d-0782a881eba5">Platform Engineer</a></td>
 <td>Sydney, New South Wales, Australia</td>
@@ -531,13 +608,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f1b75734-3658-4042-8021-dbb1fc0c1b57">Structural Engineer</a></td>
 <td>Brisbane, Queensland, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475174112/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Kinexus Australia</strong></td>
-<td><a href="https://trueinterview.io/jobs/416ebf6d-64e3-437d-9187-72710d78badf">Citrix Systems Administrator (TSPV)</a></td>
-<td>Canberra, Australian Capital Territory, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484715431/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -805,6 +875,76 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Sydney, Australia</td>
 <td align="center"><a href="https://ebuu.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/requisitions/preview/68816">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Advania UK</strong></td>
+<td><a href="https://trueinterview.io/jobs/72cef7d8-6c9b-4083-b46d-4d7140fcd646">Linux Engineer</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://belong.advania.co.uk/jobs/8624871-linux-engineer">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Commonwealth Bank of Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b61c274-2328-423d-a2ee-19f8b3f43ab5">Data Scientist</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://cba.wd3.myworkdayjobs.com/en-US/commbank_careers/job/Sydney-CBD-Area/Data-Scientist_REQ267418">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8f40212-bc4f-4a1d-9482-012727e57919">AI Outcome Customer Engineer, Google Cloud</a></td>
+<td>Melbourne, Australia</td>
+<td align="center"><a href="https://careers.google.com/jobs/results/88158756738605766-ai-outcome-customer-engineer/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HUB24</strong></td>
+<td><a href="https://trueinterview.io/jobs/15160dde-6d2e-4528-9460-7459bb10017d">Data Analyst</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://hub24management.wd105.myworkdayjobs.com/en-US/HUB24_Careers/job/Sydney/Data-Analyst_JR101135">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Metro Trains Melbourne</strong></td>
+<td><a href="https://trueinterview.io/jobs/56c737fa-b124-49b0-a4fd-8579ed77c71e">Software Engineer</a></td>
+<td>Melbourne, Australia</td>
+<td align="center"><a href="https://www.metrotrains.com.au/job-search/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mable</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb3e0b36-1033-47e1-a802-970891879519">Graduate Engineer</a></td>
+<td>Melbourne, Brisbane, Sydney</td>
+<td align="center"><a href="https://jobs.lever.co/mable/585571a3-6888-4f62-aaf7-9f2adf50eb51/apply">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jensen Hughes</strong></td>
+<td><a href="https://trueinterview.io/jobs/70d960bf-1235-4d52-b7cd-ed57a88ccf33">Fire Engineer Graduate</a></td>
+<td>Perth, Western Australia, Australia, Perth<br/>Brisbane, Queensland, Australia, Warrington Fire - Brisbane</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5454802008">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/132c1445-7fc6-4baf-bd9e-c29718e241d3">Fire Protection Graduate</a></td>
+<td>Brisbane, Queensland, Australia, Warrington Fire - Brisbane</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5454783008">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ae3382b-e5ca-4ed3-ba1b-d60b8f8b551e">Security Incident Response Engineer, AWS Security Corporate Response</a></td>
+<td>Melbourne, Australia</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10588109/security-incident-response-engineer-aws-security-corporate-response?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CABLE</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a7d6ff3-ec88-4101-970b-9022db0ed3fa">CABLE / Software Engineer (early team) / Sydney, Australia (ON-SITE) / Full-time /</a></td>
+<td>Sydney, Australia</td>
+<td align="center"><a href="https://jobs.cable.energy/roles/3e2cd174-71f5-80ae-a1d2-db8b93f2e51d">Apply</a></td>
+<td align="center">2 Oct 2026</td>
 </tr>
 </tbody>
 </table>

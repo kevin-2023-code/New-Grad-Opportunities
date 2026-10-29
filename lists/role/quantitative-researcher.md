@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**15 open roles.** 10 in the United States & Canada · 5 elsewhere in the world.
+**18 open roles.** 13 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Saragossa</strong></td>
+<td><a href="https://trueinterview.io/jobs/57b8ca2d-755a-4a29-95bb-f59ae234f2cf">Quant Researcher – Build, Test &amp; Deploy | Tech-Driven NYC Fund</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4401947333/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Moderna</strong></td>
 <td><a href="https://trueinterview.io/jobs/ee5aa885-8598-4495-8330-a5b3f6b02270">Scientist, CMC Quantitative Sciences</a></td>
@@ -86,6 +93,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4439471695/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intercontinental Exchange</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff1cc2d7-a4af-458e-b8e4-6d8ebee3c423">Quantitative Analyst, Quantitative Research</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://careers-ice.icims.com/jobs/14040/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Goldman Sachs</strong></td>
+<td><a href="https://trueinterview.io/jobs/7baf5724-b3eb-4ef5-b2c8-aadf0aeef0d3">The Core Engineering-Associate, Quantitative Strategist, Core Planning and Analysis Strats</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3002/job/176151">Apply</a></td>
+<td align="center">21 Oct 2026</td>
 </tr>
 </tbody>
 </table>

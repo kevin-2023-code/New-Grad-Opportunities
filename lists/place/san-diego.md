@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**46 open roles.**
+**50 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DRS IT Solutions Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/812a231c-7604-42bb-8dc6-ffcde732d61f">Network Software Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484716796/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TrellisWare Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/033d9de8-216e-47b4-b6a4-36fa0d31ecd1">Characterization Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468303917/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Versant Media</strong></td>
 <td><a href="https://trueinterview.io/jobs/ab153429-2038-4ff1-a4a8-e51a6d681431">Versant Summer Internships: Technology, Product, Design &amp; Engineering</a></td>
@@ -138,13 +152,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>DRS IT Solutions Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/812a231c-7604-42bb-8dc6-ffcde732d61f">Network Software Engineer</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484716796/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/08a22d84-fab2-4301-84fa-d692819ae85b">Hardware Test &amp; Automation Engineer - ONSITE@ San Diego, CA</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484729135/">Apply</a></td>
@@ -338,6 +345,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476396233/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Garmac</strong></td>
+<td><a href="https://trueinterview.io/jobs/d7afd49b-ade5-4d76-937a-8340bc418785">Network Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://recruiterflow.com/garmaclimitedllc/jobs/208?location=142">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Judicial Council of California</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e72677c-ddbc-4015-a13d-74c3a3a71a3c">Court Systems Administrator</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://careers.jud.ca.gov/psc/HRPRDCG/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=6794&amp;PostingSeq=2">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/189f5eb4-d048-4ce1-8f0d-10761695a7a0">Materials Planner</a></td>
+<td>San Diego, CA, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/San-Diego-CA/Materials-Planner_2641882">Apply</a></td>
+<td align="center">26 Oct 2026</td>
 </tr>
 </tbody>
 </table>

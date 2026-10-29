@@ -2,7 +2,7 @@
 
 # Quantitative Trader
 
-**17 open roles.** 10 in the United States & Canada · 7 elsewhere in the world.
+**18 open roles.** 10 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -99,6 +99,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TotalEnergies</strong></td>
+<td><a href="https://trueinterview.io/jobs/94057f67-07ad-4a1c-93f2-9cf6f2c782aa">Assets Trader – Power &amp; Gas (Europe)</a></td>
+<td>Geneva, Geneva, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484957040/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>OEGE TRADING GMBH &amp; CO.KG</strong></td>
 <td><a href="https://trueinterview.io/jobs/2602a3bb-a6a4-4b04-a2f8-d5fc5effe8ef">International B2B Trader – Purchasing &amp; Sales (m/f/d)</a></td>

@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**11 open roles.** 1 in the United States & Canada · 10 elsewhere in the world.
+**26 open roles.** 1 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,10 +37,38 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/201cd3d0-17b7-4a6f-8900-9e258b4f2ce9">Software Engineer, GCE Control Plane, Early Careers, PhD</a></td>
+<td>Warsaw, Mazowieckie, Poland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4365587218/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/c78b5f5c-ded6-4894-b6f9-7a6586dda1e8">Software Enabling and Optimization Engineer</a></td>
+<td>Gdańsk, Pomorskie, Poland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466503883/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6761cf50-7172-41e1-b5d2-c6ba7f5bb96a">Security Software Development Engineer</a></td>
+<td>Gdańsk, Pomorskie, Poland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447994148/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>NXP Semiconductors</strong></td>
 <td><a href="https://trueinterview.io/jobs/fe0985ea-70c5-4e77-b3d0-7c59d349b546">ML/AI Compiler Engineer</a></td>
 <td>Bucharest, Bucharest, Romania</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459384325/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Boosta</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8c89c81-077a-44bf-89d4-fc2ec502c81b">AI Creative Designer</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://grnh.se/rok3tul2teu">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -100,11 +128,88 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>ALIOR BANK</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5cff622-799d-4532-bd3e-b682f0072f30">Devops Platform Engineer (Kubernetes) (K/M)</a></td>
+<td>Kraków, Poland</td>
+<td align="center"><a href="https://www.aliorbank.pl/dodatkowe-informacje/kariera/aktualne-oferty-pracy/oferta/3596304-6.html">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Flix SE</strong></td>
+<td><a href="https://trueinterview.io/jobs/251fa6db-1492-4b04-8255-341d6f013743">DevOps / Cloud Infrastructure Engineer</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://flix.careers/job/?jobid=8432987002">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kuehne+Nagel</strong></td>
+<td><a href="https://trueinterview.io/jobs/2143cdec-8f78-432b-a99e-37d11acdbfbd">Full Stack Software Engineer</a></td>
+<td>Wrocław, Poland</td>
+<td align="center"><a href="https://jobs.kuehne-nagel.com/global/en/job/19697">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>LUX MED</strong></td>
 <td><a href="https://trueinterview.io/jobs/5949fe05-f9a0-4c73-956f-7caa875db37d">Platform Engineer</a></td>
 <td>Warszawa, Poland</td>
 <td align="center"><a href="https://skk.erecruiter.pl/Offer.aspx?oid=5017282&amp;ejoId=880871&amp;ejorId=484386&amp;comId=18803855">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Scalo</strong></td>
+<td><a href="https://trueinterview.io/jobs/00cec2df-e8af-4832-aa44-bdc704065d2b">Data Engineer</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://scalo.traffit.com/public/an/901f04f7bfa1b14c0a7d564a6099374b706d537a76773d3d">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/87175972-527c-4899-adbc-9ca2479f8d58">DevSecOps Engineer</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://scalo.traffit.com/public/an/a8719906519825491aa11749ee7052c74e30554475413d3d">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4105f965-2fc6-4b50-838b-167a3e6fab82">Product Owner (BPM/Process Automation)</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://scalo.traffit.com/public/an/6c75e23b92a615afe3397aa061b63f54444f2b6831673d3d">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>UBS</strong></td>
+<td><a href="https://trueinterview.io/jobs/3bed771f-376d-400f-a740-bd62e06eef2a">Data Analyst - Data Services</a></td>
+<td>Kraków, Poland</td>
+<td align="center"><a href="https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&amp;siteid=5012&amp;PageType=JobDetails&amp;jobid=352268">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ALIOR BANK</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f4ac380-48d2-4572-a110-47bba10f4b79">Cloud Engineer (K/M)</a></td>
+<td>Kraków, Poland</td>
+<td align="center"><a href="https://www.aliorbank.pl/dodatkowe-informacje/kariera/aktualne-oferty-pracy/oferta/3595500-6.html">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7b343dcb-dc5d-4a36-a7fc-c8cb3a1eca15">DevOps Engineer (K/M)</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://www.aliorbank.pl/dodatkowe-informacje/kariera/aktualne-oferty-pracy/oferta/3595375-7.html">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Allegro</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce4163db-e6cd-43f4-887b-223acfffc3eb">Software Engineer 1 (Java/Kotlin)</a></td>
+<td>Poznań, Poland</td>
+<td align="center"><a href="https://careers.allegro.eu/job-invite/4209?locale=en_US">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Citi</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e29da5b-abbe-4bd5-a356-fe9570a090e8">Cyber Security Engineer</a></td>
+<td>Warszawa, Poland</td>
+<td align="center"><a href="https://jobs.citi.com/job/warsaw/cyber-security-engineer/287/102509205488">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 </tbody>
 </table>

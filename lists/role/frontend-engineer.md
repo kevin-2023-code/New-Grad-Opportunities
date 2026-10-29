@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**60 open roles.** 38 in the United States & Canada · 22 elsewhere in the world.
+**69 open roles.** 44 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Avature</strong></td>
+<td><a href="https://trueinterview.io/jobs/053995b0-a34f-45d7-bc6a-0aabe36cf565">Web Developer</a></td>
+<td>Virginia, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484957285/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Attis</strong></td>
+<td><a href="https://trueinterview.io/jobs/b43ee7b6-1141-4b38-ac6d-29d065308fa5">Frontend Software Engineer (React/TypeScript/Agentic AI/Hybrid)</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484947512/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Alexander Technology Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/99b68909-df8f-4961-ac12-21b02a8b7b63">Front End Developer</a></td>
@@ -283,6 +297,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476582447/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Weeghman &amp; Briggs</strong></td>
+<td><a href="https://trueinterview.io/jobs/08d6ae68-62a3-4628-9e64-d81e4d510363">Web Developer 1</a></td>
+<td>Jessup, MD</td>
+<td align="center"><a href="https://weeghmanandbriggs.isolvedhire.com/jobs/1892164-606921.html">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Turn5</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c0c994c-3ef2-4cf6-90db-95eaa835bd59">Front-End Developer</a></td>
+<td>Paoli, PA</td>
+<td align="center"><a href="https://careers-turn5.icims.com/jobs/3520/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/924dfc11-2a37-4bcb-a38f-31271ff44d36">Frontend Engineer, AI Business Automation, Prime Video</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10586228/frontend-engineer-ai-business-automation-prime-video?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WHOOP</strong></td>
+<td><a href="https://trueinterview.io/jobs/d356bf23-8a0c-47ad-97b4-a6c14ef49fa9">Software Engineer I (Frontend, AI Platform)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/whoop/ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3/application">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -448,6 +490,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Stuttgart, Baden-Württemberg, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474073257/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Msg</strong></td>
+<td><a href="https://trueinterview.io/jobs/4326bdb8-e861-4b29-a22e-00f1a39ba44d">Front End Developer</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.msg-global.com/job/Bangalore-Front-End-Developer-KA/1451581333/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Benifex</strong></td>
+<td><a href="https://trueinterview.io/jobs/a363eed6-6b98-4bff-9ae4-8e3ee1a24c15">Frontend Engineer (Brain team)</a></td>
+<td>Southampton, United Kingdom</td>
+<td align="center"><a href="https://careers.benifex.com/jobs/8571324-frontend-engineer-brain-team">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Encora</strong></td>
+<td><a href="https://trueinterview.io/jobs/571b4222-e60d-4dec-9e7a-b33b90fe1e05">Mid Frontend React Engineer</a></td>
+<td>Bolivia, Cali<br/>Colombia, Cali<br/>Peru, Cali<br/>+1 more</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjw1fxmt59aq4q80smax5n">Apply</a></td>
+<td align="center">10 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**12 open roles.** 7 in the United States & Canada · 5 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**21 open roles.** 12 in the United States & Canada · 9 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -66,6 +66,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467935899/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>ThreatDown</strong></td>
+<td><a href="https://trueinterview.io/jobs/da5e95ce-ba36-40e1-a335-d4377f2213d7">Technical Support Engineer (11am - 8pm) - Remote Florida</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://ats.rippling.com/threatdown/jobs/c6018159-4cdc-4e6e-93a0-d8b4d4a0c16c?jobSite=Indeed">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meridianlink</strong></td>
+<td><a href="https://trueinterview.io/jobs/c19457f0-3080-4cd5-9dc2-8e33c502b717">Associate Implementation Analyst</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/meridianlink/2e5f59c7-7e34-4392-8ced-1964c68bc78a/application">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WHOOP</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa90721f-d3e9-4189-a157-156115a0592c">Retail Experience Design Specialist I</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/whoop/66bee4dd-be08-4da6-a44d-84afdc8f7a25/application">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d356bf23-8a0c-47ad-97b4-a6c14ef49fa9">Software Engineer I (Frontend, AI Platform)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/whoop/ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3/application">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tenstorrent</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec577568-aeed-4040-a3c1-cbd0e94f5a2a">Performance Analysis Engineer</a></td>
+<td>Toronto, Ontario, Canada<br/>Santa Clara, California, United States<br/>North America</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5257063007">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -112,6 +147,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Aachen, North Rhine-Westphalia, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476758635/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SingleStore</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1fca058-dd22-41a5-b94a-db2a4bcdd410">Forward Deployment Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://grnh.se/nts6azs81us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Netgear</strong></td>
+<td><a href="https://trueinterview.io/jobs/e97be6ec-1356-40f4-9525-2d4e1bf7e55a">Graduate Mobile Software Engineer (Android/iOS)</a></td>
+<td>Cork, Ireland</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/netgear/415ee500-8f36-4766-a9e9-a565827e52c2/application">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kin Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c6a1a06-9592-41b7-b55d-d127aca8dc4e">Pricing &amp; Risk Analyst</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/kin/99967c4f-e3cc-42b3-90d0-0f4499140c22/application">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Megaport</strong></td>
+<td><a href="https://trueinterview.io/jobs/f276d9dc-c625-4c04-89dd-e73f73f58624">Network Procurement Officer</a></td>
+<td>Sofia</td>
+<td align="center"><a href="https://jobs.lever.co/megaport/3ba89584-e74d-4d06-8f51-b39e33b37e8f/apply">Apply</a></td>
+<td align="center">6 Oct 2026</td>
 </tr>
 </tbody>
 </table>

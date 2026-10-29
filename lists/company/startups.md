@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**12 open roles.** 9 in the United States & Canada · 3 elsewhere in the world. Early-stage technology companies.
+**19 open roles.** 16 in the United States & Canada · 3 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Otter.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6583f1e-aa3c-4b0e-9415-23bd8c6fe9b1">Software Engineer, Frontend</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476914147/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7eeba7dc-a676-4dc8-9a77-82e882d6f645">Software Engineer, Front-End (New Grad)</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476958699/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LangChain</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a115663-fc61-4545-ba25-245936f0374d">IT Systems Administrator</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476786678/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Fluidstack</strong></td>
 <td><a href="https://trueinterview.io/jobs/0f77ba2f-1e3d-472a-99f3-d789aa712f75">Network Engineer, Connectivity &amp; Strategy</a></td>
 <td>San Francisco, CA</td>
@@ -32,7 +53,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Cartesia</strong></td>
+<td><a href="https://trueinterview.io/jobs/d284fadf-36e9-4cf7-9208-c9f933534a9f">Software Engineer, Agent Harness</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4415581147/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Baseten</strong></td>
+<td><a href="https://trueinterview.io/jobs/22c695f7-ef61-4f17-a03b-890a3c1a54d1">Post-Training Research Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4389297788/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Field AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ac20505-7256-4ec7-8a44-ed35f7500b90">Robotics AI Engineer, Sensor Calibration</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448924720/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c8627839-8059-4992-b852-7a8fc091e3ec">Research / Software Engineer - Humanoid Whole Body Learning</a></td>
 <td>Boston, MA<br/>Pittsburgh, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484473690/">Apply</a></td>
@@ -79,6 +121,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465215918/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Suno</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b267c73-180d-4e13-ac40-033272fee4c7">Software Engineer, Internal Tools</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hhrrm8eg16vbsbay8qt2jn">Apply</a></td>
+<td align="center">10 Oct 2026</td>
 </tr>
 </tbody>
 </table>

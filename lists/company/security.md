@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**10 open roles.** 6 in the United States & Canada · 4 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**13 open roles.** 8 in the United States & Canada · 5 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Darktrace</strong></td>
+<td><a href="https://trueinterview.io/jobs/0dfacdb9-c561-45de-a8e8-9c9d0a68c4c8">Solutions Engineer, Acquisition</a></td>
+<td>Colorado, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477122035/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Outtake</strong></td>
 <td><a href="https://trueinterview.io/jobs/9cef9b7f-ffb8-4dea-94d1-1f3f805cead8">Software Engineer, Frontend</a></td>
@@ -59,6 +66,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465215918/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>ThreatDown</strong></td>
+<td><a href="https://trueinterview.io/jobs/da5e95ce-ba36-40e1-a335-d4377f2213d7">Technical Support Engineer (11am - 8pm) - Remote Florida</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://ats.rippling.com/threatdown/jobs/c6018159-4cdc-4e6e-93a0-d8b4d4a0c16c?jobSite=Indeed">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -98,6 +112,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482521081/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KnowBe4</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1fc08b2-afb0-44c3-a294-c69f53fcdd3b">Graduate Data Scientist - Cyber Analytics (Position located in Cheltenham, United Kingdom)</a></td>
+<td>Cheltenham, United Kingdom</td>
+<td align="center"><a href="https://grnh.se/ene6u76f2us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 </tbody>
 </table>

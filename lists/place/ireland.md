@@ -2,7 +2,7 @@
 
 # 🇮🇪 Dublin & Ireland
 
-**92 open roles.** 2 in the United States & Canada · 90 elsewhere in the world.
+**99 open roles.** 2 in the United States & Canada · 97 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -672,6 +672,55 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Galway, Ireland</td>
 <td align="center"><a href="https://integer.wd1.myworkdayjobs.com/External/job/Galway-Ireland/Design-Assurance-Engineer-II--Parkmore-Galway-_R35051">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cpl</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b45030f-4574-43ed-8397-13d3e0ca6553">Mechanical Design Engineer</a></td>
+<td>Limerick, Ireland</td>
+<td align="center"><a href="https://www.cpl.com/uk/jobs/979557329">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/970abe94-d771-4588-9249-fb0685645f6d">ServiceNow Developer – HRSD</a></td>
+<td>Dublin, Ireland</td>
+<td align="center"><a href="https://www.cpl.com/uk/jobs/979519414">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d04fe136-5bbb-4346-9e5d-c5826a51a78d">Software Engineer – Edge Traffic &amp; Security Platforms</a></td>
+<td>Dublin, Ireland</td>
+<td align="center"><a href="https://www.cpl.com/uk/jobs/JO-2610-569844">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DocuSign</strong></td>
+<td><a href="https://trueinterview.io/jobs/deeae8be-c9c2-4777-a68d-0b1e3f9e7acd">Security Site Reliability Engineer</a></td>
+<td>Dublin, Ireland</td>
+<td align="center"><a href="https://careers.docusign.com/careers-home/jobs/30589?lang=en-us&amp;previousLocale=en-US">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Planet</strong></td>
+<td><a href="https://trueinterview.io/jobs/81379b5f-00ea-41d6-9b0f-09e7f8f57ff7">Data Scientist</a></td>
+<td>Galway, Ireland</td>
+<td align="center"><a href="https://planet.wd3.myworkdayjobs.com/en-US/Planet/job/Galway---Ireland/Data-Scientist_JR12383">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/26f7fb95-1d63-42b0-bd6e-a20d560bd4fe">Product Designer, AWS Search, Security, Observability, Governance</a></td>
+<td>Dublin, Ireland</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10591520/product-designer-aws-search-security-observability-governance-?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Netgear</strong></td>
+<td><a href="https://trueinterview.io/jobs/e97be6ec-1356-40f4-9525-2d4e1bf7e55a">Graduate Mobile Software Engineer (Android/iOS)</a></td>
+<td>Cork, Ireland</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/netgear/415ee500-8f36-4766-a9e9-a565827e52c2/application">Apply</a></td>
+<td align="center">14 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**79 open roles.**
+**100 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Fujitsu</strong></td>
+<td><a href="https://trueinterview.io/jobs/5cce8504-c7dd-46a5-83c8-c5aa4d6ec95d">UI Developer</a></td>
+<td>Ottawa, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476791725/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of Ottawa / Ville d’Ottawa</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f22d77e-0395-4f82-b692-47636e170be7">Power Supply and Distribution Engineer</a></td>
+<td>Ottawa, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481752652/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>International Test Pilots School</strong></td>
+<td><a href="https://trueinterview.io/jobs/352b9bf8-e8c5-4ea2-b0c3-39bb49960462">Mechanical &amp; Structural Design Engineer</a></td>
+<td>London, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476526745/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kumaran Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/51852b36-34e3-4268-8532-9b9c08376cb5">Angular Developer</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465589448/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f1f9c3d-fa0a-46e7-9592-d64172a0641e">Engineer, AI Software/Machine Learning (C++)</a></td>
+<td>Markham, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457950472/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EvenUp</strong></td>
+<td><a href="https://trueinterview.io/jobs/459d7cf1-6f31-422b-8497-0379e3b04e01">Software Engineer, AI Document Generation</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4350846612/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Haventree Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc769645-e3b7-4934-8b84-c3bff2fa06e5">Software Engineer – Mobile (React Native)</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458272375/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Themesoft Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/1aeb9226-f8e2-482c-a040-ca6e6d7d1f8a">Performance Test Engineer</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484949138/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Altera</strong></td>
 <td><a href="https://trueinterview.io/jobs/e4f80360-c26f-434b-a354-290997d3b16b">FPGA Compiler (Placer) Engineer</a></td>
@@ -190,6 +246,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/472f0dbf-261b-48bc-9842-52feaed76234">Software Developer</a></td>
 <td>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482575319/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Boson AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/ece579bd-c2cc-4199-9f69-810c4586e495">Machine Learning Engineer - Enterprise</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4300547073/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -487,13 +550,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/e31b545a-5e9f-4c75-85b7-e3aa5d14bdbb">Embedded Software Developer</a></td>
-<td>Ottawa, ON<br/>Ottawa, Canada</td>
-<td align="center"><a href="https://www.careers.ford.com/en/job/ottawa/embedded-software-developer/48560/102552826192">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Hard Rock International</strong></td>
 <td><a href="https://trueinterview.io/jobs/891cb44f-e0b1-438d-bad6-b788baea14e0">QA Engineer - Game Development (Hard Rock Games)</a></td>
 <td>Toronto, ON<br/>Toronto, Canada</td>
@@ -569,6 +625,97 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465597523/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture</strong></td>
+<td><a href="https://trueinterview.io/jobs/a27da897-e969-4849-a497-94f932dd19b1">AI/ML &amp; Data Platform Specialist- Snowflake/ Databricks</a></td>
+<td>Mississauga, Canada</td>
+<td align="center"><a href="https://accenture.com/ca-en/careers/jobdetails?id=R00364700_en">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Blanc Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3cb0f62-ed9e-4f8b-9e8b-377f625f7a62">Full Stack Software Engineer - AI Agents</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://blanclabs.bamboohr.com/careers/275?postedDate=2026-10-27">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cognizant</strong></td>
+<td><a href="https://trueinterview.io/jobs/656d077e-3314-4ff6-bfb0-a79047772920">Guidewire PolicyCenter developer</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://careers.cognizant.com/global-en/jobs/00069928401/guidewire-policycenter-developer/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Freedom Mobile</strong></td>
+<td><a href="https://trueinterview.io/jobs/98590f8e-5b14-43e0-9899-169ae4bf3bb6">Digital Product Owner</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://carrieres-careers.quebecor.com/freedom/job/Toronto-Digital-Product-Owner-ON-M5J-0B8/607397417/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d38c80a-16d6-459d-94c1-2f124c85d20a">Compiler Engineer - Triton and DSLs</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineer---Triton-and-DSLs_JR0288432">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TD</strong></td>
+<td><a href="https://trueinterview.io/jobs/e319881c-ab5d-48d2-b8ea-afbf63d8d013">Product Owner I</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Product-Owner-I_R_1513501-1">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Citi</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4666e0c-d346-4ed1-9a50-a8b18edb9208">Applications Development Intermediate Programmer Analyst</a></td>
+<td>Mississauga, Canada</td>
+<td align="center"><a href="https://jobs.citi.com/job/mississauga/applications-development-intermediate-programmer-analyst/287/102480807200">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/c965d105-1119-4e11-9001-964b2217dafe">Developer, RBC Amplify 2027, Toronto</a></td>
+<td>TORONTO, Ontario, Canada</td>
+<td align="center"><a href="https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ae1da54-690d-4edd-9a5e-a6c01fbe0d8c">Software Dev Engineer, AWS Transactional Services</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10587737/software-dev-engineer-aws-transactional-services?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/d76e6113-52ce-454d-9c31-601a6d8def34">Electrical Designer – Roadway Lighting Design</a></td>
+<td>Toronto, ON, Canada</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hkansts223vs3e9ccp1yvp">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f74f5f23-83f6-491c-9829-614c5d7f2e47">Electrical Engineer – Roadway Lighting Design</a></td>
+<td>Toronto, ON, Canada</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hkanst98md6evahmkmjf9h">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tenstorrent</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec577568-aeed-4040-a3c1-cbd0e94f5a2a">Performance Analysis Engineer</a></td>
+<td>Toronto, Ontario, Canada<br/>Santa Clara, California, United States<br/>North America</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5257063007">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Veeva Qualityone Japan</strong></td>
+<td><a href="https://trueinterview.io/jobs/940a509e-ab0d-4c49-8a76-b95bf44cc0da">Associate Software Engineer in Test</a></td>
+<td>Canada - Toronto</td>
+<td align="center"><a href="https://jobs.lever.co/veeva/fecaef42-b5c1-4fb2-b819-058171174ed1/apply">Apply</a></td>
+<td align="center">2 Oct 2026</td>
 </tr>
 </tbody>
 </table>

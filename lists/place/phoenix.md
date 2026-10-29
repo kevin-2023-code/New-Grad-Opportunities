@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**73 open roles.** 72 in the United States & Canada · 1 elsewhere in the world.
+**89 open roles.** 88 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -515,11 +515,123 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Quest Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd178bda-35f5-473d-9f7e-27a4a619cfca">FPGA Design Engineer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://grnh.se/jru1dgnw7us">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Transdev</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c1a6ba0-6154-4a28-95ea-fab50513c006">Data Analyst</a></td>
 <td>Phoenix, AZ</td>
 <td align="center"><a href="https://transdevna.jobs/19F3674AEA4A4B8CAC3DE64D46D799BA/job?vs=1554">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dragonfly Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/fb73d086-3287-4b11-989b-329760424798">Desktop Support Technician</a></td>
+<td>Mesa, AZ</td>
+<td align="center"><a href="https://recruiting2.ultipro.com/STA1026SSERV/JobBoard/88f6bf58-d226-4c6f-8429-70fb7f1dc30d/OpportunityDetail?opportunityId=0aabd776-fc0a-4f02-98c5-221feaeb21e5&amp;postingId=5861e437-a5c9-4591-a07d-2ba7897a87d8">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>QE Solar</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5d327c3-1fd6-4879-85ff-ad8fb21a2ccc">Network Engineer: Control Center and Site Networks - Scottsdale, AZ</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://ats.rippling.com/qesolar/jobs/f18559a7-af21-40a2-9b6e-51ff4894c2d3?jobSite=Indeed">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amtech</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7d95f64-cab5-4a98-baa4-3008b88ad5df">Foundry CMP Process Engineer I</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://amtechsystems.recruiterbox.com/jobs/fk0zncs?fjb_hash=ezLpq610">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kyndryl</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd457560-b792-4bb2-8f1b-d3e9178a061b">Mainframe Network Engineer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Phoenix-AZ-USA/Mainframe-Network-Engineer_R-71013">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Moog, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb4b1e79-83a1-437c-b9fd-4f9590c8a0f9">Project Engineer</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Phoenix-AZ/Project-Engineer_R-26-20830">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Onsemi</strong></td>
+<td><a href="https://trueinterview.io/jobs/b187d9f8-7e5c-4d4d-bdb5-07496a4c8ca7">AI Engineer</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/2506767">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/35a46c3c-3555-468f-b37c-a20a14135697">Software Engineer I - (Onsite)</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01884645">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Real Time Consulting, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0db40b3-0256-46b5-9940-1ad860dbb9f7">Software Engineer - Next Generation FMS Flight Planning</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://realtime.catsone.com/careers/42508-Real-Time-Consulting/jobs/16868416-Software-Engineer--Next-Generation-FMS-Flight-Planning/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sunbelt Controls</strong></td>
+<td><a href="https://trueinterview.io/jobs/e5b72bb0-e1e1-49c6-be6f-eb8bf39fe1fd">Project Engineer I</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://ekkt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/requisitions/preview/7093">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>American Express</strong></td>
+<td><a href="https://trueinterview.io/jobs/56f21cb5-deb9-4255-ae3c-1b4b7e642074">Analyst-Data Science</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26015250/?intlink=us-amex-career-en-us-search">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/c87b8345-786b-4d61-bbd8-1c940ff4d66c">Associate Test Engineer - Product Development</a></td>
+<td>US, AZ, Chandler, East Elliot, United States of America</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-AZ-Chandler-East-Elliot/Product-Development_R265969">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/00dd7d7b-17ac-4643-885c-7ec8a38992ea">Field Applications Engineer New College Grad- Master's/PhD (Santa Clara, Austin, Gloucester, Phoenix)</a></td>
+<td>Phoenix, AZ, US<br/>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318861343">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/03073ec1-b515-4766-ab78-4cb9688f645c">Associate Field Applications Engineer - Auto Connectivity</a></td>
+<td>US, AZ, Chandler, East Elliot<br/>US, CA, San Jose, Rio Robles, United States of America<br/>US, CO, Colorado Springs, Centennial</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Field-Applications-Engineer---Auto-Connectivity_R266685">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/9469f8fa-e835-4cc3-8ab4-f6a52dfe4bf7">Module Engineer On-Shift (MEOS) – Night Shift (4)</a></td>
+<td>US, Arizona, Phoenix, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Module-Engineer-On-Shift--MEOS----Night-Shift--4-_JR0287815">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>World View Enterprises Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/83201f01-4ab6-449a-9af0-d08c46c1b6de">Software Engineer</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://jobs.lever.co/world-view-enterprises-inc./914c27c3-f5c3-4a7e-9f80-9e813d5602e5/apply">Apply</a></td>
+<td align="center">2 Oct 2026</td>
 </tr>
 </tbody>
 </table>

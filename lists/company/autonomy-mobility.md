@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**38 open roles.** 36 in the United States & Canada · 2 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**50 open roles.** 48 in the United States & Canada · 2 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Motional</strong></td>
+<td><a href="https://trueinterview.io/jobs/28928d3b-645d-4d9c-a902-e1b8ecc1cf9f">Machine Learning Engineer, Data Mining</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4428968344/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Ford Motor Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/e552300e-d861-4cdd-b4cc-31592fc260dc">Studio Theme Feasibility Design Engineer</a></td>
@@ -88,7 +95,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Applied Intuition</strong></td>
+<td><a href="https://trueinterview.io/jobs/6817059d-7fa0-494f-9bae-ba72754f795e">UX Test Engineer - New Grad (2027)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457441315/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
 <td><a href="https://trueinterview.io/jobs/64b38490-23eb-4b62-a993-27873a39d57e">Field Reliability Engineer, Powertrain</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484740105/">Apply</a></td>
@@ -249,14 +263,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/e31b545a-5e9f-4c75-85b7-e3aa5d14bdbb">Embedded Software Developer</a></td>
-<td>Ottawa, ON<br/>Ottawa, Canada</td>
-<td align="center"><a href="https://www.careers.ford.com/en/job/ottawa/embedded-software-developer/48560/102552826192">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0da5e734-def7-47c6-8c9c-5fd8855e81bb">Software Engineer</a></td>
 <td>Fremont, CA</td>
 <td align="center"><a href="https://www.tesla.com/careers/search/job/287805">Apply</a></td>
@@ -268,6 +275,83 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474091546/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Reliable Robotics Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc344db0-87aa-44e4-aff7-ef7cd6f29ba8">FPGA Design Engineer, Radar</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/reliable-robotics/ee57defe-9a6f-4518-8b9d-6d74cc787d5f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/de8e602d-3d41-4b32-a375-63a282a92a57">Mechanical Design Engineer, Electronics System</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.tesla.com/careers/search/job/287944">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Harbinger Motors Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/67510243-4913-426f-81fe-2feaee3737fa">Associate Design Engineer, LV Devices</a></td>
+<td>Garden Grove, CA, Garden Grove</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/harbingermotors/jobs/5275723007">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ce275e2-9fc5-4e84-aca5-91daf3549953">Balance of Plant Performance Engineer, Industrial</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.tesla.com/careers/search/job/287808">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/53d43f4b-005d-4b53-9bf8-3bf94d72a827">Systems Test Engineer</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/cc60a930-5343-4e56-8e13-b7bce71e9945/apply">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ef062be-cd78-4e0f-a2d9-aacc0ec3e947">Product Design Engineer (Early Career)</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/ba62805c-ebe7-4b99-85af-f58c807b4dd1/application">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Waymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ea4d436-a626-478b-a201-96fd9b917736">Field Safety Engineer</a></td>
+<td>Mountain View, CA, USA, Mountain View (US-MTV-EMF680), San Francisco</td>
+<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8248373">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zipline</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6f6a2a5-c950-4d09-97e8-dba5175856fb">Structural Engineer</a></td>
+<td>South San Francisco, California, USA, Aviary - SSF</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjr1sc3rdhj5ejny85qv17">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/35da2ee0-ad02-460e-9d6d-f22c886c709d">Quality Process Engineer- VRT Lead</a></td>
+<td>Oakville, ON, Canada</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71864">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bot Auto</strong></td>
+<td><a href="https://trueinterview.io/jobs/3325a5b3-f6bd-4bed-8c7a-e8d33909c0b5">Software Engineer, Core Platforms</a></td>
+<td>Houston, TX<br/>Houston Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/botauto/jobs/5448119008">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nuro</strong></td>
+<td><a href="https://trueinterview.io/jobs/a62efe23-26dd-4da8-bcb4-2f0ae5936db5">New Grad Software Engineer, Routing</a></td>
+<td>Mountain View, California (HQ)<br/>California - HQ</td>
+<td align="center"><a href="https://nuro.ai/careersitem?gh_jid=8248317">Apply</a></td>
+<td align="center">5 Oct 2026</td>
 </tr>
 </tbody>
 </table>
@@ -283,17 +367,17 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/e01aacd5-5b27-499a-b8f4-6f593cf19ee5">Site Reliability Engineer (Windows and VMware)</a></td>
-<td>Pune Division, Maharashtra, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484935083/">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/dab24a7a-ad91-4da0-9ba3-9786c1437d22">Technical Support Specialist (German/Arabic Speaking) - (m/w/d) - Fixed Term Contract</a></td>
+<td>Berlin, Berlin, Germany<br/>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484722933/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dab24a7a-ad91-4da0-9ba3-9786c1437d22">Technical Support Specialist (German/Arabic Speaking) - (m/w/d) - Fixed Term Contract</a></td>
-<td>Berlin, Berlin, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484722933/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
+<td><a href="https://trueinterview.io/jobs/e01aacd5-5b27-499a-b8f4-6f593cf19ee5">Site Reliability Engineer (Windows and VMware)</a></td>
+<td>Pune Division, Maharashtra, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484935083/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**84 open roles.**
+**107 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tata Consultancy Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca6c723d-84eb-47db-a40c-89f9b0773318">Python Hadoop Engineer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457645420/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0eb9dfcb-9db8-4892-bc1f-d029529020fe">Java MuleSoft Developer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467114462/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sharp Decisions</strong></td>
+<td><a href="https://trueinterview.io/jobs/4dfbdccc-29ce-445d-bebe-e50ca5d9e133">Python Developer with Front Office Trading with UI/API Automation Experience(1389)</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448190919/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motion Recruitment</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d910d5f-3d2a-4725-af4e-98c4dffc3705">Treasury Analyst – Liquidity Data Analyst</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476923453/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Tata Consultancy Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed692cc8-ad6a-44d3-9895-462444995c7b">Salesforce Developer</a></td>
@@ -148,6 +176,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dbea0600-7ed2-469c-b136-0851cb923e05">Instrumentation &amp; Controls Engineer</a></td>
 <td>Charlotte, NC<br/>Overland Park, KS<br/>Fort Worth, TX<br/>+2 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483239178/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Verizon</strong></td>
+<td><a href="https://trueinterview.io/jobs/dab6ce70-5b2f-4df0-bb0b-5ed192cf7a75">Network Assurance Engineer</a></td>
+<td>Cary, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476953900/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -604,6 +639,132 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chapel Hill, NC</td>
 <td align="center"><a href="https://unc.peopleadmin.com/postings/327776">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ScanSource</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2c236fb-73de-4fea-809b-d891c4018f41">Tech Support Analyst - Converged Communications</a></td>
+<td>Greenville, SC</td>
+<td align="center"><a href="https://recruiting.ultipro.com/SCA1004SCSO/JobBoard/220bcab6-cf46-46e3-8fd5-181b273b0628/OpportunityDetail?opportunityId=bcccea5d-99ee-4b10-b413-2ac20cddbbbe&amp;postingId=7b8e0e13-f2cc-4238-949b-98f92df51b3e">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Catapult</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ab0719f-c85f-4b1c-8c83-e1aa88d82295">ERP Business Systems Administrator - Charlotte, NC</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://letscatapult.applicantpool.com/jobs/1338198-198447.html">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7296f482-55b1-4742-9784-dab7a8589b21">Service Desk Technician I</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://letscatapult.applicantpool.com/jobs/1338173-198447.html">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bank of America</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b82e789-61e7-4db2-8918-0b945d50e318">Data Scientist I</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://careers.bankofamerica.com/en-us/job-detail/26039656/data-scientist-i-multiple-locations">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/5305af3d-e238-489d-a44c-df7d9b1a3b0c">React JS Developer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://capgemini.talentnet.community/jobs/9b7c6a7c-0585-44f1-abd7-3cbbfdec53c2">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GE Vernova</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a6c57aa-2c35-470a-953d-e83f2a5339fd">GE Vernova AI Engineer</a></td>
+<td>Greenville, SC</td>
+<td align="center"><a href="https://careers.gevernova.com/ge-vernova-ai-engineer/job/R5057133">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5d23bc53-a162-4c15-ad71-24ba92bb40ac">GE Vernova Data Scientist</a></td>
+<td>Greenville, SC</td>
+<td align="center"><a href="https://careers.gevernova.com/ge-vernova-data-scientist/job/R5057035">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hendrick Motorsports</strong></td>
+<td><a href="https://trueinterview.io/jobs/e5affb5b-14c3-4b87-a607-9222c1d0d4fc">IT Technician</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://hendrick.wd5.myworkdayjobs.com/en-US/HMSCareers/job/Hendrick-Motorsports/IT-Technician_R-84183-1">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LendingTree</strong></td>
+<td><a href="https://trueinterview.io/jobs/59082089-0401-4810-b078-12067a660e54">Data Product Analyst</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://grnh.se/ibq093gf1us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pearson</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e56320a-4535-47ec-86ae-2813a975bacd">Advanced Specialist, Security Engineer</a></td>
+<td>Durham, NC</td>
+<td align="center"><a href="https://pearson.jobs/honolulu-hi/advanced-specialist-security-engineer/9AE3B7D65BAD45F6A6689B842C34F5E1/job/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RTX</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce3dc355-62b0-4e87-b4f8-4779c43f945c">Automation Engineer - Data Governance</a> 🌐</td>
+<td>Remote — United States<br/>Raleigh, NC</td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01885165">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/1006b65b-d13c-48f4-b1a7-c51b2736a491">Software Engineer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://jobs.siemens.com/externaljobs/JobDetail/527170">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Stanley Black &amp; Decker</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1ae3f01-607e-42ed-94b9-884615f5c810">Identity Governance Engineer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Charlotte-NC-United-States/Identity-Governance-Engineer_REQ-1000053239">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TMP - Florida - UNC Health Care - Pereng</strong></td>
+<td><a href="https://trueinterview.io/jobs/298e73cf-ae31-4eff-99e7-cceeb20eb33f">HCS Desktop Support Specialist - Raleigh, NC</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://jobs.unchealthcare.org/job/-/-/12068/102532531680">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TRC</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1024e41-c35e-475e-9954-f878452855fc">Air Quality Engineer</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://careers.trccompanies.com/jobs/27151/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wells Fargo</strong></td>
+<td><a href="https://trueinterview.io/jobs/51141368-8faa-4a25-9236-597a38c5cf82">Innovation Lab Infrastructure Engineer (contract)</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://wellsfargo.talentnet.community/jobs/0a20b76e-954e-4c07-9306-3648248724a8">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lenovo</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2efb330-88f2-4ffa-98dc-3ec74312ccb4">Advisory Engineer, Development</a></td>
+<td>Morrisville, NC</td>
+<td align="center"><a href="https://jobs.lenovo.com/en_US/careers/JobDetail/Advisory-Engineer-Development/82943">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba021141-2d5f-49f0-9e4b-e6b14ea88532">Analog Design Engineer</a></td>
+<td>US, NC, Durham<br/>US, MA, Wilmington, United States of America<br/>US, MA, Boston</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer_R267037-1">Apply</a></td>
+<td align="center">8 Oct 2026</td>
 </tr>
 </tbody>
 </table>

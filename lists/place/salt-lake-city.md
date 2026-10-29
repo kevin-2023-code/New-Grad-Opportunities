@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**29 open roles.** 28 in the United States & Canada · 1 elsewhere in the world.
+**32 open roles.** 31 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -212,6 +212,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Salt Lake City, UT</td>
 <td align="center"><a href="https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Data-Engineer_JR-026442">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intercontinental Exchange</strong></td>
+<td><a href="https://trueinterview.io/jobs/38bf00b2-80ad-4947-b18b-0441037c7226">Analyst, Cybersecurity DFIR</a></td>
+<td>Provo, UT</td>
+<td align="center"><a href="https://careers-ice.icims.com/jobs/14156/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jabil</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef4d72c8-a90d-4412-9828-fd148d84ce71">Finance Data Analyst (Manufacturing)</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Salt-Lake-CityGrantsville-UT/Finance-Data-Analyst--Manufacturing-_J2467969">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>US Department of Labor</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd9875b8-4863-44aa-85f7-10e151c2bdfe">Supervisory General Engineer</a></td>
+<td>Sandy, UT</td>
+<td align="center"><a href="https://www.usajobs.gov/job/890238900">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 </tbody>
 </table>

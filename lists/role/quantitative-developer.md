@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**27 open roles.** 14 in the United States & Canada · 13 elsewhere in the world.
+**32 open roles.** 18 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Saragossa</strong></td>
+<td><a href="https://trueinterview.io/jobs/27985eec-a9b9-4f7a-9660-e8da73188931">Quant Developer | Fixed Income - $400K+ - Front Office - NYC / Philadelphia</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4441543079/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tetra Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/261910e6-abf0-40ee-b05b-3e60dde466df">Quantitative Ecologist – Portland, OR (Hybrid)</a></td>
+<td>Portland, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481791138/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bank of China USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a9437ad-81fe-4679-81bf-7a692f1533de">Credit Risk Management Department – Quantitative Analytics – Model Team AVP</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474460938/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Bank of America</strong></td>
 <td><a href="https://trueinterview.io/jobs/df8df7eb-39bf-4774-9828-9e48557e67f6">Global AML Operations - Client Quantitative Analyst I</a></td>
@@ -115,6 +136,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://higher.gs.com/roles/186424">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Freddie Mac</strong></td>
+<td><a href="https://trueinterview.io/jobs/1789fcff-bc01-49a8-a50c-607b7969ec50">Quantitative Analytics Professional</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://careers.freddiemac.com/us/en/job/FRMAUSJR17753EXTERNAL/Quantitative-Analytics-Professional">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -127,6 +155,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Challenger Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/03ed7900-8f9f-4dad-8ec3-4d755097be62">Quantitative Engineer</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463330384/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Bank of America</strong></td>
 <td><a href="https://trueinterview.io/jobs/eda25e4f-0bf4-48ca-8667-7547b4083909">Quantitative Engineer</a></td>

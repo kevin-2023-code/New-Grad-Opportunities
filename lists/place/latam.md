@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**8 open roles.**
+**14 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/525bb75a-4b26-42a3-a019-184c7dbb4796">Business Engineer, Business Agents</a></td>
+<td>São Paulo, São Paulo, Brazil</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4379308617/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/d2a527db-6e57-487c-bf4a-99c71ee38028">Forward Deployed Engineer, Generative AI, Google Cloud</a></td>
@@ -48,6 +55,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/68c4cd1e-cce6-4c12-bd90-0a1803c6aa3e">Software Developer, Observability &amp; AI</a></td>
+<td>Mexico City, Mexico</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466512959/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Stone</strong></td>
 <td><a href="https://trueinterview.io/jobs/7b6aae5b-458b-4c74-96be-ed3e4dc647b4">[Distribution/REX] Software Engineer Pleno</a></td>
 <td>Sao Paulo, Sao Paulo, Brasil, STONE - TECH</td>
@@ -74,6 +88,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São José dos Campos, São Paulo, Brazil</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4277921483/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>1global</strong></td>
+<td><a href="https://trueinterview.io/jobs/bee691ad-7fef-4fd9-ab14-d10142052c71">Fulfilment Specialist</a></td>
+<td>São Paulo, São Paulo, Brazil</td>
+<td align="center"><a href="https://jobs.workable.com/view/mkZjss1JQBbWC16oLidQ5c/hybrid-fulfilment-specialist-in-s%C3%A3o-paulo-at-1global">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dept</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d6bc51b-326b-4069-bd21-5672cb95efaf">Product Designer Freelance</a></td>
+<td>Mar del Plata, Buenos Aires, Argentina, DAR<br/>Capital Federal or Gran Buenos Aires, Argentina</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dept/jobs/8319405">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wildlife Studios</strong></td>
+<td><a href="https://trueinterview.io/jobs/85bd9f5e-8938-4d2b-8d4a-e976ccbc261a">Associate Data Engineer</a></td>
+<td>São Paulo, Brazil, Brazil</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/wildlifestudios/jobs/8912839002">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inter Carreiras</strong></td>
+<td><a href="https://trueinterview.io/jobs/0674982b-12b3-4321-8dde-ba698d0dd701">DATA ANALYST I | CREDIT STRATEGY &amp; POLICY SP</a></td>
+<td>São Paulo, SP<br/>BANCO INTER</td>
+<td align="center"><a href="https://boards.greenhouse.io/inter/jobs/4739789005?gh_jid=4739789005">Apply</a></td>
+<td align="center">7 Oct 2026</td>
 </tr>
 </tbody>
 </table>

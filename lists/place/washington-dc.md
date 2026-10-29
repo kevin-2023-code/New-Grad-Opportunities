@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**226 open roles.** 225 in the United States & Canada · 1 elsewhere in the world.
+**291 open roles.** 290 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,83 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>MORSE Corp</strong></td>
+<td><a href="https://trueinterview.io/jobs/6267635b-ed9f-40cd-b625-3aaae43f7053">Cloud Software Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4438092814/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tata Consultancy Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/05b022e3-3285-44e1-b0e4-7c65da3ffc06">GenAI Engineer / Developer</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457182688/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MANTECH</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9f56994-970d-4789-a8b5-c2724e271143">Data Analyst</a></td>
+<td>Springfield, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465927203/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BTI360</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c9ed94d-6069-4d34-8e1a-f7d83cca2f8f">NLP Engineer - Clearance Required</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4430485486/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MANTECH</strong></td>
+<td><a href="https://trueinterview.io/jobs/64362920-1471-448d-9a48-43f1d5951f1f">Data Scientist</a></td>
+<td>Springfield, VA<br/>Tampa, FL<br/>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4431213429/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tria Federal (Tria)</strong></td>
+<td><a href="https://trueinterview.io/jobs/083c4bb9-f802-4cce-be7b-27e61c16b883">VistA/VA Systems Integration Engineer</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4414685656/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DC Department of Human Resources</strong></td>
+<td><a href="https://trueinterview.io/jobs/886c5aa2-9a98-412d-931b-48eeb1ac3f36">Data Scientist</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484459736/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/303313d0-f50e-4705-9bb0-e586ce6ad285">Electrical Engineer, Power Resiliency</a></td>
+<td>Arlington, VA<br/>Austin, TX<br/>Nashville, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484946612/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jobot</strong></td>
+<td><a href="https://trueinterview.io/jobs/c336c9ea-d755-4d78-9450-f97cfcf9bdd9">System Security Test Engineer (FAA)</a></td>
+<td>Columbia, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475772827/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Modern Technology Solutions, Inc. (MTSI)</strong></td>
+<td><a href="https://trueinterview.io/jobs/b12534a7-5377-4aa6-a8a9-05edb8af6a7a">Anti-Tamper Systems Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4320645040/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Securiport</strong></td>
+<td><a href="https://trueinterview.io/jobs/a37fb440-e818-4ee9-a316-aeb0e055e45e">Quality Assurance Engineer</a></td>
+<td>Reston, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4410405342/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Guidehouse</strong></td>
 <td><a href="https://trueinterview.io/jobs/10a2f87e-5674-4781-ab0d-c497d039b474">Cybersecurity Risk - Managing Consultant</a></td>
@@ -71,6 +148,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/126d5c74-ceef-4bdd-a03c-dbf5e341815f">Engineer II, Integration (R6202) - New Grad</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476944780/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d0b3ac3-41dc-4cfb-91b8-a21660052af8">Reverse Engineer, Mandiant FLARE</a></td>
+<td>Reston, Virginia, United States<br/>New York, NY<br/>New York, New York, United States</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/129579034794173126">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1166,13 +1250,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>DC Department of Human Resources</strong></td>
-<td><a href="https://trueinterview.io/jobs/886c5aa2-9a98-412d-931b-48eeb1ac3f36">Data Scientist</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484459736/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/e69c0b89-2b0f-40d0-bdf9-800f2b244d9c">Forward Deployed Engineer, Department of War, Google Public Sector</a></td>
 <td>Reston, VA</td>
@@ -1591,6 +1668,384 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Herndon, VA, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98366">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/058dc0e6-6830-4477-8311-dd6409e7bb84">Mechanical Engineer, Data Centers - Remote (U.S.)</a> 🌐</td>
+<td>Remote — United States<br/>Arlington, VA</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000158160829-mechanical-engineer-data-centers-remote-u-s-">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Northramp</strong></td>
+<td><a href="https://trueinterview.io/jobs/93f5cee5-ee96-489e-ba97-89f1b4add3be">UNIX/Linux/Solaris Engineer, Hosting and Storage Services</a></td>
+<td>Reston, VA</td>
+<td align="center"><a href="https://apply.workable.com/j/9268240FB7">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Altus Consulting Corp</strong></td>
+<td><a href="https://trueinterview.io/jobs/9232fbcf-9979-4d8c-bd29-83fd4d8e78f0">Cyber Threat Intelligence Engineer</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://altuscc.isolvedhire.com/jobs/1892536-165349.html">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Computational Physics, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/b91ca4ee-bb88-4824-90bd-b513c97612b3">Robotics Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://cpi.isolvedhire.com/jobs/1892487-410227.html">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Unissant</strong></td>
+<td><a href="https://trueinterview.io/jobs/fac6d844-872e-46a2-b0f6-e119ec1d7477">Java Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.applicantpro.com/openings/unissant/jobs/4256944-221397">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ABC Legal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/db6ff465-8dd4-4c75-8760-78f45147cd3a">DevOps Engineer</a> 🌐</td>
+<td>Remote — United States<br/>Washington, DC</td>
+<td align="center"><a href="https://grnh.se/c133t2ql3us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e94c8528-6abf-483a-ac9a-0f39a93c672c">Mobile Engineer</a> 🌐</td>
+<td>Remote — United States<br/>Washington, DC</td>
+<td align="center"><a href="https://grnh.se/3xy4435i3us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Agile Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa4f7388-74e0-4925-9bf2-b5ba76086783">Full-Stack Software Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/f73d0824-7fa2-4408-84f3-29ba715261ee">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7211281d-3cae-4d3e-b4ec-b7afadf04d81">Software Engineer I</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/0d603eca-2337-4122-8e53-07b22a4077f8">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7b47c495-371c-42fd-83a7-81c042f55be6">Systems Integration Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/fc92d64a-1dd9-4693-8925-671578ace8ce">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Arcfield</strong></td>
+<td><a href="https://trueinterview.io/jobs/9286ef6a-030a-4d6a-9efb-93760687305c">Data Scientist Technical Specialist</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://careers.arcfield.com/jobs/8837/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Avison Young</strong></td>
+<td><a href="https://trueinterview.io/jobs/4592e918-8553-42e0-abc9-e73b212fbe6f">Global Analytics Data Science</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://us-avisonyoung.icims.com/jobs/5965/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BAE Systems USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/4533947e-0cae-42ad-b777-bb22a23a27aa">System Administrator (After Hours)</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://jobs.baesystems.com/global/en/job/129617BR">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/964a0908-247a-4bb2-a66b-98b63062b57c">Digital Signal Processing Software Engineer</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Digital-Signal-Processing-Software-Engineer_R0252372">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7c3fb3ef-c18f-47d0-b217-c57325ba4e12">Infrastructure Support Engineer</a></td>
+<td>Bethesda, MD</td>
+<td align="center"><a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Infrastructure-Support-Engineer_R0252387-1">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CACI Products Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ebdc069-c6fc-4798-b939-d091d1f83a0b">Software Engineer -Entry-Level (Network Focus)</a></td>
+<td>Reston, VA</td>
+<td align="center"><a href="https://careers-cpco-inc.icims.com/jobs/1713/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CrossCountry Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/075e3371-9bc3-4a50-9231-9df7ccd5189e">Forward Deployed Software Engineer (Recent Graduate) - DC Metro</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://jobs.lever.co/crosscountry-consulting/eb6ab6cf-6f93-486f-b4bf-6137bc67feb7">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Freddie Mac</strong></td>
+<td><a href="https://trueinterview.io/jobs/1789fcff-bc01-49a8-a50c-607b7969ec50">Quantitative Analytics Professional</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://careers.freddiemac.com/us/en/job/FRMAUSJR17753EXTERNAL/Quantitative-Analytics-Professional">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Guidehouse</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fa638ff-3eaa-4dba-9039-eff3989ad4ad">Salesforce Developer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Salesforce-Developer_45213">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e470945-8670-415c-8a81-7c33ef85cac2">Early Career Software Engineer</a></td>
+<td>Annapolis Junction, MD</td>
+<td align="center"><a href="https://jobs.hii-tsd.com/job/Annapolis-Junction%2C-MD-Early-Career-Software-Engineer-30877-Mary/1444226200/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fe17dfb7-4990-4c78-ab98-6dae74889bf2">Endpoint Systems Administrator</a></td>
+<td>Springfield, VA</td>
+<td align="center"><a href="https://jobs.hii-tsd.com/job/Springfield%2C-VA-Endpoint-Systems-Administrator-Virg/1444204000/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hitachi Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/eedc9be0-eb34-407a-aa25-0c77d4c0bdce">Technical Support Engineer, Federal</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Remote---District-Of-Columbia-United-States/Technical-Support-Engineer--Federal_R0149588">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Leidos</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1cd7970-aacf-4f7d-95f6-2a247d59d92f">Java Developer</a></td>
+<td>Bethesda, MD</td>
+<td align="center"><a href="https://careers.leidos.com/jobs/18409481-java-developer?tm_job=R-00195520&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2efc1c99-5b9f-47cb-b562-fe8a37ab1a95">Production Product Owner/Scrum Master</a></td>
+<td>Bethesda, MD</td>
+<td align="center"><a href="https://careers.leidos.com/jobs/18410288-production-product-owner-slash-scrum-master?tm_job=R-00194774&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Metrea</strong></td>
+<td><a href="https://trueinterview.io/jobs/e65a3f5e-5ccd-4f58-820a-dc3883072a08">Cyber Capability Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://grnh.se/uypna5hf9us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Metrea Management LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/467706f8-b354-4a77-a158-ba02701d7cc2">Cyber Capability Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.metrea.aero/careers/jobs/apply?gh_jid=4457812009">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NTT DATA</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f453c4c-654d-4e00-b7ec-d2530ab7a8f7">QA Tester - Hybrid</a></td>
+<td>Rockville, MD</td>
+<td align="center"><a href="https://careers.nttdata.com/global/en/job/396408">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Office of the Attorney General</strong></td>
+<td><a href="https://trueinterview.io/jobs/75a65b9a-e444-42ce-9101-bead12dc05cd">Data Scientist</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://careers.dc.gov/psp/erecruit/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=33836&amp;PostingSeq=1">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Peraton</strong></td>
+<td><a href="https://trueinterview.io/jobs/1857564c-c9ac-4c79-9006-f0924144a289">Enterprise Infrastructure Support Systems Administrator</a></td>
+<td>Laurel, MD</td>
+<td align="center"><a href="https://www.careers.peraton.com/jobs/enterprise-infrastructure-support-systems-administrator-laurel-maryland-172844-jobs--information-technology--">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3bd3c505-b789-4472-95f8-2949330685b6">Tier 1 Help Desk Technician</a> 🌐</td>
+<td>Remote — United States<br/>Reston, VA</td>
+<td align="center"><a href="https://www.careers.peraton.com/jobs/tier-1-help-desk-technician-undefined-undefined-172750-jobs--information-technology--">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RDR, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/1466d7d6-b774-4cda-a3e6-bd73b816a16b">Information Systems Security Engineer (ISSE)</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4618352/RDR-Inc/Information-Systems-Security-Engineer-ISSE">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sabree Software Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/41dd5e9c-1f15-44be-953e-9e360d5cf8ee">Data Scientist RVGRV004222</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://sabree.jobs.agile-ats.com/jobs/details/2873">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/455a6ac8-33d7-4beb-8003-b71b469b7edb">Machine Learning Engineer SSSGDV2219</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://sabree.jobs.agile-ats.com/jobs/details/2868">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/03f4a1a3-08eb-492f-b3a4-543ca57a1152">Systems Engineer RVGRV004257</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://sabree.jobs.agile-ats.com/jobs/details/2872">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Second Front Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5073eb1-c7b4-4239-9907-99c409e3ca1f">AI Software Engineer</a> 🌐</td>
+<td>Remote — United States<br/>Washington, DC</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Second-Front-Systems/e75017ca-8bfb-4c2f-bdce-b0f0cc8bf4ef">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Serco</strong></td>
+<td><a href="https://trueinterview.io/jobs/905317bd-8c88-4939-ac3c-f8a95d703950">Service Desk / Business Analyst - Arlington, VA</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://careers.serco-na.com/us/en/job/35593/Service-Desk-Business-Analyst-Arlington-VA">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceXSI</strong></td>
+<td><a href="https://trueinterview.io/jobs/d640f3ae-59b5-4e37-b512-82c2aea3f4e1">Network Security Engineer</a></td>
+<td>Washington, DC<br/>New York, NY<br/>Austin, TX</td>
+<td align="center"><a href="https://grnh.se/impd1k2i7us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Steely</strong></td>
+<td><a href="https://trueinterview.io/jobs/98976e4c-3107-40c7-b41c-0b5856a94f81">Software Engineer -Entry-Level (Network Focus)</a></td>
+<td>Reston, VA</td>
+<td align="center"><a href="https://careers-steely.icims.com/jobs/1713/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Unlimited Technology, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e76b2fc8-f977-40db-8c48-187b5e804b0c">Solutions Engineer</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://grnh.se/ralcbr8y8us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>US Bureau of the Fiscal Service</strong></td>
+<td><a href="https://trueinterview.io/jobs/67d50ba4-e592-4449-8ee8-f46832caf3e4">User Experience (UX) Strategist</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.usajobs.gov/job/890271600">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VTG Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/56692558-132d-4917-aa8b-e0bb322c1cc7">Machine Learning Engineer, SME</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://careers.vtgdefense.com/jobs/9695/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LinTech Global, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fa89845-9ac1-4453-b16d-b3ab21eceead">Developer-Intermediate – Java Application Modernization</a> 🌐</td>
+<td>Remote — United States<br/>Washington, DC</td>
+<td align="center"><a href="https://www.applicantpro.com/openings/dexiangovernmentsolutions/jobs/4257028-1003159">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a1968377-e775-4f9b-a387-a19966e2820a">Systems Engineer-Intermediate: Cloud &amp; Infrastructure Modernization</a> 🌐</td>
+<td>Remote — United States<br/>Washington, DC</td>
+<td align="center"><a href="https://www.applicantpro.com/openings/dexiangovernmentsolutions/jobs/4256972-1003159">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BAE Systems USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4329204-f927-4baf-9b50-dab8673b561b">Data Engineer</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://jobs.baesystems.com/global/en/job/132004BR">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/58daa510-fb20-4024-964d-f3d4502c2fed">AWS Security Operations/Incident Response Engineer, US Amazon Dedicated Cloud Security</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10589826/aws-security-operationsincident-response-engineer-us-amazon-dedicated-cloud-security?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Agile Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/0840d491-52bd-43c8-9bf8-8eab28e7c8ad">Data Engineer - Arlington (VA)</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/db2e6a66-cd2b-45a3-98eb-d49cfd3f720a/apply">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e7ecbd82-0e82-4357-9d82-1e17981a9f29">Data Engineer - DC</a></td>
+<td>Washington, DC<br/>Washington, D.C.</td>
+<td align="center"><a href="https://jobs.lever.co/agile-defense/006dcc67-cdc4-482f-bfa2-fd439638d530/apply">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ec91249-b467-490a-8271-539c92e46665">Software Development Engineer, AWS Security Communications</a></td>
+<td>Arlington, VA<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10589857/software-development-engineer-aws-security-communications?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Atlas Technologies, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/701b0810-b95c-4812-89ca-a141dcdd3573">Service Transition Engineer</a> 🌐</td>
+<td>Remote — United States<br/>Alexandria, VA</td>
+<td align="center"><a href="https://atlas-tech.hrmdirect.com/employment/view.php?req=3847281&amp;jbsrc=1014&amp;location=62d6df5c-299d-7a0e-f6a0-63d5c4cc36e7">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril</strong></td>
+<td><a href="https://trueinterview.io/jobs/6cb5b48b-3ce7-4459-bf34-f99fc4ca8767">2027 Early Career Business Operations Associate</a></td>
+<td>Washington, DC<br/>Washington, District of Columbia, United States, Costa Mesa, CA (OC-00), Seattle, WA (SEA-01), Washington, DC<br/>Seattle, Washington, United States<br/>+1 more</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5271811007?gh_jid=5271811007">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>C3.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d206df6-e53a-4a13-887c-15af6f6e5b5f">Forward Deployed Engineer - Federal, New Grad 2027</a></td>
+<td>Tysons, Virginia, United States, Tysons, Virginia</td>
+<td align="center"><a href="https://c3.ai/job-description/8900477002?gh_jid=8900477002">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/jobs/853820fe-3e5b-41a9-99cd-7c9874f226db">Database Engineering Associate</a></td>
+<td>Virginia - Herndon<br/>California - San Francisco, United States of America<br/>Washington - Bellevue</td>
+<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Database-Engineering-Associate_JR358838-2">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alarm.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ae0040f-a457-4708-af56-eeca1e4ba9ad">Quality Engineer I</a></td>
+<td>Tysons, Virginia, Tysons, VA</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjknbbqz56s7aras8xsm3r">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cape</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd63b4ed-5bec-4bf5-8cbe-1911a4f54c9f">GRC Engineer</a></td>
+<td>Hybrid, DC, Arlington, VA</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hhsqjb16y838wb7v0vrr3f">Apply</a></td>
+<td align="center">10 Oct 2026</td>
 </tr>
 </tbody>
 </table>

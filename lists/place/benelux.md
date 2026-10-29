@@ -2,7 +2,7 @@
 
 # 🇳🇱 Amsterdam & the Benelux
 
-**155 open roles.** 3 in the United States & Canada · 152 elsewhere in the world.
+**158 open roles.** 3 in the United States & Canada · 155 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -50,6 +50,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/dab24a7a-ad91-4da0-9ba3-9786c1437d22">Technical Support Specialist (German/Arabic Speaking) - (m/w/d) - Fixed Term Contract</a></td>
+<td>Amsterdam, North Holland, Netherlands<br/>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484722933/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Dash0</strong></td>
 <td><a href="https://trueinterview.io/jobs/06bcf672-b50e-4639-9e1b-0f2fe23d9fea">Enterprise Solutions Engineer - Benelux</a></td>
@@ -1087,6 +1094,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Bechtle Netherlands</strong></td>
+<td><a href="https://trueinterview.io/jobs/043eb9ee-a1c1-432f-87cf-63383e4bf124">Power Platform Engineer</a></td>
+<td>Eindhoven, North Brabant, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472942954/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Hanab Installation Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/9ac7af81-393f-409e-a89a-6a6797aed383">Cost Engineer W Amsterdam</a></td>
 <td>Amsterdam, North Holland, Netherlands</td>
@@ -1113,6 +1127,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476364052/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ABN AMRO</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f1e0023-e306-482f-98af-a76a9b776819">Business Developer - Credits Data Domain (Hay 11)</a></td>
+<td>Amsterdam, Netherlands</td>
+<td align="center"><a href="https://www.werkenbijabnamro.nl/vacature/9702/business-developer-credits-data-domain-hay-11">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 </tbody>
 </table>

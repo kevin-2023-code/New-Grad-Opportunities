@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**56 open roles.** 28 in the United States & Canada · 28 elsewhere in the world.
+**67 open roles.** 34 in the United States & Canada · 33 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Huntington National Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/73e2a964-688b-43e3-977a-7d8e0d31413c">The Digital Site Reliability Engineer (SRE) - GCP Cloud Adoption Engineer</a></td>
+<td>Columbus, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4378965713/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Verizon</strong></td>
 <td><a href="https://trueinterview.io/jobs/5170d1b7-c3e8-4b41-a802-051637a1f0bc">Cell Site Engineer</a></td>
@@ -213,6 +220,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Dell-OSE---Barstow-TX/On-Site-Service-Engineer---Data-Center---Server-Hardware_REQ576103">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>FIS</strong></td>
+<td><a href="https://trueinterview.io/jobs/e73f2462-b049-4d08-8c50-0903f1bee49a">Site Reliability Engineer Leads</a></td>
+<td>Jacksonville, FL</td>
+<td align="center"><a href="https://careers.fisglobal.com/us/en/job/FIGLUSJR0310763EXTERNAL/Site-Reliability-Engineer-Leads">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Leidos</strong></td>
+<td><a href="https://trueinterview.io/jobs/e793dce9-5267-4210-a0c9-722eff5df2eb">SRE Cyber Tools - Splunk Admin.</a></td>
+<td>Norfolk, VA</td>
+<td align="center"><a href="https://careers.leidos.com/jobs/18411053-sre-cyber-tools-splunk-admin?tm_job=R-00195256&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OPmobility</strong></td>
+<td><a href="https://trueinterview.io/jobs/f79497a0-754c-476c-b385-3953cb67ae95">SITE PAINT ENGINEER</a></td>
+<td>Greer, SC</td>
+<td align="center"><a href="https://careers.opmobility.com/job/Greer-South-Carolina-SITE-PAINT-ENGINEER-SC-29615/1451904033/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wipro</strong></td>
+<td><a href="https://trueinterview.io/jobs/f7356154-b462-46b4-b492-1d40875137a4">SITE RELIABILITY ENGINEER L3(CONTRACT)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://careers.wipro.com/job/SITE-RELIABILITY-ENGINEER-L3%28CONTRACT%29/213731-en_US">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril</strong></td>
+<td><a href="https://trueinterview.io/jobs/6cb767b9-e5c4-446d-b43b-bbfbd3da7392">Site Reliability Engineer, Edge Devices</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://grnh.se/7i0u3h7f7us">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -225,6 +267,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>HUB24 Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/2d3c17fa-4617-473c-ae1e-50f2f5226ff4">Site Reliability Engineer</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466256167/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aureos</strong></td>
+<td><a href="https://trueinterview.io/jobs/22f7d7ad-70ac-4bea-9e05-06f2d7d8b07b">Expression of Interest - Graduate Site Engineer</a></td>
+<td>Warrington, England, United Kingdom<br/>Norfolk, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481377680/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>SPERTON Norway - Where Great People Meet</strong></td>
 <td><a href="https://trueinterview.io/jobs/3a285e07-2b67-47d6-b7c0-dfdaa3de7b08">Site Reliability Engineer</a></td>
@@ -420,6 +476,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>India</td>
 <td align="center"><a href="https://ncr.wd1.myworkdayjobs.com/en-US/ext_apac/job/HYDERABAD-IND/Site-Reliability-Engineer-I_R0158946">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DocuSign</strong></td>
+<td><a href="https://trueinterview.io/jobs/deeae8be-c9c2-4777-a68d-0b1e3f9e7acd">Security Site Reliability Engineer</a></td>
+<td>Dublin, Ireland</td>
+<td align="center"><a href="https://careers.docusign.com/careers-home/jobs/30589?lang=en-us&amp;previousLocale=en-US">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NEP Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/342b5ca9-ff1d-4851-94a7-3c807a9b956b">Site Reliability Engineer</a></td>
+<td>Southbank, Australia</td>
+<td align="center"><a href="https://nepaustralia.hrmdirect.com/employment/view.php?req=3849854&amp;jbsrc=1014&amp;location=d65429d1-6992-0de4-cb16-77a6d927888c">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/8158e61e-382d-4f30-9683-841d10cccd7a">Site Reliability Engineer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200681759">Apply</a></td>
+<td align="center">21 Oct 2026</td>
 </tr>
 </tbody>
 </table>

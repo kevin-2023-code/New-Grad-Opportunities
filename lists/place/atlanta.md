@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**75 open roles.**
+**88 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea5125de-8d0d-4b12-9ac1-b12b0ed9381b">Customer Engineer I, AI Infrastructure, Google Cloud</a></td>
+<td>Atlanta, GA<br/>Sunnyvale, CA<br/>Chicago, IL<br/>+4 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475718626/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Carollo Engineers</strong></td>
+<td><a href="https://trueinterview.io/jobs/c501692a-69f0-4516-9da3-3d6f11870867">Entry Level Civil/Environmental Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474470411/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Falcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb908348-0430-42a2-9868-a1cad433e398">RF/mm-Wave GaN Power Amplifier Design Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4440587214/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tata Consultancy Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee69929e-1252-425f-b42e-265e034217bc">Unix System Programmer</a></td>
+<td>Alpharetta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448261079/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/ce162f3c-a5d4-43e2-aa65-7185f4f2f999">Software Engineer, Infrastructure, PhD, Early Career, 2027 Start</a></td>
@@ -481,13 +509,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Tata Consultancy Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/66b4ecf6-4825-4dd8-8f84-78bb808913d7">Data Engineer</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466803034/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e622ae11-7f4a-438b-8143-6fa3ff97e028">Security Engineering</a></td>
 <td>Alpharetta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4457188740/">Apply</a></td>
@@ -541,6 +562,76 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Alpharetta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481601017/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Acrisure LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/10984ed1-b800-4a8f-b8a7-0a3443894a8d">Network Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://careers.acrisure.com/us/en/job/AOAHVUSJR114666EXTERNALENUS/Network-Engineer">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AT&amp;T</strong></td>
+<td><a href="https://trueinterview.io/jobs/61957e46-6d2a-4cdc-9bb1-7df543323bab">AI-Native Software Engineer Analyst, Full-Stack Python</a></td>
+<td>Atlanta, GA<br/>Dallas, TX<br/>Bothell, WA</td>
+<td align="center"><a href="https://www.att.jobs/job/-/ai-native-software-engineer-analyst-full-stack-python/117/102512395136">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b5a7490-b343-4cc5-b1bb-77da54dd345c">Marketing Data Modeler/ Analyst</a></td>
+<td>Alpharetta, GA</td>
+<td align="center"><a href="https://capgemini.talentnet.community/jobs/c9928531-017e-41ed-bcc4-cabbd713262b">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cognizant</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec0ee9b3-fb3b-4991-aa77-a2ed069757af">Camunda BPM Developer - 71073071</a></td>
+<td>Alpharetta, GA</td>
+<td align="center"><a href="https://careers.cognizant.com/global-en/jobs/00071073071/camunda-bpm-developer-71073071/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Floor &amp; Decor</strong></td>
+<td><a href="https://trueinterview.io/jobs/0dadc066-ee4b-464b-9474-73e3147d7173">IT Database Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://flooranddecoroutlets.wd1.myworkdayjobs.com/FloorandDecorCareers/job/Atlanta-GA/IT-Database-Engineer_R051100">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intercontinental Exchange</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff1cc2d7-a4af-458e-b8e4-6d8ebee3c423">Quantitative Analyst, Quantitative Research</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://careers-ice.icims.com/jobs/14040/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SLS Consultants LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/11100e6d-b515-4046-a5a6-be20f6acf389">Controls Engineer - Data Center</a></td>
+<td>Atlanta, GA<br/>Chicago, IL</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sls-consultants/93adf3b2-4b5e-4a50-8a71-9a1ae20974ce">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trimble</strong></td>
+<td><a href="https://trueinterview.io/jobs/e37a261b-7214-453f-945f-d0a2ea0b15b6">Technical Support Representative</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---GA-Atlanta/Technical-Support-Representative_R57498">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/932c379a-4c54-4611-b69e-6d1826365e12">Software Engineer (Security) - New Grad</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pdi Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/55e67a88-d440-43d9-9fee-8491b2bb6749">Product Owner I (Entry-Level)</a> 🌐</td>
+<td>Remote — United States<br/>Alpharetta, GA, Remote US</td>
+<td align="center"><a href="https://jobs.lever.co/pditechnologies/ba03923d-fb60-4203-b85e-5e18bc046a04/apply">Apply</a></td>
+<td align="center">14 Oct 2026</td>
 </tr>
 </tbody>
 </table>

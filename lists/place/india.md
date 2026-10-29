@@ -2,7 +2,7 @@
 
 # 🇮🇳 Bengaluru & India
 
-**244 open roles.**
+**251 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/3de2495b-edb2-40c7-b2d3-f82037d4fce2">Silicon SoC Design Verification Engineer, HSIO</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477105892/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ddf32f2-1a61-44db-8c90-b1b66770bbeb">Data Center Engineering Operations Engineer, HYD-Infinity - DCEO</a></td>
+<td>Hyderabad, Telangana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484953360/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/93de16e5-00a8-4d34-a29d-1fe7f1dca121">Software Development Engineer, Alexa Connections</a></td>
+<td>Chennai, Tamil Nadu, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484946611/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/f7c674fe-4c04-4f8c-b1d3-9f1b0cdb9e2c">Memory CAD Software Engineer</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475443379/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cd2467e3-2db3-40a7-aded-27f7776a7732">Memory Circuit Designer</a></td>
+<td>Bengaluru, Karnataka, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475450100/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>CScale</strong></td>
 <td><a href="https://trueinterview.io/jobs/a22e2a78-4192-4561-9bea-7062dfed848a">MTS SoC Design Verification Engineer</a></td>
@@ -1726,6 +1761,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Chennai, Tamil Nadu, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4248972536/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>INFOLOB</strong></td>
+<td><a href="https://trueinterview.io/jobs/e46bca50-4387-44e8-a566-c1496ffb625c">Power Automate Developer , UIPath , CoPilot and AI</a></td>
+<td>Hyderabad, Telangana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483118033/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Opengov</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c1245be-9bca-40b5-a41e-501ef0b84230">Technical Support Specialist</a></td>
+<td>Pune<br/>India</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4p8yp4vfvfbr2ngkscmha82">Apply</a></td>
+<td align="center">12 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**15 open roles.** 6 in the United States & Canada · 9 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**25 open roles.** 12 in the United States & Canada · 13 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cfc9f08d-3afd-495f-9c7c-b998dcdddb57">Android Developer</a></td>
 <td>London Area, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484780734/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Airwallex</strong></td>
+<td><a href="https://trueinterview.io/jobs/fb0b8abe-f1d8-431a-bc61-45f89b60375b">Software Engineer, Agentic AI</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4380883663/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -59,6 +66,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4437617406/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>LendingTree</strong></td>
+<td><a href="https://trueinterview.io/jobs/59082089-0401-4810-b078-12067a660e54">Data Product Analyst</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://grnh.se/ibq093gf1us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Next Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e92033d-1dc6-4187-8d42-5b82fe4a2c75">Data Scientist, Growth – Partnerships &amp; Customer Experience</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://grnh.se/28bzdj2n3us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Affirm</strong></td>
+<td><a href="https://trueinterview.io/jobs/37e6d0ab-d270-407e-afe5-214c2351ca50">Analyst, Early Career (Full Stack)</a></td>
+<td>New York, NY<br/>San Francisco, California, United States, San Francisco<br/>New York, New York, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/8039471003">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meridianlink</strong></td>
+<td><a href="https://trueinterview.io/jobs/c19457f0-3080-4cd5-9dc2-8e33c502b717">Associate Implementation Analyst</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/meridianlink/2e5f59c7-7e34-4392-8ced-1964c68bc78a/application">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Affirm</strong></td>
+<td><a href="https://trueinterview.io/jobs/74c8f638-b82a-4500-9658-c8641ba85367">Software Engineer I (New Grad 2027) (SF)</a></td>
+<td>San Francisco, California, United States<br/>New York, NY<br/>New York, New York, United States<br/>+1 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/8010617003">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -83,6 +125,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/57ea0a6d-6ff7-4f60-ac89-2690207f8a1b">Data Scientist</a></td>
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4437289576/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1dbbd7a-b097-4969-97c1-cf517ab82973">Software Engineer, Core Infrastructure</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471414957/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -133,6 +182,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Charenton-le-Pont, France</td>
 <td align="center"><a href="https://nickel-jobs.my.salesforce-sites.com/postulateFr?id=a10Sm00000HmoryIAB">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FIS Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e388dcd-f8bc-4f0a-81c5-79131095a755">Python Developer</a></td>
+<td>IND NOID C-25 SEC-62 TWR 1</td>
+<td align="center"><a href="https://fis.wd5.myworkdayjobs.com/SearchJobs/job/IND-NOID-C-25-SEC-62-TWR-1/Python-Developer_JR0308903">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Teya</strong></td>
+<td><a href="https://trueinterview.io/jobs/48415e7a-154f-4ce3-9a68-ff1260a5e467">Data Scientist</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/teya/ee402538-d23e-47b8-8da8-69e6b1d35e1a/application">Apply</a></td>
+<td align="center">17 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kin Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c6a1a06-9592-41b7-b55d-d127aca8dc4e">Pricing &amp; Risk Analyst</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/kin/99967c4f-e3cc-42b3-90d0-0f4499140c22/application">Apply</a></td>
+<td align="center">13 Oct 2026</td>
 </tr>
 </tbody>
 </table>

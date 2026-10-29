@@ -2,7 +2,7 @@
 
 # 🇨🇭 Zürich & Switzerland
 
-**85 open roles.**
+**97 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,7 +20,77 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>AXA</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5f7061c-782a-4ab5-b5a8-67a1edc6014a">Analytical Cloud Software Engineer (all genders)</a></td>
+<td>Winterthur, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484955202/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Grape</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a4fa826-8e85-49a6-be9f-ceb8ec847a72">Applied ML Engineer/Data Scientist</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484957261/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Julius Baer</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f657adf-3e61-4547-8673-3399f347e8cd">Front Arena Developer &amp; Platform Specialist 100% (f/m/d) (Contract through our external payroll partner with immediate start for 12 months, possible extension)</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467989210/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sensirion</strong></td>
+<td><a href="https://trueinterview.io/jobs/70bd37e0-cbfb-4fee-9e46-f511ee6080d7">Data Systems Engineer • 80-100%</a></td>
+<td>Stäfa, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484942650/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TotalEnergies</strong></td>
+<td><a href="https://trueinterview.io/jobs/94057f67-07ad-4a1c-93f2-9cf6f2c782aa">Assets Trader – Power &amp; Gas (Europe)</a></td>
+<td>Geneva, Geneva, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484957040/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>gateB</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6eb7ea2-7d35-4059-9af1-2713fa905905">Solution Engineer 100% (a)</a></td>
+<td>Steinhausen, Zug, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465577697/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Abraxas Informatik AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d93a2ef-14ca-437f-8bf7-f21af754c52f">Software Engineer – Data Migration 80 - 100%</a></td>
+<td>Zürich-Flughafen, Zurich, Switzerland<br/>Flughafen Zürich, Switzerland</td>
+<td align="center"><a href="https://www.abraxas.ch/de/karriere/offene-stellen/software-engineer-data-migration-80-100-8623">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/364b8087-d975-4a66-8c88-791257f1b924">IT Support Engineer</a></td>
+<td>Lausanne, Vaud, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484925854/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ITech Consult AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcac68ba-a8d4-4d52-8338-43c92dc08a1c">System Support Engineer</a></td>
+<td>Zug, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484943436/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Mercury</strong></td>
+<td><a href="https://trueinterview.io/jobs/56dc3574-64de-4e0f-9e1e-d589699d8a5d">Quality Engineer</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4430560919/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f3e6f472-9351-4c65-825e-35fec3252160">Electrical Engineer</a></td>
 <td>Zurich, Zurich, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4430365111/">Apply</a></td>
@@ -613,6 +683,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Zurich, Zurich, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476397874/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Roche</strong></td>
+<td><a href="https://trueinterview.io/jobs/2bd92def-d927-4649-9c9c-71f45e47ccd3">Scientist – Assay Data, AI &amp; Workflows</a></td>
+<td>Basel, Switzerland</td>
+<td align="center"><a href="https://careers.roche.com/de/de/job/202610-126479">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zurich Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/eab1db56-916b-46e2-ae48-2afa35ac3b65">Data Scientist-Actuarial AI Solutions (80-100%)</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://www.careers.zurich.com/job/Z%C3%BCrich-Data-Scientist-Actuarial-AI-Solutions-%2880-100%29/1375736257/">Apply</a></td>
+<td align="center">23 Oct 2026</td>
 </tr>
 </tbody>
 </table>

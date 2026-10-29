@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**47 open roles.** 33 in the United States & Canada · 14 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**55 open roles.** 40 in the United States & Canada · 15 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/97330c08-152a-4c49-9880-06a68a086e4c">Research Scientist, Pricing Science</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484963044/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4fb761a0-5928-4295-95b4-98aed90711db">Hardware Development Engineer I, Relay Fleet &amp; Yard Devices</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484951573/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/eb6058d5-4960-41fa-abd6-1a3a6faa4dab">Software Development Engineer, Devices Software &amp; Services</a></td>
+<td>Sunnyvale, CA<br/>Irvine, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484481376/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c1fb7e64-b02c-4e87-8a14-722e156d3300">System Development Engineer, Customer Logistics Security (CLS) Detection Engineering</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484950457/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/92a142e8-4e46-4996-b35c-8aca9f35c680">Lab Test Engineer, Environmental Test, Amazon Leo</a></td>
+<td>Kirkland, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484948541/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b801fd53-4fe1-4f4b-b94d-96e66929583e">Software Development Engineer, Amazon Cloud Management Foundations</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484942828/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5cd062b6-7759-4a1b-a311-94b1361c9b27">Software Engineer, Worldwide Amazon Stores Finance Technology, Controllership Engineering</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484954396/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/303313d0-f50e-4705-9bb0-e586ce6ad285">Electrical Engineer, Power Resiliency</a></td>
+<td>Austin, TX<br/>Arlington, VA<br/>Nashville, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484946612/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Booking.com</strong></td>
 <td><a href="https://trueinterview.io/jobs/d9950ed0-7135-44f3-b00b-126de36b6027">Data Analyst I - Grand Rapids, MI</a></td>
@@ -173,13 +229,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/eb6058d5-4960-41fa-abd6-1a3a6faa4dab">Software Development Engineer, Devices Software &amp; Services</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484481376/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a64bb572-8673-4036-89a3-fe986a73d85e">System Dev Engineer - Power , Amazon Leo</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476501884/">Apply</a></td>
@@ -260,6 +309,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/93de16e5-00a8-4d34-a29d-1fe7f1dca121">Software Development Engineer, Alexa Connections</a></td>
+<td>Chennai, Tamil Nadu, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484946611/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>eBay</strong></td>
 <td><a href="https://trueinterview.io/jobs/23e0f8de-d16d-472f-b680-5fd520210b9c">Engineer - Traffic</a></td>

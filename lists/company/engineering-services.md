@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**10 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**21 open roles.** 19 in the United States & Canada · 2 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,6 +86,95 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Herndon, VA, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98366">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/01c98358-df86-49da-8ec3-613373013319">Junior Process Engineer</a></td>
+<td>Vancouver, BC, Canada</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92316">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/376e3c4e-1f8f-48cb-9a21-b596baa18b26">Entry Roadway Engineer</a></td>
+<td>Harrisburg, PA, United States<br/>Pittsburgh, PA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000156074949-entry-roadway-engineer?oga=true">Apply</a></td>
+<td align="center">17 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/261c322b-9fa2-493e-8546-4139b0d778cf">Entry Structural Engineer</a></td>
+<td>Tewksbury, MA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000155615291-entry-structural-engineer?oga=true">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wade Trim</strong></td>
+<td><a href="https://trueinterview.io/jobs/826a837c-8abd-48cf-ba63-51b816333d15">Entry Level Civil/Environmental Engineer - #3071</a></td>
+<td>Asheville, NC</td>
+<td align="center"><a href="https://jobs.lever.co/wadetrim/cffa7a9e-9d19-49b9-8835-7a7fcea54023/apply">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2fd718b-51b0-41e0-bafc-cc165a0f3fcf">Early Career Civil Roadway Engineer</a></td>
+<td>Virginia Beach, VA, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97430">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/d76e6113-52ce-454d-9c31-601a6d8def34">Electrical Designer – Roadway Lighting Design</a></td>
+<td>Toronto, ON, Canada</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hkansts223vs3e9ccp1yvp">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f74f5f23-83f6-491c-9829-614c5d7f2e47">Electrical Engineer – Roadway Lighting Design</a></td>
+<td>Toronto, ON, Canada</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hkanst98md6evahmkmjf9h">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/b73c7af9-526f-4428-ad01-4f2d68c52657">Entry-Level Power Systems Studies Engineer - Data Centers</a></td>
+<td>Overland Park, KS</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5446995008">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a41c533-389c-497f-ada4-06c4f31bf10f">Early Career Civil Engineering (Overhead Transmission Lines)</a></td>
+<td>Birmingham, AL, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97100">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+</tbody>
+</table>
+
+## Elsewhere in the world
+
+_Roles outside the United States & Canada, and roles whose country the catalog could not read._
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Jensen Hughes</strong></td>
+<td><a href="https://trueinterview.io/jobs/70d960bf-1235-4d52-b7cd-ed57a88ccf33">Fire Engineer Graduate</a></td>
+<td>Perth, Western Australia, Australia, Perth<br/>Brisbane, Queensland, Australia, Warrington Fire - Brisbane</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5454802008">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/132c1445-7fc6-4baf-bd9e-c29718e241d3">Fire Protection Graduate</a></td>
+<td>Brisbane, Queensland, Australia, Warrington Fire - Brisbane</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5454783008">Apply</a></td>
+<td align="center">16 Oct 2026</td>
 </tr>
 </tbody>
 </table>

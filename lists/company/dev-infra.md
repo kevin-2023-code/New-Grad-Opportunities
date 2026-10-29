@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**18 open roles.** 2 in the United States & Canada · 16 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**25 open roles.** 5 in the United States & Canada · 20 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>LangChain</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a115663-fc61-4545-ba25-245936f0374d">IT Systems Administrator</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476786678/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Vercel</strong></td>
 <td><a href="https://trueinterview.io/jobs/53401637-a14b-4845-94fa-57eb625fd040">Security Software Engineer, IAM</a></td>
 <td>New York, NY<br/>San Francisco, CA</td>
@@ -31,6 +38,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467935899/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Databricks</strong></td>
+<td><a href="https://trueinterview.io/jobs/26a94369-c783-4fb5-9b31-b31dc301e2e4">Software Engineer - New Grad (2027 Start)</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.databricks.com/company/careers/university-recruiting---engineering/software-engineer---new-grad-2027-start-6865698002">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/748769ae-0985-478e-9beb-27b69897e96a">Software Engineer - New Grad, Distributed Data Systems (2027 Start)</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.databricks.com/company/careers/university-recruiting---engineering/software-engineer---new-grad-distributed-data-systems-2027-start-6865704002">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -43,6 +64,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Databricks</strong></td>
+<td><a href="https://trueinterview.io/jobs/42a765d1-a8da-408a-8881-0b9f9fed3e12">Software Engineer - Distributed Data Systems</a></td>
+<td>Belgrade, Serbia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4297742127/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Dash0</strong></td>
 <td><a href="https://trueinterview.io/jobs/06bcf672-b50e-4639-9e1b-0f2fe23d9fea">Enterprise Solutions Engineer - Benelux</a></td>
@@ -154,6 +182,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Melbourne, Australia</td>
 <td align="center"><a href="https://careers.snowflake.com/us/en/job/SNCOUS8169285BBE164A2199A85F385C7681ADEXTERNALENUS14B031CAFBD341C48C3762E2C72FFD76">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SingleStore</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1fca058-dd22-41a5-b94a-db2a4bcdd410">Forward Deployment Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://grnh.se/nts6azs81us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Canonical</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b850b13-be84-4f11-92d0-9610f9803777">Ubuntu Security Engineer</a></td>
+<td>Worldwide</td>
+<td align="center"><a href="https://jobspresso.co/job/ubuntu-security-engineer/">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Megaport</strong></td>
+<td><a href="https://trueinterview.io/jobs/f276d9dc-c625-4c04-89dd-e73f73f58624">Network Procurement Officer</a></td>
+<td>Sofia</td>
+<td align="center"><a href="https://jobs.lever.co/megaport/3ba89584-e74d-4d06-8f51-b39e33b37e8f/apply">Apply</a></td>
+<td align="center">6 Oct 2026</td>
 </tr>
 </tbody>
 </table>

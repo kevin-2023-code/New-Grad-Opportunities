@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**43 open roles.** 23 in the United States & Canada · 20 elsewhere in the world.
+**54 open roles.** 30 in the United States & Canada · 24 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Wealthfront</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ab0f2aa-21eb-4671-9797-fc6bc5a2c47f">iOS Engineer</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475457672/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Specialist Staffing Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b027bd1-8427-4343-8f81-0e298a218bf8">Android Developer</a></td>
+<td>New York, NY<br/>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459817289/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7b345589-3f5a-4996-979c-0190f57068c4">iOS Developer</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459827221/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Haventree Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc769645-e3b7-4934-8b84-c3bff2fa06e5">Software Engineer – Mobile (React Native)</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458272375/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Venmo</strong></td>
 <td><a href="https://trueinterview.io/jobs/55f3fc2c-315f-4c46-9aa9-0f69d02a99f7">Software Engineer - Android</a></td>
@@ -178,6 +206,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481601017/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>ABC Legal Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/e94c8528-6abf-483a-ac9a-0f39a93c672c">Mobile Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://grnh.se/3xy4435i3us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Webcreek</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ae20387-588b-4625-aa4d-2e3e758247e9">Mobile Developer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.careers-page.com/webcreek/job/W3966V79">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/598e6f18-7a83-4185-89ce-9e3f495e34e9">Android Applications Developer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer_R68135">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -190,6 +239,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>JLL</strong></td>
+<td><a href="https://trueinterview.io/jobs/002205a0-8d76-428c-9dad-13f95d4f3272">Mobile Electrical Engineer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484944871/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pareto Facilities Management Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/d13d47a4-4f21-46ff-8dac-eeeeb19b2596">Foot Mobile Electrical Engineer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484950375/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/14fcea88-50eb-49fb-a71f-bfc5a96264b9">Engineer- Android</a></td>
+<td>Greater Hyderabad Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466519288/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>MPower Plus</strong></td>
 <td><a href="https://trueinterview.io/jobs/3e636a7f-068f-4c3e-a358-81677d2ac9de">iOS Developer</a></td>
@@ -329,6 +399,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>India</td>
 <td align="center"><a href="https://matchlabtalent.hiresome.ai/apply_form/mobile-application-developer-flutter--6ae1a6f54082f90e502d89cd">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Netgear</strong></td>
+<td><a href="https://trueinterview.io/jobs/e97be6ec-1356-40f4-9525-2d4e1bf7e55a">Graduate Mobile Software Engineer (Android/iOS)</a></td>
+<td>Cork, Ireland</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/netgear/415ee500-8f36-4766-a9e9-a565827e52c2/application">Apply</a></td>
+<td align="center">14 Oct 2026</td>
 </tr>
 </tbody>
 </table>

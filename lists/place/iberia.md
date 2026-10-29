@@ -2,7 +2,7 @@
 
 # 🇪🇸 Madrid, Barcelona & Iberia
 
-**10 open roles.**
+**27 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,6 +20,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Capgemini Engineering</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ed65032-3ad6-4106-8df9-e35695e6544a">STRESS ENGINEER</a></td>
+<td>Madrid, Spain<br/>Bristol, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484469031/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cd386e6-9b65-466e-8d1f-5d4b4a878d3e">Cloud Platform Engineer</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000158463499-cloud-platform-engineer">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Caterpillar Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/f4ab7224-2ba5-4e85-bf3f-25fe098a9aca">IT Analyst Applications (Snowflake Developer)</a></td>
 <td>Málaga, Spain<br/>Bengaluru East, Karnataka, India</td>
@@ -31,6 +45,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/141f2df9-f749-460e-aaab-fa0f88414f67">Associate Deployment Engineer - Galaxy Graduate Program</a></td>
 <td>Madrid, Community of Madrid, Spain<br/>Munich, Bavaria, Germany<br/>Greater Bengaluru Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482550070/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>011h</strong></td>
+<td><a href="https://trueinterview.io/jobs/17d8401e-39d4-465c-8b0a-f7a9485c3329">Ingeniero de instalaciones (MEP)</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://apply.workable.com/j/4388480F43">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -76,10 +97,31 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Capgemini Engineering</strong></td>
+<td><a href="https://trueinterview.io/jobs/333bf678-0403-4fba-ac3a-42e73a1c7428">Quality Assurance Engineer</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://www.capgemini.com/jobs/586583-es_ES_SAPBTP/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Hitachi Energy</strong></td>
 <td><a href="https://trueinterview.io/jobs/1056c7e5-2db2-4fb6-8587-8f887dd728a2">MEP Engineer</a></td>
 <td>Madrid, Spain</td>
 <td align="center"><a href="https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Madrid-Spain/MEP-Engineer_R0137929">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>INNOIT</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae820ff6-6290-4308-9086-871e6c71a70b">AI Engineer — Python &amp; Agentic AI</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://vacantes.inno-it.es/jobs/8629630-ai-engineer-python-agentic-ai">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Open Cosmos</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf22cf05-a989-406f-99c7-97368735edf6">1st Line IT Support Engineer</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://careers.open-cosmos.com/jobs/8632549-1st-line-it-support-engineer">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -88,6 +130,83 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Madrid, Spain</td>
 <td align="center"><a href="https://careers.roche.com/de/de/job/202610-125861">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Accenture</strong></td>
+<td><a href="https://trueinterview.io/jobs/c20e57e9-b191-4681-8f42-caf1104a50de">Adobe Experience Platform &amp; Customer Journey Analytics Engineer</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://accenture.com/es-es/careers/jobdetails?id=14811012_es">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BASF</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba65cbf1-5541-45ee-8169-efa354b3cfba">OMP OPR DevOps Engineer (m/f/d)</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://basf.jobs/dark_blue_EMEA/job/OMP-OPR-DevOps-Engineer-%28mfd%29/145632-en_US">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>knowmad mood</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb209405-5af5-4c75-a812-59bf4a872f83">Java Software Engineer (Híbrido 1 día San Cugat, Barcelona)</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://knowmadmood.teamtailor.com/jobs/8626522-java-software-engineer-hibrido-1-dia-san-cugat-barcelona">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PILLAR</strong></td>
+<td><a href="https://trueinterview.io/jobs/b431304c-58e1-4830-9672-60bead24fed7">AI Engineer</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/pillar-srl/9705f7b3-5532-4b63-b095-2786e41deabf">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d625ce9b-dc66-4e4d-91e6-2eb031357a7d">Full Stack Engineer</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/pillar-srl/f8d7877f-6741-454e-9118-35fb79b85bf3">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PrimeIT Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/e606a064-76c3-45df-be30-02927ebf3ac1">Product Owner | Transporte</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://www.primeit.es/es/careers/jobs/product-owner-transporte">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Quest Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/2848909c-85c4-4939-9324-a7e4458e30b3">Structural calculation engineer for wind sector</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://careers.quest-global.com/global/en/job/QGRQGAGLOBALP124095EXTERNALENGLOBAL/Structural-calculation-engineer-for-wind-sector">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tecdata Engineering</strong></td>
+<td><a href="https://trueinterview.io/jobs/8269863a-76c3-4ae4-aa64-cf1b95253579">Data Engineer – Big Data &amp; Cloud</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://job.tecdata.es/jobs/8627070-data-engineer-big-data-cloud">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5b15d7da-f034-4cf2-a5f9-ea4ec65362c5">Data Scientist | Machine Learning &amp; Google Cloud Platform (GCP)</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://job.tecdata.es/jobs/8626620-data-scientist-machine-learning-google-cloud-platform-gcp">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Logicalis</strong></td>
+<td><a href="https://trueinterview.io/jobs/017317b4-0a9a-4391-ae16-1235f941305c">Data Engineer DataStage / Cloud</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://careers.es.logicalis.com/jobs/8620213-data-engineer-datastage-cloud">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ALTEN</strong></td>
+<td><a href="https://trueinterview.io/jobs/f10a8b03-ade5-4e44-ac62-c0bdc1199075">Ingeniero/a de producto automoción (pieza metálica o exteriores)</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://www.alten.es/jobs/6114-ingeniero-a-de-producto-automocion-pieza-metalica-o-exteriores/">Apply</a></td>
+<td align="center">15 Oct 2026</td>
 </tr>
 </tbody>
 </table>

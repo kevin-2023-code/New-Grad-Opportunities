@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**21 open roles.**
+**25 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Wood</strong></td>
+<td><a href="https://trueinterview.io/jobs/91534816-07e0-469e-8cf2-75e984f359f5">Intermediate Instrumentation &amp; Controls Engineer</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468302524/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ISL</strong></td>
+<td><a href="https://trueinterview.io/jobs/307130f6-c5fc-4b19-a3c5-0b93af11d295">Civil Engineer-in-Training, Structural</a></td>
+<td>Saskatoon, Saskatchewan, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476959439/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Dillon Consulting Limited</strong></td>
 <td><a href="https://trueinterview.io/jobs/bc4174a8-4927-4b61-b79e-6c6e6627d79d">Electrical Engineer</a></td>
@@ -163,6 +177,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Edmonton, Canada</td>
 <td align="center"><a href="https://jobpostings.alberta.ca/job/Edmonton-Full-Stack-Developer/607441817/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hubbell</strong></td>
+<td><a href="https://trueinterview.io/jobs/5899e9e7-ea0e-463a-b52b-af0a4fa71432">P&amp;C Engineer</a></td>
+<td>Edmonton, Canada</td>
+<td align="center"><a href="https://careers.hubbell.com/job-invite/106666/?locale=en_US">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/76896a4a-0e92-4417-8707-ad8269ef2c67">Data Engineer, RBC Amplify 2027, Calgary</a></td>
+<td>Calgary, AB<br/>CALGARY, Alberta, Canada</td>
+<td align="center"><a href="https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201-2">Apply</a></td>
+<td align="center">26 Oct 2026</td>
 </tr>
 </tbody>
 </table>

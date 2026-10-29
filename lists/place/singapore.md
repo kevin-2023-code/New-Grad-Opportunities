@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**175 open roles.** 2 in the United States & Canada · 173 elsewhere in the world.
+**182 open roles.** 2 in the United States & Canada · 180 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,6 +43,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/21a09fc2-ac1b-42ce-ba66-86f9c53c9c3f">Data Science and Analytics Specialist</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475465130/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OpenAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/735ae8ac-a3ce-4bf3-a71a-0682cd2e982c">Applied AI Engineer, Codex</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477141958/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Capco</strong></td>
 <td><a href="https://trueinterview.io/jobs/8fd26cd1-0c9d-4f50-956a-fa5d14923ea2">Data Governance Analyst | Banking</a></td>
@@ -1253,6 +1267,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474187232/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DataSpark Pte Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/01796eb4-1e75-47d1-9b4f-7108c53cf2a0">Software Engineer (Java)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.ncs.co/careers/job-details/?jobSource=sm&amp;jobId=6000000001526209">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DBS Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/5c561fc8-5566-406f-815d-bb7a44148b95">Assoc, Application Developer, Middle Office Technology - Risk Platform, Group Technology</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers/job/Singapore---East/Assoc--Application-Developer--Middle-Office-Technology---Risk-Platform--Group-Technology_WD89894">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f21f63bb-fdac-440d-9b31-713a0ab297ac">AVP, Platform &amp; AI Infrastructure Engineer, Group Infrastructure &amp; Cloud, Group Technology</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers/job/Singapore---East/AVP--Platform---AI-Infrastructure-Engineer--Group-Infrastructure---Cloud--Group-Technology_WD90104">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nanyang Technological University</strong></td>
+<td><a href="https://trueinterview.io/jobs/bba05a42-4820-4c3c-82f2-34fc438c7c9c">AI Engineer (AIAP)</a></td>
+<td>Nanyang Avenue, Singapore</td>
+<td align="center"><a href="https://ntu.wd3.myworkdayjobs.com/en-US/Careers/job/NTU-Main-Campus-Singapore/AI-Engineer--AIAP-_R00026131">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RWE</strong></td>
+<td><a href="https://trueinterview.io/jobs/762494ba-c892-4e1b-8302-7928fd6d49bf">Software Engineer - Back Office &amp; Support Functions IT</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.rwe.com/karriere-bei-rwe/job-angebote-finden/details/?id=93906-en_GB&amp;jobPipeline=CMS_Jobsearch">Apply</a></td>
+<td align="center">26 Oct 2026</td>
 </tr>
 </tbody>
 </table>

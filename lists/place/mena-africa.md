@@ -2,7 +2,7 @@
 
 # 🌍 Dubai, Cairo, Lagos & Africa
 
-**10 open roles.** 1 in the United States & Canada · 9 elsewhere in the world.
+**14 open roles.** 1 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -98,6 +98,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Dubai, UAE</td>
 <td align="center"><a href="https://careers-prginternational.icims.com/jobs/6058/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AtkinsRéalis</strong></td>
+<td><a href="https://trueinterview.io/jobs/e72b8b73-383b-4806-aa6f-aa7bd54fa939">Assistant Resident Engineer – Electrical</a></td>
+<td>Abu Dhabi, UAE</td>
+<td align="center"><a href="https://careers.atkinsrealis.com/en/jobs/assistant-resident-engineer-electrical-r-163157">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bureau Veritas</strong></td>
+<td><a href="https://trueinterview.io/jobs/75c69c84-a066-4d3a-9927-e4a7b557af02">Bridge Structural Engineer</a></td>
+<td>Abu Dhabi, UAE</td>
+<td align="center"><a href="https://jobs.bureauveritas.com/gb/en/job/218014">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DICETEK LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/739292dc-5e9e-45da-9de5-0edc12f377a5">Helpdesk Engineer</a></td>
+<td>Abu Dhabi, UAE</td>
+<td align="center"><a href="https://dicetek.talentrecruit.com/career-page/apply/U2FsdGVkX18zhIuQctP97glBS2AeQn2le%252FmnbviYi3Y%253D?viewJD=true">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SLB</strong></td>
+<td><a href="https://trueinterview.io/jobs/dde1bf5e-a2b1-4d5b-901e-8f7c15fe97c5">WS Field Engineer - WIS</a></td>
+<td>Abu Dhabi, UAE</td>
+<td align="center"><a href="https://careers.slb.com/jobdescription.aspx?id=EF20878-en_US%201">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 </tbody>
 </table>

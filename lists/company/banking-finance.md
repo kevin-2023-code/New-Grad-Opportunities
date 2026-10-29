@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**9 open roles.** 6 in the United States & Canada · 3 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**18 open roles.** 9 in the United States & Canada · 9 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -59,6 +59,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://higher.gs.com/roles/186424">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Visa</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdb4c84d-c16d-40ef-9066-91da21f4b3b7">Cybersecurity Engineer - AI Agent - Local Candidate</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Cybersecurity-Engineer---Product-Development_REF088499W">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Goldman Sachs</strong></td>
+<td><a href="https://trueinterview.io/jobs/7baf5724-b3eb-4ef5-b2c8-aadf0aeef0d3">The Core Engineering-Associate, Quantitative Strategist, Core Planning and Analysis Strats</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3002/job/176151">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BMO</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1b2ea51-e681-4d20-b69c-cc0b405471f2">Specialist II-IC Infrastructure Engineering (New or Recent Graduate)</a></td>
+<td>Barrie, ON, CAN</td>
+<td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/External/job/Barrie-ON-CAN/Specialist-II-IC-Infrastructure-Engineering--New-or-Recent-Graduate-_R260028509-1">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -71,6 +92,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AXA</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5f7061c-782a-4ab5-b5a8-67a1edc6014a">Analytical Cloud Software Engineer (all genders)</a></td>
+<td>Winterthur, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484955202/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Bloomberg</strong></td>
 <td><a href="https://trueinterview.io/jobs/36564488-8721-4457-83b0-f89e76fd901b">User Support - Bloomberg Technical Support (Bahasa Indonesia Speaker) - Singapore</a></td>
@@ -91,6 +119,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4441086611/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AXA</strong></td>
+<td><a href="https://trueinterview.io/jobs/59115408-37ac-4db4-b0f9-db9fefa65cba">Data Analyst Omnichannel Kampagnenmanagement (all genders)</a></td>
+<td>Winterthur, Switzerland</td>
+<td align="center"><a href="https://careers.axa.com/jobs/28586/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Société Générale</strong></td>
+<td><a href="https://trueinterview.io/jobs/895b0252-bca2-49f0-b6d4-57660c5f2ba8">Software Engineer - Python Developer</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.societegenerale.com/en/job-offers/software-engineer-python-developer-26000G16-en">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ac5c7a51-4a82-4fcc-955d-ceacc54824bf">Specialist Software Engineer - Test Automation</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.societegenerale.com/en/job-offers/specialist-software-engineer-test-automation-26000EVJ-en">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Manulife</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2538df3-4c64-4479-acbf-ad01e0f6872f">Associate Backend Software Engineer - HIREFITRO3405</a></td>
+<td>Makati City, Philippines Branch Office</td>
+<td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Makati-City-Philippines-Branch-Office/Associate-Backend-Software-Engineer---HIREFITRO3405_JR26091278">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/20400afa-9631-4282-9767-b00dbfa81279">Associate Backend Software Engineer - HIREFITRO3433</a></td>
+<td>Makati City</td>
+<td align="center"><a href="https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Makati-City/Associate-Backend-Software-Engineer----HIREFITRO3433_JR26091280">Apply</a></td>
+<td align="center">9 Oct 2026</td>
 </tr>
 </tbody>
 </table>

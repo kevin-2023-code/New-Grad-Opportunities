@@ -2,7 +2,7 @@
 
 # 🏮 Beijing, Shanghai, Taipei & Hong Kong
 
-**29 open roles.**
+**35 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/13ed741a-5335-415e-b865-762cf7bc8a5f">Customer Engineer, Advanced Technology, Google Cloud</a></td>
+<td>Beijing, Beijing, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466864233/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e9d9446-2118-456e-9b4b-a0b396e90982">Generative AI Algorithms Engineer</a></td>
+<td>Xi'an, Shaanxi, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4422870861/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/73a562bc-3812-479f-a6be-a9d6d71c5cc9">ASIC Design Engineering - Multiple function</a></td>
+<td>Taipei, Taipei City, Taiwan<br/>Hsinchu City, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457478784/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Siemens Energy</strong></td>
 <td><a href="https://trueinterview.io/jobs/aa24f311-3949-44db-8ec5-b3e695025a31">GS NDT Engineer and Inspector</a></td>
@@ -221,6 +242,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Sha Tin, Hong Kong</td>
 <td align="center"><a href="https://hk.indeed.com/viewjob?jk=b5132972c2de37bd">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Network Box Corp Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/73376e44-1141-4292-8aed-f369e61a738f">IT Security Engineer (5 days shift work)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.recruit.com.hk/job-detail/network-box-corp-ltd/it-security-engineer-5-days-shift-work/L060873718">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef0cb5b2-3bc0-4844-926d-351aa32c233b">Developer Technology Engineer - New College Graduate 2027</a></td>
+<td>China, Shanghai<br/>China, Beijing<br/>China, Shenzhen</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Developer-Technology-Engineer---New-College-Graduate-2027_JR2023566">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1a0f6e26-8713-4d47-a573-87a6d421854e">PCB Design EDA and AI Engineer - New College Graduate 2027</a></td>
+<td>Taiwan, Taipei<br/>Taiwan, Hsinchu</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2027611">Apply</a></td>
+<td align="center">14 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**70 open roles.**
+**92 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tata Consultancy Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/971006a8-cb39-4fc2-ade7-582591709195">Data Scientist</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467133214/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>US Modules</strong></td>
+<td><a href="https://trueinterview.io/jobs/0dbb3376-3adf-4178-8446-77e0ef0b6be7">Product Engineer</a></td>
+<td>College Station, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4412784716/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Persona AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/f196ab71-d6b2-4bb8-b468-074e22296846">Deep Learning - Robot Manipulation Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4439891631/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Axiom Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/d9c1fa85-fdf2-481c-8efc-792704458c5f">Life Support Systems (LSS) Mechanical Engineer</a></td>
@@ -506,6 +527,139 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Antonio, TX</td>
 <td align="center"><a href="https://selfservice.chcsbc.org/ess/EmploymentOpportunities/JobDetail.aspx?req=4415&amp;sreq=2&amp;form=BACH&amp;desc=INFORMATION%20SECURITY%20ENGINEER">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vericast</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6fffbf6-ebcb-4d67-abcf-759cd4eb5a96">Business Intelligence Engineer</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Vericast/744000158132428-business-intelligence-engineer">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TransCore</strong></td>
+<td><a href="https://trueinterview.io/jobs/55c02a9e-137a-4d29-b701-d7dfdca90a5e">IT Help Desk Specialist</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://recruiting2.ultipro.com/TRA1034TNSC/JobBoard/0885e26f-46c3-45cc-8f3a-b849c09d3bdd/OpportunityDetail?opportunityId=0ac2aee1-dba6-4333-a73f-4154861f0d52&amp;postingId=8a8f8292-ca7f-4b46-b276-e1042e5dee83">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>is International Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f0b763a-4247-4526-bcca-c82eae282e91">Field Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://apply.workable.com/j/7DA44B5FF5">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anavation</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ac802ca-71d9-4bb0-b5fa-42e14d501e20">Cybersecurity Engineer (ISSO)</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://jobs.lever.co/anavationllc/abc2d32a-34c7-4d96-9d06-d29ae95d7458">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BDR Solutions LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/65cc89db-e31d-47ac-99bf-d99a64758f09">Software Engineer</a></td>
+<td>San Antonio, TX<br/>Falls Church, VA</td>
+<td align="center"><a href="https://www.comeet.com/jobs/bdrsolutionsllc/79.00B/software-engineer/D1.476-22.600?coref=1.11.pD2_7D1D">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bureau Veritas</strong></td>
+<td><a href="https://trueinterview.io/jobs/0239711e-9fe8-446f-90a8-5939ae091949">Field Inspector / Engineer - Industrial Equipment and Machinery</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://jobs.bureauveritas.com/gb/en/job/218146">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Frost</strong></td>
+<td><a href="https://trueinterview.io/jobs/0c8a739f-df65-4a52-947e-f8b00e161a94">Quality Automation Engineer I - Playwright</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://careers.frostbank.com/us/en/job/R262103/Quality-Automation-Engineer-I-Playwright">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IBC Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8e56f87-a361-4485-9b50-d4d56ab871d0">Developer I</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://ibc.wd5.myworkdayjobs.com/en-US/IBC_Careers/job/San-Antonio-TX/Developer-I_R16350">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/dd0aae23-3229-4a8f-a8b4-d268c2aff747">System Administrator I</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://ibc.wd5.myworkdayjobs.com/en-US/IBC_Careers/job/San-Antonio-TX/System-Administrator-I_R16356">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Okland Construction</strong></td>
+<td><a href="https://trueinterview.io/jobs/98805850-2bf2-4b0f-be3b-1da9f89d4ab1">MEP Project Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://oklandcareers.ttcportals.com/jobs/18407680-mep-project-engineer?tm_job=326&amp;tm_event=view&amp;tm_company=94366">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Seatrax Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/296e844f-cb14-4197-b38e-7193ec860b0d">ERP System Administrator &amp; Implementation Specialist</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4617401/Seatrax-Inc/ERP-System-Administrator-Implementation-Specialist">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SWBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/95955a68-4b26-47e3-8ff8-844bc0764e0e">Software Engineer</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://swbc.wd1.myworkdayjobs.com/en-US/swbccareers/job/San-Antonio-TX/Software-Engineer_R0015707-1">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TAS Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe9c480e-e49e-402f-bfde-66bbfb42cfd9">Field Engineer I HAC</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://comfortsystemsusa.wd1.myworkdayjobs.com/TAS-Energy/job/Houston-TX-TAS-Cullen-HQ/Field-Engineer-I-HAC--Evergreen-_JR108840">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>UT Health Science Center at San Antonio</strong></td>
+<td><a href="https://trueinterview.io/jobs/d40f5cee-ebd0-46f1-9d8f-43603498234d">Research Scientist</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/8238">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Webcreek</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ae20387-588b-4625-aa4d-2e3e758247e9">Mobile Developer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.careers-page.com/webcreek/job/W3966V79">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/791a6ba7-71c6-4267-8fa2-4b683dcf27ef">Technology Consultant Graduate</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Technology-Consultant-Graduate_1217412-1">Apply</a></td>
+<td align="center">18 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fe42eeb5-1df4-4d8d-bb05-fc0e1ca43ffa">Engineering Resolution Team Engineer Graduate</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Engineering-Resolution-Team-Engineer-Graduate_1216553-1">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mariana Minerals</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d1d5054-9ff8-4075-bf70-ea1d0cee8ff6">Engineering Coordinator</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hhvqhfyp58017xxprbewsk">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bot Auto</strong></td>
+<td><a href="https://trueinterview.io/jobs/3325a5b3-f6bd-4bed-8c7a-e8d33909c0b5">Software Engineer, Core Platforms</a></td>
+<td>Houston, TX<br/>Houston Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/botauto/jobs/5448119008">Apply</a></td>
+<td align="center">8 Oct 2026</td>
 </tr>
 </tbody>
 </table>

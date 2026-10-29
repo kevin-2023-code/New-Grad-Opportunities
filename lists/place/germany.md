@@ -2,7 +2,7 @@
 
 # 🇩🇪 Berlin, Munich & Germany
 
-**129 open roles.** 3 in the United States & Canada · 126 elsewhere in the world.
+**156 open roles.** 3 in the United States & Canada · 153 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,10 +51,87 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>DXC Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/ace509e8-1b3d-4372-83a1-0d99789f8527">Onsite IT Support Technician (m/f/d) Munich/Berlin</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475462103/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>4flow</strong></td>
+<td><a href="https://trueinterview.io/jobs/f79eea98-762a-40e1-8f0b-3a2431d6dfff">AI Engineer (d/w/m) - im Bereich Consulting</a></td>
+<td>Berlin, Germany<br/>Hamburg, Hamburg, Germany<br/>Heidelberg, Baden-Württemberg, Germany<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4440001670/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>adesso business consulting AG</strong></td>
 <td><a href="https://trueinterview.io/jobs/8eecc3a8-f2a6-4f6e-95bb-31558dac2ed0">Business Developer SAP AMS (all genders)</a></td>
-<td>Dresden, Saxony, Germany<br/>Münster, North Rhine-Westphalia, Germany<br/>Augsburg, Bavaria, Germany<br/>+4 more</td>
+<td>Dresden, Saxony, Germany<br/>Karlsruhe, Baden-Württemberg, Germany<br/>Münster, North Rhine-Westphalia, Germany<br/>+9 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467502352/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>mamgo | Talente 🔗 Jobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4d8b70d-8cf7-45f4-9d15-cafed2282f71">Systems and Operations Engineer Intelligent Automation (m/w/d)</a></td>
+<td>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484909699/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Prefix.dev</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b22da8c-8f90-415f-b52d-25fbeae4f392">Robotics Engineer</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478443679/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/dab24a7a-ad91-4da0-9ba3-9786c1437d22">Technical Support Specialist (German/Arabic Speaking) - (m/w/d) - Fixed Term Contract</a></td>
+<td>Berlin, Berlin, Germany<br/>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484722933/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Planqc</strong></td>
+<td><a href="https://trueinterview.io/jobs/20825396-2f3b-453b-a8eb-a59001dd44d5">Quantum Hardware Engineer - Optical Systems</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475557241/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Otto Group one.O</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff3a7ab8-e67b-4b28-af8d-304e9de3188e">Product Owner SAP FI/CO (S/4HANA) (w/m/d)</a></td>
+<td>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4299012206/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ratiodata</strong></td>
+<td><a href="https://trueinterview.io/jobs/da12a24b-90ee-43af-8df8-a65d6ca8d262">Application Engineer (m/w/d) Output Management Systeme - Workflowsteuerung</a></td>
+<td>Karlsruhe, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475460198/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Statista</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c259faa-909a-41c3-98ef-7f0ffaf35949">Analytics Engineer (m/f/d)</a></td>
+<td>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475791607/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CYCAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/12a6f387-4d7f-4f1a-9c1d-042911ec25f9">Full-Stack Engineer (m/w/d)</a></td>
+<td>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479505696/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Voize</strong></td>
+<td><a href="https://trueinterview.io/jobs/29325dc9-b637-4889-a2da-6920f58f30cb">Solutions Engineer (m/f/d)</a></td>
+<td>Hamburg, Hamburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4381496670/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -263,8 +340,15 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>adesso SE</strong></td>
 <td><a href="https://trueinterview.io/jobs/10ee6e9c-ba52-484d-98cf-91004941d359">DevOps Engineer Java (all genders)</a></td>
-<td>Munich, Bavaria, Germany<br/>Walldorf, Baden-Württemberg, Germany<br/>Rostock, Mecklenburg-West Pomerania, Germany</td>
+<td>Munich, Bavaria, Germany<br/>Walldorf, Baden-Württemberg, Germany<br/>Rostock, Mecklenburg-West Pomerania, Germany<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4423890854/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alpine Eagle</strong></td>
+<td><a href="https://trueinterview.io/jobs/88e36028-5ed5-47d6-9545-3b375e9b12f0">Sensor Fusion Engineer – Multi-Sensor Integration (m/f/d)</a></td>
+<td>Munich, Bavaria, Germany<br/>Karlsruhe, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476739876/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -279,6 +363,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f5d23c4f-492b-4fe7-98ec-d48123a3cb8f">Support Engineer (EMEA)</a></td>
 <td>Berlin Office, Estonia, Latvia, Slovenia, Hungary, Portugal, Germany, Austria, Finland, Ireland, Bulgaria, Denmark, Belg</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/n8n/178a1783-90a6-43ea-b019-74e8af3e8f73/application">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SIXT</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f116d9b-f472-4d9a-88ca-5ccf23e48b02">Applied AI Engineer (m/w/d)</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459317899/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Statista</strong></td>
+<td><a href="https://trueinterview.io/jobs/6551be0f-4672-498a-bd4b-428d00110f9d">Data Engineer - Data Platform &amp; Ontology (m/f/d)</a></td>
+<td>Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4323074869/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -307,13 +405,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6858e71a-3b52-4fcc-be8f-30b1d5663f7a">Praktikant im Bereich AI Engineering: AI-ready Processes (w/m/d)</a></td>
 <td>Munich, Bavaria, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4472712505/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/dab24a7a-ad91-4da0-9ba3-9786c1437d22">Technical Support Specialist (German/Arabic Speaking) - (m/w/d) - Fixed Term Contract</a></td>
-<td>Berlin, Berlin, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484722933/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -625,13 +716,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>4flow</strong></td>
-<td><a href="https://trueinterview.io/jobs/f79eea98-762a-40e1-8f0b-3a2431d6dfff">AI Engineer (d/w/m) - im Bereich Consulting</a></td>
-<td>Berlin, Germany<br/>Hamburg, Hamburg, Germany<br/>Heidelberg, Baden-Württemberg, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4440001670/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Swisio</strong></td>
 <td><a href="https://trueinterview.io/jobs/c5ade2c5-d70a-49cf-af8e-be41b7ed94e8">Java Software Engineer</a></td>
 <td>Berlin, Germany</td>
@@ -931,6 +1015,111 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Munich, Bavaria, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447975867/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Allego</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5ed389a-42e5-41d2-a65a-921530784aaa">Business Developer B2B</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4443294986/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sportradar</strong></td>
+<td><a href="https://trueinterview.io/jobs/d82076ce-8811-488d-8413-ce13145d1cac">Forward Deployed AI Engineer (m/f/d)</a></td>
+<td>Leipzig, Deutschland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sportradar/744000158082556-forward-deployed-ai-engineer-m-f-d-">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anori Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/4014682e-a702-497a-a21d-f1d46a9eeb7f">Algorithm Engineer (m/f/d)</a></td>
+<td>Hamburg, Deutschland</td>
+<td align="center"><a href="https://join.com/companies/anoritechcom/16879025-algorithm-engineer-m-f-d?pid=a13795120131dbe48464">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Art-Invest Real Estate Management GmbH &amp; Co. KG</strong></td>
+<td><a href="https://trueinterview.io/jobs/9de4f8e0-134a-441c-ac4f-004934062911">Data Engineer</a></td>
+<td>Berlin, Deutschland</td>
+<td align="center"><a href="https://jobdb.softgarden.de/jobdb/public/jobdb/posting/68339453/0/0/Data+Engineer+.html">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capgemini Engineering</strong></td>
+<td><a href="https://trueinterview.io/jobs/4399b25c-be10-4b47-8c83-580182ba0e3e">AI Application Engineer (w/m/d) in Erlangen</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://www.capgemini.com/jobs/585439-de_DE_SAPBTP/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CompuSafe Data Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/eaf920e5-7d71-4a04-b184-84950a1c350c">System Engineer Middleware &amp; Cloud Infrastructure</a></td>
+<td>Berlin, Deutschland</td>
+<td align="center"><a href="https://www.compusafe.de/jobs/system-engineer-middleware-cloud-infrastructure-2/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Darkside</strong></td>
+<td><a href="https://trueinterview.io/jobs/d14c94a4-5139-4441-8823-13ae7cd9d821">AI Engineer | IT &amp; Development (m/w/d)</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://t.gohiring.com/h/4a4e8858da1e4a945b730ce84867778528f8c3ba3a00e90a1ef87920df213e3f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Deutscher Sparkassen Verlag GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/c7f00327-c246-4430-b9e2-1c7e1a5e8fa3">Data Engineer / Scientist (m/w/d) Payment</a></td>
+<td>Stuttgart, Deutschland</td>
+<td align="center"><a href="https://dsvgruppe.wd103.myworkdayjobs.com/de-DE/DSV/job/Stuttgart/Data-Engineer---Scientist--m-w-d--Payment_JR101484">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>E.ON</strong></td>
+<td><a href="https://trueinterview.io/jobs/51d6a97a-c36c-4683-bf1d-403a8b200164">Salesforce Data 360 Engineer (m/w/d)</a></td>
+<td>München, Deutschland<br/>Essen, Deutschland</td>
+<td align="center"><a href="https://jobs.eon.com/de/job/Salesforce-Data-360-Engineer--m-w-d-?id=935">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ERNI (Deutschland) GmbH</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3b84a64-af0f-49d7-ad68-765237833761">Test Engineer (m/w/d)</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://join.erni.betterask.erni/jobs/8624106-test-engineer-m-w-d">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ERNI Schweiz AG</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6531e99-9d82-400e-993e-0a55456274ff">Test Engineer (m/w/d)</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://www.betterask.erni/de-de/germany-jobs/8624106/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PLATH Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/87d3ca02-30f4-42e4-ac16-2c348ae8a7d4">System Engineer (m/w/d) in der Plattform Integration</a></td>
+<td>Hamburg, Deutschland</td>
+<td align="center"><a href="https://jobdb.softgarden.de/jobdb/public/jobdb/posting/68360066/0/0/System+Engineer+%28m-w-d%29+in+der+Plattform+Integration.html">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ROHDE &amp; SCHWARZ GmbH &amp; Co. KG</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4592298-985f-4526-8b37-d14db6c69ace">Systems Engineer Mobile Radio Analytics (m/w/d)</a></td>
+<td>Köln, Deutschland</td>
+<td align="center"><a href="https://www.rohde-schwarz.com/de/karriere/stellenangebote/systems-engineer-mobile-radio-analytics-m-w-d_251563-1708544.html">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tensordyne</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b92afe3-619f-4235-bed0-8f81b9013a50">Working Student - ML Compiler</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://grnh.se/697e73052us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nexoya</strong></td>
+<td><a href="https://trueinterview.io/jobs/8450e6c7-2030-40db-b780-146c4677cd7d">Backend Engineer (Node.js / TypeScript)</a></td>
+<td>Berlin, Deutschland</td>
+<td align="center"><a href="https://join.com/companies/nexoya/16829990-backend-engineer-node-js-typescript?pid=a13795120131dbe48464">Apply</a></td>
+<td align="center">14 Oct 2026</td>
 </tr>
 </tbody>
 </table>

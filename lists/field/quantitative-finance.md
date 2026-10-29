@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**59 open roles.** 34 in the United States & Canada · 25 elsewhere in the world.
+**68 open roles.** 41 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Saragossa</strong></td>
+<td><a href="https://trueinterview.io/jobs/27985eec-a9b9-4f7a-9660-e8da73188931">Quant Developer | Fixed Income - $400K+ - Front Office - NYC / Philadelphia</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4441543079/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/57b8ca2d-755a-4a29-95bb-f59ae234f2cf">Quant Researcher – Build, Test &amp; Deploy | Tech-Driven NYC Fund</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4401947333/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tetra Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/261910e6-abf0-40ee-b05b-3e60dde466df">Quantitative Ecologist – Portland, OR (Hybrid)</a></td>
+<td>Portland, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481791138/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Moderna</strong></td>
 <td><a href="https://trueinterview.io/jobs/ee5aa885-8598-4495-8330-a5b3f6b02270">Scientist, CMC Quantitative Sciences</a></td>
 <td>Norwood, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467199679/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bank of China USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a9437ad-81fe-4679-81bf-7a692f1533de">Credit Risk Management Department – Quantitative Analytics – Model Team AVP</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474460938/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -255,6 +283,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4439471695/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
+<tr>
+<td><strong>Freddie Mac</strong></td>
+<td><a href="https://trueinterview.io/jobs/1789fcff-bc01-49a8-a50c-607b7969ec50">Quantitative Analytics Professional</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://careers.freddiemac.com/us/en/job/FRMAUSJR17753EXTERNAL/Quantitative-Analytics-Professional">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intercontinental Exchange</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff1cc2d7-a4af-458e-b8e4-6d8ebee3c423">Quantitative Analyst, Quantitative Research</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://careers-ice.icims.com/jobs/14040/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Goldman Sachs</strong></td>
+<td><a href="https://trueinterview.io/jobs/7baf5724-b3eb-4ef5-b2c8-aadf0aeef0d3">The Core Engineering-Associate, Quantitative Strategist, Core Planning and Analysis Strats</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3002/job/176151">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -267,6 +316,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Challenger Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/03ed7900-8f9f-4dad-8ec3-4d755097be62">Quantitative Engineer</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463330384/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TotalEnergies</strong></td>
+<td><a href="https://trueinterview.io/jobs/94057f67-07ad-4a1c-93f2-9cf6f2c782aa">Assets Trader – Power &amp; Gas (Europe)</a></td>
+<td>Geneva, Geneva, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484957040/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Selby Jennings</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec835ec4-a521-4df0-a593-5b5fb278bb1e">ML Quant Researcher</a></td>
