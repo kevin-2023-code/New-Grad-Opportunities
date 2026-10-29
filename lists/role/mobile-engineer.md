@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**39 open roles.** 22 in the United States & Canada · 17 elsewhere in the world.
+**38 open roles.** 22 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -183,13 +183,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>ProcessX Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/374167bf-7bf9-4a67-8a30-f59904ae855a">iOS Developer</a></td>
-<td>Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482556661/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Cinergy Technology Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/57f13071-5187-4c75-9765-7cd869058f74">Android Developer</a></td>

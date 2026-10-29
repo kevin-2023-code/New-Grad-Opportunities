@@ -338,6 +338,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>SaffireTech</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1ea767b-d87e-4799-9895-f9eea48f109e">Front End Developer in Mumbai</a></td>
+<td>Mumbai Metropolitan Region</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484775109/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Deltatre</strong></td>
 <td><a href="https://trueinterview.io/jobs/f6492228-9565-4018-9e19-b75b131c3d1a">Frontend Software Engineer – React Native</a></td>
 <td>Mumbai, Maharashtra, India</td>
@@ -363,13 +370,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e90aa139-59d5-40a0-b95d-299fd6f77889">Frontend Developer</a></td>
 <td>Greater Glasgow Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482510756/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ace Rooms Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/b59d3075-8ec6-4caf-b804-20d44adf3654">Frontend Developer</a></td>
-<td>Kolkata metropolitan area, West Bengal, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482503873/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

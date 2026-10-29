@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**12 open roles.** 11 in the United States & Canada · 1 elsewhere in the world.
+**13 open roles.** 11 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -106,6 +106,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Business Advantage</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a02dacd-bc0d-443d-b764-de5afd9eedb2">Multilingual B2B Market Research Interviewer (Quantitative &amp; Qualitative)</a></td>
+<td>Schwedt, Brandenburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482539733/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>DeepFin Research</strong></td>
 <td><a href="https://trueinterview.io/jobs/ee7e8032-c201-42da-ad0d-1830342c54c7">HFT Quantitative Research and Trading</a></td>
