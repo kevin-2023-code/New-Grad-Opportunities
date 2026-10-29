@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**36 open roles.**
+**35 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -60,13 +60,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Sao Paulo, Sao Paulo, Brasil, STONE - TECH</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/stone/jobs/8045173003">Apply</a></td>
 <td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens</strong></td>
-<td><a href="https://trueinterview.io/jobs/c8c90d6c-c892-41eb-b67a-c6a087cc7687">Electrical Design Engineer for Protection &amp; Automation Panels</a></td>
-<td>Jundiaí, São Paulo, Brazil</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466824520/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Google</strong></td>
