@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**1,180 open roles.** 732 in the United States & Canada · 448 elsewhere in the world.
+**1,186 open roles.** 737 in the United States & Canada · 449 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b3fe0a5-a2fa-42ca-8902-8060e2fb665c">Software Privacy Engineer, Trust Platform &amp; Automation, Devices &amp; Services Trust, Privacy, and Accessibility (TPA)</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485226273/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>U.S. Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/aed940a9-20d9-420c-a342-919033f0be0e">Software Engineer 1 - ServiceNow - Financial Service Operations</a></td>
+<td>Charlotte, NC<br/>Cincinnati, OH<br/>Irving, TX<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982640/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Navitus Health Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/d787d46c-e792-464c-80e3-fbe4056344fb">Developer I, Application Systems</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465834632/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Insight Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e1a0558-8aa9-4e10-9c9c-249894591a0c">Python Developer (Metrology/Aerospace)</a></td>
+<td>Longueuil, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483208058/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BPM Microsystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/449e4dfb-7127-46ce-85d6-1f976aebe878">Software Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484131059/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Genpact</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d42afa7-d4a4-40ca-8851-b1df9c09fe3f">Java Software Engineer</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472980453/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Calance</strong></td>
 <td><a href="https://trueinterview.io/jobs/7d4e5682-14fd-49f2-9ff5-cda09b2a86a3">Ansible/OpenShift Developer</a></td>
@@ -374,13 +416,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/15bdb0e1-5771-4ad3-8126-487f0302795c">Software Engineer</a></td>
 <td>Pittsburgh, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447998450/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>U.S. Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/aed940a9-20d9-420c-a342-919033f0be0e">Software Engineer 1 - ServiceNow - Financial Service Operations</a></td>
-<td>Charlotte, NC<br/>Cincinnati, OH<br/>Irving, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982640/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2782,41 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e24ab444-3bb3-4d4c-a066-f92bc137d810">Golang Developer</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484480414/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Jacobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/fb5f86ca-0f5f-4fdc-a690-91dc7bc5a3c9">Entry Level Software Engineer</a></td>
-<td>Nashua, NH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458531029/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Spatial Front, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/17a64c4a-13ba-4c10-a400-8c3f566cbeb8">Associate Software Developer — Recent Graduates</a></td>
-<td>Arlington, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4438972097/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Galent</strong></td>
-<td><a href="https://trueinterview.io/jobs/10783091-feec-4360-9de8-006fcb1a4429">Oracle PL/SQL Developer</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482520720/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Porter &amp; Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/39462a50-24d5-426f-8171-0e2712ad9775">Software Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484487243/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Kratos Defense and Security Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/3909cac1-1208-4f38-9494-ddc749f8122f">Software Engineer</a></td>
-<td>Annapolis, MD</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4391395341/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

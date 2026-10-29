@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**103 open roles.**
+**107 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IMEG</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ddb48b7-5e90-497b-8c5b-41cd86879cb9">Electrical Engineering New Graduate Designer | Raleigh, NC</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472811637/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c2c4f49f-bd12-4f45-9e63-cc6442b8bbb6">Mechanical Engineering New Graduate | Charlotte, NC</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474632039/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>U.S. Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/85be9d39-624e-43a0-a1b3-1456f959996f">nCino/Moody's Product Designer</a></td>
+<td>Charlotte, NC<br/>Atlanta, GA<br/>Chicago, IL<br/>+7 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479254166/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/aed940a9-20d9-420c-a342-919033f0be0e">Software Engineer 1 - ServiceNow - Financial Service Operations</a></td>
+<td>Charlotte, NC<br/>Cincinnati, OH<br/>Irving, TX<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982640/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ef092e9e-8142-4dab-883d-5d4f5a33f82d">Software Engineer 1 – Full-stack, Generative AI, Cloud</a></td>
+<td>Charlotte, NC<br/>Brookfield, WI<br/>Hopkins, MN<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479745461/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Encoded Therapeutics Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/34aee126-c45d-4901-861e-4ee62b394a36">Engineer, Process Sciences - Upstream</a></td>
@@ -99,13 +134,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6fe74b5c-964c-4d10-b45d-e8a62bf164b0">Video Management System Administrator</a></td>
 <td>Charlotte, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484966897/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>U.S. Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/aed940a9-20d9-420c-a342-919033f0be0e">Software Engineer 1 - ServiceNow - Financial Service Operations</a></td>
-<td>Charlotte, NC<br/>Cincinnati, OH<br/>Irving, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982640/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

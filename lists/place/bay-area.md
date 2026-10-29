@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**484 open roles.** 482 in the United States & Canada · 2 elsewhere in the world.
+**486 open roles.** 484 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Arc Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea93a131-b643-4c28-955a-40c2fb643ca0">Postdoctoral Researcher, ML for Biology, Hsu Lab</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4413807714/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Allogene Therapeutics</strong></td>
 <td><a href="https://trueinterview.io/jobs/606806d6-b3a4-4828-8f60-91e0e7a5244d">Desktop Engineer (Contractor)</a></td>
@@ -892,6 +899,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dcd977de-9a27-43c2-a798-4dcd7a252504">Research Engineer / Research Scientist, Human Flourishing</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/openai/0f600ed1-d70a-4648-820f-a1d1da3f7617/application">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SambaNova</strong></td>
+<td><a href="https://trueinterview.io/jobs/9bb7d715-af3b-454e-9d2f-1b0201feb3e3">ML Infrastructure Engineer - New Grad</a></td>
+<td>San Jose, CA<br/>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484256265/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2804,20 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318362457">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/454e2523-e06d-478e-ab79-5318fc1792eb">VLSI Engineer I Graduate</a></td>
-<td>Sunnyvale, California, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/VLSI-Engineer-I-Graduate_1214995">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Dolby</strong></td>
-<td><a href="https://trueinterview.io/jobs/6fca024a-e3d0-42ad-b643-a7c84a3074ba">DVIP QA / Software Engineer in Test</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://4dayweek.io/job/dvip-qa-software-engineer-in-test-at-dolby-79e5a57c">Apply</a></td>
-<td align="center">19 Sep 2026</td>
 </tr>
 </tbody>
 </table>

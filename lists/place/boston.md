@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**108 open roles.**
+**110 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Harvey Nash</strong></td>
+<td><a href="https://trueinterview.io/jobs/10135259-07be-4a29-993a-aeb9b6b66818">Embedded Software Engineer</a></td>
+<td>Chelmsford, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477931162/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IMEG</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3e834c8-7d10-45b4-b3af-9e666169e56d">Electrical Engineering Designer | Boston, MA</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472858480/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Galois, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/3bdf3880-8b9f-450f-91b2-265fa85afced">Research Engineer - Formal Methods</a></td>

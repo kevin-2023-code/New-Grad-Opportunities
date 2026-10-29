@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**386 open roles.** 14 in the United States & Canada · 372 elsewhere in the world.
+**390 open roles.** 14 in the United States & Canada · 376 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -128,6 +128,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>McNally Recruitment Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/76c16773-b84b-481a-a3fc-760d63028c96">Test Automation Specialist</a></td>
+<td>Edinburgh, Scotland, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481766975/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Compare the Market</strong></td>
+<td><a href="https://trueinterview.io/jobs/888c3768-e9df-46b8-a483-7794b1ef7520">Machine Learning Engineer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484990130/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Talent</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a32d02b-63d2-4f2c-ab1b-b86fb7cd4c10">Data Test Analyst</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474296138/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Axon</strong></td>
 <td><a href="https://trueinterview.io/jobs/cc41b8d9-b8f1-4bdd-ae4a-7d0622ba12e5">Software Engineer</a></td>
 <td>London, England, United Kingdom</td>
@@ -202,6 +223,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/fd1754bf-5d95-4e1d-9064-c5360a15f3a5">Overhead Line (OHL) Engineer - Scotland (Energy)</a></td>
 <td>Edinburgh, Scotland, United Kingdom<br/>Glasgow, Scotland, United Kingdom<br/>Inverness, Scotland, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467983823/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Visa</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c39c326-a3e4-437a-a79a-af872aa997b1">Software Engineer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485232020/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

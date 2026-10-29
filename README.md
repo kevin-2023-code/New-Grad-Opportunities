@@ -32,31 +32,31 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-29 22:14 UTC_
+_Last updated: 2026-10-29 23:13 UTC_
 
-**5,104 open new-grad roles** from **2,860 employers** · **4,477 posted in the last 7 days** · refreshed hourly
+**5,162 open new-grad roles** from **2,899 employers** · **4,534 posted in the last 7 days** · refreshed hourly
 
-### Browse 5,104 new-grad roles by field
+### Browse 5,162 new-grad roles by field
 
-💻 **[Software Engineering](#-software-engineering)** (2,811)
+💻 **[Software Engineering](#-software-engineering)** (2,830)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (842)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (849)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (725)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (732)
 
-📱 **[Product & Design](#-product--design)** (145)
+📱 **[Product & Design](#-product--design)** (146)
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (41)
 
-🧰 **[IT & Support](#-it--support)** (540)
+🧰 **[IT & Support](#-it--support)** (564)
 
 ---
 
 ### 🔥 Posting the most this week
 
-**Torentify** 54 &nbsp;·&nbsp; **Amazon** 51 &nbsp;·&nbsp; **Tata Consultancy Services** 47 &nbsp;·&nbsp; **Amazon Web Services (AWS)** 36 &nbsp;·&nbsp; **TaskVerse** 31 &nbsp;·&nbsp; **Crewlia** 26 &nbsp;·&nbsp; **AgileGrid Solutions** 24 &nbsp;·&nbsp; **Booz Allen Hamilton** 22 &nbsp;·&nbsp; **Lockheed Martin** 22 &nbsp;·&nbsp; **TalentHop** 22 &nbsp;·&nbsp; **Actalent** 21 &nbsp;·&nbsp; **Capgemini** 19
+**Torentify** 54 &nbsp;·&nbsp; **Amazon** 52 &nbsp;·&nbsp; **Tata Consultancy Services** 47 &nbsp;·&nbsp; **Amazon Web Services (AWS)** 36 &nbsp;·&nbsp; **TaskVerse** 31 &nbsp;·&nbsp; **Crewlia** 26 &nbsp;·&nbsp; **AgileGrid Solutions** 24 &nbsp;·&nbsp; **Booz Allen Hamilton** 22 &nbsp;·&nbsp; **Lockheed Martin** 22 &nbsp;·&nbsp; **TalentHop** 22 &nbsp;·&nbsp; **Actalent** 21 &nbsp;·&nbsp; **Apex Systems** 19
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 624 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 631 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -64,13 +64,13 @@ _Last updated: 2026-10-29 22:14 UTC_
 
 _Counts are new-grad roles in the United States & Canada. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (323)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (144)](lists/company/semiconductors.md) · [🧾 IT services & consulting (113)](lists/company/it-consulting.md) · [🖥️ Hardware, devices & networking (101)](lists/company/hardware-devices.md) · [🚀 Aerospace & defence (88)](lists/company/aerospace-defense.md) · [🏗️ Large tech (1,000–9,999) (88)](lists/company/large-tech.md) · [🛒 E-commerce & marketplaces (61)](lists/company/ecommerce-marketplace.md) · [🚗 Autonomy, automotive & mobility (60)](lists/company/autonomy-mobility.md) · [🏢 Enterprise & business software (59)](lists/company/enterprise-saas.md) · [🧠 AI labs & AI infrastructure (54)](lists/company/ai.md) · [+14 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (324)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (144)](lists/company/semiconductors.md) · [🧾 IT services & consulting (113)](lists/company/it-consulting.md) · [🖥️ Hardware, devices & networking (102)](lists/company/hardware-devices.md) · [🚀 Aerospace & defence (88)](lists/company/aerospace-defense.md) · [🏗️ Large tech (1,000–9,999) (88)](lists/company/large-tech.md) · [🛒 E-commerce & marketplaces (62)](lists/company/ecommerce-marketplace.md) · [🚗 Autonomy, automotive & mobility (60)](lists/company/autonomy-mobility.md) · [🏢 Enterprise & business software (59)](lists/company/enterprise-saas.md) · [🧠 AI labs & AI infrastructure (54)](lists/company/ai.md) · [+14 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (732)](lists/role/software-engineer.md) · [AI Engineer (204)](lists/role/ai-engineer.md) · [Data Analyst (186)](lists/role/data-analyst.md) · [Data Engineer (166)](lists/role/data-engineer.md) · [Security Engineer (148)](lists/role/security-engineer.md) · [QA Engineer (124)](lists/role/qa-engineer.md) · [Full-Stack Engineer (111)](lists/role/full-stack-engineer.md) · [Machine Learning Engineer (103)](lists/role/machine-learning-engineer.md) · [Data Scientist (98)](lists/role/data-scientist.md) · [Hardware Engineer (92)](lists/role/hardware-engineer.md) · [+12 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (737)](lists/role/software-engineer.md) · [AI Engineer (205)](lists/role/ai-engineer.md) · [Data Analyst (187)](lists/role/data-analyst.md) · [Data Engineer (169)](lists/role/data-engineer.md) · [Security Engineer (148)](lists/role/security-engineer.md) · [QA Engineer (125)](lists/role/qa-engineer.md) · [Full-Stack Engineer (111)](lists/role/full-stack-engineer.md) · [Machine Learning Engineer (105)](lists/role/machine-learning-engineer.md) · [Data Scientist (98)](lists/role/data-scientist.md) · [Hardware Engineer (92)](lists/role/hardware-engineer.md) · [+12 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (482)](lists/place/bay-area.md) · [🏛️ Washington DC & Northern Virginia (265)](lists/place/washington-dc.md) · [🗽 New York City (253)](lists/place/new-york.md) · [🤠 Dallas–Fort Worth (167)](lists/place/dallas-fort-worth.md) · [🌲 Seattle & Puget Sound (151)](lists/place/seattle.md) · [🌴 Los Angeles & Orange County (150)](lists/place/los-angeles.md) · [🎸 Austin (146)](lists/place/austin.md) · [🍁 Toronto, Waterloo & Ottawa (119)](lists/place/toronto.md) · [🎓 Boston & Cambridge (108)](lists/place/boston.md) · [🔺 Research Triangle & the Carolinas (103)](lists/place/research-triangle.md) · [+18 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (484)](lists/place/bay-area.md) · [🏛️ Washington DC & Northern Virginia (266)](lists/place/washington-dc.md) · [🗽 New York City (253)](lists/place/new-york.md) · [🤠 Dallas–Fort Worth (170)](lists/place/dallas-fort-worth.md) · [🌴 Los Angeles & Orange County (154)](lists/place/los-angeles.md) · [🌲 Seattle & Puget Sound (152)](lists/place/seattle.md) · [🎸 Austin (148)](lists/place/austin.md) · [🍁 Toronto, Waterloo & Ottawa (119)](lists/place/toronto.md) · [🎓 Boston & Cambridge (110)](lists/place/boston.md) · [🔺 Research Triangle & the Carolinas (107)](lists/place/research-triangle.md) · [+18 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (4,477)](lists/new-this-week.md) · [🌐 Remote (110)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (4,534)](lists/new-this-week.md) · [🌐 Remote (110)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -93,6 +93,139 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Harvey Nash</strong></td>
+<td><a href="https://trueinterview.io/jobs/10135259-07be-4a29-993a-aeb9b6b66818">Embedded Software Engineer</a> 🆕</td>
+<td>Chelmsford, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477931162/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b3fe0a5-a2fa-42ca-8902-8060e2fb665c">Software Privacy Engineer, Trust Platform &amp; Automation, Devices &amp; Services Trust, Privacy, and Accessibility (TPA)</a> 🆕</td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485226273/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Caterpillar Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ea808a5-2cab-412f-bd00-2e58448a2a5f">Automation and Controls Engineer</a> 🆕</td>
+<td>Mapleton, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482821305/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>DCS Corp</strong></td>
+<td><a href="https://trueinterview.io/jobs/dbbd5e10-51de-4298-bb47-cb47be843b37">Airborne Electronic Warfare (AEW) Integration Analyst/Engineer</a> 🆕</td>
+<td>Ridgecrest, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476986134/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Kasa Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2b12e94-148f-4aa6-83ec-7f60da2dc5f2">Emulation Engineer</a> 🆕</td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469287200/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>SANY America</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8b56884-d3fa-45c2-b293-1c274cd74ed3">Vehicle Controls Engineer - Hybrid Loaders</a> 🆕</td>
+<td>Peachtree City, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483143365/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>W. M. Jordan Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/135817bb-ace9-48e7-81be-b72d8dc45c21">Project Engineer</a> 🆕</td>
+<td>Newport News, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448233470/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>U.S. Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/aed940a9-20d9-420c-a342-919033f0be0e">Software Engineer 1 - ServiceNow - Financial Service Operations</a> 🆕</td>
+<td>Charlotte, NC<br/>Cincinnati, OH<br/>Irving, TX<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982640/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Plexus Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/874e228b-7a48-4db0-9f0a-42d80d35fdf7">Automation Engineer I</a> 🆕</td>
+<td>Buffalo Grove, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481759453/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Bitovi</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e587828-840f-443a-8395-90d2d267f760">Database Engineer - PostgreSQL</a> 🆕</td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480270845/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c6d27fd6-8011-4833-95c2-70a0c97ef96b">Backend Developer Consultant (GraphQL &amp; Kafka)</a> 🆕</td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479134586/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>ECS</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3f2fbe6-04bc-4c8e-af66-17df4c33150f">Web Developer</a> 🆕</td>
+<td>Florida, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457029769/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Herzog</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ba5c5b9-7b6d-4e2b-ac01-e2eeff666912">Project Engineer</a> 🆕</td>
+<td>Havre de Grace, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484736612/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Archimedes</strong></td>
+<td><a href="https://trueinterview.io/jobs/743002cc-a77a-4e4d-b756-2d13849764d1">Engineer, Development Operations - Archimedes</a> 🆕</td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474377063/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Navitus Health Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/d787d46c-e792-464c-80e3-fbe4056344fb">Developer I, Application Systems</a> 🆕</td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465834632/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/22be3497-3ed1-402f-9d47-38214318d151">Engineer, Cloud Security</a> 🆕</td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465893342/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Insight Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e1a0558-8aa9-4e10-9c9c-249894591a0c">Python Developer (Metrology/Aerospace)</a> 🆕</td>
+<td>Longueuil, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483208058/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>BPM Microsystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/449e4dfb-7127-46ce-85d6-1f976aebe878">Software Engineer</a> 🆕</td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484131059/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>RobCo</strong></td>
+<td><a href="https://trueinterview.io/jobs/2322b649-33fd-4278-a27d-0a03366334fc">Robotics Support Engineer</a> 🆕</td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473779837/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Aequor Information Technologies Pvt. Ltd.</strong></td>
 <td><a href="https://trueinterview.io/jobs/2680da14-4215-491c-93f9-37e1ee5dd35b">Packaging Engineer</a> 🆕</td>
@@ -133,139 +266,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/da5abc45-402d-4ee3-ac62-fe325205a8a1">Cybersecurity Engineer</a> 🆕</td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482757806/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1f1a9f7f-2c3b-4b17-92af-13dabf644e3b">DevOps Engineer</a> 🆕</td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482760726/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b9ba97d9-097c-4d05-8b1d-5c40a97f5ce4">DevSecOps Engineer</a> 🆕</td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484488999/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Grove Technical Resources</strong></td>
-<td><a href="https://trueinterview.io/jobs/42bbb478-a536-48df-9629-35a9323996fc">MES Engineer</a> 🆕</td>
-<td>Michigan, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476453618/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f4e0c955-50e0-4596-b9f6-692685c332ab">Packaging Engineer</a> 🆕</td>
-<td>Connecticut, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482224704/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Protingent</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ca83512-529d-41ef-a8e9-ed52cc1c0ba3">Manufacturing Tooling Engineer</a> 🆕</td>
-<td>Melbourne, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473381407/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Venteon</strong></td>
-<td><a href="https://trueinterview.io/jobs/43c6d0e4-e934-4fa8-bacd-6261aa26bc73">Welding Engineer</a> 🆕</td>
-<td>Belleville, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484987245/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>viaPhoton</strong></td>
-<td><a href="https://trueinterview.io/jobs/929a4636-8aaf-426e-8def-a2977feb40d2">Mechanical Design Engineer</a> 🆕</td>
-<td>Naperville, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469915639/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Gotham Technology Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/886f79cf-d7ab-4430-83fa-f7b61da06146">Network Operations Engineer</a> 🆕</td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483579234/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>CenTrio</strong></td>
-<td><a href="https://trueinterview.io/jobs/69ee4f1a-b4bf-4d54-a735-7349b4617419">Operating Engineer</a> 🆕</td>
-<td>Baton Rouge, LA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473804407/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Calance</strong></td>
-<td><a href="https://trueinterview.io/jobs/7d4e5682-14fd-49f2-9ff5-cda09b2a86a3">Ansible/OpenShift Developer</a> 🆕</td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481968298/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Abbott</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a9c4b50-143c-4734-80c5-594e064420bf">Industrial Automation/Operational Technology Engineer</a> 🆕</td>
-<td>Columbus, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481281751/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Sterling Engineering</strong></td>
-<td><a href="https://trueinterview.io/jobs/ceea0c04-d421-4f7a-abef-a74a18736097">Project Engineer</a> 🆕</td>
-<td>Manchester, CT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462054364/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Foster Farms</strong></td>
-<td><a href="https://trueinterview.io/jobs/48b8ab9d-e4ef-4156-b6ac-f58abbbf1995">Operations Excellence Engineer I - Nights (Cherry Complex)</a> 🆕</td>
-<td>Fresno, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470042583/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>L&amp;L Products</strong></td>
-<td><a href="https://trueinterview.io/jobs/7cf4dd89-ed79-4d86-82e9-751eb29bddb7">CAE Engineer</a> 🆕</td>
-<td>Romeo, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473789034/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>JR Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ac5f16b-50fe-4a0d-8565-6791a04a660c">Ingénieur(e) en conception électrique / Electrical Design Engineer</a> 🆕</td>
-<td>Varennes, Quebec, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485204658/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>ProKidney Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9e0427e-dc5c-4e04-af45-37c263ee4606">Quality Assurance Specialist 1, Batch Release Contractor</a> 🆕</td>
-<td>Winston-Salem, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482112559/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>EY</strong></td>
-<td><a href="https://trueinterview.io/jobs/65402915-9480-441f-bbf3-d450b3b7b8e7">Forward Deployed Engineer, Application &amp; Infrastructure - Technology Strategy &amp; Transformation</a> 🆕</td>
-<td>Toronto, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474480299/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>SaniSure</strong></td>
-<td><a href="https://trueinterview.io/jobs/204fefa0-e284-4d33-87ae-69c76ec4c735">CONTRACT ROLE: Packaging Engineer</a> 🆕</td>
-<td>Camarillo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446015350/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>General Atomics Aeronautical Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/839f779e-8c25-4efa-82c2-3e471a1d621b">Software Embedded Developer (C++/Linux)</a> 🆕</td>
-<td>Poway, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476971561/">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 </tbody>
@@ -494,7 +494,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/cc87ed0d-5ecd-42b9-9881-061fab32bbce">Software Engineer II, Developer Portal (New Grad / Early Career)</a></td>
 <td>Mountain View, California, United States<br/>ID.me Mountain View, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/idme/jobs/8011089003">Apply</a></td>
-<td align="center">23d</td>
+<td align="center">24d</td>
 </tr>
 <tr>
 <td><strong>Nuro</strong></td>
@@ -592,7 +592,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/1a9da32f-cb68-4888-8b27-07e54e58001e">Software Engineer, Full-Stack - Agents Cross-FA</a></td>
 <td>Hub - Toronto</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/134c282c-2837-44a8-9f7c-74ca39486490/application">Apply</a></td>
-<td align="center">29d</td>
+<td align="center">1mo</td>
 </tr>
 <tr>
 <td><strong>Motorola Solutions</strong></td>
@@ -634,7 +634,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 2,811.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 2,830.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -645,6 +645,48 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Aya Healthcare</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9b7307c-7ab7-427f-a9b1-719b447c405f">Data Engineer contract in Sacramento, CA - Make $3,562 - $3,717/week</a> 🆕</td>
+<td>Sacramento, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478007707/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>U.S. Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae2c2ba5-d6a9-468b-bf27-9d6082238011">Data Science Analyst</a> 🆕</td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480312036/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ef092e9e-8142-4dab-883d-5d4f5a33f82d">Software Engineer 1 – Full-stack, Generative AI, Cloud</a> 🆕</td>
+<td>Charlotte, NC<br/>Brookfield, WI<br/>Hopkins, MN<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479745461/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Arc Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea93a131-b643-4c28-955a-40c2fb643ca0">Postdoctoral Researcher, ML for Biology, Hsu Lab</a> 🆕</td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4413807714/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Navitus Health Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab55b85d-3414-4d07-8ef0-33ff66cb3e97">Business Intelligence Developer - Navitus</a> 🆕</td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465821830/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2c08fe59-cb9c-44bf-9377-a2a3748b266d">Specialist, Business Intelligence</a> 🆕</td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484224659/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Flourish Research</strong></td>
 <td><a href="https://trueinterview.io/jobs/7d04d4a1-9995-4433-adae-d33f831f0b3a">QC &amp; Data Analyst</a> 🆕</td>
@@ -776,48 +818,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/7d90cdad-7718-4d64-98e2-58fe1612832d">AI Engineer</a> 🆕</td>
 <td>Largo, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485211053/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Apex Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ec37047-4755-40ad-964e-e2c683050609">Azure / Fabric Data Engineer</a> 🆕</td>
-<td>Deerfield Beach, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484995784/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/67a7c44a-274d-42cb-9ecb-a0bb2abc48e7">Supply Chain Data Analyst w/ Databricks</a> 🆕</td>
-<td>Stanford, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484989982/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Edison Smart®</strong></td>
-<td><a href="https://trueinterview.io/jobs/7269e06f-8be0-4bae-aecb-0d851f154272">Machine Learning Engineer</a> 🆕</td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485202255/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>NY Creates</strong></td>
-<td><a href="https://trueinterview.io/jobs/87b4670f-8d64-4f58-a92e-340f4ab7e3d4">Research Scientist (Quantum Technologies)</a> 🆕</td>
-<td>Albany, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468659694/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Stelvio Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/41a1bee0-b42b-465e-8160-45d9fc6acade">Artificial Intelligence Engineer</a> 🆕</td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485200754/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>World Wide Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d4cbc59-3813-46b3-a328-b7eae0a45412">AI Platform Analyst (St. Louis)</a> 🆕</td>
-<td>Maryland Heights, MO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475468869/">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 </tbody>
@@ -1186,7 +1186,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 842.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 75 of 849.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -1197,6 +1197,55 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IMEG</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ddb48b7-5e90-497b-8c5b-41cd86879cb9">Electrical Engineering New Graduate Designer | Raleigh, NC</a> 🆕</td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472811637/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/81cd762d-4d0c-4af8-9857-1b620c83a9c3">Mechanical Engineering New Graduate | Atlanta, GA</a> 🆕</td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474618559/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f3e834c8-7d10-45b4-b3af-9e666169e56d">Electrical Engineering Designer | Boston, MA</a> 🆕</td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472858480/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c2c4f49f-bd12-4f45-9e63-cc6442b8bbb6">Mechanical Engineering New Graduate | Charlotte, NC</a> 🆕</td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474632039/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>SCS Engineers</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a6f785f-ff7a-4e29-86d0-300250f7284b">Entry-Level Civil or Environmental Engineer</a> 🆕</td>
+<td>Fort Worth, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484254559/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Neogen Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/bda7f427-2479-42e9-82bc-74f0d992e5af">Manufacturing Engineer I</a> 🆕</td>
+<td>Lexington, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478493689/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Dexter Magnetic Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/38709d14-651c-43ef-839c-94fbce152f4d">Supplier Quality Engineer</a> 🆕</td>
+<td>Elk Grove Village, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457376657/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Amentum</strong></td>
 <td><a href="https://trueinterview.io/jobs/74b276ec-0354-4d5c-9fc3-a03e61c1fce7">Early Career Specialty Mechanical Engineer</a> 🆕</td>
@@ -1321,55 +1370,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/23664453-4cb5-44c0-8859-50687ed2338f">Quality Engineer</a> 🆕</td>
 <td>Whitewater, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467571025/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Bell</strong></td>
-<td><a href="https://trueinterview.io/jobs/d54c9985-7734-4771-b295-80f47b854869">Cost Estimator, Data center construction</a> 🆕</td>
-<td>Toronto, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476949596/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>WSP in the U.S.</strong></td>
-<td><a href="https://trueinterview.io/jobs/4af45818-b33e-4006-bdd0-e39bc4ee2594">Early Career Structural Engineer - Transportation</a> 🆕</td>
-<td>Troy, NY<br/>Valhalla, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476922854/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Barr Engineering Co.</strong></td>
-<td><a href="https://trueinterview.io/jobs/6b18c6f7-0c63-4547-9e8a-560825d89235">Environmental Engineer – Entry Level (Hybrid)</a> 🆕</td>
-<td>Salt Lake City, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457789551/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>CyberCoders</strong></td>
-<td><a href="https://trueinterview.io/jobs/6833e67c-e582-4360-bc77-6aaeb7bcafd2">Manufacturing Engineer</a> 🆕</td>
-<td>Brunswick, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446674392/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>SSOE Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/e43f862e-c80d-46ef-95cb-e1b5238611d5">Chemical Process Engineer</a> 🆕</td>
-<td>Scottsdale, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476930525/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Naval Nuclear Laboratory (FMP)</strong></td>
-<td><a href="https://trueinterview.io/jobs/4d758718-af3f-4f83-935e-36cdb5dd5af9">Nuclear Engineer (Thermal/Hydraulic), Associate (Entry Level)</a> 🆕</td>
-<td>Niskayuna, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484996903/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>SSOE Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/86acfdaa-1d34-4222-896c-beb860dcf736">Mechanical Process Engineer</a> 🆕</td>
-<td>Austin, TX<br/>Scottsdale, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476938222/">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 </tbody>
@@ -1591,7 +1591,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/4eb3ef2d-57a3-4cfb-b3c1-39a9dedcabaa">Allen Hancock Career Fair</a></td>
 <td>San Luis Obispo, California<br/>HQ (Buckley)</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/zone5technologies/jobs/5441831008">Apply</a></td>
-<td align="center">27d</td>
+<td align="center">28d</td>
 </tr>
 <tr>
 <td><strong>Synthego</strong></td>
@@ -1661,7 +1661,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/9fc5c46e-9297-48f0-8cec-7130a1520a2f">Associate Technician – Substation Design</a></td>
 <td>Fayetteville, AR</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5439253008">Apply</a></td>
-<td align="center">29d</td>
+<td align="center">1mo</td>
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
@@ -1738,7 +1738,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 725.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
+**Showing 75 of 732.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
 
 ## 📱 Product & Design
 
@@ -1749,6 +1749,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>U.S. Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/85be9d39-624e-43a0-a1b3-1456f959996f">nCino/Moody's Product Designer</a> 🆕</td>
+<td>Atlanta, GA<br/>Chicago, IL<br/>Denver, CO<br/>+7 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479254166/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>AutoZone</strong></td>
 <td><a href="https://trueinterview.io/jobs/bc7ed35d-368c-440d-a708-00f9de278d10">Product Owner Digital - B2C Search</a> 🆕</td>
@@ -1915,13 +1922,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/ec851003-c105-4f90-b092-57646c334288">Technical Product Owner</a> 🆕</td>
 <td>Louisville, KY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475457068/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>RemoteHunter</strong></td>
-<td><a href="https://trueinterview.io/jobs/46c82846-8f99-40b2-8f93-bb930b5d0359">Product Education Specialist - Instructional Designer/Technical Writer (Instructional Designer I) - REMOTE</a> 🆕</td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484102636/">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 </tbody>
@@ -2136,7 +2136,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 53 of 145.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
+**Showing 53 of 146.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
 
 ## 📈 Quantitative Finance
 
@@ -2357,6 +2357,34 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </thead>
 <tbody>
 <tr>
+<td><strong>Apex Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/b30d4796-6ab2-4955-aa0d-f8ea81c9fdb2">IT Support Analyst I</a> 🆕</td>
+<td>Buffalo Grove, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485205717/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>University of Pennsylvania</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3019f40-6a30-4fb7-a389-feee1cd3908d">IT Support Specialist, Wellness Support</a> 🆕</td>
+<td>Philadelphia, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484264174/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Phenom</strong></td>
+<td><a href="https://trueinterview.io/jobs/f13fdbd8-1e39-47b7-a25a-e1ca589e9d2d">Database Administrator - I</a> 🆕</td>
+<td>Horsham, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4412164877/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Compello Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/03554f21-3c57-4932-9568-9fafb25b3a5d">Regional IT Support Technician</a> 🆕</td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.indeed.com/viewjob?jk=679df0f288d7d701">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Synergy</strong></td>
 <td><a href="https://trueinterview.io/jobs/6583dd7d-608e-4df9-a558-59bdc059d5f1">Systems Administrator</a> 🆕</td>
 <td>United States</td>
@@ -2427,6 +2455,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center">0d</td>
 </tr>
 <tr>
+<td><strong>Bering Straits Native Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/7484ff18-7973-44b8-bb56-f791b8d9cf7f">IT Support Generalist</a> 🆕</td>
+<td>Orlando, FL</td>
+<td align="center"><a href="https://beringstraits.rec.pro.ukg.net/BER1502BSNC/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=7ed295fb-0389-46f3-a679-54f19d6b0c64&amp;postingId=21e3fb89-a3b2-4142-bb10-655edc5f92fc">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Amentum</strong></td>
 <td><a href="https://trueinterview.io/jobs/fcbfc5ac-fdd9-440d-ac8e-1c0182108178">IT Support Technician (Temporary)</a> 🆕</td>
 <td>Camarillo, CA</td>
@@ -2494,41 +2529,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/65ac0e3b-2a4b-40ec-84ab-0ec92c645561">Desktop Support</a> 🆕</td>
 <td>Columbus, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485205107/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>SAIC</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6721d83-235f-4bd0-9188-5bd5ccc8410a">Configuration Management Database Administrator</a> 🆕</td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485202039/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>M1 Global Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7bbe877-1ef2-49c0-8723-9f2963f32fb7">Genetec Systems Administrator</a> 🆕</td>
-<td>Pittsburgh, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472321676/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Community Choice Financial Family of Brands</strong></td>
-<td><a href="https://trueinterview.io/jobs/08968cc4-bd61-41c3-ad0b-cf55f23009c3">Service Desk Technician</a> 🆕</td>
-<td>Dublin, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485202055/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Janus International</strong></td>
-<td><a href="https://trueinterview.io/jobs/5640b0bf-7cbe-4828-9337-da653a79c7ca">Technical Support Agent - NOKE</a> 🆕</td>
-<td>Atlanta Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484988599/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>SeAH Superalloy Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/24229257-d50d-4d9e-8453-84a87c071b1e">IT Support Specialist</a> 🆕</td>
-<td>Temple, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484983958/">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 </tbody>
@@ -2897,7 +2897,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 540.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
+**Showing 75 of 564.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
 
 <!-- LISTINGS:END -->
 ---

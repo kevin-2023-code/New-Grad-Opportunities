@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**150 open roles.**
+**154 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>U.S. Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/85be9d39-624e-43a0-a1b3-1456f959996f">nCino/Moody's Product Designer</a></td>
+<td>Irvine, CA<br/>Atlanta, GA<br/>Chicago, IL<br/>+7 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479254166/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>CHAOS Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/9c324083-7f55-460d-9909-99b79e6e8230">Effector Embedded Software Engineer</a></td>
@@ -235,6 +242,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Per Scholas</strong></td>
+<td><a href="https://trueinterview.io/jobs/49458d5f-7163-4e60-8ae8-ea93f60542bf">Instructional Assistant (IT Support)</a></td>
+<td>Los Angeles, CA<br/>Cincinnati, OH<br/>Remote</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465250535/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Zymo Research</strong></td>
 <td><a href="https://trueinterview.io/jobs/9f942763-cf2c-471c-8666-2f35d83abb3f">Post-Doctoral Research Scientist – Molecular Assay Development and Epigenetics</a></td>
 <td>Irvine, CA</td>
@@ -253,6 +267,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c73d485c-ff6b-4795-90eb-d40830a4fdee">NDE Engineer I</a></td>
 <td>Long Beach, California, United States, LB - Wormhole HQ (CA)</td>
 <td align="center"><a href="https://boards.greenhouse.io/relativity/jobs/8922242002?gh_jid=8922242002">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Albert and Mackenzie</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b58dddc-7170-4629-aef5-bf11cc960c15">Service Desk Analyst</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481710308/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -564,13 +585,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Per Scholas</strong></td>
-<td><a href="https://trueinterview.io/jobs/49458d5f-7163-4e60-8ae8-ea93f60542bf">Instructional Assistant (Cybersecurity)</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465250535/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Astrolab</strong></td>
 <td><a href="https://trueinterview.io/jobs/551c773c-4e9e-4c3e-91a9-434357c99e27">Avionics Engineer (All Levels)</a></td>
 <td>Hawthorne, CA</td>
@@ -711,6 +725,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Yosemite Consulting Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/717df55f-a316-4cb1-8ed4-92c8595519d9">Technical Support Specialist</a></td>
+<td>Santa Ana, CA</td>
+<td align="center"><a href="https://workforce.intuit.com/recruiting/yosemite-consulting-group-llc-04fbecbef159d0c5/1f3fce66-9c4e-4448-a5c0-8c3c43c49134">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Inabia Software &amp; Consulting Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/699206f2-0677-40c5-b6da-3b66a7e14377">FPGA Design Verification Engineer</a></td>
 <td>El Segundo, CA</td>
@@ -737,6 +758,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Long Beach, CA, Denver, CO, Long Beach, CA<br/>Denver, CO</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007">Apply</a></td>
 <td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Artful Home</strong></td>
+<td><a href="https://trueinterview.io/jobs/2328d801-4ba1-40d0-9cc1-53aca0a850db">Technology Operations Specialist (Helpdesk, QA &amp; Analytics)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://secure7.saashr.com/ta/6216066.careers?ShowJob=638051660">Apply</a></td>
+<td align="center">22 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Anduril</strong></td>

@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**275 open roles.** 186 in the United States & Canada · 89 elsewhere in the world.
+**276 open roles.** 187 in the United States & Canada · 89 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>U.S. Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae2c2ba5-d6a9-468b-bf27-9d6082238011">Data Science Analyst</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480312036/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Flourish Research</strong></td>
 <td><a href="https://trueinterview.io/jobs/7d04d4a1-9995-4433-adae-d33f831f0b3a">QC &amp; Data Analyst</a></td>
@@ -1332,10 +1339,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Client First Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/4ca9e309-70f7-4223-9824-d8bc34972f56">Program/Data Analyst</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=08706f2e682107b9">Apply</a></td>
+<td><strong>Talent</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a32d02b-63d2-4f2c-ab1b-b86fb7cd4c10">Data Test Analyst</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474296138/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

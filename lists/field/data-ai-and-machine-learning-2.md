@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**1,430 open roles.** 842 in the United States & Canada · 588 elsewhere in the world.
+**1,438 open roles.** 849 in the United States & Canada · 589 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tyson Foods</strong></td>
+<td><a href="https://trueinterview.io/jobs/e466d66b-6d5c-4fc3-a143-010268afd4d7">Data Engineer I (Onsite)</a></td>
+<td>Springdale, AR</td>
+<td align="center"><a href="https://tysonfoods.wd5.myworkdayjobs.com/en-US/TSN/job/Tyson-Emma---Springdale-Arkansas/Data-Engineer-I---Onsite-_R0492784-2">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/347eca95-4023-4aac-9847-87e4477c4135">Data Analyst : Reports &amp; Insights</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484713469/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/284fd740-e6df-46fc-a632-7bb991f4407a">Data Analyst, Measurement &amp; Insights - Remote</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484709612/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Consumer Cellular, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/055c9b2e-59e6-48ad-9ffa-cd9202d13ffe">Data Privacy Analyst</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482539661/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d80463c-352e-4b5d-84f2-034a088f05c4">Machine Learning Scientist, AI</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484716129/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rivago Infotech Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebe85e7c-8def-405a-b6dd-2fcef22f9e2c">Data Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482530950/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infosys</strong></td>
+<td><a href="https://trueinterview.io/jobs/a15e45bd-f415-4e03-a12e-0ed5a6b1cfac">ETL Testing Consultant</a></td>
+<td>Richardson, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482544435/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>EY</strong></td>
 <td><a href="https://trueinterview.io/jobs/f04176aa-4768-4af7-acd5-9ee80d4ef47b">Government and Infrastructure - AI and Data Analyst - Top Secret Clearance</a></td>
@@ -2765,55 +2814,6 @@
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44631698">Apply</a></td>
 <td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>XPENG</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d8bd974-ceeb-427e-af10-a805789a4187">2027 Career Fair Full-Time Position</a></td>
-<td>Santa Clara, CA<br/>SV Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xpengmotors/jobs/8811971002">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rhombus Power, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e236fe0-cdcc-46de-8c11-30149d9898b6">Data Scientist (Secret/Top Secret), Washington D.C.</a></td>
-<td>Washington, DC<br/>Washington, District of Columbia, United States<br/>Washington, D.C.</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rhombuspower/jobs/8002928003">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Avathon</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc4db54e-b278-4e40-b794-ac3b23584091">Associate AI Engineer, Physical AI</a></td>
-<td>Pleasanton, California, United States<br/>Pleasanton, CA (HQ)</td>
-<td align="center"><a href="https://avathon.com/company/careers-job-listing/?gh_jid=4736834005">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Adobe</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a2cf7dc-76ee-4d45-a583-8587948ca218">2027 University Graduate - AI Forward Deployed Engineer</a></td>
-<td>San Francisco, California, United States of America<br/>San Jose, California, United States of America</td>
-<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Canopy</strong></td>
-<td><a href="https://trueinterview.io/jobs/c8d34a13-a669-4a98-bd26-b4e24b38bd1e">ERP Data Analyst</a></td>
-<td>Irvine, CA</td>
-<td align="center"><a href="https://jobs.lever.co/canopy-ad/75a649de-0cf5-48d9-94c3-b26c4f63ecdf/apply">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Bloomberg</strong></td>
-<td><a href="https://trueinterview.io/jobs/06a8680e-3e47-4946-83cc-21c79981fbab">Video Analytics - Contract</a></td>
-<td>New York, NY<br/>New York, New York, United States of America</td>
-<td align="center"><a href="https://bloomberg.avature.net/careers/JobDetail/Video-Analytics-Contract/21572">Apply</a></td>
-<td align="center">20 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Campfire</strong></td>
-<td><a href="https://trueinterview.io/jobs/4728a757-6f00-427b-8719-0d9a47af4fe4">Data Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/campfire/2b30b7a1-3649-40e5-804a-ea07bfc94318/application">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 </tbody>
 </table>

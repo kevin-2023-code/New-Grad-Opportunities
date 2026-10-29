@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**395 open roles.** 204 in the United States & Canada · 191 elsewhere in the world.
+**396 open roles.** 205 in the United States & Canada · 191 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>U.S. Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef092e9e-8142-4dab-883d-5d4f5a33f82d">Software Engineer 1 – Full-stack, Generative AI, Cloud</a></td>
+<td>Charlotte, NC<br/>Brookfield, WI<br/>Hopkins, MN<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479745461/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Kaleidoscope Innovation</strong></td>
 <td><a href="https://trueinterview.io/jobs/17daa446-46bf-4b8d-9300-a46c69cfde4a">AI Engineer</a></td>

@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**165 open roles.** 103 in the United States & Canada · 62 elsewhere in the world.
+**168 open roles.** 105 in the United States & Canada · 63 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Arc Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea93a131-b643-4c28-955a-40c2fb643ca0">Postdoctoral Researcher, ML for Biology, Hsu Lab</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4413807714/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Starcom Canada</strong></td>
 <td><a href="https://trueinterview.io/jobs/4595ffaa-fb58-4148-bf1d-c3e5a17b2da6">Coordinator, Applied Data Science &amp; Machine Learning</a></td>
@@ -225,6 +232,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ece579bd-c2cc-4199-9f69-810c4586e495">Machine Learning Engineer - Enterprise</a></td>
 <td>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4300547073/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SambaNova</strong></td>
+<td><a href="https://trueinterview.io/jobs/9bb7d715-af3b-454e-9d2f-1b0201feb3e3">ML Infrastructure Engineer - New Grad</a></td>
+<td>Austin, TX<br/>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484256265/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -750,6 +764,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Compare the Market</strong></td>
+<td><a href="https://trueinterview.io/jobs/888c3768-e9df-46b8-a483-7794b1ef7520">Machine Learning Engineer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484990130/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>ARCA</strong></td>
 <td><a href="https://trueinterview.io/jobs/f4e90ac1-1fa1-4af9-8df2-e08fe45418dc">Electric Machine Design Engineer</a></td>

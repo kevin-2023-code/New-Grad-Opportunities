@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**1,430 open roles.** 842 in the United States & Canada · 588 elsewhere in the world.
+**1,438 open roles.** 849 in the United States & Canada · 589 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>XPENG</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d8bd974-ceeb-427e-af10-a805789a4187">2027 Career Fair Full-Time Position</a></td>
+<td>Santa Clara, CA<br/>SV Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xpengmotors/jobs/8811971002">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Rhombus Power, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e236fe0-cdcc-46de-8c11-30149d9898b6">Data Scientist (Secret/Top Secret), Washington D.C.</a></td>
+<td>Washington, DC<br/>Washington, District of Columbia, United States<br/>Washington, D.C.</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rhombuspower/jobs/8002928003">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Avathon</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc4db54e-b278-4e40-b794-ac3b23584091">Associate AI Engineer, Physical AI</a></td>
+<td>Pleasanton, California, United States<br/>Pleasanton, CA (HQ)</td>
+<td align="center"><a href="https://avathon.com/company/careers-job-listing/?gh_jid=4736834005">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Adobe</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a2cf7dc-76ee-4d45-a583-8587948ca218">2027 University Graduate - AI Forward Deployed Engineer</a></td>
+<td>San Francisco, California, United States of America<br/>San Jose, California, United States of America</td>
+<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Canopy</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8d34a13-a669-4a98-bd26-b4e24b38bd1e">ERP Data Analyst</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://jobs.lever.co/canopy-ad/75a649de-0cf5-48d9-94c3-b26c4f63ecdf/apply">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Bloomberg</strong></td>
+<td><a href="https://trueinterview.io/jobs/06a8680e-3e47-4946-83cc-21c79981fbab">Video Analytics - Contract</a></td>
+<td>New York, NY<br/>New York, New York, United States of America</td>
+<td align="center"><a href="https://bloomberg.avature.net/careers/JobDetail/Video-Analytics-Contract/21572">Apply</a></td>
+<td align="center">20 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Campfire</strong></td>
+<td><a href="https://trueinterview.io/jobs/4728a757-6f00-427b-8719-0d9a47af4fe4">Data Engineer</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/campfire/2b30b7a1-3649-40e5-804a-ea07bfc94318/application">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>DRW</strong></td>
 <td><a href="https://trueinterview.io/jobs/7f11abc0-479c-43b8-9a5e-3948c186ecba">Data Analyst, Stewardship</a> 🌐</td>
@@ -329,17 +378,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Compare the Market</strong></td>
+<td><a href="https://trueinterview.io/jobs/888c3768-e9df-46b8-a483-7794b1ef7520">Machine Learning Engineer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484990130/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Talent</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a32d02b-63d2-4f2c-ab1b-b86fb7cd4c10">Data Test Analyst</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474296138/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/3cd803e3-b84b-4f87-8fbd-7db4ec8fb28e">Cloud &amp; AI Engineer</a></td>
 <td>Bengaluru, Karnataka, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477128525/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Client First Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/4ca9e309-70f7-4223-9824-d8bc34972f56">Program/Data Analyst</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=08706f2e682107b9">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2769,62 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/30ab5283-7a97-41b9-b5e0-4660cf29c2ed">Machine Learning Engineer</a></td>
 <td>Toulouse, France</td>
 <td align="center"><a href="https://www.capgemini.com/fr-fr/jobs/208280-fr_FR+sap_btp">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CGI</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0441cfc-2a1c-4e34-9166-fe78fb84e509">Consultant(e) Data Analyst F/H</a></td>
-<td>Nantes, France</td>
-<td align="center"><a href="https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&amp;clid=21001&amp;JobID=J1026-2574&amp;BRID=1344351&amp;sbdid=936&amp;lang=2">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ClearRoute</strong></td>
-<td><a href="https://trueinterview.io/jobs/916d0915-d5ea-4d36-be7e-e5d54ea06b0d">AI first DevSecOps Engineer</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://clearroute.teamtailor.com/jobs/8632722-ai-first-devsecops-engineer">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CNP ASSURANCES</strong></td>
-<td><a href="https://trueinterview.io/jobs/5935c124-b2ec-4fd1-a324-0aaaf36c2ac1">DATA SCIENTIST - REFERENT IA H/F</a></td>
-<td>Issy-les-Moulineaux, France</td>
-<td align="center"><a href="https://cnp-recrute.talent-soft.com/offre-de-emploi/emploi-data-scientist-referent-ia-h-f_7729.aspx">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cohesie</strong></td>
-<td><a href="https://trueinterview.io/jobs/f55e148a-bb11-4846-802a-d443bbde85f9">Data analist/scientist – Raf | Noord- en Midden-Limburg | 32-36 uur per week</a></td>
-<td>Netherlands</td>
-<td align="center"><a href="https://www.cohesie.org/vacature?tx_news_pi1%5Baction%5D=detail&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Bnews%5D=7095&amp;cHash=238b2584c1329a0042430b134a3fc381">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Department for Culture, Media and Sport</strong></td>
-<td><a href="https://trueinterview.io/jobs/8ed5b329-108a-48b1-8579-13e2c762e8fa">Data Engineer</a></td>
-<td>Westminster, United Kingdom</td>
-<td align="center"><a href="https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=c2VhcmNocGFnZT00NyZqb2JsaXN0X3ZpZXdfdmFjPTIwMTkyMDImb3duZXI9NTA3MDAwMCZvd25lcnR5cGU9ZmFpciZzZWFyY2hzb3J0PWNsb3NpbmcmdXNlcnNlYXJjaGNvbnRleHQ9MjE3NDc4MjkyJnBhZ2VjbGFzcz1Kb2JzJnBhZ2VhY3Rpb249dmlld3ZhY2J5am9ibGlzdCZyZXFzaWc9MTc5MzE4ODg1Ni0xYmRlYWQ5OGYwN2IxMjlmZDUxODkzZDQ3NzgwMzlmNzcxMmNlMmEz">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DNA AI TECHNOLOGIES PTE. LTD.</strong></td>
-<td><a href="https://trueinterview.io/jobs/f7649d6b-c59a-49a4-b767-838027e00a64">Data Engineer</a></td>
-<td>Outram, Singapore</td>
-<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/81955367a673fba53209b4ca4c502cb7">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>East and North Hertfordshire NHS Trust</strong></td>
-<td><a href="https://trueinterview.io/jobs/0d03104b-3412-4f99-ad43-5317b36e5277">Renal Network, East of England Business Intelligence Developer</a></td>
-<td>Stevenage, United Kingdom</td>
-<td align="center"><a href="https://www.enherts-tr.nhs.uk/careers/vacancies">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ekcgroup</strong></td>
-<td><a href="https://trueinterview.io/jobs/0d6fd317-50ff-44f9-8600-9bda4d914d5f">AI and Automation Engineer</a></td>
-<td>Broadstairs, United Kingdom</td>
-<td align="center"><a href="https://ekcgroupweb.eploy.net/vacancies/4925/ai-and-automation-engineer.html">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

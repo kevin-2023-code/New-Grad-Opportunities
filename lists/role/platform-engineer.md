@@ -2,7 +2,7 @@
 
 # Platform Engineer
 
-**125 open roles.** 52 in the United States & Canada · 73 elsewhere in the world.
+**126 open roles.** 53 in the United States & Canada · 73 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -130,7 +130,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Sabel Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/c90486c3-3a09-43a0-a0ab-2d2315527cf3">Platform Engineer</a></td>
+<td>Beavercreek, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484003319/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
 <td><a href="https://trueinterview.io/jobs/58437693-cb13-4828-951c-bb47ee57a8a7">Illumio Zero Trust Platform Engineer</a></td>
 <td>Washington, DC<br/>Norfolk, VA<br/>Reston, VA<br/>+1 more</td>
 <td align="center"><a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Reston-VA/Illumio-Zero-Trust-Platform-Engineer_R0252547">Apply</a></td>

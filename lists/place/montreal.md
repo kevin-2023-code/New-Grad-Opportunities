@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**41 open roles.**
+**42 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Genpact</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d42afa7-d4a4-40ca-8851-b1df9c09fe3f">Java Software Engineer</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472980453/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Plusgrade</strong></td>
 <td><a href="https://trueinterview.io/jobs/dc9f8efd-eed8-4c38-a08b-9a66fd8ad577">Software Developer</a></td>

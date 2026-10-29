@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**176 open roles.** 110 in the United States & Canada · 66 elsewhere in the world. Postings the pipeline classified as remote.
+**175 open roles.** 110 in the United States & Canada · 65 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -799,13 +799,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Client First Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/4ca9e309-70f7-4223-9824-d8bc34972f56">Program/Data Analyst</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=08706f2e682107b9">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Mani India Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/f9f1b450-bac9-4a3e-9f23-01a526842c75">Fresher BA/QA</a> 🌐</td>

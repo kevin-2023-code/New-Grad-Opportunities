@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**131 open roles.** 101 in the United States & Canada · 30 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**132 open roles.** 102 in the United States & Canada · 30 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>RobCo</strong></td>
+<td><a href="https://trueinterview.io/jobs/2322b649-33fd-4278-a27d-0a03366334fc">Robotics Support Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473779837/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/0d835329-6c2c-45f7-93f1-ad2783689212">Cellular Protocol Development Engineer</a></td>

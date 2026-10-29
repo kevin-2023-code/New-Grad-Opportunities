@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**5,012 open roles.** 2,811 in the United States & Canada · 2,201 elsewhere in the world.
+**5,033 open roles.** 2,830 in the United States & Canada · 2,203 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,7 +18,154 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Finnova</strong></td>
+<td><a href="https://trueinterview.io/jobs/f640ea7a-c7da-402c-875d-18b2f3144e24">Data &amp; AI Platform Engineer (all) 60 - 100%</a></td>
+<td>Lenzburg, Switzerland</td>
+<td align="center"><a href="https://jobs.finnova.com/offene-stellen/data-ai-platform-engineer-all/88133122-0aaa-4d7c-83ea-acb498ba153a">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hykmann Global Business Solutions AB</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae3f13ca-3aa3-4b4a-8c5e-5cdf7fc7cdf6">Seniora DevSecOps-specialister Platform Engineering, Kubernetes &amp; CI/CD</a></td>
+<td>Göteborg, Sweden</td>
+<td align="center"><a href="https://arbetsformedlingen.se/platsbanken/annonser/31652713">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>I-MED Radiology Network</strong></td>
+<td><a href="https://trueinterview.io/jobs/afb7aa63-4db8-47b7-8df1-748894dc6bd8">Software Engineer</a></td>
+<td>Australia</td>
+<td align="center"><a href="https://ekac.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/1007359">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>infinite Computer Solution</strong></td>
+<td><a href="https://trueinterview.io/jobs/7dc8d180-f499-4cdd-9b71-ff9396ed48fc">AI Platform Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/5451fb59d5c46d2d18cbec84c85fe9d6">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>King Search</strong></td>
+<td><a href="https://trueinterview.io/jobs/181e9988-9bae-49c2-821b-36e0996c12cb">Full Stack Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/45031caf7cd2ed224bb4061d616b6a0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>knowmad mood</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb209405-5af5-4c75-a812-59bf4a872f83">Java Software Engineer (Híbrido 1 día San Cugat, Barcelona)</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://knowmadmood.teamtailor.com/jobs/8626522-java-software-engineer-hibrido-1-dia-san-cugat-barcelona">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kran Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3c9f4ca-6d33-447d-9186-9e4e9061fbba">Software Engineer Trainee</a></td>
+<td>India</td>
+<td align="center"><a href="https://kran.co.in/jobOverview?val=177">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kyndryl</strong></td>
+<td><a href="https://trueinterview.io/jobs/26e0d32e-b9c5-41ef-8963-24383800d1f0">Automation Engineer</a></td>
+<td>India</td>
+<td align="center"><a href="https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Bangalore-Karnataka-India/Automation-Engineer_R-69919-1">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Macquarie Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2ea4581-738c-4273-9d89-95f2675d174a">Full Stack Developer, Python / React / Typescript</a> 🌐</td>
+<td>Remote — United Kingdom</td>
+<td align="center"><a href="https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=24609">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mears Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/4888a913-0afb-4c39-9a62-fd5b692fb94a">Planner/Works Programmer</a></td>
+<td>Leeds, United Kingdom</td>
+<td align="center"><a href="https://www.mearsgroup.co.uk/careers/find-a-job/planner-works-programmer-req0039835/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Metro Trains Melbourne</strong></td>
+<td><a href="https://trueinterview.io/jobs/56c737fa-b124-49b0-a4fd-8579ed77c71e">Software Engineer</a></td>
+<td>Melbourne, Australia</td>
+<td align="center"><a href="https://www.metrotrains.com.au/job-search/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Msg</strong></td>
+<td><a href="https://trueinterview.io/jobs/4326bdb8-e861-4b29-a22e-00f1a39ba44d">Front End Developer</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.msg-global.com/job/Bangalore-Front-End-Developer-KA/1451581333/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/975305ab-8801-43da-9ae1-1b8bdbf8276f">Full Stack developer</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.msg-global.com/job/Bangalore-Full-Stack-developer-KA/1451582233/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>mydentist (UK)</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe5aeb1e-4929-4cfc-b25b-41bef18971bd">Software Developer</a></td>
+<td>Radcliffe, United Kingdom</td>
+<td align="center"><a href="https://mydentist.wd103.myworkdayjobs.com/External/job/Europa-House-Stoneclough-Road/Software-Developer_JR15923">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Network Box Corp Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/73376e44-1141-4292-8aed-f369e61a738f">IT Security Engineer (5 days shift work)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://www.recruit.com.hk/job-detail/network-box-corp-ltd/it-security-engineer-5-days-shift-work/L060873718">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NEWBRIDGE ALLIANCE PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/989031bb-d44b-41e4-a02c-68e660e522c9">AI Mobile Application Developer (iOS / Android / Cross-Platform)</a></td>
+<td>Tanjong Pagar, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/586092938adde85077e3d3572df02f4c">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Newcastle Building Society</strong></td>
+<td><a href="https://trueinterview.io/jobs/9bf328e6-d66f-449a-9a21-cb741ed0469f">Software Developer (.NET), Family Leave Cover</a></td>
+<td>Newcastle upon Tyne, United Kingdom</td>
+<td align="center"><a href="https://newcastle.wd3.myworkdayjobs.com/en-US/NBSCareers/details/Cobalt-Business-Park-Newcastle-Upon-Tyne/Software-Developer--NET---Family-Leave-Cover_JR1010">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Newmont Mining</strong></td>
+<td><a href="https://trueinterview.io/jobs/b75e8a1c-45e6-4804-b5a9-3413cdd82905">Engineer, Mechanical Reliability</a></td>
+<td>Tanami, Australia</td>
+<td align="center"><a href="https://jobs.newmont.com/us/en/job/NMCNMCUS44285EXTERNALENUS/Engineer-Mechanical-Reliability">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>NTT DATA</strong></td>
+<td><a href="https://trueinterview.io/jobs/e20871a4-6039-4d20-9902-620c4032e9da">AV Engineer -L1</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.nttdata.com/global/en/job/NTT1GLOBALR151723EXTERNALENGLOBAL/AV-Engineer-L1">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e0fe1e00-e169-40ac-8a28-c1ce6263de1e">DevOps Engineer</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.nttdata.com/global/en/job/392967">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a9c04e1c-34d4-4baf-accc-ca5405413572">M/LOps Engineer</a></td>
+<td>Perth, Australia</td>
+<td align="center"><a href="https://apply.recruitwizard.app/j8TSP4rXgUo?showdetails=true">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/43243cad-fe79-4dd5-93ed-6bd7db666832">Networking Managed Services Engineer (L2)</a></td>
 <td>India</td>
 <td align="center"><a href="https://careers.nttdata.com/global/en/job/NTT1GLOBALR149718EXTERNALENGLOBAL/Networking-Managed-Services-Engineer-L2">Apply</a></td>

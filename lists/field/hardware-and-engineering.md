@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,048 open roles.** 725 in the United States & Canada · 323 elsewhere in the world.
+**1,055 open roles.** 732 in the United States & Canada · 323 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IMEG</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ddb48b7-5e90-497b-8c5b-41cd86879cb9">Electrical Engineering New Graduate Designer | Raleigh, NC</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472811637/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/81cd762d-4d0c-4af8-9857-1b620c83a9c3">Mechanical Engineering New Graduate | Atlanta, GA</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474618559/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f3e834c8-7d10-45b4-b3af-9e666169e56d">Electrical Engineering Designer | Boston, MA</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472858480/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c2c4f49f-bd12-4f45-9e63-cc6442b8bbb6">Mechanical Engineering New Graduate | Charlotte, NC</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474632039/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SCS Engineers</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a6f785f-ff7a-4e29-86d0-300250f7284b">Entry-Level Civil or Environmental Engineer</a></td>
+<td>Fort Worth, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484254559/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Neogen Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/bda7f427-2479-42e9-82bc-74f0d992e5af">Manufacturing Engineer I</a></td>
+<td>Lexington, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478493689/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dexter Magnetic Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/38709d14-651c-43ef-839c-94fbce152f4d">Supplier Quality Engineer</a></td>
+<td>Elk Grove Village, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457376657/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Amentum</strong></td>
 <td><a href="https://trueinterview.io/jobs/74b276ec-0354-4d5c-9fc3-a03e61c1fce7">Early Career Specialty Mechanical Engineer</a></td>
@@ -2768,55 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5846bc96-ea48-456a-a5a4-a9abf9105a37">Process Engineer</a></td>
 <td>Bowling Green, KY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4448659232/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SR2</strong></td>
-<td><a href="https://trueinterview.io/jobs/caac40f0-417d-42f5-8dbf-306da917d796">Electrical Engineer</a></td>
-<td>San Francisco Bay Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481469653/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Heads Up Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/426951ba-8f78-4764-8962-142431431b94">Mechanical Engineer</a></td>
-<td>Addison, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475128376/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TVH</strong></td>
-<td><a href="https://trueinterview.io/jobs/1209e6de-c9e5-40e4-b267-ac58f473fbbb">Electrical Engineer</a></td>
-<td>Grayslake, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467775124/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Astrion</strong></td>
-<td><a href="https://trueinterview.io/jobs/44e7bdfe-4839-4eb8-9c4e-f1c8a0be971f">Early Career Spaceflight Hardware Propulsion Engineer</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475116151/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Kimley-Horn</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c6de5be-3d2a-4a8c-82e5-1c54211ee71b">Civil Engineering Analyst - Land Development</a></td>
-<td>Fort Worth, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466597870/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Garver</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f7cce8c-cce9-401f-b53f-6d77791bd523">Electrical Engineer in Training (EIT)</a></td>
-<td>Del City, OK</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467420776/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>The Haskell Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/59ad51dd-1ff3-4959-ac6e-d79335aacbab">Entry-Level Civil Engineer - Site Design</a></td>
-<td>Salt Lake City, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465249747/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

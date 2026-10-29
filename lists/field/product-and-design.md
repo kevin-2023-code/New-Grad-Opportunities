@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**314 open roles.** 145 in the United States & Canada · 169 elsewhere in the world.
+**315 open roles.** 146 in the United States & Canada · 169 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>U.S. Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/85be9d39-624e-43a0-a1b3-1456f959996f">nCino/Moody's Product Designer</a></td>
+<td>Atlanta, GA<br/>Chicago, IL<br/>Denver, CO<br/>+7 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479254166/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>AutoZone</strong></td>
 <td><a href="https://trueinterview.io/jobs/bc7ed35d-368c-440d-a708-00f9de278d10">Product Owner Digital - B2C Search</a></td>

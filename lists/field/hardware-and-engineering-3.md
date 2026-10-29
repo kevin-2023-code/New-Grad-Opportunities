@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,048 open roles.** 725 in the United States & Canada · 323 elsewhere in the world.
+**1,055 open roles.** 732 in the United States & Canada · 323 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,55 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Thales</strong></td>
+<td><a href="https://trueinterview.io/jobs/3858a02f-6806-4430-b2ef-fe1c8a52ee03">Manufacturing Engineer</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477141807/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Prefix.dev</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b22da8c-8f90-415f-b52d-25fbeae4f392">Robotics Engineer</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478443679/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NDX Human Capital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/31bdad60-02b3-4ed3-9206-b616ac668a95">Mechanical Engineer</a></td>
+<td>Appleton-Oshkosh-Neenah Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484953211/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Connexus</strong></td>
+<td><a href="https://trueinterview.io/jobs/92a088cd-1a1d-46a6-a59b-4c91f7754856">Mechanical Engineer</a></td>
+<td>London Area, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484956389/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Matchtech</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c240dfb-e062-4e66-924a-8323378ee945">Structural Engineer</a></td>
+<td>Bristol, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484941892/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/5068c746-b9fe-4d53-a3c9-6dd91fcf5eab">Colo Electrical Engineer, Colocation Regional Engineering</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484958282/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SII Germany</strong></td>
+<td><a href="https://trueinterview.io/jobs/25a6c7a6-823d-41f6-acc4-d7c46c707966">Hardware Engineer (m/w/x) Defence Systems</a></td>
+<td>Ditzingen, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484955128/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Planqc</strong></td>
 <td><a href="https://trueinterview.io/jobs/20825396-2f3b-453b-a8eb-a59001dd44d5">Quantum Hardware Engineer - Optical Systems</a></td>

@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**201 open roles.** 124 in the United States & Canada · 77 elsewhere in the world.
+**202 open roles.** 125 in the United States & Canada · 77 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -858,6 +858,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Artful Home</strong></td>
+<td><a href="https://trueinterview.io/jobs/2328d801-4ba1-40d0-9cc1-53aca0a850db">Technology Operations Specialist (Helpdesk, QA &amp; Analytics)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://secure7.saashr.com/ta/6216066.careers?ShowJob=638051660">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Relativity Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/30e30e09-e6ce-485a-81e6-eed3ad0dac43">Software Development Engineer in Test I</a></td>
 <td>Long Beach, California, United States, LB - Wormhole HQ (CA)</td>
@@ -897,6 +904,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>McNally Recruitment Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/76c16773-b84b-481a-a3fc-760d63028c96">Test Automation Specialist</a></td>
+<td>Edinburgh, Scotland, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481766975/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cognizant</strong></td>
 <td><a href="https://trueinterview.io/jobs/f06edc54-26ea-434a-8381-dff3fd1f1c66">AI-Augmented SDET in Airlines PSS</a></td>
@@ -1294,13 +1308,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/64ce05d7-5043-4213-870c-531510cb8eba">Quality Assurance Officer</a></td>
 <td>Uithoorn, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482520369/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Klipboard</strong></td>
-<td><a href="https://trueinterview.io/jobs/4ecb4154-c97c-4750-90e8-805d675dd4d9">Test Automation Engineer</a></td>
-<td>Nottingham, United Kingdom<br/>Hungerford, England, United Kingdom<br/>Tankersley, United Kingdom</td>
-<td align="center"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d8eedab5-d750-47d2-ba1f-8bfec4820a1f&amp;ccId=19000101_000001&amp;jobId=576144&amp;lang=en_US">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

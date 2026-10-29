@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**46 open roles.** 33 in the United States & Canada · 13 elsewhere in the world. Early-stage technology companies.
+**47 open roles.** 34 in the United States & Canada · 13 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>RobCo</strong></td>
+<td><a href="https://trueinterview.io/jobs/2322b649-33fd-4278-a27d-0a03366334fc">Robotics Support Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473779837/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Otter.ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/7eeba7dc-a676-4dc8-9a77-82e882d6f645">Software Engineer, Front-End (New Grad)</a></td>

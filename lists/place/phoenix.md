@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**90 open roles.** 89 in the United States & Canada · 1 elsewhere in the world.
+**91 open roles.** 90 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -484,6 +484,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0592cb4b-7cc9-4d5b-a98a-e5483c0dd0bb">Site Engineer I</a></td>
 <td>Phoenix, AZ</td>
 <td align="center"><a href="https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9019/?mode=location">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Moveras</strong></td>
+<td><a href="https://trueinterview.io/jobs/87137e6e-4692-412a-b28c-46c439eadbf6">Tech Support Representative</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://phx.us-west.paycomonline.net/v4/ats/web.php/portal/A6E30B38C2E263102372636C923C823F/jobs/46808">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

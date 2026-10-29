@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**1,180 open roles.** 732 in the United States & Canada · 448 elsewhere in the world.
+**1,186 open roles.** 737 in the United States & Canada · 449 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Jacobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/fb5f86ca-0f5f-4fdc-a690-91dc7bc5a3c9">Entry Level Software Engineer</a></td>
+<td>Nashua, NH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458531029/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Spatial Front, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/17a64c4a-13ba-4c10-a400-8c3f566cbeb8">Associate Software Developer — Recent Graduates</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4438972097/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Galent</strong></td>
+<td><a href="https://trueinterview.io/jobs/10783091-feec-4360-9de8-006fcb1a4429">Oracle PL/SQL Developer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482520720/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Porter &amp; Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/39462a50-24d5-426f-8171-0e2712ad9775">Software Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484487243/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kratos Defense and Security Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/3909cac1-1208-4f38-9494-ddc749f8122f">Software Engineer</a></td>
+<td>Annapolis, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4391395341/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>CloudIngest</strong></td>
 <td><a href="https://trueinterview.io/jobs/f755ac45-c065-44fe-ae95-b40ae7ecd37f">Software Developer (.Net &amp; Power Platform) (W2 Only)</a></td>
@@ -2415,6 +2450,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Visa</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c39c326-a3e4-437a-a79a-af872aa997b1">Software Engineer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485232020/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Roche</strong></td>
 <td><a href="https://trueinterview.io/jobs/3c758235-a616-4ad3-92fd-9faa10be3c2e">Developer Advocate</a></td>
 <td>Hyderabad, Telangana, India</td>
@@ -2783,48 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/43138980-4264-4439-9999-9876c7f89625">.NET Developer - Burton-in-Kendal</a></td>
 <td>Burton-In-Kendal, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484962439/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/13324967-fb46-42e3-ba6d-bcdd56508ee2">.NET Developer - Manchester</a></td>
-<td>Manchester Area, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484949992/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>F5</strong></td>
-<td><a href="https://trueinterview.io/jobs/331f7dd2-31ae-41ff-ab46-866c131f6f93">Software Engineer Apprentice</a></td>
-<td>Hyderabad, Telangana, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484947429/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Reperio Human Capital</strong></td>
-<td><a href="https://trueinterview.io/jobs/9f84a15e-69e7-44cb-8f6c-9d3257b47108">ERP Developer</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484956622/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wren Kitchens</strong></td>
-<td><a href="https://trueinterview.io/jobs/08529244-c2ca-4268-8f86-96cda821a53e">Trade Business Developer</a></td>
-<td>Bristol, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476767477/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NTT DATA North America</strong></td>
-<td><a href="https://trueinterview.io/jobs/f2a17034-cdc6-4e5a-bd47-4f3d5127814b">Z2_Python Developer</a></td>
-<td>Bangalore Urban, Karnataka, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476797991/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Learnlight</strong></td>
-<td><a href="https://trueinterview.io/jobs/fdd8179c-af51-4359-adf7-43aa865f75dd">Business Central Developer (Remote)</a></td>
-<td>India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484960339/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

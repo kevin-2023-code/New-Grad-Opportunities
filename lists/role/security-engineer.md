@@ -298,6 +298,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Per Scholas</strong></td>
+<td><a href="https://trueinterview.io/jobs/49458d5f-7163-4e60-8ae8-ea93f60542bf">Instructional Assistant (IT Support)</a></td>
+<td>Los Angeles, CA<br/>Cincinnati, OH<br/>Remote</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465250535/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Alignerr</strong></td>
 <td><a href="https://trueinterview.io/jobs/41c30c6b-2017-45a2-92dd-6d0b3719ad6a">AI Red Team Penetration Tester</a></td>
 <td>Toronto, Ontario, Canada</td>
@@ -652,13 +659,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9e61e734-87da-40c0-96c6-41977c4ccc70">Security Engineer</a></td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467961135/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Per Scholas</strong></td>
-<td><a href="https://trueinterview.io/jobs/49458d5f-7163-4e60-8ae8-ea93f60542bf">Instructional Assistant (Cybersecurity)</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465250535/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

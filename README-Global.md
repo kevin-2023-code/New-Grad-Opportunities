@@ -18,15 +18,15 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-29 22:14 UTC_
+_Last updated: 2026-10-29 23:13 UTC_
 
-**3,474 open new-grad roles** from **2,070 employers** · **3,222 posted in the last 7 days** · refreshed hourly
+**3,479 open new-grad roles** from **2,074 employers** · **3,227 posted in the last 7 days** · refreshed hourly
 
-### Browse 3,474 new-grad roles by field
+### Browse 3,479 new-grad roles by field
 
-💻 **[Software Engineering](#-software-engineering)** (2,201)
+💻 **[Software Engineering](#-software-engineering)** (2,203)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (588)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (589)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (323)
 
@@ -34,7 +34,7 @@ _Last updated: 2026-10-29 22:14 UTC_
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (33)
 
-🧰 **[IT & Support](#-it--support)** (160)
+🧰 **[IT & Support](#-it--support)** (162)
 
 ---
 
@@ -42,7 +42,7 @@ _Last updated: 2026-10-29 22:14 UTC_
 
 **Micron Technology** 88 &nbsp;·&nbsp; **Rocken®** 52 &nbsp;·&nbsp; **Infineon Technologies** 26 &nbsp;·&nbsp; **Stantec** 25 &nbsp;·&nbsp; **UPS** 22 &nbsp;·&nbsp; **MediaTek** 21 &nbsp;·&nbsp; **Siemens** 19 &nbsp;·&nbsp; **TSMC** 19 &nbsp;·&nbsp; **Amazon Web Services (AWS)** 16 &nbsp;·&nbsp; **Looper Engineering** 16 &nbsp;·&nbsp; **Dosign** 15 &nbsp;·&nbsp; **HDI AG** 14
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 456 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 457 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -50,13 +50,13 @@ _Last updated: 2026-10-29 22:14 UTC_
 
 _Counts are new-grad roles in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (233)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (149)](lists/company/semiconductors.md) · [🧾 IT services & consulting (87)](lists/company/it-consulting.md) · [🏗️ Large tech (1,000–9,999) (51)](lists/company/large-tech.md) · [🏢 Enterprise & business software (38)](lists/company/enterprise-saas.md) · [🖥️ Hardware, devices & networking (30)](lists/company/hardware-devices.md) · [🛒 E-commerce & marketplaces (26)](lists/company/ecommerce-marketplace.md) · [🏦 Banks, insurers & asset managers (24)](lists/company/banking-finance.md) · [☁️ Developer tools, cloud & data infrastructure (24)](lists/company/dev-infra.md) · [💳 Fintech, payments & crypto (21)](lists/company/fintech.md) · [+14 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (233)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (149)](lists/company/semiconductors.md) · [🧾 IT services & consulting (87)](lists/company/it-consulting.md) · [🏗️ Large tech (1,000–9,999) (51)](lists/company/large-tech.md) · [🏢 Enterprise & business software (38)](lists/company/enterprise-saas.md) · [🖥️ Hardware, devices & networking (30)](lists/company/hardware-devices.md) · [🛒 E-commerce & marketplaces (26)](lists/company/ecommerce-marketplace.md) · [🏦 Banks, insurers & asset managers (25)](lists/company/banking-finance.md) · [☁️ Developer tools, cloud & data infrastructure (24)](lists/company/dev-infra.md) · [💳 Fintech, payments & crypto (21)](lists/company/fintech.md) · [+14 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (448)](lists/role/software-engineer.md) · [AI Engineer (191)](lists/role/ai-engineer.md) · [Data Engineer (151)](lists/role/data-engineer.md) · [Product Manager (114)](lists/role/product-manager.md) · [Security Engineer (96)](lists/role/security-engineer.md) · [Data Analyst (89)](lists/role/data-analyst.md) · [Full-Stack Engineer (89)](lists/role/full-stack-engineer.md) · [QA Engineer (77)](lists/role/qa-engineer.md) · [Data Scientist (75)](lists/role/data-scientist.md) · [Platform Engineer (73)](lists/role/platform-engineer.md) · [+12 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (449)](lists/role/software-engineer.md) · [AI Engineer (191)](lists/role/ai-engineer.md) · [Data Engineer (151)](lists/role/data-engineer.md) · [Product Manager (114)](lists/role/product-manager.md) · [Security Engineer (96)](lists/role/security-engineer.md) · [Data Analyst (89)](lists/role/data-analyst.md) · [Full-Stack Engineer (89)](lists/role/full-stack-engineer.md) · [QA Engineer (77)](lists/role/qa-engineer.md) · [Data Scientist (75)](lists/role/data-scientist.md) · [Platform Engineer (73)](lists/role/platform-engineer.md) · [+12 more →](lists/README.md)
 
-📍 **By location** — [🇬🇧 London & the UK (372)](lists/place/uk.md) · [🇸🇬 Singapore (272)](lists/place/singapore.md) · [🇮🇳 Bengaluru & India (234)](lists/place/india.md) · [🇳🇱 Amsterdam & the Benelux (185)](lists/place/benelux.md) · [🇩🇪 Berlin, Munich & Germany (184)](lists/place/germany.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (132)](lists/place/anz.md) · [🇨🇭 Zürich & Switzerland (114)](lists/place/switzerland.md) · [🇮🇪 Dublin & Ireland (102)](lists/place/ireland.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (54)](lists/place/greater-china.md) · [🇫🇷 Paris & France (52)](lists/place/france.md) · [+10 more →](lists/README.md)
+📍 **By location** — [🇬🇧 London & the UK (376)](lists/place/uk.md) · [🇸🇬 Singapore (272)](lists/place/singapore.md) · [🇮🇳 Bengaluru & India (234)](lists/place/india.md) · [🇳🇱 Amsterdam & the Benelux (185)](lists/place/benelux.md) · [🇩🇪 Berlin, Munich & Germany (184)](lists/place/germany.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (132)](lists/place/anz.md) · [🇨🇭 Zürich & Switzerland (114)](lists/place/switzerland.md) · [🇮🇪 Dublin & Ireland (102)](lists/place/ireland.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (54)](lists/place/greater-china.md) · [🇫🇷 Paris & France (52)](lists/place/france.md) · [+10 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (3,222)](lists/new-this-week.md) · [🌐 Remote (66)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (3,227)](lists/new-this-week.md) · [🌐 Remote (65)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -79,6 +79,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ATMOS Space Cargo</strong></td>
+<td><a href="https://trueinterview.io/jobs/14f3f182-430d-4e77-a7d1-ea48b736ae7d">Systems Engineer (m/f/d)</a> 🆕</td>
+<td>Greater Karlsruhe Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484104946/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>McNally Recruitment Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/76c16773-b84b-481a-a3fc-760d63028c96">Test Automation Specialist</a> 🆕</td>
+<td>Edinburgh, Scotland, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481766975/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/510f35a0-0711-45e8-bcee-9d44425c6e12">Application Developer-AWS Cloud FullStack</a> 🆕</td>
@@ -238,20 +252,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8343a5c8-2afa-4e09-a3ec-4d6fd773c31c">Linux System Software Engineer</a> 🆕</td>
 <td>Hsinchu County, Taiwan, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475730571/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Teledyne Qioptiq</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d039ba0-fc93-4971-b038-1eac54ec7999">Graduate Electronic Engineer</a> 🆕</td>
-<td>St Asaph, Wales, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481475849/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>WSP in the UK &amp; Ireland</strong></td>
-<td><a href="https://trueinterview.io/jobs/eea8a898-2c12-4dcb-8975-de5beeaaa1c5">Cable Systems Engineer - Scotland (Energy)</a> 🆕</td>
-<td>Edinburgh, Scotland, United Kingdom<br/>Inverness, Scotland, United Kingdom<br/>Glasgow, Scotland, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467969899/">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 </tbody>
@@ -501,7 +501,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/21a8dc71-391d-4d67-a715-425808174ec2">Jovem Aprendiz - Taboão da Serra</a></td>
 <td>Taboão da Serra</td>
 <td align="center"><a href="https://jobs.lever.co/despegar/5bfb3111-3ccc-4340-9727-f51c15c9f655/apply">Apply</a></td>
-<td align="center">29d</td>
+<td align="center">1mo</td>
 </tr>
 <tr>
 <td><strong>FIS Global</strong></td>
@@ -620,7 +620,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 75 of 2,201.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 2,203.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -639,17 +639,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">0d</td>
 </tr>
 <tr>
+<td><strong>Compare the Market</strong></td>
+<td><a href="https://trueinterview.io/jobs/888c3768-e9df-46b8-a483-7794b1ef7520">Machine Learning Engineer</a> 🆕</td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484990130/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Talent</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a32d02b-63d2-4f2c-ab1b-b86fb7cd4c10">Data Test Analyst</a> 🆕</td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474296138/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/3cd803e3-b84b-4f87-8fbd-7db4ec8fb28e">Cloud &amp; AI Engineer</a> 🆕</td>
 <td>Bengaluru, Karnataka, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477128525/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Client First Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/4ca9e309-70f7-4223-9824-d8bc34972f56">Program/Data Analyst</a> 🆕 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=08706f2e682107b9">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -797,13 +804,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/faf8e675-766e-4673-8da8-c59260ef183f">Product / AI Engineer</a> 🆕</td>
 <td>London Area, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484995316/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Linde</strong></td>
-<td><a href="https://trueinterview.io/jobs/b3f64304-090c-4438-8966-f840bf5d144e">Software Engineer - AI Hub</a> 🆕</td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468647570/">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 </tbody>
@@ -1172,7 +1172,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 75 of 588.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 75 of 589.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -1959,6 +1959,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>DeLaval</strong></td>
+<td><a href="https://trueinterview.io/jobs/9994410d-d1bd-4220-835b-3812fa1f9af2">Technical Support Specialist (Anwendungstechniker)(m/w/d)</a> 🆕</td>
+<td>Glinde, Schleswig-Holstein, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4420701156/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f9c11e37-e71a-4675-835b-3bed8f80c0df">Technical Support Specialist (m/w/d) South</a> 🆕</td>
+<td>Glinde, Schleswig-Holstein, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4420193445/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Natus Medical Incorporated</strong></td>
 <td><a href="https://trueinterview.io/jobs/119ab814-2d10-49dc-baf5-237608a73965">IT Systems &amp; Network Engineer (Field Service) (m/w/d)</a> 🆕</td>
 <td>Hamburg, Hamburg, Germany</td>
@@ -2117,20 +2131,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b692ca94-4041-4cc3-b65e-c5bb89bbd695">1st Line Service Desk Analyst</a> 🆕</td>
 <td>Rothley, England, United Kingdom<br/>Syston, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484946438/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Capita</strong></td>
-<td><a href="https://trueinterview.io/jobs/66f0d6c4-6efd-4e12-872d-fe32ea6214ad">Gas Technical support Officer</a> 🆕</td>
-<td>United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484954182/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>IMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/364b8087-d975-4a66-8c88-791257f1b924">IT Support Engineer</a> 🆕</td>
-<td>Lausanne, Vaud, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484925854/">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 </tbody>
@@ -2331,7 +2331,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 51 of 160.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
+**Showing 51 of 162.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
 
 <!-- LISTINGS:END -->
 

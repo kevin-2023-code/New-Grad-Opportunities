@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**317 open roles.** 166 in the United States & Canada · 151 elsewhere in the world.
+**320 open roles.** 169 in the United States & Canada · 151 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Aya Healthcare</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9b7307c-7ab7-427f-a9b1-719b447c405f">Data Engineer contract in Sacramento, CA - Make $3,562 - $3,717/week</a></td>
+<td>Sacramento, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478007707/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Navitus Health Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab55b85d-3414-4d07-8ef0-33ff66cb3e97">Business Intelligence Developer - Navitus</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465821830/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2c08fe59-cb9c-44bf-9377-a2a3748b266d">Specialist, Business Intelligence</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484224659/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cognizant</strong></td>
 <td><a href="https://trueinterview.io/jobs/ff9a5a59-ca34-4ae0-9dad-4119b35fadb4">Data Engineer (Snowflake, Azure Data Factory, Python &amp; SQL)</a></td>

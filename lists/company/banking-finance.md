@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**37 open roles.** 13 in the United States & Canada · 24 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**38 open roles.** 13 in the United States & Canada · 25 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -125,6 +125,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7a6eae68-0d7c-45bb-a360-cb0adcc8cb2f">Specialist, Product Management</a></td>
 <td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474481824/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Visa</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c39c326-a3e4-437a-a79a-af872aa997b1">Software Engineer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485232020/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

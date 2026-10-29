@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**265 open roles.**
+**266 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1534,6 +1534,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/eedc9be0-eb34-407a-aa25-0c77d4c0bdce">Technical Support Engineer, Federal</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Remote---District-Of-Columbia-United-States/Technical-Support-Engineer--Federal_R0149588">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lawelawe Technology Services Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ce70b52-989a-4080-84c7-486d905edcf7">IT Support</a></td>
+<td>Bethesda, MD</td>
+<td align="center"><a href="https://lawelawedefenseinc.applytojob.com/apply/kfi3KbECi4/IT-Service-Desk-Specialist-III?%7E=">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>

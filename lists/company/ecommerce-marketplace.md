@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**87 open roles.** 61 in the United States & Canada · 26 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**88 open roles.** 62 in the United States & Canada · 26 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b3fe0a5-a2fa-42ca-8902-8060e2fb665c">Software Privacy Engineer, Trust Platform &amp; Automation, Devices &amp; Services Trust, Privacy, and Accessibility (TPA)</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485226273/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f80a8a30-55bf-44e6-9d02-a50b9d9dbbf2">Software Development Engineer, Robotics Development and Packaging Innovation</a></td>
 <td>Bellevue, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467725470/">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**102 open roles.**
+**104 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BPM Microsystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/449e4dfb-7127-46ce-85d6-1f976aebe878">Software Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484131059/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>OakTree Staffing</strong></td>
 <td><a href="https://trueinterview.io/jobs/68e3ef83-25f0-4298-a460-99af3e3159e7">Project Engineer</a></td>
@@ -239,6 +246,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9a19abfa-4645-4664-8ac9-dcf06e5340d7">PI Developer</a></td>
 <td>The Woodlands, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484789672/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Providencia</strong></td>
+<td><a href="https://trueinterview.io/jobs/7395665a-c856-46f7-9f2e-f244168d98fe">IT Helpdesk Technician</a></td>
+<td>El Paso, TX</td>
+<td align="center"><a href="https://kmkp.wd1.myworkdayjobs.com/TPGCareers/job/El-Paso-TX/IT-Helpdesk-Technician_R-2600553">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

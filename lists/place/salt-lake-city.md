@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**31 open roles.**
+**32 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -78,6 +78,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dff7bb3b-f2f9-4acb-8e33-1ef11f118206">Wet Process Development Engineer</a></td>
 <td>Lehi, UT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4386220262/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CUBISCAN</strong></td>
+<td><a href="https://trueinterview.io/jobs/48658768-6b6b-4d40-95d8-306ed732ccb3">IT Help Desk Technician</a></td>
+<td>Ogden, UT</td>
+<td align="center"><a href="https://cubiscan.isolvedhire.com/jobs/1894378-576519.html">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

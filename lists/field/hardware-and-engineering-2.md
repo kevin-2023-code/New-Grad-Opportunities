@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,048 open roles.** 725 in the United States & Canada · 323 elsewhere in the world.
+**1,055 open roles.** 732 in the United States & Canada · 323 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SR2</strong></td>
+<td><a href="https://trueinterview.io/jobs/caac40f0-417d-42f5-8dbf-306da917d796">Electrical Engineer</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481469653/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Heads Up Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/426951ba-8f78-4764-8962-142431431b94">Mechanical Engineer</a></td>
+<td>Addison, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475128376/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TVH</strong></td>
+<td><a href="https://trueinterview.io/jobs/1209e6de-c9e5-40e4-b267-ac58f473fbbb">Electrical Engineer</a></td>
+<td>Grayslake, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467775124/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Astrion</strong></td>
+<td><a href="https://trueinterview.io/jobs/44e7bdfe-4839-4eb8-9c4e-f1c8a0be971f">Early Career Spaceflight Hardware Propulsion Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475116151/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kimley-Horn</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c6de5be-3d2a-4a8c-82e5-1c54211ee71b">Civil Engineering Analyst - Land Development</a></td>
+<td>Fort Worth, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466597870/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Garver</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f7cce8c-cce9-401f-b53f-6d77791bd523">Electrical Engineer in Training (EIT)</a></td>
+<td>Del City, OK</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467420776/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Haskell Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/59ad51dd-1ff3-4959-ac6e-d79335aacbab">Entry-Level Civil Engineer - Site Design</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465249747/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>General Motors</strong></td>
 <td><a href="https://trueinterview.io/jobs/dd9bb4c3-0d55-4f91-8af8-98290a5a82b3">Software Verification Engineer, AV Platform (Early Career)</a></td>
@@ -2776,55 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/62ccaf20-ccdc-499a-82c2-6dfa555091e1">Manufacturing Engineer</a></td>
 <td>Stoke-On-Trent, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484952651/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Thales</strong></td>
-<td><a href="https://trueinterview.io/jobs/3858a02f-6806-4430-b2ef-fe1c8a52ee03">Manufacturing Engineer</a></td>
-<td>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477141807/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Prefix.dev</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b22da8c-8f90-415f-b52d-25fbeae4f392">Robotics Engineer</a></td>
-<td>Berlin, Berlin, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478443679/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NDX Human Capital Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/31bdad60-02b3-4ed3-9206-b616ac668a95">Mechanical Engineer</a></td>
-<td>Appleton-Oshkosh-Neenah Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484953211/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Connexus</strong></td>
-<td><a href="https://trueinterview.io/jobs/92a088cd-1a1d-46a6-a59b-4c91f7754856">Mechanical Engineer</a></td>
-<td>London Area, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484956389/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Matchtech</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c240dfb-e062-4e66-924a-8323378ee945">Structural Engineer</a></td>
-<td>Bristol, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484941892/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/5068c746-b9fe-4d53-a3c9-6dd91fcf5eab">Colo Electrical Engineer, Colocation Regional Engineering</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484958282/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SII Germany</strong></td>
-<td><a href="https://trueinterview.io/jobs/25a6c7a6-823d-41f6-acc4-d7c46c707966">Hardware Engineer (m/w/x) Defence Systems</a></td>
-<td>Ditzingen, Baden-Württemberg, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484955128/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

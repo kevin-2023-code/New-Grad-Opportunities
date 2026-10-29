@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**167 open roles.**
+**170 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SCS Engineers</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a6f785f-ff7a-4e29-86d0-300250f7284b">Entry-Level Civil or Environmental Engineer</a></td>
+<td>Fort Worth, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484254559/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>U.S. Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/aed940a9-20d9-420c-a342-919033f0be0e">Software Engineer 1 - ServiceNow - Financial Service Operations</a></td>
+<td>Irving, TX<br/>Charlotte, NC<br/>Cincinnati, OH<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982640/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ef092e9e-8142-4dab-883d-5d4f5a33f82d">Software Engineer 1 – Full-stack, Generative AI, Cloud</a></td>
+<td>Irving, TX<br/>Charlotte, NC<br/>Brookfield, WI<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479745461/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Compello Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/03554f21-3c57-4932-9568-9fafb25b3a5d">Regional IT Support Technician</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.indeed.com/viewjob?jk=679df0f288d7d701">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Kiewit</strong></td>
 <td><a href="https://trueinterview.io/jobs/95cbab8c-5101-48b2-8b8a-7c178e66f640">Field/Office Engineer - (Heavy Civil) - South Central District (Entry-Level)</a></td>
@@ -99,13 +127,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ed08129c-9c0f-492e-b89c-dc20e27bd544">Desktop Support Technician</a></td>
 <td>Dallas, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4214080384/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>U.S. Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/aed940a9-20d9-420c-a342-919033f0be0e">Software Engineer 1 - ServiceNow - Financial Service Operations</a></td>
-<td>Irving, TX<br/>Charlotte, NC<br/>Cincinnati, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484982640/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

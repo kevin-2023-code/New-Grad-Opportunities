@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**79 open roles.** 44 in the United States & Canada · 35 elsewhere in the world.
+**80 open roles.** 45 in the United States & Canada · 35 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bitovi</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6d27fd6-8011-4833-95c2-70a0c97ef96b">Backend Developer Consultant (GraphQL &amp; Kafka)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479134586/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Trinity Cyber</strong></td>
 <td><a href="https://trueinterview.io/jobs/02cb9f91-848f-4e10-8101-cd8a5496c18c">Back End Developer</a></td>

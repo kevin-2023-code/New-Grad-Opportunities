@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**1,430 open roles.** 842 in the United States & Canada · 588 elsewhere in the world.
+**1,438 open roles.** 849 in the United States & Canada · 589 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,62 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CGI</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0441cfc-2a1c-4e34-9166-fe78fb84e509">Consultant(e) Data Analyst F/H</a></td>
+<td>Nantes, France</td>
+<td align="center"><a href="https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&amp;clid=21001&amp;JobID=J1026-2574&amp;BRID=1344351&amp;sbdid=936&amp;lang=2">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ClearRoute</strong></td>
+<td><a href="https://trueinterview.io/jobs/916d0915-d5ea-4d36-be7e-e5d54ea06b0d">AI first DevSecOps Engineer</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://clearroute.teamtailor.com/jobs/8632722-ai-first-devsecops-engineer">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CNP ASSURANCES</strong></td>
+<td><a href="https://trueinterview.io/jobs/5935c124-b2ec-4fd1-a324-0aaaf36c2ac1">DATA SCIENTIST - REFERENT IA H/F</a></td>
+<td>Issy-les-Moulineaux, France</td>
+<td align="center"><a href="https://cnp-recrute.talent-soft.com/offre-de-emploi/emploi-data-scientist-referent-ia-h-f_7729.aspx">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cohesie</strong></td>
+<td><a href="https://trueinterview.io/jobs/f55e148a-bb11-4846-802a-d443bbde85f9">Data analist/scientist – Raf | Noord- en Midden-Limburg | 32-36 uur per week</a></td>
+<td>Netherlands</td>
+<td align="center"><a href="https://www.cohesie.org/vacature?tx_news_pi1%5Baction%5D=detail&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Bnews%5D=7095&amp;cHash=238b2584c1329a0042430b134a3fc381">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Department for Culture, Media and Sport</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ed5b329-108a-48b1-8579-13e2c762e8fa">Data Engineer</a></td>
+<td>Westminster, United Kingdom</td>
+<td align="center"><a href="https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=c2VhcmNocGFnZT00NyZqb2JsaXN0X3ZpZXdfdmFjPTIwMTkyMDImb3duZXI9NTA3MDAwMCZvd25lcnR5cGU9ZmFpciZzZWFyY2hzb3J0PWNsb3NpbmcmdXNlcnNlYXJjaGNvbnRleHQ9MjE3NDc4MjkyJnBhZ2VjbGFzcz1Kb2JzJnBhZ2VhY3Rpb249dmlld3ZhY2J5am9ibGlzdCZyZXFzaWc9MTc5MzE4ODg1Ni0xYmRlYWQ5OGYwN2IxMjlmZDUxODkzZDQ3NzgwMzlmNzcxMmNlMmEz">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DNA AI TECHNOLOGIES PTE. LTD.</strong></td>
+<td><a href="https://trueinterview.io/jobs/f7649d6b-c59a-49a4-b767-838027e00a64">Data Engineer</a></td>
+<td>Outram, Singapore</td>
+<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/81955367a673fba53209b4ca4c502cb7">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>East and North Hertfordshire NHS Trust</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d03104b-3412-4f99-ad43-5317b36e5277">Renal Network, East of England Business Intelligence Developer</a></td>
+<td>Stevenage, United Kingdom</td>
+<td align="center"><a href="https://www.enherts-tr.nhs.uk/careers/vacancies">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ekcgroup</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d6fd317-50ff-44f9-8600-9bda4d914d5f">AI and Automation Engineer</a></td>
+<td>Broadstairs, United Kingdom</td>
+<td align="center"><a href="https://ekcgroupweb.eploy.net/vacancies/4925/ai-and-automation-engineer.html">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Elfonze Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/9a12f567-34d8-4371-8d2c-e7ed0e751844">Data Engineer</a></td>

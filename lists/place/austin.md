@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**147 open roles.** 146 in the United States & Canada · 1 elsewhere in the world.
+**149 open roles.** 148 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>RobCo</strong></td>
+<td><a href="https://trueinterview.io/jobs/2322b649-33fd-4278-a27d-0a03366334fc">Robotics Support Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473779837/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/50b7b61e-2022-4cf9-830e-88759593e8a9">Digital Mixed Signal Design and Modeling Engineer</a></td>
@@ -375,6 +382,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>SambaNova</strong></td>
+<td><a href="https://trueinterview.io/jobs/9bb7d715-af3b-454e-9d2f-1b0201feb3e3">ML Infrastructure Engineer - New Grad</a></td>
+<td>Austin, TX<br/>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484256265/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Subcritical Systems Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/09912743-38bd-4b92-89b1-096b1af3acf7">AI Operations Engineer</a></td>
 <td>Austin, TX</td>
@@ -463,13 +477,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/86c0bbfc-d7bc-4ca4-9c78-01f012266481">Physical Design Methodology CAD Engineer</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States<br/>Cupertino, California, United States<br/>+1 more</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692170">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SambaNova</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a3de43c-e8a9-477b-aabe-b9b3106478fe">Compiler Engineer - New Grad</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484258210/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -799,6 +806,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1a2551ab-b163-4900-baf9-349e3b934f46">Full Stack Web Application Developer</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4614565/HOUSEMAX-FUNDING/Full-Stack-Web-Application-Developer">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Scale Computing</strong></td>
+<td><a href="https://trueinterview.io/jobs/c737eec3-d1b1-471e-be4f-2ace5d0a359a">NOC Analyst</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4615932/Scale-Computing-INC/NOC-Analyst">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>
