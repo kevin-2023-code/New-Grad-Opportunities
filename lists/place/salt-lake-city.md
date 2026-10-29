@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**23 open roles.**
+**24 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Torus</strong></td>
-<td><a href="https://trueinterview.io/jobs/7459d523-9290-49f0-afde-cd35fff8554b">Electrical Engineering Technician</a></td>
-<td>Salt Lake City, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484742188/">Apply</a></td>
+<td><strong>HEICO</strong></td>
+<td><a href="https://trueinterview.io/jobs/0126514d-4558-477f-a1e2-b37bf0bce2b2">Engineer</a></td>
+<td>Provo, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484751641/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/38a654f8-2a02-4052-9290-5fae10260a4e">Electrical Engineer</a></td>
+<td>Provo, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484761325/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

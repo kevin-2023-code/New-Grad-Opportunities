@@ -2,7 +2,7 @@
 
 # 🌍 Dubai, Cairo, Lagos & Africa
 
-**14 open roles.** 1 in the United States & Canada · 13 elsewhere in the world.
+**13 open roles.** 1 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -62,13 +62,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ef73d787-dc9f-445c-b4ed-785bb51f3aba">QA/QC Engineer</a></td>
 <td>Abu Dhabi, UAE</td>
 <td align="center"><a href="https://careers.atkinsrealis.com/en/jobs/qa-qc-engineer-r-167056">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/52303e7f-ca1a-49df-ab52-f45513ace08b">Sustainability Engineer</a></td>
-<td>Abu Dhabi, UAE</td>
-<td align="center"><a href="https://careers.atkinsrealis.com/en/jobs/sustainability-engineer-r-167058">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
