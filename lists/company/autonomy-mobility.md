@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**52 open roles.** 51 in the United States & Canada · 1 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**50 open roles.** 49 in the United States & Canada · 1 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc7afaf8-dc1d-4bf4-88f9-044497946aa1">Mechatronics Engineer - Closures</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/e6a4bbe1-20ab-4f1f-af07-f06fabedeabd/apply">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Tesla</strong></td>
 <td><a href="https://trueinterview.io/jobs/d1445d85-2f30-4960-99de-3c03806394ef">Fullstack Software Engineer, SI Infrastructure</a></td>
@@ -39,14 +46,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Zoox</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc7afaf8-dc1d-4bf4-88f9-044497946aa1">Mechatronics Engineer - Closures</a></td>
-<td>Foster City, CA</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/e6a4bbe1-20ab-4f1f-af07-f06fabedeabd/apply">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/64b38490-23eb-4b62-a993-27873a39d57e">Field Reliability Engineer, Powertrain</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484740105/">Apply</a></td>
@@ -208,27 +208,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/741cc10b-1784-41cb-a762-2c54af79685e">Data Scientist, Long-Term Forecast Analytics</a></td>
-<td>Dearborn, MI</td>
-<td align="center"><a href="https://www.careers.ford.com/en/job/dearborn/data-scientist-long-term-forecast-analytics/48560/102557622624">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e31b545a-5e9f-4c75-85b7-e3aa5d14bdbb">Embedded Software Developer</a></td>
 <td>Ottawa, ON<br/>Ottawa, Canada</td>
 <td align="center"><a href="https://www.careers.ford.com/en/job/ottawa/embedded-software-developer/48560/102552826192">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/0da5e734-def7-47c6-8c9c-5fd8855e81bb">Software Engineer</a></td>
-<td>Fremont, CA</td>
-<td align="center"><a href="https://www.tesla.com/careers/search/job/287805">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e139d6c4-4e76-48c3-aa17-24c91f6b55ba">ADAS Core Hardware Engineer</a></td>
 <td>Dearborn, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4439574245/">Apply</a></td>

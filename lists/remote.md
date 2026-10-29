@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**134 open roles.** 85 in the United States & Canada · 49 elsewhere in the world. Postings the pipeline classified as remote.
+**125 open roles.** 81 in the United States & Canada · 44 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -46,10 +46,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Cambridge Mobile Telematics</strong></td>
-<td><a href="https://trueinterview.io/jobs/767a7521-48c0-41df-99f6-f05c5630a62a">Software Engineer, Cloud</a> 🌐</td>
-<td>Remote — United States, United Kingdom</td>
-<td align="center"><a href="https://grnh.se/hog4qjw81us">Apply</a></td>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/49e677fe-5b4b-4f49-8b50-7514ba030091">Electrical Engineer, Data Centers - Remote (U.S.)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000158404348-electrical-engineer-data-centers-remote-u-s-">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Red River Technology Center</strong></td>
+<td><a href="https://trueinterview.io/jobs/53365ef0-b798-495d-bfeb-daeb260ae291">Data Engineer (ELK)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://redriver.rec.pro.ukg.net/RED1507RDRIV/JobBoard/66584047-1f18-48fb-b1b7-b5760ba35dfd/OpportunityDetail?opportunityId=97e41c69-d6c8-4428-9626-fff8c9e770b1&amp;postingId=58523220-1782-43f0-a3d2-92515df61e3e">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -67,27 +74,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Network Wireless Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/bfc82ad2-622e-4b34-b3a5-1666405b5ea7">Frontend Developer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://nwsnext.isolvedhire.com/jobs/1893744-391302.html">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BigBear.ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/0fd1206e-3248-403c-ac71-4a5bc4fd677f">Full Stack Developer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://careers.bigbear.ai/jobs/4602/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BV Teck</strong></td>
-<td><a href="https://trueinterview.io/jobs/119d9271-8b88-4ca8-a120-0a377d11ec01">ML Performance Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://brightvisiontechnologies.applytojob.com/apply/r8DmeQNERw/ML-Performance-Engineer?%7E=">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/53ba98ae-bbf2-4f27-aa33-4a432c61463c">Solutions Engineer, APO - Bay Area</a> 🌐</td>
 <td>Remote — United States</td>
@@ -102,31 +88,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Leap Tools Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/bef9fd73-43f6-4003-95bb-f378e971e6ea">Software Developer, ERP</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://jobs.gem.com/leap-tools/am9icG9zdDpc4_c69uAiwHCYBlV2aPiu">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MRI Software</strong></td>
-<td><a href="https://trueinterview.io/jobs/c2709101-db03-4f9c-8728-3fb6bddc184c">Product Owner, Client &amp; Digital Support</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://mrisoftware.wd501.myworkdayjobs.com/en-US/External_CareerSite/job/Canada-Remote/Product-Owner--Client---Digital-Support_R-109630">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SMX</strong></td>
-<td><a href="https://trueinterview.io/jobs/475126f3-dcaa-4d99-bb91-4da65724878b">Cleared AI/ML Engineer (5785)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://grnh.se/p4bg4ja53us">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Syms Strategic Group, LLC (SSG)</strong></td>
 <td><a href="https://trueinterview.io/jobs/d3137efe-5f09-4243-b965-689e2719efaf">Software Developer in Test (SDET)</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://symsstrategicgroup.applytojob.com/apply/esoE0xZdnr/Software-Developer-In-Test-SDET?%7E=">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vituity</strong></td>
+<td><a href="https://trueinterview.io/jobs/531d6930-2e6a-4ce5-80dd-87c3cc7efa09">Software Engineer I - Remote - Nationwide</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers.vituity.com/job/260003GP">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -657,41 +629,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5ab376aa-9f6c-485c-a138-b29b9a93cafd">SAC Front-End / UX Developer</a> 🌐</td>
 <td>Remote — India</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/FusionConsulting/744000158229278-sac-front-end-ux-developer">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BV Teck</strong></td>
-<td><a href="https://trueinterview.io/jobs/a35906dd-48ac-4f2e-b6a3-05849e49bb7a">Edge AI Engineer</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://brightvisiontechnologies.applytojob.com/apply/4YwuAzTiMk/Edge-AI-Engineer?%7E=">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ClearCaptions, LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc5356f0-d076-443a-aed6-dc71bdb208ee">Software Developer (100% Remote)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/clearcaptions/CANDIDATEPORTAL/jobs/10358">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Heidi</strong></td>
-<td><a href="https://trueinterview.io/jobs/68f7e4e9-a495-4ea4-a920-5d47cd7c87c8">Clinical AI Engineer</a> 🌐</td>
-<td>Remote — Australia</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/heidihealth.com.au/5af3bbb5-1ad6-4d33-96fe-c4c0c5f84676">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NiCE</strong></td>
-<td><a href="https://trueinterview.io/jobs/b923adc3-cafb-4b0b-bf63-81e53b325844">Specialist Data Scientist, Actimize</a> 🌐</td>
-<td>Remote — India</td>
-<td align="center"><a href="https://boards.eu.greenhouse.io/nice/jobs/5012246101?gh_jid=5012246101">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NTT DATA</strong></td>
-<td><a href="https://trueinterview.io/jobs/803281bf-5db1-4f99-b2bb-f99112964123">Data Centre Remote Field Service Engineer (L2)</a> 🌐</td>
-<td>Remote — India</td>
-<td align="center"><a href="https://careers.nttdata.com/global/en/job/NTT1GLOBALR150734EXTERNALENGLOBAL/Data-Centre-Remote-Field-Service-Engineer-L2">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

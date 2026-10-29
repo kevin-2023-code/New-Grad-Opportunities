@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**91 open roles.**
+**88 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,17 +18,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Alignerr</strong></td>
-<td><a href="https://trueinterview.io/jobs/62ca2752-6d4b-4ad1-bd93-fd8c877ee878">Back End Developer (AI Infrastructure)</a></td>
-<td>Boston, MA<br/>Atlanta, GA<br/>Denver, CO<br/>+19 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484790425/">Apply</a></td>
+<td><strong>BioSpace</strong></td>
+<td><a href="https://trueinterview.io/jobs/15ac7e3a-27db-4a85-a4b9-96258e603eb9">Validation Engineer</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484915219/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Evlo AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/0bd9e28f-fdc1-4f77-bb4d-e0653db6a2fa">Business Data Analyst</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483685404/">Apply</a></td>
+<td><strong>Actalent</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef14cd1b-4e91-4a0b-bb82-45f0fb175e5d">Rf Engineer</a></td>
+<td>Woburn, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484742515/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3cbc81df-b68b-4e02-b01f-10cf87bdbde3">Test And Validation Engineer</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484901104/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -67,13 +74,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Cambridge Mobile Telematics</strong></td>
-<td><a href="https://trueinterview.io/jobs/767a7521-48c0-41df-99f6-f05c5630a62a">Software Engineer, Cloud</a> 🌐</td>
-<td>Remote — United States, United Kingdom<br/>Cambridge, MA</td>
-<td align="center"><a href="https://grnh.se/hog4qjw81us">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>American Family Insurance</strong></td>
 <td><a href="https://trueinterview.io/jobs/325c84fe-83f4-4cc4-bd85-c142b1c3009b">Software Engineer (Hybrid)</a></td>
 <td>Boston, MA<br/>Madison, WI</td>
@@ -99,13 +99,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/36d25989-b38e-41db-8dc9-aba82b302c38">Mechanical Engineer</a></td>
 <td>Bedford, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484753427/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Actalent</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef14cd1b-4e91-4a0b-bb82-45f0fb175e5d">RF Engineer</a></td>
-<td>Woburn, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484742515/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -263,13 +256,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>MIT Lincoln Laboratory</strong></td>
-<td><a href="https://trueinterview.io/jobs/68fce11d-bc03-49f5-a61f-6315fc422550">Cybersecurity Research Scientist / Engineer: Secure Systems</a></td>
-<td>Lexington, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474511052/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Cohere</strong></td>
 <td><a href="https://trueinterview.io/jobs/fb673cc4-31e9-4390-bdfd-837f6c562202">Product Security Engineer, North Security</a></td>
 <td>Boston, MA<br/>Seattle, WA<br/>Ottawa, Ontario, Canada<br/>+6 more</td>
@@ -421,13 +407,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e7a8f0de-4a96-4da9-a1d3-463b2e3db448">Realtime Software Engineer</a></td>
 <td>Waltham, MA</td>
 <td align="center"><a href="https://grnh.se/xa79vsoh7us">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cambridge Associates</strong></td>
-<td><a href="https://trueinterview.io/jobs/b579e306-6c49-4729-bf87-70f954887ffa">Desktop Support Analyst</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://cambridgeassociates.wd5.myworkdayjobs.com/en-US/Cambridge_Associates/job/Boston/Desktop-Support-Analyst_JR0000453-1">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

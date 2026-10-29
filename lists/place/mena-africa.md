@@ -2,7 +2,7 @@
 
 # 🌍 Dubai, Cairo, Lagos & Africa
 
-**13 open roles.** 1 in the United States & Canada · 12 elsewhere in the world.
+**10 open roles.** 1 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,13 +51,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>IRTH</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c0844ed-759c-433a-bb76-56cea65b94d3">Cost Control Engineer - Aluminium &amp; Glass</a></td>
-<td>Dubai, UAE</td>
-<td align="center"><a href="https://apply.workable.com/j/EF3E781E8A">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>AtkinsRéalis</strong></td>
 <td><a href="https://trueinterview.io/jobs/ef73d787-dc9f-445c-b4ed-785bb51f3aba">QA/QC Engineer</a></td>
 <td>Abu Dhabi, UAE</td>
@@ -69,20 +62,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/33d561c2-f1d4-49ef-b929-a5d7a987a821">Aftersales Engineer</a></td>
 <td>Dubai, UAE</td>
 <td align="center"><a href="https://careers.bydeurope.com/jobs/8627738-aftersales-engineer">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Parsons</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd52fd0a-511e-4467-bbf2-5c38b6b46b3b">Land Surveyor - Infrastructure</a></td>
-<td>Dubai, UAE</td>
-<td align="center"><a href="https://jobs.parsons.com/jobs/land-surveyor-infrastructure-r-187893-jobs--construction-management-supervision--">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Production Resource Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/c8e856b6-2815-4375-961d-b0f8cc77912f">Lighting Engineer (Live Events | Middle East)</a></td>
-<td>Dubai, UAE</td>
-<td align="center"><a href="https://careers-prginternational.icims.com/jobs/6058/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**19 open roles.**
+**17 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,13 +19,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Alignerr</strong></td>
-<td><a href="https://trueinterview.io/jobs/62ca2752-6d4b-4ad1-bd93-fd8c877ee878">Back End Developer (AI Infrastructure)</a></td>
-<td>Calgary, Alberta, Canada<br/>Atlanta, GA<br/>Denver, CO<br/>+19 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484790425/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9661fba5-9bdb-41e7-b5a2-85bdaf082d42">Software Engineer (AI Training)</a></td>
 <td>Edmonton, Alberta, Canada<br/>Calgary, Alberta, Canada<br/>Atlanta, GA<br/>+28 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484900008/">Apply</a></td>
@@ -92,13 +85,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fb673cc4-31e9-4390-bdfd-837f6c562202">Product Security Engineer, North Security</a></td>
 <td>Calgary, Alberta, Canada<br/>Seattle, WA<br/>Ottawa, Ontario, Canada<br/>+6 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475133269/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tourmaline Oil Corp</strong></td>
-<td><a href="https://trueinterview.io/jobs/c110e3d2-d182-4c7c-9ed7-1a69bc0d2612">Process Safety Engineer</a></td>
-<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483890521/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

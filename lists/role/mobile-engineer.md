@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**38 open roles.** 24 in the United States & Canada · 14 elsewhere in the world.
+**34 open roles.** 18 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,13 +18,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Evlo AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/aaad4eb7-7b32-4bb5-babb-8dc5ddf2af12">Mobile Engineer (iOS / Android)</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483675581/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Netrolynx AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/2bb21afe-0191-4aea-a5f4-b953ccb8ec26">IOS Developer</a></td>
 <td>United States</td>
@@ -37,20 +30,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>London Area, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484780734/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Netrolynx AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/34f712ad-560e-45c8-a192-90fadf6fb2ea">Mobile Developer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484753614/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/43705a9f-cc87-46c0-920c-6b94f06a921f">Mobile App Developer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484757558/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Cellebrite</strong></td>
@@ -71,20 +50,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/62471325-34ff-44bb-8ae4-1bb8e494581e">IOS Engineer</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484713195/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AgileGrid Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/2021c65d-9e82-404f-93e8-1942db074790">Flutter Mobile Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484482676/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ReachMobi</strong></td>
-<td><a href="https://trueinterview.io/jobs/83a8a49c-813d-4f17-bec4-4a34709217fe">Android Developer</a></td>
-<td>Bonita Springs, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483898203/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -127,13 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5e08c1b5-4f42-42b0-ae40-bda5df9c8847">Mobile Engineer</a></td>
 <td>Illinois, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482518298/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amtex Systems Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a2c6ca9-c09e-41f7-8d67-f478d7f731a7">Android Developer</a></td>
-<td>Lewiston, ME</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484236774/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -198,10 +156,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>SWITS DIGITAL Private Limited</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5f0a603-ec34-463a-9ff0-2afd0b885215">Android Kotlin</a></td>
-<td>Chennai, Tamil Nadu, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484900224/">Apply</a></td>
+<td><strong>Artic Building Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e8f7521-db5e-4a29-8aae-dd8f6f465ae7">Mobile Commercial Gas Engineer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484901561/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cambridge Maintenance Services Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d00889e-8e39-4483-b269-b68965380994">Mobile Electrical Engineer</a></td>
+<td>Luton, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484909367/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5ab96e4d-fbb2-4384-9be5-263e5748c26a">Mobile Mechanical Engineer</a></td>
+<td>Manchester, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484910399/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

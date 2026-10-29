@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**55 open roles.** 42 in the United States & Canada · 13 elsewhere in the world.
+**54 open roles.** 41 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Actalent</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2f96e60-3fef-4349-90d2-6453ff1f778f">Embedded Software Engineer</a></td>
+<td>Warner Robins, GA<br/>Chicago, IL<br/>Loveland, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484747310/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0ff937b3-8337-4d1a-a477-11f51412a982">Firmware Test Engineer</a></td>
 <td>Solon, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484793480/">Apply</a></td>
@@ -29,20 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e9e1ee08-2194-4cf2-aad1-2b8a9176b4d9">Embedded Application Software Engineer</a></td>
 <td>Kirkland, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484734990/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Capgemini</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca666bb6-1186-4eb6-9214-54f0a011414d">Autonomous Vehicle Embedded Software Engineer</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482551835/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Actalent</strong></td>
-<td><a href="https://trueinterview.io/jobs/d2f96e60-3fef-4349-90d2-6453ff1f778f">Embedded Software Engineer</a></td>
-<td>Warner Robins, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484747310/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**18 open roles.** 1 in the United States & Canada · 17 elsewhere in the world.
+**16 open roles.** 1 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -100,13 +100,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Lenovo</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf6ba715-7d69-4318-ad22-51dfddd96410">AI Platform Engineer (Generative &amp; Agentic AI)</a></td>
-<td>Warsaw, Mazowieckie, Poland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457494941/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>ALIOR BANK</strong></td>
 <td><a href="https://trueinterview.io/jobs/0f4ac380-48d2-4572-a110-47bba10f4b79">Cloud Engineer (K/M)</a></td>
 <td>Kraków, Poland</td>
@@ -132,13 +125,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/3e29da5b-abbe-4bd5-a356-fe9570a090e8">Cyber Security Engineer</a></td>
 <td>Warszawa, Poland</td>
 <td align="center"><a href="https://jobs.citi.com/job/warsaw/cyber-security-engineer/287/102509205488">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hapag-Lloyd AG</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf5d4964-3d2c-4ef7-a150-5fde8d07f8b7">RPA Developer Interim</a></td>
-<td>Gdańsk, Poland</td>
-<td align="center"><a href="https://www.hapag-lloyd.com/en/company/career/vacancies/jobsearch.html">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>

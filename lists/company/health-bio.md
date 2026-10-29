@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**10 open roles.** 8 in the United States & Canada · 2 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**9 open roles.** 7 in the United States & Canada · 2 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,13 +22,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d700a9a1-9a07-4d46-a4d6-a9616f1427f2">Implementation Technical Engineer</a></td>
 <td>Linden, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476370565/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e90438d7-e8f6-41ed-8224-0099bada2893">Site Reliability Engineer</a></td>
-<td>Linden, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465916486/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

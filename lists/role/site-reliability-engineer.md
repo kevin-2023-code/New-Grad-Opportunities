@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**45 open roles.** 25 in the United States & Canada · 20 elsewhere in the world.
+**38 open roles.** 20 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,31 +18,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Evlo AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/661969b4-8991-4415-9c84-5da5fb9b2ee1">Site Reliability Engineer</a></td>
-<td>Minneapolis, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483672729/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/b9cf5f65-4ba6-4e0b-91e9-763f05f6573d">Site Planning Engineer - Onsite in Chippewa Falls, WI</a></td>
-<td>Chippewa Falls, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484761664/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Galaxy</strong></td>
 <td><a href="https://trueinterview.io/jobs/95ed2922-2a11-4377-aa5a-5c7246791715">Site Reliability Engineer (Data Centers)</a></td>
 <td>Afton, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484753300/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Booz Allen Hamilton</strong></td>
-<td><a href="https://trueinterview.io/jobs/2d2b12f9-b7dc-4a7d-a3bb-3c229547d7f6">Site Reliability Engineer</a></td>
-<td>Aurora, CO<br/>Chantilly, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484760002/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -95,13 +74,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Solventum</strong></td>
-<td><a href="https://trueinterview.io/jobs/e90438d7-e8f6-41ed-8224-0099bada2893">Site Reliability Engineer</a></td>
-<td>Linden, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465916486/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Croda</strong></td>
 <td><a href="https://trueinterview.io/jobs/64fcee20-9a05-48dc-8209-993e901a9b24">Site IT Engineer</a></td>
 <td>New Castle, DE</td>
@@ -113,13 +85,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c9f7824a-f118-4fee-a2c3-3fb7efa4aeaf">SRE Engineer</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482521490/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cyberobotix</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec3c6a89-305d-443f-a6b9-86c7695593bd">SRE Leader</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483869979/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -158,10 +123,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Digital Realty</strong></td>
-<td><a href="https://trueinterview.io/jobs/0592cb4b-7cc9-4d5b-a98a-e5483c0dd0bb">Site Engineer I</a></td>
-<td>Phoenix, AZ</td>
-<td align="center"><a href="https://hdep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9019/?mode=location">Apply</a></td>
+<td><strong>Unisys</strong></td>
+<td><a href="https://trueinterview.io/jobs/db192f54-8b00-402e-92d9-95e54665baaf">On-Site Service Engineer – Data Center / Server Hardware</a></td>
+<td>Barstow, TX</td>
+<td align="center"><a href="https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Dell-OSE---Barstow-TX/On-Site-Service-Engineer---Data-Center---Server-Hardware_REQ576103">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -296,24 +261,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>株式会社ｓｐｏｎｔｏ</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ea67561-573f-4ae2-9e7e-16aa81e2d08a">SREエンジニア 監視基盤強化 自動化整備 SaaS</a></td>
-<td>—</td>
-<td align="center"><a href="https://arwrk.net/recruit/j0omcchfax4yrkx/13816803">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Government Digital Service</strong></td>
 <td><a href="https://trueinterview.io/jobs/33392b95-83b0-45ea-a310-f15c9b07aa06">Site Reliability Engineer</a></td>
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWFjdGlvbj12aWV3dmFjYnlqb2JsaXN0Jm93bmVydHlwZT1mYWlyJnVzZXJzZWFyY2hjb250ZXh0PTIxNzYxNzM4NSZzZWFyY2hzb3J0PWNsb3Npbmcmam9ibGlzdF92aWV3X3ZhYz0yMDE5MzA3JnNlYXJjaHBhZ2U9NDkmcGFnZWNsYXNzPUpvYnMmb3duZXI9NTA3MDAwMCZyZXFzaWc9MTc5MzIzMjA2Ny0xNzdkMmU4OGQxMjgxNjFlOWQ0NjA0YzVlMzM3MjA4NWRmYjAyMjYw">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NCR</strong></td>
-<td><a href="https://trueinterview.io/jobs/c61b0d12-8041-4d1d-9565-3fcba98add57">Site Reliability Engineer I</a></td>
-<td>India</td>
-<td align="center"><a href="https://ncr.wd1.myworkdayjobs.com/en-US/ext_apac/job/HYDERABAD-IND/Site-Reliability-Engineer-I_R0158946">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

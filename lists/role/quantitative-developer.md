@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**25 open roles.** 14 in the United States & Canada · 11 elsewhere in the world.
+**24 open roles.** 13 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -96,13 +96,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Goldman Sachs</strong></td>
-<td><a href="https://trueinterview.io/jobs/1040cf73-8048-4fc0-be75-6eaf8d24b415">Asset &amp; Wealth Management, QIS, Quantitative Equity Portfolio Construction Analyst - New York</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://higher.gs.com/roles/186423">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d5dedd95-80c0-4398-a1be-2ec780c0e649">Asset &amp; Wealth Management, QIS, Quantitative Liquid Alternatives Portfolio Construction Analyst - New York</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://higher.gs.com/roles/186424">Apply</a></td>

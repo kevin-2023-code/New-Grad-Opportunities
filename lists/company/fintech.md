@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**28 open roles.** 17 in the United States & Canada · 11 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**27 open roles.** 17 in the United States & Canada · 10 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -188,13 +188,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0dfdcd80-c922-4b67-bc95-051e71e16109">Software Engineer (Java)</a></td>
 <td>São José dos Campos, São Paulo, Brazil</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4277921483/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nickel</strong></td>
-<td><a href="https://trueinterview.io/jobs/c85ba4e0-5362-4aaa-aa98-89aa6e6675d0">Analytics Engineer F/H</a></td>
-<td>Charenton-le-Pont, France</td>
-<td align="center"><a href="https://nickel-jobs.my.salesforce-sites.com/postulateFr?id=a10Sm00000HmoryIAB">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

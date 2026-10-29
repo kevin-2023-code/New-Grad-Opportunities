@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**26 open roles.**
+**27 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cambia Health Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8c249e7-eca4-460a-ab0c-cc3b49969a50">Pharmacy Data Analyst I, II, or III</a></td>
+<td>Salt Lake City, UT<br/>Vancouver, BC<br/>Portland, OR<br/>+11 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481960865/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Paramify</strong></td>
 <td><a href="https://trueinterview.io/jobs/691a2544-ef31-4d2c-a9b3-54f988c4da67">Security Engineer</a></td>
@@ -81,13 +88,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bf698ead-b6f5-4ada-844c-462e48fb3c76">Electrical Engineer</a></td>
-<td>Salt Lake City, UT<br/>Arlington, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483878633/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Deseret Book Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/2228f1ae-3f7b-4d5e-a898-35742b8325ed">Full Stack Engineer</a></td>
 <td>Salt Lake City, UT</td>
@@ -144,17 +144,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Strong &amp; Hanni</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9ff6ae9-0d20-4838-bf66-a62ef03a232e">IT Systems Administrator</a></td>
-<td>Salt Lake City, UT</td>
-<td align="center"><a href="https://strongandhanni.isolvedhire.com/jobs/1893840-628336.html">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Western Governors University</strong></td>
 <td><a href="https://trueinterview.io/jobs/e0280c5c-a25f-4bf5-8eff-1cc12f545f25">Data Engineer</a></td>
 <td>Salt Lake City, UT</td>
 <td align="center"><a href="https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Data-Engineer_JR-026442">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wheeler Machinery Co</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b87beed-e12f-4d60-bdbe-84c968f22a69">Infrastructure Engineer I</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4622651/Wheeler-Machinery/Infrastructure-Engineer-I">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -169,6 +169,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ef4d72c8-a90d-4412-9828-fd148d84ce71">Finance Data Analyst (Manufacturing)</a></td>
 <td>Salt Lake City, UT</td>
 <td align="center"><a href="https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Salt-Lake-CityGrantsville-UT/Finance-Data-Analyst--Manufacturing-_J2467969">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JT4</strong></td>
+<td><a href="https://trueinterview.io/jobs/208578cf-6332-4566-9a39-f8bb68e4a677">Operations Test and Data Analyst</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://recruiting.adp.com/srccsh/public/RTI.home?r=5001234412100&amp;c=2168007&amp;d=External&amp;rb=INDEED&amp;idUnique=5001234412100">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**183 open roles.** 98 in the United States & Canada · 85 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**182 open roles.** 97 in the United States & Canada · 85 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -113,13 +113,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/df7c7cf1-f47b-418b-991f-c8355289e1ce">Equipment Engineer and Process Engineer - Veterans and Transitioning Military</a></td>
 <td>Manassas, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4410837357/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/8049cdb8-a061-42f7-8ff4-33de945d9f04">AI/ML Engineer</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790319187918">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
