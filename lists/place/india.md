@@ -2,7 +2,7 @@
 
 # 🇮🇳 Bengaluru & India
 
-**241 open roles.**
+**240 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1649,13 +1649,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>India - Hyderabad</td>
 <td align="center"><a href="https://jobs.lever.co/veeva/a89d4ff8-b50b-4e56-9b74-0823d2751c66/apply">Apply</a></td>
 <td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>ServiceNow</strong></td>
-<td><a href="https://trueinterview.io/jobs/88836bce-32fe-4254-addf-2d680c8803c1">Assoc Machine Learning Engineer</a></td>
-<td>Hyderabad, , India</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000152033408-assoc-machine-learning-engineer?oga=true">Apply</a></td>
-<td align="center">27 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>PwC</strong></td>
