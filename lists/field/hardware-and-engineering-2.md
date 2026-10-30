@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,078 open roles.** 748 in the United States & Canada · 330 elsewhere in the world.
+**1,082 open roles.** 749 in the United States & Canada · 333 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Comfort Systems USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc0ffce8-d48d-4bb9-b9ba-904b268011cf">Mechanical Engineer</a></td>
+<td>Fort Wayne, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4386823435/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>M2S Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e3cb220-e21d-4ebf-bae5-ae4260870a31">Technical Quality Engineer</a></td>
@@ -2464,10 +2471,17 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>SYOS Aerospace</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d5b03dd-288a-4e87-a2cf-86bd5d027fae">UAS Mechanical Engineer</a></td>
-<td>Fareham, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485275796/">Apply</a></td>
+<td><strong>ENGIE AU</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4955318-87f2-415f-9766-f5184b1dc5d3">Mechanical Engineer</a></td>
+<td>Southbank, Victoria, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485284010/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SCHOTT</strong></td>
+<td><a href="https://trueinterview.io/jobs/53a9083d-91be-48e2-9b0c-cc04a6818bee">ProzessexpertIn Global Semiconductor Value Chain (m/w/d)*</a></td>
+<td>Jena, Thuringia, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484813009/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -2811,20 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b2f79610-7abc-4f12-97c0-adf84b09ffe5">Structural/Mechanical Engineer I (Shell and Plate)</a></td>
 <td>Tulsa Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4440867608/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Stantec</strong></td>
-<td><a href="https://trueinterview.io/jobs/97f726c5-e810-4d34-aedb-4735d668a5c9">Graduate Electrical Engineer - Buildings - 2027 (Plymouth)</a></td>
-<td>Manchester, England, United Kingdom<br/>Leeds, England, United Kingdom<br/>Glasgow, Scotland, United Kingdom<br/>+3 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447914436/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Roche</strong></td>
-<td><a href="https://trueinterview.io/jobs/25fec1d0-1731-472c-afe2-5498ab4a2f14">Reliability Engineer Trainee - Attach &amp; Train program</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4404067524/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

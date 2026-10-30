@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**84 open roles.** 52 in the United States & Canada · 32 elsewhere in the world.
+**87 open roles.** 55 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tyler Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3693738-0487-4579-bef5-61cbdf3b6e92">Web Developer, Drupal</a></td>
+<td>Columbia, SC<br/>Frankfort, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484575861/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Illinois Department of Innovation &amp; Technology (DoIT)</strong></td>
 <td><a href="https://trueinterview.io/jobs/b7f42e30-1a43-4120-9567-e94843a20148">Web Developer / Information Systems Analyst I, Option W</a></td>
@@ -109,10 +116,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>California State Polytechnic University Pomona</strong></td>
+<td><a href="https://trueinterview.io/jobs/a88e84c3-d785-44b7-b45e-23fe78df6265">Web Developer I</a></td>
+<td>Pomona, CA</td>
+<td align="center"><a href="https://careers.cpp.edu/en-us/job/563413/web-developer-i">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Neuehealth</strong></td>
 <td><a href="https://trueinterview.io/jobs/4a0dd5d1-8b8d-4d47-8701-eff752e618f8">Frontend Software Engineer</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://grnh.se/s96hswij4us">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>State of Illinois</strong></td>
+<td><a href="https://trueinterview.io/jobs/5730f31d-1ef5-4e93-973b-863fd3fa54cf">Web Developer / Information Systems Analyst I, Option W</a></td>
+<td>Springfield, IL</td>
+<td align="center"><a href="https://illinois.jobs2web.com/job/Springfield-Web-Developer-Information-Systems-Analyst-I%2C-Option-W-IL-62703/1437439100/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

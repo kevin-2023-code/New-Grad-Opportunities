@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**259 open roles.**
+**266 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,45 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Anrok</strong></td>
+<td><a href="https://trueinterview.io/jobs/8295d3e2-38a3-41ad-8d71-907e9db3c5e2">Partner Solutions Engineer</a></td>
+<td>New York, NY<br/>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485279071/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e1d314a-a0a0-4bc1-bd2d-3f97507dfd6e">Software Development Engineer, Measurement, Ad Tech, and Data Science</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485260801/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hunter Bond</strong></td>
+<td><a href="https://trueinterview.io/jobs/df9177fc-c8be-4d44-84eb-b9cdf899666a">Data Analyst - Up to $200k USD + Bonus! - New York (Hybrid) - Trading Firm</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483093846/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Societe Generale</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a0c8940-7376-4262-811d-96277246915d">Fixed Income Electronic Trading- Programmer Analyst</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485253849/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>PointFive</strong></td>
 <td><a href="https://trueinterview.io/jobs/02e00aa9-7abb-4d6c-a1a7-ba9442020452">AI Engineer, Support Automation</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485256791/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Samsara</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7793539-ab76-446b-9b3c-46c2a005211e">ML/AI - Supply Chain</a></td>
+<td>New York, NY<br/>Washington, DC<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483090790/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -43,6 +78,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6f098d96-a08b-46f0-b277-a53ebcb405fb">Multimedia Designer, Amazon Delivery Experience (ADX)</a></td>
 <td>New York, NY<br/>Seattle, WA<br/>Nashville, TN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485223473/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Figma</strong></td>
+<td><a href="https://trueinterview.io/jobs/9df8493c-d55f-4946-8d07-84d3db69d31d">Designer Advocate, Payload</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484575402/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -421,6 +463,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9ddd7bcb-4df5-429d-b70b-affa608ec3b7">Software Engineer - YAML Experience</a></td>
 <td>New York, NY<br/>Canada<br/>Toronto, Ontario, Canada<br/>+5 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484792387/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Current</strong></td>
+<td><a href="https://trueinterview.io/jobs/92696a4b-961a-4b09-aaad-cba653e0267f">Software Engineer, iOS</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://current.com/careers/open-positions/?id=8077997&amp;gh_jid=8077997">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

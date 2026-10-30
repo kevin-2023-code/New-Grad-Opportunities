@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**203 open roles.** 126 in the United States & Canada · 77 elsewhere in the world.
+**204 open roles.** 127 in the United States & Canada · 77 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SLAS (Society for Laboratory Automation and Screening)</strong></td>
+<td><a href="https://trueinterview.io/jobs/ed94ee8a-1c2e-4fb3-a4ed-1ba7e02eb2e8">Test Automation Engineer</a></td>
+<td>Pleasanton, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484574888/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Gandiv Insights LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/65c3618d-fc8d-4c9b-a302-db5b8e24756e">QA Manual Tester – Data Validation - Dallas, TX - Onsite</a></td>

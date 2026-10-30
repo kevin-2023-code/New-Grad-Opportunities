@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**321 open roles.** 148 in the United States & Canada · 173 elsewhere in the world.
+**323 open roles.** 149 in the United States & Canada · 174 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6f098d96-a08b-46f0-b277-a53ebcb405fb">Multimedia Designer, Amazon Delivery Experience (ADX)</a></td>
 <td>Seattle, WA<br/>New York, NY<br/>Nashville, TN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485223473/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Figma</strong></td>
+<td><a href="https://trueinterview.io/jobs/9df8493c-d55f-4946-8d07-84d3db69d31d">Designer Advocate, Payload</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484575402/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1402,6 +1409,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>NEXT</strong></td>
+<td><a href="https://trueinterview.io/jobs/534a8d96-dc6c-4eea-ae47-f5d07318f5e7">Graphic Designer- 12 month FTC</a></td>
+<td>Leicester, United Kingdom</td>
+<td align="center"><a href="https://careers.next.co.uk/jobs/77983">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Australian Broadcasting Corporation (ABC)</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a268f05-fe3f-42d5-9a2d-0e70170f4e62">Product Designer | iview</a></td>
 <td>Brisbane, Queensland, Australia</td>
@@ -1635,7 +1649,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Pearson</strong></td>
 <td><a href="https://trueinterview.io/jobs/60457f08-f906-4fad-835d-faca969df692">Advanced Specialist, Product Management (Creative Curriculum)</a></td>
-<td>Manchester, England, United Kingdom<br/>London, England, United Kingdom<br/>Oxfordshire, England, United Kingdom<br/>+1 more</td>
+<td>Manchester, England, United Kingdom<br/>London, England, United Kingdom<br/>Oxfordshire, England, United Kingdom<br/>+2 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484103174/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>

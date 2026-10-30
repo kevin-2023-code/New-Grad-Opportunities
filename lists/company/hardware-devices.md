@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**141 open roles.** 109 in the United States & Canada · 32 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**142 open roles.** 110 in the United States & Canada · 32 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b0aa8a20-ee5e-4966-9adf-40f259c7b9ef">Silicon Validation Engineer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485251829/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Samsara</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7793539-ab76-446b-9b3c-46c2a005211e">ML/AI - Supply Chain</a></td>
+<td>Washington, DC<br/>San Francisco, CA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483090790/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

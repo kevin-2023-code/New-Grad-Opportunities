@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**275 open roles.**
+**276 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,13 +18,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Peraton</strong></td>
-<td><a href="https://trueinterview.io/jobs/feacd30f-3ad7-48d0-8ef1-472acba2fcd0">Systems Engineering (SETA) Advisor</a></td>
-<td>McLean, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484583956/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>ICF</strong></td>
 <td><a href="https://trueinterview.io/jobs/186060ee-a799-4a15-a9a1-6d77d99d90d2">ServiceNow Developer</a></td>
 <td>Reston, VA</td>
@@ -32,10 +25,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Johns Hopkins Applied Physics Laboratory</strong></td>
+<td><a href="https://trueinterview.io/jobs/83c59c05-ca04-4d8a-8925-5129753f0efc">2027 Graduate - Software Systems Engineer</a></td>
+<td>Laurel, Maryland, United States<br/>Laurel, MD</td>
+<td align="center"><a href="https://careers.jhuapl.edu/jobs/60601">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Peraton</strong></td>
+<td><a href="https://trueinterview.io/jobs/feacd30f-3ad7-48d0-8ef1-472acba2fcd0">Systems Engineering (SETA) Advisor</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484583956/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>General Dynamics Information Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/d1eb144e-025d-4bfc-9f53-3b3b6765da40">DSS PMD Systems Administrator</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485250847/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Samsara</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7793539-ab76-446b-9b3c-46c2a005211e">ML/AI - Supply Chain</a></td>
+<td>Washington, DC<br/>San Francisco, CA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483090790/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -57,13 +71,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/43d172b0-a5a6-4597-b071-cb7c816aa481">Full Stack Java Developer</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://www.indeed.com/viewjob?jk=4f3f453efe27381a">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Johns Hopkins Applied Physics Laboratory</strong></td>
-<td><a href="https://trueinterview.io/jobs/83c59c05-ca04-4d8a-8925-5129753f0efc">2027 Graduate - Software Systems Engineer</a></td>
-<td>Laurel, Maryland, United States</td>
-<td align="center"><a href="https://careers.jhuapl.edu/jobs/60601">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

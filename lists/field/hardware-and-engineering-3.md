@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,078 open roles.** 748 in the United States & Canada · 330 elsewhere in the world.
+**1,082 open roles.** 749 in the United States & Canada · 333 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Stantec</strong></td>
+<td><a href="https://trueinterview.io/jobs/97f726c5-e810-4d34-aedb-4735d668a5c9">Graduate Electrical Engineer - Buildings - 2027 (Plymouth)</a></td>
+<td>Manchester, England, United Kingdom<br/>Leeds, England, United Kingdom<br/>Glasgow, Scotland, United Kingdom<br/>+3 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447914436/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Roche</strong></td>
+<td><a href="https://trueinterview.io/jobs/25fec1d0-1731-472c-afe2-5498ab4a2f14">Reliability Engineer Trainee - Attach &amp; Train program</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4404067524/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Stantec</strong></td>
 <td><a href="https://trueinterview.io/jobs/fd605945-4beb-4c0d-9662-1d8c573db223">Graduate Civil Engineer - 2027 (ROI)</a></td>
@@ -771,6 +785,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/53389b12-5ec3-43f6-9891-814cc13c38ba">Hardware Test Automation Engineer (f/m/x)</a></td>
 <td>Cambridge, United Kingdom</td>
 <td align="center"><a href="https://sii.pl/oferty-pracy/id/38535/hardware-test-automation-engineer-fmx/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lotus UK Manufacturing</strong></td>
+<td><a href="https://trueinterview.io/jobs/150c4624-47e0-4689-9873-7d75d6db799c">Advanced Manufacturing Engineer – Body, Chassis &amp; Powertrain - 3 month contract</a></td>
+<td>Norwich, United Kingdom</td>
+<td align="center"><a href="https://uslot.lotuscars.com/jobs/8637637-advanced-manufacturing-engineer-body-chassis-powertrain-3-month-contract">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1772,6 +1793,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7760dee2-4a7f-46c8-89b3-eca361190ebb">Technical Estimator</a></td>
 <td>Thurnscoe, United Kingdom</td>
 <td align="center"><a href="https://balmoral.firefishsoftware.com/job/technical-estimator-778.aspx">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Colas</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebd29733-b7b8-4375-aa58-6c7a1d19bad6">Assistant Quantity Surveyor</a></td>
+<td>Walsall, United Kingdom</td>
+<td align="center"><a href="https://colas.jobs.hr.cloud.sap/job/WALSALL-Assistant-Quantity-Surveyor-WS1-4NL/1376061457/?feedId=416957">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

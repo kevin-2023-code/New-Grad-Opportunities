@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**74 open roles.** 32 in the United States & Canada · 42 elsewhere in the world.
+**76 open roles.** 34 in the United States & Canada · 42 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>The Ai Training Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/335028ab-a463-4335-9f32-620fd4b04e91">Mobile Developer | $80/hr | Remote</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484806171/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>RADcube</strong></td>
 <td><a href="https://trueinterview.io/jobs/a81529a8-a099-43a3-87c9-e44261acf293">iOS Developer</a></td>
@@ -71,6 +78,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a223fddb-fcde-439b-bc47-58d6e1486f5f">iOS Engineer</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484754898/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Current</strong></td>
+<td><a href="https://trueinterview.io/jobs/92696a4b-961a-4b09-aaad-cba653e0267f">Software Engineer, iOS</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://current.com/careers/open-positions/?id=8077997&amp;gh_jid=8077997">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

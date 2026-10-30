@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**204 open roles.** 118 in the United States & Canada · 86 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**205 open roles.** 119 in the United States & Canada · 86 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8bbbe4d-19a1-4d7d-bd36-9283d6c85687">Fabric Data Scientist</a></td>
+<td>Greater Vancouver Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484808228/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ea6e733d-77c2-4581-9bf7-b15634eca4fa">Avionic Test Engineer</a></td>
 <td>Milano, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485262570/">Apply</a></td>

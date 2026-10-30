@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**160 open roles.**
+**161 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0f957040-64a0-4d5a-a2bf-b7328df15b9c">Development Test Engineer</a></td>
 <td>Torrance, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485277045/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aquent</strong></td>
+<td><a href="https://trueinterview.io/jobs/adb952f7-be47-4dff-af55-f2ad42423f3e">Data Science Engineer [AQ-24483]</a></td>
+<td>Culver City, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483095594/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

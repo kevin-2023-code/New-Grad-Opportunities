@@ -18,10 +18,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Huntsman Cancer Institute</strong></td>
-<td><a href="https://trueinterview.io/jobs/5af60b5f-b901-44d4-b383-3de56d86db2f">Research Scientist - Computational Pathology</a></td>
-<td>Salt Lake City, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484815013/">Apply</a></td>
+<td><strong>Anrok</strong></td>
+<td><a href="https://trueinterview.io/jobs/8295d3e2-38a3-41ad-8d71-907e9db3c5e2">Partner Solutions Engineer</a></td>
+<td>Salt Lake City, UT<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485279071/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

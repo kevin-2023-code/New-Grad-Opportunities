@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**750 open roles.** 583 in the United States & Canada · 167 elsewhere in the world.
+**761 open roles.** 590 in the United States & Canada · 171 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Applause</strong></td>
+<td><a href="https://trueinterview.io/jobs/72b05dfa-1bd8-4c26-b00f-3a332c17bd53">Short-term Dutch Localization/IT Specialist</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483094909/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Patterson Veterinary Supply</strong></td>
+<td><a href="https://trueinterview.io/jobs/a80a82b6-e556-4012-90b2-fa06db35dc7b">Information Systems &amp; Technical Support</a></td>
+<td>Cambridge, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485276652/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sharp Brains</strong></td>
+<td><a href="https://trueinterview.io/jobs/faea8b0d-7175-4fb0-a1a7-d9a1115619e0">Network Engineer</a></td>
+<td>Kincardine, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483404402/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sunlife</strong></td>
+<td><a href="https://trueinterview.io/jobs/898d8a6f-e9ec-4523-bb24-365f84b075c7">Analyst, Technical Support Services</a></td>
+<td>Kitchener, Ontario, Canada<br/>Greater Toronto Area, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484806126/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sunlife Québec</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee273de4-0e9f-4d99-a50f-f3c0d2ec6375">Analyst, Technical Support Services</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484595555/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pittsburg State University Crossland College of Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/51490d25-9c5d-4219-ad12-454976f037ad">Systems Administrator</a></td>
+<td>Pittsburg, KS</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484591689/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Zions Bancorporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/f0a68b4c-6d2a-459c-a9d9-364b9711ea80">Network Engineer I or II</a></td>
@@ -38,6 +80,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/653ad1bd-88e3-41df-9e98-efbf067bcd71">Database Administrator (Fully Remote)</a></td>
 <td>Salt Lake City, UT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485271439/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Luxoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/1287832e-3bc7-4954-aa4f-690afafd8413">Regular Technical Support Engineer</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485272306/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -2768,55 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2743e0c6-ea6b-4f32-af6f-216ed5a039d9">NETWORK ENGINEER - I.T.</a></td>
 <td>Las Vegas, NV</td>
 <td align="center"><a href="https://phe.tbe.taleo.net/phe02/ats/careers/v2/viewRequisition?org=GRANDSIERRARESORT&amp;cws=87&amp;rid=26793">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Selene Finance</strong></td>
-<td><a href="https://trueinterview.io/jobs/dcb2fa2e-553c-487d-a2e3-d11d0209ffb7">Corporate Advance ICE/IM Tech Support Analyst</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://pretiumenterpriseservices.wd1.myworkdayjobs.com/Selene/job/Dallas-TX/Corporate-Advance-ICE-IM-Tech-Support-Analyst_JR117312">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SHARP CORPORATION</strong></td>
-<td><a href="https://trueinterview.io/jobs/34237437-2974-406f-b79b-dc2a4728196c">Help Desk Administrator</a></td>
-<td>Taos, NM</td>
-<td align="center"><a href="https://grnh.se/8qvih5p29us">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SRM Concrete</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee5e28b5-5a03-45bc-89f6-7e9625fd9599">IT Systems Administrator - Hollingshead Mixer Company</a></td>
-<td>Avilla, IN</td>
-<td align="center"><a href="https://careers-smyrnareadymix.icims.com/jobs/3606/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>State of Washington</strong></td>
-<td><a href="https://trueinterview.io/jobs/ffd85ea4-d49b-416a-8ea9-81e3979488ec">Systems Administrator</a></td>
-<td>Olympia, WA</td>
-<td align="center"><a href="https://www.governmentjobs.com/careers/washington/jobs/5532594/systems-administrator">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Trimble</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef3a5f70-8166-4d84-a1f7-ee7c52f66070">Technical Support Engineer</a></td>
-<td>Portsmouth, NH</td>
-<td align="center"><a href="https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---NH-Portsmouth/Technical-Support-Engineer_R58062-1">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TSA (Transportation Security Administration)</strong></td>
-<td><a href="https://trueinterview.io/jobs/4d3cbf2c-0f1f-43d5-96ac-fb1fa4e1526b">IT Specialist (Operating Systems)</a></td>
-<td>Herndon, VA</td>
-<td align="center"><a href="https://www.usajobs.gov/job/890525000">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>United States Department Of Defense</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d5af078-584f-4e10-b245-2d32ccb95c2d">IT Specialist (Customer Support)</a></td>
-<td>Redstone Arsenal, AL</td>
-<td align="center"><a href="https://www.usajobs.gov/job/890569400">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

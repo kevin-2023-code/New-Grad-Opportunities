@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**254 open roles.** 155 in the United States & Canada · 99 elsewhere in the world.
+**255 open roles.** 155 in the United States & Canada · 100 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,17 +18,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Glideseer</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b73413c-c6ec-4a3a-a575-7441b29bf4e1">Technical Consultant – Server &amp; Cybersecurity (Remote, Commission-Based)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485273833/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>SteelToad</strong></td>
 <td><a href="https://trueinterview.io/jobs/22954bd9-edc1-4a33-935d-fd263ea96385">Vulnerability Assessment Analyst and Penetration Tester</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485266926/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Breakdown Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/98982859-a25a-4ecf-b499-c59fb213fcad">Information Security Engineer-CAN</a></td>
+<td>North Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484586806/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -1115,6 +1115,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Talenza</strong></td>
+<td><a href="https://trueinterview.io/jobs/b548d61c-b425-4bde-b0c0-1a80bea65995">Security Engineer</a></td>
+<td>Brisbane, Queensland, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483402472/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Referment</strong></td>
 <td><a href="https://trueinterview.io/jobs/bae1d6ac-8f3d-48c7-affb-535acfcb7776">Security Engineer | Hedge Fund (747A7B2)</a></td>
 <td>London, England, United Kingdom</td>
@@ -1341,7 +1348,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>British Airways</strong></td>
 <td><a href="https://trueinterview.io/jobs/69128341-c765-4f4c-8269-fce930ab445b">Cyber Security Engineer - IGA</a></td>
-<td>Hounslow, England, United Kingdom</td>
+<td>London, United Kingdom<br/>Hounslow, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484795924/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>

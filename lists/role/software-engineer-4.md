@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**1,237 open roles.** 771 in the United States & Canada · 466 elsewhere in the world.
+**1,244 open roles.** 780 in the United States & Canada · 464 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,55 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Agropur</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ad1e628-668c-402a-bb03-441bc6fc86e1">software developer</a></td>
+<td>Notre-Dame-du-Bon-Conseil (QC)</td>
+<td align="center"><a href="https://www.jobbank.gc.ca/jobsearch/jobposting/50512537">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vodafone</strong></td>
+<td><a href="https://trueinterview.io/jobs/568354d4-d28d-424a-8a7e-33e439497877">SAP Datasphere &amp; SAP Analytics Cloud (SAC) Developer - FinOps Analytics - VOIS</a></td>
+<td>India</td>
+<td align="center"><a href="https://jobs.vodafone.com/careers/job/563018698222533?domain=vodafone.com">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Encora</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce2aa7e5-9114-44db-b22c-5bfe47e7b360">Mid Salesforce Developer</a></td>
+<td>Bolivia, Campinas<br/>Colombia, Campinas<br/>Peru, Campinas<br/>+1 more</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjw1fya8dsz9410q7fe13d">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9be5439-6fef-46af-925f-0cf63ca4f13d">Software Development Engineer, Alexa Excellence</a></td>
+<td>India</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10591316/software-development-engineer-alexa-excellence?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Arco Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9616b6a-2612-47a3-bd75-6e30be63a1af">Software Engineer - SAP ABAP/ECC</a></td>
+<td>Kingston upon Hull, United Kingdom</td>
+<td align="center"><a href="https://arcoweb.eploy.net/vacancies/1602/software-engineer--sap-abap-ecc.html">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Chalk</strong></td>
+<td><a href="https://trueinterview.io/jobs/52daf82b-e62a-4e00-be97-e209731d8223">Software Engineer - New Grad</a></td>
+<td>SF<br/>NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qliro</strong></td>
+<td><a href="https://trueinterview.io/jobs/91df10a2-1f5f-452f-a04f-a9d3fff219aa">Software Engineer - Web &amp; App (Fullstack)</a></td>
+<td>Stockholm, Sweden</td>
+<td align="center"><a href="https://career.qliro.com/jobs/8496305-software-engineer-web-app-fullstack">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>CABLE</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a7d6ff3-ec88-4101-970b-9022db0ed3fa">CABLE / Software Engineer (early team) / Sydney, Australia (ON-SITE) / Full-time /</a></td>

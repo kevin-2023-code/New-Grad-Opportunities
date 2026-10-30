@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**106 open roles.**
+**109 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TEKsystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/d75a09f1-daf4-4a13-b1da-4bb6dd6e078f">Java Developer</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485264469/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tyler Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3693738-0487-4579-bef5-61cbdf3b6e92">Web Developer, Drupal</a></td>
+<td>Columbia, SC<br/>Frankfort, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484575861/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>IMEG</strong></td>
 <td><a href="https://trueinterview.io/jobs/6ddb48b7-5e90-497b-8c5b-41cd86879cb9">Electrical Engineering New Graduate Designer | Raleigh, NC</a></td>
@@ -253,6 +267,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1b6a6782-b144-4168-aba0-663d1a507038">Ecom Full Stack Developer</a></td>
 <td>Raleigh, NC<br/>Brentwood, TN</td>
 <td align="center"><a href="https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/155228BR">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/13d4a7e0-6ed7-4882-bace-682a84433934">Springboot Angular Developer</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/155457BR">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,078 open roles.** 748 in the United States & Canada · 330 elsewhere in the world.
+**1,082 open roles.** 749 in the United States & Canada · 333 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,17 +20,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>ES Foundry</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6e530a8-f400-4c47-b485-16d643fc21f7">Assistant Equipment Engineer</a></td>
+<td>South Carolina, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/3950622322/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0d063eba-293c-4814-974e-f82490282771">Assistant Process Engineer</a></td>
+<td>South Carolina, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/3998214721/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Tango Tango</strong></td>
 <td><a href="https://trueinterview.io/jobs/9e02b764-9228-473a-9182-9253ab0218fd">Design Engineer</a></td>
 <td>Huntsville, AL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485287099/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Talisman</strong></td>
-<td><a href="https://trueinterview.io/jobs/521fbf6f-6476-490d-aa9b-c3474c8bde50">Forensic Structural Engineer - Remote - USA</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485266939/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/953d52a5-d474-450f-a659-a3cc767e4e24">Project Civil Engineer - Data Center</a></td>
 <td>Denver, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4411681859/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Comfort Systems USA</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc0ffce8-d48d-4bb9-b9ba-904b268011cf">Mechanical Engineer</a></td>
-<td>Fort Wayne, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4386823435/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

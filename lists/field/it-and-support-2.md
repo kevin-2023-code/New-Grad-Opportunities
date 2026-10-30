@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**750 open roles.** 583 in the United States & Canada · 167 elsewhere in the world.
+**761 open roles.** 590 in the United States & Canada · 171 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Selene Finance</strong></td>
+<td><a href="https://trueinterview.io/jobs/dcb2fa2e-553c-487d-a2e3-d11d0209ffb7">Corporate Advance ICE/IM Tech Support Analyst</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://pretiumenterpriseservices.wd1.myworkdayjobs.com/Selene/job/Dallas-TX/Corporate-Advance-ICE-IM-Tech-Support-Analyst_JR117312">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SHARP CORPORATION</strong></td>
+<td><a href="https://trueinterview.io/jobs/34237437-2974-406f-b79b-dc2a4728196c">Help Desk Administrator</a></td>
+<td>Taos, NM</td>
+<td align="center"><a href="https://grnh.se/8qvih5p29us">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SRM Concrete</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee5e28b5-5a03-45bc-89f6-7e9625fd9599">IT Systems Administrator - Hollingshead Mixer Company</a></td>
+<td>Avilla, IN</td>
+<td align="center"><a href="https://careers-smyrnareadymix.icims.com/jobs/3606/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>State of Washington</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffd85ea4-d49b-416a-8ea9-81e3979488ec">Systems Administrator</a></td>
+<td>Olympia, WA</td>
+<td align="center"><a href="https://www.governmentjobs.com/careers/washington/jobs/5532594/systems-administrator">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trimble</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef3a5f70-8166-4d84-a1f7-ee7c52f66070">Technical Support Engineer</a></td>
+<td>Portsmouth, NH</td>
+<td align="center"><a href="https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---NH-Portsmouth/Technical-Support-Engineer_R58062-1">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TSA (Transportation Security Administration)</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d3cbf2c-0f1f-43d5-96ac-fb1fa4e1526b">IT Specialist (Operating Systems)</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://www.usajobs.gov/job/890525000">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>United States Department Of Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d5af078-584f-4e10-b245-2d32ccb95c2d">IT Specialist (Customer Support)</a></td>
+<td>Redstone Arsenal, AL</td>
+<td align="center"><a href="https://www.usajobs.gov/job/890569400">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>University Corporation for Atmospheric Research</strong></td>
 <td><a href="https://trueinterview.io/jobs/01735ea7-a568-4dfc-b41a-53da0fc0bb6e">Systems Administrator I</a></td>
@@ -1309,10 +1358,38 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>ME MOBIL ELEKTRONIK GMBH</strong></td>
+<td><a href="https://trueinterview.io/jobs/8dc64783-38ef-487d-8a01-c32e85e8f982">IT System Administrator (m/w/d)</a></td>
+<td>Langenbrettach, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483097674/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JET Charge</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3eec2ab-1d2b-457e-8d47-1b8db5f8be75">NetSuite Systems Administrator</a></td>
+<td>Port Melbourne, Victoria, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485283289/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Reserve Bank of Australia</strong></td>
+<td><a href="https://trueinterview.io/jobs/38b33464-5bf1-4124-8212-7f9648610b18">System Administrator - ServiceNow</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483094912/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>NTW Solutions Limited</strong></td>
 <td><a href="https://trueinterview.io/jobs/869dbb6e-a2e1-4aed-95a0-20e4e7168891">Technical Support Coordinator</a></td>
 <td>Newcastle Upon Tyne, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484803397/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cbus Super Fund</strong></td>
+<td><a href="https://trueinterview.io/jobs/96e90b7a-47b3-4e42-8d88-eeda5ff8ca4c">Technical Support Engineer</a></td>
+<td>Melbourne, Victoria, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484594649/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
