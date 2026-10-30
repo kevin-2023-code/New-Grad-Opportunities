@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**258 open roles.**
+**259 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>O2 Technologies,Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/85914d25-59d3-4277-852c-ac1b89aa07b2">Full Stack .NET React Developer</a></td>
+<td><strong>PointFive</strong></td>
+<td><a href="https://trueinterview.io/jobs/02e00aa9-7abb-4d6c-a1a7-ba9442020452">AI Engineer, Support Automation</a></td>
 <td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485273243/">Apply</a></td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485256791/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -433,7 +433,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Natilik</strong></td>
 <td><a href="https://trueinterview.io/jobs/f876a83b-0992-4d64-a61c-0a179d9943cd">Networking Engineer</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>London, United Kingdom</td>
 <td align="center"><a href="https://natilik.teamtailor.com/jobs/8637739-networking-engineer">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
@@ -1023,6 +1023,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/edafabfe-6458-44ca-86dc-ca5e4c5cc6a4">ADMS System Engineer</a></td>
 <td>Newark, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475439647/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NJF Global Holdings Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/19ece253-5860-445c-a467-4249f26c760d">Quantitative Researcher - Monetization, Equities and Futures (HFT and MFT)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484480324/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
