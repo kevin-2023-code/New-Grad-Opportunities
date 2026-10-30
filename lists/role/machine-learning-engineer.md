@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**180 open roles.** 111 in the United States & Canada · 69 elsewhere in the world.
+**179 open roles.** 112 in the United States & Canada · 67 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,17 +18,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Adidev Technologies Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/447d56b2-b66a-4438-a778-f024d69d5f93">Machine Learning Engineer</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://adidevtechnologies.recruiterbox.com/jobs/fk0vimr?fjb_hash=ezLpq610">Apply</a></td>
+<td><strong>Alignerr</strong></td>
+<td><a href="https://trueinterview.io/jobs/42c80ed0-5221-453d-9a5a-48e50b80786b">Software Engineer – Machine Learning (AI Training)</a></td>
+<td>Seattle, WA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485282778/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ada7f93d-52df-4bc7-833a-7c354f45abbb">ML/AI Engineers</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://adidevtechnologies.recruiterbox.com/jobs/fk0pnbb?fjb_hash=ezLpq610">Apply</a></td>
+<td><strong>TekPillar®</strong></td>
+<td><a href="https://trueinterview.io/jobs/33cb5849-7a2c-4839-bc9f-c8d54a81dbbe">Machine Learning Engineer - Python</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483098980/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -239,13 +239,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/af1a48cd-f906-417b-9cad-2aa473ed1655">Machine Learning Evaluation Specialist</a></td>
 <td>Toronto, Ontario, Canada<br/>New York, NY<br/>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484795255/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TaskVerse</strong></td>
-<td><a href="https://trueinterview.io/jobs/e911aabe-2947-4fb3-9595-48b2f9abb083">Machine Learning Engineer</a></td>
-<td>Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484470864/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -683,6 +676,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Cal Poly Pomona Foundation, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/72d92ea1-27ce-403b-891a-9918f54cde75">Undergrad Research Tech - Machine Learning #755401345</a></td>
+<td>Pomona, CA</td>
+<td align="center"><a href="https://secure4.saashr.com/ta/6041387.careers?ShowJob=755401345">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Quora</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec4c0a62-ab2c-4269-9f62-c13027df85b1">Machine Learning Engineer, New Grad - Quora (Remote)</a> 🌐</td>
 <td>Remote — United States, Canada</td>
@@ -701,6 +701,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/19681924-46ec-467a-be91-db91cc102d0d">Associate AI/ML Engineer, Gradient Specialist</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/66degrees/jobs/6220259004">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/7933cde3-96cf-4ba5-a4a1-400df5ae3b18">A/AI Machine Learning Engineer - Early Career</a></td>
+<td>King of Prussia, PA</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477288043?domain=lockheedmartin.com">Apply</a></td>
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>
@@ -1164,24 +1171,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>STARRY RECRUITMENT PTE. LTD.</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba7b0b01-2227-4346-ac32-ee1627d36be5">6G AI Researcher - Computer Vision &amp; Physical Intelligence</a></td>
-<td>Outram, Singapore</td>
-<td align="center"><a href="https://www.mycareersfuture.gov.sg/job/d62d0054ce94ebfd472a1c841e3a810e">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Thales</strong></td>
 <td><a href="https://trueinterview.io/jobs/abede77b-6c04-4063-a926-e3ba39eb6a2f">STAGE - Ingénieur IA / Machine Learning - F/H</a></td>
 <td>Meudon, France</td>
 <td align="center"><a href="https://careers.thalesgroup.com/global/en/job/TGPTGWGLOBALR0345121EXTERNALENGLOBAL/STAGE-Ing%C3%A9nieur-IA-Machine-Learning-F-H">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Activate Interactive Pte Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/3b9afbba-6804-4ef5-a1a7-6fb7cfa4bfbd">ML/AI Engineer - A26411</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://apply.workable.com/j/71B9E5B9B7">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

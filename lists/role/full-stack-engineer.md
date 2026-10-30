@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**221 open roles.** 126 in the United States & Canada · 95 elsewhere in the world.
+**222 open roles.** 127 in the United States & Canada · 95 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f0f9836d-1344-47b0-a290-146fca073e61">Full Stack Developer [AQ-24484]</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483092793/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/72956cf6-b664-4660-8863-aaa0dfb8464a">Fullstack Software Engineer, Data Center Manufacturing</a></td>
+<td>Brookshire, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485264563/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

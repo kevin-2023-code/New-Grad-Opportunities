@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**162 open roles.**
+**167 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,45 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Adidev Technologies Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/447d56b2-b66a-4438-a778-f024d69d5f93">Machine Learning Engineer</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://adidevtechnologies.recruiterbox.com/jobs/fk0vimr?fjb_hash=ezLpq610">Apply</a></td>
+<td><strong>Alignerr</strong></td>
+<td><a href="https://trueinterview.io/jobs/b518f026-ab92-47ab-9544-ba3637ff5cce">Data Scientist (Masters)</a></td>
+<td>Seattle, WA<br/>Atlanta, GA<br/>Boston, MA<br/>+5 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485297120/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/eb0f4c2f-fb8c-42f1-8a77-de92a2eb7715">Environmental Engineering - AI Data Trainer</a></td>
+<td>Seattle, WA<br/>Atlanta, GA<br/>Miami, FL<br/>+3 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485300076/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/dbb4bb75-f054-4c6f-87a2-f9d4b6283783">Computer Engineering</a></td>
+<td>Seattle, WA<br/>Atlanta, GA<br/>Denver, CO<br/>+8 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485294121/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d8a23cc6-f398-4fa3-a1dc-55a97c2ac696">Mechanical Engineering</a></td>
+<td>Seattle, WA<br/>Miami, FL<br/>Adelaide, South Australia, Australia<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485281804/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/76861a56-69cf-455e-9770-0b0a472416af">Lean 4 Proof Engineer - Mathematical Formalization</a></td>
+<td>Seattle, WA<br/>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485295133/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/42c80ed0-5221-453d-9a5a-48e50b80786b">Software Engineer – Machine Learning (AI Training)</a></td>
+<td>Seattle, WA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485282778/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

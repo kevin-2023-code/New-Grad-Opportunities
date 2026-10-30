@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**112 open roles.**
+**113 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Adidev Technologies Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/ada7f93d-52df-4bc7-833a-7c354f45abbb">ML/AI Engineers</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://adidevtechnologies.recruiterbox.com/jobs/fk0pnbb?fjb_hash=ezLpq610">Apply</a></td>
+<td><strong>Alignerr</strong></td>
+<td><a href="https://trueinterview.io/jobs/b518f026-ab92-47ab-9544-ba3637ff5cce">Data Scientist (Masters)</a></td>
+<td>Boston, MA<br/>Atlanta, GA<br/>Chicago, IL<br/>+5 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485297120/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/dbb4bb75-f054-4c6f-87a2-f9d4b6283783">Computer Engineering</a></td>
+<td>Boston, MA<br/>Atlanta, GA<br/>Denver, CO<br/>+8 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485294121/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Prudentia Sciences</strong></td>
+<td><a href="https://trueinterview.io/jobs/f41e3441-b248-464b-a312-b903b3fbb9ec">Quality Engineer (SDET)</a></td>
+<td>Cambridge, MA<br/>San Francisco, CA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483408689/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>First Tech Federal Credit Union</strong></td>
+<td><a href="https://trueinterview.io/jobs/73ecd804-7719-401c-92d9-ba195f30d991">Delivery Platform System Administrator</a></td>
+<td>Marlborough, MA<br/>Hillsboro, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485287308/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -519,20 +540,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b579e306-6c49-4729-bf87-70f954887ffa">Desktop Support Analyst</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://cambridgeassociates.wd5.myworkdayjobs.com/en-US/Cambridge_Associates/job/Boston/Desktop-Support-Analyst_JR0000453-1">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Formlabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/4a05f90e-0ec6-4819-b63a-62d120f73c5c">3D Print Optimization Engineer</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://grnh.se/p4xwoq0p1us">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Getinge</strong></td>
-<td><a href="https://trueinterview.io/jobs/f74f82a1-7357-4ea5-9d98-681b99764b59">Design Quality Engineer</a></td>
-<td>Waltham, MA</td>
-<td align="center"><a href="https://careers.getinge.com/job/Waltham-Design-Quality-Engineer-MA/1452280733/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

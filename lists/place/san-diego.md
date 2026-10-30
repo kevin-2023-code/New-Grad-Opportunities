@@ -18,6 +18,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Kitchell</strong></td>
+<td><a href="https://trueinterview.io/jobs/375d6068-7ba1-4b7c-a789-e2b4c79b9507">Mechanical Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485295319/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dexcom</strong></td>
+<td><a href="https://trueinterview.io/jobs/a09473e7-aca9-4593-98bd-94ae2718071a">SW Development Engineer 1</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485300224/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>SteelToad</strong></td>
 <td><a href="https://trueinterview.io/jobs/22954bd9-edc1-4a33-935d-fd263ea96385">Vulnerability Assessment Analyst and Penetration Tester</a></td>
 <td>San Diego, CA</td>
@@ -347,13 +361,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Abbott</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed39b387-39b9-414f-9a9f-3a55cdd4af04">Bioinformatics Quality Engineer I</a></td>
-<td>La Jolla, CA</td>
-<td align="center"><a href="https://www.jobs.abbott/us/en/job/ABLAUS31165403ENUSEXTERNAL/Bioinformatics-Quality-Engineer-I">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>CommIT Enterprises</strong></td>
 <td><a href="https://trueinterview.io/jobs/f8023d95-892a-447a-875f-c8f351c50852">Information System Security Engineer</a></td>
 <td>Oceanside, CA</td>
@@ -379,13 +386,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f6950f47-026c-4afb-acd8-f656b81b7533">Camera Engineer</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://app.eightfold.ai/careers/job/446721826736?domain=qualcomm.com">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SQA Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/fcc8272f-2739-4491-90cc-55d96d540a57">Aerospace Quality Engineer (QE) – Space Flight Hardware</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://jobs.lever.co/sqaservices/81a25005-deae-402c-8a1a-4c7f71e961a8">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**90 open roles.** 75 in the United States & Canada · 15 elsewhere in the world.
+**89 open roles.** 74 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -442,13 +442,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e79426ef-3c45-4b10-b6bd-30df4cbee1dd">Research Scientist</a></td>
 <td>Bethesda, MD</td>
 <td align="center"><a href="https://guidehouse.wd1.myworkdayjobs.com/External/job/US---MD-Bethesda/Research-Scientist_45890">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nathan S. Kline Institute</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f66edda-42b5-4bfd-8647-1c8ad1727032">Research Scientist I - Center for Dementia Research</a></td>
-<td>Orangeburg, NY</td>
-<td align="center"><a href="https://www.applicantpro.com/openings/nki/jobs/4258383-136896">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
