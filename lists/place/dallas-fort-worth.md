@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**170 open roles.**
+**169 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -39,10 +39,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Compello Partners</strong></td>
-<td><a href="https://trueinterview.io/jobs/03554f21-3c57-4932-9568-9fafb25b3a5d">Regional IT Support Technician</a></td>
+<td><strong>Gandiv Insights LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/65c3618d-fc8d-4c9b-a302-db5b8e24756e">QA Manual Tester – Data Validation - Dallas, TX - Onsite</a></td>
 <td>Dallas, TX</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=679df0f288d7d701">Apply</a></td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485244261/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sparc technology services inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e4052cb-6e93-4eb6-80ea-104853d7dec6">Python Developer</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://sparc-technology-services-inc.careerplug.com/j/036olwj">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -438,13 +445,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>MeeBoss</strong></td>
-<td><a href="https://trueinterview.io/jobs/6175810d-570e-4eb4-a67b-da64b18bb29b">Generative AI Engineer</a></td>
-<td>Richardson, TX<br/>Reston, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484732730/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>SAI Systems Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/892fc796-9f8e-4e19-9d06-df27d9a4007b">Data Security and Cloud Engineer</a></td>
 <td>Dallas, TX</td>
@@ -456,13 +456,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fe8a03f8-a3b4-4ae4-bc5e-90a4e1ce65db">Java Backend Developer with Blockchain exp</a></td>
 <td>Dallas, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481634302/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Infinite Resource Solutions, LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/7edb7e0f-af84-45a6-b797-878b5b8ad70a">PLC and Controls Engineer</a></td>
-<td>Dallas, TX<br/>Reno, NV<br/>Fayette County, GA<br/>+4 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482657358/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

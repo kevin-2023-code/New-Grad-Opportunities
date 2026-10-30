@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**1,438 open roles.** 849 in the United States & Canada · 589 elsewhere in the world.
+**1,448 open roles.** 854 in the United States & Canada · 594 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,69 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Arm</strong></td>
+<td><a href="https://trueinterview.io/jobs/87b48cf9-5b9c-468f-a1b2-fe3638243eb7">Graduate ML Hardware Power and Performance Engineer</a></td>
+<td>Lund, Sweden</td>
+<td align="center"><a href="https://careers.arm.com/job/lund/graduate-ml-hardware-power-and-performance-engineer/33099/102539121872">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cf61adf5-4b4c-4820-a0cc-5831aff57108">Graduate ML Software Engineer</a></td>
+<td>Lund, Sweden</td>
+<td align="center"><a href="https://careers.arm.com/job/lund/graduate-ml-software-engineer/33099/102539110752">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Attempto</strong></td>
+<td><a href="https://trueinterview.io/jobs/b68ac86e-f6fd-496f-9227-6df624ef27c7">GenAI Engineer mit Fullstack-Hintergrund (m/w/d)</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://www.attempto.eu/de/karriere/genai-engineer-mit-fullstack-hintergrund/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AXA / France</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bafdeac-bb62-4e3f-bae8-c62997d50b4f">Chargé d'études actuarielles/Data Analyst (F/H) - stage</a></td>
+<td>Nanterre, France</td>
+<td align="center"><a href="https://recrutement.axa.fr/emploi/nanterre/charge-d-etudes-actuarielles-data-analyst-f-h-stage/3441/46430918336">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ba6e9aff-858d-4511-ad2e-13841f88938f">Stage - Investment Strategy and Financial Data Analyst</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://recrutement.axa.fr/emploi/paris/stage-investment-strategy-and-financial-data-analyst/3441/46123547968">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BASTIDE LE CONFORT MEDICAL</strong></td>
+<td><a href="https://trueinterview.io/jobs/1beda015-89db-4314-9469-db72bb16ef3a">Data Analyst / Analytics Engineer confirmé H/F – Power BI &amp; Snowflake</a></td>
+<td>Caissargues, France</td>
+<td align="center"><a href="https://recrutement.bastidemedical.fr/jobs/8632317-data-analyst-analytics-engineer-confirme-h-f-power-bi-snowflake">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td><a href="https://trueinterview.io/jobs/04ee2188-2475-40e0-8047-bbfe747f545e">Cloud Data &amp; AI Engineer with MLOPS exp - London, UK</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://www.capgemini.com/jobs/586550-en_GB_SAPBTP/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/08048114-dbc4-41ff-88a3-d0da9697e21e">Data Engineer Azure</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://www.capgemini.com/jobs/587323-es_ES_SAPBTP/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/30ab5283-7a97-41b9-b5e0-4660cf29c2ed">Machine Learning Engineer</a></td>
+<td>Toulouse, France</td>
+<td align="center"><a href="https://www.capgemini.com/fr-fr/jobs/208280-fr_FR+sap_btp">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>CGI</strong></td>
 <td><a href="https://trueinterview.io/jobs/c0441cfc-2a1c-4e34-9166-fe78fb84e509">Consultant(e) Data Analyst F/H</a></td>
@@ -78,6 +141,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/9a12f567-34d8-4371-8d2c-e7ed0e751844">Data Engineer</a></td>
 <td>India</td>
 <td align="center"><a href="https://elfonze.zohorecruit.in/jobs/Careers/41527000036858091/Data-Engineer">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EPAM Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e63ff4f-d082-4211-b164-cdd9f2ffeae4">Data Scientist</a></td>
+<td>—</td>
+<td align="center"><a href="https://careers.epam.com/en/vacancy/blt7wefe4an74cvy3sv_en?city=Tel+Aviv&amp;country=Israel">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

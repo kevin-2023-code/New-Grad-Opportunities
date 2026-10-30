@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**1,438 open roles.** 849 in the United States & Canada · 589 elsewhere in the world.
+**1,448 open roles.** 854 in the United States & Canada · 594 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8c29cde-bc51-4ed9-99c0-d966ec372065">Software Development Engineer, AI Foundations, Amazon Leo AI Foundations</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485270472/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Virtusa</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcdf48d7-3d07-4c73-ad8a-173659da9c09">AI Engineer</a></td>
+<td>Piscataway, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481023047/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TD</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3c5c428-8b38-4a88-bcda-af30ab682d4a">Data Scientist I (Quants) – Insurance Model Validation</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485258369/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ADT</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9112e99-2c15-4cc9-9bd4-07a474b5e718">Machine Learning Engineer</a></td>
+<td>Boca Raton, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485248415/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AgileGrid Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d0ba8d3-7677-410d-b233-f60faf4922d9">Data Analyst</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485256027/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/66a7d614-07dc-4240-ad93-1de614288c33">Palantir Data Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484988421/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4c60ae9a-dcd5-4d07-967c-4e01148738c5">University - Data Scientist</a></td>
+<td>Honolulu, HI<br/>El Segundo, CA<br/>Huntsville, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485257176/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Aya Healthcare</strong></td>
 <td><a href="https://trueinterview.io/jobs/b9b7307c-7ab7-427f-a9b1-719b447c405f">Data Engineer contract in Sacramento, CA - Make $3,562 - $3,717/week</a></td>
@@ -388,13 +437,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b2106b13-3eb1-46ef-9687-75c5f80748de">ML Teacher</a></td>
 <td>Indianapolis, IN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475478816/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Booz Allen Hamilton</strong></td>
-<td><a href="https://trueinterview.io/jobs/66a7d614-07dc-4240-ad93-1de614288c33">Palantir Data Engineer</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484988421/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1589,13 +1631,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>TaskVerse</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ca0d36c-c394-4e57-8b14-083979e1706a">Data Analyst</a></td>
-<td>Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484483518/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6b724b1b-3de9-486c-9423-a404c2a202d1">Data Scientist</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484485502/">Apply</a></td>
@@ -1739,6 +1774,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0b4d8973-a7c5-46fc-81a6-4c479a6aef2b">Data Scientist</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4480497784/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/564c31ea-7700-436c-baef-f8e4b5568a95">New College Grad - Data Scientist, AI for Business Functions</a></td>
+<td>Boise, Idaho, United States</td>
+<td align="center"><a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1914,13 +1956,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a62960de-a178-48b7-8bab-2538549136d3">Data Integrity Analyst</a></td>
 <td>Rancho Santa Margarita, CA</td>
 <td align="center"><a href="https://melissa-4.betterteam.com/data-analyst">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TCL.Online Services Incorporated</strong></td>
-<td><a href="https://trueinterview.io/jobs/9cb2b08c-c51e-4a86-afb1-1ef3e3a1d45f">AI开发工程师</a></td>
-<td>Shanghai, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484755512/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2103,13 +2138,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7a9eb0b4-a795-4e35-b111-5cc6138a4ecd">Access &amp; AI Enablement Engineer (MTS)</a></td>
 <td>Dallas, TX</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Dallas/Access---AI-Enablement-Engineer--MTS-_JR363682">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MeeBoss</strong></td>
-<td><a href="https://trueinterview.io/jobs/6175810d-570e-4eb4-a67b-da64b18bb29b">Generative AI Engineer</a></td>
-<td>Reston, VA<br/>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484732730/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0a8f1e97-433e-4228-8b2d-a3c60400ec3c">Data Analyst 1</a></td>
 <td>Albany, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484709710/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Thatch</strong></td>
-<td><a href="https://trueinterview.io/jobs/a275965e-9cbe-4a1e-80ed-81254930705d">Data Scientist: Product</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480678592/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/526853f1-4365-457c-b522-cfed030c56f1">Robotics Research Engineer - Robot Simulation and Evaluation</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455486152/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sharp Decisions</strong></td>
-<td><a href="https://trueinterview.io/jobs/063bcf36-226d-4044-b897-481c282ed56f">IN - IDOH Data Scientist (Indiana)</a></td>
-<td>Indianapolis, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482774364/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Kforce Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e354356-30b9-4022-b2de-00ba15c8712c">Data Engineer</a></td>
-<td>Naperville, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484711440/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

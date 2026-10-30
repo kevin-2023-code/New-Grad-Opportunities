@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**32 open roles.**
+**33 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -82,6 +82,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>CUBISCAN</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa12dd98-1db9-4fe1-b4c6-80489f1b6149">Firmware/Embedded Software Engineer</a></td>
+<td>Ogden, UT</td>
+<td align="center"><a href="https://cubiscan.isolvedhire.com/jobs/1894170-576519.html">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/48658768-6b6b-4d40-95d8-306ed732ccb3">IT Help Desk Technician</a></td>
 <td>Ogden, UT</td>
 <td align="center"><a href="https://cubiscan.isolvedhire.com/jobs/1894378-576519.html">Apply</a></td>

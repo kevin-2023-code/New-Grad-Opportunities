@@ -109,6 +109,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>ATB Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdd849c8-7c33-4057-af4a-da457a530f49">Full Stack Software Developer</a></td>
+<td>Calgary, AB<br/>Calgary, Canada<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://careers.atb.com/careers/job/1125899907737356">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Verito Solutions Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/83529685-4193-46ed-8af6-34ac434aa891">Java AWS Developer|| CALGARY, CN (Onsite)</a></td>
 <td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
@@ -148,13 +155,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5cec3ad2-2ed0-4117-bde7-9a53fc27ecc4">AWS / TIBCO Integration Engineer</a></td>
 <td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483888423/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ATB Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/fdd849c8-7c33-4057-af4a-da457a530f49">Full Stack Software Developer</a></td>
-<td>Calgary, AB<br/>Calgary, Canada</td>
-<td align="center"><a href="https://careers.atb.com/careers/job/1125899907737356">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

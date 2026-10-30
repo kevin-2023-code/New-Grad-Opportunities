@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**244 open roles.** 148 in the United States & Canada · 96 elsewhere in the world.
+**247 open roles.** 150 in the United States & Canada · 97 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CARE</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2309701-a3c8-4b3d-abc2-efe1f5b56bdc">AI SECURITY ENGINEER</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485245521/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OneStream Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf9ccaf0-5182-442d-8cee-1c60bfbb5650">Application Security Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485241335/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Synergy</strong></td>
 <td><a href="https://trueinterview.io/jobs/da5abc45-402d-4ee3-ac62-fe325205a8a1">Cybersecurity Engineer</a></td>
@@ -1065,6 +1079,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/885d0194-995d-4867-aae6-20f56a2684ff">Security Operations Engineer, AWS Security Cloud Response, Amazon Security Cloud Security Response</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485233187/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Synchrony</strong></td>
 <td><a href="https://trueinterview.io/jobs/183ac91d-eaad-4d72-8c1e-6542577b927a">AVP, Tanium Security Engineer</a></td>

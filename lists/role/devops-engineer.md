@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**106 open roles.** 35 in the United States & Canada · 71 elsewhere in the world.
+**107 open roles.** 35 in the United States & Canada · 72 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -274,6 +274,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cogent Bytes Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0abb677-8d86-4082-b8f6-aef42564641a">AWS DevOps Engineer</a></td>
+<td>Slough, United Kingdom</td>
+<td align="center"><a href="https://uk.indeed.com/viewjob?jk=0e6930c71153fcb4">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>HSO</strong></td>
 <td><a href="https://trueinterview.io/jobs/40d738fb-0030-49da-8cd1-286e4ef031ec">Azure DevOps Engineer</a></td>

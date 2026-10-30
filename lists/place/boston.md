@@ -18,13 +18,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Harvey Nash</strong></td>
-<td><a href="https://trueinterview.io/jobs/10135259-07be-4a29-993a-aeb9b6b66818">Embedded Software Engineer</a></td>
-<td>Chelmsford, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477931162/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>IMEG</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3e834c8-7d10-45b4-b3af-9e666169e56d">Electrical Engineering Designer | Boston, MA</a></td>
 <td>Boston, MA</td>
@@ -221,6 +214,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Alarm.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b420f8e-533d-43df-bfac-7c9c90b3c5bc">Software Engineer</a></td>
+<td>Needham, MA</td>
+<td align="center"><a href="https://grnh.se/vrsie9gx2us">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Massachusetts Institute of Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/5407d4de-90ee-422d-ad1e-7962a2796ef4">Research Scientist, Boyer Lab</a></td>
 <td>Cambridge, MA</td>
@@ -316,13 +316,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d6e3f37e-2196-4492-83cb-3a72854f5065">Data Analyst</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484740024/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wayfair</strong></td>
-<td><a href="https://trueinterview.io/jobs/cbd999a3-90e1-4424-816e-0b4f405586d8">Software Engineer I</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484720786/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -512,6 +505,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b579e306-6c49-4729-bf87-70f954887ffa">Desktop Support Analyst</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://cambridgeassociates.wd5.myworkdayjobs.com/en-US/Cambridge_Associates/job/Boston/Desktop-Support-Analyst_JR0000453-1">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a05f90e-0ec6-4819-b63a-62d120f73c5c">3D Print Optimization Engineer</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://grnh.se/p4xwoq0p1us">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**78 open roles.** 47 in the United States & Canada · 31 elsewhere in the world.
+**80 open roles.** 48 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>PTR Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/7697250f-670e-417c-9317-0a561755475e">Web UI Engineer (Building Livestream tool exp must needed: hls.js experience)</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485244257/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TaskVerse</strong></td>
+<td><a href="https://trueinterview.io/jobs/32e95a73-02b4-4fda-947e-9201e8007291">Frontend Engineer</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484792329/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>ECS</strong></td>
 <td><a href="https://trueinterview.io/jobs/e3f2fbe6-04bc-4c8e-af66-17df4c33150f">Web Developer</a></td>
@@ -89,13 +103,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>TaskVerse</strong></td>
-<td><a href="https://trueinterview.io/jobs/32e95a73-02b4-4fda-947e-9201e8007291">Frontend Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484792329/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9f3fd0c3-359d-41d9-9298-97afc6c7d14a">Frontend Developer</a></td>
 <td>Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484484488/">Apply</a></td>
@@ -358,6 +365,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>OverheidZZP</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e605a86-5dbf-4826-b78e-89a04dcc222b">Frontend Developer</a></td>
+<td>The Hague, South Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485238669/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>CPS Group (UK) Limited</strong></td>
 <td><a href="https://trueinterview.io/jobs/7a268811-7757-45af-b39f-c5ce6711b68d">Frontend Developer (React / TypeScript)</a></td>

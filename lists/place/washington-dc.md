@@ -627,13 +627,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>MeeBoss</strong></td>
-<td><a href="https://trueinterview.io/jobs/6175810d-570e-4eb4-a67b-da64b18bb29b">Generative AI Engineer</a></td>
-<td>Reston, VA<br/>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484732730/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Calibre CPA Group, PLLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/35304b99-75b0-4e5a-95ea-24fc980c8214">Contract - Data Analyst</a></td>
 <td>Bethesda, MD</td>
@@ -1702,6 +1695,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/43e88064-c5f8-4e85-91f4-79eb4a7b7c76">Database Administrator</a></td>
 <td>Reston, VA</td>
 <td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4613945/Inadev/Database-Administrator">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Okta</strong></td>
+<td><a href="https://trueinterview.io/jobs/d41e7a5a-f248-4c72-942e-40b3d7d50017">Splunk Infrastructure Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://grnh.se/rnkejb3a1us">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>

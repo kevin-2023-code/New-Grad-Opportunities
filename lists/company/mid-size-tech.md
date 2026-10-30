@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**60 open roles.** 43 in the United States & Canada · 17 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**62 open roles.** 45 in the United States & Canada · 17 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -74,6 +74,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Gecko Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/76ad087c-e894-47ee-825b-9b71b1af0c56">Solutions Engineer | Power</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/gecko-robotics/7bc54434-0c56-492e-8138-d6861dce933e">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Clearstreet</strong></td>
 <td><a href="https://trueinterview.io/jobs/76931616-2dda-40b4-bb60-b16c16072338">Security Operations Engineer</a></td>
 <td>New York, NY, New York</td>
@@ -120,6 +127,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dea40981-fd3b-4054-874b-fd7da530f7b4">Forward Deployed Engineer</a></td>
 <td>Trenton, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467935899/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a05f90e-0ec6-4819-b63a-62d120f73c5c">3D Print Optimization Engineer</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://grnh.se/p4xwoq0p1us">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

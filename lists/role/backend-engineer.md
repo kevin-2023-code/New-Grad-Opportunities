@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**80 open roles.** 45 in the United States & Canada · 35 elsewhere in the world.
+**79 open roles.** 44 in the United States & Canada · 35 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c7924048-5474-40e2-b96d-2aefe2e72395">Backend Engineer - AI</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4332205894/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TaskVerse</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc9da36c-0fed-4e30-8010-5e11caf56be2">Backend Developer</a></td>
-<td>Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484735609/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

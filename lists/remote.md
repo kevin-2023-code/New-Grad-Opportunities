@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**175 open roles.** 110 in the United States & Canada · 65 elsewhere in the world. Postings the pipeline classified as remote.
+**177 open roles.** 112 in the United States & Canada · 65 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -22,6 +22,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1e980265-fea5-4522-8a5d-f3dd25d4378e">Electrical Engineer I</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://hennypenny.wd1.myworkdayjobs.com/en-US/hennypenny/job/Eaton-OH-Headquarters/Electrical-Engineer-I_R-101876">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Banyan Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/e899ccb9-df7d-4d35-ab39-1f192d90004f">Full Stack Software Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://grnh.se/bxofi4kb7us">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gecko Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/76ad087c-e894-47ee-825b-9b71b1af0c56">Solutions Engineer | Power</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/gecko-robotics/7bc54434-0c56-492e-8138-d6861dce933e">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -814,6 +828,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Alimentiv</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d245c8f-4cd6-4aa4-8b5e-ef8719ca6cb5">Clinical Database Programmer</a> 🌐</td>
+<td>Remote — United Kingdom</td>
+<td align="center"><a href="https://jobs.lever.co/alimentiv-2/5f31963e-d799-49e4-9c48-483b73852afe">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>GRVT TECHNOLOGIES</strong></td>
 <td><a href="https://trueinterview.io/jobs/bcf0c8d2-dcd1-4646-bd65-51312e126d7d">QA Automation Engineer</a> 🌐</td>
 <td>Remote</td>
@@ -839,13 +860,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e2844330-5a74-4c8e-8766-ba6cc9a95fee">Developer Advocate</a> 🌐</td>
 <td>Remote — United Kingdom</td>
 <td align="center"><a href="https://app.screenloop.com/careers/thefractionaltalent/job_posts/9101?tab=overview">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>IAAPS Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/06e386b6-7f6f-4eef-a16d-aaa52020ccd0">Engineer</a> 🌐</td>
-<td>Remote — United Kingdom</td>
-<td align="center"><a href="https://uk.indeed.com/viewjob?jk=dfd83a561245cc52">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

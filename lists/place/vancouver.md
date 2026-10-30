@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**35 open roles.**
+**36 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>City of Vancouver</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5e8e9b9-cbe8-4e04-946a-ece50fd41973">Building Code Engineer</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481142937/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Epic</strong></td>
 <td><a href="https://trueinterview.io/jobs/a230a8af-a888-4627-ab9a-ad27e0650187">Integration Solutions Engineer</a></td>

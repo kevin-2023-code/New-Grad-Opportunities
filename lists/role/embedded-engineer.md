@@ -18,13 +18,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Harvey Nash</strong></td>
-<td><a href="https://trueinterview.io/jobs/10135259-07be-4a29-993a-aeb9b6b66818">Embedded Software Engineer</a></td>
-<td>Chelmsford, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477931162/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>General Atomics Aeronautical Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/839f779e-8c25-4efa-82c2-3e471a1d621b">Software Embedded Developer (C++/Linux)</a></td>
 <td>Poway, CA</td>
@@ -113,6 +106,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fc1612a8-4a4f-4463-a328-a39667c8d59e">Engineer I- Firmware</a></td>
 <td>Milwaukee, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476780719/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CUBISCAN</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa12dd98-1db9-4fe1-b4c6-80489f1b6149">Firmware/Embedded Software Engineer</a></td>
+<td>Ogden, UT</td>
+<td align="center"><a href="https://cubiscan.isolvedhire.com/jobs/1894170-576519.html">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

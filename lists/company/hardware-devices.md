@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**132 open roles.** 102 in the United States & Canada · 30 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**137 open roles.** 105 in the United States & Canada · 32 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -26,6 +26,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/37ad8998-0261-4764-8fd4-b2594e2b321b">Battery Management Systems - Electrical Engineer</a></td>
+<td>Cupertino, California, United States<br/>San Diego, California, United States</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692331">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0d835329-6c2c-45f7-93f1-ad2783689212">Cellular Protocol Development Engineer</a></td>
 <td>San Diego, California, United States</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692503">Apply</a></td>
@@ -99,6 +106,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c3c95f32-7fc6-41a8-9abe-3645c70f3c98">Software Developer</a></td>
 <td>Coppell, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465904788/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gecko Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/76ad087c-e894-47ee-825b-9b71b1af0c56">Solutions Engineer | Power</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/gecko-robotics/7bc54434-0c56-492e-8138-d6861dce933e">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -253,6 +267,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/53ba98ae-bbf2-4f27-aa33-4a432c61463c">Solutions Engineer, APO - Bay Area</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://careers.cisco.com/global/en/job/2029394">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a05f90e-0ec6-4819-b63a-62d120f73c5c">3D Print Optimization Engineer</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://grnh.se/p4xwoq0p1us">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -743,6 +764,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/10c1e750-5812-4313-994c-74e1711cf003">GPU Physical Design Engineer</a></td>
+<td>Cambridge, England, United Kingdom<br/>London, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200627128">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2ea27315-7222-47d8-83eb-e7d8a1e4d27e">SoC Physical Design Engineer (M, F, D)</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200642449">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Axon</strong></td>
 <td><a href="https://trueinterview.io/jobs/cc41b8d9-b8f1-4bdd-ae4a-7d0622ba12e5">Software Engineer</a></td>

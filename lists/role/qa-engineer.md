@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**202 open roles.** 125 in the United States & Canada · 77 elsewhere in the world.
+**203 open roles.** 126 in the United States & Canada · 77 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Gandiv Insights LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/65c3618d-fc8d-4c9b-a302-db5b8e24756e">QA Manual Tester – Data Validation - Dallas, TX - Onsite</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485244261/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>ProKidney Corp.</strong></td>
 <td><a href="https://trueinterview.io/jobs/d9e0427e-dc5c-4e04-af45-37c263ee4606">Quality Assurance Specialist 1, Batch Release Contractor</a></td>

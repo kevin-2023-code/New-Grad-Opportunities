@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**21 open roles.** 15 in the United States & Canada · 6 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**22 open roles.** 16 in the United States & Canada · 6 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -68,6 +68,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Okta</strong></td>
+<td><a href="https://trueinterview.io/jobs/d41e7a5a-f248-4c72-942e-40b3d7d50017">Splunk Infrastructure Engineer</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://grnh.se/rnkejb3a1us">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/298b0730-342c-4a31-8c4d-5af5f76964ed">Associate Program Analyst (New Grad)</a></td>
 <td>Bellevue, Washington<br/>Chicago, Illinois<br/>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://www.okta.com/company/careers/opportunity/8220584?gh_jid=8220584">Apply</a></td>

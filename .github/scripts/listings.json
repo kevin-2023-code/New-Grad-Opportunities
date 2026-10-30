@@ -6,15 +6,168 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-29T23:13:45.689Z",
-  "count": 8641,
+  "listingsChangedAt": "2026-10-30T00:39:44.772Z",
+  "count": 8732,
   "listings": [
     {
-      "id": "10135259-07be-4a29-993a-aeb9b6b66818",
-      "company": "Harvey Nash",
-      "title": "Embedded Software Engineer",
+      "id": "bb795f94-3bc7-489c-a3bd-2ef085f38fbf",
+      "company": "Amazon",
+      "title": "EDI Engineer, Amazon Supply Chain Services",
       "locations": [
-        "Chelmsford, MA"
+        "Nashville, TN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485278269/",
+      "url": "https://trueinterview.io/jobs/bb795f94-3bc7-489c-a3bd-2ef085f38fbf",
+      "postedAt": "2026-10-30T00:25:00.000Z",
+      "updatedAt": "2026-10-30T00:25:00.000Z"
+    },
+    {
+      "id": "c8c29cde-bc51-4ed9-99c0-d966ec372065",
+      "company": "Amazon",
+      "title": "Software Development Engineer, AI Foundations, Amazon Leo AI Foundations",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485270472/",
+      "url": "https://trueinterview.io/jobs/c8c29cde-bc51-4ed9-99c0-d966ec372065",
+      "postedAt": "2026-10-30T00:25:00.000Z",
+      "updatedAt": "2026-10-30T00:25:00.000Z"
+    },
+    {
+      "id": "b801fd53-4fe1-4f4b-b94d-96e66929583e",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Amazon Cloud Management Foundations",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484942828/",
+      "url": "https://trueinterview.io/jobs/b801fd53-4fe1-4f4b-b94d-96e66929583e",
+      "postedAt": "2026-10-29T12:32:00.000Z",
+      "updatedAt": "2026-10-30T00:25:00.000Z"
+    },
+    {
+      "id": "07d1aa99-e457-4e10-8790-40132810cd03",
+      "company": "Linde Gas & Equipment",
+      "title": "Plant Engineer",
+      "locations": [
+        "Triangle, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4440349257/",
+      "url": "https://trueinterview.io/jobs/07d1aa99-e457-4e10-8790-40132810cd03",
+      "postedAt": "2026-10-30T00:25:00.000Z",
+      "updatedAt": "2026-10-30T00:25:00.000Z"
+    },
+    {
+      "id": "f765a8c8-154c-4830-ab46-f74532ba9c7d",
+      "company": "Crescent Parts & Equipment",
+      "title": "HVAC Technical Support Specialist",
+      "locations": [
+        "Columbia, MO",
+        "St Louis, MO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485260651/",
+      "url": "https://trueinterview.io/jobs/f765a8c8-154c-4830-ab46-f74532ba9c7d",
+      "postedAt": "2026-10-30T00:21:00.000Z",
+      "updatedAt": "2026-10-30T00:21:00.000Z"
+    },
+    {
+      "id": "618b0835-8a50-46e7-96ff-9f99d0c10a84",
+      "company": "Amcor",
+      "title": "IT Support Specialist",
+      "locations": [
+        "New London, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479815371/",
+      "url": "https://trueinterview.io/jobs/618b0835-8a50-46e7-96ff-9f99d0c10a84",
+      "postedAt": "2026-10-30T00:20:00.000Z",
+      "updatedAt": "2026-10-30T00:20:00.000Z"
+    },
+    {
+      "id": "b85f4cb9-3cb3-493a-9478-6115fcdd2c08",
+      "company": "Scoular",
+      "title": "Associate Systems Engineer",
+      "locations": [
+        "Omaha, NE"
       ],
       "cities": [],
       "countries": [
@@ -23,16 +176,823 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Embedded Engineer",
+      "role": "Software Engineer",
       "seniority": "new-grad",
       "level": "newgrad",
       "kind": "newgrad",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4477931162/",
-      "url": "https://trueinterview.io/jobs/10135259-07be-4a29-993a-aeb9b6b66818",
-      "postedAt": "2026-10-29T22:57:18.000Z",
-      "updatedAt": "2026-10-29T22:57:18.000Z"
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485268311/",
+      "url": "https://trueinterview.io/jobs/b85f4cb9-3cb3-493a-9478-6115fcdd2c08",
+      "postedAt": "2026-10-30T00:16:00.000Z",
+      "updatedAt": "2026-10-30T00:16:00.000Z"
+    },
+    {
+      "id": "bcdf48d7-3d07-4c73-ad8a-173659da9c09",
+      "company": "Virtusa",
+      "title": "AI Engineer",
+      "locations": [
+        "Piscataway, NJ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481023047/",
+      "url": "https://trueinterview.io/jobs/bcdf48d7-3d07-4c73-ad8a-173659da9c09",
+      "postedAt": "2026-10-29T23:54:00.000Z",
+      "updatedAt": "2026-10-30T00:15:00.000Z"
+    },
+    {
+      "id": "eb90bf39-d682-4892-9a74-c88ce20c512c",
+      "company": "Black & Veatch",
+      "title": "Graduate Engineer, Electrical - Nuclear",
+      "locations": [
+        "Overland Park, KS"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485248880/",
+      "url": "https://trueinterview.io/jobs/eb90bf39-d682-4892-9a74-c88ce20c512c",
+      "postedAt": "2026-10-30T00:04:00.000Z",
+      "updatedAt": "2026-10-30T00:04:00.000Z"
+    },
+    {
+      "id": "020c10b9-4b70-46f0-a0cf-8ebfeed40f4c",
+      "company": "Treeswift",
+      "title": "Hardware Assembly Technician, Contractor",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485276116/",
+      "url": "https://trueinterview.io/jobs/020c10b9-4b70-46f0-a0cf-8ebfeed40f4c",
+      "postedAt": "2026-10-30T00:04:00.000Z",
+      "updatedAt": "2026-10-30T00:04:00.000Z"
+    },
+    {
+      "id": "4d758718-af3f-4f83-935e-36cdb5dd5af9",
+      "company": "Naval Nuclear Laboratory (FMP)",
+      "title": "Nuclear Engineer (Thermal/Hydraulic), Associate (Entry Level)",
+      "locations": [
+        "Niskayuna, NY",
+        "West Mifflin, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484996903/",
+      "url": "https://trueinterview.io/jobs/4d758718-af3f-4f83-935e-36cdb5dd5af9",
+      "postedAt": "2026-10-29T17:57:00.000Z",
+      "updatedAt": "2026-10-29T23:48:00.000Z"
+    },
+    {
+      "id": "f3c5c428-8b38-4a88-bcda-af30ab682d4a",
+      "company": "TD",
+      "title": "Data Scientist I (Quants) – Insurance Model Validation",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485258369/",
+      "url": "https://trueinterview.io/jobs/f3c5c428-8b38-4a88-bcda-af30ab682d4a",
+      "postedAt": "2026-10-29T23:40:00.000Z",
+      "updatedAt": "2026-10-29T23:40:00.000Z"
+    },
+    {
+      "id": "fe578533-aedd-414d-b83d-50e37e8a0fb0",
+      "company": "TD",
+      "title": "Software Engineer II Full Stack (Branch Systems)",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485255622/",
+      "url": "https://trueinterview.io/jobs/fe578533-aedd-414d-b83d-50e37e8a0fb0",
+      "postedAt": "2026-10-29T23:39:00.000Z",
+      "updatedAt": "2026-10-29T23:39:00.000Z"
+    },
+    {
+      "id": "186ddbd3-a2c6-41ea-8e29-40cc4bcf4fb1",
+      "company": "Airbus",
+      "title": "Professionel Ingénierie Calcul de contraintes - Éléments finis / Engineering Professional - Finite Element model",
+      "locations": [
+        "Montreal, Quebec, Canada"
+      ],
+      "cities": [
+        "Montreal, QC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485247537/",
+      "url": "https://trueinterview.io/jobs/186ddbd3-a2c6-41ea-8e29-40cc4bcf4fb1",
+      "postedAt": "2026-10-29T23:28:00.000Z",
+      "updatedAt": "2026-10-29T23:28:00.000Z"
+    },
+    {
+      "id": "f5e8e9b9-cbe8-4e04-946a-ece50fd41973",
+      "company": "City of Vancouver",
+      "title": "Building Code Engineer",
+      "locations": [
+        "Vancouver, British Columbia, Canada"
+      ],
+      "cities": [
+        "Vancouver, BC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481142937/",
+      "url": "https://trueinterview.io/jobs/f5e8e9b9-cbe8-4e04-946a-ece50fd41973",
+      "postedAt": "2026-10-29T23:28:00.000Z",
+      "updatedAt": "2026-10-29T23:28:00.000Z"
+    },
+    {
+      "id": "aec558d2-7c93-4a76-89eb-ba3d76eb1226",
+      "company": "CS GROUP - Canada",
+      "title": "Hardware Engineer – Aerospace",
+      "locations": [
+        "Montreal, Quebec, Canada"
+      ],
+      "cities": [
+        "Montreal, QC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485240205/",
+      "url": "https://trueinterview.io/jobs/aec558d2-7c93-4a76-89eb-ba3d76eb1226",
+      "postedAt": "2026-10-29T23:28:00.000Z",
+      "updatedAt": "2026-10-29T23:28:00.000Z"
+    },
+    {
+      "id": "30b07af9-491b-4699-94da-c5eeded4e9c4",
+      "company": "Raytheon",
+      "title": "Power Electronics Engineer I - Onsite",
+      "locations": [
+        "El Segundo, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485247771/",
+      "url": "https://trueinterview.io/jobs/30b07af9-491b-4699-94da-c5eeded4e9c4",
+      "postedAt": "2026-10-29T23:26:00.000Z",
+      "updatedAt": "2026-10-29T23:26:00.000Z"
+    },
+    {
+      "id": "f2309701-a3c8-4b3d-abc2-efe1f5b56bdc",
+      "company": "CARE",
+      "title": "AI SECURITY ENGINEER",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485245521/",
+      "url": "https://trueinterview.io/jobs/f2309701-a3c8-4b3d-abc2-efe1f5b56bdc",
+      "postedAt": "2026-10-29T23:17:00.000Z",
+      "updatedAt": "2026-10-29T23:17:00.000Z"
+    },
+    {
+      "id": "bf9ccaf0-5182-442d-8cee-1c60bfbb5650",
+      "company": "OneStream Software",
+      "title": "Application Security Engineer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485241335/",
+      "url": "https://trueinterview.io/jobs/bf9ccaf0-5182-442d-8cee-1c60bfbb5650",
+      "postedAt": "2026-10-29T23:17:00.000Z",
+      "updatedAt": "2026-10-29T23:17:00.000Z"
+    },
+    {
+      "id": "a81529a8-a099-43a3-87c9-e44261acf293",
+      "company": "RADcube",
+      "title": "iOS Developer",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485256033/",
+      "url": "https://trueinterview.io/jobs/a81529a8-a099-43a3-87c9-e44261acf293",
+      "postedAt": "2026-10-29T23:17:00.000Z",
+      "updatedAt": "2026-10-29T23:17:00.000Z"
+    },
+    {
+      "id": "a9112e99-2c15-4cc9-9bd4-07a474b5e718",
+      "company": "ADT",
+      "title": "Machine Learning Engineer",
+      "locations": [
+        "Boca Raton, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485248415/",
+      "url": "https://trueinterview.io/jobs/a9112e99-2c15-4cc9-9bd4-07a474b5e718",
+      "postedAt": "2026-10-29T23:13:00.000Z",
+      "updatedAt": "2026-10-29T23:13:00.000Z"
+    },
+    {
+      "id": "3d0ba8d3-7677-410d-b233-f60faf4922d9",
+      "company": "AgileGrid Solutions",
+      "title": "Data Analyst",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485256027/",
+      "url": "https://trueinterview.io/jobs/3d0ba8d3-7677-410d-b233-f60faf4922d9",
+      "postedAt": "2026-10-29T23:13:00.000Z",
+      "updatedAt": "2026-10-29T23:13:00.000Z"
+    },
+    {
+      "id": "66a7d614-07dc-4240-ad93-1de614288c33",
+      "company": "Booz Allen Hamilton",
+      "title": "Palantir Data Engineer",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484988421/",
+      "url": "https://trueinterview.io/jobs/66a7d614-07dc-4240-ad93-1de614288c33",
+      "postedAt": "2026-10-29T16:38:00.000Z",
+      "updatedAt": "2026-10-29T23:13:00.000Z"
+    },
+    {
+      "id": "5a6810c4-5f53-42a1-b06c-e1a862476848",
+      "company": "GlobalFoundries",
+      "title": "Sr Failure Analysis Engineer (2027 New College Graduate)",
+      "locations": [
+        "Malta, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481169012/",
+      "url": "https://trueinterview.io/jobs/5a6810c4-5f53-42a1-b06c-e1a862476848",
+      "postedAt": "2026-10-29T23:11:00.000Z",
+      "updatedAt": "2026-10-29T23:11:00.000Z"
+    },
+    {
+      "id": "a7b57214-48b3-46b1-a070-39f5682ad97d",
+      "company": "Cencora",
+      "title": "Engineer I, Systems Software Engineering",
+      "locations": [
+        "United, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474860150/",
+      "url": "https://trueinterview.io/jobs/a7b57214-48b3-46b1-a070-39f5682ad97d",
+      "postedAt": "2026-10-29T23:08:00.000Z",
+      "updatedAt": "2026-10-29T23:08:00.000Z"
+    },
+    {
+      "id": "81949a48-7ea4-416e-8683-06795c492ef0",
+      "company": "Fluor Corporation",
+      "title": "Associate Design Engineer I - Structural New Graduate",
+      "locations": [
+        "Houston, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485244586/",
+      "url": "https://trueinterview.io/jobs/81949a48-7ea4-416e-8683-06795c492ef0",
+      "postedAt": "2026-10-29T23:05:00.000Z",
+      "updatedAt": "2026-10-29T23:05:00.000Z"
+    },
+    {
+      "id": "885d0194-995d-4867-aae6-20f56a2684ff",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Security Operations Engineer, AWS Security Cloud Response, Amazon Security Cloud Security Response",
+      "locations": [
+        "London, England, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485233187/",
+      "url": "https://trueinterview.io/jobs/885d0194-995d-4867-aae6-20f56a2684ff",
+      "postedAt": "2026-10-29T23:04:00.000Z",
+      "updatedAt": "2026-10-29T23:04:00.000Z"
+    },
+    {
+      "id": "9b6a5687-50fe-4ddb-acf9-5d92885c412d",
+      "company": "CBRE",
+      "title": "Electrical Engineer",
+      "locations": [
+        "Newport, England, United Kingdom",
+        "London, England, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484997185/",
+      "url": "https://trueinterview.io/jobs/9b6a5687-50fe-4ddb-acf9-5d92885c412d",
+      "postedAt": "2026-10-29T17:14:00.000Z",
+      "updatedAt": "2026-10-29T23:04:00.000Z"
+    },
+    {
+      "id": "cac41076-1b48-4947-87bd-948e89c575bc",
+      "company": "Niantic Spatial, Inc.",
+      "title": "3D Computer Vision Research Engineer, Geospatial Visual Localization",
+      "locations": [
+        "London, England, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485231982/",
+      "url": "https://trueinterview.io/jobs/cac41076-1b48-4947-87bd-948e89c575bc",
+      "postedAt": "2026-10-29T23:04:00.000Z",
+      "updatedAt": "2026-10-29T23:04:00.000Z"
+    },
+    {
+      "id": "76b5242d-a231-47ff-9ac3-867f4e7ceee1",
+      "company": "s1jobs",
+      "title": "Mechanical Design Engineer Building Services",
+      "locations": [
+        "Glasgow, Scotland, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485242670/",
+      "url": "https://trueinterview.io/jobs/76b5242d-a231-47ff-9ac3-867f4e7ceee1",
+      "postedAt": "2026-10-29T23:04:00.000Z",
+      "updatedAt": "2026-10-29T23:04:00.000Z"
+    },
+    {
+      "id": "7437de0e-82b7-46b9-8bfb-ee36f7a14836",
+      "company": "Scalers",
+      "title": "Android Developer",
+      "locations": [
+        "London Area, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483739002/",
+      "url": "https://trueinterview.io/jobs/7437de0e-82b7-46b9-8bfb-ee36f7a14836",
+      "postedAt": "2026-10-29T23:04:00.000Z",
+      "updatedAt": "2026-10-29T23:04:00.000Z"
+    },
+    {
+      "id": "f40cd058-3e3d-4bc4-94b4-832ba8c4dc0c",
+      "company": "Universal Music Group",
+      "title": "Database Administrator",
+      "locations": [
+        "London, England, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485239413/",
+      "url": "https://trueinterview.io/jobs/f40cd058-3e3d-4bc4-94b4-832ba8c4dc0c",
+      "postedAt": "2026-10-29T23:04:00.000Z",
+      "updatedAt": "2026-10-29T23:04:00.000Z"
+    },
+    {
+      "id": "91e09301-9af5-4889-95f4-0a3ab4cfd460",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Kernel / Hypervisor Engineer, Firecracker",
+      "locations": [
+        "Dublin, County Dublin, Ireland"
+      ],
+      "cities": [
+        "Dublin"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485224439/",
+      "url": "https://trueinterview.io/jobs/91e09301-9af5-4889-95f4-0a3ab4cfd460",
+      "postedAt": "2026-10-29T23:01:00.000Z",
+      "updatedAt": "2026-10-29T23:01:00.000Z"
+    },
+    {
+      "id": "5d558d46-eb94-4f73-bce5-085bc33733dc",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Software Development Engineer, AWS Security Epoxy",
+      "locations": [
+        "Dublin, County Dublin, Ireland"
+      ],
+      "cities": [
+        "Dublin"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485229224/",
+      "url": "https://trueinterview.io/jobs/5d558d46-eb94-4f73-bce5-085bc33733dc",
+      "postedAt": "2026-10-29T23:01:00.000Z",
+      "updatedAt": "2026-10-29T23:01:00.000Z"
+    },
+    {
+      "id": "4c60ae9a-dcd5-4d07-967c-4e01148738c5",
+      "company": "Booz Allen Hamilton",
+      "title": "University - Data Scientist",
+      "locations": [
+        "Honolulu, HI",
+        "El Segundo, CA",
+        "Huntsville, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485257176/",
+      "url": "https://trueinterview.io/jobs/4c60ae9a-dcd5-4d07-967c-4e01148738c5",
+      "postedAt": "2026-10-29T22:56:00.000Z",
+      "updatedAt": "2026-10-29T22:56:00.000Z"
+    },
+    {
+      "id": "ed3c3737-9366-4f3b-abff-586b57197df7",
+      "company": "Bugcrowd",
+      "title": "Customer Support Engineer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485250519/",
+      "url": "https://trueinterview.io/jobs/ed3c3737-9366-4f3b-abff-586b57197df7",
+      "postedAt": "2026-10-29T22:56:00.000Z",
+      "updatedAt": "2026-10-29T22:56:00.000Z"
+    },
+    {
+      "id": "f3768c7a-0927-48cf-9a7f-3dd09b668e69",
+      "company": "Zoox",
+      "title": "Contract Student Worker - Software Engineer (40 hrs/wk)",
+      "locations": [
+        "Foster City, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485247476/",
+      "url": "https://trueinterview.io/jobs/f3768c7a-0927-48cf-9a7f-3dd09b668e69",
+      "postedAt": "2026-10-29T22:56:00.000Z",
+      "updatedAt": "2026-10-29T22:56:00.000Z"
+    },
+    {
+      "id": "bc17ac24-9586-4e9f-a29c-ca6fd8b189a9",
+      "company": "Greater Miami Hebrew Academy, RASG",
+      "title": "Information Technology Desktop Support -Contractor",
+      "locations": [
+        "Miami Beach, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=85a2b64df0e06ebb",
+      "url": "https://trueinterview.io/jobs/bc17ac24-9586-4e9f-a29c-ca6fd8b189a9",
+      "postedAt": "2026-10-29T22:55:37.000Z",
+      "updatedAt": "2026-10-29T22:55:37.000Z"
     },
     {
       "id": "7b3fe0a5-a2fa-42ca-8902-8060e2fb665c",
@@ -58,6 +1018,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4485226273/",
       "url": "https://trueinterview.io/jobs/7b3fe0a5-a2fa-42ca-8902-8060e2fb665c",
+      "postedAt": "2026-10-29T22:54:00.000Z",
+      "updatedAt": "2026-10-29T22:54:00.000Z"
+    },
+    {
+      "id": "df5d440f-9d1d-4638-955f-815db8c53224",
+      "company": "The University of Texas at San Antonio",
+      "title": "Enterprise Programmer Analyst",
+      "locations": [
+        "San Antonio, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485254054/",
+      "url": "https://trueinterview.io/jobs/df5d440f-9d1d-4638-955f-815db8c53224",
       "postedAt": "2026-10-29T22:54:00.000Z",
       "updatedAt": "2026-10-29T22:54:00.000Z"
     },
@@ -191,6 +1176,87 @@
       "updatedAt": "2026-10-29T22:52:00.000Z"
     },
     {
+      "id": "3c8f9ce5-e8c3-415b-867f-4d71adba7078",
+      "company": "Amazon",
+      "title": "Applied Scientist, Minerva",
+      "locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "cities": [
+        "Bengaluru"
+      ],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485222449/",
+      "url": "https://trueinterview.io/jobs/3c8f9ce5-e8c3-415b-867f-4d71adba7078",
+      "postedAt": "2026-10-29T22:51:00.000Z",
+      "updatedAt": "2026-10-29T22:51:00.000Z"
+    },
+    {
+      "id": "93de16e5-00a8-4d34-a29d-1fe7f1dca121",
+      "company": "Amazon",
+      "title": "Software Development Engineer, Alexa Connections",
+      "locations": [
+        "Chennai, Tamil Nadu, India"
+      ],
+      "cities": [
+        "Chennai"
+      ],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484946611/",
+      "url": "https://trueinterview.io/jobs/93de16e5-00a8-4d34-a29d-1fe7f1dca121",
+      "postedAt": "2026-10-29T12:29:00.000Z",
+      "updatedAt": "2026-10-29T22:50:00.000Z"
+    },
+    {
+      "id": "a75baaf0-c7cd-4a19-bce6-2f5ea169941c",
+      "company": "Amazon",
+      "title": "Systems Engineer, Leo Core Infrastructure Development",
+      "locations": [
+        "Bellevue, WA"
+      ],
+      "cities": [
+        "Bellevue, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485215615/",
+      "url": "https://trueinterview.io/jobs/a75baaf0-c7cd-4a19-bce6-2f5ea169941c",
+      "postedAt": "2026-10-29T22:50:00.000Z",
+      "updatedAt": "2026-10-29T22:50:00.000Z"
+    },
+    {
       "id": "dbbd5e10-51de-4298-bb47-cb47be843b37",
       "company": "DCS Corp",
       "title": "Airborne Electronic Warfare (AEW) Integration Analyst/Engineer",
@@ -291,6 +1357,112 @@
       "updatedAt": "2026-10-29T22:42:00.000Z"
     },
     {
+      "id": "d1629ade-b7df-4795-b866-ec781c88f349",
+      "company": "Erasmus MC",
+      "title": "Master’s Thesis Student AI/ML Methods in Primary Care Data",
+      "locations": [
+        "Rotterdam, South Holland, Netherlands"
+      ],
+      "cities": [
+        "Rotterdam"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485250300/",
+      "url": "https://trueinterview.io/jobs/d1629ade-b7df-4795-b866-ec781c88f349",
+      "postedAt": "2026-10-29T22:41:00.000Z",
+      "updatedAt": "2026-10-29T22:41:00.000Z"
+    },
+    {
+      "id": "4e605a86-5dbf-4826-b78e-89a04dcc222b",
+      "company": "OverheidZZP",
+      "title": "Frontend Developer",
+      "locations": [
+        "The Hague, South Holland, Netherlands"
+      ],
+      "cities": [],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485238669/",
+      "url": "https://trueinterview.io/jobs/4e605a86-5dbf-4826-b78e-89a04dcc222b",
+      "postedAt": "2026-10-29T22:41:00.000Z",
+      "updatedAt": "2026-10-29T22:41:00.000Z"
+    },
+    {
+      "id": "8f2e3ed4-021c-4cca-9119-f9b8e8e218ca",
+      "company": "OverheidZZP",
+      "title": "PowerBI Developer",
+      "locations": [
+        "Amsterdam, North Holland, Netherlands"
+      ],
+      "cities": [
+        "Amsterdam"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485249298/",
+      "url": "https://trueinterview.io/jobs/8f2e3ed4-021c-4cca-9119-f9b8e8e218ca",
+      "postedAt": "2026-10-29T22:41:00.000Z",
+      "updatedAt": "2026-10-29T22:41:00.000Z"
+    },
+    {
+      "id": "f1d63c40-f31c-4f61-a3b8-5e12cc0596fd",
+      "company": "OverheidZZP",
+      "title": "Product Owner Developer Platform",
+      "locations": [
+        "Utrecht, Utrecht, Netherlands"
+      ],
+      "cities": [
+        "Utrecht"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485244433/",
+      "url": "https://trueinterview.io/jobs/f1d63c40-f31c-4f61-a3b8-5e12cc0596fd",
+      "postedAt": "2026-10-29T22:41:00.000Z",
+      "updatedAt": "2026-10-29T22:41:00.000Z"
+    },
+    {
       "id": "b9b7307c-7ab7-427f-a9b1-719b447c405f",
       "company": "Aya Healthcare",
       "title": "Data Engineer contract in Sacramento, CA - Make $3,562 - $3,717/week",
@@ -314,6 +1486,31 @@
       "url": "https://trueinterview.io/jobs/b9b7307c-7ab7-427f-a9b1-719b447c405f",
       "postedAt": "2026-10-29T22:40:00.000Z",
       "updatedAt": "2026-10-29T22:40:00.000Z"
+    },
+    {
+      "id": "448fab97-414d-445c-8c51-5f8d5ac9f4af",
+      "company": "Michael Page",
+      "title": "Design Engineer l Metal Manufacturing l Akron, OH",
+      "locations": [
+        "Akron, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485242391/",
+      "url": "https://trueinterview.io/jobs/448fab97-414d-445c-8c51-5f8d5ac9f4af",
+      "postedAt": "2026-10-29T22:38:00.000Z",
+      "updatedAt": "2026-10-29T22:38:00.000Z"
     },
     {
       "id": "e2b12e94-148f-4aa6-83ec-7f60da2dc5f2",
@@ -364,6 +1561,31 @@
       "url": "https://trueinterview.io/jobs/bda7f427-2479-42e9-82bc-74f0d992e5af",
       "postedAt": "2026-10-29T22:37:11.000Z",
       "updatedAt": "2026-10-29T22:37:11.000Z"
+    },
+    {
+      "id": "8f67d270-f0d8-4d01-8c6b-29245fce58c8",
+      "company": "KUBICKI DRAPER",
+      "title": "IT Help Desk Technician",
+      "locations": [
+        "Kendall, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://apply.workable.com/j/5CE0D6E11A",
+      "url": "https://trueinterview.io/jobs/8f67d270-f0d8-4d01-8c6b-29245fce58c8",
+      "postedAt": "2026-10-29T22:36:05.000Z",
+      "updatedAt": "2026-10-29T22:36:05.000Z"
     },
     {
       "id": "d8b56884-d3fa-45c2-b293-1c274cd74ed3",
@@ -507,6 +1729,29 @@
       "updatedAt": "2026-10-29T22:33:00.000Z"
     },
     {
+      "id": "02d98931-b8b4-4673-b6a2-d1740dbc4ecb",
+      "company": "Cook Medical",
+      "title": "Research and Development Engineer 1",
+      "locations": [
+        "Greater Bloomington Area"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485244172/",
+      "url": "https://trueinterview.io/jobs/02d98931-b8b4-4673-b6a2-d1740dbc4ecb",
+      "postedAt": "2026-10-29T22:32:00.000Z",
+      "updatedAt": "2026-10-29T22:32:00.000Z"
+    },
+    {
       "id": "f9c11e37-e71a-4675-835b-3bed8f80c0df",
       "company": "DeLaval",
       "title": "Technical Support Specialist (m/w/d) South",
@@ -528,6 +1773,56 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4420193445/",
       "url": "https://trueinterview.io/jobs/f9c11e37-e71a-4675-835b-3bed8f80c0df",
+      "postedAt": "2026-10-29T22:32:00.000Z",
+      "updatedAt": "2026-10-29T22:32:00.000Z"
+    },
+    {
+      "id": "a1dc2372-bd79-45ff-81c7-43f6ada0fa52",
+      "company": "General Atomics Aeronautical Systems",
+      "title": "Engineer, Fleet and Deployment Services",
+      "locations": [
+        "Poway, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485239575/",
+      "url": "https://trueinterview.io/jobs/a1dc2372-bd79-45ff-81c7-43f6ada0fa52",
+      "postedAt": "2026-10-29T22:32:00.000Z",
+      "updatedAt": "2026-10-29T22:32:00.000Z"
+    },
+    {
+      "id": "bd4a561e-fa7c-4232-ad54-d396c9608ddd",
+      "company": "MACOM",
+      "title": "Mechanical Engineer (Entry Level)",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485250195/",
+      "url": "https://trueinterview.io/jobs/bd4a561e-fa7c-4232-ad54-d396c9608ddd",
       "postedAt": "2026-10-29T22:32:00.000Z",
       "updatedAt": "2026-10-29T22:32:00.000Z"
     },
@@ -664,6 +1959,135 @@
       "updatedAt": "2026-10-29T22:18:00.000Z"
     },
     {
+      "id": "65c3618d-fc8d-4c9b-a302-db5b8e24756e",
+      "company": "Gandiv Insights LLC",
+      "title": "QA Manual Tester – Data Validation - Dallas, TX - Onsite",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485244261/",
+      "url": "https://trueinterview.io/jobs/65c3618d-fc8d-4c9b-a302-db5b8e24756e",
+      "postedAt": "2026-10-29T22:17:00.000Z",
+      "updatedAt": "2026-10-29T22:17:00.000Z"
+    },
+    {
+      "id": "7697250f-670e-417c-9317-0a561755475e",
+      "company": "PTR Global",
+      "title": "Web UI Engineer (Building Livestream tool exp must needed: hls.js experience)",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485244257/",
+      "url": "https://trueinterview.io/jobs/7697250f-670e-417c-9317-0a561755475e",
+      "postedAt": "2026-10-29T22:17:00.000Z",
+      "updatedAt": "2026-10-29T22:17:00.000Z"
+    },
+    {
+      "id": "32e95a73-02b4-4fda-947e-9201e8007291",
+      "company": "TaskVerse",
+      "title": "Frontend Engineer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484792329/",
+      "url": "https://trueinterview.io/jobs/32e95a73-02b4-4fda-947e-9201e8007291",
+      "postedAt": "2026-10-29T04:11:00.000Z",
+      "updatedAt": "2026-10-29T22:17:00.000Z"
+    },
+    {
+      "id": "2e2a1be7-33e7-45a7-ac78-5a1a968ccdcb",
+      "company": "TaskVerse",
+      "title": "PHP Developer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485234838/",
+      "url": "https://trueinterview.io/jobs/2e2a1be7-33e7-45a7-ac78-5a1a968ccdcb",
+      "postedAt": "2026-10-29T22:17:00.000Z",
+      "updatedAt": "2026-10-29T22:17:00.000Z"
+    },
+    {
+      "id": "f15a0bd2-c160-4d09-b5ba-2880ff86e763",
+      "company": "Trail",
+      "title": "Forward Deployed Engineer",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485240274/",
+      "url": "https://trueinterview.io/jobs/f15a0bd2-c160-4d09-b5ba-2880ff86e763",
+      "postedAt": "2026-10-29T22:17:00.000Z",
+      "updatedAt": "2026-10-29T22:17:00.000Z"
+    },
+    {
       "id": "4e587828-840f-443a-8395-90d2d267f760",
       "company": "Bitovi",
       "title": "Database Engineer - PostgreSQL",
@@ -714,6 +2138,156 @@
       "updatedAt": "2026-10-29T22:15:00.000Z"
     },
     {
+      "id": "aa260825-f587-4539-8a69-9597468584f1",
+      "company": "Alined Consulting Group",
+      "title": "Service Desk Analyst",
+      "locations": [
+        "Downers Grove, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485241067/",
+      "url": "https://trueinterview.io/jobs/aa260825-f587-4539-8a69-9597468584f1",
+      "postedAt": "2026-10-29T22:13:00.000Z",
+      "updatedAt": "2026-10-29T22:13:00.000Z"
+    },
+    {
+      "id": "14c1b4bd-5276-484e-b1b6-86b0be5c8b7a",
+      "company": "Moss",
+      "title": "Regional IT Analyst",
+      "locations": [
+        "Orlando, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485243048/",
+      "url": "https://trueinterview.io/jobs/14c1b4bd-5276-484e-b1b6-86b0be5c8b7a",
+      "postedAt": "2026-10-29T22:13:00.000Z",
+      "updatedAt": "2026-10-29T22:13:00.000Z"
+    },
+    {
+      "id": "c66e9c31-420f-400d-a936-7712f9f09683",
+      "company": "TaskVerse",
+      "title": "Network Engineer",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484728780/",
+      "url": "https://trueinterview.io/jobs/c66e9c31-420f-400d-a936-7712f9f09683",
+      "postedAt": "2026-10-28T22:21:00.000Z",
+      "updatedAt": "2026-10-29T22:13:00.000Z"
+    },
+    {
+      "id": "8a9402b9-6c25-4309-a94f-40be8d1192e9",
+      "company": "TaskVerse",
+      "title": "Systems Administrator",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485244171/",
+      "url": "https://trueinterview.io/jobs/8a9402b9-6c25-4309-a94f-40be8d1192e9",
+      "postedAt": "2026-10-29T22:13:00.000Z",
+      "updatedAt": "2026-10-29T22:13:00.000Z"
+    },
+    {
+      "id": "f3e49259-908e-4015-94df-7bc49d6be598",
+      "company": "V Group Inc.",
+      "title": "Qlik Sense Developer",
+      "locations": [
+        "Florida, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485240095/",
+      "url": "https://trueinterview.io/jobs/f3e49259-908e-4015-94df-7bc49d6be598",
+      "postedAt": "2026-10-29T22:13:00.000Z",
+      "updatedAt": "2026-10-29T22:13:00.000Z"
+    },
+    {
+      "id": "eb007130-038d-4be1-a190-6021907c6d66",
+      "company": "Helix Electric",
+      "title": "Commissioning Engineer",
+      "locations": [
+        "Manassas, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://recruiting2.ultipro.com/HEL1006HELI/JobBoard/73d20f56-33cd-4859-a6e3-7c858a9a8241/OpportunityDetail?opportunityId=fbb87938-6b7b-405c-9a7f-815c1c333c9e&postingId=96334ebb-a712-4799-819e-37f0491ba3cd",
+      "url": "https://trueinterview.io/jobs/eb007130-038d-4be1-a190-6021907c6d66",
+      "postedAt": "2026-10-29T22:10:58.000Z",
+      "updatedAt": "2026-10-29T22:10:58.000Z"
+    },
+    {
       "id": "e3f2fbe6-04bc-4c8e-af66-17df4c33150f",
       "company": "ECS",
       "title": "Web Developer",
@@ -737,31 +2311,6 @@
       "url": "https://trueinterview.io/jobs/e3f2fbe6-04bc-4c8e-af66-17df4c33150f",
       "postedAt": "2026-10-29T22:10:00.000Z",
       "updatedAt": "2026-10-29T22:10:00.000Z"
-    },
-    {
-      "id": "03554f21-3c57-4932-9568-9fafb25b3a5d",
-      "company": "Compello Partners",
-      "title": "Regional IT Support Technician",
-      "locations": [
-        "Dallas, TX"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.indeed.com/viewjob?jk=679df0f288d7d701",
-      "url": "https://trueinterview.io/jobs/03554f21-3c57-4932-9568-9fafb25b3a5d",
-      "postedAt": "2026-10-29T22:08:34.000Z",
-      "updatedAt": "2026-10-29T22:08:34.000Z"
     },
     {
       "id": "3ba5c5b9-7b6d-4e2b-ac01-e2eeff666912",
@@ -810,6 +2359,33 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4474377063/",
       "url": "https://trueinterview.io/jobs/743002cc-a77a-4e4d-b756-2d13849764d1",
+      "postedAt": "2026-10-29T22:04:00.000Z",
+      "updatedAt": "2026-10-29T22:04:00.000Z"
+    },
+    {
+      "id": "870b49d3-2f8d-41ae-9d73-7265c9912b34",
+      "company": "Hypersonica",
+      "title": "Aerodynamics Control Engineer - Simulation",
+      "locations": [
+        "London, England, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485208604/",
+      "url": "https://trueinterview.io/jobs/870b49d3-2f8d-41ae-9d73-7265c9912b34",
       "postedAt": "2026-10-29T22:04:00.000Z",
       "updatedAt": "2026-10-29T22:04:00.000Z"
     },
@@ -1042,6 +2618,31 @@
       "url": "https://trueinterview.io/jobs/34aee126-c45d-4901-861e-4ee62b394a36",
       "postedAt": "2026-10-29T21:46:00.000Z",
       "updatedAt": "2026-10-29T21:46:00.000Z"
+    },
+    {
+      "id": "3e4052cb-6e93-4eb6-80ea-104853d7dec6",
+      "company": "Sparc technology services inc",
+      "title": "Python Developer",
+      "locations": [
+        "Plano, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://sparc-technology-services-inc.careerplug.com/j/036olwj",
+      "url": "https://trueinterview.io/jobs/3e4052cb-6e93-4eb6-80ea-104853d7dec6",
+      "postedAt": "2026-10-29T21:43:50.000Z",
+      "updatedAt": "2026-10-29T21:43:50.000Z"
     },
     {
       "id": "38709d14-651c-43ef-839c-94fbce152f4d",
@@ -1321,6 +2922,32 @@
       "updatedAt": "2026-10-29T21:31:00.000Z"
     },
     {
+      "id": "37ad8998-0261-4764-8fd4-b2594e2b321b",
+      "company": "Apple",
+      "title": "Battery Management Systems - Electrical Engineer",
+      "locations": [
+        "Cupertino, California, United States",
+        "San Diego, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200692331",
+      "url": "https://trueinterview.io/jobs/37ad8998-0261-4764-8fd4-b2594e2b321b",
+      "postedAt": "2026-10-29T21:30:09.000Z",
+      "updatedAt": "2026-10-29T21:30:09.000Z"
+    },
+    {
       "id": "42bbb478-a536-48df-9629-35a9323996fc",
       "company": "Grove Technical Resources",
       "title": "MES Engineer",
@@ -1476,6 +3103,31 @@
       "updatedAt": "2026-10-29T21:15:00.000Z"
     },
     {
+      "id": "20f11969-6968-4465-b524-25ffa47cbe60",
+      "company": "ClifyX",
+      "title": "Network Engineer",
+      "locations": [
+        "Huntsville, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485237242/",
+      "url": "https://trueinterview.io/jobs/20f11969-6968-4465-b524-25ffa47cbe60",
+      "postedAt": "2026-10-29T21:13:00.000Z",
+      "updatedAt": "2026-10-29T21:13:00.000Z"
+    },
+    {
       "id": "7f878ba1-f2ed-4659-819c-fbbc9ad19521",
       "company": "Alibaba Cloud",
       "title": "Data Center Facilities Engineer-Paris, France",
@@ -1526,6 +3178,31 @@
       "url": "https://trueinterview.io/jobs/69ee4f1a-b4bf-4d54-a735-7349b4617419",
       "postedAt": "2026-10-29T21:06:00.000Z",
       "updatedAt": "2026-10-29T21:06:00.000Z"
+    },
+    {
+      "id": "c0abb677-8d86-4082-b8f6-aef42564641a",
+      "company": "Cogent Bytes Ltd",
+      "title": "AWS DevOps Engineer",
+      "locations": [
+        "Slough, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "DevOps Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://uk.indeed.com/viewjob?jk=0e6930c71153fcb4",
+      "url": "https://trueinterview.io/jobs/c0abb677-8d86-4082-b8f6-aef42564641a",
+      "postedAt": "2026-10-29T21:04:05.000Z",
+      "updatedAt": "2026-10-29T21:04:05.000Z"
     },
     {
       "id": "888c3768-e9df-46b8-a483-7794b1ef7520",
@@ -1582,6 +3259,35 @@
       "updatedAt": "2026-10-29T21:01:00.000Z"
     },
     {
+      "id": "10c1e750-5812-4313-994c-74e1711cf003",
+      "company": "Apple",
+      "title": "GPU Physical Design Engineer",
+      "locations": [
+        "Cambridge, England, United Kingdom",
+        "London, England, United Kingdom"
+      ],
+      "cities": [
+        "Cambridge",
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200627128",
+      "url": "https://trueinterview.io/jobs/10c1e750-5812-4313-994c-74e1711cf003",
+      "postedAt": "2026-10-29T20:56:44.000Z",
+      "updatedAt": "2026-10-29T20:56:44.000Z"
+    },
+    {
       "id": "7d4e5682-14fd-49f2-9ff5-cda09b2a86a3",
       "company": "Calance",
       "title": "Ansible/OpenShift Developer",
@@ -1630,6 +3336,33 @@
       "url": "https://trueinterview.io/jobs/9a9c4b50-143c-4734-80c5-594e064420bf",
       "postedAt": "2026-10-29T20:43:00.000Z",
       "updatedAt": "2026-10-29T20:43:00.000Z"
+    },
+    {
+      "id": "2ea27315-7222-47d8-83eb-e7d8a1e4d27e",
+      "company": "Apple",
+      "title": "SoC Physical Design Engineer (M, F, D)",
+      "locations": [
+        "Munich, Bavaria, Germany"
+      ],
+      "cities": [
+        "Munich"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200642449",
+      "url": "https://trueinterview.io/jobs/2ea27315-7222-47d8-83eb-e7d8a1e4d27e",
+      "postedAt": "2026-10-29T20:36:54.000Z",
+      "updatedAt": "2026-10-29T20:36:54.000Z"
     },
     {
       "id": "510f35a0-0711-45e8-bcee-9d44425c6e12",
@@ -5509,7 +7242,8 @@
       "company": "Visa",
       "title": "Software Engineer",
       "locations": [
-        "London, England, United Kingdom"
+        "London, England, United Kingdom",
+        "London, United Kingdom"
       ],
       "cities": [
         "London"
@@ -5526,7 +7260,7 @@
       "kind": "newgrad",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485232020/",
+      "applyUrl": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/Software-Engineer_REF089813W",
       "url": "https://trueinterview.io/jobs/6c39c326-a3e4-437a-a79a-af872aa997b1",
       "postedAt": "2026-10-29T18:32:00.000Z",
       "updatedAt": "2026-10-29T18:32:00.000Z"
@@ -8485,31 +10219,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4485209319/",
       "url": "https://trueinterview.io/jobs/d0df5086-458b-4faa-9bae-d8a6fd67ee52",
-      "postedAt": "2026-10-29T17:57:00.000Z",
-      "updatedAt": "2026-10-29T17:57:00.000Z"
-    },
-    {
-      "id": "4d758718-af3f-4f83-935e-36cdb5dd5af9",
-      "company": "Naval Nuclear Laboratory (FMP)",
-      "title": "Nuclear Engineer (Thermal/Hydraulic), Associate (Entry Level)",
-      "locations": [
-        "Niskayuna, NY"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484996903/",
-      "url": "https://trueinterview.io/jobs/4d758718-af3f-4f83-935e-36cdb5dd5af9",
       "postedAt": "2026-10-29T17:57:00.000Z",
       "updatedAt": "2026-10-29T17:57:00.000Z"
     },
@@ -12475,31 +14184,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4484996357/",
       "url": "https://trueinterview.io/jobs/1ee87c3b-9e64-4f8e-b7e5-6e23621ccd82",
-      "postedAt": "2026-10-29T17:14:00.000Z",
-      "updatedAt": "2026-10-29T17:14:00.000Z"
-    },
-    {
-      "id": "9b6a5687-50fe-4ddb-acf9-5d92885c412d",
-      "company": "CBRE",
-      "title": "Electrical Engineer",
-      "locations": [
-        "Newport, England, United Kingdom"
-      ],
-      "cities": [],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484997185/",
-      "url": "https://trueinterview.io/jobs/9b6a5687-50fe-4ddb-acf9-5d92885c412d",
       "postedAt": "2026-10-29T17:14:00.000Z",
       "updatedAt": "2026-10-29T17:14:00.000Z"
     },
@@ -16530,33 +18214,6 @@
       "updatedAt": "2026-10-29T16:39:00.000Z"
     },
     {
-      "id": "66a7d614-07dc-4240-ad93-1de614288c33",
-      "company": "Booz Allen Hamilton",
-      "title": "Palantir Data Engineer",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "cities": [
-        "Atlanta, GA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484988421/",
-      "url": "https://trueinterview.io/jobs/66a7d614-07dc-4240-ad93-1de614288c33",
-      "postedAt": "2026-10-29T16:38:00.000Z",
-      "updatedAt": "2026-10-29T16:38:00.000Z"
-    },
-    {
       "id": "8dcf6014-2500-4261-b109-a19fa382d461",
       "company": "Europace Ratenkredit GmbH",
       "title": "Data Engineer - Fintech - remote (w/m/d)",
@@ -17960,6 +19617,31 @@
       "updatedAt": "2026-10-29T16:23:00.000Z"
     },
     {
+      "id": "043aed93-337e-4142-9e05-a8d743ee0ce0",
+      "company": "Reser's Fine Foods",
+      "title": "Engineer-PLC Controls",
+      "locations": [
+        "Memphis, TN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://recruiting2.ultipro.com/RES1004RESER/JobBoard/9ba83fb8-6df3-4ea9-86c7-439dd6aa08cc/OpportunityDetail?opportunityId=f9880f18-68d3-4b77-9f7d-22d42beefbcf&postingId=1f41b065-aafd-43bb-962c-24b007417893",
+      "url": "https://trueinterview.io/jobs/043aed93-337e-4142-9e05-a8d743ee0ce0",
+      "postedAt": "2026-10-29T16:22:03.000Z",
+      "updatedAt": "2026-10-29T16:22:03.000Z"
+    },
+    {
       "id": "51b2353f-3775-4541-9ea1-c48fbfba5efd",
       "company": "Apogee Enterprises, Inc.",
       "title": "Service Desk Technician",
@@ -19077,31 +20759,6 @@
       "updatedAt": "2026-10-29T16:15:00.000Z"
     },
     {
-      "id": "a699f4a2-c68d-4993-b623-982100a23765",
-      "company": "TaskVerse",
-      "title": "Software Developer",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484733776/",
-      "url": "https://trueinterview.io/jobs/a699f4a2-c68d-4993-b623-982100a23765",
-      "postedAt": "2026-10-28T22:10:00.000Z",
-      "updatedAt": "2026-10-29T16:15:00.000Z"
-    },
-    {
       "id": "d5faf98b-adcc-45af-aa97-8c261337c688",
       "company": "TaskVerse",
       "title": "Wordpress Developer",
@@ -19506,32 +21163,6 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4484988142/",
       "url": "https://trueinterview.io/jobs/9b215b8a-7cde-4606-8fe4-f7c6f8d67455",
       "postedAt": "2026-10-29T16:11:00.000Z",
-      "updatedAt": "2026-10-29T16:11:00.000Z"
-    },
-    {
-      "id": "cc9da36c-0fed-4e30-8010-5e11caf56be2",
-      "company": "TaskVerse",
-      "title": "Backend Developer",
-      "locations": [
-        "United States",
-        "Australia"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Backend Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484735609/",
-      "url": "https://trueinterview.io/jobs/cc9da36c-0fed-4e30-8010-5e11caf56be2",
-      "postedAt": "2026-10-28T22:11:00.000Z",
       "updatedAt": "2026-10-29T16:11:00.000Z"
     },
     {
@@ -20221,31 +21852,6 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4484740288/",
       "url": "https://trueinterview.io/jobs/d611cf01-4561-415d-98ef-918b150294b0",
       "postedAt": "2026-10-28T22:11:00.000Z",
-      "updatedAt": "2026-10-29T16:07:00.000Z"
-    },
-    {
-      "id": "8cdd2cfc-b702-4a9f-b7fa-f850708db208",
-      "company": "TaskVerse",
-      "title": "Salesforce Developer",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484488388/",
-      "url": "https://trueinterview.io/jobs/8cdd2cfc-b702-4a9f-b7fa-f850708db208",
-      "postedAt": "2026-10-28T16:08:00.000Z",
       "updatedAt": "2026-10-29T16:07:00.000Z"
     },
     {
@@ -21078,7 +22684,8 @@
       "company": "Sky",
       "title": "AI Platform Engineer (Cloud)",
       "locations": [
-        "Livingston, Scotland, United Kingdom"
+        "Livingston, Scotland, United Kingdom",
+        "Livingston, United Kingdom"
       ],
       "cities": [],
       "countries": [
@@ -21329,6 +22936,33 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4484970638/",
       "url": "https://trueinterview.io/jobs/e949b677-341f-41ae-9ee3-bdc64a0c18ac",
+      "postedAt": "2026-10-29T15:52:00.000Z",
+      "updatedAt": "2026-10-29T15:52:00.000Z"
+    },
+    {
+      "id": "4a480fa4-2cb4-42e1-bde2-c0e1af0acbd8",
+      "company": "PeopleConnect Staffing",
+      "title": "Manufacturing Operations Engineer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://apply.workable.com/j/8D4C1DDFD3",
+      "url": "https://trueinterview.io/jobs/4a480fa4-2cb4-42e1-bde2-c0e1af0acbd8",
       "postedAt": "2026-10-29T15:52:00.000Z",
       "updatedAt": "2026-10-29T15:52:00.000Z"
     },
@@ -33733,6 +35367,31 @@
       "updatedAt": "2026-10-29T13:42:00.000Z"
     },
     {
+      "id": "f9e4f262-65a5-47fc-b5b5-b173ad1e4e7d",
+      "company": "WORKFORCE Employment Specialists",
+      "title": "Technical Support Specialist",
+      "locations": [
+        "Norton Shores, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://100hires.com/j/d7AARrZ",
+      "url": "https://trueinterview.io/jobs/f9e4f262-65a5-47fc-b5b5-b173ad1e4e7d",
+      "postedAt": "2026-10-29T13:42:00.000Z",
+      "updatedAt": "2026-10-29T13:42:00.000Z"
+    },
+    {
       "id": "91424b18-a161-41ef-ac97-e2f95f684285",
       "company": "Ascii Group, LLC",
       "title": "Full Stack OSS Developer – Spring Boot & React",
@@ -41150,33 +42809,6 @@
       "updatedAt": "2026-10-29T12:33:00.000Z"
     },
     {
-      "id": "b801fd53-4fe1-4f4b-b94d-96e66929583e",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Amazon Cloud Management Foundations",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484942828/",
-      "url": "https://trueinterview.io/jobs/b801fd53-4fe1-4f4b-b94d-96e66929583e",
-      "postedAt": "2026-10-29T12:32:00.000Z",
-      "updatedAt": "2026-10-29T12:32:00.000Z"
-    },
-    {
       "id": "03bad9c9-3867-45c3-884e-81ea8aec93d0",
       "company": "ATI",
       "title": "Engineer, Process Control & Automation - Rotational Program",
@@ -41433,33 +43065,6 @@
       "url": "https://trueinterview.io/jobs/27985eec-a9b9-4f7a-9660-e8da73188931",
       "postedAt": "2026-10-29T12:30:00.000Z",
       "updatedAt": "2026-10-29T12:30:00.000Z"
-    },
-    {
-      "id": "93de16e5-00a8-4d34-a29d-1fe7f1dca121",
-      "company": "Amazon",
-      "title": "Software Development Engineer, Alexa Connections",
-      "locations": [
-        "Chennai, Tamil Nadu, India"
-      ],
-      "cities": [
-        "Chennai"
-      ],
-      "countries": [
-        "India"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484946611/",
-      "url": "https://trueinterview.io/jobs/93de16e5-00a8-4d34-a29d-1fe7f1dca121",
-      "postedAt": "2026-10-29T12:29:00.000Z",
-      "updatedAt": "2026-10-29T12:29:00.000Z"
     },
     {
       "id": "761abfc5-ad24-4c0b-aa61-82704cd23de7",
@@ -45099,31 +46704,6 @@
       "updatedAt": "2026-10-29T11:46:00.000Z"
     },
     {
-      "id": "fb0f79e1-0219-487a-ad6f-acb91567106d",
-      "company": "Netrolynx AI",
-      "title": "Data Engineer",
-      "locations": [
-        "United Kingdom"
-      ],
-      "cities": [],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484949183/",
-      "url": "https://trueinterview.io/jobs/fb0f79e1-0219-487a-ad6f-acb91567106d",
-      "postedAt": "2026-10-29T11:45:00.000Z",
-      "updatedAt": "2026-10-29T11:45:00.000Z"
-    },
-    {
       "id": "f3fc9fe0-df4a-45ef-88af-13d9d7ccd231",
       "company": "Niantic Spatial, Inc.",
       "title": "AI Automation Engineer, Real-World Test Lab",
@@ -47605,31 +49185,6 @@
       "updatedAt": "2026-10-29T11:19:00.000Z"
     },
     {
-      "id": "d4932cde-a215-4fa7-a2de-9770ef966dba",
-      "company": "ALTEN Technology USA",
-      "title": "Reliability Engineer",
-      "locations": [
-        "New Bern, NC"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4468222564/",
-      "url": "https://trueinterview.io/jobs/d4932cde-a215-4fa7-a2de-9770ef966dba",
-      "postedAt": "2026-10-29T11:18:10.000Z",
-      "updatedAt": "2026-10-29T11:18:10.000Z"
-    },
-    {
       "id": "0443d4a0-5ece-4860-9013-abfa4ad7b369",
       "company": "Saronic Technologies",
       "title": "Manufacturing Engineer – Electrical",
@@ -47855,6 +49410,33 @@
       "url": "https://trueinterview.io/jobs/7ebbec0f-2283-45f3-a510-3229182e8b36",
       "postedAt": "2026-10-29T11:13:00.000Z",
       "updatedAt": "2026-10-29T11:13:00.000Z"
+    },
+    {
+      "id": "8ef8779b-1e6b-4c85-b57a-5c74e8e24399",
+      "company": "Avacone",
+      "title": "ServiceNow Developer - Professional Level",
+      "locations": [
+        "London, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://apply.workable.com/j/9FC3EC5FAE",
+      "url": "https://trueinterview.io/jobs/8ef8779b-1e6b-4c85-b57a-5c74e8e24399",
+      "postedAt": "2026-10-29T11:12:34.000Z",
+      "updatedAt": "2026-10-29T11:12:34.000Z"
     },
     {
       "id": "9d5853ca-b862-4c2e-80bd-ee2b5405a937",
@@ -66445,6 +68027,31 @@
       "updatedAt": "2026-10-29T06:00:00.000Z"
     },
     {
+      "id": "fa12dd98-1db9-4fe1-b4c6-80489f1b6149",
+      "company": "CUBISCAN",
+      "title": "Firmware/Embedded Software Engineer",
+      "locations": [
+        "Ogden, UT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://cubiscan.isolvedhire.com/jobs/1894170-576519.html",
+      "url": "https://trueinterview.io/jobs/fa12dd98-1db9-4fe1-b4c6-80489f1b6149",
+      "postedAt": "2026-10-29T06:00:00.000Z",
+      "updatedAt": "2026-10-29T06:00:00.000Z"
+    },
+    {
       "id": "48658768-6b6b-4d40-95d8-306ed732ccb3",
       "company": "CUBISCAN",
       "title": "IT Help Desk Technician",
@@ -66466,6 +68073,31 @@
       "source": "indeed",
       "applyUrl": "https://cubiscan.isolvedhire.com/jobs/1894378-576519.html",
       "url": "https://trueinterview.io/jobs/48658768-6b6b-4d40-95d8-306ed732ccb3",
+      "postedAt": "2026-10-29T06:00:00.000Z",
+      "updatedAt": "2026-10-29T06:00:00.000Z"
+    },
+    {
+      "id": "0bb36f94-9dca-4d27-a68a-94905274d3f8",
+      "company": "Summit TRC",
+      "title": "Test Engineer",
+      "locations": [
+        "Huntsville, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://summittrc.isolvedhire.com/jobs/1894086-422073.html",
+      "url": "https://trueinterview.io/jobs/0bb36f94-9dca-4d27-a68a-94905274d3f8",
       "postedAt": "2026-10-29T06:00:00.000Z",
       "updatedAt": "2026-10-29T06:00:00.000Z"
     },
@@ -69813,6 +71445,31 @@
       "updatedAt": "2026-10-29T05:01:00.000Z"
     },
     {
+      "id": "1c0be9b8-30b5-4526-9fd6-091717fd0e86",
+      "company": "2 Circle Inc",
+      "title": "Test Engineer",
+      "locations": [
+        "Fort Walton Beach, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://2circleinc.bamboohr.com/careers/325?postedDate=2026-10-29",
+      "url": "https://trueinterview.io/jobs/1c0be9b8-30b5-4526-9fd6-091717fd0e86",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
       "id": "5163ae25-0dff-4150-a230-ee0491078514",
       "company": "ABeam Consulting (Singapore)",
       "title": "Microsoft Fabric Data Lake Developer",
@@ -69911,6 +71568,158 @@
       "source": "indeed",
       "applyUrl": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Getafe-Area/XMLNAME--BECA-AHE---SW-Design--Coding-and-Integration-Engineer_JR10452807",
       "url": "https://trueinterview.io/jobs/9a686e45-fd12-4fa0-8f5c-cf15eab7957f",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "4b420f8e-533d-43df-bfac-7c9c90b3c5bc",
+      "company": "Alarm.com",
+      "title": "Software Engineer",
+      "locations": [
+        "Needham, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://grnh.se/vrsie9gx2us",
+      "url": "https://trueinterview.io/jobs/4b420f8e-533d-43df-bfac-7c9c90b3c5bc",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "3d245c8f-4cd6-4aa4-8b5e-ef8719ca6cb5",
+      "company": "Alimentiv",
+      "title": "Clinical Database Programmer",
+      "locations": [
+        "Remote, United Kingdom",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.lever.co/alimentiv-2/5f31963e-d799-49e4-9c48-483b73852afe",
+      "url": "https://trueinterview.io/jobs/3d245c8f-4cd6-4aa4-8b5e-ef8719ca6cb5",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "c4312537-1bfc-47dc-9f20-7a770cab3181",
+      "company": "Allied Universal Technology Services",
+      "title": "Application Engineer",
+      "locations": [
+        "Secaucus, NJ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://apply-v41.jobsync.io/indeed/r-app/01b023b63a1a254ab9c750187aad1ac2b0ad8b814e444d7c7087187a/",
+      "url": "https://trueinterview.io/jobs/c4312537-1bfc-47dc-9f20-7a770cab3181",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "6a4103df-6738-48b1-b915-5d74b464bb58",
+      "company": "Automation Consultants",
+      "title": "Software Engineer",
+      "locations": [
+        "Reading, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://t.gohiring.com/h/09377e9de13e71f421bc1ff395447abbe4285252e8288fc94a7547015cdfdf05",
+      "url": "https://trueinterview.io/jobs/6a4103df-6738-48b1-b915-5d74b464bb58",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "e899ccb9-df7d-4d35-ab39-1f192d90004f",
+      "company": "Banyan Software",
+      "title": "Full Stack Software Engineer",
+      "locations": [
+        "Austin, TX",
+        "Remote"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://grnh.se/bxofi4kb7us",
+      "url": "https://trueinterview.io/jobs/e899ccb9-df7d-4d35-ab39-1f192d90004f",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "de295480-56b7-4342-9a55-19e54fde2721",
+      "company": "BioCatch",
+      "title": "AI & Software Infra Engineer",
+      "locations": [
+        "יפו, ישראל"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.comeet.com/jobs/biocatch/03.00E/ai--software-infra-engineer/29.477?coref=1.11.p4B_7D12",
+      "url": "https://trueinterview.io/jobs/de295480-56b7-4342-9a55-19e54fde2721",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
@@ -70095,6 +71904,33 @@
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
     {
+      "id": "42f50828-d77b-4b58-a384-843dc4fc6a9b",
+      "company": "Citi",
+      "title": "Counterparty Credit Risk Python Developer, AVP",
+      "locations": [
+        "London, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.citi.com/job/london/counterparty-credit-risk-python-developer-avp/287/102584401792",
+      "url": "https://trueinterview.io/jobs/42f50828-d77b-4b58-a384-843dc4fc6a9b",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
       "id": "87c3f14c-20e9-4363-ae20-52be008d59ea",
       "company": "CITY OF NAMPA",
       "title": "IT HELP DESK SUPPORT SPECIALIST (TEMPORARY ASSIGNMENT)",
@@ -70144,6 +71980,33 @@
       "source": "indeed",
       "applyUrl": "https://cityofvancouver.wd5.myworkdayjobs.com/en-US/COV/job/LOC0157-Fire-Station-5/Data-Analyst_26-0303",
       "url": "https://trueinterview.io/jobs/a96844b1-c8fd-4c1c-a3b6-1f4ec797a4e3",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "ccdccdca-1f62-4a63-ac1f-f8b97c5db44f",
+      "company": "Clayco",
+      "title": "Integrations Engineer",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.crelate.com/portal/clayco/job/qs7em87az4dz3yh7bu8ff3gsiy?r=28",
+      "url": "https://trueinterview.io/jobs/ccdccdca-1f62-4a63-ac1f-f8b97c5db44f",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
@@ -70502,6 +72365,35 @@
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
     {
+      "id": "76ad087c-e894-47ee-825b-9b71b1af0c56",
+      "company": "Gecko Robotics",
+      "title": "Solutions Engineer | Power",
+      "locations": [
+        "Pittsburgh, PA",
+        "Remote",
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.ashbyhq.com/gecko-robotics/7bc54434-0c56-492e-8138-d6861dce933e",
+      "url": "https://trueinterview.io/jobs/76ad087c-e894-47ee-825b-9b71b1af0c56",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
       "id": "16448ba3-0cf9-42bf-9669-08951e2b33b5",
       "company": "Girsberger Informatik AG",
       "title": "Data Engineer (80-100 %)",
@@ -70605,6 +72497,58 @@
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
     {
+      "id": "46f5d29d-bbdc-4bcb-90a1-350e43fe9670",
+      "company": "Hadean",
+      "title": "Full Stack Software Engineer",
+      "locations": [
+        "London, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://hadean.teamtailor.com/jobs/8638860-full-stack-software-engineer",
+      "url": "https://trueinterview.io/jobs/46f5d29d-bbdc-4bcb-90a1-350e43fe9670",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "7d7c6239-e9e1-4d88-adb0-76944154d4e1",
+      "company": "HelloFresh",
+      "title": "WMS Software Engineer [OPERATIONS TECHNOLOGY]",
+      "locations": [
+        "Goodyear, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://grnh.se/ohlkpc0d1us",
+      "url": "https://trueinterview.io/jobs/7d7c6239-e9e1-4d88-adb0-76944154d4e1",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
       "id": "ab584502-7bf7-4b10-96f3-705a9a60d0c9",
       "company": "HII",
       "title": "Information Assurance Engineer",
@@ -70626,6 +72570,54 @@
       "source": "indeed",
       "applyUrl": "https://jobs.hii-tsd.com/job/Arlington%2C-VA-Information-Assurance-Engineer-30930-Virg/1444821500/",
       "url": "https://trueinterview.io/jobs/ab584502-7bf7-4b10-96f3-705a9a60d0c9",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "8bf3b5ec-9f9b-46d8-a248-6b297b6d6b08",
+      "company": "Hillpointe",
+      "title": "Full Stack Developer",
+      "locations": [
+        "Maitland, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://grnh.se/ya6uln158us",
+      "url": "https://trueinterview.io/jobs/8bf3b5ec-9f9b-46d8-a248-6b297b6d6b08",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "b703f7c2-b32d-4881-bf49-6974d91e0919",
+      "company": "HMS Consulting",
+      "title": "דרוש.ה Data Scientist מנוסה לארגון ביטחוני בירושלים",
+      "locations": [
+        "ירושלים, ישראל"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://hms.co.il/jobs/?",
+      "url": "https://trueinterview.io/jobs/b703f7c2-b32d-4881-bf49-6974d91e0919",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
@@ -70754,6 +72746,60 @@
       "source": "indeed",
       "applyUrl": "https://www.mycareersfuture.gov.sg/job/011c955598883021d99f357d352d9cae",
       "url": "https://trueinterview.io/jobs/4cd81ada-1c57-4e0a-a08a-a33c5864bf7b",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "5039b1f9-eeae-43d2-bb51-48e18c2d7c27",
+      "company": "Isembard",
+      "title": "CAM Programmer",
+      "locations": [
+        "London, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.ashbyhq.com/isembard/2f3a366c-4abf-4a71-a4f7-5dc3f4b36f8c",
+      "url": "https://trueinterview.io/jobs/5039b1f9-eeae-43d2-bb51-48e18c2d7c27",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "520cb45f-779f-41d1-a582-0289be17237d",
+      "company": "Isembard",
+      "title": "Software Engineer",
+      "locations": [
+        "London, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.ashbyhq.com/isembard/a4711746-6c61-4fb5-91ba-4657b19f9373",
+      "url": "https://trueinterview.io/jobs/520cb45f-779f-41d1-a582-0289be17237d",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
@@ -70946,6 +72992,31 @@
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
     {
+      "id": "1435834e-da04-40d4-bd2d-a07d615cd050",
+      "company": "LendInvest",
+      "title": "Full Stack Engineer",
+      "locations": [
+        "Glasgow, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.lendinvest.com/jobs/8634094-full-stack-engineer",
+      "url": "https://trueinterview.io/jobs/1435834e-da04-40d4-bd2d-a07d615cd050",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
       "id": "8cae75da-8513-4e52-ad17-4d785e1c8174",
       "company": "Liberty Resources, Inc.",
       "title": "IT Support Specialist",
@@ -71044,6 +73115,31 @@
       "source": "indeed",
       "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4624964/LTM-Group-LLC/IT-Specialist",
       "url": "https://trueinterview.io/jobs/e2b1ced3-0463-4759-abbd-ba9743aee188",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "f096047e-6b7b-4f98-b5c5-ad8429de1823",
+      "company": "Lumafield",
+      "title": "Manufacturing Electrical Engineer",
+      "locations": [
+        "Everett, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.lever.co/lumafield/5728a152-2182-4ec7-905d-3902ed611f6d",
+      "url": "https://trueinterview.io/jobs/f096047e-6b7b-4f98-b5c5-ad8429de1823",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
@@ -71196,6 +73292,33 @@
       "source": "indeed",
       "applyUrl": "https://www.mycareersfuture.gov.sg/job/9546ee22fa115d3cc014eee359fccebf",
       "url": "https://trueinterview.io/jobs/4d4cbca6-5ab5-4e72-b4ab-0f0c6caf77cd",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "f876a83b-0992-4d64-a61c-0a179d9943cd",
+      "company": "Natilik",
+      "title": "Networking Engineer",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://natilik.teamtailor.com/jobs/8637739-networking-engineer",
+      "url": "https://trueinterview.io/jobs/f876a83b-0992-4d64-a61c-0a179d9943cd",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
@@ -71418,7 +73541,8 @@
       "company": "Ovation Workplace services",
       "title": "Desktop Support Technician",
       "locations": [
-        "Warsaw, IN"
+        "Warsaw, IN",
+        "Hagerstown, MD"
       ],
       "cities": [
         "Warsaw"
@@ -71646,6 +73770,110 @@
       "source": "indeed",
       "applyUrl": "https://rheem.bigredsky.com/page.php?pageID=160&windowUID=0&AdvertID=934476",
       "url": "https://trueinterview.io/jobs/0a6a5190-1df6-4b9b-906c-20ac99bd4543",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "089c6769-2b8c-4374-9b73-c45247cec8b3",
+      "company": "Rocket Lab USA",
+      "title": "Mechanical Engineer I",
+      "locations": [
+        "Pasadena, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://grnh.se/2lamp5fs3us",
+      "url": "https://trueinterview.io/jobs/089c6769-2b8c-4374-9b73-c45247cec8b3",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "256c0087-030b-470a-a6cb-683e680e12d7",
+      "company": "Sainsbury’s",
+      "title": ".Net Engineer – Retail (AR)",
+      "locations": [
+        "London, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.sainsburys.jobs/jobs/description/400093323/",
+      "url": "https://trueinterview.io/jobs/256c0087-030b-470a-a6cb-683e680e12d7",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "fb47dc81-16f8-4727-b70c-73e6009676d3",
+      "company": "Saronic Technologies",
+      "title": "Forward Deployed Build Engineer",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.ashbyhq.com/saronic/96c1f534-bd49-481c-88c5-85d344b20c82",
+      "url": "https://trueinterview.io/jobs/fb47dc81-16f8-4727-b70c-73e6009676d3",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "b38cd319-bb30-4d06-9f99-e9339b767876",
+      "company": "ServiceTitan",
+      "title": "Technical Support Specialist - Back Office",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-FL-Remote/Technical-Support-Specialist---Back-Office_JR116333",
+      "url": "https://trueinterview.io/jobs/b38cd319-bb30-4d06-9f99-e9339b767876",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
@@ -72052,6 +74280,31 @@
       "source": "indeed",
       "applyUrl": "https://www.livehire.com/job/wesfarmerscorporate/G4XHR",
       "url": "https://trueinterview.io/jobs/ada7e2f5-a9f0-4b6d-aa7d-389e91efd8ac",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "16493979-c02b-4974-84d4-bbe375850857",
+      "company": "With Wise",
+      "title": "Technical Support Specialist",
+      "locations": [
+        "Solihull, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://withwise.recruitee.com/o/technical-support-specialist",
+      "url": "https://trueinterview.io/jobs/16493979-c02b-4974-84d4-bbe375850857",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
@@ -73904,31 +76157,6 @@
       "updatedAt": "2026-10-29T04:11:00.000Z"
     },
     {
-      "id": "32e95a73-02b4-4fda-947e-9201e8007291",
-      "company": "TaskVerse",
-      "title": "Frontend Engineer",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Frontend Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484792329/",
-      "url": "https://trueinterview.io/jobs/32e95a73-02b4-4fda-947e-9201e8007291",
-      "postedAt": "2026-10-29T04:11:00.000Z",
-      "updatedAt": "2026-10-29T04:11:00.000Z"
-    },
-    {
       "id": "64354470-87ab-4d1c-9c30-3bba0df62594",
       "company": "Alignerr",
       "title": "Software Engineer - Frontend",
@@ -73951,32 +76179,6 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4484785862/",
       "url": "https://trueinterview.io/jobs/64354470-87ab-4d1c-9c30-3bba0df62594",
       "postedAt": "2026-10-29T04:10:00.000Z",
-      "updatedAt": "2026-10-29T04:10:00.000Z"
-    },
-    {
-      "id": "6ca0d36c-c394-4e57-8b14-083979e1706a",
-      "company": "TaskVerse",
-      "title": "Data Analyst",
-      "locations": [
-        "United States",
-        "Australia"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484483518/",
-      "url": "https://trueinterview.io/jobs/6ca0d36c-c394-4e57-8b14-083979e1706a",
-      "postedAt": "2026-10-28T16:15:00.000Z",
       "updatedAt": "2026-10-29T04:10:00.000Z"
     },
     {
@@ -74132,31 +76334,6 @@
       "updatedAt": "2026-10-29T04:08:00.000Z"
     },
     {
-      "id": "c66e9c31-420f-400d-a936-7712f9f09683",
-      "company": "TaskVerse",
-      "title": "Network Engineer",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484728780/",
-      "url": "https://trueinterview.io/jobs/c66e9c31-420f-400d-a936-7712f9f09683",
-      "postedAt": "2026-10-28T22:21:00.000Z",
-      "updatedAt": "2026-10-29T04:08:00.000Z"
-    },
-    {
       "id": "41c30c6b-2017-45a2-92dd-6d0b3719ad6a",
       "company": "Alignerr",
       "title": "AI Red Team Penetration Tester",
@@ -74258,31 +76435,6 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4484779958/",
       "url": "https://trueinterview.io/jobs/c1b3e0a9-2cba-45da-a43a-08a11612e2de",
       "postedAt": "2026-10-29T04:07:00.000Z",
-      "updatedAt": "2026-10-29T04:07:00.000Z"
-    },
-    {
-      "id": "44dfcc80-a5a0-451e-a9af-526026d44187",
-      "company": "TaskVerse",
-      "title": "Angular Developer",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484479633/",
-      "url": "https://trueinterview.io/jobs/44dfcc80-a5a0-451e-a9af-526026d44187",
-      "postedAt": "2026-10-28T16:07:00.000Z",
       "updatedAt": "2026-10-29T04:07:00.000Z"
     },
     {
@@ -77224,6 +79376,34 @@
       "updatedAt": "2026-10-29T00:00:00.000Z"
     },
     {
+      "id": "fdd849c8-7c33-4057-af4a-da457a530f49",
+      "company": "ATB Financial",
+      "title": "Full Stack Software Developer",
+      "locations": [
+        "Calgary, Canada",
+        "Calgary, Alberta, Canada"
+      ],
+      "cities": [
+        "Calgary, AB"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.atb.com/careers/job/1125899907737356",
+      "url": "https://trueinterview.io/jobs/fdd849c8-7c33-4057-af4a-da457a530f49",
+      "postedAt": "2026-10-28T05:00:00.000Z",
+      "updatedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
       "id": "96019a39-8471-4ec8-b4bf-3b9e35cc08dc",
       "company": "AtkinsRéalis",
       "title": "Drainage Engineer",
@@ -77868,6 +80048,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4454915164/",
       "url": "https://trueinterview.io/jobs/b7ae5036-c479-437e-ab3b-100684da17ff",
+      "postedAt": "2026-10-29T00:00:00.000Z",
+      "updatedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "390783b7-d4dc-4cd4-921f-6d1e066909a3",
+      "company": "Dawn Aerospace",
+      "title": "System Design Engineer",
+      "locations": [
+        "Delft, South Holland, Netherlands"
+      ],
+      "cities": [],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474763322/",
+      "url": "https://trueinterview.io/jobs/390783b7-d4dc-4cd4-921f-6d1e066909a3",
       "postedAt": "2026-10-29T00:00:00.000Z",
       "updatedAt": "2026-10-29T00:00:00.000Z"
     },
@@ -78976,6 +81181,33 @@
       "updatedAt": "2026-10-29T00:00:00.000Z"
     },
     {
+      "id": "0b205e9c-2095-4db2-8614-93e8c0f25d89",
+      "company": "JeffreyM Consulting",
+      "title": "GTM Engineer",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483720742/",
+      "url": "https://trueinterview.io/jobs/0b205e9c-2095-4db2-8614-93e8c0f25d89",
+      "postedAt": "2026-10-29T00:00:00.000Z",
+      "updatedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
       "id": "1e5f4cf4-efce-4b69-bbd7-99d419742569",
       "company": "Just Eat Takeaway.com",
       "title": "Golang Engineer",
@@ -79214,6 +81446,31 @@
       "updatedAt": "2026-10-29T00:00:00.000Z"
     },
     {
+      "id": "564c31ea-7700-436c-baef-f8e4b5568a95",
+      "company": "Micron Technology",
+      "title": "New College Grad - Data Scientist, AI for Business Functions",
+      "locations": [
+        "Boise, Idaho, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682",
+      "url": "https://trueinterview.io/jobs/564c31ea-7700-436c-baef-f8e4b5568a95",
+      "postedAt": "2026-10-29T00:00:00.000Z",
+      "updatedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
       "id": "c0370860-badc-4415-a3fc-9e447e87564e",
       "company": "Microsoft",
       "title": "Software Engineer - Identity",
@@ -79342,6 +81599,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4479812238/",
       "url": "https://trueinterview.io/jobs/b5194368-aa12-49e2-99a3-291da4b30e06",
+      "postedAt": "2026-10-29T00:00:00.000Z",
+      "updatedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "0a3239da-7942-4366-8896-cfd8a2506ea8",
+      "company": "Naval Nuclear Laboratory (FMP)",
+      "title": "System Administrator, Associate (Entry Level)",
+      "locations": [
+        "Charleston, SC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4482788208/",
+      "url": "https://trueinterview.io/jobs/0a3239da-7942-4366-8896-cfd8a2506ea8",
       "postedAt": "2026-10-29T00:00:00.000Z",
       "updatedAt": "2026-10-29T00:00:00.000Z"
     },
@@ -80440,6 +82722,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4459977160/",
       "url": "https://trueinterview.io/jobs/09912743-38bd-4b92-89b1-096b1af3acf7",
+      "postedAt": "2026-10-29T00:00:00.000Z",
+      "updatedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "9d198775-97b4-4347-adf4-9594a33ad0fa",
+      "company": "System C",
+      "title": "Product Owner",
+      "locations": [
+        "Oxford, England, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483225098/",
+      "url": "https://trueinterview.io/jobs/9d198775-97b4-4347-adf4-9594a33ad0fa",
       "postedAt": "2026-10-29T00:00:00.000Z",
       "updatedAt": "2026-10-29T00:00:00.000Z"
     },
@@ -84882,31 +87189,6 @@
       "updatedAt": "2026-10-28T23:09:00.000Z"
     },
     {
-      "id": "9cb2b08c-c51e-4a86-afb1-1ef3e3a1d45f",
-      "company": "TCL.Online Services Incorporated",
-      "title": "AI开发工程师",
-      "locations": [
-        "Shanghai, VA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484755512/",
-      "url": "https://trueinterview.io/jobs/9cb2b08c-c51e-4a86-afb1-1ef3e3a1d45f",
-      "postedAt": "2026-10-28T23:09:00.000Z",
-      "updatedAt": "2026-10-28T23:09:00.000Z"
-    },
-    {
       "id": "76f2a512-0521-4bbb-81ee-7cf3a33e5667",
       "company": "Huntsman Corporation",
       "title": "Process Safety Engineer",
@@ -87983,34 +90265,6 @@
       "updatedAt": "2026-10-28T22:26:00.000Z"
     },
     {
-      "id": "45e54d80-b523-41c4-bcec-6d45fcdeecbc",
-      "company": "MeeBoss",
-      "title": "Software Engineer",
-      "locations": [
-        "United States",
-        "San Francisco, CA"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484733969/",
-      "url": "https://trueinterview.io/jobs/45e54d80-b523-41c4-bcec-6d45fcdeecbc",
-      "postedAt": "2026-10-28T22:17:00.000Z",
-      "updatedAt": "2026-10-28T22:25:00.000Z"
-    },
-    {
       "id": "2580a98d-562b-48b7-b1f0-d0007239732c",
       "company": "UPS",
       "title": "Mainframe - Software Development and Quality Engineer - Chennai",
@@ -88296,38 +90550,6 @@
       "updatedAt": "2026-10-28T22:21:00.000Z"
     },
     {
-      "id": "1f7d8889-56cd-4648-9475-1f721710c193",
-      "company": "Raas Infotek",
-      "title": "Desktop Support Technician",
-      "locations": [
-        "Menlo Park, CA",
-        "New York, NY",
-        "San Francisco, CA",
-        "Longview, WA",
-        "Tulsa, OK"
-      ],
-      "cities": [
-        "New York, NY",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484479296/",
-      "url": "https://trueinterview.io/jobs/1f7d8889-56cd-4648-9475-1f721710c193",
-      "postedAt": "2026-10-28T14:37:00.000Z",
-      "updatedAt": "2026-10-28T22:21:00.000Z"
-    },
-    {
       "id": "88dee468-cb84-4c56-88d7-a07e28555c94",
       "company": "Raas Infotek",
       "title": "Endpoint Management Engineer",
@@ -88557,33 +90779,6 @@
       "updatedAt": "2026-10-28T22:16:00.000Z"
     },
     {
-      "id": "6175810d-570e-4eb4-a67b-da64b18bb29b",
-      "company": "MeeBoss",
-      "title": "Generative AI Engineer",
-      "locations": [
-        "United States",
-        "Reston, VA",
-        "Richardson, TX"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484732730/",
-      "url": "https://trueinterview.io/jobs/6175810d-570e-4eb4-a67b-da64b18bb29b",
-      "postedAt": "2026-10-28T21:47:00.000Z",
-      "updatedAt": "2026-10-28T22:15:00.000Z"
-    },
-    {
       "id": "7f9f133e-21ef-4446-b52b-2407881bddee",
       "company": "Alstom",
       "title": "Software V&V Engineer",
@@ -88709,31 +90904,6 @@
       "url": "https://trueinterview.io/jobs/c31d0c6a-110b-418c-8ca7-7eb50d7379a2",
       "postedAt": "2026-10-28T21:36:00.000Z",
       "updatedAt": "2026-10-28T22:12:00.000Z"
-    },
-    {
-      "id": "d019eea5-a2be-4652-9ac3-4942cdb3bd8f",
-      "company": "APRIDEN",
-      "title": "Integration Engineer",
-      "locations": [
-        "Virginia, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484728798/",
-      "url": "https://trueinterview.io/jobs/d019eea5-a2be-4652-9ac3-4942cdb3bd8f",
-      "postedAt": "2026-10-28T22:11:00.000Z",
-      "updatedAt": "2026-10-28T22:11:00.000Z"
     },
     {
       "id": "5df89e77-e60c-41b2-9fbb-41248e05636a",
@@ -89061,31 +91231,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4484738723/",
       "url": "https://trueinterview.io/jobs/5fa5c93c-6556-485e-bcb4-b8ba4920f9c8",
-      "postedAt": "2026-10-28T22:09:00.000Z",
-      "updatedAt": "2026-10-28T22:09:00.000Z"
-    },
-    {
-      "id": "677b0280-6b16-4f99-81b0-f75435d4b068",
-      "company": "TaskVerse",
-      "title": "ServiceNow Developer",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484728781/",
-      "url": "https://trueinterview.io/jobs/677b0280-6b16-4f99-81b0-f75435d4b068",
       "postedAt": "2026-10-28T22:09:00.000Z",
       "updatedAt": "2026-10-28T22:09:00.000Z"
     },
@@ -90753,37 +92898,6 @@
       "updatedAt": "2026-10-28T21:28:00.000Z"
     },
     {
-      "id": "7edb7e0f-af84-45a6-b797-878b5b8ad70a",
-      "company": "Infinite Resource Solutions, LLC",
-      "title": "PLC and Controls Engineer",
-      "locations": [
-        "Reno, NV",
-        "Fayette County, GA",
-        "Columbus, OH",
-        "Westborough, MA",
-        "Dallas, TX",
-        "Manassas, VA",
-        "Charlotte Metro"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4482657358/",
-      "url": "https://trueinterview.io/jobs/7edb7e0f-af84-45a6-b797-878b5b8ad70a",
-      "postedAt": "2026-10-28T19:21:00.000Z",
-      "updatedAt": "2026-10-28T21:28:00.000Z"
-    },
-    {
       "id": "1afc692b-3a83-4ff1-b886-58795506977c",
       "company": "Moseley Technical Services, Inc.",
       "title": "Software Developer",
@@ -91621,7 +93735,8 @@
       "company": "G&W Electric Co.",
       "title": "SafeGrid Regional Solutions Engineer",
       "locations": [
-        "Bolingbrook, IL"
+        "Bolingbrook, IL",
+        "Remote"
       ],
       "cities": [],
       "countries": [
@@ -94601,6 +96716,31 @@
       "updatedAt": "2026-10-28T20:09:00.000Z"
     },
     {
+      "id": "16d9d113-f6bd-417f-94e0-8124eb22a016",
+      "company": "Smiths Group",
+      "title": "Electrical Engineering Tech",
+      "locations": [
+        "Arden, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.smartrecruiters.com/SmithsGroup2/744000158380568-electrical-engineering-tech",
+      "url": "https://trueinterview.io/jobs/16d9d113-f6bd-417f-94e0-8124eb22a016",
+      "postedAt": "2026-10-28T20:08:17.000Z",
+      "updatedAt": "2026-10-28T20:08:17.000Z"
+    },
+    {
       "id": "d6e3f37e-2196-4492-83cb-3a72854f5065",
       "company": "Aditi Consulting",
       "title": "Data Analyst",
@@ -96428,7 +98568,8 @@
       "company": "Integral Ad Science",
       "title": "Solutions Engineer",
       "locations": [
-        "New York, NY"
+        "New York, NY",
+        "Chicago, IL"
       ],
       "cities": [
         "New York, NY"
@@ -97367,33 +99508,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4480057115/",
       "url": "https://trueinterview.io/jobs/dd2aac1d-0133-41ae-8977-aa64d0b8db3a",
-      "postedAt": "2026-10-28T19:28:00.000Z",
-      "updatedAt": "2026-10-28T19:28:00.000Z"
-    },
-    {
-      "id": "cbd999a3-90e1-4424-816e-0b4f405586d8",
-      "company": "Wayfair",
-      "title": "Software Engineer I",
-      "locations": [
-        "Boston, MA"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484720786/",
-      "url": "https://trueinterview.io/jobs/cbd999a3-90e1-4424-816e-0b4f405586d8",
       "postedAt": "2026-10-28T19:28:00.000Z",
       "updatedAt": "2026-10-28T19:28:00.000Z"
     },
@@ -115093,31 +117207,6 @@
       "updatedAt": "2026-10-28T17:18:00.000Z"
     },
     {
-      "id": "8b5f10c8-6b36-4c43-af74-7b2beb51666d",
-      "company": "Norm Reeves Superstores",
-      "title": "IT Technician",
-      "locations": [
-        "Cerritos, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://normreeves2u.rec.pro.ukg.net/NOR1081NOVE/JobBoard/21bc3223-4ca5-4fa9-8846-2d614d9aaad2/OpportunityDetail?opportunityId=2cd6b779-152a-419f-a76e-3d20e2dc8fa8&postingId=b1ba2cf1-5d20-474b-822f-e0f7032b0c15",
-      "url": "https://trueinterview.io/jobs/8b5f10c8-6b36-4c43-af74-7b2beb51666d",
-      "postedAt": "2026-10-28T17:17:57.000Z",
-      "updatedAt": "2026-10-28T17:17:57.000Z"
-    },
-    {
       "id": "6c3418c7-dbdb-44a4-a806-909a4f65b68b",
       "company": "CapstoneONE Search",
       "title": "Controls Engineer",
@@ -121452,31 +123541,6 @@
       "updatedAt": "2026-10-28T16:28:01.000Z"
     },
     {
-      "id": "ccdb543c-2fa1-4a4f-9f33-ece1a7736a72",
-      "company": "AgileGrid Solutions",
-      "title": "UI/UX Designer",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484479794/",
-      "url": "https://trueinterview.io/jobs/ccdb543c-2fa1-4a4f-9f33-ece1a7736a72",
-      "postedAt": "2026-10-28T16:28:00.000Z",
-      "updatedAt": "2026-10-28T16:28:00.000Z"
-    },
-    {
       "id": "516235f2-03ec-49c4-a7a2-0b2671d09bea",
       "company": "Lavergne Draward & Associates Inc.",
       "title": "Structural Engineer / E.I.T",
@@ -123681,7 +125745,7 @@
       "applyUrl": "https://apply.workable.com/j/4654B6AF9C",
       "url": "https://trueinterview.io/jobs/8d9f26f6-9434-4015-9d44-06106f5bcc5a",
       "postedAt": "2026-10-28T16:12:48.000Z",
-      "updatedAt": "2026-10-28T16:12:48.000Z"
+      "updatedAt": "2026-10-28T16:12:49.000Z"
     },
     {
       "id": "c40ef0e5-c929-49e8-98bd-b5bb40b75161",
@@ -126562,34 +128626,6 @@
       "url": "https://trueinterview.io/jobs/fbcad6c0-1752-4965-8b25-0eee0abdb68f",
       "postedAt": "2026-10-28T15:55:00.000Z",
       "updatedAt": "2026-10-28T15:55:00.000Z"
-    },
-    {
-      "id": "06e386b6-7f6f-4eef-a16d-aaa52020ccd0",
-      "company": "IAAPS Ltd",
-      "title": "Engineer",
-      "locations": [
-        "Bristol, United Kingdom",
-        "Remote"
-      ],
-      "cities": [
-        "Bristol"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://uk.indeed.com/viewjob?jk=dfd83a561245cc52",
-      "url": "https://trueinterview.io/jobs/06e386b6-7f6f-4eef-a16d-aaa52020ccd0",
-      "postedAt": "2026-10-28T15:54:51.000Z",
-      "updatedAt": "2026-10-28T15:54:51.000Z"
     },
     {
       "id": "f509e71f-b514-4b7a-bb14-c2a6545f9647",
@@ -160295,7 +162331,7 @@
       "applyUrl": "https://apply.workable.com/j/43019A024E",
       "url": "https://trueinterview.io/jobs/b71c24a5-f727-40ee-8b41-1428bb7d32c9",
       "postedAt": "2026-10-28T11:47:15.000Z",
-      "updatedAt": "2026-10-28T11:47:15.000Z"
+      "updatedAt": "2026-10-28T11:47:17.000Z"
     },
     {
       "id": "1d6f2de1-f1d0-41f9-8827-f4de7fef4ef6",
@@ -163567,7 +165603,8 @@
       "company": "Apple",
       "title": "Machine Learning Ph.D Student - Agentic AI",
       "locations": [
-        "Herzliya, Tel-Aviv District, Israel"
+        "Herzliya, Tel-Aviv District, Israel",
+        "הרצליה, ישראל"
       ],
       "cities": [],
       "countries": [
@@ -164844,6 +166881,31 @@
       "updatedAt": "2026-10-28T06:00:00.000Z"
     },
     {
+      "id": "04afacda-fca3-44eb-8466-f40eae640b74",
+      "company": "EOS Defense Systems USA, Inc",
+      "title": "EO/IR Engineer",
+      "locations": [
+        "Huntsville, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.applicantpro.com/openings/eosdsusa/jobs/4259369-456667",
+      "url": "https://trueinterview.io/jobs/04afacda-fca3-44eb-8466-f40eae640b74",
+      "postedAt": "2026-10-28T06:00:00.000Z",
+      "updatedAt": "2026-10-28T06:00:00.000Z"
+    },
+    {
       "id": "217d04af-d072-4a84-a344-0ffc798a9a97",
       "company": "ITC, Inc.",
       "title": "Quality Engineer - Entry Level",
@@ -166055,33 +168117,6 @@
       "source": "indeed",
       "applyUrl": "https://careers.arm.com/job/lund/graduate-ml-software-engineer/33099/102539110752",
       "url": "https://trueinterview.io/jobs/cf61adf5-4b4c-4820-a0cc-5831aff57108",
-      "postedAt": "2026-10-28T05:00:00.000Z",
-      "updatedAt": "2026-10-28T05:00:00.000Z"
-    },
-    {
-      "id": "fdd849c8-7c33-4057-af4a-da457a530f49",
-      "company": "ATB Financial",
-      "title": "Full Stack Software Developer",
-      "locations": [
-        "Calgary, Canada"
-      ],
-      "cities": [
-        "Calgary, AB"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://careers.atb.com/careers/job/1125899907737356",
-      "url": "https://trueinterview.io/jobs/fdd849c8-7c33-4057-af4a-da457a530f49",
       "postedAt": "2026-10-28T05:00:00.000Z",
       "updatedAt": "2026-10-28T05:00:00.000Z"
     },
@@ -167521,31 +169556,6 @@
       "updatedAt": "2026-10-28T05:00:00.000Z"
     },
     {
-      "id": "147e1fbf-985e-40c0-a039-98a7901d9d3c",
-      "company": "Cleveland Clinic",
-      "title": "ITD Web Technical Developer",
-      "locations": [
-        "Cleveland, OH"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://clevelandclinic.contacthr.com/154049892",
-      "url": "https://trueinterview.io/jobs/147e1fbf-985e-40c0-a039-98a7901d9d3c",
-      "postedAt": "2026-10-28T05:00:00.000Z",
-      "updatedAt": "2026-10-28T05:00:00.000Z"
-    },
-    {
       "id": "5935c124-b2ec-4fd1-a324-0aaaf36c2ac1",
       "company": "CNP ASSURANCES",
       "title": "DATA SCIENTIST - REFERENT IA H/F",
@@ -168299,6 +170309,54 @@
       "updatedAt": "2026-10-28T05:00:00.000Z"
     },
     {
+      "id": "71840fe7-d1a6-456c-aa05-4c07be54c534",
+      "company": "EMCOR",
+      "title": "Enterprise Integration Engineer I",
+      "locations": [
+        "San Leandro, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers-emcorgroup.icims.com/jobs/54023/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "url": "https://trueinterview.io/jobs/71840fe7-d1a6-456c-aa05-4c07be54c534",
+      "postedAt": "2026-10-28T05:00:00.000Z",
+      "updatedAt": "2026-10-28T05:00:00.000Z"
+    },
+    {
+      "id": "7e63ff4f-d082-4211-b164-cdd9f2ffeae4",
+      "company": "EPAM Systems",
+      "title": "Data Scientist",
+      "locations": [
+        "תל אביב -יפו, ישראל"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.epam.com/en/vacancy/blt7wefe4an74cvy3sv_en?city=Tel+Aviv&country=Israel",
+      "url": "https://trueinterview.io/jobs/7e63ff4f-d082-4211-b164-cdd9f2ffeae4",
+      "postedAt": "2026-10-28T05:00:00.000Z",
+      "updatedAt": "2026-10-28T05:00:00.000Z"
+    },
+    {
       "id": "5a2e2605-b8dd-43f3-ab21-41cceee19e69",
       "company": "EUROAPI",
       "title": "Data Scientist and performance coordinator",
@@ -168647,6 +170705,33 @@
       "source": "indeed",
       "applyUrl": "https://flix.careers/job/?jobid=8432987002",
       "url": "https://trueinterview.io/jobs/251fa6db-1492-4b04-8255-341d6f013743",
+      "postedAt": "2026-10-28T05:00:00.000Z",
+      "updatedAt": "2026-10-28T05:00:00.000Z"
+    },
+    {
+      "id": "4a05f90e-0ec6-4819-b63a-62d120f73c5c",
+      "company": "Formlabs",
+      "title": "3D Print Optimization Engineer",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://grnh.se/p4xwoq0p1us",
+      "url": "https://trueinterview.io/jobs/4a05f90e-0ec6-4819-b63a-62d120f73c5c",
       "postedAt": "2026-10-28T05:00:00.000Z",
       "updatedAt": "2026-10-28T05:00:00.000Z"
     },
@@ -179667,9 +181752,12 @@
       "company": "Trexquant Investment LP",
       "title": "C++ Market Data Engineer (USA)",
       "locations": [
-        "Stamford, CT"
+        "Stamford, CT",
+        "New York, NY"
       ],
-      "cities": [],
+      "cities": [
+        "New York, NY"
+      ],
       "countries": [
         "United States"
       ],
@@ -179685,7 +181773,7 @@
       "applyUrl": "https://apply.workable.com/j/37B2C7949A",
       "url": "https://trueinterview.io/jobs/ac1b34e8-cf01-48c5-b300-36b6190e9dbf",
       "postedAt": "2026-10-27T14:27:37.000Z",
-      "updatedAt": "2026-10-27T14:27:37.000Z"
+      "updatedAt": "2026-10-27T14:27:38.000Z"
     },
     {
       "id": "cd63dc3e-a65a-4871-8444-f9fda67ad344",
@@ -179861,6 +181949,33 @@
       "url": "https://trueinterview.io/jobs/2766a817-c11c-4752-9e0e-8c323d512e9c",
       "postedAt": "2026-10-27T12:24:53.000Z",
       "updatedAt": "2026-10-27T12:24:53.000Z"
+    },
+    {
+      "id": "deb47f1e-186e-4498-820d-ec153713e58f",
+      "company": "bet365",
+      "title": "SharePoint Developer (FTC)",
+      "locations": [
+        "Manchester, United Kingdom"
+      ],
+      "cities": [
+        "Manchester"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.smartrecruiters.com/Bet3651/744000158025948-sharepoint-developer-ftc-",
+      "url": "https://trueinterview.io/jobs/deb47f1e-186e-4498-820d-ec153713e58f",
+      "postedAt": "2026-10-27T11:49:31.000Z",
+      "updatedAt": "2026-10-27T11:49:31.000Z"
     },
     {
       "id": "201dee71-4fff-477b-b421-dae18566bfe9",
@@ -181290,6 +183405,33 @@
       "source": "indeed",
       "applyUrl": "https://www.amazon.jobs/jobs/10591363/software-development-engineer-amazon-private-brands?cmpid=DA_INAD200785B",
       "url": "https://trueinterview.io/jobs/4c35fbc4-47e6-49e7-aad1-62f5aca4daa6",
+      "postedAt": "2026-10-27T05:00:00.000Z",
+      "updatedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
+      "id": "89e7787a-6a51-4765-9e8a-c05cb7449f39",
+      "company": "Amazon.com",
+      "title": "Software Development Engineer, Checkout Applications Team",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.amazon.jobs/jobs/10590694/software-development-engineer-checkout-applications-team?cmpid=DA_INAD200785B",
+      "url": "https://trueinterview.io/jobs/89e7787a-6a51-4765-9e8a-c05cb7449f39",
       "postedAt": "2026-10-27T05:00:00.000Z",
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
@@ -183662,6 +185804,33 @@
       "source": "indeed",
       "applyUrl": "https://www.comscore.com/ita/Chi-siamo/Carriera/Offerte-di-lavoro?sfid=1757",
       "url": "https://trueinterview.io/jobs/f1261d68-20d5-45a9-a4ab-fdcb0c63daf7",
+      "postedAt": "2026-10-27T05:00:00.000Z",
+      "updatedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
+      "id": "df22a0fa-045b-4173-af95-c3a6b7d31f94",
+      "company": "Conferma Ltd",
+      "title": "Developer",
+      "locations": [
+        "Manchester, United Kingdom"
+      ],
+      "cities": [
+        "Manchester"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://api.occupop.com/shared/job/developer-02587/indeed",
+      "url": "https://trueinterview.io/jobs/df22a0fa-045b-4173-af95-c3a6b7d31f94",
       "postedAt": "2026-10-27T05:00:00.000Z",
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
@@ -186409,6 +188578,33 @@
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
     {
+      "id": "5789ddbd-da3d-412e-8890-e19c457b9ba8",
+      "company": "Howdens",
+      "title": "Telesales/ Business Developer",
+      "locations": [
+        "London, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://howdenjoinerylimited.wd103.myworkdayjobs.com/en-US/HowdensCareers/job/Battersea-London-United-Kingdom/Telesales--Business-Developer_JR4162",
+      "url": "https://trueinterview.io/jobs/5789ddbd-da3d-412e-8890-e19c457b9ba8",
+      "postedAt": "2026-10-27T05:00:00.000Z",
+      "updatedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
       "id": "50ff9032-a2e6-41d9-907b-eaf2be570d75",
       "company": "HOXTON PARTNERS",
       "title": "Business Data Analyst – E-commerce / Amazon / SDDS (H/F) (IT) / Freelance",
@@ -187654,6 +189850,31 @@
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
     {
+      "id": "3674e8c5-c3e3-412e-ba9e-7ad55d2dd108",
+      "company": "L&T Technology Services Ltd.",
+      "title": "Control Engineer",
+      "locations": [
+        "Benson, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://ltts.sensehq.com/careers/iframe/jobs/41327",
+      "url": "https://trueinterview.io/jobs/3674e8c5-c3e3-412e-ba9e-7ad55d2dd108",
+      "postedAt": "2026-10-27T05:00:00.000Z",
+      "updatedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
       "id": "fb178416-841c-4b5e-94a2-2791b1c84c71",
       "company": "La Française",
       "title": "Data analyst (F/H) - Stage - Data Analyst au sein de la Direction Finances (H.F)",
@@ -188117,6 +190338,33 @@
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
     {
+      "id": "d8b76672-87e1-4be8-b99b-51a4f709df00",
+      "company": "MBDA",
+      "title": "Mission Planning Systems Engineer (Software and Algorithms)",
+      "locations": [
+        "Bristol, United Kingdom"
+      ],
+      "cities": [
+        "Bristol"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.mbdacareers.co.uk/job/mission-planning-systems-engineer-software-and-algorithms/bristol-stevenage/R40106",
+      "url": "https://trueinterview.io/jobs/d8b76672-87e1-4be8-b99b-51a4f709df00",
+      "postedAt": "2026-10-27T05:00:00.000Z",
+      "updatedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
       "id": "4888a913-0afb-4c39-9a62-fd5b692fb94a",
       "company": "Mears Group",
       "title": "Planner/Works Programmer",
@@ -188352,6 +190600,31 @@
       "source": "indeed",
       "applyUrl": "https://careers.mta.org/jobs/18410919-application-developer-analyst-level-1-5-tcu-represented?tm_job=17836&tm_event=view&tm_company=47560",
       "url": "https://trueinterview.io/jobs/74627859-cfc4-42f5-9350-b22acffb28e4",
+      "postedAt": "2026-10-27T05:00:00.000Z",
+      "updatedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
+      "id": "8567cf89-a0c1-4360-8455-d7ce9c35fcac",
+      "company": "Milacron",
+      "title": "Software Controls Engineer",
+      "locations": [
+        "Batavia, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.dayforcehcm.com/en-US/mymilacron/CANDIDATEPORTAL/jobs/3338",
+      "url": "https://trueinterview.io/jobs/8567cf89-a0c1-4360-8455-d7ce9c35fcac",
       "postedAt": "2026-10-27T05:00:00.000Z",
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
@@ -188681,6 +190954,31 @@
       "source": "indeed",
       "applyUrl": "https://recrutement.natixis.com/job/market-data-access-support-engineer",
       "url": "https://trueinterview.io/jobs/82c8eb5b-7b86-4281-b2c8-83bf56784f69",
+      "postedAt": "2026-10-27T05:00:00.000Z",
+      "updatedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
+      "id": "dee3d1aa-d776-4bd9-bf71-f0bc6bd0f7df",
+      "company": "NAVAIR",
+      "title": "ELECTRONICS ENGINEER",
+      "locations": [
+        "Naval Air Station Patuxent River, MD"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://navair.yellogov.com/jobs/uCz5AEPwsW1NnqFis4a9nw?job_board_id=mdxt8VG0qqvc7z8xHhZztg",
+      "url": "https://trueinterview.io/jobs/dee3d1aa-d776-4bd9-bf71-f0bc6bd0f7df",
       "postedAt": "2026-10-27T05:00:00.000Z",
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
@@ -190748,6 +193046,31 @@
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
     {
+      "id": "d963f09a-1e17-48c1-8304-2b5b6a93985f",
+      "company": "Royal Holloway University of London",
+      "title": "Integration Developer",
+      "locations": [
+        "Egham, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.royalholloway.ac.uk/vacancy.aspx",
+      "url": "https://trueinterview.io/jobs/d963f09a-1e17-48c1-8304-2b5b6a93985f",
+      "postedAt": "2026-10-27T05:00:00.000Z",
+      "updatedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
       "id": "3cafac6f-7fc8-4596-ae4e-b7615d8c313e",
       "company": "RTI International",
       "title": "Research Scientist-Patient-Centered Outcomes Assessment",
@@ -191719,6 +194042,32 @@
       "source": "indeed",
       "applyUrl": "https://careers.sportsbet.com.au/jobs/software-engineer-melbourne-vic-australia-83d23dc9-db9e-4397-8585-2fddb372503b",
       "url": "https://trueinterview.io/jobs/9c464263-700a-47f8-b646-a192386c1835",
+      "postedAt": "2026-10-27T05:00:00.000Z",
+      "updatedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
+      "id": "b61972a0-60ec-4fc4-9af3-0be57e298ebd",
+      "company": "SSE PLC",
+      "title": "Developer",
+      "locations": [
+        "Glasgow, United Kingdom",
+        "Perth, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.sse.com/jobs/developer-reading-berkshire-berkshire-united-kingdom-glasgow-renfrewshire-renfrewshire-perth-perthshire-scotland",
+      "url": "https://trueinterview.io/jobs/b61972a0-60ec-4fc4-9af3-0be57e298ebd",
       "postedAt": "2026-10-27T05:00:00.000Z",
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
@@ -192814,6 +195163,33 @@
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
     {
+      "id": "f0163c69-42f5-48ec-8b47-543b18836983",
+      "company": "Triple Point",
+      "title": "Cloud Operations Engineer New",
+      "locations": [
+        "London, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/triplepointllp/jobs/5017302101",
+      "url": "https://trueinterview.io/jobs/f0163c69-42f5-48ec-8b47-543b18836983",
+      "postedAt": "2026-10-27T05:00:00.000Z",
+      "updatedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
       "id": "6c0c994c-3ef2-4cf6-90db-95eaa835bd59",
       "company": "Turn5",
       "title": "Front-End Developer",
@@ -193296,31 +195672,6 @@
       "source": "indeed",
       "applyUrl": "https://jobs.ashbyhq.com/VectorWave%20Corporation/592d0dfd-5775-48c7-be65-b75974051145",
       "url": "https://trueinterview.io/jobs/5954c2c0-b789-4935-9c84-36807eed54e5",
-      "postedAt": "2026-10-27T05:00:00.000Z",
-      "updatedAt": "2026-10-27T05:00:00.000Z"
-    },
-    {
-      "id": "536c91fe-aca8-4f02-b1e0-931508fe7bb7",
-      "company": "Verizon",
-      "title": "Data Science Consultant",
-      "locations": [
-        "Basking Ridge, NJ"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://mycareer.verizon.com/jobs/r-1102758/data-science-consultant/",
-      "url": "https://trueinterview.io/jobs/536c91fe-aca8-4f02-b1e0-931508fe7bb7",
       "postedAt": "2026-10-27T05:00:00.000Z",
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
@@ -195512,6 +197863,31 @@
       "updatedAt": "2026-10-26T05:00:00.000Z"
     },
     {
+      "id": "b660e3e0-baea-4f31-954f-dde6ed6ae2f0",
+      "company": "Connect Force",
+      "title": "Machine Controls Engineer",
+      "locations": [
+        "Commerce, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://recruiterflow.com/db_2bd19803b83dc2217fdf071b1f85cf31/jobs/167?location=16",
+      "url": "https://trueinterview.io/jobs/b660e3e0-baea-4f31-954f-dde6ed6ae2f0",
+      "postedAt": "2026-10-26T05:00:00.000Z",
+      "updatedAt": "2026-10-26T05:00:00.000Z"
+    },
+    {
       "id": "7be11642-8bfe-497d-88a9-b2a98355fe5e",
       "company": "CoreSite",
       "title": "Data Analyst",
@@ -196057,6 +198433,31 @@
       "updatedAt": "2026-10-26T05:00:00.000Z"
     },
     {
+      "id": "ba10592d-7fd1-4b49-9467-44e47036ec9e",
+      "company": "Innova Software Services",
+      "title": "Mechanical Engineer - Creo and Vacuum Systems",
+      "locations": [
+        "Milpitas, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://candidateportal.ceipal.com/job-details/LBEnakBsf5TuV82UJiHnfyQ0Mzw20nhzWYxA1Puls70",
+      "url": "https://trueinterview.io/jobs/ba10592d-7fd1-4b49-9467-44e47036ec9e",
+      "postedAt": "2026-10-26T05:00:00.000Z",
+      "updatedAt": "2026-10-26T05:00:00.000Z"
+    },
+    {
       "id": "d23fb3d4-f745-4d83-9c7e-2ffff9245d55",
       "company": "Insight",
       "title": "Product Owner",
@@ -196407,6 +198808,33 @@
       "source": "indeed",
       "applyUrl": "https://www.novartis.com/careers/career-search/job/details/req-10089636-workforce-strategy-head-enterprise-data-science-artificial-intelligence-dsai",
       "url": "https://trueinterview.io/jobs/065d127f-bda0-4dfa-8e29-4a6436ce1242",
+      "postedAt": "2026-10-26T05:00:00.000Z",
+      "updatedAt": "2026-10-26T05:00:00.000Z"
+    },
+    {
+      "id": "d41e7a5a-f248-4c72-942e-40b3d7d50017",
+      "company": "Okta",
+      "title": "Splunk Infrastructure Engineer",
+      "locations": [
+        "Washington, DC"
+      ],
+      "cities": [
+        "Washington, DC"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://grnh.se/rnkejb3a1us",
+      "url": "https://trueinterview.io/jobs/d41e7a5a-f248-4c72-942e-40b3d7d50017",
       "postedAt": "2026-10-26T05:00:00.000Z",
       "updatedAt": "2026-10-26T05:00:00.000Z"
     },
@@ -197204,6 +199632,31 @@
       "source": "indeed",
       "applyUrl": "https://recruitcrm.io/apply/17930613471200128621lSU?new=yes",
       "url": "https://trueinterview.io/jobs/348636f2-ad3e-4718-ab48-b9355c5628f5",
+      "postedAt": "2026-10-26T05:00:00.000Z",
+      "updatedAt": "2026-10-26T05:00:00.000Z"
+    },
+    {
+      "id": "e0ba2685-3bf7-4ca7-b3f5-e743f53377ac",
+      "company": "Teradata",
+      "title": "AI Engineer",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.teradata.com/jobs/220782/ai-engineer?sid=602",
+      "url": "https://trueinterview.io/jobs/e0ba2685-3bf7-4ca7-b3f5-e743f53377ac",
       "postedAt": "2026-10-26T05:00:00.000Z",
       "updatedAt": "2026-10-26T05:00:00.000Z"
     },
@@ -199125,6 +201578,33 @@
       "source": "indeed",
       "applyUrl": "https://www.amazon.jobs/jobs/10590870/software-development-engineer-devices-software--services?cmpid=DA_INAD200785B",
       "url": "https://trueinterview.io/jobs/c9c0e8ef-f3b9-49b6-856e-330721298498",
+      "postedAt": "2026-10-22T05:00:00.000Z",
+      "updatedAt": "2026-10-22T05:00:00.000Z"
+    },
+    {
+      "id": "51177c1b-5ffb-4fdb-8e34-49ba7cb74fb8",
+      "company": "Amazon.com",
+      "title": "Software Development Engineer, Selling Partner Promotions",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "newgrad",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.amazon.jobs/jobs/10592343/software-development-engineer-selling-partner-promotions?cmpid=DA_INAD200785B",
+      "url": "https://trueinterview.io/jobs/51177c1b-5ffb-4fdb-8e34-49ba7cb74fb8",
       "postedAt": "2026-10-22T05:00:00.000Z",
       "updatedAt": "2026-10-22T05:00:00.000Z"
     },
@@ -222546,132 +225026,6 @@
       "url": "https://trueinterview.io/jobs/aebaafc5-b335-4199-abae-05973a9aafa0",
       "postedAt": "2026-08-31T05:00:00.000Z",
       "updatedAt": "2026-08-31T05:00:00.000Z"
-    },
-    {
-      "id": "30a5a735-fd41-4861-9917-64341be0771a",
-      "company": "Applied Materials",
-      "title": "Electrical Engineer New College Grad - BS/MS Degree (Santa Clara, CA)",
-      "locations": [
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318269709",
-      "url": "https://trueinterview.io/jobs/30a5a735-fd41-4861-9917-64341be0771a",
-      "postedAt": "2026-08-31T00:00:00.000Z",
-      "updatedAt": "2026-08-31T00:00:00.000Z"
-    },
-    {
-      "id": "efefdc3b-89a7-4835-b555-8b2bdec0592f",
-      "company": "Applied Materials",
-      "title": "Mechanical Engineer New College Grad - BS/MS Degree (Santa Clara, CA)",
-      "locations": [
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318269405",
-      "url": "https://trueinterview.io/jobs/efefdc3b-89a7-4835-b555-8b2bdec0592f",
-      "postedAt": "2026-08-31T00:00:00.000Z",
-      "updatedAt": "2026-08-31T00:00:00.000Z"
-    },
-    {
-      "id": "51b09564-c49b-410a-a9c1-a96542db4fa4",
-      "company": "Applied Materials",
-      "title": "Process Engineer New College Grad - BS/MS Degree (Santa Clara, CA)",
-      "locations": [
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318269579",
-      "url": "https://trueinterview.io/jobs/51b09564-c49b-410a-a9c1-a96542db4fa4",
-      "postedAt": "2026-08-31T00:00:00.000Z",
-      "updatedAt": "2026-08-31T00:00:00.000Z"
-    },
-    {
-      "id": "30736407-4828-4f24-a676-f9e2888899e1",
-      "company": "NVIDIA",
-      "title": "ASIC Floorplan Design Engineer - New College Grad 2026",
-      "locations": [
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.nvidia.com/careers/job/893397488368",
-      "url": "https://trueinterview.io/jobs/30736407-4828-4f24-a676-f9e2888899e1",
-      "postedAt": "2026-08-31T00:00:00.000Z",
-      "updatedAt": "2026-08-31T00:00:00.000Z"
-    },
-    {
-      "id": "501283e3-5aa0-47bd-8901-df316c81b0d9",
-      "company": "NXP Semiconductors",
-      "title": "Entry Level NVM Reliability Lab Engineer",
-      "locations": [
-        "Austin (Oakhill, Office)",
-        "Austin (Oakhill, Office), United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "newgrad",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Entry-Level-NVM-Reliability-Lab-Engineer_R-10066302",
-      "url": "https://trueinterview.io/jobs/501283e3-5aa0-47bd-8901-df316c81b0d9",
-      "postedAt": "2026-08-31T00:00:00.000Z",
-      "updatedAt": "2026-08-31T00:00:00.000Z"
     }
   ]
 }

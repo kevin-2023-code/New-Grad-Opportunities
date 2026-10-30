@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**70 open roles.** 30 in the United States & Canada · 40 elsewhere in the world.
+**72 open roles.** 31 in the United States & Canada · 41 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>RADcube</strong></td>
+<td><a href="https://trueinterview.io/jobs/a81529a8-a099-43a3-87c9-e44261acf293">iOS Developer</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485256033/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Anything</strong></td>
 <td><a href="https://trueinterview.io/jobs/a5f6bc61-403c-4e10-801d-6171b56b57ec">Mobile Engineer</a></td>
@@ -239,6 +246,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Scalers</strong></td>
+<td><a href="https://trueinterview.io/jobs/7437de0e-82b7-46b9-8bfb-ee36f7a14836">Android Developer</a></td>
+<td>London Area, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483739002/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Air Arabia</strong></td>
 <td><a href="https://trueinterview.io/jobs/bf5d34e3-e00c-44ef-9248-6a0a06b63b72">Software Engineer-iOS</a></td>

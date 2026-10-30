@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**253 open roles.**
+**256 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Treeswift</strong></td>
+<td><a href="https://trueinterview.io/jobs/020c10b9-4b70-46f0-a0cf-8ebfeed40f4c">Hardware Assembly Technician, Contractor</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485276116/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Gotham Technology Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/886f79cf-d7ab-4430-83fa-f7b61da06146">Network Operations Engineer</a></td>
@@ -396,6 +403,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Gecko Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/76ad087c-e894-47ee-825b-9b71b1af0c56">Solutions Engineer | Power</a> 🌐</td>
+<td>Remote — United States<br/>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/gecko-robotics/7bc54434-0c56-492e-8138-d6861dce933e">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Natilik</strong></td>
+<td><a href="https://trueinterview.io/jobs/f876a83b-0992-4d64-a61c-0a179d9943cd">Networking Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://natilik.teamtailor.com/jobs/8637739-networking-engineer">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Linq</strong></td>
 <td><a href="https://trueinterview.io/jobs/36291486-e111-4327-8243-356e9d64b346">Developer Relations</a></td>
 <td>New York, NY</td>
@@ -428,6 +449,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b02a1669-4353-418e-a1e5-bf88b16cfc3c">MLOps Engineer</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475701132/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JeffreyM Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b205e9c-2095-4db2-8614-93e8c0f25d89">GTM Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483720742/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -550,13 +578,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Raas Infotek</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f7d8889-56cd-4648-9475-1f721710c193">Desktop Support Technician</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>Menlo Park, CA<br/>+2 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484479296/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Gotham Technology Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac3b4c0d-0849-45a2-8093-92944997e2f5">Azure DevOps Engineer</a></td>
 <td>New York, NY</td>
@@ -664,7 +685,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Integral Ad Science</strong></td>
 <td><a href="https://trueinterview.io/jobs/dbee2c2b-ad61-4c60-9ae3-97d84fc95b01">Solutions Engineer</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>Chicago, IL</td>
 <td align="center"><a href="https://integralads.wd1.myworkdayjobs.com/IAScareers/job/US---New-York-NY/Solutions-Engineer_R-101580">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
@@ -1315,7 +1336,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Trexquant Investment LP</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac1b34e8-cf01-48c5-b300-36b6190e9dbf">C++ Market Data Engineer (USA)</a></td>
-<td>Stamford, CT</td>
+<td>New York, NY<br/>Stamford, CT</td>
 <td align="center"><a href="https://apply.workable.com/j/37B2C7949A">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>

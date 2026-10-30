@@ -438,7 +438,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Sky</strong></td>
 <td><a href="https://trueinterview.io/jobs/db7749d6-e27a-47a6-9363-93ca72867f0a">AI Platform Engineer (Cloud)</a></td>
-<td>Livingston, Scotland, United Kingdom</td>
+<td>Livingston, Scotland, United Kingdom<br/>Livingston, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484986130/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>

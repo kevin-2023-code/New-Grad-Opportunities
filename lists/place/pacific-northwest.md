@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**56 open roles.**
+**57 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -92,6 +92,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a413e2f1-958a-4b7d-ada0-5f0ec1f0bb2d">Design Verification Engineer</a></td>
 <td>Beaverton, Oregon, United States<br/>Texas, United States</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692085">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/564c31ea-7700-436c-baef-f8e4b5568a95">New College Grad - Data Scientist, AI for Business Functions</a></td>
+<td>Boise, Idaho, United States</td>
+<td align="center"><a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

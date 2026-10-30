@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**26 open roles.** 13 in the United States & Canada · 13 elsewhere in the world. A real classification that none of the other sectors covers.
+**27 open roles.** 13 in the United States & Canada · 14 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -133,6 +133,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Stoke-On-Trent, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484459162/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/deb47f1e-186e-4498-820d-ec153713e58f">SharePoint Developer (FTC)</a></td>
+<td>Manchester, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000158025948-sharepoint-developer-ftc-">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>1global</strong></td>

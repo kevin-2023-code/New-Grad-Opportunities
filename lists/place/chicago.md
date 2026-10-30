@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**102 open roles.**
+**104 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -221,6 +221,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Clayco</strong></td>
+<td><a href="https://trueinterview.io/jobs/ccdccdca-1f62-4a63-ac1f-f8b97c5db44f">Integrations Engineer</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://jobs.crelate.com/portal/clayco/job/qs7em87az4dz3yh7bu8ff3gsiy?r=28">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>TEKsystems</strong></td>
 <td><a href="https://trueinterview.io/jobs/8244dc31-fe9a-4894-9327-f5c2f117c123">Network Security Engineer</a></td>
 <td>Chicago, IL</td>
@@ -337,6 +344,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/81faafe4-1fb6-4e2e-ac89-1974841bd6bf">Software Engineer - C++ Quantitative Trading</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4429405293/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Integral Ad Science</strong></td>
+<td><a href="https://trueinterview.io/jobs/dbee2c2b-ad61-4c60-9ae3-97d84fc95b01">Solutions Engineer</a></td>
+<td>Chicago, IL<br/>New York, NY</td>
+<td align="center"><a href="https://integralads.wd1.myworkdayjobs.com/IAScareers/job/US---New-York-NY/Solutions-Engineer_R-101580">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

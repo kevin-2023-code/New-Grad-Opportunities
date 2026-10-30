@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,055 open roles.** 732 in the United States & Canada · 323 elsewhere in the world.
+**1,061 open roles.** 738 in the United States & Canada · 323 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/cacad459-b1c2-474d-a02d-2d3620b9a3d9">Electrical engineer</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477132652/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Finis || Eillert - Food Processing Equipment</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c18e5a2-a339-4588-973f-337a81d5bfea">Hardware engineer</a></td>
+<td>Gendringen, Gelderland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484957554/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HuntingCube</strong></td>
+<td><a href="https://trueinterview.io/jobs/8984b36d-33c1-408e-b123-dc8f28798cb5">Mechanical Reliability Engineer</a></td>
+<td>Hyderabad, Telangana, India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484942758/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aerolift Industrials</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6669516-1ba2-4bbd-8f18-fecfabca0780">Mechanical Engineer | NL Based &amp; Dutch Speaking</a></td>
+<td>Barneveld, Gelderland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484956507/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dosign</strong></td>
+<td><a href="https://trueinterview.io/jobs/c915f824-b4f2-45f6-85ba-4c89805775fb">Freelance Hardware Engineer</a></td>
+<td>Veghel, North Brabant, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484953368/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bolt Technical</strong></td>
+<td><a href="https://trueinterview.io/jobs/62ccaf20-ccdc-499a-82c2-6dfa555091e1">Manufacturing Engineer</a></td>
+<td>Stoke-On-Trent, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484952651/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Thales</strong></td>
 <td><a href="https://trueinterview.io/jobs/3858a02f-6806-4430-b2ef-fe1c8a52ee03">Manufacturing Engineer</a></td>
