@@ -18,17 +18,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c60ae9a-dcd5-4d07-967c-4e01148738c5">University - Data Scientist</a></td>
+<td>El Segundo, CA<br/>Atlanta, GA<br/>Honolulu, HI<br/>+4 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485257176/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Raytheon</strong></td>
 <td><a href="https://trueinterview.io/jobs/30b07af9-491b-4699-94da-c5eeded4e9c4">Power Electronics Engineer I - Onsite</a></td>
 <td>El Segundo, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485247771/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Booz Allen Hamilton</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c60ae9a-dcd5-4d07-967c-4e01148738c5">University - Data Scientist</a></td>
-<td>El Segundo, CA<br/>Honolulu, HI<br/>Huntsville, AL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485257176/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

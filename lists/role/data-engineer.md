@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**319 open roles.** 169 in the United States & Canada · 150 elsewhere in the world.
+**320 open roles.** 171 in the United States & Canada · 149 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>CGI</strong></td>
+<td><a href="https://trueinterview.io/jobs/eeef70e9-55bc-467a-842d-335f60684f72">Business Intelligence Developer</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485255346/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Booz Allen Hamilton</strong></td>
 <td><a href="https://trueinterview.io/jobs/66a7d614-07dc-4240-ad93-1de614288c33">Palantir Data Engineer</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484988421/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AMroute LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/57129fb3-925a-4863-b230-d8e0337709ce">Data Center Onsite Support Engineer</a></td>
+<td>Memphis, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485245571/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TrendAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e003af4-02ce-48a5-89b7-d512fff39d68">Business Intelligence Engineer</a></td>
+<td>Irving, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485247634/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -470,13 +491,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1f953ac5-c619-4418-91b3-c98dece32aa0">Data Analytics Engineer</a></td>
 <td>Atlanta, GA<br/>Charlotte, NC<br/>Durham, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465942487/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Oxbridge Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd3390ce-9660-4ccf-8589-deb151f1c33f">Data Integration Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484704897/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -1213,6 +1227,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Icon</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bfda079-7b16-4e1b-b3da-85b55f7a24c9">Data &amp; Analytics Engineer</a></td>
+<td>Melbourne, Victoria, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485248760/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Alibaba Cloud</strong></td>
 <td><a href="https://trueinterview.io/jobs/7f878ba1-f2ed-4659-819c-fbbc9ad19521">Data Center Facilities Engineer-Paris, France</a></td>
 <td>Paris, Île-de-France, France</td>
@@ -1693,20 +1714,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/26c09d70-77f5-4c4f-b44a-951dd446e024">Data Engineer (w/m/d)</a></td>
 <td>Frankfurt am Main, Hesse, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484108520/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>The Recruitment Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/d0a4b96c-b8fb-438c-9925-36f9c674dc29">Data Engineer - MS Fabric</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482539673/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Maxwell Bond</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0cdc8a8-7eaf-4041-b3a7-c80e60cf169a">Data Engineer</a></td>
-<td>England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482545534/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**139 open roles.** 91 in the United States & Canada · 48 elsewhere in the world.
+**140 open roles.** 93 in the United States & Canada · 47 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Wolfspeed</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c76b291-80ea-4dec-9110-edf8e5c21cb8">Test Engineer – Semiconductor Test Tool Development</a></td>
+<td>Durham, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485272300/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CS GROUP</strong></td>
+<td><a href="https://trueinterview.io/jobs/06f57ae1-be2d-4692-b751-7247c17c1eb8">Hardware Engineer – Aerospace</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485245554/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>CS GROUP - Canada</strong></td>
 <td><a href="https://trueinterview.io/jobs/aec558d2-7c93-4a76-89eb-ba3d76eb1226">Hardware Engineer – Aerospace</a></td>
@@ -902,13 +916,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/992ad30a-9493-494e-b624-4b437007ff74">ASIC Testing Integration Engineering</a></td>
 <td>Hsinchu, Taiwan, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4423206364/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hypersonica</strong></td>
-<td><a href="https://trueinterview.io/jobs/5fe436f7-38bf-42e3-bc56-66ef9d0f06f3">Signal Processing Engineer (FPGA)</a></td>
-<td>Munich, Bavaria, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484705770/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

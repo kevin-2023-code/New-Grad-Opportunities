@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**203 open roles.** 126 in the United States & Canada · 77 elsewhere in the world.
+**202 open roles.** 125 in the United States & Canada · 77 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -554,13 +554,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/65b68c9b-9e5c-4c3e-bc30-0f6625b6b75b">NCDHHS-NCFAST - Quality Assurance Engineer</a></td>
 <td>Raleigh, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483891240/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/78d3e794-4071-423e-8367-cc987ef32e28">Quality Assurance Engineer</a></td>
-<td>Raleigh, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483876937/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

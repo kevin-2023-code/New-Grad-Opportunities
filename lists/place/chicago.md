@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**104 open roles.**
+**102 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -368,13 +368,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>KPMG US</strong></td>
-<td><a href="https://trueinterview.io/jobs/beba8cfd-887b-44de-b775-ed82e59f60ff">Temporary System Administrator Shift Work (Disaster Recovery)</a></td>
-<td>Chicago, IL<br/>Atlanta, GA<br/>Denver, CO<br/>+58 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484107318/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Kforce Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/6e354356-30b9-4022-b2de-00ba15c8712c">Data Engineer</a></td>
 <td>Naperville, IL</td>
@@ -449,13 +442,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b8bc17c6-871a-4c30-abbd-54fdb963999e">Azure Cloud with AI Engineers(AI, Terraform)</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483668524/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Franklin Fitch</strong></td>
-<td><a href="https://trueinterview.io/jobs/97886163-f08b-41bc-a84e-078fbda9fcb7">Technical Product Owner</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484486278/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

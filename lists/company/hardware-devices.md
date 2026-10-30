@@ -249,13 +249,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dae75af2-1456-40a7-8ff6-fda3eae74aef">Technical Support Analyst (Hybrid)</a></td>
-<td>Allen, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476358853/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Garmin</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4f94e20-20f1-4842-b83d-eb96be26ea98">Aviation Programs Engineer - General Aviation</a></td>
 <td>Olathe, KS</td>
@@ -264,6 +257,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/0492f929-81ba-4699-8501-5c44d8b0324f">Desktop Applications Engineer, Duo Desktop</a></td>
+<td>Syracuse, NY</td>
+<td align="center"><a href="https://careers.cisco.com/global/en/job/2029917">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/53ba98ae-bbf2-4f27-aa33-4a432c61463c">Solutions Engineer, APO - Bay Area</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://careers.cisco.com/global/en/job/2029394">Apply</a></td>

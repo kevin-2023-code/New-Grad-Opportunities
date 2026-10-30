@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**204 open roles.** 113 in the United States & Canada · 91 elsewhere in the world.
+**207 open roles.** 116 in the United States & Canada · 91 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>O2 Technologies,Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/85914d25-59d3-4277-852c-ac1b89aa07b2">Full Stack .NET React Developer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485273243/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Melio</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a7ea020-7453-4dc4-893d-af0728f4a54d">Full Stack Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485238920/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Synergy</strong></td>
 <td><a href="https://trueinterview.io/jobs/b765413a-9b24-473c-b162-eed56d143523">Full Stack Developer</a></td>
@@ -218,6 +232,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8bf3b5ec-9f9b-46d8-a248-6b297b6d6b08">Full Stack Developer</a></td>
 <td>Maitland, FL</td>
 <td align="center"><a href="https://grnh.se/ya6uln158us">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>State Farm</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c14c90e-eebd-4b5f-9e81-56111f12bdcd">Full-Stack Software Engineer – AWS &amp; Identity</a></td>
+<td>Bloomington, IL</td>
+<td align="center"><a href="https://jobs.statefarm.com/jobs/47134/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

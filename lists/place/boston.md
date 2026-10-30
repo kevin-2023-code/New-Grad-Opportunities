@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**110 open roles.**
+**109 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -414,13 +414,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5acf469d-214a-4492-94b1-fdb40a97aee2">Principle Robotics Software Engineer (Physical AI)</a></td>
 <td>Wilmington, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474413655/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MORSE Corp</strong></td>
-<td><a href="https://trueinterview.io/jobs/82ad5023-ff5d-4adf-8c78-bd9ba92b81e2">Robotics Software Engineer</a></td>
-<td>Cambridge, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446247339/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

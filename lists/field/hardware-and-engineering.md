@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,061 open roles.** 738 in the United States & Canada · 323 elsewhere in the world.
+**1,058 open roles.** 736 in the United States & Canada · 322 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,6 +20,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/a505f1f9-9761-40a4-990b-af8f9979dfbd">Quality Engineer</a></td>
+<td>Buffalo, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485273426/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wolfspeed</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c76b291-80ea-4dec-9110-edf8e5c21cb8">Test Engineer – Semiconductor Test Tool Development</a></td>
+<td>Durham, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485272300/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Black &amp; Veatch</strong></td>
 <td><a href="https://trueinterview.io/jobs/eb90bf39-d682-4892-9a74-c88ce20c512c">Graduate Engineer, Electrical - Nuclear</a></td>
 <td>Overland Park, KS</td>
@@ -34,10 +48,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Abbott</strong></td>
+<td><a href="https://trueinterview.io/jobs/c440d5b6-f3a0-4b2e-811d-d566447540dc">Manufacturing Process Engineer I</a></td>
+<td>Scarborough, ME</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485263233/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Naval Nuclear Laboratory (FMP)</strong></td>
 <td><a href="https://trueinterview.io/jobs/4d758718-af3f-4f83-935e-36cdb5dd5af9">Nuclear Engineer (Thermal/Hydraulic), Associate (Entry Level)</a></td>
 <td>Niskayuna, NY<br/>West Mifflin, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484996903/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CS GROUP</strong></td>
+<td><a href="https://trueinterview.io/jobs/06f57ae1-be2d-4692-b751-7247c17c1eb8">Hardware Engineer – Aerospace</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485245554/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2162,20 +2190,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Naval Nuclear Laboratory (FMP)</strong></td>
-<td><a href="https://trueinterview.io/jobs/fcd829c7-f346-4a5e-aba7-2e6bf8460abc">Mechanical Engineer, Entry Level</a></td>
-<td>West Milton, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484704741/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>OneFourTwo Design Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/48787455-2d39-4acc-999b-87c300694d15">Structural Engineer</a></td>
-<td>Atlanta, GA<br/>White Plains, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457149606/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>CHS Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/95f4d95a-cbf6-4e8c-9ce9-506c13a59604">Process Engineer - Oil Refinery</a></td>
 <td>McPherson, KS</td>
@@ -2631,38 +2645,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Core States Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/1bf4d93d-f4c3-498a-a0a2-cd4939813324">Civil Engineering Designer (Land Development) - New Graduates</a></td>
-<td>Roseville, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466163033/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>H&amp;T Engineering Services, PLLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/63a538d4-cdf8-4d10-8cc2-e9814ac9b469">Civil Structural Engineer</a></td>
-<td>Clifton Park, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484468853/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>topGrads</strong></td>
-<td><a href="https://trueinterview.io/jobs/55033294-12ca-424b-8d77-fcb56a233ab7">Electrical Engineer</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482513864/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>EVS, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/de73a6da-be58-414e-bcaf-abcdf1f11234">Electrical Engineer - Entry Level</a></td>
 <td>Home, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452050018/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rise Technical</strong></td>
-<td><a href="https://trueinterview.io/jobs/b822bbc1-2a47-40a6-9cb8-37d3dd3bf291">Robotics Engineer</a></td>
-<td>Gainesville, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482524372/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2803,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7e92d4e4-1d60-4798-9b18-f0ff3f62f69b">Civil Engineer</a></td>
 <td>Detroit, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482507834/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Spark Tek Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf58c6f5-adda-4d19-b371-6eaa093771c1">Electrical Engineer</a></td>
+<td>Cumming, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483881497/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Coley Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b59a4ef-1e89-4ca8-96ef-40db7ab017bc">Quality Engineer</a></td>
+<td>Greensboro, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484207507/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

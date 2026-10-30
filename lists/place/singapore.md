@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**274 open roles.** 2 in the United States & Canada · 272 elsewhere in the world.
+**273 open roles.** 2 in the United States & Canada · 271 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1147,13 +1147,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/193fc301-f605-40c9-8776-a7bd5c14eec9">System Engineer (Avionic Systems)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484042213/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Paradigm</strong></td>
-<td><a href="https://trueinterview.io/jobs/c9a32e77-4b52-4a26-a225-70018b4847f7">Quantitative Developer - Options Markets</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4406268743/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

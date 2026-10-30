@@ -531,7 +531,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Anaplan</strong></td>
 <td><a href="https://trueinterview.io/jobs/37d2d9a1-99ae-414f-adc6-010a53009524">Data Scientist</a></td>
-<td>Manchester, England, United Kingdom</td>
+<td>Manchester, England, United Kingdom<br/>Manchester, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484969645/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
@@ -1300,6 +1300,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3dc6dad7-4ac5-4889-b921-7928d6adfcbf">Computer Vision / ML Engineer</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/isembard/edd462db-a5f6-48d3-871f-43fe41a4a7ac">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/520cb45f-779f-41d1-a582-0289be17237d">Software Engineer</a></td>
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/isembard/a4711746-6c61-4fb5-91ba-4657b19f9373">Apply</a></td>
@@ -1313,10 +1320,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>McKinsey &amp; Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/86148c58-f65b-414e-b7ff-177a886abf0f">Data Scientist - QuantumBlack, AI by McKinsey</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://www.mckinsey.com/careers/search-jobs/jobs/datascientist-quantumblackaibymckinsey-113797">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Sainsbury’s</strong></td>
 <td><a href="https://trueinterview.io/jobs/256c0087-030b-470a-a6cb-683e680e12d7">.Net Engineer – Retail (AR)</a></td>
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://www.sainsburys.jobs/jobs/description/400093323/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>University of Oxford</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f7efd95-a2cb-4ab4-a8e2-15b4db38317b">Researcher in Data Science and Informatics</a></td>
+<td>Oxford, United Kingdom</td>
+<td align="center"><a href="https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&amp;p_internal_external=E&amp;p_display_in_irish=N&amp;p_applicant_no=&amp;p_recruitment_id=189576&amp;p_process_type=&amp;p_form_profile_detail=&amp;p_display_apply_ind=Y&amp;p_refresh_search=Y">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1831,20 +1852,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Intro</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a90356a-1645-4dc5-b459-afae45a59b16">Software Engineer</a></td>
-<td>London Area, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482527714/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>twentyAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/888865e3-af72-4d46-b1d8-f2555ac6c5fd">Product Engineer</a></td>
-<td>London Area, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484705095/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>WPS</strong></td>
 <td><a href="https://trueinterview.io/jobs/94170ec8-6801-458b-984f-828b92cbbe11">Resident Engineer</a></td>
 <td>Birmingham, England, United Kingdom</td>
@@ -2178,13 +2185,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2834b88d-5c89-4d59-9dac-7132a21f2a31">Guidewire - Cloud Engineer</a></td>
 <td>London Area, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482514884/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Frazer Nash</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e636c80-9a54-4a0c-81df-d9be33a434be">Electrical, Electronic &amp; Embedded Software Engineering Graduate</a></td>
-<td>Glasgow, United Kingdom</td>
-<td align="center"><a href="https://apply.workable.com/j/6831FB67ED">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

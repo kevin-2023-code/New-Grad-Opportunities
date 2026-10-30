@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Wade Trim</strong></td>
+<td><a href="https://trueinterview.io/jobs/03dc2b10-2b62-4bab-98fd-a9930ec832b5">Information Security IAM Engineer - #3073</a></td>
+<td>Detroit, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485256301/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Valdes Architecture &amp; Engineering</strong></td>
 <td><a href="https://trueinterview.io/jobs/ae28cd34-03b7-484e-810c-3483b5e70aa1">Chemical Engineer- Entry Level</a></td>
 <td>Lombard, IL</td>
@@ -54,13 +61,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Olsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/7d5057af-7e71-463e-8c52-8d9e76bda348">Assistant Geotechnical Engineer</a></td>
-<td>La Vista, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4411408473/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/953d52a5-d474-450f-a659-a3cc767e4e24">Project Civil Engineer - Data Center</a></td>
 <td>Denver, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4411681859/">Apply</a></td>

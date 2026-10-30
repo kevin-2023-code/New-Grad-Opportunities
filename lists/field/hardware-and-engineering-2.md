@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**1,061 open roles.** 738 in the United States & Canada · 323 elsewhere in the world.
+**1,058 open roles.** 736 in the United States & Canada · 322 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,20 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Spark Tek Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/cf58c6f5-adda-4d19-b371-6eaa093771c1">Electrical Engineer</a></td>
-<td>Cumming, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483881497/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Coley Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b59a4ef-1e89-4ca8-96ef-40db7ab017bc">Quality Engineer</a></td>
-<td>Greensboro, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484207507/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>L&amp;T Technology Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/f857da4b-96ff-4bc0-b087-076087ecb7fc">Mechanical Engineer</a></td>
@@ -2394,6 +2380,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Michael Page</strong></td>
+<td><a href="https://trueinterview.io/jobs/3905bbfc-65e3-49b0-a3ac-5f2f0be75f91">Leiter Mechanical Engineering (m/w/d)</a></td>
+<td>Freiburg, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485252528/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>CBRE</strong></td>
 <td><a href="https://trueinterview.io/jobs/9b6a5687-50fe-4ddb-acf9-5d92885c412d">Electrical Engineer</a></td>
 <td>London, England, United Kingdom<br/>Newport, England, United Kingdom</td>
@@ -2825,6 +2818,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/1813ef7a-4741-4a6d-80f1-930d14e54ff2">Electrical Engineer Electromagnetics &amp; Military Operations</a></td>
 <td>The Hague, South Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476791352/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/cacad459-b1c2-474d-a02d-2d3620b9a3d9">Electrical engineer</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477132652/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

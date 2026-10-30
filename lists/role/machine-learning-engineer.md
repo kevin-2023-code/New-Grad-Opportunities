@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**172 open roles.** 107 in the United States & Canada · 65 elsewhere in the world.
+**173 open roles.** 107 in the United States & Canada · 66 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>ADT</strong></td>
 <td><a href="https://trueinterview.io/jobs/a9112e99-2c15-4cc9-9bd4-07a474b5e718">Machine Learning Engineer</a></td>
-<td>Boca Raton, FL</td>
+<td>Boca Raton, FL<br/>Irving, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485248415/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
@@ -902,6 +902,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b31c7a81-5c14-433a-af9d-0c3551a581ba">Data Scientist / Machine Learning Engineer (80–100 %)</a></td>
 <td>Brunnen, Switzerland</td>
 <td align="center"><a href="https://giag.ch/de/stelleninserate/data-scientist-machine-learning-engineer">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Isembard</strong></td>
+<td><a href="https://trueinterview.io/jobs/3dc6dad7-4ac5-4889-b921-7928d6adfcbf">Computer Vision / ML Engineer</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/isembard/edd462db-a5f6-48d3-871f-43fe41a4a7ac">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

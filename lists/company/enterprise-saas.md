@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**97 open roles.** 59 in the United States & Canada · 38 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**95 open roles.** 59 in the United States & Canada · 36 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -480,7 +480,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Anaplan</strong></td>
 <td><a href="https://trueinterview.io/jobs/37d2d9a1-99ae-414f-adc6-010a53009524">Data Scientist</a></td>
-<td>Manchester, England, United Kingdom</td>
+<td>Manchester, England, United Kingdom<br/>Manchester, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484969645/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
@@ -552,20 +552,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/274ec04e-82ca-4b5b-ba86-c030c5ef942f">Student Software Engineer – Cloud, Big Data, Billing &amp; AI</a></td>
 <td>Raanana, Center District, Israel</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476596020/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ab737e6-e682-4225-813e-f953596ef30f">Technical Support Engineer- Fabric BI</a></td>
-<td>Taipei, Taipei City, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4440543590/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/ceac1ae2-4581-44c3-b3e1-2b00d6e7f121">Technical Support Engineer - Oracle Health</a></td>
-<td>Romania</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482550062/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

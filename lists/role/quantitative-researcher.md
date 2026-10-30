@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**16 open roles.** 11 in the United States & Canada · 5 elsewhere in the world.
+**16 open roles.** 10 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -57,13 +57,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/49f6b586-296f-4dcd-b006-c3437def5ee7">Quantitative Research Operations Analyst</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484111317/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NJF Global Holdings Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/19ece253-5860-445c-a467-4249f26c760d">Quantitative Researcher - Monetization, Equities and Futures (HFT and MFT)</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484480324/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -126,6 +119,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>City Of London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484915760/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>INEOS Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/8301c1ce-54c0-4427-9e95-39bd408934fc">Quantitative Researcher</a></td>
+<td>Knightsbridge, United Kingdom</td>
+<td align="center"><a href="https://careers.ineos.com/jobs/quantitative-researcher_18551/details">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>ACCELA RECRUITMENT SERVICES PTE. LTD.</strong></td>

@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**80 open roles.** 48 in the United States & Canada · 32 elsewhere in the world.
+**82 open roles.** 50 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Illinois Department of Innovation &amp; Technology (DoIT)</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7f42e30-1a43-4120-9567-e94843a20148">Web Developer / Information Systems Analyst I, Option W</a></td>
+<td>Springfield, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483081984/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>PTR Global</strong></td>
 <td><a href="https://trueinterview.io/jobs/7697250f-670e-417c-9317-0a561755475e">Web UI Engineer (Building Livestream tool exp must needed: hls.js experience)</a></td>
@@ -99,6 +106,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4fe5ac6b-f8b9-47c7-88f1-c91959e45de0">Web Developer I - Work From Home</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484793657/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Neuehealth</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a0dd5d1-8b8d-4d47-8701-eff752e618f8">Frontend Software Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://grnh.se/s96hswij4us">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

@@ -669,7 +669,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Anaplan</strong></td>
 <td><a href="https://trueinterview.io/jobs/37d2d9a1-99ae-414f-adc6-010a53009524">Data Scientist</a></td>
-<td>Manchester, England, United Kingdom</td>
+<td>Manchester, England, United Kingdom<br/>Manchester, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484969645/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>

@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**28 open roles.**
+**29 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Teledyne Technologies Incorporated</strong></td>
+<td><a href="https://trueinterview.io/jobs/600bf892-0abe-41ae-b194-fb331e500340">Software Development Engineer</a></td>
+<td>Edmonton, Alberta, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483091874/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>ENMAX</strong></td>
 <td><a href="https://trueinterview.io/jobs/a7a7632f-460c-486f-81ab-a57d394153bf">Advanced Metering Grid Operations Engineer</a></td>

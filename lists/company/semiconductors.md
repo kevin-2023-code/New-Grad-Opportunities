@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**289 open roles.** 140 in the United States & Canada · 149 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**288 open roles.** 139 in the United States & Canada · 149 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -155,13 +155,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fcccfa12-9878-4bac-948c-5955c89b0f07">Distributed Systems Software Engineer, Collectives</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482560647/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/526853f1-4365-457c-b522-cfed030c56f1">Robotics Research Engineer - Robot Simulation and Evaluation</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455486152/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
