@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**205 open roles.** 119 in the United States & Canada · 86 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**206 open roles.** 120 in the United States & Canada · 86 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -176,6 +176,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/20291832-c960-4212-b10f-47d53ba2af48">Systems Administrator</a></td>
 <td>Canberra, Australia<br/>Beavercreek, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484728779/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NTT DATA</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee99ec78-8d70-41d8-af02-60eb86c10a30">.NET Developer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www1.jobdiva.com/candidates/myjobs/openjob_outside.jsp?a=vtjdnw5v1z1v2psgylbu76nbkkhb0y080epfxtsjq71b065808wxj6cim4ud5upr&amp;SearchString=&amp;StatesString=&amp;id=33317525&amp;compid=-1">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

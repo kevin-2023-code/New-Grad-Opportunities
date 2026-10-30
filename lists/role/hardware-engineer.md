@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**144 open roles.** 94 in the United States & Canada · 50 elsewhere in the world.
+**145 open roles.** 94 in the United States & Canada · 51 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -693,6 +693,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Jena, Thuringia, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484813009/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfa4d3c0-ab15-4792-87d5-27c4bdc53be7">Sensing Hardware Validation Engineer</a></td>
+<td>China</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692389">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>MediaTek</strong></td>
