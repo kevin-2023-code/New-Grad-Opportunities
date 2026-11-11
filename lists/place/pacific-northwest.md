@@ -18,6 +18,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Excelsior</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3a42f11-ee0c-49bf-869e-35072ce5a26e">Data &amp; Performance Analyst-Rural Healhcare</a></td>
+<td>Spokane, WA</td>
+<td align="center"><a href="https://excelsiorwellness.bamboohr.com/careers/316?postedDate=2026-11-09">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>iHomefinder</strong></td>
+<td><a href="https://trueinterview.io/jobs/de2a2cdd-49dc-4439-953b-f6e5486a7be9">Technical Support Representative</a></td>
+<td>Eugene, OR</td>
+<td align="center"><a href="https://ihomefinder.applytojob.com/apply/gdAzn4xYg0/Technical-Support-Representative?%7E=">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a1c5eb3-7997-427f-a55c-efb670aaef6a">MTS, EDG System Architecture</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/45441292">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1b8d7e96-07ca-4c24-ba53-4fd67af6f255">New College Grad: Materials Incoming Quality Control (IQC) Engineer</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/45427223">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BHE (Berkshire Hathaway Energy)</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b2d429b-ef64-4e77-92a4-6a52abde048b">Control M Engineer 1/2</a></td>
+<td>Portland, OR, United States<br/>Des Moines, IA, United States<br/>Davenport, IA, United States<br/>+4 more</td>
+<td align="center"><a href="https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10006029">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Clearwater Analytics</strong></td>
 <td><a href="https://trueinterview.io/jobs/ab4e5af7-d8ec-4bb9-8864-96763008ef11">Quantitative Financial Analyst I</a></td>
 <td>Boise, ID</td>
@@ -60,13 +95,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>UST</strong></td>
-<td><a href="https://trueinterview.io/jobs/df9312b2-ec85-4fef-b2fa-5ffd0f91b678">Cloud Application Developer</a></td>
-<td>Hillsboro, OR</td>
-<td align="center"><a href="https://usource.ripplehire.com/candidate/?token=ZGlNvDD3ss6eLi4Vpdke&amp;lang=en">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Boomerang Healthcare</strong></td>
 <td><a href="https://trueinterview.io/jobs/b53cabc8-de78-4870-80a7-c9729c41fedd">AI Full Stack Developer</a></td>
 <td>Portland, OR</td>
@@ -78,13 +106,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/96f02e87-e0a6-47d2-9e25-8c3403aac6cd">Software Developer</a></td>
 <td>Boise, ID</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488106134/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Biamp Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff776ffb-9ed6-468a-8d85-17f36e8cac9c">DevOps Engineer</a></td>
-<td>Beaverton, OR</td>
-<td align="center"><a href="https://biamp.wd12.myworkdayjobs.com/Biamp/job/Beaverton-OR/DevOps-Engineer_JR100451">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -113,13 +134,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/822d7e32-517a-4a22-8a0d-bf77d6cad4df">Lab Engineer</a></td>
 <td>Hillsboro, OR</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Lab-Engineer_JR0288763">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Katalyst Healthcares &amp; Life Sciences</strong></td>
-<td><a href="https://trueinterview.io/jobs/a051e1e8-246d-4fcd-ae50-e399d4603b46">Test Engineer</a></td>
-<td>Beaverton, OR</td>
-<td align="center"><a href="https://www1.jobdiva.com/candidates/myjobs/openjob_outside.jsp?a=ndjdnw7vk4y5q8swci59eedy2w472z05039bawkobc550aecw9ph653e8wk1g6bh&amp;SearchString=&amp;StatesString=&amp;id=33598932&amp;compid=-1">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -155,13 +169,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4470e94c-23b7-44ec-b4ea-dbeddb26f7ac">Controls Engineer</a></td>
 <td>Boise, ID</td>
 <td align="center"><a href="https://recruiting2.ultipro.com/WUN1002WND/JobBoard/cf373efc-2fad-42c7-b3ea-efbff4360573/OpportunityDetail?opportunityId=fcba996e-0c99-4803-bcee-5f811f273a06&amp;postingId=02541414-be92-4b64-b4ca-f2b7f9565b7a">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b5eb08a-e4fd-4775-b00a-8bd710638451">Emulation Verification Engineer</a></td>
-<td>Beaverton, OR<br/>Sunnyvale, California, United States<br/>San Diego, California, United States<br/>+1 more</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692310">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -310,13 +317,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Portland, OR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485692419/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Avista Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/3923b3eb-a113-4e31-b125-83d26b14f750">Engineer - Generation</a></td>
-<td>Spokane, WA</td>
-<td align="center"><a href="https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=7430a131-4c9e-44de-814b-477e548de515&amp;postingId=9810b7be-d72b-41c1-99a2-47a00c5d862d">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

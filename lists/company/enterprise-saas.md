@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**62 open roles.** 31 in the United States & Canada · 31 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**57 open roles.** 26 in the United States & Canada · 31 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Adobe</strong></td>
+<td><a href="https://trueinterview.io/jobs/1baf3043-0aa6-4e47-b8d6-b41a53988e55">2027 University Graduate - Data Engineer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://careers.adobe.com/us/en/job/ADOBUSR173455EXTERNALENUS/2027-University-Graduate-Data-Engineer">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/1f215c2a-7198-4f1b-9836-68a6b64c29de">Design Verification Engineer - Fabric Interconnect</a></td>
 <td>Raleigh, NC</td>
@@ -29,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6f05b981-b113-4298-b508-1b9929d7c603">Software Engineer, New Grad (Dec 2026)</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4454805111/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Adobe</strong></td>
-<td><a href="https://trueinterview.io/jobs/16bc190e-0d31-4f74-9a9d-ebac84621fae">AI Product Designer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4443426411/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>
@@ -74,17 +74,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/ab53a5dd-d62b-44b6-8951-6d9818628f6b">Cloud Adoption Engineer — Oracle Government, Defense &amp; Intelligence</a></td>
-<td>Washington, DC<br/>Reston, VA</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349185">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Fieldwire</strong></td>
 <td><a href="https://trueinterview.io/jobs/e0d186ad-ffe9-4262-b79c-131f70157dad">Strategic Business Developer – Key Projects</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://www.fieldwire.com/job/8932806002?gh_jid=8932806002">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ashby</strong></td>
+<td><a href="https://trueinterview.io/jobs/59650723-e098-4a8d-af71-a146d67e8383">Support Operations Engineer - NAMER</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Ashby/998a6a42-3308-47b7-8350-e842dbc73920">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -95,13 +95,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Figma</strong></td>
-<td><a href="https://trueinterview.io/jobs/c678d9a9-8bf7-4c85-8af9-e08cf46172d0">Early Career, Product Designer (2027)</a></td>
-<td>San Francisco, CA<br/>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469083819/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Gusto</strong></td>
 <td><a href="https://trueinterview.io/jobs/d1b568b8-b11a-4503-9e81-8034cc24eb9f">Enterprise Application AI Engineer</a></td>
 <td>San Francisco, CA - Hybrid<br/>San Francisco Bay Area</td>
@@ -109,17 +102,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/011c20fa-58ab-4d15-b76a-dfb1b7639633">Cloud Solution Engineer, Technical Program Execution</a></td>
-<td>United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/346001">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Metaview</strong></td>
 <td><a href="https://trueinterview.io/jobs/efdedcd4-1613-46d6-8e90-51854abcad14">Brand Designer</a></td>
 <td>San Francisco, CA<br/>New York, NY<br/>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/metaview/6d0422e3-5308-4416-8b7c-072e88d2440f">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bd324ea-dab9-474f-b1bd-06890d676be6">Software Engineer, Agent Eval Platform</a></td>
+<td>Mountain View, CALIFORNIA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000159509518-software-engineer-agent-eval-platform">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -141,20 +134,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/abc54be5-77fd-4bcc-b51b-e3253a33a6d8">DevOps / Platform Engineer – TS/SCI</a></td>
 <td>St. Louis, MO - Globe<br/>Redlands, CA<br/>Vienna, VA<br/>+1 more</td>
 <td align="center"><a href="https://www.esri.com/careers/5264444007?gh_jid=5264444007">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ab2674c8-e462-41b9-a78f-0f882dfebbbe">Software Development Engineer I – Agentic AI, ArcGIS Enterprise</a></td>
-<td>Redlands, CA</td>
-<td align="center"><a href="https://www.esri.com/careers/5186832007?gh_jid=5186832007">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba8c2b07-7c15-4157-a1a6-8a43636fef08">Developer (Multiple Positions Available)</a></td>
-<td>Palo Alto, CA<br/>San Ramon, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476061794/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -180,13 +159,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/90c6c172-516f-41c4-9764-4998e560392f">Sustaining and Validation Hardware Engineer</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/332898">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/24f85611-c8d0-4ea6-b7e9-b8e2ed096bcf">Support Engineer - Oracle Health</a></td>
 <td>Kansas City, MO<br/>Orlando, FL, United States<br/>Nashville, TN, United States</td>
 <td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349004">Apply</a></td>
@@ -227,13 +199,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466952784/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Zefr</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c2b698f-fafb-47d1-a796-d682c905d39b">Software Engineer</a></td>
-<td>Marina del Rey, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/zefr/d3353c85-2e31-4855-84cc-f18749edc640">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -246,6 +211,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/jobs/3656b7b4-06f7-4ce7-8683-2022671d4509">Presales Data and Integration Solution Engineer - English &amp; Dutch Speaking</a></td>
+<td>London, England, United Kingdom<br/>England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473511861/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/03798209-5bb4-4a63-bc46-daa668d1e2ab">Cloud Solution Architect - Entry Level</a></td>
+<td>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489485657/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Oracle</strong></td>
+<td><a href="https://trueinterview.io/jobs/9aeb89bf-46fb-4368-829f-1b7ac552a837">Technical Support Engineer - Oracle Health | Afternoon Shift (2 PM - 11 PM)</a></td>
+<td>BUCHAREST, Romania<br/>Romania</td>
+<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/349010">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4dd465b-3ac4-4efb-a519-30e34c78b5c7">Cloud &amp; AI Platform Solution Engineer</a></td>
@@ -268,14 +254,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>SAP</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec4f6ba6-b85e-4f87-aea1-7d4bfefdde73">DevOps Engineer - Sovereign Cloud Delivery Germany (m/f/d)</a></td>
-<td>Berlin, Berlin, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461300169/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/061fb37e-3f48-461c-8f7c-0e65b6b6ef34">AI Business Solution （Agent/Copilot/Power Platform/D365）シニアソリューションスペシャリスト（大手エンタープライズ企業担当）</a></td>
 <td>Tokyo, Tokyo, Japan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487787102/">Apply</a></td>
@@ -352,13 +331,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/65e06cd1-77d7-4d3d-bcbb-5194c8f720cb">Database &amp; Cloud Engineer</a></td>
-<td>Hong Kong</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/345486">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Workday</strong></td>
 <td><a href="https://trueinterview.io/jobs/f672adcd-6b93-400d-a222-f37d409905af">Applied AI Engineer</a></td>
 <td>Dublin, County Dublin, Ireland<br/>Dublin, Ireland</td>
@@ -423,13 +395,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/1697d517-8fbc-4708-90d0-ce0f77379dd3">Technical Support Engineer - Oracle Health (evening shift)</a></td>
-<td>Romania</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/348763">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/639eb485-7e83-4689-9f8e-720913c4e697">Data Center Build Engineer</a></td>
 <td>Bangkok, Bangkok City, Thailand<br/>BANGKOK, Thailand</td>
 <td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/345665">Apply</a></td>

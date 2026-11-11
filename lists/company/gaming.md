@@ -2,7 +2,7 @@
 
 # 🎮 Gaming & interactive
 
-**8 open roles.** 3 in the United States & Canada · 5 elsewhere in the world. Games, game engines and interactive entertainment.
+**7 open roles.** 3 in the United States & Canada · 4 elsewhere in the world. Games, game engines and interactive entertainment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -55,13 +55,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/66641372-d980-4106-bec3-633984f6a20c">Unreal Engine Motion Designer - Mob Control</a></td>
 <td>Paris</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/voodoo/efa492d2-1133-4fbf-b8b7-dc2dc4df0cad">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d6c28cb7-db5c-42ba-a202-912964c07c04">Game Developer - Midcore Games</a></td>
-<td>Paris<br/>Warsaw<br/>Beijing</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/voodoo/197911ba-aee0-438d-99a8-59069de723db">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>

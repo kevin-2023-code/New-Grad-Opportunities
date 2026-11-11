@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**439 open roles.** 266 in the United States & Canada · 173 elsewhere in the world.
+**427 open roles.** 264 in the United States & Canada · 163 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Menzis</strong></td>
+<td><a href="https://trueinterview.io/jobs/296b0cd6-1c47-4a29-97c4-251fbf498d1b">Data Engineer</a></td>
+<td>Wageningen, Netherlands</td>
+<td align="center"><a href="https://www.cooperatiemenzis.nl/werkenbij/vacatures/vacature-details?vacatureId=868">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nederlandse Voedsel- en Warenautoriteit (NVWA)</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6e24802-f86d-4566-ae51-bacb7eedad64">Data Engineer Workforce Management</a></td>
+<td>Utrecht, Netherlands</td>
+<td align="center"><a href="https://www.werkenvoornederland.nl/vacatures/data-engineer-workforce-management-NVWA-2026-3697">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>NN GROUP</strong></td>
 <td><a href="https://trueinterview.io/jobs/5fdcba91-9571-4829-bf43-8b921694b27f">Vacature: Data engineer - View vacancy</a></td>
@@ -191,104 +205,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Queretaro Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468684537/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Alibaba Cloud</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a291f82-f872-4844-8f93-6ace4f9dd9c1">Data Center Fire Protection Engineer-Paris, France</a></td>
-<td>Paris, Île-de-France, France<br/>Greater Johor Bahru<br/>Semarang Barat, Central Java, Indonesia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466221643/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Safran.ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/077a4062-280f-4a22-b3f3-5dca70a714b1">Data Engineer (H/F)</a></td>
-<td>Paris</td>
-<td align="center"><a href="https://jobs.lever.co/safran-ai/71868ee7-2663-4aa0-9226-261f5068830b">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AgentixLake GmbH</strong></td>
-<td><a href="https://trueinterview.io/jobs/85345a4b-51a3-413a-8480-f79c061e2243">Working Student Data Engineer – Python, SQL &amp; Cloud Platforms</a></td>
-<td>Berlin, Deutschland</td>
-<td align="center"><a href="https://join.com/companies/dataventio/16894212-working-student-data-engineer-python-sql-and-cloud-platforms?pid=a13795120131dbe48464">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Myriad360</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a053cf2-97ab-4093-b25f-bec8f2c40e97">Analytics Engineer (Remote)</a> 🌐</td>
-<td>Remote — India</td>
-<td align="center"><a href="https://boards.greenhouse.io/myriad360/jobs/8925124002?gh_jid=8925124002">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MediaTek</strong></td>
-<td><a href="https://trueinterview.io/jobs/63789392-5489-45c9-9cc2-94403e433377">Engineering Data Analysis Engineer</a></td>
-<td>Hsinchu, Taiwan, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4424345610/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Brainbox consulting BV</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e5dfd5a-a25e-44a8-ae9d-95b8ba068f55">Data Engineer - Microsoft Fabric Developer</a></td>
-<td>Rijswijk, Netherlands</td>
-<td align="center"><a href="https://nl.indeed.com/viewjob?jk=6f6ba203a431f781">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Accor</strong></td>
-<td><a href="https://trueinterview.io/jobs/b8231b2e-6c35-43a5-8118-5d401781541c">Data Analytics Engineer &quot;MATE&quot; - F/H/X</a></td>
-<td>Issy-les-Moulineaux, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AccorCorpo/744000158773040-data-analytics-engineer-mate-f-h-x">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Devoteam</strong></td>
-<td><a href="https://trueinterview.io/jobs/8116d0b2-bd64-4853-b0ad-2bfd43a54060">Databricks Data Engineer (m/w/d)</a></td>
-<td>Madrid, Comunidad de Madrid, Spain<br/>Frankfurt am Main, Deutschland<br/>München, Deutschland<br/>+3 more</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000158756360-databricks-data-engineer-m-w-d-">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ericsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ed2964f-1768-4224-ba51-6aab3f042dcc">Data Engineer</a></td>
-<td>Budapest, Budapest, Hungary</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467576231/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Dept</strong></td>
-<td><a href="https://trueinterview.io/jobs/427b29ff-dc26-4d24-9332-f5db31deddfd">Data Engineer Trainee</a></td>
-<td>Budapest</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/dept/jobs/8336469">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ITIS</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f5118f1-93af-4ccc-b605-7ad95704887d">Data Engineer | Randstad</a></td>
-<td>The Randstad, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477409576/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Free</strong></td>
-<td><a href="https://trueinterview.io/jobs/935cee7a-91f2-488b-820f-bda522919284">Stage - Data Engineer - Paris - H/F</a></td>
-<td>Paris, France<br/>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Iliad-Free/744000158720568-stage-data-engineer-paris-h-f">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Spait Infotech</strong></td>
-<td><a href="https://trueinterview.io/jobs/037a5ea1-dc9a-40cd-916f-cdd9f177ea7a">Business Intelligence Analyst</a></td>
-<td>Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484832587/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Thrive IT Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/be9ff187-3ea9-41b9-9d1c-30135bff9126">Data Engineer</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485324480/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

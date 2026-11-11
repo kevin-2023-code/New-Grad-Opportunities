@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**8 open roles.** 6 in the United States & Canada · 2 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**7 open roles.** 5 in the United States & Canada · 2 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,13 +51,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Wilmington, MA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4748455005">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Kairos Power</strong></td>
-<td><a href="https://trueinterview.io/jobs/e197459d-58c1-41a1-9981-42580fd6bab1">Firmware Development Engineer</a></td>
-<td>Alameda, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/kairospower/jobs/6193295004">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

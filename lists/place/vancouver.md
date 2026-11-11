@@ -53,6 +53,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Tenstorrent</strong></td>
+<td><a href="https://trueinterview.io/jobs/844afdbf-f9ea-45f0-80ae-217073939b49">Infrastructure Operations Engineer / SRE</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Austin, TX<br/>+2 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5283701007">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/d80e8592-c01b-4ad5-9489-ac8ad5bec2e4">Applied Scientist, Alexa Connections</a></td>
 <td>Vancouver, British Columbia, Canada<br/>Toronto, Ontario, Canada</td>
@@ -197,13 +204,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d447dd77-b70d-42bc-b019-6be9ea3a2ac7">Faculty, Electrical Engineering and Technology</a></td>
 <td>Burnaby, Canada</td>
 <td align="center"><a href="https://careers.bcit.ca/postings/10789">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/96e29f86-3efc-4bb6-befd-bb30d15b08da">Applied Scientist, ITA-Global Hiring Science</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485635863/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

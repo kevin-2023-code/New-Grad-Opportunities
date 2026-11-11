@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**123 open roles.**
+**127 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nextech Hypergroup Solution</strong></td>
+<td><a href="https://trueinterview.io/jobs/c603385c-4f17-454e-91c4-5626e3c724b3">Junior Cybersecurity Analyst F-1 OPT / STEM OPT Candidates</a></td>
+<td>Atlanta, GA<br/>Atlanta, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487160862/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Georgia Tech Research Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c3aab1f-90e5-41b2-83b1-2b5c262027f0">Embedded Real-Time Software Engineer (Entry Level) - ASL - Open Rank</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489151569/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Authority Brands</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2a06b3a-51db-4f19-9f62-860e7a9c93a4">System and Network Administrator</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/authority/CANDIDATEPORTAL/jobs/7530">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Georgia Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/79d3d994-83cd-4164-854b-ad3608420fe3">Embedded Real-Time Software Engineer (Entry Level) - ASL - Open Rank</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://careers.gtri.gatech.edu/jobs/embedded-real-time-software-engineer-entry-level-asl-open-rank-atlanta-georgia-united-states">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/66186288-066e-4c47-92f4-7a4f28872197">Research Info Systems Engineer</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=3000&amp;JobOpeningId=305214&amp;PostingSeq=1">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Regions Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/1455d2d5-097e-4390-96c6-3e013f9e25df">Software Engineer - Risk Systems</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://careers.regions.com/us/en/job/RFCOUSR107317ENUSEXTERNAL/Software-Engineer-Risk-Systems">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Schweitzer Engineering Laboratories</strong></td>
+<td><a href="https://trueinterview.io/jobs/667bbdb3-1cb8-4494-949a-be72097d4836">Power Systems Protection Engineer</a></td>
+<td>Alpharetta, GA<br/>Nashua, NH<br/>Wesley Chapel, FL<br/>+1 more</td>
+<td align="center"><a href="https://selinc.wd1.myworkdayjobs.com/SEL/job/Florida---Wesley-Chapel/Power-Systems-Protection-Engineer_2026-24612">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>iSuite</strong></td>
+<td><a href="https://trueinterview.io/jobs/93a073de-2ea3-43a7-8c03-b70e5d588882">System Administrator</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://jobs.ourcareerpages.com/job/1016527">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Continuum Resource Network</strong></td>
 <td><a href="https://trueinterview.io/jobs/78eeb2ca-4a36-4899-bcfa-128fe1ea2efb">GenAI Forward Deployed Engineer (client facing) - Financial Services</a></td>
@@ -151,13 +207,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>SpendHQ</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8174685-376e-4f95-b3bc-f870dc69fa18">Data Analyst</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d090b87b970190c11a2eba02db&amp;id=8a7885bca184738301a1901e91ef5493&amp;lang=en">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Judge Consulting Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/e5ff152c-0b11-43b9-b2d1-eee5b8389d92">Product Owner</a></td>
 <td>Atlanta, GA</td>
@@ -183,13 +232,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2c6c8e53-95e4-438e-bf3b-4af79aab14af">Software Engineer - AI &amp; Workflow Automation</a></td>
 <td>Atlanta, GA<br/>Atlanta, Georgia, United States</td>
 <td align="center"><a href="https://apply.workable.com/j/B1F523C406">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Quantum World Technologies Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/7db63981-fc75-4810-a03e-7e649c8ab087">AI Engineer</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488182264/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -298,10 +340,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Miles IT</strong></td>
+<td><a href="https://trueinterview.io/jobs/53e403e2-49db-4a23-8368-754106ebd9a0">IT Support Specialist (Tier 2)</a> 🌐</td>
+<td>Remote — United States<br/>Atlanta, GA</td>
+<td align="center"><a href="https://www.milesit.com/careers/st-it-support-specialist/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>OnPay</strong></td>
 <td><a href="https://trueinterview.io/jobs/cb0f807d-c960-455d-8c39-d5289ae90566">QA Analyst I</a> 🌐</td>
 <td>Remote — United States<br/>Atlanta, GA</td>
 <td align="center"><a href="https://careers.onpay.com/jobs/8674026-qa-analyst-i">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>QTS</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e83d4f9-3fad-4de3-8938-b058894e79fe">Enterprise IT Support Engineer I</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/US-GA-Atlanta-Suwanee-1-DC1/Enterprise-IT-Support-Engineer-I_R2026-2336">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -445,6 +501,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Alignerr</strong></td>
+<td><a href="https://trueinterview.io/jobs/01f3bf36-7beb-4251-a83c-5fdf8235a5c0">Financial Analyst AI Researcher - Remote</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487208264/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Southern Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/93e2a73f-5d67-4440-a28c-45480d237c41">Application Developer</a></td>
 <td>Atlanta, GA<br/>Birmingham, AL</td>
@@ -470,6 +533,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c0a7fbf9-8f5c-4b52-94b6-0dcde88eea35">Hiring | System Engineer – Intune AD Admin | Atlanta, Georgia (Hybrid)</a></td>
 <td>Atlanta, GA<br/>Atlanta, Georgia, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/TMSLLC/744000159505246-hiring-system-engineer-intune-ad-admin-atlanta-georgia-hybrid-">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ICE</strong></td>
+<td><a href="https://trueinterview.io/jobs/da53d9b1-89ea-4f80-aad1-6e4de136de43">Quantitative Analyst, Quantitative Research</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4434003331/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -550,13 +620,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Smart IT Frame LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/9c08993c-916d-4a94-9c34-10470f71b8cb">Full Stack Engineer</a></td>
-<td>Atlanta, GA<br/>Georgia, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486072057/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>SRM Digital</strong></td>
 <td><a href="https://trueinterview.io/jobs/c08925fb-8d00-44b6-80d0-d720e32099bc">Agentic AI Developer</a></td>
 <td>Alpharetta, GA</td>
@@ -589,6 +652,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/312a452e-1d8f-4711-9059-94ec1dcfd840">Software Engineer - Mainframe/COBOL</a></td>
 <td>Atlanta, GA<br/>Birmingham, AL<br/>Charlotte, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486822143/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/bdd0a03a-8748-422c-9a71-6d77b000ab59">Manufacturing Engineer Stf - E4</a></td>
+<td>Marietta, GA</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477758240?domain=lockheedmartin.com">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mixon Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a2c1433-3d09-4804-a2fe-329116ada01b">Evening Technical Support Specialist</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.teamworkonline.com/sports-technology-jobs/mixon-digital/mixon-digital-jobs/evening-technical-support-specialist-2198006">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -732,14 +809,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Alignerr</strong></td>
-<td><a href="https://trueinterview.io/jobs/420fc00e-a8df-437b-9540-e5c53930830c">Quantitative Finance Forecasting Analyst</a></td>
-<td>Atlanta, GA<br/>Seattle, WA<br/>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486119212/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mobile Career</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c1f0dc17-b2df-4702-943c-f1495f1ffaf7">Full-Stack Engineer, Part-Time AI Code Evaluation - Remote (United States)</a></td>
 <td>Marietta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485933517/">Apply</a></td>
@@ -764,13 +834,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e341a300-1c64-4527-be00-6d156d3a0343">AI Solutions Engineer</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469196406/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c8629fe-93ab-47d1-91c0-8270179e5180">2026 Early Career Software Engineer</a></td>
-<td>Atlanta, GA<br/>Atlanta, Georgia, United States<br/>Seattle, Washington, United States<br/>+9 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -842,41 +905,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485343851/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ztek Consulting</strong></td>
-<td><a href="https://trueinterview.io/jobs/fb480a58-07a6-4fe9-be0d-1227deb2f1f9">Security Engineer</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483499534/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pdi Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/abb9f039-80e6-4125-a86a-b3e7e14e0a5c">Solutions Engineer I</a></td>
-<td>Alpharetta, GA<br/>Dallas, TX</td>
-<td align="center"><a href="https://jobs.lever.co/pditechnologies/51de60c4-b7b2-4935-9e1f-d1a9e23db97c">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ascii Group, LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0952da9-1240-4ac7-8ab8-d0194d9e2663">Harness Platform Engineer</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485373742/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Visionaire Partners</strong></td>
-<td><a href="https://trueinterview.io/jobs/ae9dcc34-b1cb-4b74-9af4-e0476103cf23">Big Data Engineer (Live Anywhere)</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474806949/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Delta Vacations</strong></td>
-<td><a href="https://trueinterview.io/jobs/794dadb7-d7b7-4a1b-b204-e69798ec05b7">Delta Vacations - Product Owner, Digital Product</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475997177/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

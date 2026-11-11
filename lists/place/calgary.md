@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**14 open roles.**
+**13 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -107,13 +107,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Calgary, AB<br/>Calgary, Alberta, Canada<br/>Vancouver, BC<br/>+4 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468290895/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Yardstick Technologies Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/21d11e88-4be5-44f4-bed5-1de4097a69da">Service Desk Analyst - Tier 1 (Weekend)</a></td>
-<td>Edmonton, Alberta, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477476538/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

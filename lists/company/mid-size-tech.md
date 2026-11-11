@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**37 open roles.** 25 in the United States & Canada · 12 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**35 open roles.** 24 in the United States & Canada · 11 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,11 +18,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Tenstorrent</strong></td>
-<td><a href="https://trueinterview.io/jobs/663c510f-4fc8-42b5-8e68-1b7c4f2e36b2">Engineer, CPU Performance Verification</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States<br/>Santa Clara, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5284404007">Apply</a></td>
-<td align="center">8 Nov 2026</td>
+<td><strong>Mirantis</strong></td>
+<td><a href="https://trueinterview.io/jobs/8bd6ce35-f2fc-4dca-ac42-b35113540af2">Software Development Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Mirantis/744000160982204-software-development-engineer-">Apply</a></td>
+<td align="center">10 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Notion</strong></td>
@@ -67,13 +67,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Tenstorrent</strong></td>
-<td><a href="https://trueinterview.io/jobs/64edd317-777a-48c7-880f-9064317126cd">Physical Design Engineer, ML4PD</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5270485007">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Cohere</strong></td>
 <td><a href="https://trueinterview.io/jobs/e639213f-bbdd-4256-b0cc-6fe3a05e8121">Software Engineer, ML Workload Platform</a></td>
 <td>Canada</td>
@@ -93,6 +86,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4462716979/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tenstorrent</strong></td>
+<td><a href="https://trueinterview.io/jobs/844afdbf-f9ea-45f0-80ae-217073939b49">Infrastructure Operations Engineer / SRE</a></td>
+<td>Austin, TX<br/>Vancouver, BC<br/>Austin, Texas, United States<br/>+2 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tenstorrent/jobs/5283701007">Apply</a></td>
+<td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Fullstory</strong></td>
@@ -185,13 +185,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468670707/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Zefr</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c2b698f-fafb-47d1-a796-d682c905d39b">Software Engineer</a></td>
-<td>Marina del Rey, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/zefr/d3353c85-2e31-4855-84cc-f18749edc640">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -237,13 +230,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/16f4a6f4-18ea-48b5-8b9f-405d1d302f1a">Network Development Engineer, Data Center Fabrics</a></td>
 <td>Paris<br/>Amsterdam<br/>Warsaw<br/>+3 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/5fd0c5bf-92b0-4f46-bf81-23276a63bcfd">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Voodoo</strong></td>
-<td><a href="https://trueinterview.io/jobs/d6c28cb7-db5c-42ba-a202-912964c07c04">Game Developer - Midcore Games</a></td>
-<td>Paris<br/>Warsaw<br/>Beijing</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/voodoo/197911ba-aee0-438d-99a8-59069de723db">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>

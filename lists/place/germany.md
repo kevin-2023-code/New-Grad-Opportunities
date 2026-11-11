@@ -2,30 +2,13 @@
 
 # 🇩🇪 Berlin, Munich & Germany
 
-**100 open roles.** 1 in the United States & Canada · 99 elsewhere in the world.
+**94 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
 > A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page.
 
 _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-authorisation restriction._
-
-## United States & Canada
-
-<table>
-<thead>
-<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Focused</strong></td>
-<td><a href="https://trueinterview.io/jobs/91504cc1-f3d9-44c1-95c8-8cb709f49c98">Software Engineer (f/m/d)</a></td>
-<td>Berlin, Deutschland<br/>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/focused/f83679d5-3fb0-45d8-86ab-7566cdb04306">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-</tbody>
-</table>
 
 ## Elsewhere in the world
 
@@ -37,11 +20,18 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Clo Virtual Fashion</strong></td>
-<td><a href="https://trueinterview.io/jobs/e66fc1c6-443e-4ed6-8790-cf24e62d6d89">IT Support/Tech Support</a></td>
-<td>Munich</td>
-<td align="center"><a href="https://jobs.lever.co/clovirtualfashion/622f7621-dfaf-452a-b46f-f5e3445fc94e">Apply</a></td>
-<td align="center">8 Nov 2026</td>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/45981b3b-5278-44d8-abcf-ccee025af562">Werkstudent (w/m/d) - Technical Support</a></td>
+<td>Dresden, Saxony, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160888868-werkstudent-w-m-d-technical-support">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1d6a0aed-47c5-4e62-846f-d22c03de1e97">Working Student (f/m/d) - Technical Support</a></td>
+<td>Dresden, Saxony, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160884830-working-student-f-m-d-technical-support">Apply</a></td>
+<td align="center">10 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Apple</strong></td>
@@ -79,6 +69,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Arx Robotics Gmbh</strong></td>
+<td><a href="https://trueinterview.io/jobs/500b89a4-04a5-4a6c-8799-f3fa4f3502fa">AI Operations Engineer (m/f/d)</a></td>
+<td>Munich</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/5029805101">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Drees &amp; Sommer Digital Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/45d6cc26-486a-4f45-8fa1-a31dc16afa5e">AI Engineer (w/m/d)</a></td>
 <td>Stuttgart, Baden-Württemberg, Germany</td>
@@ -105,13 +102,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Munich, Bavaria, Germany</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SIXT/744000160165697-go-backend-developer-m-f-d-">Apply</a></td>
 <td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec4f6ba6-b85e-4f87-aea1-7d4bfefdde73">DevOps Engineer - Sovereign Cloud Delivery Germany (m/f/d)</a></td>
-<td>Berlin, Berlin, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461300169/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Bosch</strong></td>
@@ -686,48 +676,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin, Deutschland</td>
 <td align="center"><a href="https://careers.getmurphy.ai/jobs/8646819-forward-deployed-engineer-mid-market-berlin">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AgentixLake GmbH</strong></td>
-<td><a href="https://trueinterview.io/jobs/85345a4b-51a3-413a-8480-f79c061e2243">Working Student Data Engineer – Python, SQL &amp; Cloud Platforms</a></td>
-<td>Berlin, Deutschland</td>
-<td align="center"><a href="https://join.com/companies/dataventio/16894212-working-student-data-engineer-python-sql-and-cloud-platforms?pid=a13795120131dbe48464">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f2c7b58b-8a29-47a9-af6b-e4b09698993c">Working Student AI Engineer – LLMs, RAG &amp; AI Agents</a></td>
-<td>Berlin, Deutschland</td>
-<td align="center"><a href="https://join.com/companies/dataventio/16894208-working-student-ai-engineer-llms-rag-and-ai-agents?pid=a13795120131dbe48464">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JD Ross Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/61f0a783-401d-4fa4-8d41-16f32dfb8b27">Project Developer - Utility-Scale PV &amp; BESS I Hamburg o. Berlin</a></td>
-<td>Hamburg, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484852332/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Devoteam</strong></td>
-<td><a href="https://trueinterview.io/jobs/8116d0b2-bd64-4853-b0ad-2bfd43a54060">Databricks Data Engineer (m/w/d)</a></td>
-<td>München, Deutschland<br/>Madrid, Comunidad de Madrid, Spain<br/>Frankfurt am Main, Deutschland<br/>+3 more</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000158756360-databricks-data-engineer-m-w-d-">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BayWa</strong></td>
-<td><a href="https://trueinterview.io/jobs/a207fa1f-bd80-4721-8b63-890c740ad66b">AI Engineer - Generative AI m/w/d</a></td>
-<td>München, Deutschland<br/>München, Bavaria, Germany</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BayWaAG/744000158725638-ai-engineer-generative-ai-m-w-d">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JetBrains</strong></td>
-<td><a href="https://trueinterview.io/jobs/36a474be-0126-4dae-b408-265e5f28b80f">Release Engineer</a></td>
-<td>Berlin, Berlin, Germany<br/>Munich, Bavaria, Germany<br/>Madrid, Community of Madrid, Spain<br/>+3 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466284066/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

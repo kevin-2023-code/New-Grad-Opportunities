@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**243 open roles.** 178 in the United States & Canada · 65 elsewhere in the world.
+**252 open roles.** 189 in the United States & Canada · 63 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,17 +18,143 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Simpson Thacher &amp; Bartlett LLP</strong></td>
-<td><a href="https://trueinterview.io/jobs/fdf8ab8c-f6c1-4a79-a097-57693e951435">Data Scientist</a></td>
-<td>New York City Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472055322/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
+<td><strong>Lincare</strong></td>
+<td><a href="https://trueinterview.io/jobs/423fb6ab-f699-4153-8de7-48d4d3e8a462">Data Scientist</a></td>
+<td>Clearwater, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4442373001/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Superworq</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a33936d-7da6-47d6-be43-7e246f3f1e71">Data Scientist - Remote</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488682432/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/92b68037-53a9-4185-a928-bc651e20102d">Data Scientist Graduate (Multimedia) - 2027 Start</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452928524/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Perak Matriculation College</strong></td>
+<td><a href="https://trueinterview.io/jobs/db4c90f4-1326-4b75-8702-d7d2d59319cf">Data Scientist</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488661422/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Wise</strong></td>
+<td><a href="https://trueinterview.io/jobs/87a779de-bbfc-4d47-ae21-c8694dd4e725">Graduate Data Scientist</a></td>
+<td>Austin, TX<br/>Austin, Texas Metropolitan Area</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000160933600-graduate-data-scientist">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MeeBoss</strong></td>
+<td><a href="https://trueinterview.io/jobs/33143c93-083b-43f7-afc0-f7103248fb7c">Data Scientist at Hal9</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489637392/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Wise Australia Investments</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc89f0d8-5035-45b5-b013-adedd77c33a0">Graduate Data Scientist</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://wise.jobs/job/graduate-data-scientist-in-austin-jid-4490">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Spatial Front, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/ed310b77-3257-46aa-aa74-991b81f8c9c2">Data Scientist</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4387185393/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Wayve</strong></td>
+<td><a href="https://trueinterview.io/jobs/9fb718eb-c5b0-4df0-a2e3-de7c2a73698c">Data Scientist, Robotaxi Performance &amp; Capability</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488832349/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e96f733-300c-4c0b-9010-b5b0526c4294">Data Scientist I, NEST</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10600616/data-scientist-i-nest?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Daxwell</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b56d9d1-71d9-4cc0-818d-03bcd45f443e">Data Scientist</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://daxwell.quickbase.com/db/bf48ssjzn?a=dr&amp;rid=53&amp;rl=bae">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>EA Engineering Science and Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/697889c8-81af-4578-934f-55d73d224c5a">Data Scientist</a></td>
+<td>Hunt Valley, MD</td>
+<td align="center"><a href="https://grnh.se/y8h5m5fm8us">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>National Security Agency</strong></td>
+<td><a href="https://trueinterview.io/jobs/d51d6f0c-9267-41a2-856e-70c98e052beb">Data Scientist Development Program (DSDP)</a></td>
+<td>Fort Meade, MD</td>
+<td align="center"><a href="https://apply.intelligencecareers.gov/job-description/1265301">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Social Security Administration</strong></td>
+<td><a href="https://trueinterview.io/jobs/6035d9b0-3605-4258-af16-0328d279a828">Data Scientist (Direct Hire)</a></td>
+<td>Birmingham, AL</td>
+<td align="center"><a href="https://www.usajobs.gov/job/892090800">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>U.S. Customs and Border Protection</strong></td>
+<td><a href="https://trueinterview.io/jobs/36b08b65-a436-43c0-80d3-135508bc9fb9">Data Scientist</a></td>
+<td>Washington, DC<br/>Indianapolis, IN<br/>Minneapolis, MN</td>
+<td align="center"><a href="https://www.usajobs.gov/job/891713600">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>University of Wisconsin–Madison</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1c4a4a1-82c1-447f-982e-72dd5566f7b0">Biological Data Scientist</a></td>
+<td>Madison, WI</td>
+<td align="center"><a href="https://jobs.wisc.edu/jobs/biological-data-scientist-madison-wisconsin-united-states">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/04a2cfe1-3d67-4c66-a24c-871f9bb86487">Social Data Scientist</a></td>
+<td>Madison, WI</td>
+<td align="center"><a href="https://jobs.wisc.edu/jobs/social-data-scientist-madison-wisconsin-united-states">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Torentify</strong></td>
+<td><a href="https://trueinterview.io/jobs/09b94ec1-9b8b-48ad-9eed-eb18b2067ec1">Data Scientist - Remote Opportunity</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488823544/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Cedars-Sinai</strong></td>
 <td><a href="https://trueinterview.io/jobs/3466fca0-2530-4254-9462-b1edf9cd095e">Research Data Scientist - Artificial Intelligence in Medicine Research Center - Agarwal Lab</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477790752/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/d90d9ad4-2565-41b0-a4e8-2e9a8d85b91b">Data Scientist Asc - Early Career</a></td>
+<td>Fort Worth, TX</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477837889?domain=lockheedmartin.com">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>
@@ -648,13 +774,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>The Voleon Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/431df4f1-a46a-426f-a817-347333a09131">Data Scientist</a></td>
-<td>Berkeley, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4407100090/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Torentify</strong></td>
 <td><a href="https://trueinterview.io/jobs/760673e7-8a6a-4313-9a33-2fa971ec517d">Data Scientist: Ownership, Growth &amp; Flex Week - Remote Work</a></td>
 <td>United States</td>
@@ -718,13 +837,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Air Force Civilian Service</strong></td>
-<td><a href="https://trueinterview.io/jobs/ddf77529-0ce4-444e-bb9f-d72d6d190dc8">Data Scientist</a></td>
-<td>Arlington, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486099916/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>EnergyHub</strong></td>
 <td><a href="https://trueinterview.io/jobs/28b70c5b-9bf8-4f8d-98ab-1654eb8a6d41">Energy Data Scientist</a></td>
 <td>United States</td>
@@ -760,6 +872,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>AgencyBloc</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4c890ad-805e-4338-9603-3cd8f4b7c6da">Data Scientist</a></td>
+<td>Cedar Falls, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487034200/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>InterSources Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/9810091b-4652-4111-b0a6-907623ccc8ad">Data Scientist</a></td>
 <td>California, United States</td>
@@ -771,6 +890,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/16dd26ef-62c4-4cbc-92df-94f1e836ea47">Data Scientist</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468168554/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Haystack</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a863c85-3fd1-412d-9315-8a92d60da11c">Applied AI Data Scientist</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473192491/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>22nd Century Technologies Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/04b7b62f-623b-4300-8ca0-8792d3ff8916">Data Scientist</a></td>
+<td>Greenville, SC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486453003/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -799,13 +932,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/158fe973-96ec-4c13-87da-7d4fc9ee1da8">812291 Data Scientist $270,000.00</a></td>
 <td>Chantilly, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486063006/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/e3b93768-486f-4838-ba58-f4a1e6b1b81c">Data Scientist</a></td>
-<td>New York, NY<br/>San Bruno, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477911582/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -1012,13 +1138,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Radiance Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/16996ac8-967b-4795-b654-cd1ab9f0bf62">Research Data Scientist with Security Clearance</a></td>
-<td>Ruston, LA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485728405/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Esri</strong></td>
 <td><a href="https://trueinterview.io/jobs/6e86945c-d8ef-472a-ac8b-e1fddd272414">Data Scientist I</a></td>
 <td>St. Louis, MO - Westport</td>
@@ -1221,48 +1340,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485144282/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>The Aerospace Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/65487e68-8cb8-4c45-88d4-db995d302b88">2026 Data Scientist</a></td>
-<td>Colorado Springs, CO<br/>Boulder, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483921594/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mahir.co.id</strong></td>
-<td><a href="https://trueinterview.io/jobs/119b41d6-9935-4962-b8b9-9a3d25e19135">Data Scientist</a></td>
-<td>Ohio, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483917385/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/48c2e136-b65c-4995-be74-15cb7b0e8482">Software Development Engineer, Measurement, Ad Tech, and Data Science (MADS), Measurement, Ad Tech, and Data Science (MADS), MADS Data Signals</a></td>
-<td>Toronto, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485380896/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Federal Express Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/4047322f-b518-4e9f-a588-3379a7346f73">Data Scientist</a></td>
-<td>Memphis, TN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485657099/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MACHINE LEARNING TECHNOLOGIES LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/c191a1f8-b84b-40cd-b37d-3f7c00d76487">Data Scientist</a></td>
-<td>Bentonville, AR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485134516/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>PPLIED</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5cec161-2446-4c64-bdd5-1f3791f8c25b">Data Scientist</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485641198/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1275,6 +1352,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/8af17e71-85cd-4601-a71b-6b577bd4f687">Telecom Data Scientist | Early Career Program</a></td>
+<td>Stockholm, Stockholm County, Sweden</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487690992/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/06462b71-4d97-4d40-9d21-0a88942cafbb">Data Scientist, AI Program, CNGS NBS (New Business &amp; New Seller) Amazon Business</a></td>
@@ -1392,13 +1476,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7709888f-b9e6-40de-a8e8-56909fe237f5">Data Scientist (m/w/d)</a></td>
 <td>Mannheim, Deutschland</td>
 <td align="center"><a href="https://www.uni-mannheim.de/media/Universitaet/Dokumente/Ausschreibungen_Stellenanzeigen/UB_512_FAIR_DataScientist_E13_DE.pdf">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Western Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e278d4d-d2bd-4577-a71c-2ce3bbc9e0a3">Scientist 1, Data Science</a></td>
-<td>Amphoe Si Maha Phot, Prachin Buri, Thailand</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000159540669-scientist-1-data-science-">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -1710,25 +1787,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Dell Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/92818d50-53b4-44d9-b8b8-4af1f7dfd655">Analyst, Data Science</a></td>
-<td>London, England, United Kingdom<br/>London, United Kingdom</td>
-<td align="center"><a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301252">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Verisk</strong></td>
 <td><a href="https://trueinterview.io/jobs/1e3d4623-d914-4063-946b-755de858dc57">Data Scientist</a></td>
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/5093">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Free</strong></td>
-<td><a href="https://trueinterview.io/jobs/177bee6e-032f-4de1-bea4-ec08b1f913a5">Stage - Data Scientist - Paris - H/F</a></td>
-<td>Paris, France<br/>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Iliad-Free/744000158720788-stage-data-scientist-paris-h-f">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

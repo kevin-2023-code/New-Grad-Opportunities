@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**149 open roles.**
+**143 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,17 +18,94 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>All IT Solutions LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf429b7b-8c3c-4552-970f-da0be4efe1c6">Ping SSO Engineer</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://careers.allitsolutions.net/jobs/ping-sso-engineer-2026-f766a18f">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The Aerospace Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae042e6f-513c-4f7d-82b1-5f348547b65b">Information Systems Security Engineer</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://aero.wd5.myworkdayjobs.com/en-US/External/job/Colorado-Springs-CO/Information-Systems-Security-Engineer_R017198">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Collabera</strong></td>
+<td><a href="https://trueinterview.io/jobs/a00486fe-28b8-4e8d-825b-eeeee5fd6e8e">.Net Developer</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487926115/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SEA, Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee9bbd59-a21d-491c-8f30-3f9904d74b78">Electrical Engineer (Forensic Engineering)</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://sealimited.applicantpool.com/jobs/1340252-30545.html">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bain &amp; Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a83dfd6-13cf-4803-98b0-5607d177b523">IT Support Coordinator</a></td>
+<td>Denver, CO<br/>Los Angeles, CA</td>
+<td align="center"><a href="https://www.bain.com/careers/find-a-role/position/?jobid=111972">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Goodwill of Colorado</strong></td>
+<td><a href="https://trueinterview.io/jobs/779b1b0d-49c7-4857-86c1-467221b40544">BI Analyst/Developer</a></td>
+<td>Denver, CO<br/>Colorado Springs, CO</td>
+<td align="center"><a href="https://careers.goodwillcolorado.org/us/en/job/SPECI022300">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8807dd5-8e2c-4ee9-983f-0a2fdbc1a112">NPI Coordination Engineer</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://jobs.keysight.com/jobs/55348/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Kratos Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/1117adc2-5819-401f-b809-7b2503b282f2">Systems Integration Test Engineer - New Grad</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://kratosdefense.submit4jobs.com/index.cfm?fuseaction=85347.viewjobdetail&amp;CID=85347&amp;JID=371020">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Microchip Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6ec88a1-9f22-4c20-bc95-e8e097adccc8">Engineer I –Device/Test (Parametric/Etest)</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Engineer-I--Device-Test--Parametric-Etest-_R4730-26">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Quest Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b1def39-6f94-41b8-886a-d086f0ee644a">Controls Steam Turbine Product Owner</a></td>
+<td>Longmont, CO</td>
+<td align="center"><a href="https://careers.quest-global.com/global/en/job/QGRQGAGLOBALP124506EXTERNALENGLOBAL/Controls-Steam-Turbine-Product-Owner">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Univeristy Of Colorado Boulder</strong></td>
+<td><a href="https://trueinterview.io/jobs/225af774-1787-4712-a5d5-4b506742151e">OT Network System Administrator</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://jobs.colorado.edu/jobs/JobDetail/OT-Network-System-Administrator/76029">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Vantor</strong></td>
+<td><a href="https://trueinterview.io/jobs/193ecd9e-b1f4-40e6-af82-79a94db3e089">AI Engineer</a></td>
+<td>Westminster, CO</td>
+<td align="center"><a href="https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/AI-Content-Engineer_R24478">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/82324fb5-1134-4f4e-904e-a323814f691b">Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026, Amazon Dedicated Cloud (ADC)</a></td>
 <td>Denver, CO<br/>Seattle, WA<br/>Herndon, VA<br/>+2 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4463329874/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CapTech</strong></td>
-<td><a href="https://trueinterview.io/jobs/f76dc0a9-8735-4b68-a8ce-b65ad41d6ee5">Data Engineer (AWS, Azure, GCP)</a></td>
-<td>Denver, CO<br/>Columbus, OH<br/>Philadelphia, PA<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4454572269/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>
@@ -102,34 +179,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Endex</strong></td>
-<td><a href="https://trueinterview.io/jobs/8c022e7d-34ec-4e32-87a0-bed94bd7c50d">Forward Deployed Engineer</a></td>
-<td>Denver, CO<br/>Singapore<br/>Los Angeles, CA<br/>+5 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/endex/5c6b360f-94ea-404e-8929-def23aaa0a9a">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f4fa36fd-b885-47cc-ac05-5a224b4e7145">Infrastructure Engineer</a></td>
-<td>Denver, CO<br/>Singapore<br/>Los Angeles, CA<br/>+5 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/endex/0369f97b-2594-4eb2-935c-7b18dcfd03ca">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/00179ce4-6c12-43f1-b5b6-5b5defef4da3">Security Engineer</a></td>
-<td>Denver, CO<br/>Singapore<br/>Los Angeles, CA<br/>+5 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/endex/bf25b768-40e0-42ef-8b29-803371051a1e">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f3808b08-5c81-4ce5-990a-98620eb93fd7">Technical Support Engineer</a></td>
-<td>Denver, CO<br/>Singapore<br/>Los Angeles, CA<br/>+5 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/endex/f6ba7449-ce71-420f-a6fb-dca97f37ce70">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Northrop Grumman</strong></td>
 <td><a href="https://trueinterview.io/jobs/e60b31c8-7f8b-4f21-a4c1-153069e34c77">Database Admin Software Engineer Level 2 or 3 (AHT)</a></td>
 <td>Aurora, CO</td>
@@ -190,13 +239,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8788567e-6195-4ae3-ab60-560e116b11e9">Cyber Engineer – Endpoint Security MDX - SSFB</a></td>
 <td>Colorado Springs, CO</td>
 <td align="center"><a href="https://www.amentumcareers.com/jobs/cyber-engineer-endpoint-security-mdx-ssfb-colorado-springs-colorado-united-states">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Kharon</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f259f71-b2aa-40ca-9b90-6d121502dd91">AI Engineer, AI Platform</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462531561/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -347,13 +389,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Maximus</strong></td>
-<td><a href="https://trueinterview.io/jobs/a510ce94-ec0e-4947-9e83-b5bae4504822">Windows/ Linux System Administrator</a></td>
-<td>Colorado Springs, CO</td>
-<td align="center"><a href="https://maximus.avature.net/careers/Job-Description?folderId=44689">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>USDA Food Safety and Inspection Service</strong></td>
 <td><a href="https://trueinterview.io/jobs/a54509aa-dd65-49ad-9d6e-518121afe9e6">Data Scientist</a></td>
 <td>Fort Collins, CO</td>
@@ -438,13 +473,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/6858c485-e151-4df8-818f-e16531a7c344">Software Development Engineer, Amazon Marketing Cloud Assistant</a></td>
-<td>Boulder, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470430049/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Ensisinfo Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/fb34192f-83ec-44bd-a216-53638cb5c542">DevOps Engineer w2 only</a></td>
 <td>Denver, CO</td>
@@ -512,6 +540,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fcc1eeba-cad8-401f-8194-abbb43f6df58">Electrical Engineer I</a></td>
 <td>Boulder, CO</td>
 <td align="center"><a href="https://jobs.colorado.edu/jobs/JobDetail/Electrical-Engineer-I/75811">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The Aerospace Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef33b879-a8ab-400f-a577-d14eff578fe5">Applied Machine Learning Engineer</a></td>
+<td>Colorado Springs, CO<br/>El Segundo, CA<br/>Chantilly, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485060157/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Atom Computing</strong></td>
+<td><a href="https://trueinterview.io/jobs/82a345ad-8b18-4ca4-a239-cea514ba2bbb">Project Engineer</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://jobs.lever.co/atomcomputing/b176f2c7-3ea4-4cc5-89d3-47e35f54f142">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -739,13 +781,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>GRVTY</strong></td>
-<td><a href="https://trueinterview.io/jobs/41732d57-6048-4a4f-9b3e-2e0f89c985f4">Software Engineer</a></td>
-<td>Aurora, Colorado, United States<br/>Chantilly, VA<br/>Sterling, Virginia, United States<br/>+5 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/grvty/jobs/4402196009">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Zed</strong></td>
 <td><a href="https://trueinterview.io/jobs/e6a27625-6261-4d55-9447-177acb3a7fb6">Backend Engineer, Cloud</a> 🌐</td>
 <td>Remote — United States<br/>Boulder, CO</td>
@@ -921,13 +956,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c8629fe-93ab-47d1-91c0-8270179e5180">2026 Early Career Software Engineer</a></td>
-<td>Colorado Springs, Colorado, United States<br/>Fort Collins, Colorado, United States<br/>Broomfield, Colorado, United States<br/>+9 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Transamerica</strong></td>
 <td><a href="https://trueinterview.io/jobs/6f5a29e8-e31a-492f-b0fd-aba13d13efc6">. NET Specialist Software Engineering</a></td>
 <td>Denver, CO<br/>Cedar Rapids, IA<br/>Philadelphia, PA</td>
@@ -989,76 +1017,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Denver, CO<br/>Remote</td>
 <td align="center"><a href="https://myworkdaycenter.wd5.myworkdayjobs.com/MNG/job/Denver-Colorado/Cybersecurity-Analyst_R2921-1">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Actalent</strong></td>
-<td><a href="https://trueinterview.io/jobs/a16494b8-100a-4b15-a4b4-ea5f8df3b381">Devops Engineer</a></td>
-<td>Colorado Springs, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485663569/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dfc8a6cd-af7c-47d6-bd98-1907f85b93a7">DevSecOps Engineer</a></td>
-<td>Colorado Springs, CO<br/>Huntsville, AL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485659594/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>The Aerospace Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/65487e68-8cb8-4c45-88d4-db995d302b88">2026 Data Scientist</a></td>
-<td>Colorado Springs, CO<br/>Boulder, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483921594/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bluestaq</strong></td>
-<td><a href="https://trueinterview.io/jobs/103a54d4-331d-4aeb-8cee-2f0f771db517">Software Engineering Residency Program</a></td>
-<td>Colorado Springs, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470310186/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Loft Orbital</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4bdf628-ef44-4118-8dd3-0784d9cde1e6">Ground Software Engineer - Core</a></td>
-<td>Golden, CO<br/>San Francisco, CA<br/>Toulouse, France<br/>+1 more</td>
-<td align="center"><a href="https://jobs.lever.co/loftorbital/a2169637-9e0b-4b76-b128-ca4b93bd894f">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Fehr &amp; Peers</strong></td>
-<td><a href="https://trueinterview.io/jobs/395c6e5c-74cf-475b-a121-c17d12d653ed">Entry-level Transportation Engineer/Planner</a></td>
-<td>Denver, Colorado<br/>Washington, DC<br/>San Francisco, California<br/>+13 more</td>
-<td align="center"><a href="https://jobs.lever.co/fehrandpeers/1b7f95a5-a277-4537-9db3-0dddbdd3c7b7">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>M9 Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/cf38d809-f69e-4ba6-9600-b772693a32d1">System Test Engineering</a></td>
-<td>Colorado Springs, CO - Secret clearance required</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/m9solutions/jobs/5280080007">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7b8e10a4-03af-48d0-8249-1607067ddbf2">Unix Engineering/System Administration</a></td>
-<td>Colorado Springs, CO - Secret clearance required</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/m9solutions/jobs/5280078007">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/aaf5161f-dda7-4b59-9e34-e0741c9289d3">System Development Engineer, Region Reliability Engineering</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468624454/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CACI International Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/fdf91f11-eef2-4863-8c3a-80870a68f542">Systems Engineer - MBSE</a></td>
-<td>Aurora, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480061283/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

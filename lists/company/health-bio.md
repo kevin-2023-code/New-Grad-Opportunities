@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**19 open roles.** 16 in the United States & Canada · 3 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**18 open roles.** 16 in the United States & Canada · 2 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Moderna</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4301062-b1a4-42d3-ac12-7b16c1842dea">Engineer, IT Lab Support</a></td>
+<td>Norwood, MA</td>
+<td align="center"><a href="https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Norwood-Massachusetts/Engineer--IT-Lab-Support_R20195">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Bluesight</strong></td>
 <td><a href="https://trueinterview.io/jobs/d68d3c37-d55d-4e96-b83e-adf965148301">Customer Data Engineer - Pre-Sales</a> 🌐</td>
@@ -88,10 +95,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Commure</strong></td>
-<td><a href="https://trueinterview.io/jobs/4f3da515-143c-48ad-aa4c-926eeec48184">Software Engineer, Billing Agents</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Commure/feb90bb7-ad78-478c-8e3f-cde8e044d4c5">Apply</a></td>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/fda6a8b0-9d75-462f-8d54-3defe1d7233d">EHS Engineer</a></td>
+<td>Westport, MO, Ireland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016588046-ehs-engineer">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -116,13 +123,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Neuralink</strong></td>
-<td><a href="https://trueinterview.io/jobs/9743d5a2-a38b-4fe8-a18f-c81296b559ea">Machine Learning Engineer</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States<br/>South San Francisco, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/neuralink/jobs/5663271003?gh_jid=5663271003">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>McKesson</strong></td>
 <td><a href="https://trueinterview.io/jobs/30a391b9-07b5-4188-a5c7-112a0e3cb68d">Software QA Analyst</a></td>
 <td>Atlanta, GA<br/>Irving, TX</td>
@@ -143,13 +143,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/20f2074a-b10a-40e3-9514-164740c92e2b">Manufacturing Engineer</a></td>
-<td>Campoverde, Lazio, Italy</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016688456-manufacturing-engineer">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9ae126cf-e624-4894-b433-b32b99c493e5">PMO Support Engineer</a></td>
 <td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016582216-pmo-support-engineer">Apply</a></td>

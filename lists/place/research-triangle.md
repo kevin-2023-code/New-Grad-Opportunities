@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**133 open roles.**
+**132 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,11 +18,67 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Hitachi Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/a9f6b98f-2c10-499b-9075-c20e87b06401">Research Scientist - AI for Power Electronics</a></td>
+<td><strong>Jacobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ca5fa4b-f9a6-4d17-aa63-911e95b9d659">Entry Level Building Mechanical Engineer Engineer - Data Centers</a></td>
+<td>Greenville, SC<br/>Virginia Beach, VA</td>
+<td align="center"><a href="https://careers.jacobs.com/en_US/careers/JobDetail/Entry-Level-Building-Mechanical-Engineer-Engineer-Data-Centers/48111">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CWILL</strong></td>
+<td><a href="https://trueinterview.io/jobs/c21f0166-a0c8-42bd-9b0f-771236cd43b9">Order Tracking R&amp;D Trainee - Backend Engineer (Go / PHP) - Bilingual Mandarin</a></td>
+<td>Cary, NC</td>
+<td align="center"><a href="https://apply.workable.com/j/FD181B654E">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AVANTech Incorporated</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a17f8d4-d8b3-4e46-87e3-4e5b776b2af1">Project Quality Engineer</a></td>
+<td>Columbia, SC</td>
+<td align="center"><a href="https://gethired.com/job/technical-project-estimator?rcid=inply">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lenovo</strong></td>
+<td><a href="https://trueinterview.io/jobs/70318a00-dd84-4d67-895b-1827a08e3c6b">GPU Cluster Engineer</a></td>
+<td>Morrisville, NC</td>
+<td align="center"><a href="https://jobs.lenovo.com/en_US/careers/JobDetail/GPU-Cluster-Engineer/83534">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NeoDym Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/5bd1c54a-796d-4e7d-ae6b-53f37b5cfdac">User Experience Designer - Raleigh, NC/Hybrid</a></td>
 <td>Raleigh, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4427914146/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
+<td align="center"><a href="https://neodymtechnologies.applicantstack.com/x/detail/a2klasjvqwwn/aaac">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Pretium Enterprise Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c5b962d-df9a-4e96-85b0-04b5df9377cc">Data Security Engineer</a> 🌐</td>
+<td>Remote — United States<br/>Charlotte, NC</td>
+<td align="center"><a href="https://pretiumenterpriseservices.wd1.myworkdayjobs.com/Pretium-Enterprise-Services/job/Scottsdale-AZ/Data-Security-Engineer_JR117488">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Regions Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/f201f3b2-5c04-4734-aa81-ae35630b5d1b">Software Engineer - Fraud Systems</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://careers.regions.com/us/en/job/RFCOUSR107498ENUSEXTERNAL/Software-Engineer-Fraud-Systems">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>VIVA</strong></td>
+<td><a href="https://trueinterview.io/jobs/66dd12a2-182e-4be1-8932-48664e1e1802">User Experience Designer</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://careers.viva-it.com/careers/opportunities/job-detail/user-experience-designer-BTNCUE9">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Wells Fargo</strong></td>
+<td><a href="https://trueinterview.io/jobs/667963de-1672-416a-b20a-4940f9084168">Trader Voice Engineer (contract)</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://wellsfargo.talentnet.community/jobs/5abce7bf-9b21-4c5a-bb95-6484e82293fa">Apply</a></td>
+<td align="center">9 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Microsoft</strong></td>
@@ -132,7 +188,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>First Horizon Bank</strong></td>
 <td><a href="https://trueinterview.io/jobs/a7937525-b5bc-46d4-a495-8bc2d071169c">Cyber Security Analyst/Engineer</a></td>
-<td>Raleigh, NC</td>
+<td>Raleigh, NC<br/>Memphis, TN</td>
 <td align="center"><a href="https://ibpwjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/1707">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
@@ -200,13 +256,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Smart IT Frame LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1b4123b-7d9e-46d0-8b81-5fa473b0a70c">React Developer</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487345466/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>MY3TECH INC</strong></td>
 <td><a href="https://trueinterview.io/jobs/a22eabdb-f252-4fd7-a6ea-6864477c13db">Curam developer</a></td>
 <td>Raleigh, NC</td>
@@ -253,6 +302,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/639c94a0-05f7-4709-8f29-389812764392">UTS - Temporary IT Technician at NC State</a></td>
 <td>Raleigh, NC</td>
 <td align="center"><a href="https://jobs.ncsu.edu/postings/237183">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Pike Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/53e130f6-b7ec-435f-9974-52b391826bb2">Engineer I - CC</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://edyo.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/26003983">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -417,13 +473,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Salas O'Brien</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f323fa3-eb74-491d-9c24-01cb88065c5c">Entry Level Electrical Engineer I</a></td>
-<td>Greenville, SC</td>
-<td align="center"><a href="https://recruiting2.ultipro.com/SAL1016SALO/JobBoard/3347ce03-ba60-4bdc-8af2-26369c80b18f/OpportunityDetail?opportunityId=dba0726e-5d44-4b98-8a91-d3a1d9d81999&amp;postingId=92570d9d-ef19-40a7-8b74-fc37e1047672">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Agile Ventures Pvt Ltd</strong></td>
 <td><a href="https://trueinterview.io/jobs/35006ee3-ecdb-4549-a46f-62cb41b30681">Python Developer</a></td>
 <td>Charlotte, NC<br/>Jersey City, NJ</td>
@@ -585,6 +634,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Q1 Technologies, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c49d30d-cc13-4cbc-bff3-9c8e99e63cec">Servicenow CMDB Developer</a></td>
+<td>Cary, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485019110/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>PeriGen</strong></td>
 <td><a href="https://trueinterview.io/jobs/5e2596f6-dd8a-4956-9ac3-78b0df41812b">Software Engineer</a></td>
 <td>Cary, NC</td>
@@ -631,6 +687,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/88e0df95-e02f-4a7f-aada-207c2b8c9f9b">Electrical Engineer</a></td>
 <td>Greenville, SC</td>
 <td align="center"><a href="https://infintium-fuel-cell-systems-inc.careerplug.com/j/036ujrg">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>22nd Century Technologies Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/04b7b62f-623b-4300-8ca0-8792d3ff8916">Data Scientist</a></td>
+<td>Greenville, SC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486453003/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -877,76 +940,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Durham, NC</td>
 <td align="center"><a href="https://jobs.freudenberg.com/freudenberg/job/details/4091893">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ally</strong></td>
-<td><a href="https://trueinterview.io/jobs/21f489c5-2e0b-4183-933f-aeca493eb614">Software Engineer</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485119096/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mfinite Consulting LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/7928645e-9cfe-48ee-92dc-587929a68fca">Software Developer / Programmer – Contract (Raleigh, NC)</a></td>
-<td>Raleigh, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485142330/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Arkhya Tech Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3b764c1-3f0a-40c3-b00c-5be63dab4823">Software Engineer in Test</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485342666/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Kaleidoscope Innovation</strong></td>
-<td><a href="https://trueinterview.io/jobs/540defa2-94cd-4f55-8ad1-93ac1b006d2d">Intelligent Automation Developer</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4392948797/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MACHINE LEARNING TECHNOLOGIES LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/fe51ef49-13a7-4234-b7d6-534c415d56ff">React Developer</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485136507/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tata Consultancy Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/742e4d25-abef-4641-8102-425b4be94cc2">NodeJS React Developer</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467883811/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SCHUNK USA</strong></td>
-<td><a href="https://trueinterview.io/jobs/3b410690-5d4e-4cfe-9ac3-77a2218e6c40">Application Engineer</a></td>
-<td>Morrisville, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474830533/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tata Consultancy Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a97de35-a545-40cb-b335-f0695f852105">Python &amp; Oracle Developer</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467125312/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/25ff946d-0ca1-40d8-a8f4-7eaa6f1f1ea0">Collibra DQ Platform Engineer</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467119389/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/b04ebeea-2692-4b0c-a2f7-f7e90fa83040">Software Engineer, Hybrid</a></td>
-<td>Durham, NC<br/>Research Triangle Park, NC<br/>San Jose, CA</td>
-<td align="center"><a href="https://careers.cisco.com/global/en/job/2028283">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

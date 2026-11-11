@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**25 open roles.** 20 in the United States & Canada · 5 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**24 open roles.** 19 in the United States & Canada · 5 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -65,13 +65,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.rubrik.com/company/careers/departments/job.8157246?gh_jid=8157246">Apply</a></td>
 <td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Chainguard</strong></td>
-<td><a href="https://trueinterview.io/jobs/bfae7cc8-6cde-4d3d-8209-0d4cbae22bca">Security Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/chainguard/jobs/4725374006">Apply</a></td>
-<td align="center">3 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Fortreum</strong></td>

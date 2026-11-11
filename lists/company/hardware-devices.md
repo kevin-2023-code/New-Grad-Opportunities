@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**117 open roles.** 66 in the United States & Canada · 51 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**114 open roles.** 68 in the United States & Canada · 46 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Freeform</strong></td>
+<td><a href="https://trueinterview.io/jobs/4dcf6c01-8e18-4eb4-861b-e2b1e8a916dc">Software Engineer (New Grad Summer 2027)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455453920/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2a4f990-babb-4f74-8530-ae89d34af40f">Campus Switching Product Manager Graduate</a></td>
+<td>San Jose, CA<br/>Roseville, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488448901/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c3d3d11-337f-4e1d-9a68-9f70c29dfaed">Software Engineer, Applied ML</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200694108-0836?board_id=JB001">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/78d2cbb3-d494-421d-a6e9-40c8673804d4">Technical Support Engineer</a></td>
+<td>Canada</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41810">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a682692-7026-4814-8e92-7017e3e41bae">Tools &amp; Automation Engineer — Early Career</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692689-3956?board_id=JB001">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/996b223b-0385-48d0-a163-7b28e2fdcce4">ASIC DFT Engineer I (Full Time) - United States</a></td>
@@ -53,17 +88,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Ciena</strong></td>
-<td><a href="https://trueinterview.io/jobs/2fc367cf-c5ff-451e-944b-01dd54b72036">Embedded Security Software Developer - New Grad</a></td>
-<td>Ottawa, ON<br/>Ottawa, Canada</td>
-<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Embedded-Security-Software-Developer---New-Grad_R032066">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/dba7d7c8-eed5-49ba-8a44-ca9d35fc113c">Optical AI Software Engineer</a></td>
 <td>Canada</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41600">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fc367cf-c5ff-451e-944b-01dd54b72036">Embedded Security Software Developer - New Grad</a></td>
+<td>Ottawa, ON<br/>Ottawa, Canada</td>
+<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/careers/job/Ottawa/Embedded-Security-Software-Developer---New-Grad_R032066">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -264,13 +299,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b5eb08a-e4fd-4775-b00a-8bd710638451">Emulation Verification Engineer</a></td>
-<td>Sunnyvale, California, United States<br/>San Diego, California, United States<br/>Beaverton, OR<br/>+1 more</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692310">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/79f85341-9688-42fc-8798-bf748d1ee15c">Wireless PHY Design Verification Engineer</a></td>
 <td>Sunnyvale, California, United States<br/>San Diego, California, United States</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692282">Apply</a></td>
@@ -465,20 +493,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Los-Angeles-CA/Embedded-Software-Engineer_R70322">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Western Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/a745b56b-df9f-4c9b-98e8-d429576132e1">Hardware Development Engineering</a></td>
-<td>San Jose, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000158844649--hardware-development-engineering">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/b04ebeea-2692-4b0c-a2f7-f7e90fa83040">Software Engineer, Hybrid</a></td>
-<td>San Jose, CA<br/>Durham, NC<br/>Research Triangle Park, NC</td>
-<td align="center"><a href="https://careers.cisco.com/global/en/job/2028283">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -625,13 +639,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4ec3e3e2-875f-44f6-82bb-8e50abc3ac8c">Software Engineer, Apple Pay (Wallet, Payments and Commerce)</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200693338">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/3579fc83-1a55-488e-91d3-69910741983e">Hardware Electrical Component Engineer I</a></td>
 <td>Taipei, Taipei City, Taiwan</td>
@@ -660,10 +667,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Western Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e278d4d-d2bd-4577-a71c-2ce3bbc9e0a3">Scientist 1, Data Science</a></td>
-<td>Amphoe Si Maha Phot, Prachin Buri, Thailand</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000159540669-scientist-1-data-science-">Apply</a></td>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b06a4076-6672-4719-843e-2247868e4289">Machine Learning Researcher - Apple Services Engineering - Generative Audio</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200693132">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -819,34 +826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Galway, County Galway, Ireland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4460115570/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/fca2ae68-8a4a-42d3-b925-79c9bf6cc330">Manufacturing Design Engineer</a></td>
-<td>Shenzhen, Guangdong, China<br/>Suzhou, Jiangsu, China<br/>Chengdu, Sichuan, China</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692142">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pure Storage</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd6466fa-897b-4edd-9bfd-450d2a530780">Python Software Engineer - Infrastructure &amp; Platform</a></td>
-<td>Prague, Czech Republic</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8336876">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/61639bf2-5b16-4665-a9e6-ac70bffbb32b">IP Network Designer</a></td>
-<td>Bucharest, Bucharest, Romania<br/>Timisoara Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462515707/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/2c973611-3f54-450d-9ff7-d16d085a4add">Engineer, Camera Software</a></td>
-<td>Norway</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485311934/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

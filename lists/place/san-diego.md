@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**87 open roles.**
+**93 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/70dc3390-e37d-4329-8c7a-716efd7bd946">Graphics (GPU) Hardware Project Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4357663505/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Dexcom</strong></td>
+<td><a href="https://trueinterview.io/jobs/fbdbc06b-f88b-4f23-9068-2a7131020aca">Hardware Engineer 1</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488629591/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/82956a86-9ae0-4ab9-ab9b-42b4d4eb6721">PLL Design Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://careers.amd.com/jobs/97232/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cornerstone Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/df41129a-7405-4b54-952d-e4fc5e558d67">SQL Server DBA</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://cornerstonedefense.com/job-listings/4103">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Katalyst Healthcares &amp; Life Sciences</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e904f1b-f6e6-44c9-9621-6030865907bc">Mechanical Design Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www1.jobdiva.com/candidates/myjobs/openjob_outside.jsp?a=ndjdnw7vk4y5q8swci59eedy2w472z05039bawkobc550aecw9ph653e8wk1g6bh&amp;SearchString=&amp;StatesString=&amp;id=33611239&amp;compid=-1">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>UC San Diego</strong></td>
+<td><a href="https://trueinterview.io/jobs/80c1dd7e-f1c8-4d16-a74f-345c605986f9">UI/UX Designer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://employment.ucsd.edu/ui-ux-designer-141939/job/0DF576DFCB04991EDFD7CB1872DB4090">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Qualcomm Innovation Center, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/1d0f1ab7-116a-40da-88b1-ea91b74e1636">#Machine Learning Engineer - Generative AI</a></td>
 <td>San Diego, CA</td>
@@ -29,6 +71,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5ace21c3-585c-43bd-abda-b5bc393390a0">Cloud Data Engineer</a></td>
 <td>San Diego, CA<br/>Denver, CO<br/>Atlanta, GA<br/>+27 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488488948/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Peraton</strong></td>
+<td><a href="https://trueinterview.io/jobs/00647cb7-b0ee-4677-833b-7044cd4c81aa">AI / ML Developer</a></td>
+<td>San Diego, CA<br/>Remote</td>
+<td align="center"><a href="https://www.careers.peraton.com/jobs/ai-ml-developer-undefined-undefined-171003-jobs--cms-scientific-research-analysis--">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -57,6 +106,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fee7a12b-3ca3-4073-bee9-0b361f5cc013">Speech QA Engineer /QA for Android Speech technologies</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486285341/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/18b7e405-fc4d-499f-ba5b-62deafedd7cc">Autonomy Engineer, Technical Documentation</a></td>
+<td>San Diego, California</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/bd301ff3-45b6-4add-91bb-3ad27dd4ee1b">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -134,13 +190,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/58cf9d2b-200c-4185-a186-ff7c4d812739">Physical Design Engineer - Static Timing Analysis, Annapurna Labs, Cloud Scale Machine Learning</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487765150/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/89abeb1d-4254-43a4-9444-76c828c78e00">Next-Gen, High-Speed HBM, LPDDR Memory Subsystem ASIC Digital Design Engineer (</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469004575/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -299,13 +348,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b5eb08a-e4fd-4775-b00a-8bd710638451">Emulation Verification Engineer</a></td>
-<td>San Diego, California, United States<br/>Sunnyvale, California, United States<br/>Beaverton, OR<br/>+1 more</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692310">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/79f85341-9688-42fc-8798-bf748d1ee15c">Wireless PHY Design Verification Engineer</a></td>
 <td>San Diego, California, United States<br/>Sunnyvale, California, United States</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692282">Apply</a></td>
@@ -323,6 +365,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d27940f2-d719-489d-bfc3-656bb2390aef">Wi-Fi /BT/Thread Stability QA Engineer, Wireless Technologies &amp; Ecosystems</a></td>
 <td>San Diego, California, United States</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692763">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cadre AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/434ff37d-0eb1-4b89-8dc8-3da580488f2e">Forward Deployed AI Engineer | San Diego, CA</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486081501/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -358,6 +407,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2d450b63-4abb-406c-a34c-6b4e3198db4f">Head AI Engineer (Full Stack)</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484699153/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b88a7f4-c384-47ba-b488-85b3a0808532">Embedded SDE, Payload Radio Gateway</a></td>
+<td>San Diego, CA<br/>Sunnyvale, CA<br/>Redmond, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486871210/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/28ab11b8-2fa1-49d7-b809-013d71acafbf">Embedded Software Engineer, Leo Payload Radio</a></td>
+<td>San Diego, CA<br/>Sunnyvale, CA<br/>Redmond, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486875066/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -428,13 +491,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/33f8044a-5984-44c8-98a6-222cb1d4e94b">Digital Layout Design Engineer</a></td>
 <td>San Diego, California, United States<br/>Austin, TX<br/>Santa Clara, California, United States<br/>+2 more</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692979">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BAE Systems, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9c75aed-a336-47b7-8924-605e26726b62">Multi-Domain DevSecOps Engineer (Hybrid)</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484614690/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -611,20 +667,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478005011/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa8a2ded-bc47-4896-b5a0-b69caac3d866">Software Dev Engineer, EC2 VPC, EC2 VPC</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477499145/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Fehr &amp; Peers</strong></td>
-<td><a href="https://trueinterview.io/jobs/395c6e5c-74cf-475b-a121-c17d12d653ed">Entry-level Transportation Engineer/Planner</a></td>
-<td>San Diego, California<br/>Washington, DC<br/>San Francisco, California<br/>+13 more</td>
-<td align="center"><a href="https://jobs.lever.co/fehrandpeers/1b7f95a5-a277-4537-9db3-0dddbdd3c7b7">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**33 open roles.** 28 in the United States & Canada · 5 elsewhere in the world.
+**37 open roles.** 31 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Susquehanna International Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe144d49-8b9b-42d2-a6f4-6fcb460aac76">Quantitative Sports Researcher – Graduate Hire</a></td>
+<td>Bala-Cynwyd, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4406719390/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The New School</strong></td>
+<td><a href="https://trueinterview.io/jobs/c88f69f1-f91d-4677-bee2-c6302cfcc204">Research Assistant – Quantitative Analysis &amp; Data Research</a></td>
+<td>United States</td>
+<td align="center"><a href="https://newschool.wd1.myworkdayjobs.com/en-US/External/job/L---2-West-13th-Street/Research-Assistant---Quantitative-Analysis---Data-Research_JR110111">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Two Sigma</strong></td>
 <td><a href="https://trueinterview.io/jobs/7525b1bc-9756-4a8e-ae65-60ae0d6a2bb5">Quantitative Researcher - Full-Time Campus Hire</a></td>
@@ -158,6 +172,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>ICE</strong></td>
+<td><a href="https://trueinterview.io/jobs/da53d9b1-89ea-4f80-aad1-6e4de136de43">Quantitative Analyst, Quantitative Research</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4434003331/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Citadel</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ec1dff3-40ec-4fb9-896d-deddb4f072d8">Quantitative Research Analyst – University Graduate (US)</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474470251/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Millennium Management</strong></td>
 <td><a href="https://trueinterview.io/jobs/7f28a5bb-3d6d-4190-a5ea-0a4398f3cc83">Quantitative Researcher – Market Impact Modeling</a></td>
 <td>New York, NY</td>
@@ -206,13 +234,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4409010891/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>IMC</strong></td>
-<td><a href="https://trueinterview.io/jobs/e78487dd-7be0-4039-b4c4-5cd295dde88a">Quantitative Researcher</a></td>
-<td>Chicago, IL<br/>New York, NY<br/>Mumbai, India</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4987748101">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -225,6 +246,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Optiver</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c19b81c-1f61-4907-b246-f0fa15c23f5e">Expressions of Interest - Graduate Quantitative Researcher 2027</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4423657584/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/07191de7-cbdc-45eb-9706-09c7a63621ee">Quantitative Trading &amp; Research - EM Rates Quantitative Trading</a></td>
+<td>Sao Paulo, SP, Brazil</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807569">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Jump Trading</strong></td>
 <td><a href="https://trueinterview.io/jobs/c5c63fb5-4e8d-4b12-81db-383dd4cb0329">Derivatives Quantitative Researcher | Trading Team</a></td>
@@ -252,13 +287,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738947">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Summit Global Investments</strong></td>
-<td><a href="https://trueinterview.io/jobs/93c62381-517a-43bf-bca4-84ea951e903c">Investment Analyst – Quantitative Research &amp; AI</a></td>
-<td>Salt Lake City Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485105106/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

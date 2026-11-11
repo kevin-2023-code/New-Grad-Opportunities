@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**134 open roles.**
+**132 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,76 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Textron</strong></td>
+<td><a href="https://trueinterview.io/jobs/413091f9-c9a9-4a32-8753-a96f519d926b">Software Engineer I</a></td>
+<td>Wilmington, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487860281/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>RTX</strong></td>
+<td><a href="https://trueinterview.io/jobs/8854ac7a-40ff-4e6c-a251-423e41d13749">Research Software Engineer I - Onsite</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473202931/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Textron</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6ffa956-f463-4ca5-85b2-de55375ed3f0">2027 Software Engineer I (Weapons) - Wilmington, MA</a></td>
+<td>Wilmington, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487804405/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Wolf &amp; Company, P.C.</strong></td>
+<td><a href="https://trueinterview.io/jobs/b03d9c58-1a4c-4384-8509-206076ab598b">Penetration Tester</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://career-portal-wolfandco.icims.com/jobs/1605/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MIT Lincoln Laboratory</strong></td>
+<td><a href="https://trueinterview.io/jobs/16a4224a-5bfb-49f6-aa24-e6e22f891537">Software Engineer</a></td>
+<td>Lexington, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483744423/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>National Grid</strong></td>
+<td><a href="https://trueinterview.io/jobs/9720fed0-7a3c-4521-90d1-eca24e8bcd89">Graduate Development Program, Associate Product Owner, US Electric IT</a></td>
+<td>Waltham, MA<br/>Northborough, MA</td>
+<td align="center"><a href="https://jobs.nationalgrid.com/usa/jobs/12708/graduate-development-program-associate-product-owner-us-electric-it">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e9ebbf37-3134-4d4a-b951-d809b0c11ea4">Graduate Development Program, Associate Data Analyst, Electric Projects Estimating</a></td>
+<td>Waltham, MA<br/>Northborough, MA</td>
+<td align="center"><a href="https://jobs.nationalgrid.com/usa/jobs/12271/graduate-development-program-associate-data-analyst-electric-projects-estimating">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ARNOLD &amp; PORTER LLP</strong></td>
+<td><a href="https://trueinterview.io/jobs/d64e6d4f-fc62-4ca3-8799-ed851f37f82f">IT Analyst</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.arnoldporter.com/en/careers/professional-staff/current-opportunities/it/bn-it-analyst">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cognizant</strong></td>
+<td><a href="https://trueinterview.io/jobs/f496ebad-13a0-42ae-a4de-c1bb78778c64">Desktop Support Engineer</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://careers.cognizant.com/global-en/jobs/00071287401/desktop-support-engineer/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HGA</strong></td>
+<td><a href="https://trueinterview.io/jobs/941dea82-c560-448b-85a5-138f71068ac1">IT Support Technician</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://careers-hga.icims.com/jobs/3555/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>MilliporeSigma</strong></td>
 <td><a href="https://trueinterview.io/jobs/77da4725-8d84-4e02-bf87-8ce1115b1875">Software and Automation Engineer</a></td>
@@ -36,13 +106,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/99c22156-9cc2-4715-96b8-0229ec5b9ccd">Research Scientist I or II, Oligonucleotide Chemistry</a></td>
 <td>Cambridge, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4451294953/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tata Consultancy Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/9682db01-dfb4-49e5-8a58-f1279d908055">AI/ML Engineer</a></td>
-<td>Marlborough, MA<br/>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4453270200/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>
@@ -216,7 +279,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>CrossCountry Consulting</strong></td>
 <td><a href="https://trueinterview.io/jobs/5858a60b-f30b-402d-ae7c-5ff4b278fcea">Business Intelligence Analyst</a></td>
-<td>Boston, MA<br/>McLean, VA</td>
+<td>Boston, MA<br/>New York, NY<br/>McLean, VA</td>
 <td align="center"><a href="https://jobs.lever.co/crosscountry-consulting/b043ecd7-c72b-43b3-997e-bd787e7f7930">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
@@ -274,13 +337,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b5bbf362-2beb-4394-a53b-3d4c0f8fa241">Data Analyst</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486779974/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Aquila Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/72ab6451-d770-4a79-980b-7b9f77fd7ef1">Software Engineer</a></td>
-<td>Lexington, MA<br/>Remote</td>
-<td align="center"><a href="https://jobs.crelate.com/portal/aquilatechnology/job/wje7m9mrrdy7zocqegf6n146wh?r=28">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -403,6 +459,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Aptitude Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9483efa-641f-4146-91c5-ed633efbeffb">IT Engineer – Boston (Part-time)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://aptitudesoftware1.recruitee.com/o/it-engineer-boston-part-time">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Dräger</strong></td>
 <td><a href="https://trueinterview.io/jobs/ab316e7d-6f7d-40aa-aeef-90537739e095">Test Engineer</a></td>
 <td>Andover, MA</td>
@@ -494,13 +557,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>AAA Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0616044-86b5-4966-bfbe-4a9ff4d3aa1f">Quantitative Developer</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487268098/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Eka Robotics</strong></td>
 <td><a href="https://trueinterview.io/jobs/13dd760c-a4a0-4fa0-9fb7-10b9b0782dcc">Machine Learning / Reinforcement Learning Engineer</a></td>
 <td>Cambridge, MA</td>
@@ -519,13 +575,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6d43b532-cc01-43b3-8012-1fc37169721f">Research Engineer, Scientific Data &amp; Workflow Infrastructure</a></td>
 <td>Cambridge, MA<br/>San Francisco, CA USA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4286513009">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Aptitude Software</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9483efa-641f-4146-91c5-ed633efbeffb">IT Engineer - Boston (Part-time)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://aptitudesoftware1.recruitee.com/o/it-engineer-boston-part-time">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -564,13 +613,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/1ddda3c8-ce28-47a8-bbc3-b4f945db24a4">Software Engineer, Imaging</a></td>
-<td>Waltham, Massachusetts, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5283579007?gh_jid=5283579007">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Sharkninja</strong></td>
 <td><a href="https://trueinterview.io/jobs/1feeed04-165d-43dc-a934-6ce7ddd1697d">Test Engineer</a></td>
 <td>Needham, MA, United States</td>
@@ -606,13 +648,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Paperless Parts</strong></td>
-<td><a href="https://trueinterview.io/jobs/32f8d82d-5e8c-45b7-b03f-acefc3bf35fc">Platform Engineer</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/paperlessparts/jobs/4748131005">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Pomeroy</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b4c4fb6-827e-42bc-b709-1051ba86aed7">Data Engineer</a></td>
 <td>Quincy, MA</td>
@@ -631,6 +666,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4dcebd9b-70a8-4655-96d8-c199c23d0a43">Machine Learning Scientist I/II, Scientific Reasoning</a></td>
 <td>Cambridge, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4414668233/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/90730a72-cd4d-470a-ba51-98259e33b8cf">Software Engineer, AWS Parallel Computing Service</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10601816/software-engineer-aws-parallel-computing-service?cmpid=DA_INAD200785B">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -788,6 +830,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>National Grid</strong></td>
+<td><a href="https://trueinterview.io/jobs/88e2e704-f5c8-4eb8-82cd-cc5ab6506a1d">Graduate Development Program, Associate Engineer, Distribution Planning &amp; Asset Management</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://jobs.nationalgrid.com/usa/jobs/12365/graduate-development-program-associate-engineer-distribution-planning-asset-management">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3e742fca-80c6-4278-b80c-f3de43c5c7c7">Graduate Development Program, Associate Engineer, Transmission Planning</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://jobs.nationalgrid.com/usa/jobs/12946/graduate-development-program-associate-engineer-transmission-planning">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3ea68003-9a74-4aae-a5bd-3a22421125ef">Graduate Development Program, Associate Engineer, Transmission Planning Modeling</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://jobs.nationalgrid.com/usa/jobs/12944/graduate-development-program-associate-engineer-transmission-planning-modeling">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Symbotic</strong></td>
 <td><a href="https://trueinterview.io/jobs/10a3482b-8ae4-4bcd-a1dd-929ac7b317c5">New Grad- Manufacturing Engineer</a></td>
 <td>Wilmington, MA</td>
@@ -827,13 +890,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/21545ebe-bbe9-4833-8e6e-788ca0e95a0d">Enterprise Systems Infrastructure Engineer</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468841365/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c8629fe-93ab-47d1-91c0-8270179e5180">2026 Early Career Software Engineer</a></td>
-<td>Boston, Massachusetts, United States<br/>Atlanta, GA<br/>Seattle, Washington, United States<br/>+9 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -884,76 +940,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Cambridge, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484875941/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5622e46-9273-421b-9ce7-f29073dc9474">Applied Scientist, Special Projects</a></td>
-<td>Boston, MA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459169760/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wert Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/6347de78-e78e-4919-a5e2-da2195287b84">Software Developer</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484866503/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tharp Consulting</strong></td>
-<td><a href="https://trueinterview.io/jobs/87726607-2d4e-429c-9bbe-e9db90b822a6">Cybersecurity Training Program Coordinator</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485140284/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Johnson &amp; Johnson Innovative Medicine</strong></td>
-<td><a href="https://trueinterview.io/jobs/91a96ad6-705d-47ad-9a3b-f1344b28b78a">Post Doc - AI/ML and Optimization</a></td>
-<td>Cambridge, MA<br/>Titusville, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485368933/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a3b0e86-65a3-469e-a050-839c142861bb">Software Development Engineer, FSx for Lustre</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468310738/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bracebridge Capital</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e6f0674-46f2-4b05-a55c-e40d26094b04">Machine Learning Analyst</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4440212635/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Care Access</strong></td>
-<td><a href="https://trueinterview.io/jobs/987ee354-bd11-4a54-a19a-7bea9e23c168">Web Design Engineer</a> 🌐</td>
-<td>Remote — United States<br/>Boston, MA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/careaccess/jobs/4474603009">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tulip Interfaces</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ae14fe7-4331-4242-88e0-752c97a193cd">IT Support Engineer</a></td>
-<td>Boston, MA<br/>Somerville, MA</td>
-<td align="center"><a href="https://tulip.co/careers/job-posting/?gh_jid=8036932003">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/bba9aa38-a1d0-4a75-9c8c-7806367c04cf">Graduate – Product Engineer</a></td>
-<td>Leominster, MA</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808972257628?domain=infineon.com">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Acceler8 Talent</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8e11be8-44a1-4cae-8efd-65059613c202">Artificial Intelligence Engineer</a></td>
-<td>Cambridge, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483439265/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

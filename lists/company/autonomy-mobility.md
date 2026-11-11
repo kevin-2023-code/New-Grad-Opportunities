@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**71 open roles.** 62 in the United States & Canada · 9 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**67 open roles.** 61 in the United States & Canada · 6 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/d0a1ee70-b132-4802-a98c-f13cce8d7ea9">Fullstack Software Engineer, Machine Learning Platform, SI Infrastructure</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489674599/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/50c53330-a021-446c-b0c9-de736d4acfaf">Software Engineer, Reinforcement Learning, SI Infrastructure</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489673597/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Wayve</strong></td>
+<td><a href="https://trueinterview.io/jobs/30578f1e-cdfc-45e0-a5c6-02d30d8e7990">Machine Learning Engineer, Application Software</a></td>
+<td>Sunnyvale, CA<br/>Detroit, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488830393/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9fb718eb-c5b0-4df0-a2e3-de7c2a73698c">Data Scientist, Robotaxi Performance &amp; Capability</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488832349/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/2d8d7a9f-f169-44c6-975f-7d622327b4bc">Mechanical Design Engineer, Optimus Battery, Battery Engineering</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.tesla.com/careers/search/job/289491">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba3c5324-505c-46ea-a601-2b9d8544fddb">Design and Release Engineer - Body Interior (Door Trim)</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73029">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f6a33bd5-48c9-40e2-840b-ffae77be61ac">Engineering Specialist, WIP Scheduler, Ford Energy</a></td>
+<td>Glendale, KY, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74075">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/32b0ff63-869e-4e2d-8fc2-efe15d9b556b">Manufacturing Engineer- Industrial Engineering</a></td>
+<td>Dearborn, MI, United States</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73586">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Magna International</strong></td>
 <td><a href="https://trueinterview.io/jobs/9ebb1c0e-400a-4277-800d-5c20d5f9c9c9">IOT Developer - 4.0 Engineer</a></td>
 <td>Birmingham, AL</td>
@@ -30,13 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470749252/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Reliable Robotics Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/d37824e8-e158-4e0b-8c96-e2007532bd64">Electrical Test Engineer</a></td>
-<td>Mountain View, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/reliable-robotics/2395e156-c2dd-449c-8dc6-354a8745eb22">Apply</a></td>
-<td align="center">7 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Tesla</strong></td>
@@ -67,13 +116,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Wayve</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5bb6c84-9671-4695-abd8-8786e8ae2ab3">Machine Learning Scientist/Engineer</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486204553/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Ford Motor Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/01b570b1-cf54-42ef-81d2-e21a708c9f56">Product Development Engineer - RWD Transmission Systems Quality Engineer</a></td>
 <td>Livonia, MI</td>
@@ -82,6 +124,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcb8c775-5681-4c17-8ef6-53003df94136">Manufacturing Equipment Engineer, Battery Module, Semi</a></td>
+<td>Sparks, NV</td>
+<td align="center"><a href="https://www.tesla.com/careers/search/job/289258">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/13ef95c5-2fae-4111-9530-5c8d006307e4">Manufacturing Equipment Engineer, Battery Pack, Semi</a></td>
+<td>Sparks, NV</td>
+<td align="center"><a href="https://www.tesla.com/careers/search/job/289257">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4639ca33-8277-4128-a0d0-3ea94bfdb6df">Process Engineer, Battery Module, Semi</a></td>
 <td>Sparks, NV</td>
 <td align="center"><a href="https://www.tesla.com/careers/search/job/289260">Apply</a></td>
@@ -152,13 +208,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d686502-5b8d-4adc-8f43-20de8d25c12d">Data Engineer</a></td>
-<td>Fremont, CA</td>
-<td align="center"><a href="https://www.tesla.com/careers/search/job/288907">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ed559159-7df7-473b-8902-dad19a934f88">Mechanical Design Engineer, Studio Prototyping</a></td>
 <td>Hawthorne, CA</td>
 <td align="center"><a href="https://www.tesla.com/careers/search/job/288878">Apply</a></td>
@@ -197,13 +246,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d93fb94e-7058-448c-841e-efc6401ec943">Design and Release Engineer-Suspensions</a></td>
 <td>Dearborn, MI, United States</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72825">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/754920d0-2376-47e9-9ce0-ebbe8cf0a125">Embedded Software Engineer-Audio</a></td>
-<td>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72872">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -249,6 +291,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f893329-542a-4ebf-9dcc-1f478c63100c">Process Engineer, Model Y, Assembly</a></td>
+<td>Fremont, CA</td>
+<td align="center"><a href="https://www.tesla.com/careers/search/job/288854">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/80166b5b-5071-444a-95aa-cfb9423c6bfc">Autonomy Engineer - Deep Learning</a></td>
 <td>Zurich, Switzerland<br/>San Mateo, California, United States</td>
@@ -256,14 +305,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/d25fecb3-e296-47f0-93ea-32763004a834">Software &amp; Embedded Engineering (Talent Pipeline) - Early Career Program, Advanced EV</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478596788/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Skydio</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/32f5d420-b858-4ee7-9150-0cc95d961a65">Autonomy Engineer - Deep Learning Infrastructure</a></td>
 <td>Zurich, Switzerland<br/>San Mateo, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/dcb04687-9b4f-425d-8c37-1111cf3ccf3d">Apply</a></td>
@@ -281,13 +323,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/85b05abc-51c9-43f4-a246-14c780d49974">RTOS Embedded Software Engineer</a></td>
 <td>Dearborn, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4442165857/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c743ca5d-c50c-4185-b1af-ab4f2c46b6ba">Full Stack Software Engineer - AI Applications</a></td>
-<td>Palo Alto, CA<br/>Dearborn, MI, United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67240">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -362,13 +397,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3997af5c-bf83-4ff6-a9b3-69d8df5341f0">Embedded Software Design Review Engineer</a></td>
-<td>Dearborn, MI</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73158">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1348ab63-3156-426e-bb23-340a4a6f885f">Launch Manufacturing Engineer</a></td>
 <td>Dearborn, MI, United States<br/>Wayne, MI, United States</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73450">Apply</a></td>
@@ -382,14 +410,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Wayve</strong></td>
-<td><a href="https://trueinterview.io/jobs/ebd651ee-1dca-4484-8c91-9d7968f9d89f">Machine Learning Software Engineer</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474079954/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2a80edc9-54c0-40a4-a04d-2f6a78c25493">ITSM - Product Designer</a></td>
 <td>Dearborn, MI</td>
 <td align="center"><a href="https://www.careers.ford.com/en/job/dearborn/itsm-product-designer/48560/102653138336">Apply</a></td>
@@ -423,34 +444,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.tesla.com/careers/search/job/288573">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b83faf35-062f-4a59-a280-142d707bd019">Field Reliability Engineer, Low Voltage</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485650368/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c46e7429-e405-456e-ae22-e07830ee4fb1">Field Reliability Engineer, Low Voltage Distribution</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.tesla.com/careers/search/job/288426">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/c22696d1-d683-4f52-b382-ba97a33f7492">ADAS Design &amp; Release Engineer</a></td>
-<td>Dearborn, MI</td>
-<td align="center"><a href="https://www.careers.ford.com/en/job/dearborn/adas-design-and-release-engineer/48560/102610182352">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nuro</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e0be6eb-4a72-470b-b1be-32c98e902c07">Machine Learning Research Scientist, Behavior Planning and Prediction</a></td>
-<td>Mountain View, California (HQ)</td>
-<td align="center"><a href="https://nuro.ai/careersitem?gh_jid=5434059">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -464,6 +457,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/89aad745-3625-4176-8c81-dd35bbe25edb">Associate Software Engineer (m/f/d) - Gigafactory Berlin-Brandenburg</a></td>
+<td>Grünheide, Brandenburg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489667728/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>42dot</strong></td>
 <td><a href="https://trueinterview.io/jobs/1445764f-6fff-4920-9fc0-660d03016e28">[집중채용] Edge AI SW Engineer (Autonomous Driving)</a></td>
 <td>Pangyo (Software Dream Center), South Korea</td>
@@ -472,13 +472,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0eab505-8ba8-45d1-b967-302d22e3ce86">Partner IAM - Security Platform Engineer</a></td>
-<td>India</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72832">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d5dfa9b3-63b0-4ac6-a907-49dd1f298c0e">Hyper Automation &amp; AI Software Engineer – Business Integration</a></td>
 <td>Naucalpan de Juarez, MEX, Mexico</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/67543">Apply</a></td>
@@ -503,27 +496,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e4186345-1c6c-40f9-8bcd-7d9ea8b48a40">Firmware Engineer</a></td>
 <td>Bengaluru, Karnataka, India<br/>Bangalore</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/applied/4cee3e2f-3fec-42fd-a700-d570798d815a">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/e33c5b44-43e3-4a49-a5e9-e0c573078d98">Modeling Engineer, Optimus Fleet Data Analytics</a></td>
-<td>East Attica, Attiki, Greece</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485638843/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/df7e9dd8-a8b1-4cef-a5ba-cc0c9922b366">UX Engineer, Powertrain</a></td>
-<td>East Attica, Attiki, Greece</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485640851/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/636a5ac4-795e-4d47-b485-00740b0a0764">Machining Controls Engineer</a></td>
-<td>Chihuahua, CHIH, Mexico</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72776">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

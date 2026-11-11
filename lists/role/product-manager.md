@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**142 open roles.** 88 in the United States & Canada · 54 elsewhere in the world.
+**141 open roles.** 87 in the United States & Canada · 54 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6b8eee4-086a-4762-8887-b1bae72beb3f">2027 Early Career Technical Program Manager</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478632927/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2a4f990-babb-4f74-8530-ae89d34af40f">Campus Switching Product Manager Graduate</a></td>
+<td>San Jose, CA<br/>Roseville, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488448901/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>National Grid</strong></td>
+<td><a href="https://trueinterview.io/jobs/9720fed0-7a3c-4521-90d1-eca24e8bcd89">Graduate Development Program, Associate Product Owner, US Electric IT</a></td>
+<td>Northborough, MA<br/>Waltham, MA</td>
+<td align="center"><a href="https://jobs.nationalgrid.com/usa/jobs/12708/graduate-development-program-associate-product-owner-us-electric-it">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>A-dec</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e852860-dc3f-4f14-975b-8f8f6bab1993">Product Owner</a></td>
+<td>Newberg, OR</td>
+<td align="center"><a href="https://adec.wd5.myworkdayjobs.com/A-dec/job/Oregon---Newberg-Campus/Product-Owner_JR102815-1">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Base-2 Solutions, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1f7cb2e-ab41-4799-980c-74b5ae6e1925">Production Product Owner/Scrum Master</a></td>
+<td>Bethesda, MD</td>
+<td align="center"><a href="https://phh.tbe.taleo.net/phh01/ats/careers/v2/viewRequisition?org=BASESOLU&amp;cws=37&amp;rid=5532">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Maurices</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbae1843-2a08-4354-9daa-b15930db92e5">Assistant, Product Management &amp; Sourcing</a></td>
+<td>Duluth, MN</td>
+<td align="center"><a href="https://careers.maurices.com/us/en/job/MODMAUUSR169577EXTERNALENUS/Assistant-Product-Management-Sourcing">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Quest Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b1def39-6f94-41b8-886a-d086f0ee644a">Controls Steam Turbine Product Owner</a></td>
+<td>Longmont, CO</td>
+<td align="center"><a href="https://careers.quest-global.com/global/en/job/QGRQGAGLOBALP124506EXTERNALENGLOBAL/Controls-Steam-Turbine-Product-Owner">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Guidehouse</strong></td>
 <td><a href="https://trueinterview.io/jobs/913c97f2-92a3-4461-8178-9947b016bbeb">Business Analyst/Product Owner</a></td>
@@ -242,6 +291,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Q1 Technologies, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/0acb34d9-a135-4939-ad4c-530c99e4ab73">AI Product Owner</a></td>
+<td>Philadelphia, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485014292/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Yotta Systems Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/bd4fe948-96c2-4a06-a584-2189b278aca6">Product Owner</a></td>
 <td>Charlotte, NC</td>
@@ -284,17 +340,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>HireTalent</strong></td>
-<td><a href="https://trueinterview.io/jobs/973bf371-ea8e-4972-a320-83b1bfab2ce3">Product Owner - Insurance</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486893298/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Synechron</strong></td>
 <td><a href="https://trueinterview.io/jobs/205a530b-650e-457f-85a6-1e28d658b853">Technical Product Owner with Municipal bond experience.</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477910560/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Net Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c7f48ae-1aa9-440e-959f-48309920060f">Salesforce Experience Cloud Product Owner (Product Owner III) - REMOTE</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://recruiting.ultipro.com/NET1005/JobBoard/b22acd37-08dd-cbc0-295a-dc154ea3fb93/OpportunityDetail?opportunityId=808ea1fc-2579-4d57-b7f6-3d949d1ab1c8&amp;postingId=a1df66ba-0f8a-487b-9597-21cf7e4808ce">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -570,69 +626,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485129756/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>LPL Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/5ab8198e-237c-4242-acf7-42dae354c0f8">AVP, Product Owner Consumption Management</a></td>
-<td>Austin, TX<br/>Fort Mill, SC</td>
-<td align="center"><a href="https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/AVP--Product-Owner-Consumption-Management_R-054580-1">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>American Express</strong></td>
-<td><a href="https://trueinterview.io/jobs/f98450b1-e14e-46b1-9b73-aa1ca157be5c">Product Owner, Workforce Management (Verint)</a></td>
-<td>Sunrise, FL<br/>Phoenix, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485117783/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MACHINE LEARNING TECHNOLOGIES LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/f94bee38-92d7-4157-ab24-0b636be2ff81">AI Product Owner</a></td>
-<td>Philadelphia, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485138476/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ascendis Pharma</strong></td>
-<td><a href="https://trueinterview.io/jobs/3b3ffa3c-920c-4280-b91f-767c040c0741">Commercial Data Product Owner - Job ID: 2080</a></td>
-<td>Princeton, NJ</td>
-<td align="center"><a href="https://apply.workable.com/j/76740CC0A4">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Clark Associates</strong></td>
-<td><a href="https://trueinterview.io/jobs/6419bdc3-bcb9-4ed2-ac26-01e11d181cd5">Product Owner (Tax Systems)</a></td>
-<td>Lancaster, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484852701/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Patriot Talent Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/80c91d20-999e-461c-8274-ca03cf91e3e0">Product Owner</a></td>
-<td>Knoxville, TN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484874296/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>RELQ TECHNOLOGIES</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a8a00f2-1184-4db9-9508-7e9a5764c676">Agile Product Owner - HR Systems-USA</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485362048/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Casey's</strong></td>
-<td><a href="https://trueinterview.io/jobs/9447ac97-b62f-4526-a5e9-1af445cba122">Product Owner</a></td>
-<td>Ankeny, IA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473179805/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Delta Vacations</strong></td>
-<td><a href="https://trueinterview.io/jobs/794dadb7-d7b7-4a1b-b204-e69798ec05b7">Delta Vacations - Product Owner, Digital Product</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475997177/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -645,6 +638,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ALTEN</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5d8d03e-5149-4369-be84-292df459af48">Technical Product Owner Cyber Security (all gender)</a></td>
+<td>Nürnberg, Bavaria, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000161032909-technical-product-owner-cyber-security-all-gender-">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/30c9b88b-08e2-4ee2-8a7c-290a7999ca68">Working Student (f/m/d) – Product Management: AI and Innovation</a></td>
+<td>Walldorf, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160854378-working-student-f-m-d-product-management-ai-and-innovation-">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ALTEN</strong></td>
+<td><a href="https://trueinterview.io/jobs/12a24579-2cac-414e-98d1-e31bf6d3fa9b">Product Owner (H/F)</a></td>
+<td>Toulouse, Occitanie, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ALTEN/744000160548206-product-owner-h-f-">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Revolut</strong></td>
 <td><a href="https://trueinterview.io/jobs/9a9df609-250d-4c45-9120-3369a7504a4d">Graduate Programme 2027: Product Owner (UX)</a></td>
@@ -776,13 +790,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2bcde653-18d9-4973-8953-690a7634c5c4">Product Owner Data (Technico-Fonctionnel) H/F</a></td>
 <td>Nantes, France</td>
 <td align="center"><a href="https://join.com/companies/squaar/16913112-product-owner-data-technico-fonctionnel-h-f?pid=a13795120131dbe48464">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NEXTON</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b71028b-83b3-4a65-b201-c8426d8a7227">Product Owner banque H/F</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000159622500-product-owner-banque-h-f">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -1008,20 +1015,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Massy, France</td>
 <td align="center"><a href="https://www.safran-group.com/jobs/france/massy/stage-product-owner-navcharts-analyse-vol-fh-fh-191009">Apply</a></td>
 <td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rush Street Interactive</strong></td>
-<td><a href="https://trueinterview.io/jobs/0748be9a-c529-4b2e-915a-0874325b925c">Product Owner, Sportsbook</a></td>
-<td>Medellín</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rushstreetinteractive/jobs/6233015004">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Eswelt</strong></td>
-<td><a href="https://trueinterview.io/jobs/5269a647-8938-46b6-a1ee-3a5ff1d94f90">Product Owner CRM - Microsoft Dynamics CE</a></td>
-<td>Hilversum, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484828846/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

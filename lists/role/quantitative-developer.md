@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**64 open roles.** 50 in the United States & Canada · 14 elsewhere in the world.
+**64 open roles.** 52 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Acquire Me</strong></td>
+<td><a href="https://trueinterview.io/jobs/c88c6a99-aec7-44ab-b3d7-da3dde1c4590">Production Engineer - Quantitative Trading</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487150311/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AAA Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7a648b0-77ee-4754-8324-b27b56b989f2">Quantitative Developer -Cross Assets</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488825768/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Neuberger Berman</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae471175-2cec-4f81-ae44-02cff878430e">Quantitative Investment Risk Analyst</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Quantitative-Investment-Risk-Analyst_R0012815">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Popular, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f32955f-24b0-4c3f-98bd-420b2d811c70">Quantitative Analyst</a></td>
+<td>San Juan, PR</td>
+<td align="center"><a href="https://jobs.popular.com/job/San-Juan-Quantitative-Analyst/1449170800/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/01c4514e-f945-4d11-bd85-59b5077705d5">Quant Analytics [Multiple Positions Available]</a></td>
+<td>Plano, TX, United States</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804372">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Texas A&amp;M University</strong></td>
 <td><a href="https://trueinterview.io/jobs/f44637ed-685e-4cdf-a722-a90dd617314a">Tenure Track/Tenured: Open Rank (Quantitative &amp; Computational Methods)</a></td>
 <td>College Station, TX</td>
@@ -29,13 +64,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a1d63f58-9dc6-4011-bf2d-a65af269957a">Quantitative Software Engineer: Quantitative Components</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4199651890/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Wolverine Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/6942110e-f05b-4440-8dd6-dfd92f1629b6">Quantitative Trading Analyst</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4443866749/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -193,17 +221,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>AAA Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0616044-86b5-4966-bfbe-4a9ff4d3aa1f">Quantitative Developer</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487268098/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Jobot</strong></td>
 <td><a href="https://trueinterview.io/jobs/5fcead09-946b-4d67-a77b-0c9e911c2ba5">Quantitative Engineer (Private Markets)</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485055951/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Strive Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/397d70e3-23cd-4582-b858-8e040196d150">Blockchain Risk Quantitative Analyst</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485054107/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -221,10 +249,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Hunter Bond</strong></td>
-<td><a href="https://trueinterview.io/jobs/9da93d49-9ff0-4236-901f-89c68ca2b169">Quant Developer/Strategist - Elite FinTech Trading Firm - Up to $300k USD + Bonus</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485028023/">Apply</a></td>
+<td><strong>MSCI Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/94f9a588-e7e0-427b-8eb8-67431ceb63e9">Quantitative Developer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476401874/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -319,13 +347,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Alignerr</strong></td>
-<td><a href="https://trueinterview.io/jobs/420fc00e-a8df-437b-9540-e5c53930830c">Quantitative Finance Forecasting Analyst</a></td>
-<td>Atlanta, GA<br/>Seattle, WA<br/>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486119212/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>ENGIE North America Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7deddc4-8b63-44c8-b5f5-67ffab687a46">Quantitative Analyst II_TRQA1H</a></td>
 <td>Houston, TX</td>
@@ -358,13 +379,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/df180e22-da08-4bf8-8fac-bb467e2a889b">Quantitative Strategist – Balance Sheet Strategy &amp; Financial Resource Analysis, AVP</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4440815996/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Millennium</strong></td>
-<td><a href="https://trueinterview.io/jobs/775b8c01-75c2-499f-965f-a98af4c9e4bd">Quantitative Analyst – Quant Analyst Program</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485119708/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>
@@ -422,13 +436,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Talan</strong></td>
-<td><a href="https://trueinterview.io/jobs/c618937b-5287-4a0d-a830-254a2190a92a">IT Quant &amp; Commando Front Office – BFI &amp; Énergie - H/F</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Talan/744000159095630-it-quant-commando-front-office-bfi-energie-h-f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>CNRS</strong></td>
 <td><a href="https://trueinterview.io/jobs/f351ae23-0016-4be8-a2fd-477723e3d90c">Doctorant (H/F) en biologie du développement et imagerie quantitative</a></td>
 <td>Montpellier, France</td>
@@ -469,13 +476,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hong Kong</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8908075002">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Da Vinci</strong></td>
-<td><a href="https://trueinterview.io/jobs/97f04a9e-abec-4d6d-b298-f92ae689358f">Graduate Quant</a></td>
-<td>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483441584/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

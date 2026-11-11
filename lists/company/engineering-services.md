@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**26 open roles.** 11 in the United States & Canada · 15 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**26 open roles.** 13 in the United States & Canada · 13 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apex Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/36edbd42-5c31-4e66-a542-a548371ccc45">Civil/Environmental Engineer</a></td>
+<td>Marathon, FL<br/>Florida City, FL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5476845008">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c0ab5ea-1fe1-44d9-bd4a-d8f129abb4a2">Quality / Material Engineer</a></td>
+<td>Kuwait City, Al Asimah Governate, Kuwait</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000160536609-quality-material-engineer-">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/b229b47f-41e4-4dc2-ba0a-4d1d1e1c0367">Civil Engineer (Water / Wastewater)</a></td>
@@ -108,6 +122,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3f9ce05-6c2c-4ba7-8568-c4a5b59644c0">Pre Graduate Engineer (UAE National)- Electrical or Mechanical</a></td>
+<td>Dubai, Dubai, United Arab Emirates</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000160796710-pre-graduate-engineer-uae-national-electrical-or-mechanical">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ea88e283-fcb2-450c-918a-b6988f9cd322">Pregraduate Civil Engineer (UAE National)</a></td>
 <td>Dubai, Dubai, United Arab Emirates</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000160184949-pregraduate-civil-engineer-uae-national-">Apply</a></td>
@@ -130,7 +151,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/f9498d35-e877-4acb-90cc-b51bf2d48640">2027 Graduate Programme - Local Government (Civil Engineering)</a></td>
-<td>Exeter, Devon, United Kingdom<br/>Lincolnshire, United Kingdom<br/>Gloucestershire, United Kingdom</td>
+<td>Exeter, Devon, United Kingdom<br/>Lincolnshire, United Kingdom<br/>Gloucestershire, United Kingdom<br/>+1 more</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96249">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
@@ -164,13 +185,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e7443ef5-2bd2-4332-972c-cf8342cd1aa0">Graduate Graphic Designer</a></td>
-<td>Pasig City, National Capital Region (NCR), Philippines<br/>National Capital Region (NCR), Philippines</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96469">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ea0fb56e-040b-40e6-bed3-350734fcce26">River &amp; Flood Risk Civil Engineer</a></td>
 <td>Manchester, Greater Manchester, United Kingdom<br/>Leeds, West Yorkshire, United Kingdom<br/>London, London, United Kingdom<br/>+9 more</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98435">Apply</a></td>
@@ -196,20 +210,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>United Kingdom</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98356">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Jensen Hughes</strong></td>
-<td><a href="https://trueinterview.io/jobs/a9c7152a-4411-453f-8cb9-b4d1b2def5a4">Graduate Fire Engineer 2027 Start - Dublin</a></td>
-<td>Dublin, County Dublin, Ireland<br/>Dublin, Dublin, Ireland</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5419166008">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9a4b8c2a-3250-4159-93eb-600010fa7f70">Graduate Fire Engineer 2027 Start - Galway</a></td>
-<td>Galway, County Galway, Ireland<br/>Galway, Galway, Ireland</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5419184008">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

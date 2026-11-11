@@ -2,7 +2,7 @@
 
 # 🇨🇭 Zürich & Switzerland
 
-**41 open roles.** 4 in the United States & Canada · 37 elsewhere in the world.
+**38 open roles.** 4 in the United States & Canada · 34 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -294,27 +294,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Zug, Zug, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484101664/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>LEGIC</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd900e93-981a-4984-9237-d83246fe8588">Software Engineer - Technical Support (m/f/d) 80% - 100%</a></td>
-<td>Wetzikon, Zurich, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4413592712/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DeepJudge</strong></td>
-<td><a href="https://trueinterview.io/jobs/fe9e2987-c87a-4f81-82bf-839697297b43">Software Engineer - Data Engine</a></td>
-<td>Zurich, Zurich, Switzerland<br/>Zürich, Switzerland<br/>Zurich HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/deepjudge/52c971e9-4399-413e-a5be-a348f9e37948">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Harmattan AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd0878e6-12be-4289-8b39-367b6c08a705">Embedded Software Engineer</a></td>
-<td>Lausanne, Vaud, Switzerland<br/>Paris<br/>Rabat</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/harmattan-ai/e25dfa00-032e-47dc-ae0d-87b14b3f1e85">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

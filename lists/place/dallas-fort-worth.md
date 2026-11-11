@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**199 open roles.**
+**195 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,18 +18,88 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>TAMKO</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff6facb5-c7b3-4334-9b15-eb2bc198c3e9">Cyber Security Engineer I</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4454806244/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
+<td><strong>AST SpaceMobile</strong></td>
+<td><a href="https://trueinterview.io/jobs/1cf44d68-f21e-40b0-9062-d2425eae2846">RF Test Engineer I</a></td>
+<td>Dallas, Texas, United States<br/>Dallas, TX</td>
+<td align="center"><a href="https://ast-science.com/company/careers/?gh_jid=4753267005">Apply</a></td>
+<td align="center">11 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>D.R. Horton</strong></td>
-<td><a href="https://trueinterview.io/jobs/a95da807-f6e1-4118-9545-b2be24687ee2">Application Developer I</a></td>
-<td>Arlington, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472093598/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
+<td><strong>Matricstek Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/00c67ba8-7a04-47b2-8d6d-0f9fdab9a1c1">Entry-Level Machine Learning Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488628051/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>All IT Solutions LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d34fa77-c35c-453f-9e8b-cdea0ca3e631">GCP IAM Engineer</a> 🌐</td>
+<td>Remote — United States<br/>Plano, TX</td>
+<td align="center"><a href="https://careers.allitsolutions.net/jobs/gcp-iam-engineer-2026-a05f096d">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Robotics Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/642a7332-cdf2-4835-808f-f43a25d5b73a">SDET</a></td>
+<td>Dallas, TX<br/>Chicago, IL</td>
+<td align="center"><a href="https://roboticstechno.com/view_job?mode=apply&amp;id=38055&amp;hr_id=3369">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Leonardo DRS</strong></td>
+<td><a href="https://trueinterview.io/jobs/edf544da-70ab-439e-b403-6beb5bb59f71">Software Engineer I Full Stack Developer</a> 🌐</td>
+<td>Remote — United States<br/>Dallas, TX</td>
+<td align="center"><a href="https://careers.leonardodrs.com/job/Dallas-Software-Engineer-I-Full-Stack-Developer-TX-75243/1449121200/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nexacode</strong></td>
+<td><a href="https://trueinterview.io/jobs/ac3dec6f-d7ba-43be-9f27-8ef931e7d66a">Embedded C++ Engineer</a></td>
+<td>Dallas, TX<br/>Detroit, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487971072/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c57c268a-da70-455f-a495-d7a39513c058">Python ML Engineer</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487960232/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cyber Space Technologies LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/0701a526-6bb2-41f5-9654-0dcd48be834b">DevOps Engineer – Azure &amp; GitHub</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487927248/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Generis Tek Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce36fc17-98ad-4a51-9c5d-a3178c75cc51">UX Designer-Hybrid</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487792427/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PGA HQ</strong></td>
+<td><a href="https://trueinterview.io/jobs/d84af367-ead9-4526-a9c5-470df0b96075">Software Engineer</a></td>
+<td>Frisco, TX</td>
+<td align="center"><a href="https://pgahq.wd1.myworkdayjobs.com/en-US/PGAHQ/job/Frisco-TX/Software-Engineer_R1735">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Health Care, PLLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/04c8f1ed-f895-40fc-ad55-cb100423c70d">IT Help Desk Support</a></td>
+<td>Fort Worth, TX</td>
+<td align="center"><a href="https://priviahealth.hrmdirect.com/employment/view.php?req=3859838&amp;jbsrc=1014&amp;location=6350a82d-dc4e-307c-a19e-5e248569793f">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/01c4514e-f945-4d11-bd85-59b5077705d5">Quant Analytics [Multiple Positions Available]</a></td>
+<td>Plano, TX, United States</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804372">Apply</a></td>
+<td align="center">9 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Tata Consultancy Services</strong></td>
@@ -85,6 +155,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ce850d93-5c1b-42b4-be61-21afe1393f3a">Machine Learning Engineer</a></td>
 <td>Plano, TX<br/>Dallas, TX<br/>Austin, TX<br/>+33 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4454813362/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/d90d9ad4-2565-41b0-a4e8-2e9a8d85b91b">Data Scientist Asc - Early Career</a></td>
+<td>Fort Worth, TX</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477837889?domain=lockheedmartin.com">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f5f0862d-a8d4-4f0e-9b27-c2a59cc0489b">Operations AI Engineer - Early Career</a></td>
+<td>Fort Worth, TX</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477837890?domain=lockheedmartin.com">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>
@@ -298,6 +382,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Kimley-Horn</strong></td>
+<td><a href="https://trueinterview.io/jobs/482171aa-cc94-494f-9698-c4ecd681a22b">Mechanical Engineering Analyst</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://careers-kimley-horn.icims.com/jobs/27638/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/6e6d31d0-676e-41a0-9cf2-52e4e245526b">Product Engineer | Audio AC</a></td>
 <td>Dallas, TX</td>
@@ -365,13 +456,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/27c367bc-1522-4909-9d69-7c56cf3ec6c1">Cloud Engineer</a></td>
 <td>Dallas, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4294445909/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Smart IT Frame LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/550bc06e-8c37-4654-b831-4f85d899e9da">Java Full Stack Developer</a></td>
-<td>Irving, TX<br/>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486521189/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -452,24 +536,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Mastech</strong></td>
-<td><a href="https://trueinterview.io/jobs/b49db0c9-7bdb-4df6-b375-22307c96cacb">DevOps Engineer</a></td>
-<td>Irving, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485555814/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Vizient</strong></td>
-<td><a href="https://trueinterview.io/jobs/87004005-39fa-4bad-b338-56d744324844">Associate Software Engineer (Hybrid)</a></td>
-<td>Irving, TX<br/>Irving, Texas, United States</td>
-<td align="center"><a href="https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35731R-1">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Peterson Technology Partners</strong></td>
 <td><a href="https://trueinterview.io/jobs/aa7d9838-2d94-4c22-8efa-78332436faa2">Data Analyst (Rewards &amp; Fuel Loyalty)</a></td>
 <td>Irving, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486541162/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Abacus</strong></td>
+<td><a href="https://trueinterview.io/jobs/3585d9c8-69ee-4d0f-9db5-7b42574247bb">Onsite Support Engineer</a></td>
+<td>Fort Worth, Texas, United States</td>
+<td align="center"><a href="https://abacustechnology.com/about/careers/current-vacancies/?gh_jid=8106259003">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -655,6 +732,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Strive Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/397d70e3-23cd-4582-b858-8e040196d150">Blockchain Risk Quantitative Analyst</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485054107/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Alston Construction</strong></td>
 <td><a href="https://trueinterview.io/jobs/19ad3022-63b9-47bf-b6b0-a4c00ac4f5bf">Business Applications Developer - Mission Critical</a></td>
 <td>Dallas, TX<br/>Remote</td>
@@ -669,13 +753,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Astir IT Solutions, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/7cf805ee-afff-4477-a82d-359e46a02dde">AI Engineer</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485017938/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>JustPark</strong></td>
 <td><a href="https://trueinterview.io/jobs/8ea971bd-1456-40d8-93d2-e3d12b91fb10">GTM Engineer</a> 🌐</td>
 <td>Remote — United States<br/>Dallas, TX</td>
@@ -687,6 +764,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/eff76fbf-f88e-4023-a57a-de7f9557fda0">Site Reliability Engineer</a></td>
 <td>Frisco, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486088678/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ektello</strong></td>
+<td><a href="https://trueinterview.io/jobs/2862b6c0-d18e-4514-9f9b-df2b18fcbab2">UX Researcher</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487054141/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -708,13 +792,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/768a9d1c-7b35-4e9a-84a5-371e1d3aa816">SDC-Java Developer: Full Stack or Back End---Analyst---Raleigh, Dallas, San Antonio</a></td>
 <td>Dallas, TX<br/>Raleigh, NC<br/>San Antonio, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477951127/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Covetus</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b26fb7e-694c-4043-8a15-638a151edd9a">GEN AI Engineer</a></td>
-<td>Irving, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486895825/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -858,6 +935,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8b30753-7ab0-4d60-a23f-9bbc70a96432">Research Scientist Stf - E4</a></td>
+<td>Fort Worth, TX</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477761622?domain=lockheedmartin.com">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/911d1a86-68af-4362-ad1c-bd50303e30a1">MTS - HIG HBM - ARCHITECTURE</a></td>
 <td>Richardson, TX</td>
@@ -981,13 +1065,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8320ab95-f0e5-452e-9f54-cd857af93e3b">Java Backend developer</a></td>
 <td>Irving, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485760784/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Infosys</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb755954-d0f1-4e01-a472-5f0f147da6d1">AWS Python Data Engineer</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478600243/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -1304,111 +1381,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Plano, TX<br/>Bethpage, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485650317/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ampcus Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/61ca0fc4-0a4d-40f7-a986-b0f1b0f413d1">Software Engineer</a></td>
-<td>Plano, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484867041/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TSP Talent</strong></td>
-<td><a href="https://trueinterview.io/jobs/7488ff46-d764-428d-a34a-8c0a8a70d6d0">Entry-Level Application Developer</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485115858/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MACHINE LEARNING TECHNOLOGIES LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c947eef-d155-48af-bb4b-a8d33494dd68">.Net Developer</a></td>
-<td>Plano, TX<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485132551/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pdi Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/abb9f039-80e6-4125-a86a-b3e7e14e0a5c">Solutions Engineer I</a></td>
-<td>Dallas, TX<br/>Alpharetta, GA</td>
-<td align="center"><a href="https://jobs.lever.co/pditechnologies/51de60c4-b7b2-4935-9e1f-d1a9e23db97c">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>FirstNet Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/49d909f0-18bb-4fd3-bdde-f0e4c2fefb3d">Linux Guest Remediation Engineer</a></td>
-<td>Irving, TX</td>
-<td align="center"><a href="https://firstnet-global-llc.careerplug.com/j/036pqc9">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a2cd8985-7c91-4ea2-a0ac-414a8bbee942">Windows Guest Remediation Engineer</a></td>
-<td>Irving, TX</td>
-<td align="center"><a href="https://firstnet-global-llc.careerplug.com/j/036pq01">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Highway</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc561153-d138-4ac3-b372-17b25910039a">Information Security Engineer</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://ats.rippling.com/highway-careers/jobs/a1de0fde-ff08-46c8-a7af-8744e433425e?jobSite=Indeed">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pacifico Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/0685b183-a789-4c95-8a8a-438776c78266">Mechanical Engineer</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://ats.rippling.com/pacifico-energy-llc/jobs/b0966ea5-950a-421f-88dd-3d17fec76b0d?jobSite=Indeed">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>OKAYA INFOCOM</strong></td>
-<td><a href="https://trueinterview.io/jobs/aaf92726-c2fe-42d7-bd86-8653885e3469">MuleSoft Developer || Addison, TX or Charlotte, NC (Hybrid)</a></td>
-<td>Addison, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485350915/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Prabhav Services Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/b5956f02-b34b-49b5-9b8f-6616e2db6dd9">Devops Engineer</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484860197/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tata Consultancy Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5443be1-a38a-4f9a-ac61-d46f23d468f6">Java MS Developer</a></td>
-<td>Irving, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467133219/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NorthMark Strategies</strong></td>
-<td><a href="https://trueinterview.io/jobs/44a86a87-b910-4a5f-8595-88a5a6526e41">HPC Storage Engineer</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467115991/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Caliber Smart</strong></td>
-<td><a href="https://trueinterview.io/jobs/282745d2-d69b-4a75-9939-88913388e603">SDET (Software Development Engineer in Test) Dallas, Texas</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483428873/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Shiro Technologies LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/4d672a9b-714e-4e7e-b4c1-95eeb4ee829b">Mainframe Developer Cloud Migration at TX</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483429800/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/1941450b-c774-41f8-8b87-ec0742bcb1b4">System Engineer</a></td>
-<td>Dallas, TX<br/>Shanghai, China</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25011536">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

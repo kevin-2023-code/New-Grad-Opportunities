@@ -136,6 +136,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/af908b95-971d-4f4d-ab0f-777703c2a892">UI-UX Designer - Gaming</a></td>
+<td>Stoke-on-Trent, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000159427479-ui-ux-designer-gaming">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a62c9b0a-6fdd-4c52-8f54-4a8a1ba785d3">Creative Designer</a></td>
 <td>Stoke-on-Trent, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000159173285-creative-designer">Apply</a></td>
@@ -147,13 +154,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Stoke-on-Trent, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Bet3651/744000159152221-software-engineer-sre">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Irca Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/f94e65aa-1f34-4384-b702-fc0075fb6006">Werkstudent (m/w/d) für den Bereich Engineering</a></td>
-<td>Hochheim am Main, Germany</td>
-<td align="center"><a href="https://jobs.lever.co/ircagroup/edf17051-150b-43e9-b29f-25d770d8c9ec">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

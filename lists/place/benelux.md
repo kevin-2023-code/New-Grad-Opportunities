@@ -2,7 +2,7 @@
 
 # 🇳🇱 Amsterdam & the Benelux
 
-**47 open roles.**
+**35 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Manychat</strong></td>
+<td><a href="https://trueinterview.io/jobs/65a0b3bc-99bf-4e43-8507-e208d047c885">IT Helpdesk Specialist</a></td>
+<td>Amsterdam, Netherlands</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/manychat/fab45bc0-dfb2-4535-8b00-51c2f7f95759">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/a31d90c4-9880-4a3b-843d-3d58d40c4557">Software Dev Engineer, AWS ProServe GDO - Security, Tooling, and Compliance Engineering</a></td>
+<td>Luxembourg</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10599661/software-dev-engineer-aws-proserve-gdo-security-tooling-and-compliance-engineering">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Optiver</strong></td>
 <td><a href="https://trueinterview.io/jobs/7b15a678-b086-44a0-9dca-b4fd7ee364d4">Software engineer - Real-Time Pricing</a></td>
@@ -133,13 +147,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Eurofins</strong></td>
-<td><a href="https://trueinterview.io/jobs/174e899a-d656-45ad-863a-5bef146e5af5">C# Developer</a></td>
-<td>Amersfoort, Utrecht, Netherlands</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Eurofins/744000159415642-c-developer">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0a23ec0e-e38a-47d2-8a11-fc407df28b5f">IT Support Engineer</a></td>
 <td>Amersfoort, Utrecht, Netherlands</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Eurofins/744000159418310-it-support-engineer">Apply</a></td>
@@ -256,97 +263,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Leuven, Flemish Region, Belgium<br/>The Hague, South Holland, Netherlands<br/>Châtillon, Île-de-France, France<br/>+5 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484889054/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gelber Group LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/133d69ec-ef6a-4394-a5db-f50c6be945fe">Trade Support Operations (IT Support)</a></td>
-<td>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gelbergroup/jobs/4726050006">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Devoteam</strong></td>
-<td><a href="https://trueinterview.io/jobs/8116d0b2-bd64-4853-b0ad-2bfd43a54060">Databricks Data Engineer (m/w/d)</a></td>
-<td>Amsterdam, North Holland, Netherlands<br/>Madrid, Comunidad de Madrid, Spain<br/>Frankfurt am Main, Deutschland<br/>+3 more</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Devoteam/744000158756360-databricks-data-engineer-m-w-d-">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tebi</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8b205cf-6bf8-4504-b8c2-08fc3b544443">AI Engineer</a></td>
-<td>Amsterdam</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/tebi/2f75e6e9-43a0-4bd7-b4a8-7d648f8148ff">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4aafb62-cff8-4ae6-aed0-66f60cb7233d">CAD Engineer Security | Bosch Building Technologies</a></td>
-<td>Nieuwegein, Utrecht, Netherlands</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158741219-cad-engineer-security-bosch-building-technologies">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ExxonMobil</strong></td>
-<td><a href="https://trueinterview.io/jobs/4673278f-1050-47f4-8045-48a1f0857f72">Process Engineer Netherlands - 2027</a></td>
-<td>Rotterdam, South Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485339137/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Da Vinci</strong></td>
-<td><a href="https://trueinterview.io/jobs/78c490f9-571a-4264-90d4-6a552a93d512">Graduate Trader</a></td>
-<td>Amsterdam Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483439529/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/97f04a9e-abec-4d6d-b298-f92ae689358f">Graduate Quant</a></td>
-<td>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483441584/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Picnic Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/19ce4f99-6bbd-4bbc-aa20-c67804545aa5">UX Researcher - Dutch speaking</a></td>
-<td>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4449670199/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>A.P. Moller - Maersk</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ec12261-23dc-40d8-b7f6-06410fc431eb">Structural Engineer</a></td>
-<td>The Hague, South Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485318933/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Quanza</strong></td>
-<td><a href="https://trueinterview.io/jobs/456fa265-1e7e-48bf-998c-6b701e2fa82b">Field Engineer</a></td>
-<td>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483446227/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rise Technical</strong></td>
-<td><a href="https://trueinterview.io/jobs/8dd70268-1c5a-46b2-9095-eea069d07d6b">Hydraulic Engineer</a></td>
-<td>Rotterdam, South Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483434828/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Codefield</strong></td>
-<td><a href="https://trueinterview.io/jobs/991cda19-1cc5-42ee-bf30-4a9876380834">Frontend React Developer</a></td>
-<td>Utrecht, Utrecht, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485329075/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gazelle Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/4210a4f4-d0c1-4c47-b339-bb356da259e9">Cybersecurity Awareness &amp; Culture Specialist - AI Threats</a></td>
-<td>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483430874/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

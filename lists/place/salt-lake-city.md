@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**19 open roles.**
+**26 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Williams International</strong></td>
+<td><a href="https://trueinterview.io/jobs/a17612a6-077f-4289-8b94-b033a8dbbed5">Electrical Engineer</a></td>
+<td>Ogden, UT</td>
+<td align="center"><a href="https://recruiting.ultipro.com/WIL1006WI/JobBoard/b5d9d0d6-a149-4636-95d5-8dfede315cab/OpportunityDetail?opportunityId=3cf12cc7-b339-4a4d-8686-e0f422c8cc58&amp;postingId=68b97467-63ff-4f41-9415-3d310ecb0233">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Insight Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e81d365-a6cd-4e7e-bc39-d567d837ecb6">AI Quality and Safety Engineer</a></td>
+<td>Lehi, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487961286/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AG&amp;E Structural Engenuity</strong></td>
+<td><a href="https://trueinterview.io/jobs/935934a2-e48c-4e93-ac26-3b3ed5bd805a">Structural Project Engineer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="http://www.age-se.com/careers?gnk=job&amp;gni=8a7885aca18473fa01a1c0d094de52b7&amp;gns=Indeed+Free">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Experlogix</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b4b0918-06e1-4348-9502-02d4e4e5ad0e">UX Designer</a> 🌐</td>
+<td>Remote — United States<br/>Salt Lake City, UT</td>
+<td align="center"><a href="https://experlogix.bamboohr.com/careers/399?postedDate=2026-11-09">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ITG Communications, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/78d0c36e-9461-4f11-bcf9-264e4429e7ff">IT Support Technician</a></td>
+<td>Sandy, UT</td>
+<td align="center"><a href="https://www.itgcomm.com/careers/it-support-technician-5796">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PACS</strong></td>
+<td><a href="https://trueinterview.io/jobs/292680be-4cc8-4dea-9d33-87e408572930">Telecom Engineer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://pacs.wd108.myworkdayjobs.com/pacs/job/PACS/Telecom-Engineer_JR184021">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>University of Utah</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d6d4359-7e14-4dd7-8f84-394446f6c43c">Web Software Developer</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://employment.utah.edu/B76C699DAC1042078AF316849A6D06A2/job/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BHE (Berkshire Hathaway Energy)</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b2d429b-ef64-4e77-92a4-6a52abde048b">Control M Engineer 1/2</a></td>
+<td>Salt Lake City, UT, United States<br/>Des Moines, IA, United States<br/>Davenport, IA, United States<br/>+4 more</td>
+<td align="center"><a href="https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10006029">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>L3Harris Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/e50bfead-5009-4a43-8808-4926be63aee4">Specialist, Software Engineering 1 1</a></td>
@@ -142,13 +198,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Provo, UT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475262903/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>University of Utah</strong></td>
-<td><a href="https://trueinterview.io/jobs/d43a48f3-00ed-4af7-ba78-c7d91a651dad">Salesforce Developer/Administrator, Graduate &amp; Executive Education Programs</a></td>
-<td>Salt Lake City, UT</td>
-<td align="center"><a href="https://utah.peopleadmin.com/postings/211538">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

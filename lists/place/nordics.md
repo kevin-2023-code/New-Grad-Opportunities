@@ -2,7 +2,7 @@
 
 # ❄️ Stockholm & the Nordics
 
-**36 open roles.** 1 in the United States & Canada · 35 elsewhere in the world.
+**35 open roles.** 1 in the United States & Canada · 34 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -38,6 +38,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/8af17e71-85cd-4601-a71b-6b577bd4f687">Telecom Data Scientist | Early Career Program</a></td>
+<td>Stockholm, Stockholm County, Sweden</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487690992/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4fcb4f19-b822-496c-98e2-f15c98994dfd">Baseband L1 Developer</a></td>
 <td>Stockholm, Stockholm County, Sweden</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470001440/">Apply</a></td>
@@ -108,13 +115,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>IKEA</strong></td>
-<td><a href="https://trueinterview.io/jobs/9f2058f4-9818-44b3-90df-246db33aeb8c">Software Engineering Specialist | Commercial Intelligence | Retail Concept Operations</a></td>
-<td>Malmö, Sweden</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/InterIKEAGroup/744000159618392-software-engineering-specialist-commercial-intelligence-retail-concept-operations">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b289402c-5aa5-4afe-9ce7-6baab1b0027b">Software Engineer| Data Enablement | Data &amp; Product</a></td>
 <td>Malmö, Sweden</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/InterIKEAGroup/744000159606684-software-engineer-data-enablement-data-product">Apply</a></td>
@@ -273,13 +273,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Helsinki, Uusimaa, Finland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484883387/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tenth Revolution Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/3911bf14-2a85-4647-b521-074d83e3b14f">C++ Software Engineer</a></td>
-<td>Oslo, Norway</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483469153/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

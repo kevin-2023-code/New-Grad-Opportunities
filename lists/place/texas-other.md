@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**119 open roles.** 118 in the United States & Canada · 1 elsewhere in the world.
+**124 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,83 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb73bdf1-6884-47f5-8ec6-2d7ce32e6f15">2027 - Associate Cyber Software Engineer - San Antonio TX</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489903518/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Infinite Computer Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/e393ef65-a4c9-4d65-8071-3035ae7adb6c">Java Full Stack Developer</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489631890/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Silotech Group, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/638d9579-bcab-4cb9-bedc-7cb0e2b707e9">Remote Support Technician</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a6e2250f-fc91-4917-b2eb-d9ca16c30dd2&amp;ccId=19000101_000001&amp;jobId=694625&amp;lang=en_US">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mclaurin Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/b0300862-06cd-48bd-b614-7b90d4655d4a">Safety Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://mclaurin.isolvedhire.com/jobs/1902029-400544.html">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/954a2f1e-6298-4efe-bc86-d49d8393b24b">Spaceflight Battery Hardware Project Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://mclaurin.isolvedhire.com/jobs/1901953-400544.html">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>APPLIED OPTOELECTRONICS INC.</strong></td>
+<td><a href="https://trueinterview.io/jobs/0c05e757-c63b-4369-b0c0-04f6fe93f874">Inspection Shift Engineer (7AM -7PM)</a></td>
+<td>Sugar Land, TX</td>
+<td align="center"><a href="https://ao-inc.hrmdirect.com/employment/view.php?req=3860710&amp;jbsrc=1014&amp;location=bd6257e7-c91f-72e3-07f9-dbde347d475b">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cypress-Fairbanks Independent School District</strong></td>
+<td><a href="https://trueinterview.io/jobs/299f27ac-d3c4-4eb6-96a5-0eaa4551b380">Help Desk Technician, Technology</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.schoolspring.com/jobdetail?jobId=5987457">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Daxwell</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b56d9d1-71d9-4cc0-818d-03bcd45f443e">Data Scientist</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://daxwell.quickbase.com/db/bf48ssjzn?a=dr&amp;rid=53&amp;rl=bae">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Life Cycle Power</strong></td>
+<td><a href="https://trueinterview.io/jobs/6cf2ca0e-5f7b-40ac-a1a9-edb5c1ad0a9f">IT - Help Desk Technician</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://lifecyclepower.applytojob.com/apply/ugc8Esr7a5/IT-Help-Desk-Technician?%7E=">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NexTier Completion Solutions Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/39f0fc14-1d1b-4177-a39f-6e9d88d17802">NexTier Logistics Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://fa-elpm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/6867">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ProEnergy Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/e5d13bf7-c702-4664-85b7-37c37abdf576">Conversions, Modifications &amp; Upgrades (CM&amp;U) Controls Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.proenergyservices.com/meet-the-pros/join-our-team/opportunities/?gnk=job&amp;gni=8a78859fa0f425c801a0f5f656021e59&amp;gns=Indeed+Free">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Tata Consultancy Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/f9351a3c-641d-4afb-8fcb-1ba6cbe31543">AI - FDE Engineer</a></td>
@@ -46,6 +123,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>The University of Texas at San Antonio</strong></td>
+<td><a href="https://trueinterview.io/jobs/93322221-8c1d-4f57-9ead-6e3e5c921023">User Experience and Assessment Coordinator, Libraries and Museums</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://apptrkr.com/9955409">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Texas A&amp;M University</strong></td>
 <td><a href="https://trueinterview.io/jobs/f44637ed-685e-4cdf-a722-a90dd617314a">Tenure Track/Tenured: Open Rank (Quantitative &amp; Computational Methods)</a></td>
 <td>College Station, TX</td>
@@ -64,6 +148,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5ace21c3-585c-43bd-abda-b5bc393390a0">Cloud Data Engineer</a></td>
 <td>Houston, TX<br/>Denver, CO<br/>Atlanta, GA<br/>+27 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488488948/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amentum</strong></td>
+<td><a href="https://trueinterview.io/jobs/bdf33565-0d2e-47de-a865-1ca9bc767069">Safety Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.amentumcareers.com/jobs/safety-engineer-houston-texas-united-states-9cc89676-28f7-424b-abaf-ef1abcc32710">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>City of Lubbock, TX</strong></td>
+<td><a href="https://trueinterview.io/jobs/90286f17-c75b-4952-8c0f-debd0ba213f2">Energy Management System Administrator</a></td>
+<td>Lubbock, TX</td>
+<td align="center"><a href="https://www.governmentjobs.com/careers/lubbock/jobs/5540808/energy-management-system-administrator">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -200,20 +298,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Rice University</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6a8a1ae-036c-4189-bf1a-0f80f3a72d72">MBA Enrollment Data Analyst</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/6363/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Robotics Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/963ef678-d851-4233-b727-5bce586f164b">UI/UX Engineer</a></td>
-<td>San Antonio, TX<br/>Remote</td>
-<td align="center"><a href="https://roboticstechno.com/view_job?mode=apply&amp;id=37606&amp;hr_id=3784">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>US Defense Health Agency</strong></td>
 <td><a href="https://trueinterview.io/jobs/0f0fa5a5-caed-493f-850f-490f99ee1dcf">SUPERVISORY IT SPECIALIST (NETWORK/INFOSEC)</a></td>
 <td>San Antonio, TX</td>
@@ -256,13 +340,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>United Imaging - North America</strong></td>
-<td><a href="https://trueinterview.io/jobs/3dfff93a-33ed-4728-9c7d-bde930012ce3">AI Software Engineer</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488019979/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Erias Ventures</strong></td>
 <td><a href="https://trueinterview.io/jobs/a3bfa638-f3de-468b-b5c2-f5e5048c3dff">Enterprise - DevOps Engineer - AWS, Linux, Kubernetes</a></td>
 <td>San Antonio, TX</td>
@@ -288,13 +365,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4d0d52b1-971f-446f-b16d-a24d3c89b17d">Cloud Operations Engineer</a></td>
 <td>San Antonio, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487789221/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Smart IT Frame LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/550bc06e-8c37-4654-b831-4f85d899e9da">Java Full Stack Developer</a></td>
-<td>Houston, TX<br/>Irving, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486521189/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -372,6 +442,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3fdb6f97-0ef9-40d0-8a76-01585c4148e1">Research Scientist - GI Medical Oncology</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://jobs.mdanderson.org/search/jobdetails/research-scientist---gi-medical-oncology/a4de646d-00e5-404b-a865-b5fd80a5ef15">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SmartestEnergy</strong></td>
+<td><a href="https://trueinterview.io/jobs/d18183b7-b0c2-43f0-ad27-667abe58f5d8">ERCOT Power &amp; Gas Trader</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://smartestenergy.teamtailor.com/jobs/8675962-ercot-power-gas-trader">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -487,13 +564,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Hunter Bond</strong></td>
-<td><a href="https://trueinterview.io/jobs/9da93d49-9ff0-4236-901f-89c68ca2b169">Quant Developer/Strategist - Elite FinTech Trading Firm - Up to $300k USD + Bonus</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485028023/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Prudent Technologies and Consulting, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/203eeb27-163f-4d4a-b13d-fbb26e906b59">Full Stack Java Developer- W2</a></td>
 <td>San Antonio, Texas Metropolitan Area</td>
@@ -543,6 +613,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c86a1020-b481-4e19-9ba4-503644231ae0">GenAI Solution Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476417439/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Halff</strong></td>
 <td><a href="https://trueinterview.io/jobs/f4f81fb1-6eb8-4cf9-af2d-633129f40e4c">Graduate Civil Engineer, Public Infrastructure/Land Development</a></td>
 <td>San Antonio, TX</td>
@@ -554,13 +631,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ca9eb6a6-3779-4f5b-9819-d8b508d3619a">Application Security Engineer - Threat Modeling</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476413524/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Service Wire Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/bc6ce644-78aa-4b96-b0cc-f5c5fd97883a">IT Support Technician</a></td>
-<td>Houston, TX 77044</td>
-<td align="center"><a href="https://jobs.lever.co/servicewire/40b05679-5d61-44dc-919f-a479e45a7482">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -666,13 +736,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ba0987f9-8e61-46b9-b8c3-d92467e976b5">Application Developer</a></td>
 <td>San Antonio, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4414743582/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>GRVTY</strong></td>
-<td><a href="https://trueinterview.io/jobs/41732d57-6048-4a4f-9b3e-2e0f89c985f4">Software Engineer</a></td>
-<td>San Antonio, Texas, United States<br/>Chantilly, VA<br/>Aurora, Colorado, United States<br/>+5 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/grvty/jobs/4402196009">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -821,46 +884,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Houston, TX</td>
 <td align="center"><a href="https://careers.gevernova.com/process-quality-engineer/job/R5057357">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MACHINE LEARNING TECHNOLOGIES LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6898bdb-8a28-409c-b8c1-f1a5c047cfd9">AI Engineer</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485131571/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f7f05152-7dc0-439a-99a6-b01591b17943">Java software Engineer</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485145453/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ONEOK</strong></td>
-<td><a href="https://trueinterview.io/jobs/001d2fdf-1390-4289-af5f-4a95302de721">Natural Gas Trader- Texas Markets</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477185882/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-</tbody>
-</table>
-
-## Elsewhere in the world
-
-_Roles outside the United States & Canada, and roles whose country the catalog could not read._
-
-<table>
-<thead>
-<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Emerson</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a50e5c4-6e14-48df-88a8-5751371a36b2">Manufacturing Engineer</a></td>
-<td>Houston, TX, United States<br/>EDE, GELDERLAND, Netherlands<br/>NUEVO LAREDO, TAMAULIPAS, Mexico<br/>+9 more</td>
-<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010416">Apply</a></td>
-<td align="center">5 Nov 2026</td>
 </tr>
 </tbody>
 </table>
