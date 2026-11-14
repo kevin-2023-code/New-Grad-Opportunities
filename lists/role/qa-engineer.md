@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**142 open roles.** 107 in the United States & Canada · 35 elsewhere in the world.
+**143 open roles.** 108 in the United States & Canada · 35 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,17 +18,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Industrial Training Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/e282e49f-02fe-4b51-a8ad-cd2b9d602b8e">Quality Assurance Engineer</a></td>
-<td>Murray, KY</td>
-<td align="center"><a href="https://its-training.com/wp-content/uploads/2026/11/QA-Engineer.pdf">Apply</a></td>
+<td><strong>Xforia Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/276f251d-1c71-40ee-a3f4-1125e5fc4d0c">Software Engineer in Test</a></td>
+<td>Texas, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491002739/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Singer Vehicle Design</strong></td>
-<td><a href="https://trueinterview.io/jobs/cad8db6e-2ab8-4deb-ba38-145b519baf31">Contract Quality Assurance Engineer</a></td>
-<td>Torrance, CA</td>
-<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/singer/SingerCareersPage2024/jobs/2620">Apply</a></td>
+<td><strong>Precision Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ad3b974-4ef4-415b-ba32-80ee57c40246">Software Engineer in Test</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489812844/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f98bfaf3-4bdd-4c41-8bbb-dc38262542a3">Test Automation Engineer- Returnship Opportunity</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489826398/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Syneren Technologies Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc5f39fe-bdca-4a6f-a690-208adc6df116">Business Analyst/QA Tester-94356</a></td>
+<td>Vienna, VA</td>
+<td align="center"><a href="https://jobs.ourcareerpages.com/job/1017645">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -46,24 +60,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>C.A. Murren and Sons</strong></td>
-<td><a href="https://trueinterview.io/jobs/bbb5ef0c-91e6-4736-8f49-a54c99f92d0c">Quality Assurance Engineer</a></td>
-<td>Aiken, SC</td>
-<td align="center"><a href="https://camurren.bamboohr.com/careers/462?postedDate=2026-11-12">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>MicroAire Surgical Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/0db65248-606c-44fc-a4b3-e22976c54563">Quality Assurance Engineer</a></td>
 <td>Charlottesville, VA</td>
 <td align="center"><a href="https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Charlottesville-VA/Quality-Assurance-Engineer_JR0000047028-1">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Performance Software</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a805697-946e-45a5-aea6-97a1a8f13a20">Quality Assurance Engineer</a></td>
-<td>Phoenix, AZ</td>
-<td align="center"><a href="https://psware.bamboohr.com/careers/97?postedDate=2026-11-12">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -765,6 +765,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Cleveland, OH</td>
 <td align="center"><a href="https://medmutual.rec.pro.ukg.net/MED1500MMOO/JobBoard/ef821115-21e9-4a27-9b98-50f8e2f05f30/OpportunityDetail?opportunityId=565c3413-4114-438a-907a-cc17e1b5fb8b&amp;postingId=2afbb48c-c538-43ae-8720-0ec6041592ec">Apply</a></td>
 <td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Midwestern IT Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/0de44de2-f2a6-48b4-9530-c46a853470b3">WERE HIRING: Software Test Engineer</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485407498/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
 </tr>
 </tbody>
 </table>

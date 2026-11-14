@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**79 open roles.**
+**76 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,20 +29,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/82b438d4-f611-47b5-a42d-5d07fee402b9">Java Software Engineer - San Diego, CA</a></td>
 <td>San Diego, California</td>
 <td align="center"><a href="https://sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=16030&amp;siteid=6113&amp;PageType=JobDetails&amp;jobid=3398741">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>PowerFlex</strong></td>
-<td><a href="https://trueinterview.io/jobs/9c2aac64-7134-4310-8e05-6905c353cc25">EVSE Development Engineer I</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://powerflex.applytojob.com/apply/bdZ2Rbwufl/EVSE-Development-Engineer-I?%7E=">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>San Diego State University</strong></td>
-<td><a href="https://trueinterview.io/jobs/76b43ea6-9674-4449-b5f6-832df2f14c3d">Library Systems Administrator (Systems Administrator II)</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://careers.sdsu.edu/en-us/job/563979/library-systems-administrator-systems-administrator-ii">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -85,13 +71,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/df41129a-7405-4b54-952d-e4fc5e558d67">SQL Server DBA</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://cornerstonedefense.com/job-listings/4103">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Katalyst Healthcares &amp; Life Sciences</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e904f1b-f6e6-44c9-9621-6030865907bc">Mechanical Design Engineer</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www1.jobdiva.com/candidates/myjobs/openjob_outside.jsp?a=ndjdnw7vk4y5q8swci59eedy2w472z05039bawkobc550aecw9ph653e8wk1g6bh&amp;SearchString=&amp;StatesString=&amp;id=33611239&amp;compid=-1">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>

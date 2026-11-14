@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**128 open roles.**
+**126 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,11 +18,25 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Idera, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0f72545-abef-45ec-8135-5588a0722f13">C# Integration Developer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489303798/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/7de47feb-4913-4404-b515-25d1148b9021">Cybersecurity Consulting Associate - Winter 2027</a></td>
 <td>Houston, TX<br/>Atlanta, GA<br/>New York, NY<br/>+11 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491032010/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Memorial Hermann Health System</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7cb73c4-8bb7-4816-bb7c-3a5f1590a950">Application Programmer/Analyst</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488979900/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Two Sigma</strong></td>
@@ -60,38 +74,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Axiom Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc74f29b-c224-445a-a7e3-2cb2c81e786a">Flight Network Engineer (Commercial Network) III</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://axiomspace.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Houston/Flight-Network-Engineer--Commercial-Network--III_JR100888">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/559e47ce-e9ba-41ae-b8db-3861530567c9">Flight Network Engineer (Station Critical Network) IV</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://axiomspace.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Houston/Flight-Network-Engineer--Station-Critical-Network--IV_JR100904">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cb2ea69c-9b34-43bf-81ca-e7d8933a75b4">Ground Network Engineer (Development Network) IV</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://axiomspace.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Houston/Ground-Network-Engineer--Development-Network--IV_JR100901">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Hewlett Packard Enterprise | HPE</strong></td>
 <td><a href="https://trueinterview.io/jobs/cd2442c1-04eb-4c00-8d77-87cc1e03cda9">Finance AI/ML Engineer - PhD</a></td>
 <td>Spring, TX</td>
 <td align="center"><a href="https://careers.hpe.com/us/en/job/HPE1US1218794EXTERNALENUS/Finance-AI-ML-Engineer-PhD">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>VIA Metropolitan Transit</strong></td>
-<td><a href="https://trueinterview.io/jobs/c01fe5ac-200c-4c36-be85-b0742b01aea9">IT Support Specialist</a></td>
-<td>San Antonio, TX</td>
-<td align="center"><a href="https://css-viametro-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%28VIA,401,1%29.JobPostingDisplay?fromlist=JobPosting.JobSearchList&amp;navigation=JobPosting%5BJobPostingSet%5D%28VIA,401,1%29.JobPostingDisplayNav&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=VIA">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>

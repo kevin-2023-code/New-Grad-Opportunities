@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**410 open roles.**
+**416 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e0106d9-71ae-45c0-bed7-9f6ef18843d0">Electrical Design Engineer, Data Center Design Engineering, Data Center Design Engineering</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455783874/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>PwC</strong></td>
 <td><a href="https://trueinterview.io/jobs/7de47feb-4913-4404-b515-25d1148b9021">Cybersecurity Consulting Associate - Winter 2027</a></td>
 <td>Washington, DC<br/>Atlanta, GA<br/>New York, NY<br/>+11 more</td>
@@ -34,6 +41,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Peregrine Advisors</strong></td>
+<td><a href="https://trueinterview.io/jobs/64361cd2-e8f0-4d17-a441-dd9aa4a8357a">Fullstack Developer (Python, React)</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490567644/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Steerbridge</strong></td>
 <td><a href="https://trueinterview.io/jobs/83dd0a80-f8d3-407b-a0e3-a9ebf36e8b6a">Network Operations Center - Security Engineer</a></td>
 <td>Vienna, VA</td>
@@ -41,24 +55,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Crimson Phoenix</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef357d40-f8ab-4b5c-800c-4a7e426f968c">Web Developer (Uncleared)</a></td>
-<td>Chantilly, VA</td>
-<td align="center"><a href="https://crimsongovernment.jobs.agile-ats.com/jobs/details/16562">Apply</a></td>
+<td><strong>Titan Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d0867ab-f647-471f-bf68-3fcc69c33b53">Security Impact Analysis (SIA) Engineer</a> 🌐</td>
+<td>Remote — United States<br/>Reston, VA</td>
+<td align="center"><a href="https://recruiting.ultipro.com/TEL1010TEFO/JobBoard/914e6c7a-35d4-4079-865a-b3a7e7758070/OpportunityDetail?opportunityId=2a382e7c-2e4d-4c46-9ee8-68686a178b7f&amp;postingId=e5c0661f-1ae2-4067-80e5-f9b1809922de">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Modern Technology Solutions, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5902c01-3259-4be2-a5bd-eaa15f9f3f0a">Applications Developer</a></td>
-<td>Alexandria, VA, USA<br/>Huntsville, AL, USA<br/>Dayton, OH, USA<br/>+1 more</td>
-<td align="center"><a href="https://talent.mtsi-va.com/careers/job/1133916864359">Apply</a></td>
-<td align="center">12 Nov 2026</td>
+<td><strong>Syneren Technologies Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc5f39fe-bdca-4a6f-a690-208adc6df116">Business Analyst/QA Tester-94356</a></td>
+<td>Vienna, VA</td>
+<td align="center"><a href="https://jobs.ourcareerpages.com/job/1017645">Apply</a></td>
+<td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Tate</strong></td>
-<td><a href="https://trueinterview.io/jobs/d571e2c7-aadf-4d7c-939d-0c7800b672e8">Structural Engineer (R&amp;D)</a></td>
-<td>Columbia, MD, 21046</td>
-<td align="center"><a href="https://kingspan.rec.pro.ukg.net/KIN1011KIPI/JobBoard/33608bb1-3ee4-499d-ac64-5bf915a31ac4/OpportunityDetail?opportunityId=6ccae7c7-cecc-43b6-951f-0f807ee89655">Apply</a></td>
+<td><strong>AET FEDERAL INC</strong></td>
+<td><a href="https://trueinterview.io/jobs/804c8595-fd6c-42e6-b5aa-8526f7656e88">Jira Cloud Migration &amp; Agile Tools Engineer</a></td>
+<td>Bethesda, MD</td>
+<td align="center"><a href="https://aet-system-inc.careerplug.com/j/037aozk">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -69,31 +83,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>BE / RenXTech</strong></td>
-<td><a href="https://trueinterview.io/jobs/3fb283d6-a763-481e-af2b-876d2f44fe72">Cybersecurity SME</a></td>
-<td>Chantilly, VA</td>
-<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/A1F33B82E72CC23A96447B48E12E4808/jobs/295975">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Comcast</strong></td>
-<td><a href="https://trueinterview.io/jobs/e071c846-dfcf-4afd-8181-e47fa2578148">Backend Developer</a></td>
-<td>Reston, VA<br/>Philadelphia, PA</td>
-<td align="center"><a href="https://jobs.comcast.com/job/-/-/45483/103226787792">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Robotics Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1ea0a6d-dcda-4816-b681-8fd91c63d993">Information Engineer</a></td>
-<td>Bethesda, MD</td>
-<td align="center"><a href="https://roboticstechno.com/view_job?mode=apply&amp;id=38717&amp;hr_id=3524">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Serco</strong></td>
-<td><a href="https://trueinterview.io/jobs/9df2e165-600e-42dc-9d3b-05d87f174430">Security Engineer - Arlington, VA</a></td>
-<td>Herndon, VA</td>
-<td align="center"><a href="https://careers.serco-na.com/us/en/job/36161/Security-Engineer-Arlington-VA">Apply</a></td>
+<td><strong>CODE PLUS INC</strong></td>
+<td><a href="https://trueinterview.io/jobs/d1136e2b-501f-4742-886b-711eae8052cf">Helpdesk Technician Tier 1 - USPS</a></td>
+<td>Fairfax, VA, 22031</td>
+<td align="center"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9c6fc1a0-db3d-47e1-a724-8072be7d3219&amp;jobId=470654">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -122,6 +115,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a6b8eee4-086a-4762-8887-b1bae72beb3f">2027 Early Career Technical Program Manager</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478632927/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/1fcf6c56-80b3-4af2-9ddd-13536e627c7f">ADC Engineer I, Amazon Dedicated Cloud Engineering - Support Engineering</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10603038/adc-engineer-i-amazon-dedicated-cloud-engineering--support-engineering?cmpid=DA_INAD200785B">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -2302,6 +2302,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Amazon Web Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4382c79-ae18-44a2-b861-a54f9fb07002">Software Development Engineer, Bespoke Solutions; ADC Hardware &amp; Software Team</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10601925/software-development-engineer-bespoke-solutions-adc-hardware--software-team?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>ASRC Federal</strong></td>
 <td><a href="https://trueinterview.io/jobs/93d537d7-94c0-4d0c-964c-a6c72c2c0b11">SharePoint and Power Apps Developer</a></td>
 <td>Washington, DC</td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/57f55fa4-5a09-429d-ac6f-3eeca5a10a9c">Product Lifecycle Engineer, Low Voltage, Electrical Products and Services, Data Center Engineering</a></td>
 <td>Herndon, VA</td>
 <td align="center"><a href="https://www.amazon.jobs/jobs/10602316/product-lifecycle-engineer-low-voltage-electrical-products-and-services-data-center-engineering?cmpid=DA_INAD200785B">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>American Rheinmetall Munitions</strong></td>
-<td><a href="https://trueinterview.io/jobs/46a41b68-f6b5-4434-ba3f-084b6fc3775a">Systems Engineer</a></td>
-<td>Vienna, VA</td>
-<td align="center"><a href="https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c66c5073a7016cc05b9b6d7672&amp;gnk=job&amp;gni=8a7883a8a184746e01a19dedf1885d3d&amp;gns=Indeed+Free">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

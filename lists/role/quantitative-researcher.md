@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**38 open roles.** 33 in the United States & Canada · 5 elsewhere in the world.
+**37 open roles.** 32 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York City Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490725715/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>University of Alaska</strong></td>
-<td><a href="https://trueinterview.io/jobs/7b1d2edb-4dcd-4cf8-9c5a-0a10059f35c9">ISER Quantitative Research Professional: Level 1-3</a></td>
-<td>Anchorage, AK</td>
-<td align="center"><a href="https://careers.alaska.edu/jobs/iser-quantitative-research-professional-level-1-3-anchorage-alaska-united-states">Apply</a></td>
-<td align="center">12 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>All Options</strong></td>

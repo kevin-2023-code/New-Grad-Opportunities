@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**127 open roles.**
+**128 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -32,6 +32,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>NEW ENGLAND WIRE PRODUCTS</strong></td>
+<td><a href="https://trueinterview.io/jobs/07de85db-91ae-4eaa-96ef-8767bf580cec">Automation Engineer</a></td>
+<td>Leominster, MA</td>
+<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/9F8DDCB38DA466F7F93AFF5A29E8B40C/jobs/128673">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/918e3b75-197f-4f18-96e7-490470420aac">Production Engineer</a></td>
+<td>Leominster, MA</td>
+<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/9F8DDCB38DA466F7F93AFF5A29E8B40C/jobs/128691">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Robotics Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/771c36d4-889d-4d05-9e8c-d910d6c24d82">Cloud SRE Engineer</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://roboticstechno.com/view_job?mode=apply&amp;id=38925&amp;hr_id=3397">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Wolters Kluwer</strong></td>
 <td><a href="https://trueinterview.io/jobs/fde4d0dd-1937-451b-b0fa-a61c85d02675">Enterprise Software Engineer</a></td>
 <td>Waltham, MA</td>
@@ -43,13 +64,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bea26ef4-5cab-455a-9395-8b9b2e8ad8d4">Software Engineer II- 01864082 Software Engineer II - Air Traffic Solutions (Onsite)</a></td>
 <td>Marlborough, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465066802/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>United Imaging Healthcare Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/d95e6660-7bb5-446a-929b-35d2c6db387c">PET Research Scientist</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4662355/United-Imaging-North-America/PET-Research-Scientist">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -799,13 +813,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b6ea4c93-8f2d-4a21-8599-8b62e4275ff7">Solutions &amp; Implementation Engineer</a></td>
 <td>Quincy, MA</td>
 <td align="center"><a href="https://ats.rippling.com/bizzycar/jobs/3c593846-6814-4835-958d-822f0df75b82?jobSite=Indeed">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lila Sciences</strong></td>
-<td><a href="https://trueinterview.io/jobs/ccdfee79-e006-4825-bc61-19efce42dd4b">Automation Engineer I/II, Sustaining Engineering &amp; Lab Operations</a></td>
-<td>Cambridge, MA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4414378009">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**183 open roles.** 90 in the United States & Canada · 93 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**182 open roles.** 89 in the United States & Canada · 93 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -39,18 +39,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Capgemini</strong></td>
-<td><a href="https://trueinterview.io/jobs/61215203-5687-4404-a602-ad86f6c54c4b">AWS Cloud Solution Migration/Modernization Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://capgemini.talentnet.community/jobs/4343c69f-2726-4b99-ba5f-d552de6133e5">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Deloitte</strong></td>
-<td><a href="https://trueinterview.io/jobs/d04eda1b-58c8-49cf-a590-71f113023b23">Help Desk Analyst</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://deloitteus.avature.net/careers/InviteToApply?jobId=371878">Apply</a></td>
-<td align="center">12 Nov 2026</td>
+<td><a href="https://trueinterview.io/jobs/3167b6b0-c6b9-4770-940e-d7fcd0636c48">Cyber - Manger: Forward Deployed Engineering</a></td>
+<td>El Segundo, CA</td>
+<td align="center"><a href="https://deloitteus.avature.net/careers/InviteToApply?jobId=362390">Apply</a></td>
+<td align="center">13 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Capgemini</strong></td>

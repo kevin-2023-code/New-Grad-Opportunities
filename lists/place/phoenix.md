@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**112 open roles.**
+**110 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Sundt</strong></td>
-<td><a href="https://trueinterview.io/jobs/e848d452-d9ec-4299-bb64-65550db0b0f5">Service Desk Specialist I</a></td>
-<td>Tempe, AZ</td>
-<td align="center"><a href="https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/11880">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Performance Software</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a805697-946e-45a5-aea6-97a1a8f13a20">Quality Assurance Engineer</a></td>
-<td>Phoenix, AZ</td>
-<td align="center"><a href="https://psware.bamboohr.com/careers/97?postedDate=2026-11-12">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Raytheon</strong></td>
 <td><a href="https://trueinterview.io/jobs/ece32ad5-f670-482a-b084-3961d8c4dea0">Digital Design Engineer I - onsite</a></td>

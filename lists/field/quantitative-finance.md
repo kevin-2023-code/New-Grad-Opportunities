@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**123 open roles.** 98 in the United States & Canada · 25 elsewhere in the world.
+**122 open roles.** 97 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Susquehanna International Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/f30f773f-25d1-422d-acb8-89a9592e325f">Quantitative Strategy Developer - New Grad</a></td>
+<td>Bala-Cynwyd, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4453487626/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Nextech Hypergroup Solution</strong></td>
 <td><a href="https://trueinterview.io/jobs/b9ec124b-5b51-4ac2-ad96-58c8f5ff9d5b">Quantitative Analyst</a></td>
@@ -50,20 +57,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9e9c3b16-034c-401b-97a5-aecbfdc43d60">Quantitative Researcher - Experienced Hire</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4375992991/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>FHLBank Chicago</strong></td>
-<td><a href="https://trueinterview.io/jobs/d575d102-0d56-4686-8649-493d627ced9a">Capital Markets Quantitative Analyst</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/Capital-Markets-Quantitative-Analyst_R2600529">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>University of Alaska</strong></td>
-<td><a href="https://trueinterview.io/jobs/7b1d2edb-4dcd-4cf8-9c5a-0a10059f35c9">ISER Quantitative Research Professional: Level 1-3</a></td>
-<td>Anchorage, AK</td>
-<td align="center"><a href="https://careers.alaska.edu/jobs/iser-quantitative-research-professional-level-1-3-anchorage-alaska-united-states">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
