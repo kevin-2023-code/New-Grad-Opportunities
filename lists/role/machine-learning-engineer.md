@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**279 open roles.** 216 in the United States & Canada · 63 elsewhere in the world.
+**275 open roles.** 212 in the United States & Canada · 63 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,38 +18,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/2684c8d9-e6e8-4717-b432-b7fdb26d3be8">Applied Scientist - ML and Robotics</a></td>
-<td>North Reading, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455900909/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
+<td><strong>Maven Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/2048d7ba-9cb1-48c5-b753-3dbd17bc73cc">Robotics AI Research Engineer - CoRL</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4491032420/">Apply</a></td>
+<td align="center">14 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Flexjet</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e020bef-9b4f-4feb-83ab-95215de9088f">Machine Learning Engineer</a></td>
 <td>Cleveland, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4456326391/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Georgia Tech Research Institute</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce789b37-8dee-4505-b3e2-96b24d21bf8d">AI/ML Engineer - Smyrna, GA - ATAS - Open Rank</a></td>
-<td>Smyrna, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473793364/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/aef89b3f-6f07-4de1-88ee-e7b36c493ce4">Applied Scientist - Machine Learning, Amazon Transportation</a></td>
-<td>Bellevue, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455793271/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Overland AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/ccaef25b-bb7b-4c98-8123-17e31fa5e556">Software Engineer - Machine Learning (All Levels)</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4426451001/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -68,6 +47,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/226fff60-322c-4554-b8c6-c25594cc3a8b">Research Scientist - TikTok Search (Generative AI) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4402373654/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bca7829d-3d83-459e-ae7a-67c8392c1068">Software Engineer Graduate (Data Arch - AI/ML Infrastructure) - 2026 Start (PhD)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4262546412/">Apply</a></td>
@@ -81,13 +67,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>University of Minnesota</strong></td>
-<td><a href="https://trueinterview.io/jobs/32de8e66-ed03-4733-8d53-4d6ae54eb01b">Postdoctoral Researcher – Machine Learning River Forecasting</a></td>
-<td>Minneapolis, MN</td>
-<td align="center"><a href="https://hr.myu.umn.edu/jobs/ext/377160">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Comcast</strong></td>
 <td><a href="https://trueinterview.io/jobs/dbec8525-726a-4057-b5a5-30117d35878b">Machine Learning Engineer 2</a></td>
 <td>New York, NY<br/>Sunnyvale, CA</td>
@@ -97,8 +76,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Auburn University</strong></td>
 <td><a href="https://trueinterview.io/jobs/2d603366-1ee9-433e-867f-2c6b22441188">Student Machine Learning Engineer</a></td>
-<td>Auburn, AL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488586080/">Apply</a></td>
+<td>Auburn, AL<br/>Auburn University, AL</td>
+<td align="center"><a href="https://jobs.auburn.edu/jobs/11612/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -757,13 +736,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bdef66b9-6102-4b80-9aa1-ea1672088436">AI/Machine Learning Fellowship (6-12 months)</a></td>
 <td>Belmont, CA</td>
 <td align="center"><a href="https://jobs.volkswagen-group.com/Volkswagen/job/Belmont-AIMachine-Learning-Fellowship-%286-12-months%29-CA-94002/1454953833/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>HiredBuddy</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5cc2122-9e52-4508-8aa0-7cd76471ef4d">Machine Learning Engineer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486556850/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

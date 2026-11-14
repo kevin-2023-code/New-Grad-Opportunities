@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**27 open roles.**
+**25 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/1ba0e519-cdba-4a86-aecd-aaebc52f0a16">Software Dev Engineer, Alameda</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455798157/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4ab71309-1c11-408b-bf90-b825b0527585">Software Development Engineer, S3 Index Control Plane</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455915753/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>The Management Group, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/e42114ce-5983-466b-90bb-fc3be2004ac9">IT Support Specialist</a></td>

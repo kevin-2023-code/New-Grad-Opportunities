@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**137 open roles.** 8 in the United States & Canada · 129 elsewhere in the world.
+**133 open roles.** 8 in the United States & Canada · 125 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,28 +86,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Physicsx</strong></td>
-<td><a href="https://trueinterview.io/jobs/263f369b-7367-4e26-bf24-ae5be2b04eee">AI Engineer: Evals</a></td>
-<td>London</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/physicsx/jobs/5035958101">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sony Interactive Entertainment</strong></td>
-<td><a href="https://trueinterview.io/jobs/eb10284d-6e55-401b-aa31-73e18d2ba1d8">Software Engineer - Video Streaming</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473121917/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>AECOM</strong></td>
-<td><a href="https://trueinterview.io/jobs/df57c101-a1fd-40ec-bf3c-9e8d91b2f2f4">Graduate Lighting Designer – Environmental &amp; Planning (London)</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000161478619-graduate-lighting-designer-environmental-planning-london-">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e4e32048-fc00-4111-858a-6c3ccdd10239">Graduate Lighting Designer – Exterior Lighting &amp; Electrical (Leeds/Chesterfield)</a></td>
 <td>Leeds, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000161474589-graduate-lighting-designer-exterior-lighting-electrical-leeds-chesterfield-">Apply</a></td>
@@ -121,14 +100,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Version 1</strong></td>
-<td><a href="https://trueinterview.io/jobs/2f51093d-d262-42ce-8a6e-39dcfd7208fb">Java Engineer</a></td>
-<td>London, Birmingham, Manchester, Newcastle upon Tyne, Edinburgh, Belfast, United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Version1/744000161465952-java-engineer">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>AECOM</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ad3b33d5-fad9-4ebe-856b-02840d91e37b">Graduate Structural Engineer - Manchester (2027 start)</a></td>
 <td>Manchester, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000161458889-graduate-structural-engineer-manchester-2027-start-">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🇨🇭 Zürich & Switzerland
 
-**40 open roles.** 4 in the United States & Canada · 36 elsewhere in the world.
+**38 open roles.** 4 in the United States & Canada · 34 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -57,20 +57,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Sika Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/6bfa423e-9fac-475e-aeae-88b257e9b364">Analytics Engineer</a></td>
-<td>Zürich, Zurich, Switzerland</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SikaAG/744000161485799-analytics-engineer">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cbc62ef7-d408-4e5a-8834-54320d2f8e0c">AI Engineer</a></td>
-<td>Zürich, Zurich, Switzerland</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SikaAG/744000161483085-ai-engineer">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/c91c7514-c2a8-4c3c-aaf6-06e4339e9129">Security Engineer, Operational Technology, Google Cloud CISO</a></td>

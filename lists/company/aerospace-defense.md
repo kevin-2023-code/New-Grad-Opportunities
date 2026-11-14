@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**64 open roles.** 46 in the United States & Canada · 18 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**63 open roles.** 45 in the United States & Canada · 18 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,13 +29,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/34897bcd-8d4e-450a-816d-3835f11d367c">Product Quality Engineer, In-Space Propulsion</a></td>
 <td>Berthoud, Colorado</td>
 <td align="center"><a href="https://ursamajor.com/careers/?gh_jid=4753851005">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/a55c69d7-8078-4d46-a65f-6e206d2a3199">DevSecOps Engineer</a></td>
-<td>Costa Mesa, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482776301/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

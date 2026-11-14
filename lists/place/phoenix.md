@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**114 open roles.**
+**112 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Prosum</strong></td>
-<td><a href="https://trueinterview.io/jobs/d730d4b5-e6f9-421f-8fce-16a7d3ccb7cf">AI Data Scientist</a></td>
-<td>Phoenix, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474358527/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Diné Development Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/5e8fdb00-f756-4783-9972-a79260eb196f">Sevice Now Developer</a></td>
-<td>Scottsdale, AZ</td>
-<td align="center"><a href="https://ddcdine.wd501.myworkdayjobs.com/DDC_Careers/job/Remote/Sevice-Now-Developer_JR100486">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Sundt</strong></td>
 <td><a href="https://trueinterview.io/jobs/e848d452-d9ec-4299-bb64-65550db0b0f5">Service Desk Specialist I</a></td>

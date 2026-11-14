@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**305 open roles.** 207 in the United States & Canada · 98 elsewhere in the world. Postings the pipeline classified as remote.
+**302 open roles.** 204 in the United States & Canada · 98 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -18,27 +18,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>VERGE INFORMATION TECHNOLOGIES</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0eb4877-3534-4463-95ba-4a3dfa2eb423">Software Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://verge-information-technologies.careerplug.com/jobs/3262927">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TRILOGY FEDERAL</strong></td>
-<td><a href="https://trueinterview.io/jobs/adb44d13-b169-41dd-84ac-cd24518b7005">Data Visualization Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.lever.co/TrilogyFederal/4f5f0436-3862-4f71-8aab-ef61a8dbc014">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6386c401-6f20-405c-896e-d5c3d605432f">Full Stack Engineer – CDW Migration</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.lever.co/TrilogyFederal/47d2b901-b9f3-4fb8-989c-21ded1bb862d">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Nationwide Children's Hospital</strong></td>
 <td><a href="https://trueinterview.io/jobs/72949739-f3b3-484d-ad32-2171877771c1">IS Business Intelligence Analyst I</a> 🌐</td>
 <td>Remote — United States</td>
@@ -50,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/019e2d5c-0c69-4c9f-b431-3b2cc5f5f029">Analytics Developer</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://tarkett.wd3.myworkdayjobs.com/Tarkett_Careers/job/Dalton-Georgia-United-States/Analytics-Developer_R2026110021">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>UST</strong></td>
+<td><a href="https://trueinterview.io/jobs/53c5a071-4fe0-473e-b860-17d143e5e70e">Helpdesk Analyst</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://usource.ripplehire.com/candidate/?token=h0egzWUA73mcrkPJdkxh&amp;lang=en">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -106,6 +92,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/73b6bc8e-cb53-4758-a917-1f2453c3e05b">Solutions Engineer I</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://bstglobal.com/career/solutions-engineer-1/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Michaels Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ab6d6d9-4b3e-447b-b1fd-48c3ab7bed73">Energy Efficiency Engineer (Virginia)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://michaelsenergy.bamboohr.com/careers/208?postedDate=2026-11-11">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -305,13 +298,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>UST</strong></td>
-<td><a href="https://trueinterview.io/jobs/69b85d10-b67d-49ca-8db5-6453e1b01336">AWS DevSecOps / CDK Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://usource.ripplehire.com/candidate/?token=cIdrZgi2cuHO5ctMcKOh&amp;lang=en">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Aegis Software</strong></td>
 <td><a href="https://trueinterview.io/jobs/0cb97dda-d800-4a66-be27-ae9093b38843">MES Implementation Engineer (Contractor)</a> 🌐</td>
 <td>Remote — United States</td>
@@ -358,13 +344,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7e115010-84d6-4e49-80a7-153577fe88d5">Super Intelligence Platform Integration Engineer</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016713536">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Engine</strong></td>
-<td><a href="https://trueinterview.io/jobs/a39d1ab1-a1a6-443b-bf83-082f2b073aa9">Software Engineer - GTM Engineering</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/engine/jobs/8046374003">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -1486,17 +1465,17 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Odawa Casino</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c70683e-f283-4666-bf9c-46e4996a8fc1">Marketing Data Analyst (Not Remote)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://app.jobvite.com/CompanyJobs/Job.aspx?j=oxb6Afw8&amp;s=Indeed">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>LMI</strong></td>
 <td><a href="https://trueinterview.io/jobs/5e38a94f-6ba5-4c48-881f-ff02169e1551">Full Stack Software Engineer</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://careers-lmi.icims.com/jobs/14860/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Namecheap</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9ea769c-23f6-4d4b-8198-aca87d5fa295">Full Stack Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://www.namecheap.com/careers/details/CL1012/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>

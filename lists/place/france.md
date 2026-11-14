@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**169 open roles.** 5 in the United States & Canada · 164 elsewhere in the world.
+**163 open roles.** 5 in the United States & Canada · 158 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,48 +64,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>NEXTON</strong></td>
-<td><a href="https://trueinterview.io/jobs/35a4aff1-2cb8-45e1-8545-a0d3f15eb044">Product Owner Evaluation GenAI H/F</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000161501759-product-owner-evaluation-genai-h-f">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0eda33b7-2b2a-4685-9746-c57ba3144fef">Product Owner IA - Agents Conversationnels H/F</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000161501098-product-owner-ia-agents-conversationnels-h-f">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b708f8bc-4035-4e8d-825e-c06af3c65a73">QA / Proxy Product Owner - Banque H/F</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000161499010-qa-proxy-product-owner-banque-h-f">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/26b06afa-7aa1-4ef2-8492-8fdf6bf9daf6">Product Owner E-commerce App / Web H/F</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000161497520-product-owner-e-commerce-app-web-h-f">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ASI FR</strong></td>
-<td><a href="https://trueinterview.io/jobs/b193280c-148e-4951-93d8-4ba5acddf758">Forward Deployed Engineer IA / AI Product Builder F/H</a></td>
-<td>Paris, FRANCE, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/ASIFR/744000161497086-forward-deployed-engineer-ia-ai-product-builder-f-h">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NEXTON</strong></td>
-<td><a href="https://trueinterview.io/jobs/4396d495-7203-4707-a909-3f867a672e18">Product Designer Application Interne H/F</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000161490178-product-designer-application-interne-h-f">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Wavestone</strong></td>
 <td><a href="https://trueinterview.io/jobs/4662ba01-d55e-422e-8516-96eadac7c271">Consultant·e Data et AI Engineer – Jeune diplômé·e (H/F) - Nantes</a></td>

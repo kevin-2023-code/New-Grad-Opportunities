@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**177 open roles.** 176 in the United States & Canada · 1 elsewhere in the world.
+**174 open roles.** 173 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,34 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5effc62e-5137-4985-a6ea-2bb71fea8785">Product Designer - New Grad (Summer 2027)</a></td>
 <td>Austin, TX<br/>New York, NY<br/>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477032233/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/927d3fd0-fa81-41a6-861e-06506aa68d6f">Software Engineer - Mission Dev</a></td>
-<td>Austin, TX<br/>New York, NY<br/>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4353724452/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/34402a2d-2ba7-4881-864c-b0e56de94d15">Software Engineer, Developer Infrastructure - Build Systems</a></td>
-<td>Austin, TX<br/>New York, NY<br/>Los Angeles, CA<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4443202314/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/de1b5723-ca77-4a4a-acf3-d24fafd6a130">Software Engineer, Agents</a></td>
-<td>Austin, TX<br/>New York, NY<br/>Seattle, WA<br/>+2 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474007286/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>WISE EQUATION SOLUTION INC</strong></td>
-<td><a href="https://trueinterview.io/jobs/1193c18b-5096-4b09-861b-5e6a50d31c25">Programmer Analyst</a></td>
-<td>Cedar Park, TX</td>
-<td align="center"><a href="https://wiseq.net/jobs/jobdetails/185">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -113,6 +85,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/586dd694-cf13-4e49-906c-906d7c7c5a7b">Graduate Quantitative Researcher</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488231725/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b3aff57-9e7c-4301-8afa-e2a5b7dc1309">MLA Design Verification Engineer I, Annapurna Labs</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10604657/mla-design-verification-engineer-i-annapurna-labs?cmpid=DA_INAD200785B">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>

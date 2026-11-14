@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**88 open roles.** 54 in the United States & Canada · 34 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**85 open roles.** 50 in the United States & Canada · 35 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,27 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/de76d2c6-5796-457c-a61e-60644ed7f396">Research Engineer, PAR Safety - Meta Superintelligence Labs</a></td>
-<td>Menlo Park, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472604150/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/370ee801-a39f-4cdd-b4c9-1d61e084efb8">Research Scientist, AI Safety and Alignment, DeepMind</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/112836257989436102-research-scientist-ai-safety-and-alignment-deepmind">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/b2adddae-1bfd-41f9-9119-614a41a00e85">Software Engineer, Agent Transformation Accelerator XFN (Technical Leadership)</a></td>
-<td>Menlo Park, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488929446/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/0e384151-d5bb-440c-b070-eb3ca8eccdfc">Large Language Model Training System Engineer Graduate (Applied Machine Learning) - 2027 Start</a></td>
@@ -95,14 +74,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/43cd44aa-fd96-433e-8dac-becefc6a55c9">Product Safety Design Engineer</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://careers.google.com/jobs/results/92255599340724934-product-safety-design-engineer/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ffd9caa3-38ca-43ee-bb6e-c62563d670ed">Research Scientist Graduate (Seed Model - Vision) - 2027 Start</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473981740/">Apply</a></td>
@@ -419,6 +391,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ce7e3a68-4d7c-4ac4-96f9-c1d8c0929f4e">Datacenter Operations Engineer (DCO) Graduate (Infrastructure Engineering) - 2027 Start</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474557201/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/694aae91-946f-4d14-ab66-772ee47047c7">Solutions Architect Graduate (BytePlus, Japan) - 2027 Start</a></td>
+<td>Tokyo, Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4435849659/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

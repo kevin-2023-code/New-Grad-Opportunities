@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**169 open roles.**
+**163 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -32,20 +32,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>CircuitHire</strong></td>
-<td><a href="https://trueinterview.io/jobs/d36adedb-5c95-4be1-8589-41d72e30ff84">RF Hardware Engineer</a></td>
-<td>Torrance, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483112790/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/a55c69d7-8078-4d46-a65f-6e206d2a3199">DevSecOps Engineer</a></td>
-<td>Costa Mesa, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482776301/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Nominal</strong></td>
 <td><a href="https://trueinterview.io/jobs/65423dfb-1343-4737-8475-5e9f104c45b7">Software Engineer - New Grad (Summer 2027)</a></td>
 <td>Los Angeles, CA<br/>New York, NY<br/>Austin, TX</td>
@@ -57,34 +43,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5effc62e-5137-4985-a6ea-2bb71fea8785">Product Designer - New Grad (Summer 2027)</a></td>
 <td>Los Angeles, CA<br/>New York, NY<br/>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477032233/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/927d3fd0-fa81-41a6-861e-06506aa68d6f">Software Engineer - Mission Dev</a></td>
-<td>Los Angeles, CA<br/>New York, NY<br/>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4353724452/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/34402a2d-2ba7-4881-864c-b0e56de94d15">Software Engineer, Developer Infrastructure - Build Systems</a></td>
-<td>Los Angeles, CA<br/>Austin, TX<br/>New York, NY<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4443202314/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/de1b5723-ca77-4a4a-acf3-d24fafd6a130">Software Engineer, Agents</a></td>
-<td>Los Angeles, CA<br/>New York, NY<br/>Seattle, WA<br/>+2 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474007286/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Dav-Lear Systems, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/99de9446-5b41-4c7d-a848-dc316b0166c1">IT Support Specialist / Engineer</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://dav-lear-systems-inc.careerplug.com/jobs/3313962">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

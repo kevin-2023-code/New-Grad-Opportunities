@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**90 open roles.** 53 in the United States & Canada · 37 elsewhere in the world.
+**89 open roles.** 52 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -380,13 +380,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484031177/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tricon Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/309d0786-653d-4fe4-b8d0-de718caed14c">Java / Spring Boot Software Engineer - W2 (Entry Level/Early Career)</a></td>
-<td>Englewood Cliffs, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486111213/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
 </tr>
 </tbody>
 </table>

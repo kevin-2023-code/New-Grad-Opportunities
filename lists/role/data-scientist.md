@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**224 open roles.** 170 in the United States & Canada · 54 elsewhere in the world.
+**220 open roles.** 166 in the United States & Canada · 54 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,45 +18,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>PingWind</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a7ea8d8-3396-4dd5-a5a8-33a5a47f5bdb">Data Scientist I with Security Clearance</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489581213/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>C3 AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/f14c107a-6955-4036-bb91-67e7516c1ceb">Data Scientist (Federal)</a></td>
-<td>Tysons Corner, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4376230884/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Prosum</strong></td>
-<td><a href="https://trueinterview.io/jobs/d730d4b5-e6f9-421f-8fce-16a7d3ccb7cf">AI Data Scientist</a></td>
-<td>Phoenix, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474358527/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>SAIC</strong></td>
 <td><a href="https://trueinterview.io/jobs/c6d00562-33f3-44a2-9fbc-7d045c717583">Data Scientist Associate</a></td>
 <td>Upper Marlboro, MD</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489545179/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Waystar</strong></td>
-<td><a href="https://trueinterview.io/jobs/1df1905d-733d-42d0-9b2f-fa5bd1675c2e">Data Scientist</a></td>
-<td>Atlanta, GA<br/>Lehi, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4369712079/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Johns Hopkins University</strong></td>
-<td><a href="https://trueinterview.io/jobs/37822d47-638e-4cfb-b829-f133e2747d69">Research Specialist (Data Science and Artificial Intelligence)</a></td>
-<td>Baltimore, MD</td>
-<td align="center"><a href="https://hiring.jhu.edu/careers/job/1133916828425">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -78,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/639e11bc-14a2-4b17-bf63-c1582211b969">Early Career Associate Data Scientist</a></td>
 <td>Norfolk, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473927544/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lee College</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e8e17d8-b6b0-4618-8fed-0d1d71bc0b2c">PIER Data Scientist</a></td>
+<td>Baytown, TX</td>
+<td align="center"><a href="https://www.schooljobs.com/careers/lee/jobs/5547433/pier-data-scientist">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>

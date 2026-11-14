@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**144 open roles.** 107 in the United States & Canada · 37 elsewhere in the world.
+**142 open roles.** 107 in the United States & Canada · 35 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -779,13 +779,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>NEXTON</strong></td>
-<td><a href="https://trueinterview.io/jobs/b708f8bc-4035-4e8d-825e-c06af3c65a73">QA / Proxy Product Owner - Banque H/F</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000161499010-qa-proxy-product-owner-banque-h-f">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Testlio</strong></td>
 <td><a href="https://trueinterview.io/jobs/9690e0a0-9531-44c9-8f92-e342c54b9c71">Freelance Software Tester | Remote in Belgium</a></td>
 <td>Belgium</td>
@@ -1029,13 +1022,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Frankfurt am Main, Deutschland</td>
 <td align="center"><a href="https://schmitt-engineering.cockpit.recruitnow.de/jobsite/api/vacancies/publications-12513-B/link">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rue Gilt Groupe</strong></td>
-<td><a href="https://trueinterview.io/jobs/eee85309-40fb-4e2a-aa24-748303e3e46c">Retail Systems SDET (Software Development Engineer in Test)</a></td>
-<td>Dublin, Ireland</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/ruelala/jobs/8344735">Apply</a></td>
-<td align="center">1 Nov 2026</td>
 </tr>
 </tbody>
 </table>

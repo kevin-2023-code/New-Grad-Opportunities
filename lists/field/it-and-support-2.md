@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**635 open roles.** 572 in the United States & Canada · 63 elsewhere in the world.
+**621 open roles.** 560 in the United States & Canada · 61 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,83 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Steel Dynamics</strong></td>
-<td><a href="https://trueinterview.io/jobs/882bba6a-a802-4bec-9304-35b6c3f4e4c3">IT Network Technician</a></td>
-<td>Fort Wayne, IN</td>
-<td align="center"><a href="https://careers-steeldynamics.icims.com/jobs/8439/it-network-technician/job">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Stride Healthcare Management LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/622285ed-d0d9-4734-9f41-987fd192e247">IT HELP DESK ADMINISTRATOR</a></td>
-<td>Addison, TX</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4642487/StrideCare/IT-HELP-DESK-ADMINISTRATOR">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Synopsys</strong></td>
-<td><a href="https://trueinterview.io/jobs/9f277177-b676-452b-9582-3e65cc494bcd">Service Desk Engineer</a></td>
-<td>Exton, PA</td>
-<td align="center"><a href="https://careers.synopsys.com/job/exton/service-desk-engineer/44408/102923301632">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Textron</strong></td>
-<td><a href="https://trueinterview.io/jobs/490e3c68-2e76-4798-9261-9e542b596d73">Network Engineer</a></td>
-<td>Fort Worth, TX</td>
-<td align="center"><a href="https://careers.textron.com/fort-worth-tx/network-engineer/3563E3E78BF342FB87AA0D4354A7635D/job/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>THE D</strong></td>
-<td><a href="https://trueinterview.io/jobs/18453a2b-fcb4-4320-aaf9-86fdf48eb4fc">CHG - I.T. - Systems Administrator</a></td>
-<td>Las Vegas, NV</td>
-<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/dtlvgroup/THED/jobs/22047">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Transparency International Secretariat</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3bc8026-3b44-43ec-91de-64d6c7a68605">IT Service Desk Assistant (m/f/d)</a></td>
-<td>Berlin, NH</td>
-<td align="center"><a href="https://transparency.softgarden.io/job/68442932?l=en">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Vireo Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/2fab875f-b5de-4fe8-8d82-7f859e6f97a2">IT Support Specialist</a></td>
-<td>Chicago, IL<br/>Boca Raton, FL</td>
-<td align="center"><a href="https://vireohealth.applytojob.com/apply/X42LZTkD4z/IT-Support-Specialist?%7E=">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>VIVA</strong></td>
-<td><a href="https://trueinterview.io/jobs/f92a2be2-6bb6-4d22-8d43-afc33c693825">Database Administrator</a></td>
-<td>Little Rock, AR</td>
-<td align="center"><a href="https://careers.viva-it.com/careers/opportunities/job-detail/database-administrator-NPARAD4">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>AVC Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c472c59-ee9c-4956-ab51-0ba405e21a20">Level 1-2 IT Technician</a></td>
-<td>Indianapolis, IN</td>
-<td align="center"><a href="https://apply.intellihire.com/JobDetails.aspx?id=afcb8710165945ae8eb0095bddca0e91">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Colliers Engineering &amp; Design</strong></td>
-<td><a href="https://trueinterview.io/jobs/af216cb9-940e-44a9-9606-00a25ad62577">IT Technician</a></td>
-<td>Mount Laurel, NJ</td>
-<td align="center"><a href="https://careers-colliersengineering.icims.com/jobs/14550/job">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Playstation Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/2c484af5-4f98-437c-95dc-c14e95b2fcc6">IT Support Specialist (Contract)</a></td>
-<td>United States, Los Angeles, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6233291004">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Vervic</strong></td>
 <td><a href="https://trueinterview.io/jobs/78774751-63d1-429b-959e-1f7bb449d2c0">Functional System Administrator</a></td>
@@ -1212,13 +1135,6 @@
 <td align="center"><a href="https://www.readypayonline.com/Proliant/Career/CareerApply.aspx?CID=3342a693-2d23-4d23-9e31-ec4c3267aba0&amp;JID=f9c1a3ca-f7d6-f111-ac45-b026284a2e90&amp;CSID=7C375D8D-E9B5-42C4-8E4E-0ECD7F8CBBD2">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Randstad Digital Americas</strong></td>
-<td><a href="https://trueinterview.io/jobs/99fe9046-0bee-48bb-9514-86d643ff00e9">Programmer (Vulnerability Remediation and Coordination)</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483699719/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1231,20 +1147,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>MSX International</strong></td>
-<td><a href="https://trueinterview.io/jobs/d19e65d5-3996-47bb-ae61-fc359089e47d">Technical Support &amp; Capability Development Specialist.</a></td>
-<td>Budapest, Hungary</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/MSXInternational/3743990016840856-technical-support-capability-development-specialist-">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ebury</strong></td>
-<td><a href="https://trueinterview.io/jobs/7767ec5f-dcc5-427c-8724-be2468bdcdd0">Técnico de Soporte IT (Helpdesk)</a></td>
-<td>León</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/ebury/jobs/5035593101">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Foundever</strong></td>
 <td><a href="https://trueinterview.io/jobs/1eb3e2b9-ca86-47f1-b3e9-bb9d7c550449">Work at Home - Seasonal Customer Service/Technical Support 1</a> 🌐</td>

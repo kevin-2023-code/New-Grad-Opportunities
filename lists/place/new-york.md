@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**417 open roles.**
+**413 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -76,13 +76,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>PepsiCo</strong></td>
-<td><a href="https://trueinterview.io/jobs/1062600b-0371-49f5-a6d5-5a4177ffe85f">Analytics Platform Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462536266/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Nominal</strong></td>
 <td><a href="https://trueinterview.io/jobs/65423dfb-1343-4737-8475-5e9f104c45b7">Software Engineer - New Grad (Summer 2027)</a></td>
 <td>New York, NY<br/>Austin, TX<br/>Los Angeles, CA</td>
@@ -97,27 +90,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/927d3fd0-fa81-41a6-861e-06506aa68d6f">Software Engineer - Mission Dev</a></td>
-<td>New York, NY<br/>Los Angeles, CA<br/>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4353724452/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/34402a2d-2ba7-4881-864c-b0e56de94d15">Software Engineer, Developer Infrastructure - Build Systems</a></td>
-<td>New York, NY<br/>Austin, TX<br/>Los Angeles, CA<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4443202314/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/de1b5723-ca77-4a4a-acf3-d24fafd6a130">Software Engineer, Agents</a></td>
-<td>New York, NY<br/>Seattle, WA<br/>San Francisco, CA<br/>+2 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474007286/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Natsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/84694adc-2e99-46d0-9968-c91c9527dd9d">Java Backend &amp; FSD Developer</a></td>
 <td>New York, NY</td>
@@ -125,24 +97,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>City University of New York</strong></td>
-<td><a href="https://trueinterview.io/jobs/c568adf6-48cb-41bd-ac12-3c5a9afba410">IT Support Assistant (Provisional) - Department of Information Technology</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://cuny.jobs/84012519D96E48909E1BB96509186C81/job/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Deutsche Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/b0a96b67-81c3-442d-a148-e9535518172b">FX Derivatives Trader - Analyst</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/New-York-1-Columbus-Circle/FX-Derivatives-Trader---Analyst_R0438402-1">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>J.Crew</strong></td>
 <td><a href="https://trueinterview.io/jobs/f5c6108f-6a7f-4503-b7e1-f52e5e6469a1">IT Desktop Support Analyst</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://jcrew.wd1.myworkdayjobs.com/en-US/JCrewCareers/job/New-York-NY-USA-Headquarters/IT-Desktop-Support-Analyst_129721">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TD</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa69a5a5-147b-4780-a862-5f653acf51d3">AI Engineer – Agentic Systems</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/New-York-New-York/AI-Engineer---Agentic-Systems_R_1522301">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -346,6 +311,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/80467d50-d494-43aa-883c-56ea9334bf47">Generative AI Engineer</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487137555/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7618d4b-d0d2-4b50-b66b-a67a98ef7a5e">Software Development Engineer, Data Analytics Integration AI and Platform Excellence</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10603912/software-development-engineer-data-analytics-integration-ai-and-platform-excellence?cmpid=DA_INAD200785B">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2789,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ec029cf5-5b5a-44f8-9970-0bb99b6bc247">AI Transformation Engineer</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/yext/jobs/8334849">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NJF Global Holdings Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/14876069-2f94-472c-9604-cc1e86b422be">Quantitative Developer – Applied AI Research &amp; C++ Engineering</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486160231/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Imagen Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/17fdf49f-0c2a-4e5e-bec4-b39942a77ad5">Software Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4450290161/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Acquire Me</strong></td>
+<td><a href="https://trueinterview.io/jobs/332cc7c1-24f6-42b0-b82a-b37c4aad3e0b">Python Developer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477081296/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/35cee2db-e813-407d-ab2f-7f50a12c019b">Quantitative Developer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7985591">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

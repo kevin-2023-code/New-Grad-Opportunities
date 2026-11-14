@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**653 open roles.** 510 in the United States & Canada · 143 elsewhere in the world.
+**649 open roles.** 507 in the United States & Canada · 142 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>AKS Engineering &amp; Forestry</strong></td>
-<td><a href="https://trueinterview.io/jobs/edbd8c54-8480-4b65-ae9a-5b285890ca53">Civil Engineer-In-Training (EIT) - Data Centers</a></td>
-<td>Tualatin, OR</td>
-<td align="center"><a href="https://grnh.se/tfwsmyd69us">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Revolution Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/5d51a5ba-75f3-4d01-9d88-a059e836a523">Quality Process Engineer</a></td>
@@ -758,20 +751,6 @@
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Energizer</strong></td>
-<td><a href="https://trueinterview.io/jobs/8864ade0-16b5-469a-a218-681fb04ae52b">Chemical Engineer</a></td>
-<td>Westlake, OH</td>
-<td align="center"><a href="https://uscareers-energizerholdings.icims.com/jobs/7577/job">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>EXP</strong></td>
-<td><a href="https://trueinterview.io/jobs/4e84f067-8c79-41b7-bb24-a6c94528e505">Intermediate Civil Engineering Technologist / Technician</a></td>
-<td>Calgary, AB, Canada<br/>Edmonton, AB, Canada</td>
-<td align="center"><a href="https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113439">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Ford Motor Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/1348ab63-3156-426e-bb23-340a4a6f885f">Launch Manufacturing Engineer</a></td>
 <td>Dearborn, MI, United States<br/>Wayne, MI, United States</td>
@@ -798,21 +777,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Kandou AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/638b3bd3-f4e1-4c46-813b-140a34eeba88">EDA/CAD Engineer - India</a></td>
-<td>Hyderabad<br/>Bangalore</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/kandou-ai/351fa480-6e98-4788-b2e6-02577683dcc7">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sopra Steria</strong></td>
-<td><a href="https://trueinterview.io/jobs/75a064be-ccf0-4dfb-9b76-b1313bed7f91">Consultor/a Migracion Manufacturing Engineering</a></td>
-<td>Madrid, Comunidad de Madrid, Spain</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000161471641-consultor-a-migracion-manufacturing-engineering">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4e32048-fc00-4111-858a-6c3ccdd10239">Graduate Lighting Designer – Exterior Lighting &amp; Electrical (Leeds/Chesterfield)</a></td>
+<td>Leeds, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000161474589-graduate-lighting-designer-exterior-lighting-electrical-leeds-chesterfield-">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6c938159-beeb-4ae4-9033-e17b54636973">Graduate Lighting Designer (Leeds)</a></td>
+<td>Leeds, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000161469159-graduate-lighting-designer-leeds-">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ad3b33d5-fad9-4ebe-856b-02840d91e37b">Graduate Structural Engineer - Manchester (2027 start)</a></td>
 <td>Manchester, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000161458889-graduate-structural-engineer-manchester-2027-start-">Apply</a></td>
@@ -1790,13 +1769,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Melaka, Malaysia</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012480">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MediaTek</strong></td>
-<td><a href="https://trueinterview.io/jobs/a75d792e-212f-490b-9383-4fd04a8e5675">5G/6G Modem Digital IC Designer</a></td>
-<td>Hsinchu, Taiwan, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4415023508/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**80 open roles.** 64 in the United States & Canada · 16 elsewhere in the world.
+**78 open roles.** 62 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -26,13 +26,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Crimson Phoenix</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f65e846-c0db-4877-8c83-b2bfe1e93ee6">Front-End Web Developer</a></td>
-<td>Chantilly, VA</td>
-<td align="center"><a href="https://crimsongovernment.jobs.agile-ats.com/jobs/details/16557">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ef357d40-f8ab-4b5c-800c-4a7e426f968c">Web Developer (Uncleared)</a></td>
 <td>Chantilly, VA</td>
 <td align="center"><a href="https://crimsongovernment.jobs.agile-ats.com/jobs/details/16562">Apply</a></td>
@@ -457,13 +450,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484404178/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP Bangladesh</strong></td>
-<td><a href="https://trueinterview.io/jobs/59ec0a68-e2d0-405c-a523-2c8b20d24a70">Frontend Developer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485424595/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
 </tr>
 </tbody>
 </table>

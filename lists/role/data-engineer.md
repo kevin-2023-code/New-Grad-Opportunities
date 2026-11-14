@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**397 open roles.** 245 in the United States & Canada · 152 elsewhere in the world.
+**391 open roles.** 240 in the United States & Canada · 151 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -32,38 +32,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/c5ff67ed-2928-4345-ad66-83e7b92d054d">Ingénieur des contrôles de centre de données, Nouvelles régions (Canada) - Data Center Controls Engineer, Canada</a></td>
-<td>Airdrie, Alberta, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455916887/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TalentHop</strong></td>
-<td><a href="https://trueinterview.io/jobs/c3db5757-7f66-4a08-b554-984dfcd6ae20">Business Intelligence Developer - Lumicera</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488922943/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Plante Moran</strong></td>
-<td><a href="https://trueinterview.io/jobs/03381873-9b8c-4b3f-b444-df6f0d2df544">AI Data Engineer</a></td>
-<td>Southfield, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472587126/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>11x</strong></td>
-<td><a href="https://trueinterview.io/jobs/cfb4fb24-8002-4bd2-b5df-cfd6e64d057f">Data Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4428456441/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TRILOGY FEDERAL</strong></td>
-<td><a href="https://trueinterview.io/jobs/adb44d13-b169-41dd-84ac-cd24518b7005">Data Visualization Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.lever.co/TrilogyFederal/4f5f0436-3862-4f71-8aab-ef61a8dbc014">Apply</a></td>
+<td><strong>Nextech Hypergroup Solution</strong></td>
+<td><a href="https://trueinterview.io/jobs/18279e03-2931-45dc-bdbc-831fdb84398c">Data Engineering Analyst</a></td>
+<td>Milwaukee, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488922422/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -1131,13 +1103,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/39fa42a4-3d1a-40d2-b71c-4a74a1e7c982">Data Center Building Automation and Controls Engineer, Assistant Consultant</a></td>
-<td>Milwaukee, WI</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98822">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>T-Mobile</strong></td>
 <td><a href="https://trueinterview.io/jobs/e372d292-39ef-44a1-9a4c-c74ad6aadd2c">Data Engineer</a></td>
 <td>Bellevue, WA</td>
@@ -1744,13 +1709,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Sika Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/6bfa423e-9fac-475e-aeae-88b257e9b364">Analytics Engineer</a></td>
-<td>Zürich, Zurich, Switzerland</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SikaAG/744000161485799-analytics-engineer">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/64c554ed-60bf-4e5c-b4ec-7a89448289d8">Business Intelligence Engineer, EU Prime and Marketing Analytics &amp; Science (PRIMAS)</a></td>

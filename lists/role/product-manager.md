@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**139 open roles.** 85 in the United States & Canada · 54 elsewhere in the world.
+**134 open roles.** 83 in the United States & Canada · 51 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,17 +18,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Oliver James</strong></td>
-<td><a href="https://trueinterview.io/jobs/5948fade-9bb8-47ff-9ac4-83a9c2ec6b1f">Product Owner - Fully Remote</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489554832/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Vermeer Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/149ccffc-5fa2-46ae-add8-3894270ebd06">Digital Product Owner</a></td>
-<td>Pella, IA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484524609/">Apply</a></td>
+<td><strong>TransCore</strong></td>
+<td><a href="https://trueinterview.io/jobs/860d46d8-71d9-4f83-8942-3e7b20774b8d">Associate Product Manager</a></td>
+<td>Norcross, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477746015/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -36,13 +29,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/704faa7f-b488-4ed1-b2f6-cfc99f1aee3c">GEO Content Product Manager Graduate (TikTok Local Services) - 2027 Start</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447904379/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Carlsmed</strong></td>
-<td><a href="https://trueinterview.io/jobs/3769f190-ac5c-4d66-b418-203f590135cb">Product Management - Level Based on Experience</a></td>
-<td>Carlsbad, CA</td>
-<td align="center"><a href="https://carlsmed.bamboohr.com/careers/262?postedDate=2026-11-13">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -625,31 +611,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Groupe Covéa</strong></td>
-<td><a href="https://trueinterview.io/jobs/d17387fd-9bf0-4c25-b2fc-b182f25d21f5">Responsable MOA Santé-Prévoyance - Product Owner F/H</a></td>
-<td>Chauray, Nouvelle-Aquitaine, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/COVEA1/744000161504939-responsable-moa-sante-prevoyance-product-owner-f-h">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NEXTON</strong></td>
-<td><a href="https://trueinterview.io/jobs/35a4aff1-2cb8-45e1-8545-a0d3f15eb044">Product Owner Evaluation GenAI H/F</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000161501759-product-owner-evaluation-genai-h-f">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0eda33b7-2b2a-4685-9746-c57ba3144fef">Product Owner IA - Agents Conversationnels H/F</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000161501098-product-owner-ia-agents-conversationnels-h-f">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/26b06afa-7aa1-4ef2-8492-8fdf6bf9daf6">Product Owner E-commerce App / Web H/F</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000161497520-product-owner-e-commerce-app-web-h-f">Apply</a></td>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/059e8380-a0ff-47d5-9991-c1b656e31f77">Regional Supply Chain Product Manager, Regional Logistics (2027 Graduate)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489569770/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

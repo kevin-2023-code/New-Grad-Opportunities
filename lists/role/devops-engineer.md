@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**121 open roles.** 86 in the United States & Canada · 35 elsewhere in the world.
+**119 open roles.** 84 in the United States & Canada · 35 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>M1 Technology LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/db7e791a-462d-4508-b229-12449fb3f844">DevOps Engineer with Security Clearance</a></td>
-<td>Chantilly, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489590014/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SHI International Corp.</strong></td>
-<td><a href="https://trueinterview.io/jobs/81427a81-39c7-41e7-a7be-a1dc75910182">DevOps Engineer</a></td>
-<td>Somerset, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446834985/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Fortinet</strong></td>
 <td><a href="https://trueinterview.io/jobs/7c8090da-0406-498b-9df9-f7920f232320">Cloud Infrastructure/DevOps Developer</a></td>

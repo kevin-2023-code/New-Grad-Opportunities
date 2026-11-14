@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**129 open roles.** 78 in the United States & Canada · 51 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**127 open roles.** 76 in the United States & Canada · 51 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee3b32b3-4295-4b06-8697-c5666f089bdc">VLSI Software Engineer</a></td>
-<td>Tijuana, Baja California, Mexico</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481361594/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sandisk</strong></td>
-<td><a href="https://trueinterview.io/jobs/3bee2113-7706-486b-8fe3-926882f85895">Software Engineer</a></td>
-<td>Milpitas, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482854022/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/a268a562-dde0-45f2-bac4-a566412a513e">Software Engineer - Networking (P4, packet processing, data plane)</a></td>

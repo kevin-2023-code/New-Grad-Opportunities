@@ -2,7 +2,7 @@
 
 # 🎮 Gaming & interactive
 
-**7 open roles.** 2 in the United States & Canada · 5 elsewhere in the world. Games, game engines and interactive entertainment.
+**6 open roles.** 2 in the United States & Canada · 4 elsewhere in the world. Games, game engines and interactive entertainment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -45,13 +45,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Voodoo</strong></td>
-<td><a href="https://trueinterview.io/jobs/a66bbf36-4d1e-4140-bd7c-8a8e5b9f7611">Game Developer - Puzzle Games - China</a></td>
-<td>Beijing</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/voodoo/d2920293-d78c-41a1-8f0f-b72f708116e7">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/66641372-d980-4106-bec3-633984f6a20c">Unreal Engine Motion Designer - Mob Control</a></td>
 <td>Paris</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/voodoo/efa492d2-1133-4fbf-b8b7-dc2dc4df0cad">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**57 open roles.** 29 in the United States & Canada · 28 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**56 open roles.** 29 in the United States & Canada · 27 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -232,13 +232,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a52472a-7bdd-4b4a-94ca-e0ce63967c46">Software Engineering Leadership Opportunities - Casablanca</a></td>
-<td>CASABLANCA, Morocco<br/>Mechouar, Casablanca-Settat, Morocco</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/350518">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/209893b5-1c81-432f-8755-346cf6b53e4c">AI Builder, Emerging Talent - English Speaking Market</a></td>

@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**615 open roles.** 426 in the United States & Canada · 189 elsewhere in the world.
+**604 open roles.** 420 in the United States & Canada · 184 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,41 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Synechron</strong></td>
-<td><a href="https://trueinterview.io/jobs/32d91e61-f32b-4b1d-809b-c41a0ec298e7">FDE/ Integration Engineer [LLM platforms/ MCP/ Azure OpenAI]</a></td>
-<td>Bloomfield, CT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484361655/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mistral AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/1dedcfb9-6c00-4e53-9b15-e33a4e49e686">AI Scientist, Agentic CAD (AI4Engineering)</a></td>
-<td>Paris<br/>Palo Alto, CA<br/>Amsterdam<br/>+4 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/f090ef1d-372e-40dc-bf46-ce0bf2850204">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Boston Dynamics</strong></td>
-<td><a href="https://trueinterview.io/jobs/7d293108-fc01-42db-9ec2-e1bb88baef33">Atlas Research Engineer, SLAM &amp; Spatial AI</a></td>
-<td>Waltham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4433519011/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>InVitro Cell Research, LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/7fda5e7b-d507-415e-b069-7167f88e9b4b">AI &amp; LLM Applications Scientist</a></td>
-<td>Englewood, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484364346/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Loop</strong></td>
-<td><a href="https://trueinterview.io/jobs/7beb98a8-50c2-471b-8888-9616c08f0691">AI Software Engineer, Full-Stack (NY)</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4434029672/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Netic</strong></td>
 <td><a href="https://trueinterview.io/jobs/bb38819d-7326-4855-b947-9d29ee2e4cfd">Applied AI Research Engineer</a></td>
@@ -190,13 +155,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481206673/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Torentify</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7e5137c-d34b-4c7c-9d89-ac17ddb22a3a">Founding AI Engineer - Remote</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486104089/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -209,27 +167,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Physicsx</strong></td>
-<td><a href="https://trueinterview.io/jobs/263f369b-7367-4e26-bf24-ae5be2b04eee">AI Engineer: Evals</a></td>
-<td>London</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/physicsx/jobs/5035958101">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ASI FR</strong></td>
-<td><a href="https://trueinterview.io/jobs/b193280c-148e-4951-93d8-4ba5acddf758">Forward Deployed Engineer IA / AI Product Builder F/H</a></td>
-<td>Paris, FRANCE, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/ASIFR/744000161497086-forward-deployed-engineer-ia-ai-product-builder-f-h">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sika Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/cbc62ef7-d408-4e5a-8834-54320d2f8e0c">AI Engineer</a></td>
-<td>Zürich, Zurich, Switzerland</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SikaAG/744000161483085-ai-engineer">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Western Digital</strong></td>
 <td><a href="https://trueinterview.io/jobs/6dc68f2e-02d3-4ac2-a27c-45cd0b891f83">AI Application Engineer, Product Engineering</a></td>
@@ -245,31 +182,17 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/a83a3732-c40c-48c2-99cb-68a23c9d914e">Application Engineer (AI &amp; Backend)</a></td>
-<td>Brno, Czechia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161451228-application-engineer-ai-backend-">Apply</a></td>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/694aae91-946f-4d14-ab66-772ee47047c7">Solutions Architect Graduate (BytePlus, Japan) - 2027 Start</a></td>
+<td>Tokyo, Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4435849659/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/e78151b2-5b2c-4536-9179-9aec578ac613">AI Model Reinforcement Malay Speaking Graduate (Platform Responsibility) - 2027 Start</a></td>
-<td>Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472528581/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/012e8ccd-dd0f-4076-bc33-156c016b39f1">AI Model Reinforcement Arabic Speaking Graduate (Platform Responsibility) - 2027 Start</a></td>
 <td>Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4472305725/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Wise</strong></td>
-<td><a href="https://trueinterview.io/jobs/50d7e1e2-3aad-41bb-9238-9738cf345f80">Software Engineer - Contact Automation - AI</a></td>
-<td>Budapest, Hungary</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000161442030-software-engineer-contact-automation-ai">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

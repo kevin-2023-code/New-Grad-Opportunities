@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**190 open roles.**
+**189 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1023,13 +1023,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a7e51067-850e-41a2-b03d-c5a2ae14e73b">Release Engineer</a></td>
 <td>Plano, TX</td>
 <td align="center"><a href="https://digitalcareers.infosys.com/global-careers/company-job/description/reqid/155625BR">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Jacobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/20a7b9ae-06c5-4238-baae-6155aef7c535">Forward Deployed Engineer (Palantir Foundry &amp; Custom Development)</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://careers.jacobs.com/en_US/careers/JobDetail/Forward-Deployed-Engineer-Palantir-Foundry-Custom-Development/47838">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

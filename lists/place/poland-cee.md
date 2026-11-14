@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**68 open roles.** 1 in the United States & Canada · 67 elsewhere in the world.
+**64 open roles.** 1 in the United States & Canada · 63 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,38 +37,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>MSX International</strong></td>
-<td><a href="https://trueinterview.io/jobs/d19e65d5-3996-47bb-ae61-fc359089e47d">Technical Support &amp; Capability Development Specialist.</a></td>
-<td>Budapest, Hungary</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/MSXInternational/3743990016840856-technical-support-capability-development-specialist-">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6cd05ac-78d7-4069-8211-27d2d8c52c74">AI Platform Engineer, ML Engineering — Site Reliability</a></td>
-<td>Budapest, Hungary</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161491981-ai-platform-engineer-ml-engineering-site-reliability">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ElevenLabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/95bb094b-884c-447a-a92e-c7a513aabf9b">Full-Stack Engineer (Frontend Leaning) - ElevenAI</a></td>
-<td>Sofia, Sofia City, Bulgaria<br/>Dublin, County Dublin, Ireland<br/>Warsaw<br/>+10 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ElevenLabs/3809888d-a838-420a-8474-d217e48cef88">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/a83a3732-c40c-48c2-99cb-68a23c9d914e">Application Engineer (AI &amp; Backend)</a></td>
-<td>Brno, Czechia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161451228-application-engineer-ai-backend-">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Wise</strong></td>
-<td><a href="https://trueinterview.io/jobs/50d7e1e2-3aad-41bb-9238-9738cf345f80">Software Engineer - Contact Automation - AI</a></td>
-<td>Budapest, Hungary</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000161442030-software-engineer-contact-automation-ai">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/deb73b7b-136c-4849-9eb4-900ab4b0df44">Junior Application Engineer (AI &amp; Backend)</a></td>
+<td>Brno, Czech Republic, Czechia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161447958-junior-application-engineer-ai-backend-">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

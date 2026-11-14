@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**71 open roles.** 60 in the United States & Canada · 11 elsewhere in the world.
+**69 open roles.** 58 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Robotics Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f3622da-ef8c-4fb2-bef8-84b670d5837b">React Native Mobile Developer</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://roboticstechno.com/view_job?mode=apply&amp;id=38934&amp;hr_id=3859">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>SpaceX Super Intelligence</strong></td>
 <td><a href="https://trueinterview.io/jobs/1bb33026-bd6a-41d4-8013-ad5ca3f300d5">Mobile Android Engineer</a></td>
@@ -169,13 +162,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3b8e670b-c1c3-4f91-951a-687d52a57a22">iOS Developer</a></td>
 <td>Phoenix, AZ</td>
 <td align="center"><a href="https://careers.petsmart.com/jobs/7867">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>HiredBuddy</strong></td>
-<td><a href="https://trueinterview.io/jobs/7485b5cb-e093-443b-84d8-332ec96e0abc">Android Developer</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486575405/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

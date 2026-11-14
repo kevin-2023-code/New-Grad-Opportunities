@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**115 open roles.** 90 in the United States & Canada · 25 elsewhere in the world.
+**114 open roles.** 90 in the United States & Canada · 24 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -659,13 +659,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2fc5b4e-92e8-48c3-a457-a4412fc97c22">[EJH] Fresher - Embedded System Test Engineer (HIL)</a></td>
-<td>Tân Bình, Thành phố Hồ Chí Minh, Vietnam</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000161432219--ejh-fresher-embedded-system-test-engineer-hil-">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>MediaTek</strong></td>
 <td><a href="https://trueinterview.io/jobs/41a36c14-7ba6-4a67-9ed7-038a22e0ce08">Wireless Communication System Firmware Engineer</a></td>

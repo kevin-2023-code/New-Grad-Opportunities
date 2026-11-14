@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**653 open roles.** 510 in the United States & Canada · 143 elsewhere in the world.
+**649 open roles.** 507 in the United States & Canada · 142 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Trace3</strong></td>
+<td><a href="https://trueinterview.io/jobs/07ebd62e-144e-4efc-9a9d-9ec40e3b7dec">System Integration Engineer - C2BMC</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/trace3/jobs/8386882">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>GE Vernova</strong></td>
 <td><a href="https://trueinterview.io/jobs/0889165e-6f08-4001-9ba0-74b4a3a874b9">GE Vernova OT Platform/Cyber Engineer 2</a></td>
@@ -83,10 +90,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>CircuitHire</strong></td>
-<td><a href="https://trueinterview.io/jobs/d36adedb-5c95-4be1-8589-41d72e30ff84">RF Hardware Engineer</a></td>
-<td>Torrance, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483112790/">Apply</a></td>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/33bed2cc-a49f-4f7d-a6f4-682d163de58c">Spindle Polishing Technician CWW Back End Nights, 6:00 PM – 6:00 AM (Wednesday, Thursday, Friday, and every other Saturday)</a></td>
+<td>Wilton Center, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464919706/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -97,38 +104,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>GE Vernova</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca74b48c-44d8-4443-88d2-e9d58d7ad6ff">Electronics Hardware Engineer</a></td>
-<td>Niskayuna, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4437800959/">Apply</a></td>
+<td><strong>Acuity</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9fa7933-9a5c-41e5-9f40-aa564020a109">Specialist Firmware Engineering BUILD Program (July)</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464876101/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ca80a0b-9b3d-4a8e-8b04-6e69064fee36">Mechanical Engineer, Mobile Robotics</a></td>
-<td>North Reading, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455781866/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Round-Peg Solutions (RPS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/53beda54-f324-475c-a9d5-85d614849f98">Hardware Development Engineer</a></td>
-<td>Los Angeles Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490597988/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX Super Intelligence</strong></td>
-<td><a href="https://trueinterview.io/jobs/4605ea23-312b-4c0c-b272-abe933efb3dc">Mechanical Engineer, Data Center Infrastructure - Memphis</a></td>
-<td>Memphis, TN<br/>Southhaven, MS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482737848/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d11c0967-5d1a-4668-af37-6cb6b6eaa27a">Reliability Engineer, Data Center Infrastructure - Memphis</a></td>
-<td>Memphis, TN<br/>Southaven, MS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482736914/">Apply</a></td>
+<td><strong>Precision Castparts</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a8c69fe-0181-4630-98ca-eff39e91230a">NC Programmer</a></td>
+<td>Mason, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473971978/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -146,10 +132,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>OPmobility</strong></td>
-<td><a href="https://trueinterview.io/jobs/948ec946-0569-4a8c-86b1-cc9861357884">INDUSTRIAL ENGINEER - BATTERY</a></td>
-<td>Elkhart, IN</td>
-<td align="center"><a href="https://careers.opmobility.com/job/Elkhart-Indiana-INDUSTRIAL-ENGINEER-BATTERY-CA-46514/1437637233/">Apply</a></td>
+<td><strong>Cummins</strong></td>
+<td><a href="https://trueinterview.io/jobs/941c4a1e-de12-4843-8588-f2cb0a3af547">Systems Engineer</a></td>
+<td>Seymour, IN</td>
+<td align="center"><a href="https://cummins.jobs/F35FC65431D34FF2A2BAF195659069BE/job/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -1095,6 +1081,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/702191cc-9b50-4334-b242-d39db2109a9a">Electrical Engineering Graduate | Freeport, ME</a></td>
 <td>Freeport, ME</td>
 <td align="center"><a href="https://wd1.myworkdaysite.com/en-US/recruiting/imeg/Imeg_Careers/job/Freeport-ME/Electrical-Engineering-Graduate---Freeport--ME_R-16979">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>JAC Products</strong></td>
+<td><a href="https://trueinterview.io/jobs/63b4584d-45de-42a1-9a92-76550af20419">Quality Engineer</a></td>
+<td>Napoleon, OH</td>
+<td align="center"><a href="https://app.jobvite.com/CompanyJobs/Job.aspx?j=o5m4AfwP&amp;s=Indeed">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f804e268-a6b5-4a66-b1ac-8cceaa95c766">Master Thesis: Requirements to Verified RTL Releases: A Multi-Agent Traceability Framework for ASIC</a></td>
 <td>Lund, Skåne County, Sweden</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486081084/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AKS Engineering &amp; Forestry</strong></td>
+<td><a href="https://trueinterview.io/jobs/edbd8c54-8480-4b65-ae9a-5b285890ca53">Civil Engineer-In-Training (EIT) - Data Centers</a></td>
+<td>Tualatin, OR</td>
+<td align="center"><a href="https://grnh.se/tfwsmyd69us">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

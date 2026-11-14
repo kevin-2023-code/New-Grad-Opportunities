@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**11 open roles.**
+**10 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -85,13 +85,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f6413365-81ee-40b8-bec9-79d53cbb3b96">Instructor, AI Machine Learning and AI Robotics with Python (Vancouver)</a></td>
 <td>Calgary, Canada<br/>Toronto, ON<br/>Toronto, Canada<br/>+1 more</td>
 <td align="center"><a href="https://circuitstream.humi.ca/job-board/ontario+summer+camp+staff/51961">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>EXP</strong></td>
-<td><a href="https://trueinterview.io/jobs/4e84f067-8c79-41b7-bb24-a6c94528e505">Intermediate Civil Engineering Technologist / Technician</a></td>
-<td>Calgary, AB, Canada<br/>Edmonton, AB, Canada</td>
-<td align="center"><a href="https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113439">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

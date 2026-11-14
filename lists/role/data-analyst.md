@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**381 open roles.** 271 in the United States & Canada · 110 elsewhere in the world.
+**368 open roles.** 267 in the United States & Canada · 101 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -32,38 +32,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/820b912c-2732-4e9b-93f2-b0acae499ab2">Data Analyst, Global Tax Services, Global Tax Services - Data Ops</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455993058/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>The Health Plan (THP)</strong></td>
-<td><a href="https://trueinterview.io/jobs/10c3a297-1667-45b7-96d3-9ac986d3631a">Pharmacy Data Analyst</a></td>
-<td>Wheeling, WV</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474559067/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Nextech Hypergroup Solution</strong></td>
-<td><a href="https://trueinterview.io/jobs/18279e03-2931-45dc-bdbc-831fdb84398c">Data Engineering Analyst</a></td>
-<td>Milwaukee, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488922422/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>LandOffer.ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/66c68ff4-e407-415e-a04e-58812b822813">Data Analyst</a></td>
 <td>California, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489547716/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Fact Finders Pro</strong></td>
-<td><a href="https://trueinterview.io/jobs/d2860104-b922-4b37-87c4-e44d44e81ffe">Data Science Analyst (Contractor Role – PIU Based Compensation - No Salary)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489547249/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -1931,69 +1903,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a1ed6900-5ed1-40eb-8a83-2cd1f5bb21fc">Trainee Data Analyst - Elevation Programme</a></td>
 <td>Shirebrook, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/FrasersGroup/744000161518641-trainee-data-analyst-elevation-programme">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Delivery Hero</strong></td>
-<td><a href="https://trueinterview.io/jobs/65dca491-8800-490e-afd3-dd5494a42e6d">Data Analyst - DH pay</a></td>
-<td>Iraklio, Greece</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/DeliveryHero/744000161505829-data-analyst-dh-pay">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>L&amp;G</strong></td>
-<td><a href="https://trueinterview.io/jobs/e225692c-7817-4729-b322-ebc8a50a83d6">Data Analyst</a></td>
-<td>Brighton and Hove, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/LegalAndGeneral/744000161505144-data-analyst">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Eurofins</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f21ba56-b983-4911-93a4-6339e6a588d7">Compensation Data Analyst</a></td>
-<td>Katowice, Silesian Voivodeship, Poland</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Eurofins/744000161476529-compensation-data-analyst">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Scalian</strong></td>
-<td><a href="https://trueinterview.io/jobs/96565bbd-813a-49fe-ba45-49e7621c4d52">HR Data Analyst Corporate / People Analytics (F/H)</a></td>
-<td>Neuilly-sur-Seine, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Scalian/744000161459459-hr-data-analyst-corporate-people-analytics-f-h-">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rakuten</strong></td>
-<td><a href="https://trueinterview.io/jobs/5325ebaf-9e50-4ad4-ae33-e1caca1e9840">Data Analyst - CMO Office, Marketing Division</a></td>
-<td>Tokyo, Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474569687/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9dd51520-321c-4285-b244-4e12b48a7baf">Data Analyst - Marketing Planning Department, Planning and Management Section, Planning Management Group, Marketing Division</a></td>
-<td>Tokyo, Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474566858/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Stäubli</strong></td>
-<td><a href="https://trueinterview.io/jobs/e770b9bf-4112-4cb2-b855-96debcb2abc5">Data Analyst – Amélioration Continue (H/F) - stage</a></td>
-<td>Faverges-Seythenex, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/StaubliGroup/744000161446289-data-analyst-amelioration-continue-h-f-stage">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Syngenta</strong></td>
-<td><a href="https://trueinterview.io/jobs/1ca041e6-d15c-439f-aa0b-2aab139a1acd">Technical Trial Data Analyst</a></td>
-<td>Bergen Op Zoom, North Brabant, Netherlands</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SyngentaGroup/744000161439731-technical-trial-data-analyst">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Odawa Casino</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c70683e-f283-4666-bf9c-46e4996a8fc1">Marketing Data Analyst (Not Remote)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://app.jobvite.com/CompanyJobs/Job.aspx?j=oxb6Afw8&amp;s=Indeed">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**80 open roles.** 62 in the United States & Canada · 18 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**76 open roles.** 60 in the United States & Canada · 16 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,21 +18,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>C3 AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/f14c107a-6955-4036-bb91-67e7516c1ceb">Data Scientist (Federal)</a></td>
-<td>Tysons Corner, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4376230884/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Cursor</strong></td>
-<td><a href="https://trueinterview.io/jobs/b54874e1-b9a2-443f-9800-5b5839e47a7b">Model Engineer, RL Data</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490712259/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/60421956-fd72-4c50-8b54-600b10576de1">Software Engineer, New Grad 2027</a></td>
 <td>San Francisco, CA<br/>New York, NY<br/>Palo Alto, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6">Apply</a></td>
@@ -463,20 +449,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Physicsx</strong></td>
-<td><a href="https://trueinterview.io/jobs/263f369b-7367-4e26-bf24-ae5be2b04eee">AI Engineer: Evals</a></td>
-<td>London</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/physicsx/jobs/5035958101">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ElevenLabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/95bb094b-884c-447a-a92e-c7a513aabf9b">Full-Stack Engineer (Frontend Leaning) - ElevenAI</a></td>
-<td>Dublin, County Dublin, Ireland<br/>Warsaw<br/>Zurich<br/>+10 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ElevenLabs/3809888d-a838-420a-8474-d217e48cef88">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Exa</strong></td>
 <td><a href="https://trueinterview.io/jobs/2cdb0ced-1a0d-428f-8aba-4395a2f0c228">Support Engineer, PAYGO</a> 🌐</td>

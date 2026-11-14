@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**185 open roles.** 90 in the United States & Canada · 95 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**183 open roles.** 90 in the United States & Canada · 93 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,17 +25,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Trace3</strong></td>
+<td><a href="https://trueinterview.io/jobs/07ebd62e-144e-4efc-9a9d-9ec40e3b7dec">System Integration Engineer - C2BMC</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/trace3/jobs/8386882">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Peraton</strong></td>
 <td><a href="https://trueinterview.io/jobs/43e890f2-88b8-4636-9642-75445bab9ca0">Full Stack Engineer</a></td>
 <td>Ohio, United States</td>
 <td align="center"><a href="https://www.careers.peraton.com/jobs/full-stack-engineer-home-ohio-173596-jobs--information-technology--">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>PingWind</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a7ea8d8-3396-4dd5-a5a8-33a5a47f5bdb">Data Scientist I with Security Clearance</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489581213/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -664,20 +664,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/1803c2e4-5329-4438-8838-1781cc839aa7">Software Engineer - Linux, KVM &amp; OpenShift Virtualization (w/m/x)</a></td>
 <td>Ehningen, Baden-Württemberg, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488958147/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MSX International</strong></td>
-<td><a href="https://trueinterview.io/jobs/d19e65d5-3996-47bb-ae61-fc359089e47d">Technical Support &amp; Capability Development Specialist.</a></td>
-<td>Budapest, Hungary</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/MSXInternational/3743990016840856-technical-support-capability-development-specialist-">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sopra Steria</strong></td>
-<td><a href="https://trueinterview.io/jobs/75a064be-ccf0-4dfb-9b76-b1313bed7f91">Consultor/a Migracion Manufacturing Engineering</a></td>
-<td>Madrid, Comunidad de Madrid, Spain</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000161471641-consultor-a-migracion-manufacturing-engineering">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

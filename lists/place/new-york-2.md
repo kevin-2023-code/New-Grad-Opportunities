@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**417 open roles.**
+**413 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,34 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>NJF Global Holdings Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/14876069-2f94-472c-9604-cc1e86b422be">Quantitative Developer – Applied AI Research &amp; C++ Engineering</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486160231/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Imagen Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/17fdf49f-0c2a-4e5e-bec4-b39942a77ad5">Software Engineer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450290161/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Acquire Me</strong></td>
-<td><a href="https://trueinterview.io/jobs/332cc7c1-24f6-42b0-b82a-b37c4aad3e0b">Python Developer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477081296/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>DRW</strong></td>
-<td><a href="https://trueinterview.io/jobs/35cee2db-e813-407d-ab2f-7f50a12c019b">Quantitative Developer</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7985591">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Fanatics</strong></td>
 <td><a href="https://trueinterview.io/jobs/875805b8-b8bf-4362-bb89-f40b3ff3c187">Software Engineer, Android</a></td>

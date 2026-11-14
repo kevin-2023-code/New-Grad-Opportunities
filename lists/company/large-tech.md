@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**105 open roles.** 76 in the United States & Canada · 29 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**104 open roles.** 76 in the United States & Canada · 28 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -561,13 +561,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Wise</strong></td>
-<td><a href="https://trueinterview.io/jobs/50d7e1e2-3aad-41bb-9238-9738cf345f80">Software Engineer - Contact Automation - AI</a></td>
-<td>Budapest, Hungary</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000161442030-software-engineer-contact-automation-ai">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/40c37563-ec04-4013-b057-5744d43c7294">Customer Engineer AI/ Start Up's</a></td>

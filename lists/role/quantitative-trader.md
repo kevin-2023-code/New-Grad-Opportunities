@@ -2,7 +2,7 @@
 
 # Quantitative Trader
 
-**24 open roles.** 13 in the United States & Canada · 11 elsewhere in the world.
+**23 open roles.** 12 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Deutsche Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/b0a96b67-81c3-442d-a148-e9535518172b">FX Derivatives Trader - Analyst</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/New-York-1-Columbus-Circle/FX-Derivatives-Trader---Analyst_R0438402-1">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>All Options</strong></td>
 <td><a href="https://trueinterview.io/jobs/18f13b1f-7105-4f43-9a45-01c016d02383">Graduate Quantitative Trader</a></td>

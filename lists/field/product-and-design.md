@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**325 open roles.** 192 in the United States & Canada · 133 elsewhere in the world.
+**312 open roles.** 189 in the United States & Canada · 123 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -32,20 +32,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Oliver James</strong></td>
-<td><a href="https://trueinterview.io/jobs/5948fade-9bb8-47ff-9ac4-83a9c2ec6b1f">Product Owner - Fully Remote</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489554832/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Vermeer Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/149ccffc-5fa2-46ae-add8-3894270ebd06">Digital Product Owner</a></td>
-<td>Pella, IA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484524609/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/704faa7f-b488-4ed1-b2f6-cfc99f1aee3c">GEO Content Product Manager Graduate (TikTok Local Services) - 2027 Start</a></td>
 <td>San Jose, CA</td>
@@ -64,13 +50,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/59229cb9-8940-4dc3-a6f7-df1ac3671a93">Hardware UX Designer Graduate (PICO-Edge AI &amp; Spatial Computing) - 2027 Start</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474560129/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Carlsmed</strong></td>
-<td><a href="https://trueinterview.io/jobs/3769f190-ac5c-4d66-b418-203f590135cb">Product Management - Level Based on Experience</a></td>
-<td>Carlsbad, CA</td>
-<td align="center"><a href="https://carlsmed.bamboohr.com/careers/262?postedDate=2026-11-13">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -1374,73 +1353,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Groupe Covéa</strong></td>
-<td><a href="https://trueinterview.io/jobs/d17387fd-9bf0-4c25-b2fc-b182f25d21f5">Responsable MOA Santé-Prévoyance - Product Owner F/H</a></td>
-<td>Chauray, Nouvelle-Aquitaine, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/COVEA1/744000161504939-responsable-moa-sante-prevoyance-product-owner-f-h">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NEXTON</strong></td>
-<td><a href="https://trueinterview.io/jobs/35a4aff1-2cb8-45e1-8545-a0d3f15eb044">Product Owner Evaluation GenAI H/F</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000161501759-product-owner-evaluation-genai-h-f">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0eda33b7-2b2a-4685-9746-c57ba3144fef">Product Owner IA - Agents Conversationnels H/F</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000161501098-product-owner-ia-agents-conversationnels-h-f">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/26b06afa-7aa1-4ef2-8492-8fdf6bf9daf6">Product Owner E-commerce App / Web H/F</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000161497520-product-owner-e-commerce-app-web-h-f">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4396d495-7203-4707-a909-3f867a672e18">Product Designer Application Interne H/F</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/NEXTON/744000161490178-product-designer-application-interne-h-f">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>AECOM</strong></td>
-<td><a href="https://trueinterview.io/jobs/df57c101-a1fd-40ec-bf3c-9e8d91b2f2f4">Graduate Lighting Designer – Environmental &amp; Planning (London)</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000161478619-graduate-lighting-designer-environmental-planning-london-">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e4e32048-fc00-4111-858a-6c3ccdd10239">Graduate Lighting Designer – Exterior Lighting &amp; Electrical (Leeds/Chesterfield)</a></td>
-<td>Leeds, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000161474589-graduate-lighting-designer-exterior-lighting-electrical-leeds-chesterfield-">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6c938159-beeb-4ae4-9033-e17b54636973">Graduate Lighting Designer (Leeds)</a></td>
-<td>Leeds, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000161469159-graduate-lighting-designer-leeds-">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rakuten</strong></td>
-<td><a href="https://trueinterview.io/jobs/34f7012a-515a-4362-bdc1-8bc734e39335">マーケティングディビジョン ブランドマーケティング戦略部 UX戦略課：UXリサーチャー（楽天モバイル事業）</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472853588/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6246b993-1c99-4fcb-b263-fd161fa05a5b">マーケティングディビジョン 戦略ビジネスマーケティング統括部 UI/UXディレクター（プロダクトUXデザイン／楽天モバイル）</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472855588/">Apply</a></td>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/059e8380-a0ff-47d5-9991-c1b656e31f77">Regional Supply Chain Product Manager, Regional Logistics (2027 Graduate)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489569770/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -1602,13 +1518,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f39eac03-1886-4f4b-be32-21b8da4c6db4">Product Owner - Services Publics - Nantes</a></td>
 <td>NANTES, France</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000160171468-product-owner-services-publics-nantes">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Swiggy</strong></td>
-<td><a href="https://trueinterview.io/jobs/fd5bb549-9791-48a0-b62c-0fd18bf6e369">Executive - Graphic Designer</a></td>
-<td>Mumbai Metropolitan Region</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486211913/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>

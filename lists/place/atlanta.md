@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**118 open roles.**
+**115 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -32,38 +32,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/79c8e168-eb5f-471d-906c-fe1557e9ccce">Commissioning Engineer, AWS Data Center Commissioning</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455799881/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Acuity</strong></td>
 <td><a href="https://trueinterview.io/jobs/c9fa7933-9a5c-41e5-9f40-aa564020a109">Specialist Firmware Engineering BUILD Program (July)</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4464876101/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Waystar</strong></td>
-<td><a href="https://trueinterview.io/jobs/1df1905d-733d-42d0-9b2f-fa5bd1675c2e">Data Scientist</a></td>
-<td>Atlanta, GA<br/>Lehi, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4369712079/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril</strong></td>
-<td><a href="https://trueinterview.io/jobs/7eb52aa3-a315-4767-a527-8272d7ebf046">Metrology Engineer</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://grnh.se/fdat21047us">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Georgia Tech</strong></td>
-<td><a href="https://trueinterview.io/jobs/774522a5-1f03-45c3-b43f-8fc603ff7f8b">Application Developer (Designer)</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=3000&amp;JobOpeningId=305761&amp;PostingSeq=1">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -72,6 +44,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479450558/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Georgia Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/89c51dae-a52b-4d4c-8f50-58d720adab50">Cybersecurity Analyst</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=3000&amp;JobOpeningId=305837&amp;PostingSeq=1">Apply</a></td>
+<td align="center">11 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>L&amp;T Technology Services Ltd.</strong></td>

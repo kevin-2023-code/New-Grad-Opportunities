@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**21 open roles.** 18 in the United States & Canada · 3 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**20 open roles.** 18 in the United States & Canada · 2 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -157,13 +157,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/d907db99-4425-417f-b3cc-c3e8c22e22e3">Packaging Equipment Engineer</a></td>
-<td>Campoverde di Aprilia, LT, Italy</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016835786-packaging-equipment-engineer">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9ae126cf-e624-4894-b433-b32b99c493e5">PMO Support Engineer</a></td>
 <td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016582216-pmo-support-engineer">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🇮🇪 Dublin & Ireland
 
-**27 open roles.**
+**25 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,13 +19,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>ElevenLabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/95bb094b-884c-447a-a92e-c7a513aabf9b">Full-Stack Engineer (Frontend Leaning) - ElevenAI</a></td>
-<td>Dublin, County Dublin, Ireland<br/>Warsaw<br/>Zurich<br/>+10 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ElevenLabs/3809888d-a838-420a-8474-d217e48cef88">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/bd8387e3-a777-4226-923e-b07f978886ce">Software Development Engineer, AWS Direct Connect</a></td>
@@ -200,13 +193,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Cork, Ireland</td>
 <td align="center"><a href="https://api.occupop.com/shared/job/networks-and-telecoms-engineer-grade-vi-644e3/indeed">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rue Gilt Groupe</strong></td>
-<td><a href="https://trueinterview.io/jobs/eee85309-40fb-4e2a-aa24-748303e3e46c">Retail Systems SDET (Software Development Engineer in Test)</a></td>
-<td>Dublin, Ireland</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/ruelala/jobs/8344735">Apply</a></td>
-<td align="center">1 Nov 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**29 open roles.** 15 in the United States & Canada · 14 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
+**28 open roles.** 14 in the United States & Canada · 14 elsewhere in the world. Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -79,13 +79,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sudbury, ON, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97729">Apply</a></td>
 <td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/39fa42a4-3d1a-40d2-b71c-4a74a1e7c982">Data Center Building Automation and Controls Engineer, Assistant Consultant</a></td>
-<td>Milwaukee, WI</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98822">Apply</a></td>
-<td align="center">4 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>

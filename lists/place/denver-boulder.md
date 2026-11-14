@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**136 open roles.**
+**138 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Trace3</strong></td>
+<td><a href="https://trueinterview.io/jobs/07ebd62e-144e-4efc-9a9d-9ec40e3b7dec">System Integration Engineer - C2BMC</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/trace3/jobs/8386882">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/4418e9e1-a804-47cc-9aae-691a3b31f58d">Software Engineer, Tracking</a></td>
 <td>Fort Collins, CO</td>
@@ -25,10 +32,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Strive Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/9852784e-75da-495a-a674-28f3cebb35df">IT Support Specialist</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://grnh.se/sid6wzo46us">Apply</a></td>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/189b35d3-415e-4f1a-bfb2-99e2551a14f6">2027 Associate Software Engineer - Pathways - Colorado Springs</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://jobs.northropgrumman.com/careers/job/1340075272955?code=JB-17946&amp;domain=ngc.com">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9cbaea1b-421b-4dc1-9e9f-ea0cbb1d0970">2027 Associate Software Engineer - Pathways - Boulder CO</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490706604/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

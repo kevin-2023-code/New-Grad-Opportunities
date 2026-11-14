@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**421 open roles.**
+**410 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,83 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Elveo</strong></td>
-<td><a href="https://trueinterview.io/jobs/fe89e747-71bd-40da-8b20-7141eff1f85e">Flight Software Engineer</a></td>
-<td>Chantilly, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469816485/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bespoke Technologies, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/d60fc31e-6c63-42c8-9da4-1d9fd87e9737">Oracle Database Developer</a></td>
-<td>Reston, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467365310/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1aa78bb8-a80d-42b0-aa05-be1ef4c6e26f">Software Development Engineer</a></td>
-<td>Herndon, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467378015/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8800ca3c-aec7-40a4-8c5b-63afe907a706">Data Scientist</a></td>
-<td>McLean, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467369265/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f2052cf1-7bcb-4cfd-883f-6d842d9864c2">UI/UX Developer</a></td>
-<td>Herndon, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467379008/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Two Six Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff64fb40-4c6c-4839-96c5-de6af11308f5">UI/UX Developer</a></td>
-<td>Herndon, VA<br/>Herndon, Virginia<br/>Aurora, Colorado</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/5838177004">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Booz Allen Hamilton</strong></td>
-<td><a href="https://trueinterview.io/jobs/26e6e1be-1678-473e-9188-1b0d5e12363a">Axonius Platform Systems Engineer</a></td>
-<td>Washington, DC<br/>Reston, VA<br/>Riverdale, MD<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4413299012/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Forge Group, LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/1ccc2576-f759-4b17-a742-c99783b22a9b">Database Administrator</a> 🌐</td>
-<td>Remote — United States<br/>Reston, VA</td>
-<td align="center"><a href="https://forgegroupllc.isolvedhire.com/jobs/1896536-102300.html">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Pantheon Data</strong></td>
-<td><a href="https://trueinterview.io/jobs/939aa469-b068-4807-9cd4-b9bd1d5e0dd3">Data Engineer (AI-ML Data Systems)</a> 🌐</td>
-<td>Remote — United States<br/>Reston, VA</td>
-<td align="center"><a href="https://pantheondata.isolvedhire.com/jobs/1896683-6763.html">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/57f55fa4-5a09-429d-ac6f-3eeca5a10a9c">Product Lifecycle Engineer, Low Voltage, Electrical Products and Services, Data Center Engineering</a></td>
-<td>Herndon, VA</td>
-<td align="center"><a href="https://www.amazon.jobs/jobs/10602316/product-lifecycle-engineer-low-voltage-electrical-products-and-services-data-center-engineering?cmpid=DA_INAD200785B">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>American Rheinmetall Munitions</strong></td>
-<td><a href="https://trueinterview.io/jobs/46a41b68-f6b5-4434-ba3f-084b6fc3775a">Systems Engineer</a></td>
-<td>Vienna, VA</td>
-<td align="center"><a href="https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c66c5073a7016cc05b9b6d7672&amp;gnk=job&amp;gni=8a7883a8a184746e01a19dedf1885d3d&amp;gns=Indeed+Free">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>CACI International</strong></td>
 <td><a href="https://trueinterview.io/jobs/721d2085-b924-43eb-9441-b50fb9cc9e5e">Network Operations Center- NOC Tier 1</a></td>

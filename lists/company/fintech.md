@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**22 open roles.** 12 in the United States & Canada · 10 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**21 open roles.** 12 in the United States & Canada · 9 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -113,13 +113,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Wise</strong></td>
-<td><a href="https://trueinterview.io/jobs/50d7e1e2-3aad-41bb-9238-9738cf345f80">Software Engineer - Contact Automation - AI</a></td>
-<td>Budapest, Hungary</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Wise/744000161442030-software-engineer-contact-automation-ai">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Stripe</strong></td>
 <td><a href="https://trueinterview.io/jobs/5222cb9d-f491-43d9-b11e-8b35291e2dc1">Backend Engineer, Internationalisation</a></td>

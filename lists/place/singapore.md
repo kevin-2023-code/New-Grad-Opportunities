@@ -72,10 +72,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Sea</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c95cd96-48b1-4fe8-9bab-15ee21c551df">Product Engineer - Backend Focused</a></td>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/059e8380-a0ff-47d5-9991-c1b656e31f77">Regional Supply Chain Product Manager, Regional Logistics (2027 Graduate)</a></td>
 <td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474117336/">Apply</a></td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489569770/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

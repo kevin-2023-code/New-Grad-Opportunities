@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**179 open roles.** 154 in the United States & Canada · 25 elsewhere in the world.
+**166 open roles.** 143 in the United States & Canada · 23 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,62 +18,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a75dd7b-0793-4ee5-a270-7ac0ebf961ca">Applied Scientist, Denied Party Screening (DPS), AWS Compliance &amp; Security Assurance</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482795429/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Jobverse.io</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd49cc86-c19f-46c5-bcf8-e3c54e0822bb">AI Research Scientist, Learning &amp; Evaluation</a></td>
-<td>Beverly Hills, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490734080/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/de76d2c6-5796-457c-a61e-60644ed7f396">Research Engineer, PAR Safety - Meta Superintelligence Labs</a></td>
-<td>Menlo Park, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472604150/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/370ee801-a39f-4cdd-b4c9-1d61e084efb8">Research Scientist, AI Safety and Alignment, DeepMind</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/112836257989436102-research-scientist-ai-safety-and-alignment-deepmind">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Google DeepMind</strong></td>
-<td><a href="https://trueinterview.io/jobs/858739d6-92f4-45a5-ab64-f02b4a0e474b">Research Scientist, GenAI, DeepMind</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481683434/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/91138b84-7078-4b7c-b3de-4a3dec7830a2">Applied Scientist, NA Operations</a></td>
-<td>Bellevue, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455786954/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>StudyFetch</strong></td>
-<td><a href="https://trueinterview.io/jobs/be782228-a76f-4b3d-bc26-3b4973e5dd6b">AI Research Scientist, Learning &amp; Evaluation</a></td>
-<td>Beverly Hills, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446019491/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Google DeepMind</strong></td>
-<td><a href="https://trueinterview.io/jobs/697b31e0-0f71-47aa-8966-31485ae98479">Research Scientist, AI Safety and Alignment, DeepMind</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489563283/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/77e842af-c68b-4b57-9235-b1123c9c1c69">Research Scientist - Model Capability Boundary Exploration and AI Data Flywheel System Development - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
 <td>Seattle, WA</td>
@@ -85,27 +29,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/555b8a76-a733-4824-bd26-e834d05f76d9">Research Scientist - LLM Training System as a Service - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474548610/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/226fff60-322c-4554-b8c6-c25594cc3a8b">Research Scientist - TikTok Search (Generative AI) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4402373654/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/27301f59-26f0-495f-90ec-dda85b57912c">Research Scientist, World Models Graduate (Intelligent Creation) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4404711426/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>University of North Carolina at Chapel Hill</strong></td>
-<td><a href="https://trueinterview.io/jobs/bfb86065-7607-4eea-a0fc-2e349be23487">Research Scientist</a></td>
-<td>Chapel Hill, NC</td>
-<td align="center"><a href="https://unc.peopleadmin.com/postings/328708">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -1107,20 +1030,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/10380c3d-829c-42cd-99ed-8a3ffb51df53">Applied Scientist (2026-27 Campus, International Technology Team), Shanghai</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4455785794/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Makipeople</strong></td>
-<td><a href="https://trueinterview.io/jobs/7664be7b-d886-4a64-9916-1b8aacdfa4d2">AI Research Scientist</a></td>
-<td>Paris<br/>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/maki/f2394cc5-71c4-43ae-8bec-36c6294cdb39">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/720504f3-d048-4512-b78e-b4fd985cf77c">Applied Scientist (2026-27 Campus, International Technology Team), Beijing</a></td>

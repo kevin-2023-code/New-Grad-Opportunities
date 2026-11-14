@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**25 open roles.**
+**23 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Waystar</strong></td>
-<td><a href="https://trueinterview.io/jobs/1df1905d-733d-42d0-9b2f-fa5bd1675c2e">Data Scientist</a></td>
-<td>Lehi, UT<br/>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4369712079/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Western Governors University</strong></td>
-<td><a href="https://trueinterview.io/jobs/856ad070-4a32-452d-804f-cfa8bc352aaa">Agentic Workflow Engineer</a></td>
-<td>Salt Lake City, UT</td>
-<td align="center"><a href="https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Agentic-Workflow-Engineer_JR-026616">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Utah Transit Authority</strong></td>
 <td><a href="https://trueinterview.io/jobs/ff949d7f-66c1-41e9-97b5-4b8785154bc8">Network Specialist</a></td>

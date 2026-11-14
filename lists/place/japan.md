@@ -2,7 +2,7 @@
 
 # 🇯🇵 Tokyo & Japan
 
-**42 open roles.** 1 in the United States & Canada · 41 elsewhere in the world.
+**38 open roles.** 1 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,38 +37,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Rakuten</strong></td>
-<td><a href="https://trueinterview.io/jobs/5325ebaf-9e50-4ad4-ae33-e1caca1e9840">Data Analyst - CMO Office, Marketing Division</a></td>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/694aae91-946f-4d14-ab66-772ee47047c7">Solutions Architect Graduate (BytePlus, Japan) - 2027 Start</a></td>
 <td>Tokyo, Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474569687/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9dd51520-321c-4285-b244-4e12b48a7baf">Data Analyst - Marketing Planning Department, Planning and Management Section, Planning Management Group, Marketing Division</a></td>
-<td>Tokyo, Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474566858/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9830d5da-dfbf-41d3-899f-2f2ab991f9c5">ビジネスサポート開発部：Platform Engineer for AI Native SDLC</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4463229799/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/34f7012a-515a-4362-bdc1-8bc734e39335">マーケティングディビジョン ブランドマーケティング戦略部 UX戦略課：UXリサーチャー（楽天モバイル事業）</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472853588/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6246b993-1c99-4fcb-b263-fd161fa05a5b">マーケティングディビジョン 戦略ビジネスマーケティング統括部 UI/UXディレクター（プロダクトUXデザイン／楽天モバイル）</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472855588/">Apply</a></td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4435849659/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

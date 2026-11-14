@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**140 open roles.**
+**137 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -46,24 +46,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>HARAMAIN SYSTEMS INC.</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec68fb71-658a-4179-91f5-a71418aa7353">.NET Core / Breeze Developer</a></td>
+<td><strong>HORIZON FOREST PRODUCTS</strong></td>
+<td><a href="https://trueinterview.io/jobs/5c93a87b-b65f-41de-b0d1-519cc6f0621b">IT Administrator Support</a></td>
 <td>Raleigh, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490578951/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Precision Walls</strong></td>
-<td><a href="https://trueinterview.io/jobs/1048e4c9-dce4-44ca-87df-d22b2dd17de5">Level 1 IT Support Specialist</a></td>
-<td>Cary, NC</td>
-<td align="center"><a href="https://apply.clearcompany.com/precision?jobId=411224e3-04c2-ff55-0c7d-f0b31d505cb5">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>University of North Carolina at Chapel Hill</strong></td>
-<td><a href="https://trueinterview.io/jobs/bfb86065-7607-4eea-a0fc-2e349be23487">Research Scientist</a></td>
-<td>Chapel Hill, NC</td>
-<td align="center"><a href="https://unc.peopleadmin.com/postings/328708">Apply</a></td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/baillielumberco/Horizon/jobs/2859">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -989,13 +975,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Charlotte, NC</td>
 <td align="center"><a href="https://nexstar.wd5.myworkdayjobs.com/en-US/nexstar/job/NC-Charlotte/Engineer--IT-Network_REQ-43564">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Randstad Digital Americas</strong></td>
-<td><a href="https://trueinterview.io/jobs/99fe9046-0bee-48bb-9514-86d643ff00e9">Programmer (Vulnerability Remediation and Coordination)</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483699719/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
 </tr>
 </tbody>
 </table>

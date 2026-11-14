@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**680 open roles.** 678 in the United States & Canada · 2 elsewhere in the world.
+**667 open roles.** 665 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,97 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/3141ba7d-567b-4f2e-bf8e-de858099664e">Camera Mechanical Design Engineer</a></td>
-<td>Cupertino, California, United States</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200693029">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/73870511-0b83-43a7-9ba2-9a6001f609cf">Module System Engineer</a></td>
-<td>Cupertino, California, United States</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200693286">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/bfa7d934-285c-49d9-a6a5-ce9c5e2500cd">Machine Learning Engineer, Ads Creative</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486509833/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/12756218-5506-4c06-aff0-1ac1f0756e8a">Software Engineer(Ads Delivery) ,Brand Ads</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486507845/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b27473e0-b6ac-464e-8344-79ad5b4a4e56">Machine Learning Engineer, Brand Ads</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486520568/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fc2ccb1a-2aa6-47e3-85be-260023270ce6">Machine Learning Engineer, Content Understanding</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486504914/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/efd4a47b-5a18-4905-ad98-16e45b20e145">Content Designer, Ads</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486504639/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/947695b0-cf25-477e-b61c-32811ea458a9">Full-stack Engineer, Data Platform - Experimentation &amp; Evaluation</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486501876/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/befa7d69-8e29-42c7-b2ed-04ffdba3371b">Acoustic Engineer – iPhone Integration</a></td>
-<td>Cupertino, California, United States</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200693424">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Finezi Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/10382b10-a7df-4a5a-a73a-05f730329ed5">Data Scientist</a></td>
-<td>Oakland, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485095476/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rubrik</strong></td>
-<td><a href="https://trueinterview.io/jobs/bdb61b87-ff18-46ae-96cb-3433270f14c6">Software Engineer - SaaS Data Protection</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.rubrik.com/company/careers/departments/job.8157246?gh_jid=8157246">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ThunderSoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/46208e37-f90d-446e-b468-b87eec418f36">Dotnet Developer</a></td>
-<td>Fremont, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486390574/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Commergence</strong></td>
-<td><a href="https://trueinterview.io/jobs/2cf3d38d-ba80-4024-9051-c09699ee8420">Typescript Developer with Python</a></td>
-<td>San Ramon, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486385451/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Everpure</strong></td>
 <td><a href="https://trueinterview.io/jobs/7555e2f7-4cab-4161-8c82-83716a3e0bc9">Data Scientist Engineer, Digital Experience</a></td>

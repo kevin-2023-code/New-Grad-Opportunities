@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**124 open roles.** 99 in the United States & Canada · 25 elsewhere in the world.
+**123 open roles.** 98 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e2a35ac1-47a3-499e-9de5-765c907f526d">Quantitative Researcher</a></td>
 <td>New York City Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490725715/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Deutsche Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/b0a96b67-81c3-442d-a148-e9535518172b">FX Derivatives Trader - Analyst</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/New-York-1-Columbus-Circle/FX-Derivatives-Trader---Analyst_R0438402-1">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

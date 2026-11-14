@@ -2,7 +2,7 @@
 
 # 🇮🇳 Bengaluru & India
 
-**94 open roles.**
+**93 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,13 +19,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Kandou AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/638b3bd3-f4e1-4c46-813b-140a34eeba88">EDA/CAD Engineer - India</a></td>
-<td>Hyderabad<br/>Bangalore</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/kandou-ai/351fa480-6e98-4788-b2e6-02577683dcc7">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/64c554ed-60bf-4e5c-b4ec-7a89448289d8">Business Intelligence Engineer, EU Prime and Marketing Analytics &amp; Science (PRIMAS)</a></td>

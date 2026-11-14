@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**119 open roles.** 118 in the United States & Canada · 1 elsewhere in the world.
+**118 open roles.** 117 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -155,13 +155,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/79121c55-c5a1-4e5a-9261-9959549758fe">Sales Engineer - CPQ AI</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478550669/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>UST</strong></td>
-<td><a href="https://trueinterview.io/jobs/69b85d10-b67d-49ca-8db5-6453e1b01336">AWS DevSecOps / CDK Engineer</a> 🌐</td>
-<td>Remote — United States<br/>Chicago, IL</td>
-<td align="center"><a href="https://usource.ripplehire.com/candidate/?token=cIdrZgi2cuHO5ctMcKOh&amp;lang=en">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>

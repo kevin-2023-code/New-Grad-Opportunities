@@ -97,7 +97,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/924a96d1-158d-4386-982c-9d376dd3925b">PHY Systems Engineer</a></td>
-<td>Sunnyvale, CA</td>
+<td>Sunnyvale, CA<br/>San Diego, CA</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200694578-3956?board_id=JB001">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>

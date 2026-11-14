@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**36 open roles.** 24 in the United States & Canada · 12 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**35 open roles.** 24 in the United States & Canada · 11 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -197,13 +197,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Voodoo</strong></td>
-<td><a href="https://trueinterview.io/jobs/a66bbf36-4d1e-4140-bd7c-8a8e5b9f7611">Game Developer - Puzzle Games - China</a></td>
-<td>Beijing</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/voodoo/d2920293-d78c-41a1-8f0f-b72f708116e7">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Cohere</strong></td>
 <td><a href="https://trueinterview.io/jobs/02988dc1-37ab-4049-8938-4d8faedcc9ac">Software Engineer, ML Ops</a></td>

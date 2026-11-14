@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**142 open roles.** 103 in the United States & Canada · 39 elsewhere in the world.
+**139 open roles.** 100 in the United States & Canada · 39 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,27 +22,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d730b1bc-0c99-4505-b180-c284ef5dcd3a">Entry Level Control Hardware Development Engineer</a></td>
 <td>Schaumburg, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482814308/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CircuitHire</strong></td>
-<td><a href="https://trueinterview.io/jobs/d36adedb-5c95-4be1-8589-41d72e30ff84">RF Hardware Engineer</a></td>
-<td>Torrance, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483112790/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>GE Vernova</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca74b48c-44d8-4443-88d2-e9d58d7ad6ff">Electronics Hardware Engineer</a></td>
-<td>Niskayuna, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4437800959/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Round-Peg Solutions (RPS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/53beda54-f324-475c-a9d5-85d614849f98">Hardware Development Engineer</a></td>
-<td>Los Angeles Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490597988/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>

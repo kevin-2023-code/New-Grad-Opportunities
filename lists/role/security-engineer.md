@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**278 open roles.** 219 in the United States & Canada · 59 elsewhere in the world.
+**275 open roles.** 217 in the United States & Canada · 58 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -50,27 +50,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/104c3cce-8a5c-443c-8c7c-fc3dcfc86d36">Cybersecurity and Privacy Associate - Summer 2027</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459553814/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tenth Revolution Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/ebbafe08-4e01-4995-ae7d-430e37d3c1c8">Cybersecurity Engineer I</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488949033/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>LiveKit</strong></td>
-<td><a href="https://trueinterview.io/jobs/97278c0a-d1a9-4045-a833-c4110aad1b8d">Security Engineer, Infrastructure Security</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481624502/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>US Joint Activities</strong></td>
-<td><a href="https://trueinterview.io/jobs/69f5d4a7-28c9-4a63-9631-f33ee1e7d253">IT Cybersecurity Specialist (OS)</a></td>
-<td>Schofield Barracks, HI</td>
-<td align="center"><a href="https://www.usajobs.gov/job/892710300">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -134,6 +113,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/59ccd1f5-6a4b-4134-a39a-af29f938e2a7">Security Engineer (Application Security)</a></td>
 <td>Campbell, CA</td>
 <td align="center"><a href="https://jobs.lever.co/acceldata/c8159071-1e61-4781-8208-2d378baea04f">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Georgia Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/89c51dae-a52b-4d4c-8f50-58d720adab50">Cybersecurity Analyst</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=3000&amp;JobOpeningId=305837&amp;PostingSeq=1">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -1562,13 +1548,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/193db057-8282-4bfc-a136-45c42f06943c">Network Security Engineer</a></td>
-<td>Timișoara, Județul Timiș, Romania</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000161464699-network-security-engineer">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/1ce8e561-3870-456a-946a-f77dd7759431">AI Security Analysis Engineer Graduate (TikTok Shop-Security) - 2027 Start</a></td>

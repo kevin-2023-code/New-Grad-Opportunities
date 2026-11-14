@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**81 open roles.**
+**79 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,27 +25,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Carlsmed</strong></td>
-<td><a href="https://trueinterview.io/jobs/3769f190-ac5c-4d66-b418-203f590135cb">Product Management - Level Based on Experience</a></td>
-<td>Carlsbad, CA</td>
-<td align="center"><a href="https://carlsmed.bamboohr.com/careers/262?postedDate=2026-11-13">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Robotics Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f3622da-ef8c-4fb2-bef8-84b670d5837b">React Native Mobile Developer</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://roboticstechno.com/view_job?mode=apply&amp;id=38934&amp;hr_id=3859">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Viasat</strong></td>
-<td><a href="https://trueinterview.io/jobs/94112fe7-1127-473a-bdfc-b95d8f99d2ec">Full-Stack Software Engineer- Viasat Government</a></td>
-<td>Carlsbad, CA</td>
-<td align="center"><a href="https://careers.viasat.com/jobs/7825?lang=en-us">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Military Spouse Jobs</strong></td>
 <td><a href="https://trueinterview.io/jobs/82b438d4-f611-47b5-a42d-5d07fee402b9">Java Software Engineer - San Diego, CA</a></td>
 <td>San Diego, California</td>
@@ -65,6 +44,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Diego, CA</td>
 <td align="center"><a href="https://careers.sdsu.edu/en-us/job/563979/library-systems-administrator-systems-administrator-ii">Apply</a></td>
 <td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/924a96d1-158d-4386-982c-9d376dd3925b">PHY Systems Engineer</a></td>
+<td>San Diego, CA<br/>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200694578-3956?board_id=JB001">Apply</a></td>
+<td align="center">11 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>BIOVIA</strong></td>

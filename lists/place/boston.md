@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**128 open roles.**
+**127 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA<br/>Atlanta, GA<br/>New York, NY<br/>+11 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4491032010/">Apply</a></td>
 <td align="center">14 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bios Life</strong></td>
-<td><a href="https://trueinterview.io/jobs/b84ea292-b21a-4f39-b840-46398f8e3154">AI Scientist</a></td>
-<td>Cambridge, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482749827/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Collins Aerospace</strong></td>
